@@ -26,7 +26,7 @@ REPO_DIR = os.path.dirname(SCRIPT_DIR)
 RAW_DIR = os.path.join(REPO_DIR, "ocr", "raw")
 ENR_DIR = os.path.join(REPO_DIR, "ocr", "enriched")
 
-API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
+API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent"
 
 
 def get_api_key():

@@ -21,8 +21,13 @@ from pathlib import Path
 # ---------------------------------------------------------------------------
 # Config
 # ---------------------------------------------------------------------------
-# Source pages
-PAGES_DIR_SRC = "C:/Working Folder/Research/pdf/131812-pages"
+# Source pages — auto-detect WSL vs native Windows
+_PAGES_DIR_CANDIDATES = [
+    "C:/Working Folder/Research/pdf/131812-pages",                          # Windows native
+    "/mnt/c/Working Folder/Research/pdf/131812-pages",                     # WSL
+    os.path.expanduser("~/../../mnt/c/Working Folder/Research/pdf/131812-pages"),  # fallback
+]
+PAGES_DIR_SRC = next((p for p in _PAGES_DIR_CANDIDATES if os.path.isdir(p)), _PAGES_DIR_CANDIDATES[0])
 
 # Output directory
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -30,7 +35,7 @@ REPO_DIR = os.path.dirname(SCRIPT_DIR)
 RAW_DIR = os.path.join(REPO_DIR, "ocr", "raw")
 
 # Gemini endpoint
-API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
+API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent"
 
 
 def get_api_key():
