@@ -9,9 +9,23 @@ cd "$REPO_DIR"
 
 SCRIPT_DIR="$REPO_DIR/scripts"
 STATE_DIR="$REPO_DIR/state"
-LOG_FILE="$STATE_DIR/cron.log"
 BATCH_LOG="$STATE_DIR/batch_log.json"
 BATCH_SIZE=10
+LOCK_FILE="$STATE_DIR/run_batch.lock"
+
+# Prevent concurrent runs
+if [ -f "$LOCK_FILE" ]; then
+    LOCK_PID=$(cat "$LOCK_FILE" 2>/dev/null)
+    if kill -0 "$LOCK_PID" 2>/dev/null; then
+        echo "[SKIP] Previous batch still running (PID $LOCK_PID) — skipping this tick"
+        exit 0
+    else
+        echo "[WARN] Stale lock file found — removing"
+        rm -f "$LOCK_FILE"
+    fi
+fi
+echo $$ > "$LOCK_FILE"
+trap "rm -f '$LOCK_FILE'" EXIT
 
 echo ""
 echo "=============================================="
