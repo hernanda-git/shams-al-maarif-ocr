@@ -1,0 +1,16 @@
+{
+  "document": "Shams al-Ma'arif al-Kubra (شمس المعارف الكبرى)",
+  "subtitle": "wa Lata'if al-'Awarif (ولطائف العوارف)",
+  "author": "Ahmad ibn Ali al-Buni (أحمد بن علي البوني)",
+  "died": "1225 CE / 622 AH",
+  "edition": "Cairo printing, collated against Egypt & India editions + al-Hajj Mirza Husayn manuscript",
+  "editor": "Shaykh 'Abd al-Rahman al-Jaziri (الشيخ عبد الرحمن الجزيرى)",
+  "language": "Arabic (Classical)",
+  "total_pages": 604,
+  "source_pdf": "C:\\Working Folder\\Research\\pdf\\131812.pdf",
+  "pages_dir": "C:\\Working Folder\\Research\\pdf\\131812-pages",
+  "ocr_engine": "Gemini 2.0 Flash (google/gemini-2.0-flash-001)",
+  "pipeline_version": "1.0.0",
+  "created": "2026-06-11T22:00:00Z",
+  "repository": "https://github.com/USER/shams-al-maarif-ocr"
+}

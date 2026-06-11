@@ -1,0 +1,33 @@
+# Secrets
+.env
+*.key
+secrets/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Temp
+*.tmp
+*.bak
+
+# IDE
+.idea/
+.vscode/
+*.sublime-*
+
+# Logs
+*.log
