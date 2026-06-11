@@ -1,17 +1,6 @@
 #!/bin/bash
-"""
-run_batch.sh — 🕐 CRON ENTRY POINT for Shams al-Ma'arif OCR pipeline.
-
-Called by cron every 30 minutes. Each execution:
-1. Checks progress → finds next 10 unprocessed pages
-2. Runs Gemini OCR on those pages (Stage 1)
-3. Runs enrichment/correction pass (Stage 2)
-4. Updates progress state
-5. Commits & pushes to GitHub
-
-This script is idempotent — if interrupted, next run picks up where
-it left off using the progress.json state file.
-"""
+# run_batch.sh — CRON ENTRY POINT for Shams al-Ma'arif OCR pipeline.
+# Called by cron every 30 minutes. Each execution processes 10 pages.
 
 set -euo pipefail
 
@@ -50,23 +39,22 @@ echo ""
 
 # --- Step 2: Run OCR ---
 echo "[STEP 2] Gemini OCR on $PENDING_PAGES..."
-OCR_CMD="python3 $SCRIPT_DIR/ocr_gemini.py $PENDING_PAGES"
-echo "$ $OCR_CMD"
-eval "$OCR_CMD" 2>&1 || echo "[WARN] OCR step had failures (see above)"
+OCR_RESULT=$(python3 "$SCRIPT_DIR/ocr_gemini.py" $PENDING_PAGES 2>&1) || echo "[WARN] OCR step had failures (see above)"
+echo "$OCR_RESULT"
 echo ""
 
 # --- Step 3: Run enrichment ---
 echo "[STEP 3] Enrichment pass on $PENDING_PAGES..."
-ENR_CMD="python3 $SCRIPT_DIR/enrich_gemini.py $PENDING_PAGES"
-echo "$ $ENR_CMD"
-eval "$ENR_CMD" 2>&1 || echo "[WARN] Enrichment step had failures (see above)"
+ENR_RESULT=$(python3 "$SCRIPT_DIR/enrich_gemini.py" $PENDING_PAGES 2>&1) || echo "[WARN] Enrichment step had failures (see above)"
+echo "$ENR_RESULT"
 echo ""
 
 # --- Step 4: Update progress ---
 echo "[STEP 4] Updating progress state..."
 for PAGE in $PENDING_PAGES; do
-    RAW_FILE="$REPO_DIR/ocr/raw/page_$(printf '%03d' $PAGE).txt"
-    ENR_FILE="$REPO_DIR/ocr/enriched/page_$(printf '%03d' $PAGE).txt"
+    PAD=$(printf '%03d' $PAGE)
+    RAW_FILE="$REPO_DIR/ocr/raw/page_${PAD}.txt"
+    ENR_FILE="$REPO_DIR/ocr/enriched/page_${PAD}.txt"
 
     STATUS="raw_ocr_done"
     if [ -f "$ENR_FILE" ] && [ -s "$ENR_FILE" ]; then
@@ -85,7 +73,6 @@ done
 TIMESTAMP=$(date -u '+%Y-%m-%dT%H:%M:%SZ')
 BATCH_ENTRY="{\"timestamp\":\"$TIMESTAMP\",\"pages\":\"$PENDING_PAGES\",\"batch_size\":$BATCH_SIZE}"
 if [ -f "$BATCH_LOG" ]; then
-    # Append to existing log
     python3 -c "
 import json
 with open('$BATCH_LOG', 'r') as f:

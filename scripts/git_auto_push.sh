@@ -1,11 +1,6 @@
 #!/bin/bash
-"""
-git_auto_push.sh — Stage, commit, and push enrichment results to GitHub.
-
-Called by run_batch.sh after each 10-page batch completes.
-Commits are small and atomic per batch, with meaningful commit messages
-that reference the page range processed.
-"""
+# git_auto_push.sh — Stage, commit, and push enrichment results to GitHub.
+# Called by run_batch.sh after each 10-page batch completes.
 
 set -euo pipefail
 
