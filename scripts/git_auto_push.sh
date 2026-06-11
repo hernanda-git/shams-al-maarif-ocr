@@ -23,7 +23,7 @@ if [ -z "$ALL_CHANGES" ]; then
 fi
 
 # Extract page range from changed files
-PAGE_NUMS=$(echo "$ALL_CHANGES" | grep -oP 'page_\K\d+' | sort -n | uniq)
+PAGE_NUMS=$(echo "$ALL_CHANGES" | sed -n 's/.*page_0*\([0-9]\+\).*/\1/p' | sort -n | uniq)
 if [ -n "$PAGE_NUMS" ]; then
     FIRST=$(echo "$PAGE_NUMS" | head -1)
     LAST=$(echo "$PAGE_NUMS" | tail -1)
