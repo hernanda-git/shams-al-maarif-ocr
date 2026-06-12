@@ -44,8 +44,8 @@ else
 fi
 
 # Count changes
-RAW_COUNT=$(echo "$ALL_CHANGES" | grep 'ocr/raw/' | wc -l)
-ENR_COUNT=$(echo "$ALL_CHANGES" | grep 'ocr/enriched/' | wc -l)
+RAW_COUNT=$(echo "$ALL_CHANGES" | grep 'ocr/raw/' | wc -l || true)
+ENR_COUNT=$(echo "$ALL_CHANGES" | grep 'ocr/enriched/' | wc -l || true)
 
 # Build commit message
 COMMIT_MSG="feat(ocr): enrich ${RANGE}
