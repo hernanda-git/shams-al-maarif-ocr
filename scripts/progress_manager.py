@@ -88,13 +88,51 @@ def status():
 
 
 def next_batch(batch_size=10):
-    """Return list of page numbers for the next batch to process."""
+    """Return list of page numbers for the next batch to process.
+    
+    Priority:
+    1. Pages marked 'failed' that haven't been retried recently (>24h)
+    2. Pages that are 'raw_ocr_done' (OCR done, enrichment pending)
+    3. Pending (never processed) pages
+    """
     state = _load()
+    now = datetime.now(timezone.utc)
     pending = []
+    
+    # First pass: collect failed pages that are due for retry (>24h since failure)
+    failed_due = []
+    for p in range(1, TOTAL_PAGES + 1):
+        entry = state.get(str(p), {})
+        s = entry.get("status", "pending")
+        if s == "failed":
+            updated_str = entry.get("updated", "")
+            if updated_str:
+                try:
+                    updated = datetime.fromisoformat(updated_str)
+                    hours_since = (now - updated).total_seconds() / 3600
+                    if hours_since >= 24:
+                        failed_due.append(p)
+                except (ValueError, TypeError):
+                    failed_due.append(p)  # can't parse, retry anyway
+            else:
+                failed_due.append(p)
+    
+    # Second pass: raw_ocr_done pages (OCR done, need enrichment)
+    raw_only = []
     for p in range(1, TOTAL_PAGES + 1):
         s = state.get(str(p), {}).get("status", "pending")
-        if s == "pending" and len(pending) < batch_size:
-            pending.append(p)
+        if s == "raw_ocr_done":
+            raw_only.append(p)
+    
+    # Third pass: truly pending pages
+    never_processed = []
+    for p in range(1, TOTAL_PAGES + 1):
+        s = state.get(str(p), {}).get("status", "pending")
+        if s == "pending" and str(p) not in state:
+            never_processed.append(p)
+    
+    # Build batch: failed retries first, then raw_only, then never_processed
+    pending = (failed_due + raw_only + never_processed)[:batch_size]
     return pending
 
 

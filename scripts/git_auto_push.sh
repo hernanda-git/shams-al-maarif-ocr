@@ -62,12 +62,20 @@ echo "[PUSH] Committing: raw=${RAW_COUNT} enriched=${ENR_COUNT}"
 git add ocr/raw/ ocr/enriched/ state/
 git commit -m "$COMMIT_MSG"
 
-# Push to GitHub
+# Push to GitHub with retry
 echo "[PUSH] Pushing to origin ${BRANCH}..."
-if git remote -v | grep -q origin; then
-    git push origin "${BRANCH}" 2>&1 || echo "[PUSH] WARNING: Push failed — is remote configured?"
-else
-    echo "[PUSH] No remote 'origin' configured — commit saved locally."
+PUSH_RETRIES=3
+PUSH_OK=1
+for attempt in $(seq 1 $PUSH_RETRIES); do
+    if git push origin "${BRANCH}" 2>&1; then
+        PUSH_OK=0
+        break
+    fi
+    echo "[PUSH] Attempt $attempt/$PUSH_RETRIES failed — waiting 10s..."
+    sleep 10
+done
+if [ "$PUSH_OK" -ne 0 ]; then
+    echo "[PUSH] WARNING: Push failed after $PUSH_RETRIES attempts — commit is saved locally, will retry next batch."
 fi
 
 echo "[PUSH] Done."

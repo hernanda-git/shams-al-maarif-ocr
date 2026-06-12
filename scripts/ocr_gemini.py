@@ -61,6 +61,16 @@ def encode_pdf_to_base64(pdf_path):
         return base64.b64encode(f.read()).decode("utf-8")
 
 
+def _sleep_with_backoff(attempt, max_delay=120):
+    """Sleep with exponential backoff + jitter."""
+    import random
+    delay = min(2 ** attempt * 5, max_delay)  # 10, 20, 40, 80, 120...
+    jitter = random.uniform(0, 0.5 * delay)
+    total = delay + jitter
+    print(f"  Waiting {total:.0f}s (backoff attempt {attempt})...")
+    time.sleep(total)
+
+
 def ocr_page(page_num, api_key):
     """
     Send one page PDF to Gemini OCR.
@@ -116,7 +126,7 @@ def ocr_page(page_num, api_key):
         }
     }
 
-    max_retries = 5
+    max_retries = 10
     for attempt in range(1, max_retries + 1):
         try:
             headers = {
@@ -127,7 +137,7 @@ def ocr_page(page_num, api_key):
             data = json.dumps(payload).encode("utf-8")
             req = urllib.request.Request(API_URL, data=data, headers=headers, method="POST")
 
-            with urllib.request.urlopen(req, timeout=180) as resp:
+            with urllib.request.urlopen(req, timeout=300) as resp:
                 result = json.loads(resp.read().decode("utf-8"))
 
             candidates = result.get("candidates", [])
@@ -154,16 +164,14 @@ def ocr_page(page_num, api_key):
             error_body = e.read().decode("utf-8", errors="replace")
             print(f"  [RETRY {attempt}/{max_retries}] HTTP {e.code}: {error_body[:200]}")
             if e.code == 429:
-                wait = min(30 * attempt, 120)
-                print(f"  Rate limited — waiting {wait}s...")
-                time.sleep(wait)
+                _sleep_with_backoff(attempt, max_delay=180)
             elif e.code >= 500:
-                time.sleep(min(20 * attempt, 60))
+                _sleep_with_backoff(attempt, max_delay=60)
             else:
                 time.sleep(10)
         except Exception as e:
             print(f"  [RETRY {attempt}/{max_retries}] {type(e).__name__}: {e}")
-            time.sleep(min(15 * attempt, 60))
+            _sleep_with_backoff(attempt, max_delay=60)
 
     print(f"  [FAIL] All {max_retries} attempts exhausted")
     return None
@@ -180,7 +188,7 @@ def save_raw(page_num, text):
 
 
 def process_batch(page_numbers, api_key):
-    """Process a list of page numbers sequentially."""
+    """Process a list of page numbers sequentially with rate-limit awareness."""
     results = {"success": [], "failed": [], "empty": []}
     for i, p in enumerate(page_numbers):
         print(f"\n[{i+1}/{len(page_numbers)}] Processing page {p}...")
@@ -195,9 +203,11 @@ def process_batch(page_numbers, api_key):
             else:
                 results["success"].append(p)
 
-        # Small delay between pages to avoid rate limiting
+        # Generous delay between pages to avoid rate limiting
         if i < len(page_numbers) - 1:
-            time.sleep(2)
+            delay = 5
+            print(f"  Cooling down {delay}s before next page...")
+            time.sleep(delay)
 
     return results
 

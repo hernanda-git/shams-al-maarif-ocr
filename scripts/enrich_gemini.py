@@ -8,8 +8,6 @@ letterforms, ink smudges, etc.) and produces a CLEANED version that:
   - Reconstructs broken letterforms based on context
   - NEVER deletes, rephrases, or summarises
   - If uncertain, keeps the raw text and marks with [?]
-
-This is the "improve accuracies without diminishing content" step.
 """
 
 import os
@@ -17,6 +15,7 @@ import sys
 import json
 import time
 import argparse
+import random
 import urllib.request
 import urllib.error
 from pathlib import Path
@@ -43,6 +42,15 @@ def get_api_key():
                     if len(parts) >= 2:
                         return parts[1].strip().strip("\"'")
     return ""
+
+
+def _sleep_with_backoff(attempt, max_delay=120):
+    """Sleep with exponential backoff + jitter."""
+    delay = min(2 ** attempt * 5, max_delay)
+    jitter = random.uniform(0, 0.5 * delay)
+    total = delay + jitter
+    print(f"  Waiting {total:.0f}s (backoff attempt {attempt})...")
+    time.sleep(total)
 
 
 def enrich_page_text(page_num, raw_text, api_key):
@@ -89,7 +97,7 @@ def enrich_page_text(page_num, raw_text, api_key):
         }
     }
 
-    max_retries = 3
+    max_retries = 10
     for attempt in range(1, max_retries + 1):
         try:
             headers = {
@@ -100,7 +108,7 @@ def enrich_page_text(page_num, raw_text, api_key):
             data = json.dumps(payload).encode("utf-8")
             req = urllib.request.Request(API_URL, data=data, headers=headers, method="POST")
 
-            with urllib.request.urlopen(req, timeout=120) as resp:
+            with urllib.request.urlopen(req, timeout=300) as resp:
                 result = json.loads(resp.read().decode("utf-8"))
 
             candidates = result.get("candidates", [])
@@ -132,12 +140,14 @@ def enrich_page_text(page_num, raw_text, api_key):
             error_body = e.read().decode("utf-8", errors="replace")
             print(f"  [RETRY {attempt}/{max_retries}] HTTP {e.code}: {error_body[:200]}")
             if e.code == 429:
-                time.sleep(min(30 * attempt, 60))
+                _sleep_with_backoff(attempt, max_delay=180)
+            elif e.code >= 500:
+                _sleep_with_backoff(attempt, max_delay=60)
             else:
                 time.sleep(10)
         except Exception as e:
             print(f"  [RETRY {attempt}/{max_retries}] {type(e).__name__}: {e}")
-            time.sleep(10)
+            _sleep_with_backoff(attempt, max_delay=60)
 
     print(f"  [FAIL] Enrichment failed — falling back to raw text")
     return raw_text
@@ -181,7 +191,7 @@ def process_batch(page_numbers, api_key):
             results["enriched"].append(p)
 
         if i < len(page_numbers) - 1:
-            time.sleep(1)
+            time.sleep(3)  # Increased delay to avoid rate limiting
 
     return results
 
