@@ -124,15 +124,23 @@ def next_batch(batch_size=10):
         if s == "raw_ocr_done":
             raw_only.append(p)
     
-    # Third pass: truly pending pages
+    # Third pass: truly pending pages (either explicitly 'pending' or not in state)
     never_processed = []
     for p in range(1, TOTAL_PAGES + 1):
-        s = state.get(str(p), {}).get("status", "pending")
-        if s == "pending" and str(p) not in state:
+        entry = state.get(str(p), {})
+        s = entry.get("status", "pending")
+        if s == "pending":
             never_processed.append(p)
     
     # Build batch: failed retries first, then raw_only, then never_processed
-    pending = (failed_due + raw_only + never_processed)[:batch_size]
+    # Deduplicate while preserving order
+    seen = set()
+    pending = []
+    for p in failed_due + raw_only + never_processed:
+        if p not in seen:
+            seen.add(p)
+            pending.append(p)
+    pending = pending[:batch_size]
     return pending
 
 
