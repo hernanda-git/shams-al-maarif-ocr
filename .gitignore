@@ -31,3 +31,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Transient state files
+state/run_batch.lock
