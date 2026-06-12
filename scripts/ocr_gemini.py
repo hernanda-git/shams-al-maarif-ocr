@@ -126,7 +126,7 @@ def ocr_page(page_num, api_key):
         }
     }
 
-    max_retries = 10
+    max_retries = 20
     for attempt in range(1, max_retries + 1):
         try:
             headers = {
@@ -164,14 +164,14 @@ def ocr_page(page_num, api_key):
             error_body = e.read().decode("utf-8", errors="replace")
             print(f"  [RETRY {attempt}/{max_retries}] HTTP {e.code}: {error_body[:200]}")
             if e.code == 429:
-                _sleep_with_backoff(attempt, max_delay=180)
+                _sleep_with_backoff(attempt, max_delay=600)  # Up to 10min between retries
             elif e.code >= 500:
-                _sleep_with_backoff(attempt, max_delay=60)
+                _sleep_with_backoff(attempt, max_delay=120)
             else:
-                time.sleep(10)
+                time.sleep(30)  # Longer default wait
         except Exception as e:
             print(f"  [RETRY {attempt}/{max_retries}] {type(e).__name__}: {e}")
-            _sleep_with_backoff(attempt, max_delay=60)
+            _sleep_with_backoff(attempt, max_delay=120)
 
     print(f"  [FAIL] All {max_retries} attempts exhausted")
     return None
