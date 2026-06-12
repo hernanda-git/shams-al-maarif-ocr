@@ -10,7 +10,7 @@ cd "$REPO_DIR"
 SCRIPT_DIR="$REPO_DIR/scripts"
 STATE_DIR="$REPO_DIR/state"
 BATCH_LOG="$STATE_DIR/batch_log.json"
-BATCH_SIZE=10
+BATCH_SIZE=3
 LOCK_FILE="$STATE_DIR/run_batch.lock"
 CRON_LOG="$STATE_DIR/cron_run.log"
 FAILED_RETRIES="$STATE_DIR/failed_retries.json"
