@@ -13,14 +13,18 @@ BATCH_LOG="$STATE_DIR/batch_log.json"
 BATCH_SIZE=10
 LOCK_FILE="$STATE_DIR/run_batch.lock"
 
-# Prevent concurrent runs
+# Prevent concurrent runs — PID check + age guard
 if [ -f "$LOCK_FILE" ]; then
     LOCK_PID=$(cat "$LOCK_FILE" 2>/dev/null)
-    if kill -0 "$LOCK_PID" 2>/dev/null; then
+    LOCK_AGE=$(( $(date +%s) - $(stat -c %Y "$LOCK_FILE" 2>/dev/null || echo 0) ))
+    if [ "$LOCK_AGE" -gt 3600 ] 2>/dev/null; then
+        echo "[WARN] Lock file is ${LOCK_AGE}s old (>1h) — forcing removal"
+        rm -f "$LOCK_FILE"
+    elif kill -0 "$LOCK_PID" 2>/dev/null; then
         echo "[SKIP] Previous batch still running (PID $LOCK_PID) — skipping this tick"
         exit 0
     else
-        echo "[WARN] Stale lock file found — removing"
+        echo "[WARN] Stale lock file found (PID $LOCK_PID dead) — removing"
         rm -f "$LOCK_FILE"
     fi
 fi
