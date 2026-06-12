@@ -888,11 +888,23 @@
     "updated": "2026-06-12T10:31:08.225726+00:00"
   },
   "223": {
-    "status": "raw_ocr_done",
-    "updated": "2026-06-12T10:30:12.883545+00:00"
+    "status": "enriched_done",
+    "updated": "2026-06-12T10:47:27.977229+00:00"
   },
   "224": {
-    "status": "raw_ocr_done",
-    "updated": "2026-06-12T10:30:12.888943+00:00"
+    "status": "enriched_done",
+    "updated": "2026-06-12T10:47:28.144241+00:00"
+  },
+  "225": {
+    "status": "enriched_done",
+    "updated": "2026-06-12T10:47:28.315213+00:00"
+  },
+  "226": {
+    "status": "enriched_done",
+    "updated": "2026-06-12T10:47:28.445413+00:00"
+  },
+  "227": {
+    "status": "enriched_done",
+    "updated": "2026-06-12T10:47:28.591545+00:00"
   }
 }
