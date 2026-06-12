@@ -39,8 +39,9 @@ if [ -f "$REPO_DIR/.env" ]; then
     set +a
 fi
 
-# --- Step 1: Find next batch of pages ---
-echo "[STEP 1] Checking progress..."
+# --- Step 1: Rebuild progress from filesystem ---
+echo "[STEP 1] Rebuilding progress from filesystem..."
+python3 "$SCRIPT_DIR/progress_manager.py" rebuild 2>/dev/null || true
 PENDING_PAGES=$(python3 "$SCRIPT_DIR/progress_manager.py" next-batch "$BATCH_SIZE" 2>/dev/null || echo "")
 
 if [ -z "$PENDING_PAGES" ]; then
@@ -82,22 +83,9 @@ for PAGE in $PENDING_PAGES; do
 
     python3 "$SCRIPT_DIR/progress_manager.py" mark "$PAGE" "$STATUS"
 done
-
-# Log this batch
+# Log this batch — use a Python script file to avoid shell quoting issues
 TIMESTAMP=$(date -u '+%Y-%m-%dT%H:%M:%SZ')
-BATCH_ENTRY="{\"timestamp\":\"$TIMESTAMP\",\"pages\":\"$PENDING_PAGES\",\"batch_size\":$BATCH_SIZE}"
-if [ -f "$BATCH_LOG" ]; then
-    python3 -c "
-import json
-with open('$BATCH_LOG', 'r') as f:
-    log = json.load(f)
-log.append($BATCH_ENTRY)
-with open('$BATCH_LOG', 'w') as f:
-    json.dump(log, f, indent=2)
-"
-else
-    echo "[$BATCH_ENTRY]" > "$BATCH_LOG"
-fi
+python3 "$SCRIPT_DIR/progress_manager.py" log-batch "$TIMESTAMP" "$PENDING_PAGES" "$BATCH_SIZE" 2>/dev/null || echo "  [WARN] Failed to write batch log"
 
 # --- Step 5: Commit & push ---
 echo ""

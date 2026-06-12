@@ -119,6 +119,22 @@ def list_stage(stage):
     return pages
 
 
+def log_batch(timestamp, pages_str, batch_size):
+    """Append a batch entry to the batch log."""
+    import json as j
+    log_path = os.path.join(STATE_DIR, "batch_log.json")
+    entry = {"timestamp": timestamp, "pages": pages_str, "batch_size": int(batch_size)}
+    if os.path.exists(log_path):
+        with open(log_path, "r", encoding="utf-8") as f:
+            log = j.load(f)
+    else:
+        log = []
+    log.append(entry)
+    with open(log_path, "w", encoding="utf-8") as f:
+        j.dump(log, f, indent=2, ensure_ascii=False)
+    print(f"Batch logged: {timestamp} — {pages_str}")
+
+
 if __name__ == "__main__":
     if len(sys.argv) < 2:
         print("Usage: progress_manager.py <status|rebuild|next-batch|mark|list> [args...]")
@@ -142,6 +158,8 @@ if __name__ == "__main__":
         pages = list_stage(stage)
         for p in pages:
             print(f"page_{p:03d}")
+    elif cmd == "log-batch" and len(sys.argv) >= 5:
+        log_batch(sys.argv[2], sys.argv[3], sys.argv[4])
     else:
         print(f"Unknown command: {cmd}")
         sys.exit(1)

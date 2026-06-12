@@ -17,6 +17,13 @@ UNTRACKED=$(git ls-files --others --exclude-standard | grep -E 'ocr/(raw|enriche
 
 ALL_CHANGES=$(echo -e "${CHANGED_RAW}\n${CHANGED_ENR}\n${CHANGED_STATE}\n${UNTRACKED}" | grep -v '^$' | sort -u)
 
+# If only lock file changed, skip (it's just housekeeping)
+LOCK_ONLY=false
+if [ "$ALL_CHANGES" = "state/run_batch.lock" ]; then
+    echo "[PUSH] Only lock file changed — nothing to push."
+    exit 0
+fi
+
 if [ -z "$ALL_CHANGES" ]; then
     echo "[PUSH] No changes to commit."
     exit 0
