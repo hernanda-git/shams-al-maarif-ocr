@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 77 translated pages._
+_Auto-generated from 83 translated pages._
 
 ---
 ## Page 1
@@ -4036,4 +4036,358 @@ Your gentleness
 Your gentleness, O Gentle, be gentle, O Most Merciful of the merciful, and ask what you want from the matters of this world and the Hereafter; it will be fulfilled. “And this is another supplication.” Empty for yourself a pure, clean place, and pray your five prayers in their times, then recite it after every prayer 18 times for a period of 14 days. When you have finished your prayer, then supplicate with this supplication: “In the name of Allah, the Merciful, the Compassionate. Praise be to Allah, Lord of the worlds,” the illuminator of the insights of the knowers with the lights of knowledge and certainty, and the attractor of the rest of the realizers with the جذبات of nearness and enabling, and the opener of the locks of the hearts of the monotheists with the keys of monotheism, and the attractor of them with the جذبات of nearness and the manifest opening, He who made good everything He created and began the creation of man from clay, then made his progeny from an extract of despised water. “The Merciful, the Compassionate,” the Wise, the High, the Great, the Eternal, the Ancient, the Hearing, the Knowing, who wrote the verses of monotheism with the pens of power in the breasts of the people of instruction and inscribed the lines of the people of guidance in the paths of the secret of the people of knowledge for the people of sainthood, and enough for you are the people of the Cave and the Inscription; He addressed Moses the speaker with words of honoring and honored His noble Prophet by His saying: “And We have certainly given you seven of the oft-repeated and the عظیم Qur’an.” “Master of the Day of Judgment,” the breaker of the tyrants and the rebellious, the destroyer of the oppressors and the aggressors, and the crusher of the heads of the Pharaohs and the people of innovation and the atheists. That is Allah, your Lord; so blessed is Allah, Lord of the worlds. O You who adorned the beings with the garments of formation and sent the wonders of the ملكوتيات leading the mounts of the firm generosity, O You who spread the clouds of the contracts of His pardon over all creation altogether, O You who has no partner in His dominion and no helper. “You alone we worship,” acknowledging incapacity to fulfill the right of Your worship. “And You alone we ask for help” in what You commanded of standing by Your rights at every time and moment. O Possessor of the عظیم bounty, O You who revives the bones while they are decayed. “Guide us to the straight path,” the path of the people of the upright religion, the path of the people of rectitude and correction, the path of those whom You looked upon with the eye of Your care, the path of those who are the people of resolve and the sound heart, the path of the people of sincerity and submission, the path of those who held fast to guidance and rejoiced in it, “the path of those upon whom You have bestowed favor” from among the prophets and the truthful and the martyrs and the righteous, and support us with the angels of victory and enabling, and dispose us in the beings and the existents and the formation. “Not of those who have incurred wrath nor of those who go astray. Amen.” Do not make us astray nor misleaders nor driven away from Your door, and gather us among the company of the Godfearing by Your mercy, O Most Merciful of the merciful. And may Allah bless our master Muhammad and his family and his companions and grant peace. “And this is its subjugation; it says:” O spiritual spirits, possessors of luminous essences, radiant with the spiritual text and the divine laws, abiding in the subtleties of the disposition of letters and the دقائق of their knowledges, constituted, entrusted with subduing hearts and spirits, spiritual numbers and the knowers of their hidden secrets, come alive, O great spirits and noble angels, Gabriel and Michael and Raphael and Rofail, أصبؤت آل شداي, understand my intent and fulfill my need and undertake my service by the right of Allah, the Opener, the Provider, the Forbearing, the Bestower, the High, the Great, the God, the Gentle, the Great, Kaf Ha Ya ‘Ayn Sad ‘Ayn Qaf, answer, O green king. May Allah bless you and upon you. And if it is the last night of 14 days, a great green bird comes to you and stands before you, then begin with peace, for it is a great king; its dispatch is what you want after it takes from you a covenant and conditions, among them that you do not lie and do not eat what is unlawful and do not commit an indecency. If you are upright, it will be upright with you and will appoint a servant who fulfills your needs, and the incense is every fragrant thing such as Indian aloeswood.
 
 ---
-_End of translation — 77 pages._
+## Page 78
+
+**Arabic (original):**
+- ٧٢ -
+
+وجاوي وند مصطكى وعنبر خام وخوه، فإذا أردت محبة أحد من الخلق فصم يوم الخميس والاثنين
+واقرأ هذه الدعوة عند الفطور ١٥ مرة وعند الفجر واسأل الله إقبال قلبه عليك ومحبته وسمه
+باسمه ترعجا والله أعلم. وإن أردت قضاء حاجة من أحد فصم يوم الخميس واعتزل الناس
+وأكثر من قراءتها في الطريق بحضور قلب وفكرة تقض حاجتك ورياضتها ٩ أيام
+أو ٧ واكتب مع سورة الفاتحة وفقاً مربعاً وهو ٩٢٦٠ من غير بسملة للمودة والمحبة تضع الوفق
+أمامك واقرأ الدعوة ١٠ مرة كذكر على الفطور وبخر الوفق بخور طيب وجمعه إلى الفجر ثم
+ارفع الوفق واحمله تنجح أمورك وتخدمك الروحانية ببركة الفاتحة (وهذه أيضاً دعوة الفاتحة
+الشريفة) تقول
+وهذه صورته
+| ٣٣٢٩ | ٢٤٤٣ | ٢٢٢٢ | ٢٢٢٢ |
+| ٢٤٣٤ | ٢٣٣٠ | ٢٢٣٨ | ٣٣٤٢ |
+| ٣٣٣٤ | ٢٢٤٩ | ٦٣٤٠ | ٣٣٢٢ |
+| ٢٣٤١ | ٢٣٣٦ | ٢٣٣٥ | ٣٣٤٦ |
+
+(بسم الله الرحمن الرحيم الحمد لله رب العالمين) حمداً يفوق أجله
+وأكمله وأفضله حمد الحامدين وانغمس في بحر نور ذلك الحمد
+انغماساً يشغلني ظاهراً وباطناً بالعز والهيبة والتمكين إلى يوم الدين
+واعصم به عصمة تخفى وتحفظني من المضرين والأعداء المصرين
+حمداً يكون لي رضاء وفرطاً وفرحاً وغنى لا أفتقر معه لأحد من الأولين والآخرين ويكون لي
+وجيهة وعزاً أستعز به حتى أذل به سطوة الجبارين (الرحمن) التي وسعت رحمته كل شيء يشهد بها
+كل موجود بما أقربه من الإحسان فكل مبدأ وفيه من الأسرار والعلانية وغايته إليها مراً وإعلاناً
+أسألك بهذا السر الذي أوضحته وكان ظاهر العيان أن تغمسني في هذا البحر غمسة لا تفارقني في جميع
+الأوقات والأوان وتكون لي عدة وعمدة لا أفتقر بعدها في كل زمان ومكان وجهة أعتصم بها من
+مكايد الإنس والجان (الرحيم) الذي لطف به فما سبق فكانت تلك الرحمة سابقة منه إلي في الأزل
+القديم فما أنا تقلب فهامد وجدت علماً وخلقاً بأعذب ورد وأطيب نعيم أسألك يا مولاي إسباغ نعمتك
+ودوام منتك بسابق رحمتك فلا أخشى كيداً من كل ذي مكر لئيم وأن تظهر لي خلقاً وخلقاً من كل
+وصف ذميم (مالك يوم الدين) الذي تعظم شأنه عن أن يفتقر إلى شريك وإعانة من حكم على من
+في الملك والملكوت بقدرته القامعة لجميع الجبارين والمتكبرين الشديد البطش على الطغاة الظالمين
+القاهر بشدة قوته وقهره وبطشه لمن تمرد وطغى من الطغاة والمردة القاصم من شاركه في عظمته
+وكبريائه أخذه هالكاً مع الهالكين أسألك أن تسخر لي قلوب خلقك يا معطف القلوب يا ملين
+الحديد لداود عليه السلام بدوح ٣ دحوب ٣ يا مالك ٣ ملوك العوالم كلها أجمعين ملكني من
+ناصية كذا وكذا حتى يكون في قبضتي من الأذلين لا إله إلا أنت سبحانك إني كنت من الظالمين
+وأدركني برحمتك يا أرحم الراحمين (إياك نعبد وإياك نستعين) قد ادخرتك لفقري وفاقتی یا من
+خضعت لعظمته عتاة الجبارين والمتكبرين وصغر لجلاله طغاة الإنس والجن المتمردين يا شديد البطش
+يا عظيم القهر يا منتقم من كل ذي سطوة مكن أيدني بنصر منك وفتح مبين أقهر أعدائي
+أجمعين (اهدنا الصراط المستقيم صراط الذين أنعمت عليهم غير المغضوب عليهم ولا الضالين) هب
+لنا من لدنك مواهب الصديقين وأشهدنا مشاهد الشهداء والصالحين وامددنا بملائكة الظفر
+والتمكين
+
+**English:**
+and Jawi and Wond, Mastic, and raw Amber, and Khawh. So if you desire the love of one of creation, then fast on Thursday and Monday and recite this invocation at breakfast 15 times and at dawn, and ask Allah for the turning of his heart toward you and his love, and name him by his name, Taraja, and Allah knows best. And if you desire the fulfillment of a need from someone, then fast on Thursday and withdraw from people and increase in reciting it on the road with presence of heart and thought; it will fulfill your need, and its riyadah is 9 days or 7. And write with Surat al-Fatihah a square Wafq, and it is 9260, without basmalah, for affection and love; place the Wafq before you and recite the invocation 10 times as a dhikr at breakfast, and fumigate the Wafq with good incense and gather it until dawn, then raise the Wafq and carry it; your affairs will succeed and the Ruhaniyyah will serve you by the blessing of al-Fatihah (and this also is the invocation of al-Fatihah al-sharifah), you say:
+And this is its form
+[Grid content preserved as-is]
+| ٣٣٢٩ | ٢٤٤٣ | ٢٢٢٢ | ٢٢٢٢ |
+| ٢٤٣٤ | ٢٣٣٠ | ٢٢٣٨ | ٣٣٤٢ |
+| ٣٣٣٤ | ٢٢٤٩ | ٦٣٤٠ | ٣٣٢٢ |
+| ٢٣٤١ | ٢٣٣٦ | ٢٣٣٥ | ٣٣٤٦ |
+
+(In the name of Allah, the Merciful, the Compassionate, praise be to Allah, Lord of the worlds) a praise that surpasses its utmost and its most complete and its most excellent, the praise of the praisers, and immerse in the sea of the light of that praise an immersion that occupies me outwardly and inwardly with might and awe and enabling until the Day of Judgment, and protect me by it with a protection that is hidden and preserves me from the harmful ones and the persistent enemies, a praise that will be for me approval and abundance and joy and wealth, with which I do not become in need of anyone from the first and the last, and it will be for me a face and might by which I become mighty, until I humble by it the assault of the tyrants (the Merciful), whose mercy has encompassed everything; by it every existent bears witness by what I bring near of beneficence, so every beginning and in it are of secrets and of the manifest, and its end to it is repeatedly and openly. I ask You by this secret which You have made clear and which was manifest to the eye, that You immerse me in this sea with an immersion that does not leave me in all times and periods, and that it be for me a provision and a support after which I do not become in need in every time and place, a direction by which I take refuge from the plots of humankind and jinn (the Compassionate), by whom He was gentle, so what preceded was that mercy a prior one from Him to me in the ancient pre-eternity, so I am not turning and then lifeless; I found knowledge and character with the sweetest rose and the best bliss. I ask You, O my Master, the overflowing of Your blessing and the دوام of Your favor by Your prior mercy, so that I fear no plot from every possessor of vile cunning, and that You show to me a character and character from every despicable description (Master of the Day of Judgment), whose شأن is عظیم beyond that He should need a partner or assistance, who حكم over those in the kingdom and the dominion by His power that crushes all the tyrants and the arrogant, severe in assault upon the unjust tyrants, the subduer by the severity of His strength and His subduing and His assault of whoever rebelled and tyrannized from the tyrants and the rebels, the breaker of whoever shared with Him in His greatness and His majesty; His taking him is destroyed with the destroyed. I ask You to subdue for me the hearts of Your creation, O Turner of hearts, O softener of iron for David, peace be upon him, by Duh 3, Duhub 3, O Malik 3, kings of all the worlds, all together, make me king over the forelock of so-and-so and so-and-so until he be in my grasp among the most abased. There is no god but You, glory be to You; indeed I was among the wrongdoers, and reach me by Your mercy, O Most Merciful of the merciful. (You alone we worship and You alone we ask for help) I have stored You for my poverty and my need, O You before whose greatness the insolent tyrants and the arrogant have humbled themselves, and before whose majesty the tyrants of humankind and jinn, the rebels, have become small, O شديد البطش, O عظیم القهر, O avenger from every possessor of might, empower me, support me with victory from You and a manifest opening, subdue my enemies all together. (Guide us to the straight path, the path of those upon whom You have bestowed favor, not of those upon whom is wrath, nor of those who go astray) grant us from Your presence the gifts of the truthful and show us the stations of the martyrs and the righteous, and extend to us with the angels of victory and enabling.
+
+---
+## Page 79
+
+**Arabic (original):**
+— ٧٣ —
+والتمكين كأفلت في قولك الحق المبين يمددكم ربكم بثلاثة آلاف من الملائكة منزلين الى قوله
+بشرى وصرفنا في الكائنات والمكونات وأفض علينا من فيض نعمائك بركات تعيد الينا من
+بركات الأولين والآخرين ولا تجعلنا ضالين ولا مضلين ولا تحشرنا في زمرة الباغين يا غياث
+المستغيثين أغثني وأدركني بلطفك الخفي فان من أخفيته تحت خفي لطفك فقد خفي وشوق وعوفي
+وكفي لا اله الا أنت سبحانك اني كنت من الظالمين تقرؤه ٧ مرات وتقول وأدخلني في كنفك
+الوفي الحصين المنيع الكافي الحفيظ الساتر المحيط وأغمسني في سعة رزقك من خزائن رحمتك التي
+وسعت كل شيء وفرج عني كل كرب يا مفرج عن المكروب برحمتك يا أرحم الراحمين شهت
+٢ اشهت ٢ المقسط الوحا ياميمون وشهدان الوحايا شهدان العجل توكلوا بكذا وكذا أقسمت
+عليك بعز عز الله وبنور وجه الله وبفاتحة الكتاب وبما جرى به القلم من عند الله الا ما أجبت
+وأسرعت بقضاء حاجتي وهي كذا وكذا انما أمره اذا أراد شيئاً الخ سورة يس تقرؤه ٣ مرات
+وقال النبي عليه السلام من قرأ الفاتحة عند النوم وقرأ معها الاخلاص ٣ مرات والمعوذتين
+فقد أمن من كل شيء الا الموت ولما مرض الحسن والحسين اغتم النبي عليه السلام فأوحى اليه
+أن اقرأ سورة لا فاء فيها فان الفاء من التفؤل تقرؤها على اناء فيه ماء ٤٠ مرة واغسل بها يديه
+ورجليه ورأسه ووجهه وسائر بدنه فان الله يشفيه من كل ألم وقال بعض العلماء من كتب الفاتحة في
+اناء نظيف ومحاها بماء وشربه أي مريض شفاه الله . ومن كثر نسيانه وكتبها في اناء زجاج ومحاها
+وشرب منه زال نسيانه . ومن أكثر من قراءتها طهر قلبه وباطنه من جميع الهواجس النفسانية
+والواردات الشيطانية . ومن كتبها في جام زجاج ومحاها بدهن خالص ودهن به عرق
+النسا ووجع الظهر زال عنه وينفع من الريح والفالج وكل مرض يابس أو رطب . ومن كتب
+الفاتحة في اناء ذهب في الأولى من يوم الجمعة بمسك وزعفران وكافور ومحاها بماء وضعه في
+قارورة واذا أراد الدخول على الحكام مسح وجهه منها حصل له القبول . ومن دخل على من
+يخاف شره وقرأ الفاتحة أمن من شره . وشكا ابن الشعبي من وجع الظهر فقل له عليك بأساس
+القرآن وهي الفاتحة فلازمها وكتبها ومحاها وشرب فشفي . وقال ابن عباس لكل شيء أساس
+وأساس القرآن الفاتحة وأساس الفاتحة البسملة . وقال ابن القيم أحسن المداواة بالفاتحة وذلك أني
+مكثت بمكة مدة طويلة يعتريني داء فلا أجد طبيبا ولا دواء فقلت أعالج نفسي بالفاتحة ففعلت فرأيت
+لها تأثيرا عظيما فكنت أصف ذلك لمن يشتكي ألما شديدا فيبرأ . ومن قرأ الفاتحة ١٩ مرة عند
+دخوله على جبار أمن منه . ومن كتبها عدد حروفها يوم الجمعة وحملها حفظ من سطوات الجن
+والأنس ومن قال كل يوم ثلاث مرات بسم الله الرحمن الرحيم بسم الله خير الأسماء
+بسم الله رب الأرض والسماء بسم الله الذي لا يضر مع اسمه شيء في الأرض ولا في السماء وهو السميع
+العليم لم يضره شيء ومن كتب الحروف المفتتح بها أوائل السور في جام زجاج ومحاه بماء المطر
+وسقاه للمسموم لم يعمل فيه السم وجرب ذلك مرارا وسلم النبي صلى الله عليه وسلم من وضع يده
+على رأسه وقرأ قوله تعالى هو الله الذي لا اله الا هو عالم الغيب والشهادة الى آخر السورة كان له شفاء
+
+**English:**
+and enabling, as it has come forth in your true, manifest saying: “Your Lord will مدد you with three thousand of the angels sent down,” to His saying “good tidings.” And we have disposed in the existents and the constituted things, and pour upon us from the overflowing of Your blessings blessings that return to us from the blessings of the first and the last, and do not make us astray nor leading astray, and do not gather us among the band of the transgressors. O succor of those who seek succor, succor me and reach me by Your hidden gentleness, for whoever You have hidden beneath the hiddenness of Your gentleness has indeed been hidden and yearned and been cured and sufficed. There is no god but You, glory be to You; indeed I was among the wrongdoers. You recite it 7 times and say: and admit me into Your faithful, fortified, impregnable, sufficient, preserving, covering, encompassing protection, and immerse me in the abundance of Your provision from the treasuries of Your mercy which has encompassed everything, and relieve from me every distress, O reliever of the distressed, by Your mercy, O Most Merciful of the merciful. شهت 2 اشهت 2 المقسط الوحا ياميمون وشهدان الوحايا شهدان العجل توكلوا بكذا وكذا I have sworn to you by the might of the might of Allah and by the light of the Face of Allah and by the Opening of the Book and by what the Pen has run with from Allah, that you answer not but that you hasten to the fulfillment of my need, and it is such and such. “His command, when He desires a thing, is only that He says to it, Be,” etc. Surat Yasin, you recite it 3 times. And the Prophet, peace be upon him, said: whoever recites al-Fatihah at sleep and recites with it al-Ikhlas 3 times and the two Mu‘awwidhatayn has been secured from everything except death. And when al-Hasan and al-Husayn fell ill, the Prophet, peace be upon him, was distressed, so revelation came to him that recite a surah in which there is no fa’, for the fa’ is from optimism; you recite it over a vessel in which is water 40 times and wash with it his hands and his feet and his head and his face and the rest of his body, for Allah will heal him from every pain. And some of the scholars said: whoever writes al-Fatihah in a clean vessel and erases it with water and drinks it, any sick person, Allah heals him. And whoever has much forgetfulness and writes it in a glass vessel and erases it and drinks from it, his forgetfulness departs. And whoever increases in reciting it, his heart and his inward are purified from all psychic thoughts and satanic incoming thoughts. And whoever writes it in a glass cup and erases it with pure oil and oils with it the sciatic nerve and back pain, it departs from him, and it benefits from wind and paralysis and every dry or moist illness. And whoever writes al-Fatihah in a vessel of gold in the first hour of Friday with musk and saffron and camphor and erases it with water and puts it in a flask, and when he desires to enter upon rulers, he wipes his face from it, acceptance is obtained for him. And whoever enters upon one whose evil he fears and recites al-Fatihah is secured from his evil. And Ibn al-Sha‘bi complained of back pain, so it was said to him: upon you is the foundation of the Qur’an, and it is al-Fatihah, so adhere to it, and write it and erase it and drink it, and he was cured. And Ibn ‘Abbas said: for everything there is a foundation, and the foundation of the Qur’an is al-Fatihah, and the foundation of al-Fatihah is the basmalah. And Ibn al-Qayyim said: the best treatment is with al-Fatihah, and that is because I stayed in Mecca for a long period, a disease would afflict me and I would find neither doctor nor medicine, so I said: I will treat myself with al-Fatihah; so I did, and I saw for it a tremendous effect, and I used to prescribe that to whoever complained of severe pain, and he would recover. And whoever recites al-Fatihah 19 times when entering upon a tyrant is secured from him. And whoever writes it, the number of its letters, on Friday and carries it is preserved from the assaults of the jinn and humankind. And whoever says every day three times: In the name of Allah, the Merciful, the Compassionate; in the name of Allah, the best of names; in the name of Allah, Lord of the earth and the sky; in the name of Allah, by whose name nothing in the earth nor in the sky harms, and He is the Hearing, the Knowing, nothing harms him. And whoever writes the letters with which the beginnings of the surahs are opened in a glass cup and erases it with rainwater and gives it to the poisoned person to drink, the poison will not work in him, and that has been tried many times. And the Prophet, may Allah bless him and grant him peace, was saved from placing his hand on his head and reciting His saying تعالى: He is Allah, there is no god but He, Knower of the unseen and the witnessed, to the end of the surah; there would be for him a healing.
+
+---
+## Page 80
+
+**Arabic (original):**
+- ٧٤ -
+
+من كل داء الأسام . وقال الشيخ شهاب الدين السهروردي إن من قرأ سورة البروج في
+صلاة العصر أمن من الداميل . ومن كتب الفاتحة ومحاها بماء وخلط بها قليلاً من الماء ظهرت
+فيه البركة عياناً . وأما آثارها في الصور الحرفي فمن كتبها بعدهم معاني حروفها في جام زجاج ومحاها
+بماء المطر وشربه بعد صوم خمس وعشرين يوماً فتح الله له باباً من اللطف ظاهراً وباطناً . وإذا
+كتبت بعد طهارة وصوم خمسة أيام وكتبت «إن ربكم الله الذي خلق السموات والأرض» إلى
+قوله «رب العالمين» في ورق طاهر يوم الجمعة ساعة الزهرة وحمله على رأسه أوجد الله تعالى له اللطف
+وأوجد له الرعب في القلوب . وفيها سر لمن كثر نسيانه إذا شربها . ومن كتب هذا الوفق وحمله
+ووضعه في بيت لم يدخله الهوام المضرة وذلك لإمالته القلبية فإن المراد من الطالع لذوي الأرصاد
+قوة روحانية فإن وجدت القوة الإيمانية القلبية ظاهرة كان أبلغ من الطالع وإياك والنجاسة في شيء
+من ذلك تجد سعداً والله أعلم وهذه صفة الوفق كما ترى
+ومن ذلك آيات اللطيف في القرآن في أربعة مواضع أولها في سورة الأنعام
+قوله تعالى «لا تدركه الأبصار وهو يدرك الأبصار وهو اللطيف الخبير» هذه
+الآية نافعة لمن كان خائفاً على نفسه من عدو أو ظالم أو جبار فليذكر اسمه كاسمه
+اللطيف صباحاً ومساء ١٢٩ مرة تقرأ بعد الآية المذكورة يرى عجباً من لطف الله ويؤمنه الله
+من عدوه * الثانية في سورة يوسف قوله تعالى «إن ربي لطيف لما يشاء إنه هو العليم الحكيم»
+خاصتها لمن خاف من شدة أو محنة أو ضيق أو كرب أو غم فليذكر اسمه لطيف عدده ويقرؤها
+يخلصه الله منه ومن كل هم * الثالثة في سورة الشورى قوله تعالى «الله لطيف بعباده يرزق من يشاء
+وهو القوي العزيز» خاصتها لمن افتقر يقرأ اسمه اللطيف ويقرأ هذه الآية ولا يلازم عليها تأتيه الدنيا
+* الرابعة في سورة الملك قوله تعالى «ألا يعلم من خلق وهو اللطيف الخبير» خاصتها لمن طالب تولية
+منصب مثل قاضي أو حاكم وما أشبه ذلك فليقرأ اسمه اللطيف صباحاً ومساء ويقرأ الآية يحصل
+المطلوب * ولترجع إلى ما كنا بصدده من فوائد الفاتحة أنها إذا كتبت ومحيت بماء المطر ومسح
+بها المريض وجهه ويديه مرة واحدة وشرب ذلك الماء ٣ مرات وقال عند شربه اللهم اشف أنت
+الشافي واكف أنت الكافي وعاف أنت المعافي ٣ مرات شفاه الله من مرضه حالاً لم يكن حضر
+أجله * وإن شرب من ذلك الماء من في قلبه خفقان أو حيف زال عنه ذلك وإذا كتبت بمسك
+وزعفران في إناء زجاج ومحي بماء ورد وشرب منه من به علة شفي أو شرب منه بليد سبعة أيام
+وزالت بلادته وحفظ ما سمع وإذا كتبت بمسك في إناء من زجاج ومحيت بماء المطر الذي يكون في
+شهر كانون وسحق به كحل أصفهاني واكتحل به ضعيف البصر جلا بصره ومحت عينه * وإذا
+أضيف لذلك مرارة ديك أفرق أبيض ومرارة دجاجة سوداء واكتحل به رأى الأشخاص
+الروحانية وخاطبته بما لم يدر * ومن لازم على قراءتها ليلاً ونهاراً زال عنه الكسل ولا يأتيه
+وجع * وإذا كتبت في إناء نظيف ومحيت بماء ورد وقطر في الأذن الموجوعة زال وجعها * وإذا
+كتبت ومحيت بدهن بان خالص وقرئت على ذلك الدهن ٧٠ مرة ودهن به صاحب الفالج وعرق
+النسا
+
+| | | |
+|---|---|---|
+| | | ح |
+| ٦ | | ج |
+| ج | ط | و |
+| ٥ | | د |
+
+**English:**
+from every disease, the most severe. And Shaykh Shihab al-Din al-Suhrawardi said that whoever recites Surat al-Buruj in the afternoon prayer is secured from al-damil. And whoever writes al-Fatihah and erases it with water and mixes with it a little water, its blessing appears manifestly. As for its effects in the letter forms, whoever writes it, after them, the meanings of its letters in a glass cup and erases it with rainwater and drinks it after fasting twenty-five days, Allah opens for him a door of gentleness outwardly and inwardly. And if it is written after purity and fasting five days, and “Indeed your Lord is Allah, who created the heavens and the earth” is written to His saying “Lord of the worlds” on pure paper on Friday at the hour of Venus and carried on his head, Allah تعالى brings about for him gentleness and brings about for him dread in the hearts. And in it is a secret for whoever has much forgetfulness if he drinks it. And whoever writes this Wafq and carries it and places it in a house into which harmful vermin do not enter, and that is due to its heart inclination, for what is intended from the Tali‘ for those of observations is spiritual power; if the heart-faith power is found manifest, it is more effective than the Tali‘, and beware of impurity in anything of that; you will find good fortune, and Allah knows best. And this is the description of the Wafq as you see.
+And among that are the verses of al-Latif in the Qur’an in four places: the first is in Surat al-An‘am, His saying تعالى: “Vision perceives Him not, and He perceives all vision, and He is the Subtle, the Aware.” This verse is beneficial for whoever is afraid for himself from an enemy or an oppressor or a tyrant; let him mention His name as His name al-Latif morning and evening 129 times; recited after the mentioned verse, he sees wonders of Allah’s gentleness, and Allah secures him from his enemy. * The second is in Surat Yusuf, His saying تعالى: “Indeed my Lord is لطيف to what He wills; indeed He is the Knowing, the Wise.” Its special property is for whoever fears from severity or trial or constriction or distress or grief; let him mention His name Latif by its number and recite it; Allah will deliver him from it and from every worry. * The third is in Surat al-Shura, His saying تعالى: “Allah is لطيف to His servants; He provides for whom He wills, and He is the Strong, the Mighty.” Its special property is for whoever has become poor: he recites His name al-Latif and recites this verse, and does not persist upon it; the world will come to him. * The fourth is in Surat al-Mulk, His saying تعالى: “Does He not know, He who created, while He is the Subtle, the Aware?” Its special property is for whoever seeks appointment to a post such as judge or ruler and the like of that; let him recite His name al-Latif morning and evening and recite the verse; the sought thing is obtained. * And let us return to what we were occupied with of the benefits of al-Fatihah: that if it is written and erased with rainwater and the sick person wipes with it his face and his hands once and drinks that water 3 times and says when drinking it: O Allah, heal, You are the Healer; and suffice, You are the Sufficient; and grant well-being, You are the Granter of well-being, 3 times, Allah heals him from his illness immediately, if his term has not arrived. * And if from that water drinks one in whose heart there is palpitating or deviation, that departs from him. And if it is written with musk and saffron in a glass vessel and erased with rosewater and one afflicted with an ailment drinks from it, he is healed; or a dull one drinks from it for seven days, his dullness departs and he retains what he hears. And if it is written with musk in a vessel of glass and erased with rainwater that is in the month of Kanun and Isfahani kohl is ground with it and a weak-sighted person applies kohl with it, his sight is cleared and his eye is wiped. * And if to that is added the gall of a white pied rooster and the gall of a black hen and kohl is applied with it, he sees the spiritual persons and they speak to him with what he did not know. * And whoever persists upon reciting it night and day, laziness departs from him and pain does not come to him. * And if it is written in a clean vessel and erased with rosewater and dropped into the aching ear, its pain departs. * And if it is written and erased with pure oil of bān and recited over that oil 70 times and the one afflicted with paralysis and sciatica is oiled with it.
+
+[Grid content preserved as-is]
+| | | |
+|---|---|---|
+| | | ح |
+| ٦ | | ج |
+| ج | ط | و |
+| ٥ | | د |
+
+---
+## Page 81
+
+**Arabic (original):**
+— ٧٥ —
+النساء وكل وجع زال ۞ ومن كانت له حاجة عند الله فليقرأ بالترتيب والتنزيل بإيمان وتصديق ٧
+مرات مستقبل القبلة بعد صلاة ركعتين بالفاتحة وسورة الإخلاص ٣٠ ثم يسأل حاجته تقضى
+۞ ومما جرب أن من قرأها بين صلاتي الصبح والفجر ٤١ يوما مدة ٤٠ يوما من غير زيادة
+ويسأل حاجته تقضى ۞ وهذه الآيات منقولة من كتاب كنز المقربين للعلامة ابن سبعين نقلها
+عن الإمام علي كرم الله وجهه وهي
+إذا ما كنت ملتمسا لرزق ۞ ونهج القصد من عبد وحر ۞ وتظفر بالذي تهوى سريعا
+وتأمن من مخالفة وغدر ۞ ففاتحة الكتاب فإن فيها ۞ لما أملت سرا أي سر
+فلازم درسها عقب عشاء ۞ وفي صبح وظهر ثم عصر ۞ ولازمها بمغرب كل ليل
+إلى التسعين تتبعها بعشر ۞ تنل ما شئت من عز وجاه ۞ وعظم مهابة وعلو قدر
+وعز لا تغيره الليالي ۞ بحادثة من النقصان تجري ۞ وتوفيق وأفراح دواما
+وتأمن من نكالة كل شر ۞ ولا تحتج إلى أحد بشيء ۞ ولا تفجع بمكروه وضر
+ومن جوع وعري وانقطاع ۞ ومن بطش لذي أمر ونهي ۞ تصان وتبلغ الآمال حقا
+على طول المدى في كل دهر ۞ فإنك إن فعلت أتاك آت ۞ بما يبغيك عن زيد وعمرو
+( وهذه رياضة الفاتحة ) وهي أن تعتكف في مكان مظلم بحيث لا يراك أحد إلا الله وتصوم ٣
+أيام أولها الأحد بشرط الرياضة عما فيه روح وأفطر على خبز الشعير والزيت من غير شبع واقرأ
+الفاتحة دبر كل صلاة مائة مرة وادع بهذا تقول رب أدخلني في بحر أحديتك وطمطام فردانيتك
+حتى أخرج إلى نضار رحمتك وعلى وجهي لمحات القرآن من آثار رحمتك مهابا بهيبتك قويا
+بقوتك عزيزا بعزتك وألبسني خلع العز والقبول وسهل علي تساهيل الوصل والوصال وتوجني بتاج
+الكرامة وألف بيني وبين أحبابك يا مالك الدنيا والآخرة يا من اتخذ إبراهيم خليلا وكلم موسى
+تكليما وكرم محمدا صلى الله عليه وسلم تكريما سلام قولا من رب رحيم يا مالك يوم الدين إياك نعبد
+وإياك نستعين اهدنا الصراط المستقيم صراط الذين أنعمت عليهم غير المغضوب عليهم ولا الضالين
+وبعد ٣ أيام يظهر لك في المحراب قطة بيضاء تنفش حتى تملأ المكان الذي أنت فيه ثم تبقى
+كوما ثم يخرج من تحته رجل يقول ما حاجتك وما تطلب فلا تطلب شيئا وتقول له أريد الاسم والخاتم
+وبشرط عليك الأخوة وتكون التلاوة بعد صلاة الصبح ٣ مرة والظهر والعصر كذلك
+وبعد المغرب عشرة وندعو بهذا الدعاء ( بسم الله الرحمن الرحيم الحمد لله رب العالمين ) هداياكون
+لي رخاء ولي مرضاة عند رب العالمين ( الرحمن الرحيم ) الذي دحا الأقاليم واختص موسى الكليم
+يحيي العظام وهي رميم فيهما اسمان عظيمان شفاء لكل داء سقم وطريق لجنات النعيم ونجاة
+من عذاب الجحيم ( مالك يوم الدين ) ليس له في ملكه شريك ولا منازع ولا معين ( إياك نعبد )
+الإقرار ونعترف بالتقصير وأشهد أن لا إله إلا الله وحده لا شريك له الملك الحق المبين وأشهد أن
+سيدنا محمدا رسول الله الصادق الأمين والله مكون الأكوان وعلم خفيات الإضمار ومكور الليل
+والنهار حجتي لكل العالمين ووجهتي إلى الأقربين والأبعدين من الأجناس المختلفين ( وإياك
+
+**English:**
+— 75 —
+women and every pain vanished ۞ And whoever has a need with Allah, let him read in order and in revelation with faith and assent 7
+times facing the qiblah after the prayer of two rak‘ahs with al-Fatihah and Surat al-Ikhlas 30 then he asks his need, it is fulfilled
+۞ And among what has been tried is that whoever reads it between the prayers of al-subh and al-fajr 41 days, for a period of 40 days without increase
+and asks his need, it is fulfilled ۞ And these verses are transmitted from the book Kanz al-Muqarrabin by the scholar Ibn Sab‘in, transmitted by him
+from Imam Ali, may Allah honor his face, and they are
+If you are seeking provision ۞ and the path of purpose from slave and free ۞ and you attain what you desire quickly
+and are safe from مخالفة and treachery ۞ then [read] Fatihat al-Kitab, for in it is ۞ for what I have hoped secretly, any secret
+So persist in its study after ‘Isha’ ۞ and in morning and noon then afternoon ۞ and persist with it at the sunset of every night
+up to ninety, following it with ten ۞ you will attain whatever you wish of glory and rank ۞ and great awe and high standing
+and glory not changed by nights ۞ by an occurrence of diminution taking place ۞ and success and joys perpetually
+and are safe from the punishment of every evil ۞ and you will not need anyone for anything ۞ and will not be stricken by what is disliked and harm
+And from hunger and nakedness and interruption ۞ and from the assault of one of command and prohibition ۞ you will be protected and attain hopes truly
+for the length of time in every age ۞ for if you do that, there will come to you one who comes ۞ with what pleases you from Zayd and ‘Amr
+(And this is the Riyadah of al-Fatihah) and it is that you seclude yourself in a dark place such that no one sees you except Allah and you fast 3
+days, the first of them Sunday, with the condition of the Riyadah from that which has spirit, and break the fast on barley bread and oil without satiety, and read
+al-Fatihah after every prayer one hundred times and supplicate with this; you say: My Lord, admit me into the sea of Your Oneness and the ocean of Your Singularity
+until I emerge into the freshness of Your mercy, and upon my face are flashes of the Qur’an from the آثار of Your mercy, awe-inspiring by Your majesty, strong
+by Your power, mighty by Your might, and clothe me with the robes of glory and acceptance, and make easy for me the easings of union and conjunction, and crown me with the crown
+of honor, and unite between me and Your beloved ones, O Master of the world and the Hereafter, O You who took Ibrahim as a friend and spoke to Musa
+with speech, and honored Muhammad, may Allah bless him and grant him peace, with honoring, “Peace, a saying from a Merciful Lord,” O Master of the Day of Judgment, You alone we worship
+and You alone we seek for help, guide us to the straight path, the path of those whom You have favored, not of those upon whom is wrath, nor of the astray
+And after 3 days there appears to you in the mihrab a white cat that puffs itself up until it fills the place in which you are, then it remains
+a heap, then a man comes out from beneath it saying: what is your need and what do you seek? So do not ask for anything, and say to him: I want the name and the seal
+and upon you is the condition of brotherhood, and the recitation is after the prayer of al-subh 3 times and al-ظهر and al-‘asr likewise
+And after al-maghrib ten, and we supplicate with this supplication: (In the name of Allah, the Merciful, the Compassionate. Praise be to Allah, Lord of the worlds) هداياكون
+for me ease and for me acceptance with the Lord of the worlds (the Merciful, the Compassionate), who spread out the regions and singled out Musa the one spoken to
+He gives life to bones while they are decayed; in them are two عظیم names, healing for every ailment, sickness, and a path to the gardens of bliss and salvation
+from the punishment of Hell (Master of the Day of Judgment) He has no partner in His dominion, nor contender, nor helper (You alone we worship)
+acknowledgment and we confess to shortcoming, and I bear witness that there is no god but Allah alone, no partner has He, the manifest true King, and I bear witness that
+our master Muhammad is the Messenger of Allah, the truthful, the trustworthy, and Allah is the fashioner of the cosmos and the knower of hidden concealments and the turner of night
+and day; my proof to all the worlds and my direction to the near and the far from the different kinds (And You alone
+
+Notes:
+[Grid content preserved as-is]
+| ميكائيل | ألقيت عليك | جبريل |
+| :--- | :--- | :--- |
+| ٢٠٦ | ٢٠٦ | ٤٠٢ | ٢٠٠ |
+| ٤٠٤ | ٢٩٩ | ٤٤٩ | ٢٠٥ |
+| ٢٠٦ | ١٩٨ | ٤٠١ | ٢٠٧ |
+| | ٦٥٣ | ٢٩٧ | ١٤٢ |
+
+---
+## Page 82
+
+**Arabic (original):**
+— ٧٦ —
+
+نستعين) بك على كل حاجة من أمور الدنيا والدين اللهم يا مالك الملوك العوالم كلها أجمعين لا إله إلا
+أنت سبحانك إني كنت من الظالمين رب نجني وأدركني برحمتك يا أرحم الراحمين يارب العالمين ونجني
+مما أخاف وأحذر ( اهدنا الصراط المستقيم صراط الذين أنعمت عليهم غير المغضوب عليهم ولا
+الضالين ) وبعد الدعاء الثاني من رياضة الفاتحة تقرأ الفاتحة دبر كل صلاة ١٨ وبعد الوتر ٢٥ ولا
+صوم ولا رياضة وإن لزمت الخلوة ٧ أيام الرياضة تقول بعد الدعاء اللهم سخر لي عبدك الأخضر إنك
+على كل شيء قدير والبخور بعد القراءة عود ولبان وجاوي في أيام الخلوة ولأنك إن أردت اتبع ما تريد
+من خيري الدنيا والآخرة * وأيضا للمحبة سورة الفاتحة تكتب الوفق الآتي في ساعة الزهرة
+وتحمله وتقرأ هذه الدعوة يحصل المطلوب وهي ( بسم الله الرحمن الرحيم الحمد لله رب العالمين
+توكل يا جبريل أنت وأعوانك بحق العزيز الجبار الكريم الوهاب القهار اللهم ألق محبة كذا في قلب
+كذا بحق ( الرحمن الرحيم مالك يوم الدين) وبحق الله الحي القيوم الواحد الأحد توكل يا سرفيائيل أنت
+وأعوانك وألق محبة كذا في قلب كذا بحق ( إياك نعبد وإياك نستعين) وبحق الملك المقتدر المقدم المبدى
+المعيد توكل يا روقيائيل أنت وأعوانك وألقوا محبة كذا في قلب كذا بحق ( اهدنا الصراط المستقيم)
+وبحق الفرد الحي القيوم توكل يا زرائيل أنت وأعوانك وألقوا محبة كذا في قلب كذا بحق الواحد
+العليم الجواد الكريم توكل يا عزرائيل أنت وأعوانك سمعاً مطيعاً وألقوا محبة كذا في قلب كذا
+بحق ( صراط الذين أنعمت عليهم غير المغضوب عليهم ولا الضالين) وبحق القاهر العزيز الجليل
+الكبير توكل أنت وأعوانك سامعاً مطيعاً وألقوا محبة كذا وكذا في قلب كذا بحق يحبونهم كحب
+الله والذين آمنوا أشد حباً لله الآية وهذه صورة الوفق
+
+(فائدة) لأي مرض قال عليه السلام من كان به مرض
+فليقرأ على ماء طاهر الفاتحة وآية الكرسي ٧ والمعوذتين
+٧١ ويشربه على الريق ٣ أيام عافاه الله من كل بلاء وقال
+العارفون بالله أم الكتاب فيها ألف خاصية ظاهرة وألف
+خاصية باطنة إذا كتبت في إناء ومحيت وسقيت لأي
+مرض أزال الله وقال عليه السلام إذا وضعت جنبك على
+الفراش وقرأت الفاتحة وقل هو الله أحد فقد أمنت من كل أمر وقال عليه السلام من قرأ آخر
+الحشر ووضع يده تحت رأسه وقال اللهم إني أسألك الشفاء من كل داء شفي
+(فصل في ذكر حجاب القفل ) تقول احتجب بعزة الله تعالى العزيز في عزعزه بطول الـ ٣
+هيل ٣ سج نجوا وصفا بطش أعلم شاهوش عروش مهلش ٣ بركيا هليل عمرهدايت ٣ بليايح يمددكم
+ربكم بملائكته الكرام بالص كهيعص حمسق ص والقرآن ذي الذكر الآية ق والقرآن المجيد
+ن والقلم وما يسطرون والسماء والطارق إلى حافظ والصافات صفا إلى ذكر أو النجم إذا هوى وسورة القمر
+الخ وإنه لقسم لو تعلمون عظيم لو أنزلنا هذا القرآن على جبل الخ قل أوحي إلي إلى قوله شطط حفظت
+جميع
+
+**English:**
+(We seek help) in You for every need from the affairs of the world and the الدين O Allah, O Master of the kings, all the worlds altogether, there is no god except
+You, glory be to You, I was indeed among the wrongdoers. My Lord, save me and overtake me by Your mercy, O Most Merciful of the merciful, O Lord of the worlds, and save me
+from what I fear and beware of (Guide us to the straight path, the path of those whom You have favored, not of those upon whom is wrath, nor
+the astray). And after the second supplication of the Riyadah of al-Fatihah, you read al-Fatihah after every prayer 18 and after the witr 25 and there is
+no fasting and no Riyadah, and if seclusion is necessary, 7 days of Riyadah, you say after the supplication: O Allah, subdue for me Your green servant, indeed
+You are over all things powerful. And the incense after the reading is oud and frankincense and javī in the days of seclusion, and because if you wish, follow what you desire
+from the good of the world and the Hereafter. * And also for love, Surat al-Fatihah: write the following wafq in the hour of Venus
+and carry it and read this invocation; the desired thing will be obtained, and it is: (In the name of Allah, the Merciful, the Compassionate. Praise be to Allah, Lord of the worlds
+Trust, O Gabriel, you and your helpers, by the right of the Mighty, the Compeller, the Generous, the Bestower, the Subduer; O Allah, cast love of so-and-so into the heart
+of so-and-so by the right of (the Merciful, the Compassionate, Master of the Day of Judgment) and by the right of Allah, the Living, the Self-Subsisting, the One, the Single; trust, O Sarfiyail, you and
+your helpers, and cast love of so-and-so into the heart of so-and-so by the right of (You alone we worship and You alone we seek for help) and by the right of the King, the Powerful, the Advancing, the Originating,
+the Returning; trust, O Ruqiyail, you and your helpers, and cast love of so-and-so into the heart of so-and-so by the right of (Guide us to the straight path)
+and by the right of the Single, the Living, the Self-Subsisting; trust, O Zarail, you and your helpers, and cast love of so-and-so into the heart of so-and-so by the right of the One,
+the Knowing, the Generous, the Noble; trust, O Azrail, you and your helpers, hearing and obeying, and cast love of so-and-so into the heart of so-and-so
+by the right of (the path of those whom You have favored, not of those upon whom is wrath, nor the astray) and by the right of the Subduer, the Mighty, the Majestic,
+the Great; trust, you and your helpers, hearing and obeying, and cast love of so-and-so and so-and-so into the heart of so-and-so by the right of “they love them as the love
+of Allah, and those who believe are stronger in love for Allah” the verse, and this is the form of the wafq
+
+(Fa’ida) for any illness, he, peace be upon him, said: whoever has an illness
+let him read upon pure water al-Fatihah and Ayat al-Kursi 7 and the two Mu‘awwidhatayn
+71 and drink it on an empty stomach for 3 days, Allah will grant him health from every affliction, and he said
+the knowers of Allah: Umm al-Kitab has in it a thousand manifest properties and a thousand
+hidden properties; if it is written in a vessel and erased and given to drink for any
+illness, Allah removes it. And he, peace be upon him, said: if you place your side upon
+the bed and read al-Fatihah and Qul Huwa Allahu Ahad, you have been secured from every matter. And he, peace be upon him, said: whoever reads the end of
+al-Hashr and places his hand under his head and says: O Allah, I ask You for healing from every disease, he is healed
+(Chapter in mention of the lock talisman) you say: be veiled by the might of Allah تعالى العزيز in His mighty might by the length of الـ 3
+هيل 3 سج نجوا وصفا بطش أعلم شاهوش عروش مهلش 3 بركيا هليل عمرهدايت 3 بليايح may your Lord support you
+with His noble angels بالص كهيعص حمسق ص and the Qur’an of the remembrance, the verse ق and the glorious Qur’an
+ن and the pen and what they inscribe, and the heaven and the night-comer to a guardian, and the ranks in ranks to the ذكر or the star when it falls and Surat al-Qamar
+etc. And indeed it is surely an oath, if you knew, عظیم. If We had sent down this Qur’an upon a mountain etc. Say: it has been revealed to me to the قوله شطط, حفظت
+all
+
+---
+## Page 83
+
+**Arabic (original):**
+- ٧٧ -
+
+جميع جسمي وشعري وبشري من شر الجن والإنس والروحانية والسفلية بطوس دبوس دسوس وبالاسم
+العظيم الأعظم وبالحجاب المنيع لجميع مردة الشياطين وجنود إبليس أجمعين بلطف ٣ سلطع
+أسماطون مهلش كوهوش عليا قشو اهبطوا أيتها الأرواح الروحانية كلكم وأنت يا صرفيائيل
+واحجبوا عن كذا وكذا ما به من الأرواح والخوف والفزع ومن شر طوارق الليل والنهار ومن
+شر كل شيطان مارد معاند وبحق طلح أطوار يج عظميا كمهص كفيت عمسق حميت بحق فقج
+مخمت قوله الحق وله الملك يوم ينفخ في الصور عالم الغيب والشهادة وهو الحكيم الخبير وبحق أهيا
+شراهيا أدوناي أصباؤت آل شداي أيلوهيم وإنه لقسم لو تعلمون عظيم فسيكفيكهم الله وهو السميع
+العليم أجيبوا يا خدام هذه الأسماء وتوكلوا بكذا وكذا ( وهذه عزيمة الأملاك الأربعة عليهم السلام)
+وحاملها يكون في حفظ الله تعالى وهي قبول عظيم لمن أراد الدخول على الملوك والسلاطين والعظماء
+وخاتمها المسدس وهو خاتم الفاتحة ومن حمله يكون مؤيداً منصوراً ويقهر كل من يعانده في هذه
+الأمور وهي هذه الأسماء هو ٣ له هـ ع ص أحيا محيي ميت محتوي قائم قيوم قاهر ح م ع س ق
+بديع السموات والأرض بديع رفيع سميع أنت الله الذي لا إله إلا أنت سبحانك إني كنت من الظالمين
+إنما أمره إذا أراد شيئاً أن يقول له كن فيكون سبحان الذي بيده ملكوت كل شيء وإليه ترجعون
+خالق كل شيء وهو على كل شيء وكيل ص ق ن فسيكفيكهم الله وهو السميع العليم ولا يؤوده
+حفظهما وهو العلي العظيم ولا تضرونه شيئاً إن ربي على كل شيء حفيظ فالله خير حافظاً وهو أرحم
+الراحمين له معقبات من بين يديه ومن خلفه يحفظونه من أمر الله وحفظناها من كل شيطان رجيم
+وحفظاً ذلك تقدير العزيز العليم وحفظاً من كل شيطان مارد الله حفيظ عليهم وما أنت عليهم بوكيل
+لكل أواب حفيظ بل هو قرآن مجيد في لوح محفوظ توكل يا ميططرون ليجسمعلعان صعب لهيال
+صكها عسال ( وهذه صفة وفقها المسبع كما ترى )
+
+**English:**
+all my body and hair and skin from the evil of the jinn and mankind and the spiritual and the lower, by Tūs, Dubūs, Dusūs, and by the
+greatest greatest name and by the impregnable veil for all the rebellious devils and the armies of Iblis altogether, by لطف 3
+سلطع أسماطون مهلش كوهوش عليا قشو descend, O all spiritual spirits, and you, O Sarfiyail,
+and veil from so-and-so and so-and-so what is in him of spirits and fear and terror and from the evil of the night and day comers and from
+the evil of every rebellious, obstinate devil, and by the right of ṭalḥ, aṭwār, yj, ʿaẓmiyā, kmahṣ, kfīt, ʿamsaq, ḥamīt, by the right of fqj
+mukhmat, His word is the truth, and His is the dominion on the Day when the Trumpet is blown, Knower of the unseen and the witnessed, and He is the Wise, the Aware, and by the right of Ahiya
+Shrahiya Adonai Asbāʾūt Al Shaddai Elohim, and indeed it is surely an oath, if you knew, عظیم. Allah will suffice them, and He is the Hearing
+the Knowing. Respond, O servants of these names, and trust in so-and-so and so-and-so (and this is the incantation of the four angels, peace be upon them)
+and its bearer will be in the protection of Allah تعالى, and it is a great acceptance for whoever desires to enter upon kings and sultans and great ones
+and its seal is the hexagon, and it is the seal of al-Fatihah, and whoever bears it will be supported, victorious, and will overpower everyone who opposes him in these
+matters, and these names are: هو 3 له هـ ع ص أحيا محيي ميت محتوي قائم قيوم قاهر ح م ع س ق
+Originator of the heavens and the earth, Originator, Exalted, Hearing, You are Allah, there is no god except You, glory be to You, I was among the wrongdoers
+His command, when He desires a thing, is only that He says to it, “Be,” and it is. Glory be to Him in Whose hand is the dominion of everything, and to Him you are returned
+Creator of everything, and He over everything is a trustee. ص ق ن Allah will suffice you against them, and He is the Hearing, the Knowing, and its حفظهما does not burden Him
+and He is the High, the Great. And they do not harm Him anything. Indeed my Lord is over everything a guardian. So Allah is the best guardian, and He is the most merciful of
+the merciful. For him are attendants from before him and from behind him, guarding him by the command of Allah, and We preserved it from every accursed devil
+and a preservation, that is the decree of the Mighty, the Knowing, and a preservation from every rebellious devil. Allah is a guardian over them, and you are not over them a trustee
+for every oft-returning, a guardian. Nay, it is a glorious Qur’an in a preserved tablet. Trust, O Miṭṭaṭrūn, ليجسمعلعان صعب لهيال
+صكها عسال (and this is the description of its sevenfold wafq as you see)
+
+---
+_End of translation — 83 pages._
