@@ -12,10 +12,12 @@ BRANCH="main"
 # Collect what changed
 CHANGED_RAW=$(git diff --name-only HEAD 2>/dev/null | grep 'ocr/raw/' || true)
 CHANGED_ENR=$(git diff --name-only HEAD 2>/dev/null | grep 'ocr/enriched/' || true)
+CHANGED_ENEN=$(git diff --name-only HEAD 2>/dev/null | grep 'ocr/enriched_en/' || true)
+CHANGED_MASTER=$(git diff --name-only HEAD 2>/dev/null | grep 'ocr/shams-al-maarif-en-' || true)
 CHANGED_STATE=$(git diff --name-only HEAD 2>/dev/null | grep 'state/' || true)
-UNTRACKED=$(git ls-files --others --exclude-standard | grep -E 'ocr/(raw|enriched)/' || true)
+UNTRACKED=$(git ls-files --others --exclude-standard | grep -E 'ocr/(raw|enriched|enriched_en)/' || true)
 
-ALL_CHANGES=$(echo -e "${CHANGED_RAW}\n${CHANGED_ENR}\n${CHANGED_STATE}\n${UNTRACKED}" | grep -v '^$' | sort -u)
+ALL_CHANGES=$(echo -e "${CHANGED_RAW}\n${CHANGED_ENR}\n${CHANGED_ENEN}\n${CHANGED_MASTER}\n${CHANGED_STATE}\n${UNTRACKED}" | grep -v '^$' | sort -u)
 
 # If only lock file changed, skip (it's just housekeeping)
 LOCK_ONLY=false
@@ -46,12 +48,14 @@ fi
 # Count changes
 RAW_COUNT=$(echo "$ALL_CHANGES" | grep 'ocr/raw/' | wc -l || true)
 ENR_COUNT=$(echo "$ALL_CHANGES" | grep 'ocr/enriched/' | wc -l || true)
+ENEN_COUNT=$(echo "$ALL_CHANGES" | grep 'ocr/enriched_en/' | wc -l || true)
 
 # Build commit message
 COMMIT_MSG="feat(ocr): enrich ${RANGE}
 
 • OCR raw: ${RAW_COUNT} page(s) added/updated
 • Enriched: ${ENR_COUNT} page(s)
+• Translation: ${ENEN_COUNT} page(s)
 • Pipeline: shams-al-maarif-ocr v1.0.0
 
 Auto-committed by enrichment cron job on $(date +'%Y-%m-%d %H:%M UTC')"
@@ -59,7 +63,7 @@ Auto-committed by enrichment cron job on $(date +'%Y-%m-%d %H:%M UTC')"
 echo "[PUSH] Changes detected for ${RANGE}"
 echo "[PUSH] Committing: raw=${RAW_COUNT} enriched=${ENR_COUNT}"
 
-git add ocr/raw/ ocr/enriched/ state/
+git add ocr/raw/ ocr/enriched/ ocr/enriched_en/ ocr/shams-al-maarif-en-complete.md ocr/shams-al-maarif-en-complete.html state/
 git commit -m "$COMMIT_MSG"
 
 # Push to GitHub with retry
