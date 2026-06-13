@@ -2,6 +2,9 @@
 .env
 *.key
 secrets/
+translate_keys.py
+.translate_env
+.translate_state.json
 
 # Python
 __pycache__/
@@ -31,6 +34,8 @@ Thumbs.db
 
 # Logs
 *.log
+# Generated OCR output (logs only — enriched_en/ intentionally tracked)
+ocr/logs/
 
 # Transient state files
 state/run_batch.lock
