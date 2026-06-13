@@ -59,9 +59,8 @@ log "  Next batch: $PENDING_PAGES"
 
 # --- Step 2: OCR ---
 log "[STEP 2] Gemini OCR..."
-OCR_EXIT=0
-OCR_OUTPUT=$(python3 "$SCRIPT_DIR/ocr_gemini.py" $PENDING_PAGES 2>&1) || OCR_EXIT=$?
-echo "$OCR_OUTPUT" | tee -a "$CRON_LOG"
+python3 "$SCRIPT_DIR/ocr_gemini.py" $PENDING_PAGES 2>&1 | tee -a "$CRON_LOG"
+OCR_EXIT=${PIPESTATUS[0]}
 if [ "$OCR_EXIT" -ne 0 ]; then
     log "  [WARN] OCR had failures (exit $OCR_EXIT) — continuing"
 fi
@@ -83,9 +82,8 @@ fi
 
 # --- Step 3: Enrichment ---
 log "[STEP 3] Gemini enrichment..."
-ENR_EXIT=0
-ENR_OUTPUT=$(python3 "$SCRIPT_DIR/enrich_gemini.py" $PENDING_PAGES 2>&1) || ENR_EXIT=$?
-echo "$ENR_OUTPUT" | tee -a "$CRON_LOG"
+python3 "$SCRIPT_DIR/enrich_gemini.py" $PENDING_PAGES 2>&1 | tee -a "$CRON_LOG"
+ENR_EXIT=${PIPESTATUS[0]}
 if [ "$ENR_EXIT" -ne 0 ]; then
     log "  [WARN] Enrichment had failures (exit $ENR_EXIT) — continuing"
 fi
