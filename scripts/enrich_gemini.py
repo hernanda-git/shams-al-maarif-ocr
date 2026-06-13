@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
 enrich_gemini.py — Stage 2 Enrichment using Google Gemini API.
+Uses multi-key rotation from gemini_rotate.py (8 keys).
 
 Takes raw OCR output (which may have noise from page artefacts, broken
 letterforms, ink smudges, etc.) and produces a CLEANED version that:
@@ -20,6 +21,15 @@ import urllib.request
 import urllib.error
 from pathlib import Path
 
+# ── Multi-key rotation (8 Gemini keys) ──────────────────────────────────────
+_SCRIPTS_DIR = os.path.expanduser("~/.hermes/scripts")
+if os.path.isdir(_SCRIPTS_DIR):
+    sys.path.insert(0, _SCRIPTS_DIR)
+
+from gemini_rotate import GeminiKeyManager, KEY_COUNT
+
+KEY_MGR = GeminiKeyManager()
+
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 REPO_DIR = os.path.dirname(SCRIPT_DIR)
 RAW_DIR = os.path.join(REPO_DIR, "ocr", "raw")
@@ -29,19 +39,13 @@ API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-fl
 
 
 def get_api_key():
+    """Retrieve API key from env var, .env, or — now — the key rotator."""
     key = os.environ.get("GEMINI_API_KEY", "")
     if key:
         return key
-    env_path = os.path.join(REPO_DIR, ".env")
-    if os.path.exists(env_path):
-        with open(env_path, "r") as f:
-            for line in f:
-                line = line.strip()
-                if line.startswith("GEMINI_API_KEY="):
-                    parts = line.split("=", 1)
-                    if len(parts) >= 2:
-                        return parts[1].strip().strip("\"'")
-    return ""
+    # Fallback: use the rotator's current key
+    _, key = KEY_MGR.get_key()
+    return key
 
 
 def _sleep_with_backoff(attempt, max_delay=60):
@@ -140,6 +144,11 @@ def enrich_page_text(page_num, raw_text, api_key):
             error_body = e.read().decode("utf-8", errors="replace")
             print(f"  [RETRY {attempt}/{max_retries}] HTTP {e.code}: {error_body[:200]}", flush=True)
             if e.code == 429:
+                # Rate limited — rotate to next key!
+                old_idx, _ = KEY_MGR.get_key()
+                new_idx, new_key = KEY_MGR.rotate_key()
+                api_key = new_key
+                print(f"  [ROTATE] Key {old_idx} → key {new_idx} (429 rate limit)", flush=True)
                 _sleep_with_backoff(attempt, max_delay=60)
             elif e.code >= 500:
                 _sleep_with_backoff(attempt, max_delay=60)
@@ -153,8 +162,8 @@ def enrich_page_text(page_num, raw_text, api_key):
     return raw_text
 
 
-def process_batch(page_numbers, api_key):
-    """Enrich a batch of pages from their raw OCR files."""
+def process_batch(page_numbers):
+    """Enrich a batch of pages from their raw OCR files, rotating Gemini key each call."""
     results = {"enriched": [], "failed": [], "fallback_raw": []}
 
     for i, p in enumerate(page_numbers):
@@ -176,7 +185,9 @@ def process_batch(page_numbers, api_key):
             results["enriched"].append(p)
             continue
 
-        print(f"\n[{i+1}/{len(page_numbers)}] Enriching page {p} ({len(raw_text)} chars)...", flush=True)
+        # Rotate to a fresh key before every API call
+        idx, api_key = KEY_MGR.rotate_key()
+        print(f"\n[{i+1}/{len(page_numbers)}] Enriching page {p} ({len(raw_text)} chars) with key [{idx}]...", flush=True)
         enriched = enrich_page_text(p, raw_text, api_key)
 
         os.makedirs(ENR_DIR, exist_ok=True)
@@ -199,16 +210,17 @@ def process_batch(page_numbers, api_key):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Gemini Enrichment for OCR output")
     parser.add_argument("pages", nargs="+", type=int, help="Page numbers to enrich")
-    parser.add_argument("--api-key", help="Gemini API key")
+    parser.add_argument("--api-key", help="Gemini API key (override; uses rotator by default)")
     args = parser.parse_args()
 
     api_key = args.api_key or get_api_key()
     if not api_key:
-        print("ERROR: GEMINI_API_KEY not set.")
+        print("ERROR: No Gemini API key available.")
         sys.exit(1)
 
+    print(f"  [KEYS] 8-key rotator active — rotating before each API call", flush=True)
     os.makedirs(ENR_DIR, exist_ok=True)
-    results = process_batch(args.pages, api_key)
+    results = process_batch(args.pages)
     print(f"\n{'='*50}", flush=True)
     print(f"Enrichment complete:", flush=True)
     print(f"  Enriched: {len(results['enriched'])} pages", flush=True)

@@ -38,12 +38,17 @@ trap "rm -f '$LOCK_FILE'" EXIT
 
 log "=== BATCH START ==="
 
-# Load API key
+# Load API key (fallback/override — rotator handles the default)
 if [ -f "$REPO_DIR/.env" ]; then
     set -a
     source "$REPO_DIR/.env"
     set +a
 fi
+
+# Log which Gemini key is active
+KEY_INDEX=$(python3 /home/it26/.hermes/scripts/gemini_rotate.py status 2>/dev/null | grep 'Current index' | awk '{print $NF}')
+KEY_LABEL=$(python3 /home/it26/.hermes/scripts/gemini_rotate.py status 2>/dev/null | grep 'Current label' | awk '{print $NF}')
+log "  Gemini key: index=$KEY_INDEX ($KEY_LABEL) — 8 keys, auto-rotates on 429"
 
 # --- Step 1: Get next batch ---
 log "[STEP 1] Identifying next batch..."

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
 ocr_gemini.py — Stage 1 OCR using Google Gemini API.
+Uses multi-key rotation from gemini_rotate.py (8 keys).
 
 Sends a page PDF to Gemini with a carefully crafted prompt to extract
 Arabic text VERBATIM — no summarisation, no rephrasing, no invention.
@@ -17,6 +18,16 @@ import argparse
 import urllib.request
 import urllib.error
 from pathlib import Path
+
+# ── Multi-key rotation (8 Gemini keys) ──────────────────────────────────────
+_SCRIPTS_DIR = os.path.expanduser("~/.hermes/scripts")
+if os.path.isdir(_SCRIPTS_DIR):
+    sys.path.insert(0, _SCRIPTS_DIR)
+
+# Import rotator — handles 8 keys with persistent state
+from gemini_rotate import GeminiKeyManager, KEY_COUNT
+
+KEY_MGR = GeminiKeyManager()
 
 # ---------------------------------------------------------------------------
 # Config
@@ -39,19 +50,12 @@ API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-fl
 
 
 def get_api_key():
-    """Retrieve API key from env, .env, or --api-key arg."""
+    """Retrieve API key from env var, .env, or — now — the key rotator."""
     key = os.environ.get("GEMINI_API_KEY", "")
     if key:
         return key
-    env_path = os.path.join(REPO_DIR, ".env")
-    if os.path.exists(env_path):
-        with open(env_path, "r") as f:
-            for line in f:
-                line = line.strip()
-                if line.startswith("GEMINI_API_KEY="):
-                    parts = line.split("=", 1)
-                    if len(parts) >= 2:
-                        return parts[1].strip().strip("\"'")
+    # Fallback: use the rotator's current key
+    _, key = KEY_MGR.get_key()
     return key
 
 
@@ -164,6 +168,11 @@ def ocr_page(page_num, api_key):
             error_body = e.read().decode("utf-8", errors="replace")
             print(f"  [RETRY {attempt}/{max_retries}] HTTP {e.code}: {error_body[:200]}", flush=True)
             if e.code == 429:
+                # Rate limited — rotate to next key!
+                old_idx, _ = KEY_MGR.get_key()
+                new_idx, new_key = KEY_MGR.rotate_key()
+                api_key = new_key
+                print(f"  [ROTATE] Key {old_idx} → key {new_idx} (429 rate limit)", flush=True)
                 _sleep_with_backoff(attempt, max_delay=60)
             elif e.code >= 500:
                 _sleep_with_backoff(attempt, max_delay=60)
@@ -187,11 +196,13 @@ def save_raw(page_num, text):
     return out_path
 
 
-def process_batch(page_numbers, api_key):
-    """Process a list of page numbers sequentially with rate-limit awareness."""
+def process_batch(page_numbers):
+    """Process a list of page numbers sequentially, rotating Gemini key each call."""
     results = {"success": [], "failed": [], "empty": []}
     for i, p in enumerate(page_numbers):
-        print(f"\n[{i+1}/{len(page_numbers)}] Processing page {p}...", flush=True)
+        # Rotate to a fresh key before every API call
+        idx, api_key = KEY_MGR.rotate_key()
+        print(f"\n[{i+1}/{len(page_numbers)}] Processing page {p} with key [{idx}]...", flush=True)
         text = ocr_page(p, api_key)
 
         if text is None:
@@ -215,17 +226,18 @@ def process_batch(page_numbers, api_key):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Gemini OCR for Shams al-Ma'arif")
     parser.add_argument("pages", nargs="+", type=int, help="Page numbers to OCR")
-    parser.add_argument("--api-key", help="Gemini API key (env: GEMINI_API_KEY)")
+    parser.add_argument("--api-key", help="Gemini API key (override; uses rotator by default)")
     args = parser.parse_args()
 
     api_key = args.api_key or get_api_key()
 
     if not api_key:
-        print("ERROR: GEMINI_API_KEY not set. Provide via --api-key, env var, or .env file.")
+        print("ERROR: No Gemini API key available. Provide via --api-key or check rotator state.")
         sys.exit(1)
 
+    print(f"  [KEYS] 8-key rotator active — rotating before each API call", flush=True)
     os.makedirs(RAW_DIR, exist_ok=True)
-    results = process_batch(args.pages, api_key)
+    results = process_batch(args.pages)
     print(f"\n{'='*50}", flush=True)
     print(f"Batch complete:", flush=True)
     print(f"  Success: {len(results['success'])} pages", flush=True)
