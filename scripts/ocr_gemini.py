@@ -61,13 +61,13 @@ def encode_pdf_to_base64(pdf_path):
         return base64.b64encode(f.read()).decode("utf-8")
 
 
-def _sleep_with_backoff(attempt, max_delay=120):
-    """Sleep with exponential backoff + jitter."""
+def _sleep_with_backoff(attempt, max_delay=60):
+    """Sleep with exponential backoff + jitter. Max delay clamped to 60s."""
     import random
-    delay = min(2 ** attempt * 5, max_delay)  # 10, 20, 40, 80, 120...
+    delay = min(2 ** attempt * 3, max_delay)  # 6, 12, 24, 48, 60...
     jitter = random.uniform(0, 0.5 * delay)
     total = delay + jitter
-    print(f"  Waiting {total:.0f}s (backoff attempt {attempt})...")
+    print(f"  Waiting {total:.0f}s (backoff attempt {attempt})...", flush=True)
     time.sleep(total)
 
 
@@ -78,12 +78,12 @@ def ocr_page(page_num, api_key):
     """
     pdf_path = os.path.join(PAGES_DIR_SRC, f"page_{page_num:03d}.pdf")
     if not os.path.exists(pdf_path):
-        print(f"[ERROR] PDF not found: {pdf_path}")
+        print(f"[ERROR] PDF not found: {pdf_path}", flush=True)
         return None
 
     pdf_b64 = encode_pdf_to_base64(pdf_path)
     pdf_size = len(pdf_b64)
-    print(f"  [OCR] page_{page_num:03d}.pdf ({pdf_size / 1024:.0f} KB base64)")
+    print(f"  [OCR] page_{page_num:03d}.pdf ({pdf_size / 1024:.0f} KB base64)", flush=True)
 
     prompt_text = (
         "You are an expert OCR system for Classical Arabic in Naskh typeface. "
@@ -126,7 +126,7 @@ def ocr_page(page_num, api_key):
         }
     }
 
-    max_retries = 20
+    max_retries = 5
     for attempt in range(1, max_retries + 1):
         try:
             headers = {
@@ -143,7 +143,7 @@ def ocr_page(page_num, api_key):
             candidates = result.get("candidates", [])
             if not candidates:
                 block_reason = result.get("promptFeedback", {}).get("blockReason", "unknown")
-                print(f"  [WARN] No candidates (blocked: {block_reason})")
+                print(f"  [WARN] No candidates (blocked: {block_reason})", flush=True)
                 return None
 
             text_parts = []
@@ -154,26 +154,26 @@ def ocr_page(page_num, api_key):
             raw_text = "\n".join(text_parts).strip()
 
             if len(raw_text) < 5:
-                print(f"  [WARN] Very short response ({len(raw_text)} chars) — may be blank page")
+                print(f"  [WARN] Very short response ({len(raw_text)} chars) — may be blank page", flush=True)
                 return raw_text if raw_text else ""
 
-            print(f"  [OK] {len(raw_text)} characters extracted")
+            print(f"  [OK] {len(raw_text)} characters extracted", flush=True)
             return raw_text
 
         except urllib.error.HTTPError as e:
             error_body = e.read().decode("utf-8", errors="replace")
-            print(f"  [RETRY {attempt}/{max_retries}] HTTP {e.code}: {error_body[:200]}")
+            print(f"  [RETRY {attempt}/{max_retries}] HTTP {e.code}: {error_body[:200]}", flush=True)
             if e.code == 429:
-                _sleep_with_backoff(attempt, max_delay=600)  # Up to 10min between retries
+                _sleep_with_backoff(attempt, max_delay=60)
             elif e.code >= 500:
-                _sleep_with_backoff(attempt, max_delay=120)
+                _sleep_with_backoff(attempt, max_delay=60)
             else:
-                time.sleep(30)  # Longer default wait
+                time.sleep(10)
         except Exception as e:
-            print(f"  [RETRY {attempt}/{max_retries}] {type(e).__name__}: {e}")
-            _sleep_with_backoff(attempt, max_delay=120)
+            print(f"  [RETRY {attempt}/{max_retries}] {type(e).__name__}: {e}", flush=True)
+            _sleep_with_backoff(attempt, max_delay=60)
 
-    print(f"  [FAIL] All {max_retries} attempts exhausted")
+    print(f"  [FAIL] All {max_retries} attempts exhausted", flush=True)
     return None
 
 
@@ -183,7 +183,7 @@ def save_raw(page_num, text):
     out_path = os.path.join(RAW_DIR, f"page_{page_num:03d}.txt")
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(text)
-    print(f"  [SAVED] {out_path}")
+    print(f"  [SAVED] {out_path}", flush=True)
     return out_path
 
 
@@ -191,7 +191,7 @@ def process_batch(page_numbers, api_key):
     """Process a list of page numbers sequentially with rate-limit awareness."""
     results = {"success": [], "failed": [], "empty": []}
     for i, p in enumerate(page_numbers):
-        print(f"\n[{i+1}/{len(page_numbers)}] Processing page {p}...")
+        print(f"\n[{i+1}/{len(page_numbers)}] Processing page {p}...", flush=True)
         text = ocr_page(p, api_key)
 
         if text is None:
@@ -206,7 +206,7 @@ def process_batch(page_numbers, api_key):
         # Generous delay between pages to avoid rate limiting
         if i < len(page_numbers) - 1:
             delay = 5
-            print(f"  Cooling down {delay}s before next page...")
+            print(f"  Cooling down {delay}s before next page...", flush=True)
             time.sleep(delay)
 
     return results
@@ -226,10 +226,10 @@ if __name__ == "__main__":
 
     os.makedirs(RAW_DIR, exist_ok=True)
     results = process_batch(args.pages, api_key)
-    print(f"\n{'='*50}")
-    print(f"Batch complete:")
-    print(f"  Success: {len(results['success'])} pages")
-    print(f"  Failed:  {len(results['failed'])} pages")
-    print(f"  Empty:   {len(results['empty'])} pages")
+    print(f"\n{'='*50}", flush=True)
+    print(f"Batch complete:", flush=True)
+    print(f"  Success: {len(results['success'])} pages", flush=True)
+    print(f"  Failed:  {len(results['failed'])} pages", flush=True)
+    print(f"  Empty:   {len(results['empty'])} pages", flush=True)
     if results["failed"]:
-        print(f"  Failed pages: {results['failed']}")
+        print(f"  Failed pages: {results['failed']}", flush=True)

@@ -44,12 +44,12 @@ def get_api_key():
     return ""
 
 
-def _sleep_with_backoff(attempt, max_delay=120):
-    """Sleep with exponential backoff + jitter."""
-    delay = min(2 ** attempt * 5, max_delay)
+def _sleep_with_backoff(attempt, max_delay=60):
+    """Sleep with exponential backoff + jitter. Max delay clamped to 60s."""
+    delay = min(2 ** attempt * 3, max_delay)
     jitter = random.uniform(0, 0.5 * delay)
     total = delay + jitter
-    print(f"  Waiting {total:.0f}s (backoff attempt {attempt})...")
+    print(f"  Waiting {total:.0f}s (backoff attempt {attempt})...", flush=True)
     time.sleep(total)
 
 
@@ -97,7 +97,7 @@ def enrich_page_text(page_num, raw_text, api_key):
         }
     }
 
-    max_retries = 20
+    max_retries = 5
     for attempt in range(1, max_retries + 1):
         try:
             headers = {
@@ -113,7 +113,7 @@ def enrich_page_text(page_num, raw_text, api_key):
 
             candidates = result.get("candidates", [])
             if not candidates:
-                print(f"  [WARN] No candidates for enrichment")
+                print(f"  [WARN] No candidates for enrichment", flush=True)
                 return raw_text  # Fallback: return raw
 
             text_parts = []
@@ -125,31 +125,31 @@ def enrich_page_text(page_num, raw_text, api_key):
 
             # Safety check: enriched should not be dramatically shorter than raw
             if len(enriched) < len(raw_text) * 0.5:
-                print(f"  [WARN] Enriched text is <50% of raw length ({len(enriched)} vs {len(raw_text)}) — using raw")
+                print(f"  [WARN] Enriched text is <50% of raw length ({len(enriched)} vs {len(raw_text)}) — using raw", flush=True)
                 return raw_text
 
             # Safety check: enriched should not be dramatically longer (avoid hallucination)
             if len(enriched) > len(raw_text) * 3:
-                print(f"  [WARN] Enriched >3x raw length ({len(enriched)} vs {len(raw_text)}) — using raw")
+                print(f"  [WARN] Enriched >3x raw length ({len(enriched)} vs {len(raw_text)}) — using raw", flush=True)
                 return raw_text
 
-            print(f"  [ENRICHED] {len(raw_text)} → {len(enriched)} chars")
+            print(f"  [ENRICHED] {len(raw_text)} → {len(enriched)} chars", flush=True)
             return enriched
 
         except urllib.error.HTTPError as e:
             error_body = e.read().decode("utf-8", errors="replace")
-            print(f"  [RETRY {attempt}/{max_retries}] HTTP {e.code}: {error_body[:200]}")
+            print(f"  [RETRY {attempt}/{max_retries}] HTTP {e.code}: {error_body[:200]}", flush=True)
             if e.code == 429:
-                _sleep_with_backoff(attempt, max_delay=600)  # Up to 10min between retries
+                _sleep_with_backoff(attempt, max_delay=60)
             elif e.code >= 500:
-                _sleep_with_backoff(attempt, max_delay=120)
+                _sleep_with_backoff(attempt, max_delay=60)
             else:
-                time.sleep(30)
+                time.sleep(10)
         except Exception as e:
-            print(f"  [RETRY {attempt}/{max_retries}] {type(e).__name__}: {e}")
-            _sleep_with_backoff(attempt, max_delay=120)
+            print(f"  [RETRY {attempt}/{max_retries}] {type(e).__name__}: {e}", flush=True)
+            _sleep_with_backoff(attempt, max_delay=60)
 
-    print(f"  [FAIL] Enrichment failed — falling back to raw text")
+    print(f"  [FAIL] Enrichment failed — falling back to raw text", flush=True)
     return raw_text
 
 
@@ -160,7 +160,7 @@ def process_batch(page_numbers, api_key):
     for i, p in enumerate(page_numbers):
         raw_path = os.path.join(RAW_DIR, f"page_{p:03d}.txt")
         if not os.path.exists(raw_path):
-            print(f"\n[{i+1}/{len(page_numbers)}] Page {p}: no raw OCR found, skipping")
+            print(f"\n[{i+1}/{len(page_numbers)}] Page {p}: no raw OCR found, skipping", flush=True)
             results["failed"].append(p)
             continue
 
@@ -168,7 +168,7 @@ def process_batch(page_numbers, api_key):
             raw_text = f.read()
 
         if not raw_text.strip():
-            print(f"\n[{i+1}/{len(page_numbers)}] Page {p}: empty raw OCR, copying empty")
+            print(f"\n[{i+1}/{len(page_numbers)}] Page {p}: empty raw OCR, copying empty", flush=True)
             os.makedirs(ENR_DIR, exist_ok=True)
             enr_path = os.path.join(ENR_DIR, f"page_{p:03d}.txt")
             with open(enr_path, "w", encoding="utf-8") as f:
@@ -176,14 +176,14 @@ def process_batch(page_numbers, api_key):
             results["enriched"].append(p)
             continue
 
-        print(f"\n[{i+1}/{len(page_numbers)}] Enriching page {p} ({len(raw_text)} chars)...")
+        print(f"\n[{i+1}/{len(page_numbers)}] Enriching page {p} ({len(raw_text)} chars)...", flush=True)
         enriched = enrich_page_text(p, raw_text, api_key)
 
         os.makedirs(ENR_DIR, exist_ok=True)
         enr_path = os.path.join(ENR_DIR, f"page_{p:03d}.txt")
         with open(enr_path, "w", encoding="utf-8") as f:
             f.write(enriched)
-        print(f"  [SAVED] {enr_path}")
+        print(f"  [SAVED] {enr_path}", flush=True)
 
         if enriched == raw_text:
             results["fallback_raw"].append(p)
@@ -209,8 +209,8 @@ if __name__ == "__main__":
 
     os.makedirs(ENR_DIR, exist_ok=True)
     results = process_batch(args.pages, api_key)
-    print(f"\n{'='*50}")
-    print(f"Enrichment complete:")
-    print(f"  Enriched: {len(results['enriched'])} pages")
-    print(f"  Fallback (raw kept): {len(results['fallback_raw'])}")
-    print(f"  Failed:  {len(results['failed'])}")
+    print(f"\n{'='*50}", flush=True)
+    print(f"Enrichment complete:", flush=True)
+    print(f"  Enriched: {len(results['enriched'])} pages", flush=True)
+    print(f"  Fallback (raw kept): {len(results['fallback_raw'])}", flush=True)
+    print(f"  Failed:  {len(results['failed'])}", flush=True)
