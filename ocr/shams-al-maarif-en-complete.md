@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 107 translated pages._
+_Auto-generated from 113 translated pages._
 
 ---
 ## Page 1
@@ -6006,4 +6006,525 @@ al-Fil, a verse; and in al-Rum, a verse; and in al-Sajdah, a verse; and in Ya Si
 and in al-Hashr, 3; and in al-Mulk, a verse; and in al-Ikhlas, 2. He said: Sharh, I saw in a dream one saying, “Go to”
 
 ---
-_End of translation — 107 pages._
+## Page 108
+
+**Arabic (original):**
+— ١٠٢ —
+فلان فقد أمرناه أن يعلمك اسم الله الأعظم، فلما أصبحت جاء إلى الرجل فقال: رأيت البارحة أن
+ائت شريحاً فعلمه اسم الله الأعظم، وهو كل ما في القرآن من: {لا إله إلا هو الرحمن الرحيم}، {الله لا إله إلا
+هو الحي القيوم} إلى آخر الآية، {الم الله لا إله إلا هو الحي القيوم نزل عليك الكتاب بالحق مصدقاً لما بين
+يديه وأنزل التوراة والإنجيل} الآية، {هو الذي يصوركم في الأرحام كيف يشاء لا إله إلا هو العزيز
+الحكيم}، {إن الدين عند الله الإسلام}، {الله لا إله إلا هو ليجمعنكم إلى يوم القيامة} الآية، {ذلكم الله ربكم
+لا إله إلا هو خالق كل شيء فاعبدوه وهو على كل شيء وكيل}، {لا تدركه الأبصار وهو يدرك الأبصار
+وهو اللطيف الخبير}، {اتبع ما أوحي إليك من ربك لا إله إلا هو وأعرض عن المشركين}، {قل يا أيها
+الناس إني رسول الله إليكم جميعاً الذي له ملك السموات والأرض لا إله إلا هو يحيي ويميت فآمنوا
+بالله ورسوله النبي الأمي الذي يؤمن بالله وكلماته واتبعوه لعلكم تهتدون}، {وما أمروا إلا ليعبدوا
+إلهاً واحداً لا إله إلا هو}، {تولوا فقل حسبي الله لا إله إلا هو عليه توكلت وهو رب العرش العظيم}،
+{حتى إذا أدركه الغرق قال آمنت أنه لا إله إلا الذي آمنت به بنو إسرائيل وأنا من المسلمين}، {فإن لم
+يستجيبوا لكم فاعلموا أنما أنزل بعلم الله وأن لا إله إلا هو فهل أنتم مسلمون}، {قل هو ربي لا إله إلا هو
+عليه توكلت وإليه متاب}، {ينزل الملائكة بالروح من أمره على من يشاء من عباده أن أنذروا أنه
+لا إله إلا أنا فاتقون}، {وإن تجهر بالقول فإنه يعلم السر وأخفى الله لا إله إلا هو له الأسماء الحسنى}، {وأنا
+اخترتك فاستمع لما يوحى إنني أنا الله لا إله إلا أنا فاعبدني وأقم الصلاة لذكري}، {إنما إلهكم الله الذي
+لا إله إلا هو وسع كل شيء علماً}، {وما أرسلنا من قبلك من رسول إلا نوحي إليه أنه لا إله إلا أنا فاعبدون}،
+{وذا النون إذ ذهب مغاضباً فظن أن لن نقدر عليه فنادى في الظلمات أن لا إله إلا أنت سبحانك
+إني كنت من الظالمين فاستجبنا له ونجيناه من الغم وكذلك ننجي المؤمنين}، {فتعالى الله الملك الحق
+لا إله إلا هو رب العرش الكريم}، {وهو الله لا إله إلا هو له الحمد في الأولى والآخرة وله الحكم وإليه
+ترجعون}، {يا أيها الناس اذكروا نعمة الله عليكم هل من خالق غير الله يرزقكم من السماء والأرض
+لا إله إلا هو فأنى تؤفكون}، {لهم كانوا إذا قيل لهم لا إله إلا الله يستكبرون}، {ذلكم الله ربكم له الملك
+لا إله إلا هو فأنى تصرفون}، بسم الله الرحمن الرحيم {حم تنزيل الكتاب من الله العزيز العليم غافر
+الذنب وقابل التوب شديد العقاب ذي الطول لا إله إلا هو إليه المصير}، {ذلكم الله ربكم خالق كل شيء
+لا إله إلا هو فأنى تؤفكون}، {هو الحي لا إله إلا هو فادعوه مخلصين له الدين الحمد لله رب العالمين}، {الله
+لا إله إلا هو يحيي ويميت ربكم ورب آبائكم}، {فاعلم أنه لا إله إلا الله واستغفر لذنبك وللمؤمنين
+والمؤمنات والله يعلم متقلبكم ومثواكم}، {هو الله لا إله إلا هو عالم الغيب والشهادة هو الرحمن
+الرحيم}، {هو الله الذي لا إله إلا هو الملك القدوس السلام المؤمن المهيمن العزيز الجبار المتكبر سبحان
+الله عما يشركون}، {هو الله الخالق البارئ المصور له الأسماء الحسنى يسبح له ما في السموات والأرض
+وهو العزيز الحكيم}، {الله لا إله إلا هو وعلى الله فليتوكل المؤمنون}، {رب المشرق والمغرب لا إله إلا هو
+فاتخذه وكيلاً} والله أعلم.
+(الفصل الثالث عشر في سواقط الفاتحة وما لها من الأوفاق والدعوات المستجابات)
+اعلم
+
+**English:**
+— 102 —
+So-and-so, for we had commanded him to teach you the Greatest Name of God. When morning came, he came to the man and said: I saw last night that
+“Go to Shurayh and let him teach him the Greatest Name of God,” and it is all that is in the Qur’an from: {There is no god but He, the Merciful, the Compassionate}, {God, there is no god but
+He, the Living, the Self-Subsisting} to the end of the verse, {Alif Lam Mim. God, there is no god but He, the Living, the Self-Subsisting. He sent down upon you the Book in truth, confirming what is before
+it, and He sent down the Torah and the Gospel} the verse, {He it is who shapes you in the wombs as He wills; there is no god but He, the Mighty,
+the Wise}, {Indeed, the religion with God is Islam}, {God, there is no god but He; He will surely gather you to the Day of Resurrection} the verse, {That is God, your Lord;
+there is no god but He, the Creator of everything, so worship Him, and He is over everything a Trustee}, {Vision does not perceive Him, while He perceives the visions
+and He is the Subtle, the Aware}, {Follow what has been revealed to you from your Lord; there is no god but He, and turn away from the polytheists}, {Say: O you
+people, indeed I am the Messenger of God to you all, He to whom belongs the dominion of the heavens and the earth; there is no god but He; He gives life and causes death, so believe in
+God and His Messenger, the unlettered Prophet, who believes in God and His words, and follow him that you may be guided}, {And they were not commanded except to worship
+one god; there is no god but He}, {They turned away, so say: God is sufficient for me; there is no god but He; upon Him I rely, and He is the Lord of the عظیم Throne},
+{Until, when drowning overtook him, he said: I believe that there is no god except the One in whom the Children of Israel believed, and I am among the Muslims}, {So if
+they do not respond to you, then know that it has only been sent down with the knowledge of God, and that there is no god but He; so are you Muslims?}, {Say: He is my Lord; there is no god but He;
+upon Him I rely, and to Him is my return}, {He sends down the angels with the Spirit by His command upon whom He wills of His servants: Warn that
+there is no god but I, so fear Me}, {And if you raise the voice in speech, then indeed He knows the secret and what is even more hidden: God, there is no god but He; to Him belong the most beautiful names}, {And I
+chose you, so listen to what is revealed: indeed I am God, there is no god but I, so worship Me and establish the prayer for My remembrance}, {Your god is only God, the One who
+there is no god but He; He encompasses everything in knowledge}, {And We sent not before you any messenger except that We reveal to him that there is no god but I, so worship Me}, 
+{And Dhu’l-Nun, when he went away in anger and thought that We would not قدر عليه, then he called out in the darknesses: There is no god but You; glory be to You,
+indeed I was among the wrongdoers. So We responded to him and delivered him from distress, and thus do We deliver the believers}, {So exalted is God, the True King;
+there is no god but He, Lord of the Noble Throne}, {And He is God; there is no god but He; to Him belongs praise in the first and the last, and to Him belongs judgment, and to Him
+you are returned}, {O people, remember the favor of God upon you. Is there any creator other than God who provides for you from the heaven and the earth?
+There is no god but He; so how are you deluded?}, {They used to, when it was said to them, “There is no god but God,” act arrogantly}, {That is God, your Lord; to Him belongs the dominion;
+there is no god but He; so how are you turned away?}, In the name of God, the Merciful, the Compassionate {Ha Mim. The sending down of the Book is from God, the Mighty, the Knowing, Forgiver
+of sin, Accepter of repentance, Severe in punishment, Possessor of bounty; there is no god but He; to Him is the destination}, {That is God, your Lord, Creator of everything;
+there is no god but He; so how are you deluded?}, {He is the Living; there is no god but He; so call upon Him, making religion sincerely for Him. Praise be to God, Lord of the worlds}, {God,
+there is no god but He; He gives life and causes death, your Lord and the Lord of your forefathers}, {So know that there is no god but God, and ask forgiveness for your sin and for the believing men
+and believing women; and God knows your movement and your resting place}, {He is God; there is no god but He, Knower of the unseen and the witnessed; He is the Merciful,
+the Compassionate}, {He is God, the One besides whom there is no god, the King, the Holy, the Peace, the Faithful, the Guardian, the Mighty, the Compeller, the Supremely Great; glory be
+to God above what they associate}, {He is God, the Creator, the Maker, the Fashioner; to Him belong the most beautiful names; whatever is in the heavens and the earth glorifies Him,
+and He is the Mighty, the Wise}, {God, there is no god but He; and upon God let the believers rely}, {Lord of the east and the west, there is no god but He;
+so take Him as a Trustee} — and God knows best.
+(Chapter Thirteen on the omissions of al-Fatiha and what there is of talismans and answered prayers)
+Know
+
+Notes:
+[Grid content preserved as-is]
+
+---
+## Page 109
+
+**Arabic (original):**
+[combined output — see batch]
+
+**English:**
+--- PAGE 108 TRANSLATION ---
+
+**Arabic (original):**
+— ١٠٢ —
+فلان فقد أمرناه أن يعلمك اسم الله الأعظم، فلما أصبحت جاء إلى الرجل فقال: رأيت البارحة أن
+ائت شريحاً فعلمه اسم الله الأعظم، وهو كل ما في القرآن من: {لا إله إلا هو الرحمن الرحيم}، {الله لا إله إلا
+هو الحي القيوم} إلى آخر الآية، {الم الله لا إله إلا هو الحي القيوم نزل عليك الكتاب بالحق مصدقاً لما بين
+يديه وأنزل التوراة والإنجيل} الآية، {هو الذي يصوركم في الأرحام كيف يشاء لا إله إلا هو العزيز
+الحكيم}، {إن الدين عند الله الإسلام}، {الله لا إله إلا هو ليجمعنكم إلى يوم القيامة} الآية، {ذلكم الله ربكم
+لا إله إلا هو خالق كل شيء فاعبدوه وهو على كل شيء وكيل}، {لا تدركه الأبصار وهو يدرك الأبصار
+وهو اللطيف الخبير}، {اتبع ما أوحي إليك من ربك لا إله إلا هو وأعرض عن المشركين}، {قل يا أيها
+الناس إني رسول الله إليكم جميعاً الذي له ملك السموات والأرض لا إله إلا هو يحيي ويميت فآمنوا
+بالله ورسوله النبي الأمي الذي يؤمن بالله وكلماته واتبعوه لعلكم تهتدون}، {وما أمروا إلا ليعبدوا
+إلهاً واحداً لا إله إلا هو}، {تولوا فقل حسبي الله لا إله إلا هو عليه توكلت وهو رب العرش العظيم}،
+{حتى إذا أدركه الغرق قال آمنت أنه لا إله إلا الذي آمنت به بنو إسرائيل وأنا من المسلمين}، {فإن لم
+يستجيبوا لكم فاعلموا أنما أنزل بعلم الله وأن لا إله إلا هو فهل أنتم مسلمون}، {قل هو ربي لا إله إلا هو
+عليه توكلت وإليه متاب}، {ينزل الملائكة بالروح من أمره على من يشاء من عباده أن أنذروا أنه
+لا إله إلا أنا فاتقون}، {وإن تجهر بالقول فإنه يعلم السر وأخفى الله لا إله إلا هو له الأسماء الحسنى}، {وأنا
+اخترتك فاستمع لما يوحى إنني أنا الله لا إله إلا أنا فاعبدني وأقم الصلاة لذكري}، {إنما إلهكم الله الذي
+لا إله إلا هو وسع كل شيء علماً}، {وما أرسلنا من قبلك من رسول إلا نوحي إليه أنه لا إله إلا أنا فاعبدون}،
+{وذا النون إذ ذهب مغاضباً فظن أن لن نقدر عليه فنادى في الظلمات أن لا إله إلا أنت سبحانك
+إني كنت من الظالمين فاستجبنا له ونجيناه من الغم وكذلك ننجي المؤمنين}، {فتعالى الله الملك الحق
+لا إله إلا هو رب العرش الكريم}، {وهو الله لا إله إلا هو له الحمد في الأولى والآخرة وله الحكم وإليه
+ترجعون}، {يا أيها الناس اذكروا نعمة الله عليكم هل من خالق غير الله يرزقكم من السماء والأرض
+لا إله إلا هو فأنى تؤفكون}، {لهم كانوا إذا قيل لهم لا إله إلا الله يستكبرون}، {ذلكم الله ربكم له الملك
+لا إله إلا هو فأنى تصرفون}، بسم الله الرحمن الرحيم {حم تنزيل الكتاب من الله العزيز العليم غافر
+الذنب وقابل التوب شديد العقاب ذي الطول لا إله إلا هو إليه المصير}، {ذلكم الله ربكم خالق كل شيء
+لا إله إلا هو فأنى تؤفكون}، {هو الحي لا إله إلا هو فادعوه مخلصين له الدين الحمد لله رب العالمين}، {الله
+لا إله إلا هو يحيي ويميت ربكم ورب آبائكم}، {فاعلم أنه لا إله إلا الله واستغفر لذنبك وللمؤمنين
+والمؤمنات والله يعلم متقلبكم ومثواكم}، {هو الله لا إله إلا هو عالم الغيب والشهادة هو الرحمن
+الرحيم}، {هو الله الذي لا إله إلا هو الملك القدوس السلام المؤمن المهيمن العزيز الجبار المتكبر سبحان
+الله عما يشركون}، {هو الله الخالق البارئ المصور له الأسماء الحسنى يسبح له ما في السموات والأرض
+وهو العزيز الحكيم}، {الله لا إله إلا هو وعلى الله فليتوكل المؤمنون}، {رب المشرق والمغرب لا إله إلا هو
+فاتخذه وكيلاً} والله أعلم.
+(الفصل الثالث عشر في سواقط الفاتحة وما لها من الأوفاق والدعوات المستجابات)
+اعلم
+
+**English:**
+— 102 —
+So-and-so, for we had commanded him to teach you the Greatest Name of God. When morning came, he came to the man and said: I saw last night that
+“Go to Shurayh and let him teach him the Greatest Name of God,” and it is all that is in the Qur’an from: {There is no god but He, the Merciful, the Compassionate}, {God, there is no god but
+He, the Living, the Self-Subsisting} to the end of the verse, {Alif Lam Mim. God, there is no god but He, the Living, the Self-Subsisting. He sent down upon you the Book in truth, confirming what is before
+it, and He sent down the Torah and the Gospel} the verse, {He it is who shapes you in the wombs as He wills; there is no god but He, the Mighty,
+the Wise}, {Indeed, the religion with God is Islam}, {God, there is no god but He; He will surely gather you to the Day of Resurrection} the verse, {That is God, your Lord;
+there is no god but He, the Creator of everything, so worship Him, and He is over everything a Trustee}, {Vision does not perceive Him, while He perceives the visions
+and He is the Subtle, the Aware}, {Follow what has been revealed to you from your Lord; there is no god but He, and turn away from the polytheists}, {Say: O you
+people, indeed I am the Messenger of God to you all, He to whom belongs the dominion of the heavens and the earth; there is no god but He; He gives life and causes death, so believe in
+God and His Messenger, the unlettered Prophet, who believes in God and His words, and follow him that you may be guided}, {And they were not commanded except to worship
+one god; there is no god but He}, {They turned away, so say: God is sufficient for me; there is no god but He; upon Him I rely, and He is the Lord of the عظیم Throne},
+{Until, when drowning overtook him, he said: I believe that there is no god except the One in whom the Children of Israel believed, and I am among the Muslims}, {So if
+they do not respond to you, then know that it has only been sent down with the knowledge of God, and that there is no god but He; so are you Muslims?}, {Say: He is my Lord; there is no god but He;
+upon Him I rely, and to Him is my return}, {He sends down the angels with the Spirit by His command upon whom He wills of His servants: Warn that
+there is no god but I, so fear Me}, {And if you raise the voice in speech, then indeed He knows the secret and what is even more hidden: God, there is no god but He; to Him belong the most beautiful names}, {And I
+chose you, so listen to what is revealed: indeed I am God, there is no god but I, so worship Me and establish the prayer for My remembrance}, {Your god is only God, the One who
+there is no god but He; He encompasses everything in knowledge}, {And We sent not before you any messenger except that We reveal to him that there is no god but I, so worship Me}, 
+{And Dhu’l-Nun, when he went away in anger and thought that We would not قدر عليه, then he called out in the darknesses: There is no god but You; glory be to You,
+indeed I was among the wrongdoers. So We responded to him and delivered him from distress, and thus do We deliver the believers}, {So exalted is God, the True King;
+there is no god but He, Lord of the Noble Throne}, {And He is God; there is no god but He; to Him belongs praise in the first and the last, and to Him belongs judgment, and to Him
+you are returned}, {O people, remember the favor of God upon you. Is there any creator other than God who provides for you from the heaven and the earth?
+There is no god but He; so how are you deluded?}, {They used to, when it was said to them, “There is no god but God,” act arrogantly}, {That is God, your Lord; to Him belongs the dominion;
+there is no god but He; so how are you turned away?}, In the name of God, the Merciful, the Compassionate {Ha Mim. The sending down of the Book is from God, the Mighty, the Knowing, Forgiver
+of sin, Accepter of repentance, Severe in punishment, Possessor of bounty; there is no god but He; to Him is the destination}, {That is God, your Lord, Creator of everything;
+there is no god but He; so how are you deluded?}, {He is the Living; there is no god but He; so call upon Him, making religion sincerely for Him. Praise be to God, Lord of the worlds}, {God,
+there is no god but He; He gives life and causes death, your Lord and the Lord of your forefathers}, {So know that there is no god but God, and ask forgiveness for your sin and for the believing men
+and believing women; and God knows your movement and your resting place}, {He is God; there is no god but He, Knower of the unseen and the witnessed; He is the Merciful,
+the Compassionate}, {He is God, the One besides whom there is no god, the King, the Holy, the Peace, the Faithful, the Guardian, the Mighty, the Compeller, the Supremely Great; glory be
+to God above what they associate}, {He is God, the Creator, the Maker, the Fashioner; to Him belong the most beautiful names; whatever is in the heavens and the earth glorifies Him,
+and He is the Mighty, the Wise}, {God, there is no god but He; and upon God let the believers rely}, {Lord of the east and the west, there is no god but He;
+so take Him as a Trustee} — and God knows best.
+(Chapter Thirteen on the omissions of al-Fatiha and what there is of talismans and answered prayers)
+Know
+
+Notes:
+[Grid content preserved as-is]
+
+---
+## Page 110
+
+**Arabic (original):**
+[combined output — see batch]
+
+**English:**
+--- PAGE 108 TRANSLATION ---
+
+**Arabic (original):**
+— ١٠٢ —
+فلان فقد أمرناه أن يعلمك اسم الله الأعظم، فلما أصبحت جاء إلى الرجل فقال: رأيت البارحة أن
+ائت شريحاً فعلمه اسم الله الأعظم، وهو كل ما في القرآن من: {لا إله إلا هو الرحمن الرحيم}، {الله لا إله إلا
+هو الحي القيوم} إلى آخر الآية، {الم الله لا إله إلا هو الحي القيوم نزل عليك الكتاب بالحق مصدقاً لما بين
+يديه وأنزل التوراة والإنجيل} الآية، {هو الذي يصوركم في الأرحام كيف يشاء لا إله إلا هو العزيز
+الحكيم}، {إن الدين عند الله الإسلام}، {الله لا إله إلا هو ليجمعنكم إلى يوم القيامة} الآية، {ذلكم الله ربكم
+لا إله إلا هو خالق كل شيء فاعبدوه وهو على كل شيء وكيل}، {لا تدركه الأبصار وهو يدرك الأبصار
+وهو اللطيف الخبير}، {اتبع ما أوحي إليك من ربك لا إله إلا هو وأعرض عن المشركين}، {قل يا أيها
+الناس إني رسول الله إليكم جميعاً الذي له ملك السموات والأرض لا إله إلا هو يحيي ويميت فآمنوا
+بالله ورسوله النبي الأمي الذي يؤمن بالله وكلماته واتبعوه لعلكم تهتدون}، {وما أمروا إلا ليعبدوا
+إلهاً واحداً لا إله إلا هو}، {تولوا فقل حسبي الله لا إله إلا هو عليه توكلت وهو رب العرش العظيم}،
+{حتى إذا أدركه الغرق قال آمنت أنه لا إله إلا الذي آمنت به بنو إسرائيل وأنا من المسلمين}، {فإن لم
+يستجيبوا لكم فاعلموا أنما أنزل بعلم الله وأن لا إله إلا هو فهل أنتم مسلمون}، {قل هو ربي لا إله إلا هو
+عليه توكلت وإليه متاب}، {ينزل الملائكة بالروح من أمره على من يشاء من عباده أن أنذروا أنه
+لا إله إلا أنا فاتقون}، {وإن تجهر بالقول فإنه يعلم السر وأخفى الله لا إله إلا هو له الأسماء الحسنى}، {وأنا
+اخترتك فاستمع لما يوحى إنني أنا الله لا إله إلا أنا فاعبدني وأقم الصلاة لذكري}، {إنما إلهكم الله الذي
+لا إله إلا هو وسع كل شيء علماً}، {وما أرسلنا من قبلك من رسول إلا نوحي إليه أنه لا إله إلا أنا فاعبدون}،
+{وذا النون إذ ذهب مغاضباً فظن أن لن نقدر عليه فنادى في الظلمات أن لا إله إلا أنت سبحانك
+إني كنت من الظالمين فاستجبنا له ونجيناه من الغم وكذلك ننجي المؤمنين}، {فتعالى الله الملك الحق
+لا إله إلا هو رب العرش الكريم}، {وهو الله لا إله إلا هو له الحمد في الأولى والآخرة وله الحكم وإليه
+ترجعون}، {يا أيها الناس اذكروا نعمة الله عليكم هل من خالق غير الله يرزقكم من السماء والأرض
+لا إله إلا هو فأنى تؤفكون}، {لهم كانوا إذا قيل لهم لا إله إلا الله يستكبرون}، {ذلكم الله ربكم له الملك
+لا إله إلا هو فأنى تصرفون}، بسم الله الرحمن الرحيم {حم تنزيل الكتاب من الله العزيز العليم غافر
+الذنب وقابل التوب شديد العقاب ذي الطول لا إله إلا هو إليه المصير}، {ذلكم الله ربكم خالق كل شيء
+لا إله إلا هو فأنى تؤفكون}، {هو الحي لا إله إلا هو فادعوه مخلصين له الدين الحمد لله رب العالمين}، {الله
+لا إله إلا هو يحيي ويميت ربكم ورب آبائكم}، {فاعلم أنه لا إله إلا الله واستغفر لذنبك وللمؤمنين
+والمؤمنات والله يعلم متقلبكم ومثواكم}، {هو الله لا إله إلا هو عالم الغيب والشهادة هو الرحمن
+الرحيم}، {هو الله الذي لا إله إلا هو الملك القدوس السلام المؤمن المهيمن العزيز الجبار المتكبر سبحان
+الله عما يشركون}، {هو الله الخالق البارئ المصور له الأسماء الحسنى يسبح له ما في السموات والأرض
+وهو العزيز الحكيم}، {الله لا إله إلا هو وعلى الله فليتوكل المؤمنون}، {رب المشرق والمغرب لا إله إلا هو
+فاتخذه وكيلاً} والله أعلم.
+(الفصل الثالث عشر في سواقط الفاتحة وما لها من الأوفاق والدعوات المستجابات)
+اعلم
+
+**English:**
+— 102 —
+So-and-so, for we had commanded him to teach you the Greatest Name of God. When morning came, he came to the man and said: I saw last night that
+“Go to Shurayh and let him teach him the Greatest Name of God,” and it is all that is in the Qur’an from: {There is no god but He, the Merciful, the Compassionate}, {God, there is no god but
+He, the Living, the Self-Subsisting} to the end of the verse, {Alif Lam Mim. God, there is no god but He, the Living, the Self-Subsisting. He sent down upon you the Book in truth, confirming what is before
+it, and He sent down the Torah and the Gospel} the verse, {He it is who shapes you in the wombs as He wills; there is no god but He, the Mighty,
+the Wise}, {Indeed, the religion with God is Islam}, {God, there is no god but He; He will surely gather you to the Day of Resurrection} the verse, {That is God, your Lord;
+there is no god but He, the Creator of everything, so worship Him, and He is over everything a Trustee}, {Vision does not perceive Him, while He perceives the visions
+and He is the Subtle, the Aware}, {Follow what has been revealed to you from your Lord; there is no god but He, and turn away from the polytheists}, {Say: O you
+people, indeed I am the Messenger of God to you all, He to whom belongs the dominion of the heavens and the earth; there is no god but He; He gives life and causes death, so believe in
+God and His Messenger, the unlettered Prophet, who believes in God and His words, and follow him that you may be guided}, {And they were not commanded except to worship
+one god; there is no god but He}, {They turned away, so say: God is sufficient for me; there is no god but He; upon Him I rely, and He is the Lord of the عظیم Throne},
+{Until, when drowning overtook him, he said: I believe that there is no god except the One in whom the Children of Israel believed, and I am among the Muslims}, {So if
+they do not respond to you, then know that it has only been sent down with the knowledge of God, and that there is no god but He; so are you Muslims?}, {Say: He is my Lord; there is no god but He;
+upon Him I rely, and to Him is my return}, {He sends down the angels with the Spirit by His command upon whom He wills of His servants: Warn that
+there is no god but I, so fear Me}, {And if you raise the voice in speech, then indeed He knows the secret and what is even more hidden: God, there is no god but He; to Him belong the most beautiful names}, {And I
+chose you, so listen to what is revealed: indeed I am God, there is no god but I, so worship Me and establish the prayer for My remembrance}, {Your god is only God, the One who
+there is no god but He; He encompasses everything in knowledge}, {And We sent not before you any messenger except that We reveal to him that there is no god but I, so worship Me}, 
+{And Dhu’l-Nun, when he went away in anger and thought that We would not قدر عليه, then he called out in the darknesses: There is no god but You; glory be to You,
+indeed I was among the wrongdoers. So We responded to him and delivered him from distress, and thus do We deliver the believers}, {So exalted is God, the True King;
+there is no god but He, Lord of the Noble Throne}, {And He is God; there is no god but He; to Him belongs praise in the first and the last, and to Him belongs judgment, and to Him
+you are returned}, {O people, remember the favor of God upon you. Is there any creator other than God who provides for you from the heaven and the earth?
+There is no god but He; so how are you deluded?}, {They used to, when it was said to them, “There is no god but God,” act arrogantly}, {That is God, your Lord; to Him belongs the dominion;
+there is no god but He; so how are you turned away?}, In the name of God, the Merciful, the Compassionate {Ha Mim. The sending down of the Book is from God, the Mighty, the Knowing, Forgiver
+of sin, Accepter of repentance, Severe in punishment, Possessor of bounty; there is no god but He; to Him is the destination}, {That is God, your Lord, Creator of everything;
+there is no god but He; so how are you deluded?}, {He is the Living; there is no god but He; so call upon Him, making religion sincerely for Him. Praise be to God, Lord of the worlds}, {God,
+there is no god but He; He gives life and causes death, your Lord and the Lord of your forefathers}, {So know that there is no god but God, and ask forgiveness for your sin and for the believing men
+and believing women; and God knows your movement and your resting place}, {He is God; there is no god but He, Knower of the unseen and the witnessed; He is the Merciful,
+the Compassionate}, {He is God, the One besides whom there is no god, the King, the Holy, the Peace, the Faithful, the Guardian, the Mighty, the Compeller, the Supremely Great; glory be
+to God above what they associate}, {He is God, the Creator, the Maker, the Fashioner; to Him belong the most beautiful names; whatever is in the heavens and the earth glorifies Him,
+and He is the Mighty, the Wise}, {God, there is no god but He; and upon God let the believers rely}, {Lord of the east and the west, there is no god but He;
+so take Him as a Trustee} — and God knows best.
+(Chapter Thirteen on the omissions of al-Fatiha and what there is of talismans and answered prayers)
+Know
+
+Notes:
+[Grid content preserved as-is]
+
+---
+## Page 111
+
+**Arabic (original):**
+— ١٠٥ —
+
+إلا ما أوقعتم بفلان بن فلانة ابنة فلانة أمر كذا وكذا وتسمى له ما شئت من أنواع
+العذاب والأسقام بعد كتب الأحرف على مثاله وعلى لون اليوم والطلب بحق هذه الأسماء
+يا شديد يا عزيز يا آخر يا ظاهر يا وارث يا جبار يا فاطر اللهم يا شديد لا يمنع لا بداية له ولا انقطاع يوم
+لا يخزي الله النبي والذين آمنوا معه إن الخزي اليوم والسوء على الكافرين يا شديد العذاب والعقاب
+إن بطش ربك لشديد فأما الذين شقوا ففي النار لهم فيها زفير وشهيق إن شجرة الزقوم طعام الأثيم
+يا عزيز يا غالب يا من لا مثل له يا من له الجود الأزلي لا يورثك في غيرك غيرك يا ظاهر القدرة يا من قال
+وهو أصدق القائلين كلا إنها لظى نزاعة للشوى لا يغني من اللهب يا وارث أنت الذي يرجع
+إليك الأمر كله يا من يفني الأكوان ومن فيها وينادى لمن الملك اليوم لله الواحد القهار فكل من له
+دعوة في أمر من باطن أو ظاهر قل أو كثر يرجع إليك قهراً محسناً اللهم أنزل بكذا الثبور والويل
+والعذاب لا تدعوا اليوم ثبوراً واحداً وادعوا ثبوراً كثيراً يا جبار أنت الذي حكمك ماض على
+طريق الإجبار على كل أحد لا يدفعه حذر حادر وأنت الذي ربطت القوى النفسانية والقوى القلبية
+في كثائف الأجسام بجبروتك الأعلى الذي تزهو في حقك وجعلته صفوة ألوهيتك وظهوراً لقهرك
+وصفة لأزليتك فإنك ذو القدرة والجبروت والعزة والألوهية ويحول ملكوتك الذي أخرته بعين
+تقديراتك وأحكام ألوهيتك وأنوار حرماتك مما لا يعلمه غيرك تعالى شأنك وعظم سلطانك فكل
+حركة في عالم الملك والملكوت والجبروت بها معنى اسمك الجبار بحق جبروت مدبر التدبير
+الأزلي الجليل المتعالي يا من جبر العالم الإنساني بحركته بما فيه من الحياة المخلوط بالروح بأزمة المقادير
+والإذن الأهلي حتى جبر العالم بعضه يقهر بعضاً لثبوت القهر وظهور الحكمة أظهر في كذا وكذا من
+شدة جبروتك وقهرك ما تسكن به حواسه عند مصادمتي وتخمد روحانيته عند وجودي إن جهنم
+لموعدهم أجمعين ولقد ذرأنا لجهنم كثيراً من الجن والإنس يا فاطر السموات والأرض أسألك بقدرتك
+التي فطرت بها الأكوان العلوية والسفلية وبحق الكلمة الأولى التي فطرت عليها السماء وهي
+دخان فقال لها وللأرض ائتيا طوعاً أو كرهاً قالتا أتينا طائعين أجعل لي في كذا وكذا تذكر
+ما تريد فإنه يكون ذلك
+(فصل) نذكر فيه الأوفاق السبعة المتعلقة بالسبعة أحرف التي هي سواقط الفاتحة وهي كما ترى *
+واعلم أن سواقطها (ف ج ش ث ظ خ ز) وجعلتها فحش ظظخز وأما أسماء الله منسوبة إليه فأما
+حرف الفاء فرد وحرف الجيم جبار وحرف الشين شهيد وحرف الثاء ثابت والظاء ظهير والخاء
+خبير وحرف الزاي زكي * وأما أوفاقها فهي ٧ لكل حرف وفق مسبع وهو كما ترى فافهم
+ترشد والله الموفق للصواب
+
+**English:**
+— 105 —
+
+except what you inflict upon so-and-so son of so-and-so daughter of so-and-so, such-and-such matter, and you name for him whatever you wish of kinds of
+torment and ailments, after writing the letters upon its pattern and upon the color of the day, and asking by the right of these names:
+O Severe, O Mighty, O Last, O Manifest, O Inheritor, O Compeller, O Originator. O Allah, O Severe, there is no preventer, it has no beginning and no cessation, a day
+Allah will not disgrace the Prophet and those who believed with him; indeed disgrace today and evil are upon the disbelievers. O Severe of punishment and retribution,
+indeed the seizure of your Lord is severe. As for those who were wretched, then in the Fire; for them therein is sighing and sobbing. Indeed the tree of Zaqqum is the food of the sinner.
+O Mighty, O Prevailing, O He who has no like, O He who has eternal generosity, your other does not bequeath you in other than you, O Manifest of power, O He who said
+—and He is the most truthful of those who speak—No indeed, it is a blazing fire, stripping away the scalp, it does not avail against the flame. O Inheritor, You are the One to whom
+the whole affair returns. O He who annihilates the worlds and whoever is in them, and it is proclaimed: To whom belongs the dominion today? To Allah, the One, the Subduer. So every one who has
+a supplication in an affair, inward or outward, little or much, returns to You, compelled, favorably. O Allah, send down upon so-and-so destruction, woe,
+and punishment. Do not call today for one destruction, and call for many destructions. O Compeller, You are the One whose حكمك is effective upon
+the way of compulsion over every one; no wary caution repels it. And You are the One who bound the psychic powers and the heart powers
+in the densities of bodies by Your highest جبروت, which is exalted in Your right, and made it the quintessence of Your divinity and a manifestation of Your subduing
+and an attribute of Your eternality. For You are Possessor of power, جبروت, might, and divinity, and Your ملكوت, which You delayed, turns by the eye
+of Your determinations and the judgments of Your divinity and the lights of Your sanctities, of which none knows except You. Exalted is Your شأن and عظمت Your authority. So every
+movement in the world of dominion, ملكوت, and جبروت has by it the meaning of Your name, the Compeller, by the right of the جبروت of the Eternal, majestic, transcendent disposer of disposal.
+O He who bound the human world by its movement, with what is in it of life mixed with spirit, by the reins of decrees
+and the divine permission, until the world itself compels some of it to subdue some, for the establishment of compulsion and the ظهور of wisdom. Manifest in such-and-such of
+the intensity of Your جبروت and Your subduing what quiets its senses at my collision and extinguishes its spirituality at my presence. Indeed Hell
+is their appointed place, all together, and We have certainly created for Hell many of the jinn and mankind. O Originator of the heavens and the earth, I ask You by Your power
+by which You originated the upper and lower worlds, and by the right of the first word upon which You originated the heaven, and it was
+smoke; then He said to it and to the earth: Come, willingly or unwillingly. They said: We come willingly. Make for me in such-and-such and such-and-such, remember
+what you want, for that will be.
+
+(Chapter) We mention in it the seven awfāq related to the seven letters which are the omissions of al-Fātiḥah, and they are as you see *
+And know that its omissions are (ف ج ش ث ظ خ ز) and I made them فحش ظظخز. As for the names of Allah attributed to Him: as for
+the letter fā’ it is Farad, and the letter jīm is Jabbār, and the letter shīn is Shahīd, and the letter thā’ is Thābit, and the ẓā’ is Ẓahīr, and the khā’ is
+Khabīr, and the letter zāy is Zakī * As for its awfāq, they are 7; for every letter a sevenfold wifq, as you see, so understand
+you will be guided. And Allah is the One who grants success to what is right.
+
+---
+## Page 112
+
+**Arabic (original):**
+- ١٠٦ -
+
+حرف الفاء للشمس وله يوم الأحد
+| ف | ج | ش | ث | خ | ز | ظ |
+| ظ | ش | ف | خ | ث | ج | ز |
+| ج | ز | ظ | ش | ف | خ | ث |
+| خ | ث | ج | ز | ظ | ش | ف |
+| ش | ف | خ | ث | ج | ز | ظ |
+| ز | ظ | ش | ف | خ | ث | ج |
+| ث | ج | ز | ظ | ش | ف | خ |
+
+حرف الشين للمريخ وله يوم الثلاثاء
+| ش | ف | خ | ث | ج | ز | ظ |
+| ز | ظ | ش | ف | خ | ث | ج |
+| ج | ز | ظ | ش | ف | خ | ث |
+| ف | خ | ث | ج | ز | ظ | ش |
+| ظ | ش | ف | خ | ث | ج | ز |
+| ج | ز | ظ | ش | ف | خ | ث |
+| خ | ث | ج | ز | ظ | ش | ف |
+
+حرف الظاء للمشتري وله يوم الخميس
+| ظ | ش | ف | خ | ث | ج | ز |
+| ث | ج | ز | ظ | ش | ف | خ |
+| ف | خ | ث | ج | ز | ظ | ش |
+| ش | خ | ف | ج | ث | ز | ظ |
+| ز | ظ | ش | ف | خ | ث | ج |
+| ج | ث | ز | ظ | ش | خ | ف |
+| خ | ف | ج | ث | ز | ظ | ش |
+
+حرف الجيم للقمر وله يوم الاثنين
+| ج | ث | ز | ظ | ش | ف | خ |
+| خ | ث | ج | ز | ظ | ش | ف |
+| ف | خ | ث | ج | ز | ظ | ش |
+| ز | ظ | ش | ف | خ | ث | ج |
+| ث | ج | ز | ظ | ش | ف | خ |
+| ف | خ | ث | ج | ز | ظ | ش |
+| ظ | ش | ف | خ | ث | ج | ز |
+
+حرف الثاء لعطارد وله يوم الأربعاء
+| ث | ج | ز | ظ | ش | ف | خ |
+| ش | ف | خ | ث | ج | ز | ظ |
+| ظ | ش | ف | خ | ث | ج | ز |
+| ج | ز | ظ | ش | ف | خ | ث |
+| ش | ف | خ | ث | ج | ز | ظ |
+| ظ | ش | ف | خ | ث | ج | ز |
+| ث | ج | ز | ظ | ش | ف | خ |
+
+حرف الحاء للزهرة وله يوم الجمعة
+| خ | ث | ج | ز | ظ | ش | ف |
+| ش | ف | خ | ث | ج | ز | ظ |
+| ز | ظ | ش | ف | خ | ث | ج |
+| ث | ج | ز | ظ | ش | ف | خ |
+| ف | خ | ث | ج | ز | ظ | ش |
+| ظ | ش | ف | خ | ث | ج | ز |
+| ج | ز | ظ | ش | ف | خ | ث |
+
+(الفصل)
+
+**English:**
+- 106 -
+
+The letter fā’ is for the sun, and its day is Sunday
+| ف | ج | ش | ث | خ | ز | ظ |
+| ظ | ش | ف | خ | ث | ج | ز |
+| ج | ز | ظ | ش | ف | خ | ث |
+| خ | ث | ج | ز | ظ | ش | ف |
+| ش | ف | خ | ث | ج | ز | ظ |
+| ز | ظ | ش | ف | خ | ث | ج |
+| ث | ج | ز | ظ | ش | ف | خ |
+
+The letter shīn is for Mars, and its day is Tuesday
+| ش | ف | خ | ث | ج | ز | ظ |
+| ز | ظ | ش | ف | خ | ث | ج |
+| ج | ز | ظ | ش | ف | خ | ث |
+| ف | خ | ث | ج | ز | ظ | ش |
+| ظ | ش | ف | خ | ث | ج | ز |
+| ج | ز | ظ | ش | ف | خ | ث |
+| خ | ث | ج | ز | ظ | ش | ف |
+
+The letter ẓā’ is for Jupiter, and its day is Thursday
+| ظ | ش | ف | خ | ث | ج | ز |
+| ث | ج | ز | ظ | ش | ف | خ |
+| ف | خ | ث | ج | ز | ظ | ش |
+| ش | خ | ف | ج | ث | ز | ظ |
+| ز | ظ | ش | ف | خ | ث | ج |
+| ج | ث | ز | ظ | ش | خ | ف |
+| خ | ف | ج | ث | ز | ظ | ش |
+
+The letter jīm is for the moon, and its day is Monday
+| ج | ث | ز | ظ | ش | ف | خ |
+| خ | ث | ج | ز | ظ | ش | ف |
+| ف | خ | ث | ج | ز | ظ | ش |
+| ز | ظ | ش | ف | خ | ث | ج |
+| ث | ج | ز | ظ | ش | ف | خ |
+| ف | خ | ث | ج | ز | ظ | ش |
+| ظ | ش | ف | خ | ث | ج | ز |
+
+The letter thā’ is for Mercury, and its day is Wednesday
+| ث | ج | ز | ظ | ش | ف | خ |
+| ش | ف | خ | ث | ج | ز | ظ |
+| ظ | ش | ف | خ | ث | ج | ز |
+| ج | ز | ظ | ش | ف | خ | ث |
+| ش | ف | خ | ث | ج | ز | ظ |
+| ظ | ش | ف | خ | ث | ج | ز |
+| ث | ج | ز | ظ | ش | ف | خ |
+
+The letter ḥā’ is for Venus, and its day is Friday
+| خ | ث | ج | ز | ظ | ش | ف |
+| ش | ف | خ | ث | ج | ز | ظ |
+| ز | ظ | ش | ف | خ | ث | ج |
+| ث | ج | ز | ظ | ش | ف | خ |
+| ف | خ | ث | ج | ز | ظ | ش |
+| ظ | ش | ف | خ | ث | ج | ز |
+| ج | ز | ظ | ش | ف | خ | ث |
+
+(Chapter)
+
+---
+## Page 113
+
+**Arabic (original):**
+- ١٠٧ -
+
+( الفصل الرابع عشر في الأذكار والأدعية
+المستجابات المستخرجات المخصوصات )
+* ومما أخرجه الإمام أبو عبد الله محمد بن إدريس
+الرازي مما استحسنه من خزانة هارون الرشيد من
+الكتاب الكبير الجامع للأذكار والأدعية المجابات قال
+الأسدي عاصم كان رجل من عباد أهل الكوفة
+إذا كان يوم عرفة أو يوم التروية اغتسل ولبس
+ثوبين أبيضين ثم يخرج إلى الظهر فيدعو بهذا الدعاء
+فيرى بمكة أو بعرفة وهو هذا الدعاء أيها شراحها
+نورها وهي واحد حي فرد قدوس رب جبريل وميكائيل
+وإسرافيل وعزرائيل وأسألك باسمك وأنت لا تخيب من دعاك اللهم أن تصلي على سيدنا محمد وعلى آل
+سيدنا محمد وتسأل حاجتك فتطوى لك الأرض وتدعوه بالطعام والشراب فيدنو بإذن الله * وإن أردت
+ذلك تصوم ٥ أيام في خلوة صالحة وتصدق بثلاثة دراهم ثم تدعو بالأسماء فترى الإجابة * ويسند
+أن رجلا كان من عباد الكوفة إذا كان يوم عرفة أو يوم التروية اغتسل ولبس ثوبا أبيض ثم يخرج
+إلى الظهر وهو الموضع المرتفع من جبل أو ربوة فيدعو بهذا الدعاء فيرى بمكة أو بعرفة * وهو
+هذا الدعاء اللهم إني أسألك باسمك وأنت لا تخيب من دعاك باسمك الرحمن المستعان المهيمن الكبير
+المتعال الظاهر الباطن المعبود المحمود المبارك المقتدر الفضفاض أسألك أن تقضي حاجتي اللهم هون
+علي السفر واطو لي البعيد وتذكر ما شئت من حوائجك تعطاها بإذن الله وهي ١٢ اسماً
+كلها سباعة لا يسيرا وإن تحصل الإجابة فمن تقصيرك فإنه هذا الدعاء لا يخيب من دعا به موقنا
+مخلصاً أكالاً للحلال صواماً قواماً صاحب صلاة ورياضة وصدق نية وقد قال رسول الله صلى الله عليه
+وسلم فمن يدعو والمطعم حرام والمشرب حرام والملبس حرام أنى يستجاب له فعليك بالحلال
+يستجب لك لأنه دعاء الأولياء والأصفياء * واعلم أن مناجاة الأسرار قربة ومناجاة الأنس بعيدة
+فمن ناجاه الحق بلسانه جاءته الإجابة أولئك ينادون من مكان بعيد ( دعاء عظيم نافع ) بسم الله الرحمن
+الرحيم رب يسر اللهم إني أسألك بأنك أنت الله الذي لا إله إلا أنت وأسألك بعزتك التي لك بها
+الجلال في فرد وحدانيتك ولك دوام العزة دوام ربوبيتك بعدت عن قدرتك أوهام الباحثين
+عن بلوغ صفاتك وتحيرت ألباب عقول العارفين في جلال عظمتك إلهي من أطعمنا في كرمك وعفوك
+وألهمنا شكرك وأتى بنا إلى بابك ورغبنا فيما أعددته لأحبابك هل ذلك كله إلا منك دللتنا عليك
+وهديتنا إليك إلهي كم سألناك فأعطيتنا فوق ما سألناك وكم رجوناك فحققت رجاءنا فأنت أعلم بنا
+فبكمال جودك تجاوز عنا من لم تجبر كسره ما أطول فقره من لم تنفسه من كربته مات سبب قوته
+واخيبة من طردته من بابك * يا حسرة من أبعدته عن جناب إلهي كأن رحمتك للمحسنين فإلى
+أين يذهب المذنبون اللهم جللنا بسترك واعف عنا بكرمك وعافنا بلطفك إلهي إن كنا لا نقدر على
+
+( حرف الزاي لزحل وله يوم السبت )
+| ز | ط | س | ف | خ | ث | ج |
+| ث | ج | ز | ط | س | ف | خ |
+| خ | ث | ج | ز | ط | س | ف |
+| ف | خ | ث | ج | ز | ط | س |
+| س | ف | خ | ث | ج | ز | ط |
+| ط | س | ف | خ | ث | ج | ز |
+| ج | ز | ط | س | ف | خ | ث |
+
+( تمت الخواتم السبعة للأيام السبعة )
+
+**English:**
+- 107 -
+
+(Chapter Fourteen on the remembrances and supplications
+answered, extracted, specific)
+* And among what Imam Abu Abdullah Muhammad ibn Idris
+al-Razi brought out, from what he deemed good from the treasury of Harun al-Rashid, from
+the great book, the جامع of remembrances and answered supplications, Asadi said: Asim, there was a man among the worshippers of the people of Kufa.
+When it was the Day of Arafah or the Day of Tarwiyah, he would bathe and wear
+two white garments, then go out to al-ẓuhr and supplicate with this supplication,
+and he would be seen in Mecca or at Arafah, and it is this supplication: O expounders of it,
+its light, and it is One, Living, Single, Holy, Lord of Gabriel and Michael
+and Israfil and Azrael. And I ask You by Your name, and You do not disappoint one who calls upon You. O Allah, to send blessings upon our master Muhammad and upon the family of
+our master Muhammad, and you ask your need, and the earth is folded for you, and you call upon Him for food and drink, and it draws near by the permission of Allah. * And if you wish
+that, fast 5 days in a righteous seclusion and give charity of three dirhams, then supplicate with the names and you will see the response. * And it is narrated
+that a man was among the worshippers of Kufa: when it was the Day of Arafah or the Day of Tarwiyah, he would bathe and wear a white garment, then go out
+to al-ẓuhr, and it is the elevated place of a mountain or a hill, and he would supplicate with this supplication, and he would be seen in Mecca or at Arafah. * And it is
+this supplication: O Allah, I ask You by Your name, and You do not disappoint one who calls upon You by Your name, the Merciful, the One sought for help, the Guardian, the Great,
+the Transcendent, the Manifest, the Hidden, the Worshipped, the Praised, the Blessed, the Powerful, the Overflowing. I ask You to fulfill my need. O Allah, make
+the journey easy for me and fold for me the far, and mention whatever you wish of your needs; they will be granted by the permission of Allah. And they are 12 names,
+all of them sevenfold, not easy. And if the response is obtained, then it is from your shortcoming, for this supplication does not disappoint one who supplicates with it, being certain,
+sincere, devouring the lawful, fasting, standing in prayer, صاحب صلاة and spiritual exercise, and truth of intention. And the Messenger of Allah, may Allah bless him and
+grant him peace, said: so whoever supplicates while the food is unlawful, and the drink is unlawful, and the clothing is unlawful, how can it be answered for him? So adhere to the lawful,
+it will be answered for you, because it is the supplication of the saints and the elect. * And know that the intimate converse of secrets is a nearness, and the intimate converse of familiarity is far.
+So whoever the Real conversed with by his tongue, the response came to him: those are called from a distant place. (A great beneficial supplication) In the name of Allah, the الرحمن,
+the الرحيم. Lord, make easy. O Allah, I ask You by that You are Allah, there is no god except You, and I ask You by Your might by which there is for You
+majesty in the singularity of Your oneness, and for You is the دوام of might, the دوام of Your lordship. The delusions of seekers
+of attaining Your attributes have gone far from Your power, and the hearts of the intellects of the knowers have been bewildered in the majesty of Your عظمت. My God, who fed us in Your generosity and Your pardon
+and inspired us with Your thanks and brought us to Your door and made us desire what You prepared for Your beloved ones—was all that anything except from You? You guided us to You
+and guided us to You. My God, how many times we asked You and You gave us more than what we asked You, and how many times we hoped in You and You fulfilled our hope, so You are more knowing of us.
+So by the perfection of Your generosity, pass over from us. He whose breaking You did not mend, how long is his poverty; he whom You did not relieve from his distress, the cause of his strength has died.
+And woe to one whom You drove away from Your door. * O regret for one whom You kept far from the threshold of my God, as though Your mercy were for the doers of good, so to
+where do the sinners go? O Allah, cover us with Your veil, and pardon us by Your generosity, and grant us well-being by Your gentleness. My God, if we are not able to
+
+(The letter zāy for Saturn, and its day is Saturday)
+| ز | ط | س | ف | خ | ث | ج |
+| ث | ج | ز | ط | س | ف | خ |
+| خ | ث | ج | ز | ط | س | ف |
+| ف | خ | ث | ج | ز | ط | س |
+| س | ف | خ | ث | ج | ز | ط |
+| ط | س | ف | خ | ث | ج | ز |
+| ج | ز | ط | س | ف | خ | ث |
+
+(Seven seals for the seven days are completed)
+
+---
+_End of translation — 113 pages._
