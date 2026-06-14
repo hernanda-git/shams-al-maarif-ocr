@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 89 translated pages._
+_Auto-generated from 95 translated pages._
 
 ---
 ## Page 1
@@ -4786,4 +4786,241 @@ Notes:
 of the Hereafter, then its refuse. Then call them; they will come to you hastening. And if you have folded annihilation into subsistence and witnessing into meeting, take four from the birds and fold them to you, and realize their existence in their witnessing. Then place upon every mountain from them a part: upon the mountain of intellect, the bird of prophethood; and upon the mountain of spirit, the bird of truthfulness; and upon the mountain of heart, the bird of witnessing; and upon the mountain of body, the bird of fitness. Then call them; they will come to you hastening. If your station is established, you will witness these understandings. So take four from the birds and fold them to you, that is, take the bird of intellect, which is the secret of knowledge, and the bird of heart, which is the secret of will, and the bird of secret, which is the secret of power. Then place upon every mountain from them a part: place upon the mountain of primordial life the bird of intellect, and upon the mountain of the Hereafter life the bird of secret, and upon the mountain of everlasting life the bird of heart. Then call them; they will come to you hastening. * And know that whoever is clothed in the robe of eternity, witnessing of subjugation is not sound for him, so strip off the lordly intellect, that is, and the روح robe of melody, because might is the pole of the robe. And if you desire how the connection with what we intended is, then agree with the joining of what is between them. * And some of the people of realities mentioned, he said: I rode a conveyance whose number of the assembled group that is original in it was 131 tablets, and this is a condition in the ship of salvation, and I was cast into the sea, it ran by the wind of safety for the duration of the days of the four seasons, derived from the days of Allah تعالى, until I reached the shore of the sea. Then I found of the precious jewels and the dazzling rubies and the great treasures and the red sulfur and colored mines and the spring of life flowing continuously, so I washed from its water and drank a drink from it after which there is no annihilation, then I rode my conveyance and returned toward my homeland, and my departure was from the rising of the sun to its setting, and there is the blessed shore. * And know that the movements are four: the movement of unveiling, and it is the first; and the movement of veiling, and it is the second. So the first movement of unveiling is the movement of atoms, and it is the essential movement, and it is the movement of intellect; and the movement of the first journey, and it is the movement of the soul, and it is volitional; and the movement of the second journey, and it is the movement of atoms, and it is the movement of yearning. So the first unveiling is for the first day, and it is the day Allah created the spirits in the worlds of the covenant; and the second day, the first journey, the day the intellect addressed him in the world of vapor, and these are the beginnings of the first principles; and the third day, the day of the second unveiling, and it is the day of taking the covenant; and the fourth day, and it is the second journey, and it is the day of eternity, except that its end is the day of unveiling. So the first unveiling is a first Throne, and it is the first journey, as the throwing of pre-eternity; then the second unveiling, a second Throne of eternity, as the throwing of duration. And all these phases and cycles are the reality of الرحمانية and the right of الرحيمية, the reality of الرحمانية, the secret of the preponderating, I mean the breath added to the manifest Presence of Lordship, and in its relation to the لطائف used by means of the dense. As for the secret of the veils, that is, the genesis, our Prophet عليه السلام drew attention to it by his saying, reporting from his Lord: “Seventy veils of light and darkness; if He were to uncover them, the splendors of His Face would burn what His sight has reached of His creation.” And these veils are from your relation, not from His relation; they are not impossible from two aspects, and those do not veil bodies, and the Truth تعالى is not a body. The third: that the veiled one must have a direction, and Allah تعالى has no direction. So the veils of darkness are the veils of the fathers from the lights, and the veils of light are veils from the beginnings of the Essence, that is, its reality; and were it not for that, they would vanish. * And know that the لطائف are carriers of the كثائف, and the لطائف, if their parts are greater than the parts of the كثائف, and I will ask him about it by a لطيفة from the secrets of numbers and the binding of letters. * And know that the secrets of Allah, His known things, for the لطائف and the كثائف and the upper and the lower and the ملكوتيات, are of two divisions: numbers and letters. So the secrets of letters are in the numbers, and the manifestations of
 
 ---
-_End of translation — 89 pages._
+## Page 90
+
+**Arabic (original):**
+— ٨٤ —
+
+الأعداد في الحروف، فالأعداد علويات للروحانيات، والحروف للدوائر الجسمانيات والملكوتيات.
+والأعداد سر الأقوال، والحروف سر الأفعال، فعالم العرش أعداد، وعالم الكرسي حروف، فنسبة
+الحروف للأعداد كنسبة الكرسي للعرش، فبسر الأعداد فُهمت القدرة، وذلك أن الباري سبحانه
+مدح نفسه بسر الأعداد في قوله تعالى: {وَكَفَىٰ بِنَا حَاسِبِينَ}، وجعل مدحه للحروف عائداً عليه في قوله
+تعالى: {اقْرَأْ بِاسْمِ رَبِّكَ} الآية. ولما كان الكرسي الواقع متصلاً بذات الكرسي المحيط فأخر أحدها،
+الأول والآخر هيئة الحروف من الأعداد، ولذلك أخر مرتبة الحروف، فبسر الأعداد فُهم سر
+العقل الرباني، وبسر الحروف فُهم سر الروح الروحاني، فآخر مرتبة العقل أول مرتبة النفس
+العلوية، وهي الفيض الأول أيضاً، كما أن الحروف مأخوذة من حرف الشيء وهو طرفه، وكان العدد
+أوله وأوسطه، ولكل أول وسط وطرف، فبسر الحروف فُهم سر الكرسي الأعلى والكرسي الواسع
+الأبهى، وذلك أن الذوات من العالم العلوية والسفلية مختلفة باختلاف ذواتها في الكرسي الأعلى
+واختلاف نقلها وأطوارها في الكرسي الأبهى، فالكرسي الواسع أول مبادئ العرش من نسبة أول
+انبعاثات الحقائق الملكوتيات، واستمداد آخر درجة من السفليات أول درجة من العلويات. ۞ واعلم
+أن العرش الأبهى فيض النور الأول، والكرسي الواسع فيض النور الثاني، والكرسي الأعلى فيض
+النور الثالث، فالفيض الأول أغنى هو الأول، والثالث هو أول الحروف وآخر مرتبة العدد،
+وهو السر المعبر عنه بحقيقة البشر الذي فيه التنبيه بقوله تعالى: {إِنِّي خَالِقٌ بَشَرًا مِّن طِينٍ}، ثم لما كمل
+القبضتين وجبت مخاطبته الحقيقة الإنسانية، فقال تعالى: {فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن
+رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ}، يعني القبضتين الآخريين والفيض الأول، فالعالم بأسره علويه وسفليه
+بحقيقة هذه الثلاث إضافات، فمن العالم من محض فيضاً، ومنهم من حمل فيضتين، ومنهم من حمل ثلاثاً،
+وهو العالم القطب الحاوي، ولذلك كان الحامل ثابتاً لذواتها على أصل فقر كراسيه المعلومة غير
+مبدلة لحقائق أعداد نفسها، ولا مغير لذوات جرمها بما يظهر في عالم الحقيقة البشرية وسر
+التركيب، وهي لحقائق الكرسي الأعلى ذلك في عالم الملك، وتظهر له حقيقة العالم الإنسانية سر
+الكرسي الواسع علم الجبروت، وتشهد به في حقائق الروح العلوية أسرار الكرسي الأبهى، فيشهد
+فيه حقائق النشأة الأخروية، أي حقيقة النفحة العلية، فتكمل ذاته وتظهر حقيقته، فمن خرج عن
+الخط المستقيم إلى المنحرف ودخل في التحصين؛ لأن المنحرف إذا أضيف إلى المنحرف وأخرجتهما التقيا
+واستقيما، إذا أضيف إلى المستقيم وأخرجتهما إلى اعتدالهما يلتقيان، وتديرها إلى الظهور والنمو
+والثبوت والشهود بعدد المتناهي، فمن وفيه إذا انتقل إلى العالم البرزخي ترقى حقائق الثلاث
+العرشيات ما توافيه الفيض الأول الذي هو من نسبة الكرسي الأعلى لا الأدنى للملكوتيات،
+عذاب تشكيل واحتراق في انطاق بد وعقب ممزوج بكبريت البعد مشتعل بنار الحروف
+القلبية الاشتعالية وعدم لاستماع، وتكمل هذه المدة المدلهمة اللطيفة الممزوجة الغضب أعاذنا الله
+منها. ۞ ثم ينتقل به إلى الطور الثاني من العذاب، وهو عذاب حقيقة الإنسان، كما أن العذاب
+الأول حقيقة الحامل الكثيف الجسماني، يعذب من فيه فيض الثاني وهو الكرسي الأوسع ذلك
+عذاب
+
+**English:**
+— 84 —
+
+The numbers are in the letters, for the numbers are upper-worlds for the spiritual entities, and the letters are for the circles of the bodily entities and the ملكوتيات.
+And the numbers are the secret of sayings, and the letters are the secret of acts; so the world of the Throne is numbers, and the world of the Kursi is letters. Thus the relation of the letters to the numbers is like the relation of the Kursi to the Throne. By the secret of the numbers, القدرة was understood, and that is that the Creator, سبحانه, praised Himself by the secret of the numbers in His saying تعالى: {وَكَفَىٰ بِنَا حَاسِبِينَ}, and made His praise of the letters returning to Him in His saying تعالى: {اقْرَأْ بِاسْمِ رَبِّكَ} the verse. And when the actual Kursi was connected to the essence of the encompassing Kursi, so one of them was delayed, the first and the last, the form of the letters from the numbers; and therefore He delayed the rank of the letters. By the secret of the numbers the secret of the رباني intellect was understood, and by the secret of the letters the secret of the روحاني spirit was understood. So the last rank of the intellect is the first rank of the upper النفس, and it is also the first effusion, just as the letters are taken from the edge of a thing, and it is its side, and the number was its beginning and its middle; and for every beginning there is a middle and a side. By the secret of the letters the secret of the higher Kursi and the vast most splendid Kursi was understood, and that is that the essences from the upper and lower world are different by the difference of their essences in the higher Kursi and the difference of their transfer and states in the most splendid Kursi. So the vast Kursi is the first beginnings of the Throne from the relation of the first outpourings of the ملكوتيات realities, and the seeking of aid of the last degree from the lower worlds is the first degree from the upper worlds. ۞ And know that the most splendid Throne is the effusion of the first light, and the vast Kursi is the effusion of the second light, and the higher Kursi is the effusion of the third light. So the first effusion is richer, it is the first, and the third is the first of the letters and the last rank of the number, and it is the secret expressed by the reality of the human being, in which there is the indication by His saying تعالى: {إِنِّي خَالِقٌ بَشَرًا مِّن طِينٍ}. Then when the two graspings were completed, addressing the human reality became obligatory, so He تعالى said: {فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ}, meaning the last two graspings and the first effusion. So the world in its entirety, its upper and its lower, is by the reality of these three additions. Some of the world are pure effusion, and among them are those who carried two effusions, and among them are those who carried three, and he is the encompassing pole-world. Therefore the bearer was fixed to its essences upon the أصل poverty of its known Kursis, not altered to the realities of the numbers of itself, nor changing the essences of its body by what appears in the world of the human reality and the secret of composition, and it is for the realities of the higher Kursi, that in the world of dominion, and the reality of the human world appears to him, the secret of the vast Kursi, the knowledge of جبروت, and the secrets of the most splendid Kursi witness by it in the realities of the upper spirit, and he witnesses in it the realities of the hereafterly genesis, that is, the reality of the lofty puff, so its essence is completed and its reality appears. So whoever went out from the straight line to the inclined and entered into fortification; because the inclined, if added to the inclined and the two are brought out, they meet and become straight. If added to the straight and brought out to their moderation, they meet, and it turns them to manifestation and growth and stability and witnessing by the number of the finite. So whoever is in it, if he moves to the barzakh world, the realities of the three thrones rise, what the first effusion meets him, which is from the relation of the higher Kursi, not the lower, for the ملكوتيات, torment of formation and burning in the utterance of bad and a following mixed with the sulfur of distance, ignited by the fire of the burning heart-letters, and lack of listening, and this dark, subtle period mixed with wrath is completed; may Allah protect us from it. ۞ Then he is moved by it to the second phase of torment, and it is the torment of the reality of the human being, just as the first torment is the reality of the dense bodily bearer. He is tormented by what is in it, the second effusion, and it is the wider Kursi, that torment
+
+Notes:
+[Grid content preserved as-is]
+
+---
+## Page 91
+
+**Arabic (original):**
+- ٨٥ -
+
+عذاب تصوير لانقلاب وسلب قوى الأجساد الحقيقي فتعكس الإرادات من نظر الحقيقة إلى
+باطن الحكمة المغذية فيلقى إليه ذوات الصور الباطنية فمهما أحبه شيء منها طمحت إرادته إليها لينقلب
+منها آنياً فيتحد فيه العذاب فيضاعف ما رزت له من ظاهر الصور حتى توفي منه تلك الصور حقيقتها
+فيفصل منه حينئذ رجع إلى القوة المغذية فيشهد صورة أخرى فتضاعف له من الحسن فيها أضعافاً
+فتطمح إرادته لها فينعكس عليه فيجد من تضاعف الآلام والعذاب وأنواع المخازي ما يتمنى عدم
+رؤيتها فيبقى منها ما شاء الله من حكم كشافتها ولطافتها حتى توافي جميع تلك الصور الكرسي جميعاً
+وذلك في سر قوله تعالى: {كُلَّمَا نَضِجَتْ جُلُودُهُم بَدَّلْنَاهُمْ جُلُودًا غَيْرَهَا لِيَذُوقُوا الْعَذَابَ} والجلود مائدة
+عليهم بحسب القوة المغذية والتبديل لذوات الصور عائد على التنزيل الرباني لينقل تلك الصور
+فهي ذات حسن من حيث وضعها في الكرسي وإنما تضاعف أعداد عذابها بتضاعف هيئات
+حسنها والعذاب عائد عليه الانقلاب الرباني في الحسن باق في ملكات المعذبة قال تعالى: {فَضُرِبَ
+بَيْنَهُم بِسُورٍ لَّهُ بَابٌ بَاطِنُهُ فِيهِ الرَّحْمَةُ وَظَاهِرُهُ مِن قِبَلِهِ الْعَذَابُ} وإذا أردت أن تشهد حقيقة الحسن
+المطلق الواصل كيف انقلب إلى عين القبح المبعد وهذا هو ليس الانقلاب في ذاته ولا في صفاته ولا
+في أفعاله وإنما هي مرآة الوجود الأول لمن يوجد الإحسان جميلاً وعلم العدل سر القبضة اليسرى
+فكل رحمة فضل وكل نقمة عدل ولترجع للمانع عليه تحقيقاً وأشرنا بلطائف الفكر إليه لحظ
+الانعكاس من حيث الأوصاف لا من حيث الذوات من نور العلي الأعلى إخباراً عن السر المطلق
+الحق المبين النور الهادي للصراط المستقيم السر الأعلى والقسطاس الأسنى كتابه العزيز حيث قال:
+{قُلْ هُوَ لِلَّذِينَ آمَنُوا هُدًى وَشِفَاءٌ} إلى قوله: {بَعِيدٍ} مفهوم ذلك قل هو للذين آمنوا هدى في دار الملك وهو
+عليهم عمى في دار البرزخ أولئك ينادون من الصور التشكيكات المعذبات من مكان بعيد لوقر
+آذانهم فإذا وفي بجميع الصور تعاقبت ذواتها باختلاف أجناسها وتجديد عذابها سلبت عنه قوة
+النظرية المصورة واضمحلت عليه الصور الثانية من العذاب وهو عذاب الفيض الثالث
+وهو نسبة الكرسي الأبهى وهو عذاب أول مراتب الأعداد المتصلة بأول أطراف الحروف وهو
+عذاب الروح المعبر عنه بالطول النفساني وذلك أنه تقدم الكلام الرباني والنظر الأبهى واختلاع
+حلة التزكية وهو أشد العذاب فيقدم الكلام بسبق النطق وتقدم النظر ويقدم
+التزكية بانعدام فهم إدراكات مطلقة ونيران محرقة إن عطش من شدة الوهج وأما الحروف
+السفلية فتقطع أمعاءهم وهم دينية ويطمعون إن جاعوا ويلبسون إن عروا من ظلمة وخشية
+إلى أن يمتثل أمره العلي وحكمه الوفي في نسبة من قال منهم من عدم وفيهم في العوالم الثلاثة ولهم
+عذاب أليم حينئذ يرتفع الحجاب من عين البصيرة الإنسانية فيظهر له أسرار الحروف الملكية
+وحقيقة الأعداد الملكوتية وعين الحياة أعني الحوض المكرم المخصوص بالنبي عليه السلام هذا
+إن أردنا في العالم البرزخي وإلا فالحكم يتبعه والعذاب يقطعه والتعداد يقبضه والحصر يشخصه
+إلى يوم البعثة الجمعية * وأما ما ذكرناه من مر اللطائف القائمة بالكتائف فإنهم سر حقيقة
+ذلك تعلمها وحقاً من عرف نفسه فقد عرف ربه ولا شيء أشرف من معرفة الله فافهم سر هذا
+
+**English:**
+Torment of depiction, for the reversal and stripping of the real powers of the bodies, so the wills are reversed from the view of reality to the inwardness of the nourishing wisdom, and the essences of the inward forms are cast to it. So whenever something among them loves it, its will stretches toward it so as to be turned from it instantly, and the torment becomes united in it, so what was apportioned to it from the outward forms is doubled until those forms deliver up their reality from it, and then it is separated from it; then it returns to the nourishing power, and it witnesses another form, so the beauty in it is multiplied for it many times, and its will stretches toward it, so it is reversed upon it, and it finds from the doubling of pains and torment and kinds of disgraces what it wishes not to see. So there remains from it what Allah wills of the judgment of its unveiling and its subtlety until all those forms come to the Kursi altogether. And that is in the secret of His saying تعالى: {كُلَّمَا نَضِجَتْ جُلُودُهُم بَدَّلْنَاهُمْ جُلُودًا غَيْرَهَا لِيَذُوقُوا الْعَذَابَ} and the skins are a table spread for them according to the nourishing power, and the substitution of the essences of the forms returns to the رباني descent so as to transfer those forms. So it is of beauty from the aspect of its placement in the Kursi, and only the numbers of its torment are doubled by the doubling of the forms of its beauty, and the torment returns upon it, the رباني reversal in beauty remaining in the faculties of the tormented. He تعالى said: {فَضُرِبَ بَيْنَهُم بِسُورٍ لَّهُ بَابٌ بَاطِنُهُ فِيهِ الرَّحْمَةُ وَظَاهِرُهُ مِن قِبَلِهِ الْعَذَابُ}. And if you wish to witness the reality of the absolute, reaching beauty, how it was reversed into the very eye of repelling ugliness, and this is not the reversal in its essence nor in its attributes nor in its acts, but rather it is the mirror of the first existence for whoever finds beneficence beautiful, and the knowledge of justice is the secret of the left grasp. So every mercy is فضل and every vengeance is justice, and it is to return to the preventer upon him in verification. And we indicated by the subtleties of thought to it the moment of reversal from the aspect of attributes, not from the aspect of essences, from the light of the highest Most High, informing of the absolute secret, the manifest truth, the guiding light to the straight path, the highest secret and the most sublime balance, His mighty Book, where He said: {قُلْ هُوَ لِلَّذِينَ آمَنُوا هُدًى وَشِفَاءٌ} to His saying: {بَعِيدٍ}. The meaning of that: say, it is for those who believe, guidance in the abode of dominion, and it is for them blindness in the abode of barzakh. Those are called from the forms, the tormenting doubts, from a far place, if their ears were burdened. So when all the forms are fulfilled, their essences follow one another with the difference of their kinds and the renewal of their torment; the power of the pictured theoretical faculty is stripped from it, and the second forms of torment vanish upon it, and it is the torment of the third effusion, and it is the relation of the most splendid Kursi, and it is the torment of the first ranks of the numbers connected to the first ends of the letters, and it is the torment of the spirit expressed by the النفساني length. That is because the رباني speech preceded, and the most splendid vision, and the stripping of the garment of purification, and it is the severest of torment. So speech is advanced by precedence of utterance and vision is advanced, and purification is advanced by the nonexistence of understanding of absolute perceptions and burning fires if it thirsts from the intensity of the blaze. As for the lower letters, they cut their intestines while they are religious, and they hope if they hunger, and they are clothed if they are naked, from darkness and fear, until His highest command and His faithful judgment are carried out in the relation of whoever among them said from nonexistence and in them in the three worlds, and for them is painful torment. Then the veil is lifted from the eye of the human insight, and the secrets of the الملكية letters and the reality of the ملكوتية numbers and the eye of life, that is, the honored basin مخصوص to the Prophet عليه السلام, appear to him. This if we intended in the barzakh world; otherwise the judgment follows it, and the torment cuts it off, and the numbering seizes it, and the restriction depicts it until the day of the collective resurrection. * As for what we mentioned of the passing of the subtleties standing by the coverings, then they are the secret of that reality; you learn it. And truly, whoever knows himself has known his Lord, and nothing is nobler than the knowledge of Allah, so understand the secret of this
+
+Notes:
+[Grid content preserved as-is]
+
+---
+## Page 92
+
+**Arabic (original):**
+— ٨٦ —
+اللطيفة فهم سر النفس اللطيفة ونسبتها من الكثائف فافهم هذا السر الأصيل بمعرفة النفس
+وكنه أسباب الرياضات الموصلة لذلك بالكلية وبعد ذلك ينفتح عليك من الفيض والفتح الرباني
+ما يخرجك من دائرة الحصر التركي إلى دائرة الإطلاق الشكلي فينكشف هذا الغطاء ويتسع
+لك الفضاء وترتقي إلى سدرة المنتهى وتتحير في بحبوحة جنة المأوى فما أبرزت من هذه الأسرار
+الربانية في اللهجة الصوفية ابتغاء رضوان الله وأهدي بها بين يدي نجواي فتشهد شموسها من
+الحياة والرمز عن عين بصيرته واضمحل أذاه والرسوب في عالم فكرته فأرجو أن يكون رفيقي في
+الملأ الأعلى وجليسي في الروض الأبهى لقوله تعالى وتعاونوا على البر والتقوى وكما قال عليه السلام
+لا يكمل إيمان المرء حتى يحب لأخيه ما يحب لنفسه (لطيفة) اعلم أن الدار البرزخية مفتقرة
+لحقائق الملكوتيات وإنما ينعكس في البرزخيات فيكون عند الروح ويظهر الأشباح كما ذكر ذلك
+بقوله عليه السلام من سن سنة حسنة فله أجرها وأجر من عمل بها إلى يوم القيامة ولي عهد وميثاق
+على من اتصف بالصفاء وتجلل برداء الوفاء مهما تصفحوا سجاف هذا القانون القويم وتأملوا سر
+هذا الصراط المستقيم أن يغضوا أبصارهم عن فواحش اللفظ وأن ينظروا بعين الكمال مما
+خفى * واعلم أن أجزاء العالم علوية وسفلية مجموعة في أجزاء أعدادها ثلاثة آلاف ألف ألف ألف
+وأربعمائة ألف وثمانية وستين ألف ألف ومائة ألف ألف ومائة ألف وأربعون ألف ومائتين
+واثني عشر وهذه الأعداد احتوى عليها بذاتك الكثيفة ونسبة هيئتك الملكوتية بقية العدد
+المتقدم لهذا حصر اللطف والكثائف في الهيئة المركبة فمن عثر على هذه الحقيقة وصل إلى مر
+الشكر ووادي المحبة * وأما نسبة الأرواح لما تقدم ذكره فالقائم بهم من الروح الإلهي الكبير
+المحبوب الظاهر المنير جزء من ثلاثين ألف ألف فهذا الجزء الحامل للكثائف من العالم المركب
+فإذا أردت فهم ذلك فاقسم العدد الكلي وهو اثنان وثلاثون ألف ألف وستمائة ألف ألف
+وثمانية وخمسون ألفا فعلى مائتي ألف وخمسين ألفا على واحد وعشرين
+ألف وستمائة ثم على ثلثمائة وخمسة فاخرج فاجعله عددا فهو الحاصل الأصلي خذه واجمعه
+حروفا ثم ادخل في تلك الأسماء وحقق ما وقع عليه من المسميات فهو هو فتقصر حيث بالسر
+الخفي والعلم الوفي يثبت الله الذين آمنوا بالقول الثابت في الحياة الدنيا وفي الآخرة بدت الله عينا
+في العالم حقيقته ونشر علينا رحمته إنه كريم رؤوف رحيم فهذه حقيقة تشكيك الأرواح
+الإمدادات وحقائق المحجوب بات في أنوار العظمة فكن به مؤمنا والحقه ثقة مصدقا يرحمك الله
+رحمة واسعة بمنه وكرمه وهو مفضل بالإحسان العميم والله يهدي من يشاء إلى صراط مستقيم وصلى
+الله على سيدنا محمد وعلى آله وصحبه وسلم
+(الفصل الثاني عشر في الاسم الأعظم وما له من التصريفات الخفيات)
+* اعلم وفقني الله وإياك أن اسم الله الأعظم فيه خواص وإشارات وقد أوضحتها ليرى ما فيها من
+الأسرار لينتفع به طالبه ويفهم معانيه وعجائبه وإن هذا الاسم يبرئ من الأسقام والأوجاع وتعجيل
+العافية وهو الحصن الحصين * ومن خواصه إذا كتب ووضع مع الميت أمن من عذاب القبر
+ومن
+
+**English:**
+The subtlety: understand the secret of the subtle soul and its relation from the dense entities, so understand this original secret by the knowledge of the soul and the essence of the causes of the exercises leading to that entirely. And after that there will be opened to you from the effusion and the رباني opening what brings you out from the circle of the Turkish restriction to the circle of the formal absoluteness, so this veil is uncovered and the space expands for you, and you ascend to Sidrat al-Muntaha and are bewildered in the expanse of Jannat al-Ma'wa. So what I have brought forth of these رباني secrets in the Sufi idiom, seeking the good pleasure of Allah, and I present it before my private supplication, so its suns witness from life and the symbol from the eye of his insight, and its harm and the sinking in the world of his thought vanish. So I hope that he will be my companion in the highest assembly and my table-companion in the most splendid meadow, by His saying تعالى: and cooperate in righteousness and piety, and as he عليه السلام said: the faith of a man is not completed until he loves for his brother what he loves for himself. (Subtlety) Know that the barzakh abode is in need of the realities of the ملكوتيات, and only in the barzakhيات is it reflected, so it is with the spirit and the forms appear, as that was mentioned by his saying عليه السلام: whoever establishes a good practice, for him is its reward and the reward of whoever acts by it until the Day of Resurrection. And I have a covenant and pact upon whoever is characterized by purity and wrapped in the cloak of faithfulness, however much they peruse the curtain of this upright law and contemplate the secret of this straight path, that they lower their eyes from the obscenities of speech and look with the eye of perfection at what is hidden. * And know that the parts of the world, upper and lower, are gathered in the parts of their numbers: three thousand million million million and four hundred thousand and sixty-eight million million and one hundred thousand million and one hundred thousand and forty thousand and two hundred and twelve. And these numbers are encompassed by your dense essence and the relation of your ملكوتية form, the remainder of the preceding number; for this is the restriction of the subtle and the dense in the composite form. So whoever stumbles upon this reality has reached the passage of gratitude and the valley of love. * As for the relation of the spirits to what was mentioned before, the standing over them from the great divine spirit, the beloved, the manifest, the luminous, is a part of thirty million. So this part, the bearer of the dense entities from the composite world. If you wish to understand that, then divide the total number, which is thirty-two million and six hundred million and fifty-eight thousand, by two hundred thousand and fifty thousand, by twenty-one thousand six hundred, then by three hundred and five; then take it out and make it a number, for it is the original result. Take it and gather it as letters, then enter into those names and verify what the named things fell upon, for it is He. So you shorten where, by the hidden secret and the faithful knowledge, Allah establishes those who believe with the firm word in the life of this world and in the Hereafter. Allah appeared as an eye in the world, His reality, and He spread over us His mercy. Truly He is Generous, Compassionate, Merciful. So this is the reality of the confusion of the spirits, the supplies, and the realities of the veiled one spent in the lights of majesty. So be a believer in it and attach it as a trustworthy confirmer; may Allah have mercy on you with vast mercy by His grace and generosity. And He is favored by abundant beneficence, and Allah guides whom He wills to a straight path. And may Allah bless our master Muhammad and his family and his companions and grant peace.
+
+(Chapter Twelve on the Greatest Name and what belongs to it of hidden dispositions)
+* Know, may Allah grant success to me and to you, that the Greatest Name of Allah has properties and indications, and I have clarified them so that what is in them of the secrets may be seen, so that its seeker may benefit by it and understand its meanings and wonders. And this name indeed cures from ailments and pains and the hastening of well-being, and it is the impregnable fortress. * And among its properties is that if it is written and placed with the dead, he is safe from the torment of the grave. And from
+
+Notes:
+[Grid content preserved as-is]
+
+---
+## Page 93
+
+**Arabic (original):**
+- ٨٧ -
+
+ومن حمله كان في حفظ الله وهو قبول عظيم لمن يدخل على الملوك والسلاطين والعظماء يحميه
+الله منهم وحامله يكون مؤيداً منصوراً يقهر كل من يعاديه وينفع لإبطال السحر وحل المعقود ومن
+طال سجنه وينفع للمصر وع وإخراج العارض من الجسد فيعلق عليه وإن أقام العارض احترق ومن
+نقشه في خاتم فضة في الساعة الأولى من يوم الجمعة يكون النقاش صامتاً وتختم به فلا يقع في
+بصر أحد إلا أحبه وقضى حاجته وإن دخل على سلطان نال مقصده ولكن يجعل الخاتم في
+يمينه * ومن دخل الحرب يكون في شماله * وإذا وضع الخاتم في مكان خرب عمر * وإذا حملته
+امرأة عازبة تزوجت خصوصاً البكر * وإذا حمله من يخاف من قطاع الطريق وكل أمر مكروه
+فإنه يأمن منه * وإذا علق على لواء الجيش كان عسكره منصوراً وإن ملكاً من الصين كان
+يخاصم به مدينة من مدائن الكفار مدة طويلة حتى بنى المسلمون حول المدينة مدينة أخرى ولم
+يقدروا على تلك المدينة فذكر بعض الناس للملك رجلاً يعرف بالزهد والورع والعلم واشتهر عنه
+ذلك فخباه الملك وقال له امدنا بالأدعية وذكر له المدة وأنهم لم يقدروا على فتح هذه المدينة فأخذ الشيخ
+رقعة ورمم فيها الاسم مكرراً مبسوطاً وقال له اجعله في مقدم رأسك وازحف على الكفار ففعل
+ذلك فوالله لم تمضِ الساعة حتى نصر الله المسلمين وملكوا المدينة وغنموا غنيمة وأرسل له الملك جزءاً
+من الغنيمة فلم يقبل وقال عندي الغنيمة الكبرى * ومن خواصه أن رجلاً من آل جعفر المنصور
+طلبه الملك فطلبه فلما جاء تغير لونه فدفع له رقعة فيها الاسم الأعظم فأمر الخليفة بضرب عنقه
+فرجعت يدا الجلاد عن سيفه فأمره ثانياً وثالثاً فلم يقطع فله قال لهم فتشوه فوجدوا تلك الرقعة وفيها
+الوفق فتعجبوا ومن منَّ الله عليه بهذا السر فليصنه لأن هذه السبعة أحرف كانت مكتوبة على
+باب الكعبة وهي تتصرف في ٧٢ عملاً في إخراج المطالب والدفين والكنوز * وإذا أردت
+العمل بها فاكتبها بزعفران وعلقها في رقبة ديك أهوشر وأطلقه في موضع الدفين أو الخبيئة
+فأي مكان وقف عليه وبحثه برجله أو منقاره أو صاح عليه ففيه الدفين أو الخبيئة * وإذا أردت
+هدم الحصون أو القلاع والأماكن وخرابها فاختم على خاتم عمل الخير بشمع وعلى الجانب الآخر
+بخاتم عمل الشر ثم ادفنه تحت عتبة الباب وألق عليه من ماء هارب الحمام * وإذا أردت إخراج
+أحد من بلد خذ عصفوراً واربط الخاتم في رقبة مع اسم المعمول له واسم أمه واربطه في رجل
+العصفور بخيط أصفر وأطلقه بيدك الشمال من وراء ظهرك وتقول عند إطلاقه هرب فلان بن فلانة
+من هذا المكان بحق هذه الأسماء * وإذا أردت النقل والتحويل فاكتب خاتم الشرف ورقة واغسله
+بماء هارب الحمام ورش في أي محل أردت كما ذكرنا في ساعة نحس وتقول عند رش الماء وكلوا
+يا خدام هذه الأسماء بكذا وكذا فأصبحوا لا ترى إلا مساكنهم الآية وتقول هيا العجل * وإذا أردت
+الرجيم فاكتبه في شقفة نيئة وادفنها في أعلا داره واكتب عليه وأمطرنا عليهم حجارة من سجيل
+الآية وسورة الفيل إلى آخرها وتبخرها ببخور الشر ترَ عجباً * وإذا أردت الحرب وإلقاء النار في دار
+الظالم فخذ شمعة وارسم الخاتم في ساعة نحس مع اسم الشخص والمكان على تلك الشمعة ووكل
+الخادم بذلك ثم أوقد الشمعة فلتصل النار إلى الأسماء المكتوبة حتى تعمل في الشخص وفي داره وقد
+
+**English:**
+- 87 -
+
+And whoever carries it, he is in the protection of God, and it is a great acceptance for whoever enters upon kings and sultans and the great ones; God protects him from them, and its bearer becomes supported, victorious, overpowering everyone who opposes him. And it is beneficial for nullifying sorcery and loosening the knotted, and whoever has been long imprisoned, and it is beneficial for the one afflicted with possession and for bringing out the intruding spirit from the body, so it is hung upon him; and if the intruding spirit remains, it is burned. And whoever engraves it in a silver ring in the first hour of Friday, the engraver will be silent, and it is sealed with it, so it does not fall upon the sight of anyone except that he loves him and fulfills his need. And if he enters upon a ruler, he attains his purpose, but he makes the ring in his right hand. * And whoever enters war, it is in his left. * And if the ring is placed in a ruined place, it is built up. * And if a single woman carries it, she marries, especially a virgin. * And if it is carried by one who fears highway robbers and every hated matter, then he is safe from it. * And if it is hung upon the banner of the army, his army is victorious. And if a king from China was disputing by it with a city from among the cities of the unbelievers for a long time until the Muslims built another city around the city and were not able to [take] that city, some people mentioned to the king a man known for asceticism, piety, and knowledge, and that was famous about him, so the king concealed him and said to him: supply us with the prayers, and he mentioned to him the period and that they were not able to conquer this city. So the الشيخ took a slip and repaired in it the name repeated, spread out, and said to him: place it in the front of your head and crawl upon the unbelievers. So he did that, and by God, the hour did not pass until God gave victory to the Muslims and they possessed the city and gained booty. And the king sent to him a portion of the booty, but he did not accept and said: with me is the greater booty. * And among its properties is that a man from the family of Ja‘far al-Mansur was sought by the king, so he sought him; and when he came, his color changed, so he handed him a slip in which was the Greatest Name. So the caliph ordered that his neck be struck, but the hands of the executioner returned from his sword, so he ordered him a second and a third time, but it did not cut. So he said to them: search him. So they found that slip, and in it was the Wafq, and they were astonished. And whoever God has favored with this secret, let him guard it, because these seven letters were written on the door of the Ka‘ba, and they are disposed in 72 workings in bringing out requests, buried treasure, and treasures. * And if you want to work with it, write it with saffron and hang it on the neck of a rooster, and release it in the place of the buried treasure or the hidden thing. So whichever place it stops upon and scratches with its foot or its beak, or crows over it, then in it is the buried treasure or the hidden thing. * And if you want the demolition of fortresses or castles and places and their ruin, then seal upon the seal of the work of good with wax, and on the other side with the seal of the work of evil, then bury it under the threshold of the door and cast upon it from the water of fleeing pigeons. * And if you want to expel someone from a land, take a bird and tie the ring on the neck with the name of the one worked upon and the name of his mother, and tie it on the leg of the bird with a yellow thread, and release it with your left hand from behind your back, and you say when releasing it: So-and-so son of So-and-so fled from this place by the right of these names. * And if you want transfer and transformation, write the ring of honor on paper and wash it with the water of fleeing pigeons and sprinkle in any place you want, as we mentioned, in an hour of misfortune, and you say when sprinkling the water: And eat, O servants of these names, such-and-such, so they became, and you see nothing except their dwellings, the verse, and you say: Come, hurry. * And if you want the stoning, write it in a fresh shard and bury it in the highest part of his house, and write upon it: And We rained upon them stones of Sijjil, the verse, and Surat al-Fil to its end, and fumigate it with the incense of evil; you will see a wonder. * And if you want war and casting fire into the house of the wrongdoer, take a candle and draw the ring in an hour of misfortune with the name of the person and the place upon that candle, and assign the servant to that, then light the candle; let the fire reach the written names until it acts upon the person and upon his house, and indeed
+
+---
+
+---
+## Page 94
+
+**Arabic (original):**
+- ٨٨ -
+
+فعله بعضهم لملك جائر فهلك ۞ وإذا أردت تعطيل السفن من السفر وإن سافرت تغرق فاكتب
+الخاتم في قصب خشب بمداد سارب الحمام وماء البحر الذي فيه المركب وخذ من الماء في فمك وبخه على
+المركب فإنها تقف ولا تسير وكان المأمون إذا أراد الفرجة في الدجلة يكتب الخاتم ويعلقه في مكان عال
+يحيط حرير أبيض فتهيج الأمواج من كل جانب حتى يشرفوا على الغرق فيعلموا أن ذلك من عمل
+الخليفة فيستغيثوا به فيربطه عنهم ۞ وإذا أردت لإخراج العارض من الجسد فاختم به على جبهة
+المصاب واتل عليه العزيمة فإنه يفيق ۞ وإذا أردت خلاص المسجون فارسم الخاتم على قليل من
+تراب المقابر ثم يدخله المسجون من طوقه ويخرجه من كمه ويفعل بالضد من ذلك بعد قراءة
+العزيمة فإن المسجون يتخلص ۞ وإذا أردت جلب إنسان فارسم الخاتم على أثره إن أمكن واسمه
+في كاغد نقي وبخره بأظفار الجان بعد أن تكتب اسم المطلوب معه وعلقه في الريح فإنه يحضر سريعا
+۞ واعلم أن أعمال هذا الاسم صحيحة إذا لازمت لها الرياضة والصوم وترك الدنيا وفعلت ذلك تنل
+ما تريد ۞ وقد قال الإمام علي كرم الله وجهه إن القرآن له ظاهر وباطن فلذلك هذا الاسم ظاهر
+وباطن فظاهره ما يرى وباطنه العزيمة ومن وضع هذا الخاتم على القدر وهو يغلي بطل غليانه
+۞ وإذا أردت أن تجلب غائبا فاكتبه في ورقة وحوله والسماء والطارق حروفا مفرقة وعلقها في
+جانب الشمس في ساعة موافقة والقمر في برج هوائي واقرأ العزيمة ٢١ مرة فإن الشخص
+يحضر ۞ وإذا أردت مدد عدو وأظلم فخذ شمع كره وصور فيه تمثالا على صفة من تريد وارسم
+عليه الخاتم مع اسم المطلوب وأمه وافقأ عيني التمثال بشوكتين وضعه في قدر أسود وفيه حجر بلاطف
+ورش عليه قليلا من سارب الحمام وادفن القدر قريبا من مستعر النار فإن الله ول له يصبح النار النار
+وتؤذيه عيناه بحيث لا يكاد ينظر شيئا ويستغيث من شدة الوجع ولا تبقه أكثر من سبعة أيام فإن
+المعمول له يموت فإذا أردت شفاه أخرج التمثال وألقه في الماء ۞ وإذا أردت إبطال نوم إنسان
+اخطم الخاتم على شمع على اسم من تريد وصور صورته وارسم عليها الخاتم واربطها في ذكة سراويلك
+وعلق السراويل رجلا بعد رجل فإن المعمول له لا ينام مادامت السراويل معلقة ۞ وإذا أردت
+ضرر أحد وتأتيه الأحزان والهموم والفكر خذ قارورة على اسم من شئت واسم أمه وارسم الخاتم
+عليها بعد أن تصور المطلوب عليها وتضع في القارورة قليلا من الماء والكبريت والفلفل
+والزيت وضعها على نار بين حجرين فإن المعمول له تأتيه الهموم والفكر والأسقام ۞ وإذا أردت
+المحبة والعطف فارسم الخاتم في جام زجاج بمسك وزعفران وماء ورد واسم المطلوب وأمه وامحه
+بماء واسقه منه فإنه لا يطيق فراقك وإن لم يمكن سقيه رش منه على ثيابه يحصل المطلوب ۞ وإذا
+أردت تفرق المجتمعين على المعاصي أو قلع أحد من مكانه أو فراق بين اثنين فاكتب الخاتم بمسك
+وماء وربط أرخى على شقة وادفنها في مكانها تحصل العداوة وتفرقوا ۞ وإذا أردت الصلح
+بين المرأة وزوجها فاختم على شمع وصور منه تمثالين وجههما لبعض واجعل في كل واحد
+قطعة من كهرباء واتل عليهما العزيمة ٢١ مرة فإنهما يصطلحان ۞ وإذا أردت المهابة بين الناس
+فاكتب الخاتم بمسك وزعفران وماء ورد وضعه في قارورة فإذا أردت الدخول على الأكابر فخذ
+قليلا
+
+**English:**
+- 88 -
+
+Some of them did it to a tyrannical king, and he perished. ۞ And if you want to disable ships from traveling, and if they travel, that they sink, then write the ring on a reed of wood with the ink of fleeing pigeons and the seawater in which the ship is, and take some of the water into your mouth and spit it upon the ship, then it will stop and not move. And al-Ma'mun, when he wanted to enjoy himself on the Tigris, would write the ring and hang it in a high place surrounded by white silk, and the waves would rage from every side until they were on the verge of drowning, so they would know that that was from the work of the caliph and seek his aid, and he would restrain it from them. ۞ And if you want to bring out the intruding spirit from the body, then seal with it upon the forehead of the afflicted and recite the incantation over him, for he will recover. ۞ And if you want the release of the imprisoned, draw the ring on a little grave dust, then the prisoner inserts it from his collar and takes it out from his sleeve, and does the opposite of that after reciting the incantation, for the prisoner will be freed. ۞ And if you want to bring a person, then draw the ring on his trace if possible, and his name on clean paper, and fumigate it with the nails of the jinn after you write the name of the one sought with it, and hang it in the wind, for he will come quickly. ۞ And know that the workings of this name are correct if you adhere to ascetic discipline, fasting, and abandoning the world, and do that, you will attain what you want. ۞ And Imam Ali, may God ennoble his face, said that the Qur'an has an outward and an inward; therefore this name has an outward and an inward. So its outward is what is seen, and its inward is the incantation. And whoever places this ring upon a pot while it is boiling, its boiling is nullified. ۞ And if you want to bring an absent one, then write it on a paper and around it, "By the sky and the night-comer," separated letters, and hang it on the side of the sun in a suitable hour, and the moon in an airy sign, and recite the incantation 21 times, then the person will come. ۞ And if you want the support of an enemy and darkness, then take black wax and form in it a statue in the likeness of whom you want, and draw upon it the ring with the name of the one sought and his mother, and gouge out the eyes of the statue with two thorns, and place it in a black pot in which is a stone بلاطف, and sprinkle upon it a little of fleeing pigeons, and bury the pot near the kindled fire, for God will make the fire for him become fire, and its eyes will hurt him so that he can scarcely look at anything, and he will cry for help from the شدت of the pain, and do not leave it more than seven days, for the one worked upon will die. And if you want healing, take out the statue and cast it into the water. ۞ And if you want to nullify a person's sleep, seal the ring on wax with the name of whom you want, and depict his image, and draw the ring upon it, and tie it in the waistband of your trousers, and hang the trousers leg after leg, for the one worked upon will not sleep so long as the trousers are hanging. ۞ And if you want harm to someone and sorrows, worries, and thoughts come to him, take a bottle in the name of whomever you wish and the name of his mother, and draw the ring upon it after you depict the sought one upon it, and place in the bottle a little water, sulfur, pepper, and oil, and place it on fire between two stones, for worries, thoughts, and ailments will come to the one worked upon. ۞ And if you want love and affection, draw the ring in a glass bowl with musk, saffron, rose water, and the name of the sought one and his mother, and erase it with water and give him to drink from it, for he will not endure separation from you; and if it is not possible to give him to drink, sprinkle some of it upon his clothes, and the sought thing will be obtained. ۞ And if you want to separate those gathered upon sins, or uproot someone from his place, or separation between two, then write the ring with musk and water and a loose binding on a strip and bury it in its place; enmity will occur and they will be separated. ۞ And if you want reconciliation between the woman and her husband, then seal upon wax and depict from it two statues, their faces toward one another, and place in each one a piece of amber, and recite the incantation over them 21 times, then they will reconcile. ۞ And if you want awe among people, then write the ring with musk, saffron, and rose water and place it in a bottle. If you want to enter upon the great ones, take a little
+
+---
+
+---
+## Page 95
+
+**Arabic (original):**
+— ٨٩ —
+قليلا بكفك وادهن به وجهك فكل من رآك أحبك وهذه صفة الخاتم كما ترى ✵ 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈
+
+---
+_End of translation — 95 pages._
