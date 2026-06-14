@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 95 translated pages._
+_Auto-generated from 101 translated pages._
 
 ---
 ## Page 1
@@ -5023,4 +5023,395 @@ Some of them did it to a tyrannical king, and he perished. ۞ And if you want to
 قليلا بكفك وادهن به وجهك فكل من رآك أحبك وهذه صفة الخاتم كما ترى ✵ 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈 𐍈
 
 ---
-_End of translation — 95 pages._
+## Page 96
+
+**Arabic (original):**
+— ٩٠ —
+بأج أهوج يا إلهي مهوج * وجلجلوت بالإجابة هللت
+بأج أهوج جلمهوج جلاله * جليلا جلا جليوت جماتهجت
+بتعداد أروم وشمر أزارم * وبهرة تبزيز وأم تبركت
+يقاد سراج السر سرا بيانه * نفاد سراج السر سرا تنورت
+بنور جلال بازخ وشر نطخ * وقدوس بركوت به النار أخذت
+باه يا ياه نموه أصاليا * بطمطم مهراش لنار العدا همت
+بهال أهيل شلع شلع شالع * طهى طهيب طيطيوب بطيطهت
+أنوخ بتملوخ و يروح برخوا * بتمبخاث شموخ شميخ تشمخت
+حروف لهـرام علت وتشاخت * مدى الدهر والأيام يأبوه ارتخت
+وياشمخثا ياشمخيثا أنت شامخا * وأطمحها هطل الرياح تخلخلت
+بطه ويس وطس كن أأأ * بطسم للسعادة أقبلت *
+بكاف وهاء ثم عين وصادها * كفايتنا من كل هول بناحوت
+باهيا شراهيا أدوناي أصباؤت * بآل شداى أقسمت ثم بطيطعت
+بقاف ونون ثم حم بعدها * وفي سورة الدخان سر تحكمت
+ثلاث عصى صففت بعد خاتم * على رأسها مثل السهام تقومت
+وميم طميس أبتر ثم سلم * وفي وسطها بالجرتين تشركت
+وأربعة مثل الأنامل صففت * تشير إلى الخيرات والرزق جمعت
+وهاه شقيق ثم واو مقوس * كأنبوب حجام من السر التوت
+وآخرها مثل الأوائل خاتم * خماسي أركان والسر قد حوت
+فهذا هو اسم الله جل جلاله * وأسماؤه عند البرية قد سمت
+وهذا هو اسم الله يا جاهل اعتقد * ولا تشكك كي تتلف الروح والجنـت
+فخذ هذه الأسماء الشريفة وأخفها * ففيها من الأسماء ماللبها حوت
+بها العهد والميثاق والوعد واللقا * وبالمسك والكافور حقا تختمت
+وإن كان حاملها من الخوف آمنا * فأقبل ولا تخش الملوك لما حوت
+وإن كان مصروعا من الجن واقع * نصب حميم جنة العون قطعت
+فقابل ولا تخش وحاكما ولا تخف * واسع على الأوراز تأمن من الفلت
+فمن أحرف التوراة منهن أربع * وأربع من إنجيل عيسى بن مريمـت
+وخمس من القرآن هن تمامها * إلى كل مخلوق أفصح وأبكمت
+فلا تحيى تخفى ولا تقرب تخف * ولاسد يأتي إليك بهمهت
+ولا تخش من سيف ولا تخش خنجرا * ولا تخش من رمح ولاشرا سهمت
+فحافظ
+
+**English:**
+— 90 —
+Bāj Ahwaj, O my God, Muhawaj * and Jaljalūt, with the answer, I exulted
+Bāj Ahwaj, Jalmuhawj, His majesty * gloriously, Jala, Jaliyūt, I became agitated
+By counting, I desire, and Shammar Azāram * and with splendor, Tabzīz, and Umm, I was blessed
+The lamp of the secret is led, secretly, its explanation * the lamp of the secret is exhausted, secretly, I was illuminated
+By the light of majesty, Bāzikh, and evil, Natakh * and Quddūs, Barakūt, by it the fire took me
+Bāh, O Yāh, Namūh, originally * with Tamtam, Mihrāsh, for the fire of the enemies I intended
+Bihāl, Ahīl, Shala‘, Shala‘, Shāli‘ * Tahā, Tahīb, Tītīyūb, Bitīhāt
+Anūkh, with Tamlūkh, and Yarūh, Barakhā * with Tambakhāth, Shumūkh, Shamīkh, Tashmakhāt
+The letters of Lahram rose and became lofty * throughout eternity and the days, Ya'būh, they slackened
+And Yāshmakhthā, Yāshmakhīthā, you are lofty * and I make them aspire; the downpour of the winds was loosened
+Batah, Wīs, and Tās, Kun, A A A * by Batsam, to happiness it came forward *
+With Kaf and Hā, then ‘Ayn and its Sād * our sufficiency from every terror, in Bahūt
+Bāhiyā, Shāhiyā, Adonai, Asbā’ūt * by the family of Shaddāy I swore, then Bitī‘at
+With Qāf and Nūn, then Ḥā after it * and in Sūrat al-Dukhān the secret I controlled
+Three staffs I arranged after a seal * on its head, like arrows, it stood upright
+And Mīm, Ṭamīs, Abtar, then Salm * and in its middle, with the two jars, it participated
+And four, like fingers, I arranged * indicating the good things and provision, I gathered
+And Hāh, Shaqīq, then a curved Wāw * like the tube of a cupping vessel, from the secret it was twisted
+And its end, like the first ones, a seal * five-sided in pillars, and the secret it contained
+So this is the name of God, glorious is His majesty * and His names among creation have become exalted
+And this is the name of God, O ignorant one, believe * and do not doubt, lest you destroy the soul and the jinn
+So take these noble names and conceal them * for in them are of the names what the heart contained
+By them are the covenant, the pact, the promise, and the meeting * and with musk and camphor, truly, they are sealed
+And if its bearer is safe from fear * then come forward and fear not the kings for what it contains
+And if one struck down, fallen by the jinn * a hot bath, the garden of aid, was cut off
+So meet and fear not, and a ruler, and do not fear * and strive upon the orāz, you will be safe from slipping
+For from the letters of the Torah, among them are four * and four from the Gospel of Jesus son of Mary
+And five from the Qur’an, they are its completion * to every creature, articulate and mute
+So do not live, be hidden, nor approach, fear * and no lion will come to you with its roar
+And fear not a sword, and fear not a dagger * and fear not a spear, nor an evil arrow
+So preserve
+
+Notes:
+[Grid content preserved as-is]
+
+---
+## Page 97
+
+**Arabic (original):**
+— ٩١ —
+
+في حافظ الاسم الذي جل ذكره * توقى به كل المكاره والغلت
+وصلِّ على بكرة وعشية * على الآل والأصحاب من ذلهم حوت
+توسلت ربي إليك بجاههم * وأسمائك الحسنى إذا هي جُمعت
+واعلم إني لم أذكر اسم رسول الله عليه السلام لوجوه عدة، اعلم أن رسول الله ولو ذُكر في هذا
+المحل لَطُوي نور هذه الأسماء الشريفة المباركة، يتوسل به إلى الله تعالى عقب الدعاء فإن حاجته تقضى.
+فأما الذي فيه من التوراة فستة أحرف وهي ۞ ||| والذي فيه من الإنجيل ‡ م والذي
+فيه من القرآن العظيم ۩ ||| فافهم ذلك واكتمه، وها أنا أذكر لك من خواصه ما أمكن ذكره
+وأُمرت بإفشائه من غوامض الأسرار التي وقفت دونها العارفون وتأدب عندها الراسخون كما
+أخبر عنهم أنهم يقولون آمنا به كل من عند ربنا وما يذكر إلا أولوا الألباب، وكما أخبر عنهم الملائكة
+الكرام مع اطلاعهم على الملكوت السماوي والأرضي إذ قالوا سبحانك لا علم لنا إلا ما علمتنا إنك
+أنت العليم الحكيم.
+
+( فصل ) وأما قوله رضي الله عنه وخاتماً بعد ثلاث معجل بكل بلاء داخل الجسم أقسمت، يعني
+إذا ابتلي الإنسان بمرض من الأمراض الباطنة كالقولنج وضعف الكبد ووجع القلب وما أشبه
+ذلك وقد أعيا الحكماء، فتكتب له الثلاث عصي وبعدها الخاتم على هذه الصفة بغير سنام ||| ۞
+مكررة ٧ مرات، تكتب في إناء من زجاج ويُنجم ٣ ليال ويسقى للمريض الذي ذكرناه يبرأ.
+
+( فصل ) وأما قوله معجل أنواع العذاب جميعه، يعني إذا ظلمك إنسان ولا تقدر تنتصف منه، فاكتب
+الخاتم والثلاث عصي والسنام، وهو أن تضع تمثالاً وضم إليه الحروف على اسم من تريد واسم أمه
+وترسم الخاتم والثلاث عصي والسنان على كل عضو من أعضاء ذلك التمثال، وتكون قد وضعت
+ذلك التمثال على دفة أي لوح من خشب تابوت الأموات وسمره على تلك الدفة وتدفنه قريباً من
+إناء فيه خل وطوبل، فإن الشخص المعمول له ذلك يقاسي شدة عظيمة وكلما ذاب ذلك
+التمثال اضمحل جسمه.
+
+( فصل ) وأما قوله وميم لمجرى دم كل امرئ طغى، يعني ترسم في شقفة نيئة تمثالاً وتكتب عليه
+اسم من تريد واسم أمه بمداد الغم في يوم اجتماع نيرين وها في الدرجة قبل المفارقة، تكتب الميم
+وبعدها الثلاث عصي مع السنان والخاتم مقلوباً وترمى في ماء كدر أو في بئر عميق عاطل، ففي ساعته
+تقضى الحاجة ولا يزال المعمول له ينزف الدم من منافذه حتى يهلك.
+
+( فصل ) وأما قوله سلماً ترقى به درج العلا، وذلك أن تكتب سلماً على ظفر إبهامك اليمنى وادخل
+على الجبارين في المحاكمة وقت الحاجة من جميع الحالات، فإنك تكون منصوراً على أخصامك
+في جميع الحالات وتكون مكرماً مطاعاً مقبول التصرف نافذ الكلمة مقرباً من خواطرهم
+ويقضون جميع حوائجك، تكتب في ورق خطاف وتجعله في شمع أحمر وتضعه تحت اللسان، فإنك
+لا تزال فرحاً مسروراً مرفوع المحل أينما تحل وتنعقد لك ألسنتهم ولسان كل ذي شر ولا يقع عليك
+بصر أحد إلا أحبك ومال إليك.
+
+**English:**
+— 91 —
+
+In the preserving of the name whose mention is exalted * by it are guarded against all miseries and afflictions
+And pray morning and evening * upon the family and the companions, from whose humiliation it contains
+I have sought my Lord through their rank with You * and Your most beautiful names, when they are gathered
+And know that I did not mention the name of the Messenger of God, peace be upon him, for several reasons; know that the Messenger of God, even if mentioned in this
+place, the light of these noble blessed names would be folded up; by it one seeks nearness to God Most High after the supplication, for then his need is fulfilled.
+As for that which is from the Torah, it is six letters, and they are ۞ ||| and that which is from the Gospel is ‡ م and that which
+is from the عظیم Qur’an is ۩ ||| so understand that and conceal it, and here I mention to you from its properties what it was possible to mention
+and I was commanded to disclose from the obscure secrets before which the knowers stood and at which the firmly grounded behaved with ادب, as
+it was reported about them that they say, “We believe in it; all is from our Lord,” and none remembers except those of understanding, and as the noble angels reported about them
+with their awareness of the heavenly and earthly dominion, when they said, “Glory be to You; we have no knowledge except what You have taught us. Indeed,
+You are the Knowing, the Wise.”
+
+(Section) As for his statement, may God be pleased with him, “and a seal after three, hastening every affliction within the body,” I swear, meaning:
+if a person is afflicted by a disease from the internal diseases such as colic, weakness of the liver, pain of the heart, and what resembles
+that, and the physicians have been exhausted, then you write for him the three staffs and after them the seal in this manner, without a hump ||| ۞
+repeated 7 times, written in a glass vessel and astrologically timed for 3 nights, and given to drink to the patient mentioned, he recovers.
+
+(Section) As for his statement, “hastening all kinds of punishment,” meaning: if a person wrongs you and you are not able to exact retaliation from him, then write
+the seal and the three staffs and the spearhead, and that is that you place a figure and join to it the letters upon the name of whom you want and the name of his mother,
+and you draw the seal and the three staffs and the spearheads upon every limb of that figure, and you will have placed
+that figure upon a board, that is, a plank of the wood of the coffin of the dead, and nail it upon that board and bury it near
+a vessel in which there is vinegar and ṭūbāl, for the person for whom that is done will suffer a great severity, and whenever that
+figure melts, his body will waste away.
+
+(Section) As for his statement, “and Mīm for the course of the blood of every man who has transgressed,” meaning: you draw in a fresh shard a figure and write upon it
+the name of whom you want and the name of his mother with the ink of grief on the day of the conjunction of the two luminaries, and Hā in the degree before separation; you write the mīm
+and after it the three staffs with the spearhead and the seal inverted, and it is thrown into turbid water or into an empty deep well, and at its hour
+the need is fulfilled, and the one worked upon will continue bleeding from his outlets until he perishes.
+
+(Section) As for his statement, “a ladder by which one ascends the degrees of loftiness,” and that is that you write “ladder” on the nail of your right thumb and enter
+upon the tyrants in litigation at the time of need in all states, for you will be victorious over your adversaries
+in all states and you will be honored, obeyed, accepted in disposition, effective in word, brought near to their thoughts,
+and they will fulfill all your needs; you write on hawk paper and place it in red wax and put it under the tongue, for you
+will remain joyful, delighted, elevated in rank wherever you settle, and their tongues will be bound for you, and the tongue of every evil-doer, and no one’s
+gaze will fall upon you except that he will love you and incline toward you.
+
+Notes:
+[Grid content preserved as-is]
+
+---
+## Page 98
+
+**Arabic (original):**
+-- ٩٢ --
+
+(فصل) وأما قوله وها أربع قد ضففت لقتالنا يعني مستخرج هذه الأربعة من الجدوشق مسمرة ومن كسرها ووضعها على صحيفة من حديد وجعل عددها وفقا مكسرا في [متن] الصحيفة وحملها في رأسه ظاهر القلنسوة معه وتلقى العدو في الحرب فلا يناله مكروه أبدا ولو ألقى نفسه بين الأسنة والصفاح وغيرها وكان ظافرا بعدوه
+(فصل) وأما قوله والقمر في طروف خشوش درت و يعمل في قلنسوة وبعدها يبخر بما أمكن من الروائح الأربعة ثم تتلو عليها الاسم الذي في سورة الأعراف وهو قوله تعالى إن ربكم الله الذي خلق السموات والأرض في ستة أيام ولبسها فإنه يأمن في أماكن الخوف وعند الظلمة وأهل الأذى
+(فصل) قوله وتدعو به الأشخاص تأتي سريعة يعني أن هذه الأربعة الألفات إذا استخرجت حروفها الأربعة وكتبتها على الوضع في ليلة يكون القمر في برج هوائي في شقيقة نية ويكون القمر في ذلك البرج متصلا بعطارد اتصال مودة وتبخر بالبخور المعروف بجامع الأرواح وهو الذي يسمى عند أرباب العزائم بجمر الكراجيم ثم تستدعي الشخص والإنسان في مسافة نحوه يوما وأنت تقرأ عليها أينما تكونوا يأت بكم الله جميعا إن الله على كل شيء قدير إن كانت الأصحية واحدة فإذا هم جميع لدينا محضرون وتسمى ذلك الشخص باسمه الذي يعرف به غالبا وهو على شهرته فإنه يحضر من ساعته فاسأل منه عما تريد واستخبره عما شئت واقض حاجتك منه * وإن أردت رده إلى مكانه فأحضر البخور واتل عليه الآية وما في معناها من القرآن العظيم وقل بعد القراءة عد يا فلان بن فلانة إلى مكانك بقدرة من يقول للشيء كن فيكون بقدرة من أمره بين الكاف والنون إنما إذا أراد شيئا أن يقول له كن فيكون الح سورة وهذا معنى ذلك فتقول توكلوا يا خدام هذه الأسماء برد فلان بن فلانة أو برد فلانة بنت فلانة بحق ما تلوته عليكم من أسماء الله
+(فصل) وأما قوله * وخاتما للخير جلت صفاته * يعني الخاتم الأخير وهو الهاء المشقوقة فإذا كتبت والواو بعدها مكررة فإذا أردت قضاء الحوائج فهي مفيدة ولإبطال السحر وحل المعقود وتسهيل الأمور ووضع الحوامل وعقد لسان الخصم وفك الأسير وإطلاق المسجون وطلب الرزق وزيادة البركة في الطعام وطفئ غيظ الرجل نكتب وتحمل على اسم من أردت فترى من بركتها العجب * وإن كتب معكوسا وهو أن الواو قبل الهاء ومكررة وبعدها خمس هاءات مشقوقة كانت جالية للهموم والأفكار والوسواس والمنامات المفزعة ونزف الدم من منافذ البدن وتكتب أيضا لتعطل الماش والحانوت والمرأة المعوقة عن الزواج والحركة عن السفر في بركان أو في بحر تكتب في ورقة حمراء وتجعل تحت شيء ثقيل اسم من تريد واسم أمه إلا في نزف الدم وتضع الورقة بعد بخورها بمر وصبر وحلتيت في قصبة فارسية وتلف عليها خيط حرير أحمر وتربط الخيط في رصاصة الصياد وتدفن في قناة ماء تجري إلى الشرق فإن المعمول له لا يزال ينزف الدم من منافذه حتى [يهلك] لك وهي من عوالم المريخ تعمل لإهراق الدم وهلك النفوس عملا عظيما
+(فصل) وأما قوله لتكسر به كل الجيوش وتهزم يعني تستخرج حرف هذا الاسم الشريف تجعله إلى العرب وتصنعها وفقا حرفيا في باطن اللوح ١٤ من الشهر العربي والقمر في برج الثالث بريء
+من
+
+**English:**
+-- 92 --
+
+(Section) As for his statement, “and Hāh, four have been joined for our fighting,” meaning: the extractor of these four from al-jadūshaq, fastened, and whoever breaks them and places them upon a sheet of iron and makes their number in a broken wafq in the [body] of the sheet and carries it on his head, visible above the cap with him, and meets the enemy in war, no harm whatsoever will ever reach him, even if he throws himself between spears, blades, and the like, and he will be victorious over his enemy
+(Section) As for his statement, “and the moon in the circumferences of Khushūsh turned,” and it is worked in a cap, and after it one fumigates with whatever is possible from the four scents, then you recite over it the name that is in Sūrat al-A‘rāf, which is His saying, exalted is He: “Indeed your Lord is God, who created the heavens and the earth in six days,” and wear it, for he will be safe in places of fear and with darkness and the people of harm
+(Section) His statement, “and you call by it the persons, they come quickly,” meaning that these four alifs, if their four letters are extracted and you write them in the arrangement on a night when the moon is in an airy sign in a sincere split, and the moon in that sign is connected to Mercury with a connection of affection, and you fumigate with the incense known as Jāmi‘ al-Arwāḥ, which is called among the masters of invocations the embers of al-Karājīm, then you summon the person and the human being at a distance of about a day while you recite over it, “Wherever you may be, God will bring you all together; indeed God is over all things powerful,” if the correctness is one; then all of them are brought before Us together, and you call that person by his name by which he is mostly known, and it is upon his fame, for he will come at once, so ask him what you want and inquire of him what you wish and fulfill your need from him * And if you want to return him to his place, then bring the incense and recite over it the verse and what is similar to it from the عظیم Qur’an, and say after the recitation: Return, O so-and-so son of so-and-so, to your place, by the power of the One who says to a thing “Be,” and it is, by the power of the One whose command is between the kaf and the nūn; rather, when He wills a thing, He only says to it “Be,” and it is; al-ḥ سورة; and this is the meaning of that. Then you say: Entrust yourselves, O servants of these names, to the cooling of so-and-so son of so-and-so or so-and-so daughter of so-and-so, by the truth of what I have recited to you of the names of God
+(Section) As for his statement, * “and a seal for good, exalted are His attributes,” * meaning the final seal, which is the split hā’; if you write it and the wāw after it repeated, then if you desire the fulfillment of needs, it is beneficial; and for nullifying magic, loosening what is tied, facilitating matters, causing the pregnant women to give birth, binding the tongue of the adversary, freeing the captive, releasing the imprisoned, seeking provision, increasing blessing in food, and extinguishing a man’s rage, we write it and carry it upon the name of whom you want, and you will see from its blessing the wonder * And if written reversed, which is that the wāw is before the hā’ and repeated, and after it five split hā’s, it is a remover of worries, thoughts, obsessive whispers, frightening dreams, and bleeding of blood from the outlets of the body; and it is also written for the تعطيل of the livestock, the shop, the woman hindered from marriage, and movement from travel in a volcano or in the sea; it is written on a red paper and placed under something heavy, the name of whom you want and the name of his mother, except in bleeding of blood; and you place the paper after fumigating it with murr, sabr, and ḥulṭīt in a Persian reed, and wrap around it a red silk thread, and tie the thread to the hunter’s bullet, and bury it in a water channel flowing to the east, for the one worked upon will continue bleeding from his outlets until [he perishes] for you, and it is from the worlds of Mars, worked for the spilling of blood and the destruction of souls, a great working
+(Section) As for his statement, “to break by it all armies and defeat,” meaning: you extract the letter of this noble name, make it to the Arabs, and make it a literal wafq in the interior of the tablet, 14 of the Arabic month, and the moon in the third sign is innocent
+of
+
+---
+## Page 99
+
+**Arabic (original):**
+— ٩٣ —
+من النحوس والشمس في جهة الشمال صاعدة والطالع في أحد البروج بيت المشتري فإذا تم ذلك
+كان الكبريت الأحمر والترياق الأكبر فإن حمله شخص حفظه الله وإن حمله وتكلم به قوي قلبه
+وهانت عليه الأمور الصعاب وتسارعت إليه الأمور وتصرف في العالم وأطاعته الملائكة وإذا مشى
+من مكان إلى مكان يطوى له البعيد وترفع له أطراف الأرض حتى يرى ما بعد كما يرى ما قرب
+وتخاطبه الروحانيون ويخبرونه بما خفي من ماله وخفي من الأمور المغيبة ويشاهد من بركته ما لا
+يحصره العقل * ومن جملتها أن تكتب كتابا أو رقعة أو مهما أراد من نفي أو إثبات أو ولاية أو عزل
+أو منع أو إعطاء من أي نوع كان وهذه غاية ليس بعدها نهاية فكن به ضنينا وعليه أمينا وهذا
+عهد الله إليك في صيانته وكتمانه وها أنا قد لوحت لك بأطراف التلويح وفي الإشارات ما يغني عن
+التكلم ولو علمت أن هذا السر يكتم لأخرجت منه الغرائب والعجائب لأن هذا سر الله المكنون
+واسمه العظيم فاتق الله والله يقول الحق وهو يهدي السبيل وها أنا أوضح لك الأسماء ثانيا
+ودعاءها وخاتمها المتعلق بها بما ذكرناه وهذه صفته ۩ ۩ ۩ ۩ وهذا الدعاء المبارك
+اللهم إني أسألك ببهاء من اسمك الأعظم وبالثلاث العصي والألف المقوم والميم الطميس الأبتر وبالسلم
+وبالأربعة التي هي كالكف بلا معصم وبالهاء المشقوقة والواو المعظم صورة اسمك الشريف الأعظم
+أن تصلي على سيدنا محمد عدد كل حرف جرى به القلم تقضى حاجتي وهي كذا وكذا ويسميها وتحسن
+في الرسم وهذا الوفق المذكور يكتب على هذا الوفق ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩
+الشريف مباركة سبعة أحرف من حروف الهجاء وهي ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩
+سواقط الفاتحة الشريفة لكل حرف منها اسم من أسماء ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩
+الله تعالى بلا الأحرف المعجمة المذكورة التي ينها في ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩
+الوفق الشريف وهي ف ج ث ظ خ ذ ز ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩
+(فصل) واعلم وفقني الله وإياك أنك إذا أردت أن ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩
+تعرف حال المريض والغائب فاعرف اليوم الذي ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩
+مرض فيه المريض أو سافر فيه المسافر واحسب اسمه واسم أمه بالجمل الكبير وضف عليه ما مضى من
+الشهر العربي ويزاد عليه الأس ٢٠ وتأخذ فاضل العدد كله وأسقطه ٣٠ حتى يفضل معك ٣٠ أو
+دونها فانظر العدد الفاضل وأعرضه على ما أصفه لك من اللوحين وقد سميتها لوح الحياة ولوح الممات فحيثما
+الحساب فاحكم به من موت أو حياة فإنك ترى ذلك وكذلك حال الزوجين هل يتفقان أو يفترقان
+أو يموت أحدهما قبل الآخر فاحسب اسم كل منهما بالجمل الكبير وضف إليهما ما بقي من الشهر
+العربي وضف إليهم الأس ٢٠ وأسقطه وقابل في لوح الحياة ولوح الممات فإذا كان في لوح
+الحياة فإنهما يجتمعان ولا يفترقان وإن كان أحدهما في لوح الممات فإنه إما أن يفارقه أو يموت معه
+وقس على ذلك وكذلك الحاكم عند دخوله المدينة تعرف اليوم الذي دخل فيه وتحسب اسم الحاكم
+وتزيد عليه ما مضى من الشهر العربي والأس كما قدمناه وخذها فصل وأعرضه على اللوحين
+واحكم بما يظهر لك من نوره ومن موت أو حياة وكذلك حال الحامل وهل يعيش أو يموت
+
+**English:**
+— 93 —
+from misfortunes, and the sun in the direction of the north ascending, and the ascendant in one of the signs, the house of Jupiter; when that is completed, it is the red sulfur and the greater theriac. If a person carries it, God preserves him; and if he carries it and speaks with it, his heart becomes strong, and difficult matters become easy for him, and matters hasten to him, and he disposes in the world, and the angels obey him. And if he walks from place to place, the distant is folded up for him, and the extremities of the earth are raised for him until he sees what is far as he sees what is near, and the spiritual beings speak to him and inform him of what is hidden of his wealth and hidden of the unseen matters, and he witnesses from its blessing what the intellect does not encompass. * Among them is that you write a book or a sheet or whatever he desires of negation or affirmation or appointment or dismissal or prevention or giving, of whatever kind it may be, and this is an end beyond which there is no end. So be sparing with it and trustworthy over it. And this is the covenant of God to you in preserving it and concealing it. And behold, I have hinted to you with the extremities of hinting, and in the indications is what suffices in place of speaking. And if I knew that this secret would be concealed, I would bring forth from it the strange and the wondrous, because this is the concealed secret of God and His العظيم name. So fear God, and God says the truth, and He guides the way. And behold, I now make clear to you the names a second time, and their invocation and their seal connected to them, according to what we have mentioned, and this is its description ۩ ۩ ۩ ۩ and this blessed invocation:
+O God, I ask You by the splendor of Your greatest name, and by the three staffs, and the straight ألف, and the erased, truncated ميم, and by the ladder, and by the four that are like a palm without a wrist, and by the split هاء and the magnified واو, the form of Your noble greatest name, that You send blessings upon our master Muhammad, the number of every letter by which the pen has run, my need is fulfilled, and it is such and such, and he names it, and it is well in the drawing. And this mentioned wafq is written upon this wafq ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩
+the noble, blessed seven letters from the letters of the alphabet, and they are ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩
+the dropped letters of the noble Fatiha; for each letter of them is a name from the names ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩
+of God تعالى without the mentioned dotted letters that are in ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩
+the noble wafq, and they are ف ج ث ظ خ ذ ز ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩
+(Section) And know—may God grant success to me and to you—that if you wish to ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩
+know the condition of the sick person and the absent one, then know the day on which ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩ ۩
+the sick person fell ill or the traveler traveled, and calculate his name and his mother’s name by the greater abjad, and add to it what has passed of the
+Arabic month, and the 20 is added to it, and you take the remainder of the whole number, and subtract 30 from it until 30 remains with you or
+less than it; then look at the remaining number and present it to what I describe to you of the two tablets, and I have named them the Tablet of Life and the Tablet of Death. So wherever
+the calculation is, judge by it as death or life, for you will see that. وكذلك the condition of the two spouses: whether they agree or separate
+or one of them dies before the other. So calculate the name of each of them by the greater abjad, and add to them what remains of the Arabic
+month, and add to them the 20, and subtract it, and compare in the Tablet of Life and the Tablet of Death. If it is in the Tablet
+of Life, then they will come together and not separate; and if one of them is in the Tablet of Death, then either he will part from him or die with him.
+And analogize upon that. وكذلك the ruler upon entering the city: you know the day on which he entered, and calculate the name of the ruler
+and add to it what has passed of the Arabic month and the abjad as we have advanced, and take it as a section and present it to the two tablets
+and judge by what appears to you from its light and from death or life. وكذلك the condition of the pregnant woman and whether he will live or die
+
+---
+## Page 100
+
+**Arabic (original):**
+— ٩٤ —
+
+في هذه الولادة وهو أن تحسب اسمها واسم أمها واسم اليوم الذي أنت فيه من ذلك الشهر وتزيد
+عليه الأس وما مضى من الشهر كما ذكر وأسقطه وقابل فإن وقع في لوح الحياة فاحكم بحياته وإن
+وقع في لوح الممات فإنه لا يعيش وكذلك أحسب الغالب والمغلوب ولكل أمر مشكل والله
+سبحانه وتعالى أعلم بالصواب (وهذه صفة اللوحين كما ترى فافهم)
+
+| واحد | اثنين | ثلاثة | أربعة | خمسة | ستة |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| سبعة | أحد عشر | ثلاثة عشر | ثمانية | تسعة | عشرة |
+| أربعة عشر | ستة عشر | سبعة عشر | اثنا عشر | خمسة عشر | ثمانية عشر |
+| تسعة عشر | عشرون | اثنان وعشرون | أحد وعشرون | أربعة وعشرون | خمسة وعشرون |
+| ثلاثة وعشرون | ستة وعشرون | ثمان وعشرون | سبعة وعشرون | تسعة وعشرون | ثلاثون |
+
+(فائدة تسمى القمقمة الكبرى تنفع لكل مرض في الجسد)
+تكتب في ورقة وتذاب بالماء وتشربها وإن كتبتها في إناء طاهر
+ومحوتها بقليل زيت طيب أودهن بها من تكون به علة من العلل
+فإن الله يزيلها عنه وهذه صفتها
+(فائدة خلاص المسجون) وهو
+أن ينظر المسجون إلى تراب طاهر
+ثم ترش ذلك التراب في الساعة
+الأولى من يوم الجمعة ثم يحمله
+
+| لوح الحياة | لوح الممات |
+| :--- | :--- |
+| ١ ٢ ٣ | ٤ ٥ ٦ |
+| ٧ ١١ ١٣ | ٨ ٩ ١٠ |
+| ١٤ ١٦ ١٧ | ١٢ ١٣ ١٥ |
+| ١٩ ٢٠ ٢٢ | ١٨ ٢٠ ٢١ |
+| ٢٣ ٢٦ ٢٨ | ١٧ ١٩ ٣٠ |
+
+المسجون بعد صلاة ركعتين فإنه يخلص سريعا وقد جرب وصح وهذا الوفق المثلث العددي كما ترى
+(فائدة) عن بعض المشايخ قال إذا كانت لك حاجة وأردت قضاءها وأبطأ عليك
+فاعمد إلى مسجد من المساجد وقف في قبلته وتوجه إلى الله تعالى وقل اللهم إليك
+قصدت وبابك وقفت وإلى جنابك التجأت ولك سألت وبمحمد صلى الله عليه وسلم
+وآله إليك توسلت وبأوليائك وأصفيائك قد استشفعت فأفض اللهم حاجتي ونفس كربتي ثم تسمي
+حاجتك وما تريد ثم بعد ذلك تصلي ركعتين تقرأ في كل ركعة فاتحة الكتاب وقل يا أيها
+الكافرون والإخلاص والمعوذتين وتقول في آخر سجدة وأنت ساجد وأيوب إذ نادى ربه أني مسني
+الضر وأنت أرحم الراحمين فاستجبنا له فكشفنا ما به من ضر وآتيناه أهله ومثلهم معهم رحمة من عندنا
+وذكرى للعابدين ثم ترفع رأسك وتقرأ التحيات وسلم فإذا فرغت من الصلاة قم واقفاً في القبلة
+وتقول اللهم علمك أغناني عن السؤال إلهي إن العرب والعجم إذا استجار به مستجير أجاره وأنت إله
+العرب والعجم وقد استجرت بك فأجرني ولا تردني خائباً وأملت منك الإجابة فأجبني واقض
+حاجتي وأعطني أمنيتي وما أطلبه رحمتك يا أرحم الراحمين ثم تسأل الله حاجتك فإن الله يستجيب لك
+بمنه
+
+**English:**
+— 94 —
+
+in this birth, and it is that you calculate her name and her mother’s name and the name of the day on which you are in that month, and add
+to it the abjad and what has passed of the month as mentioned, and subtract it and compare; if it falls in the Tablet of Life, then judge by its life, and if
+it falls in the Tablet of Death, then it does not live. Likewise calculate the victor and the vanquished, and for every difficult matter, and God
+Glorified and Exalted is more knowing of what is correct. (And this is the description of the two tablets as you see, so understand.)
+
+| one | two | three | four | five | six |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| seven | eleven | thirteen | eight | nine | ten |
+| fourteen | sixteen | seventeen | twelve | fifteen | eighteen |
+| nineteen | twenty | twenty-two | twenty-one | twenty-four | twenty-five |
+| twenty-three | twenty-six | twenty-eight | twenty-seven | twenty-nine | thirty |
+
+(A benefit called the Great Qamqamah, useful for every illness in the body)
+It is written on a paper and dissolved in water and he drinks it; and if you write it in a pure vessel
+and erase it with a little good oil, or anoint with it whoever has an ailment of ailments,
+then God removes it from him, and this is its description.
+(A benefit for the release of the imprisoned) and it is
+that the imprisoned person looks at pure earth,
+then that earth is sprinkled in the hour
+first of Friday, then he carries it
+
+| Tablet of Life | Tablet of Death |
+| :--- | :--- |
+| ١ ٢ ٣ | ٤ ٥ ٦ |
+| ٧ ١١ ١٣ | ٨ ٩ ١٠ |
+| ١٤ ١٦ ١٧ | ١٢ ١٣ ١٥ |
+| ١٩ ٢٠ ٢٢ | ١٨ ٢٠ ٢١ |
+| ٢٣ ٢٦ ٢٨ | ١٧ ١٩ ٣٠ |
+
+the imprisoned person after the prayer of two rak‘ahs, for he will be released quickly, and it has been tried and proven true, and this is the numerical triangular wafq as you see.
+(A benefit) from some of the shaykhs: he said, if you have a need and you want its fulfillment and it is slow in coming to you,
+then go to a mosque from among the mosques and stand in its qiblah and turn to God تعالى and say: O God, to You
+I have قصدت, and at Your door I have stood, and to Your presence I have taken refuge, and to You I have asked, and by Muhammad, may God bless him and his family,
+to You I have sought means, and by Your saints and Your chosen ones I have sought intercession, so pour forth, O God, my need and relieve my distress. Then name
+your need and what you want. Then after that pray two rak‘ahs, reciting in each rak‘ah the Opening of the Book and say, O you
+disbelievers, and the Sincerity, and the two protectors, and say in the last prostration while you are prostrating: And Ayyub, when he called upon his Lord, “Indeed, harm has touched me,
+and You are the Most Merciful of the merciful.” So We responded to him, and removed what was upon him of harm, and gave him his family and the like of them with them, as a mercy from Us
+and a reminder for the worshippers. Then raise your head and recite the salutations and give peace. When you have finished the prayer, stand facing the qiblah
+and say: O God, Your knowledge has enriched me from asking. My God, if the Arabs and the non-Arabs, when a seeker of refuge seeks refuge with him, he grants him refuge, and You are the God
+of the Arabs and the non-Arabs, and I have sought refuge with You, so grant me refuge and do not send me back disappointed. And I have hoped for response from You, so respond to me and fulfill
+my need and give me my wish and what I seek, by Your mercy, O Most Merciful of the merciful. Then ask God for your need, for God will respond to you
+by His grace
+
+---
+## Page 101
+
+**Arabic (original):**
+— ٦٥ —
+
+بمنه وكرمه فأحسن النية وإياك أن تطلب ما لا يحل لك والله الموفق (فائدة) قيل إن فيها الاسم الأعظم
+تقول اللهم حل هذه العقدة وأزل هذه العسرة ولقني حسن الميسور وقني سوء المقدور وارزقني
+حسن الطلب واكفني سوء المنقلب اللهم حجتي حاجتي وعدتي فاقتي ووسيلتي انقطاع حيلتي وشفيعي
+دموعي ورأس مالي عدم احتيالي وكنزي عجزي اللهم قطرة من بحار جودك تغنيني وذرة من
+تيار عفوك تكفيني فارزقني وارحمني واعف عني واقض حاجتي ونفس كربتي وفرج
+همي وغمي برحمتك يا أرحم الراحمين وصلى الله على سيدنا محمد وعلى آله وصحبه وسلم تسليما كثيرا
+(وأيضا فائدة مباركة) عن ابن مسعود رضي الله عنه أنه قال ما أصاب أحدا هم ولا حزن وقال
+اللهم إني عبدك وابن أمتك ناصيتي بيدك ماض في حكمك عدل في قضاؤك أسألك اللهم بكل
+اسم هو لك سميت به نفسك أو أنزلته في كتابك أو علمته أحدا من خلقك أو استأثرت به في علم الغيب
+عندك أن تجعل القرآن العظيم ربيع قلبي ونور صدري وجلاء حزني وذهاب
+همي وغمي وشكايتي إلا أذهب الله حزنه وأبدل مكانه فرحا فقال يارسول الله ألا نتعلمها قال بلى
+ينبغي لمن سمعهن أن يتعلمهن ولا يعلمهن أحدا من السفهاء * وسمعت بعض الصالحين يقول في
+دعاء مجرب اللهم اجعل ما أشاء موافقا لما تشاء كي لا يصير ما أشاء مخالفا لما تشاء فمن أنا حتى أشاء خلاف
+ما الله يشاء لو جاهد العبد وشاء ما كان إلا ما شاء فالطف بنا فيما تشاء وما تشاء إلا أن يشاء الله رب
+العالمين * واعلم أني رأيت أناسا يرسمون في أيديهم أواخر الليل هذا الوفق المعشر الآتي بيانه
+ويسألون الله به بأسمائه المقدسة التي في أوائل سورة الحديد * ومن رسمها في الخاتم المعشر
+المذكور وعلقه عليه كان دعاؤه مستجابا ومقبولا * ولقد رأيت في الحرم الشريف امرأة ناشرة
+شعرها وبيدها لوح من ذهب وهذا المعشر فيه وهي تقول يارب ٣ بهذا وما فيه من الأسماء
+الكريمة والأسرار العظيمة إلا ما آتيتني من غير كلفة ولا مشقة إنك أنت الفعال لما تشاء وأنت على
+كل شيء قدير فما استتم كلامها حتى أنزل الله عليها مائدة من السماء فيها ذهب كثير وفيها براءة فيها
+لو سألت الله أن يحملك إلى أهلك لأتتك الساعة لأنك دعوت الله باسمه الأعظم الذي إذا دعي به
+أجاب وإذا سئل به أعطى وهو نافع لكل شيء والله الموفق بمنه وكرمه
+(وهذه صفة المعشر وداخله الآيات)
+
+**English:**
+— 65 —
+
+by His grace and generosity. So have good intention, and beware lest you ask for what is not lawful for you, and God is the One who grants success. (Benefit) It is said that in it is the Greatest Name:
+you say, O God, untie this knot and remove this hardship, and teach me the good of ease, and protect me from the evil of what is decreed, and provide me
+with good seeking, and suffice me against the evil of the turning back. O God, my proof is my need, and my provision is my poverty, and my means is the severing of my stratagem, and my intercessor
+are my tears, and my capital is the absence of my contrivance, and my treasure is my incapacity. O God, a drop from the seas of Your generosity suffices me, and a particle from
+the torrent of Your pardon suffices me. So provide for me, and have mercy on me, and pardon me, and fulfill my need, and relieve
+my distress and sorrow by Your mercy, O Most Merciful of the merciful. And may God bless our master Muhammad and his family and his companions and grant abundant peace.
+(And also a blessed benefit) from Ibn Mas‘ud, may God be pleased with him, that he said: no one was afflicted by worry or sorrow and said:
+O God, I am Your servant and the son of Your maidservant; my forelock is in Your hand; Your judgment is carried out upon me; Your decree is just concerning me. I ask You, O God, by every
+name that is Yours, by which You named Yourself, or sent down in Your Book, or taught to any of Your creation, or kept to Yourself in the knowledge of the unseen
+with You, that You make the العظيم Qur’an the spring of my heart, and the light of my breast, and the removal of my sorrow, and the departure
+of my worry and grief and complaint, except that God removes his sorrow and replaces it with joy. So he said, O Messenger of God, shall we not learn it? He said, Yes,
+it is fitting for whoever hears them to learn them and not teach them to any of the foolish. * And I heard some of the righteous say in
+a tried invocation: O God, make what I will موافقا to what You will, so that what I will does not become contrary to what You will, for who am I that I should will contrary
+to what God wills? If the servant strove and willed, it would be nothing but what He willed. So be gentle with us in what You will, and You do not will except that God, Lord
+of the worlds, wills. * And know that I saw people drawing on their hands in the last part of the night this tenfold wafq, the explanation of which is to come,
+and asking God by it with His sacred names that are in the beginnings of Surat al-Hadid. * And whoever drew it in the tenfold ring
+mentioned and hung it upon himself, his supplication would be answered and accepted. * And I saw in the Sacred Sanctuary a woman with
+her hair spread out and in her hand a tablet of gold, and this tenfold is in it, and she was saying: My Lord, 3 by this and by what is in it of the noble names
+and the عظيمة secrets, except what You have given me without burden and without hardship; indeed, You are the Doer of what You will, and You are over
+all things powerful. And she had not finished her speech when God sent down upon her a table from heaven in which was much gold, and in it was a clearance in it.
+If you asked God to carry you to your family, it would come to you that very hour, because you have called upon God by His Greatest Name, by which, when He is called upon,
+He answers, and when He is asked by it, He gives, and it is beneficial for every thing. And God is the One who grants success by His grace and generosity.
+(And this is the description of the tenfold, and within it are the verses)
+
+---
+_End of translation — 101 pages._
