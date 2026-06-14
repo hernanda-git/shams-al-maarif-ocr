@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 131 translated pages._
+_Auto-generated from 137 translated pages._
 
 ---
 ## Page 1
@@ -7369,4 +7369,372 @@ And by the right of the King, the Prevailing, over whom is your affair, Radqāy�
 وأحصى كل
 
 ---
-_End of translation — 131 pages._
+## Page 132
+
+**Arabic (original):**
+— ١٢٦ —
+وفعلت ما أمرتك به أقسمت عليك يا سمسائيل الملك الموكل بفلك المريخ بحق من أمره بين الكاف
+والنون إنما إذا أراد شيئاً أن يقول له كن فيكون أجب يا سمسائيل بحضور الملك الأحمر
+أجب يا أحمر بحق الملك الغالب عليك أمره سمسائيل وبحق دملیخ إلا ما أجبت وأسرعت وفعلت
+ما أمرتك به أقسمت عليك يا ميكائيل الملك الموكل بفلك عطارد وبحق من لا تدركه الأبصار وهو
+يدرك الأبصار وهو اللطيف الخبير الستار أجب يا ميكائيل بحضور برقان أجب يا برقان بحضور الملك
+الغالب عليك أمره يا ميكائيل وبحق أهيا شراهيا إلا ما أجبت وأسرعت وفعلت ما أمرتك به
+أقسمت عليك يا صرفيائيل الملك الموكل بفلك المشتري بحق الله نور السموات والأرض أجب
+يا صرفيائيل بحق شمهورش أجب يا شمهورش بحق الملك الغالب عليك أمره يا صرفيائيل بحق
+دردميش إلا ما أجبت وعجلت وأسرعت وفعلت ما أمرتك به أقسمت عليك يا عنيائيل الملك الموكل
+بفلك الزهرة بحق من يعلم ما تحمل كل أنثى وما تغيض الأرحام وما تزداد أجب يا عنيائيل بحضور زبعة
+بحق الملك الغالب عليك أمره عنيائيل وبحق سبوح قدوس رب الملائكة والروح إلا ما أجبت
+وفعلت ما أمرتك به أقسمت عليك يا صفايئل الملك الموكل بفلك المقاتل بحق من يعلم السر وأخفى
+أجب يا كسفيائيل بحضور ميمون أبانوخ بمون بحق الملك الغالب أمره كسفيائيل وبحق أزلي ٢
+أدراك ٢ أرزيال ٢ أقسمت عليكم يا ملائكة رب العالمين بحق بسم الله الرحمن الرحيم إلا ما
+أجبتم سامعين بحق من قال للسموات والأرض ائتيا طوعاً أو كرهاً قالتا أتينا طائعين بحق الحق
+الحقيق الملك الوثيق مخرج الإنسان من كل ضيق وبحرمة محمد صلى الله عليه وسلم وصاحبه الصديق إلا
+ما سخرتم لي هذه الأرضية يكونون لي عوناً لي طوعاً ممتثلين أمري بحق أهيا هاقرش يكموش
+عكش كشلح وبحق الفرد الصمد الذي لم يلد ولم يولد ولم يكن له كفواً أحد إلا ما أسرعتم وأجبتم ولم يبق
+منكم أحد العجل الساعة بارك الله فيكم وعليكم أجيبوا وافعلوا ما أمرتكم به بحق ما أقسمت به
+عليكم وإنه لقسم لو تعلمون عظيم تم
+( ذكر رياضة يا كريم يا رحيم والقسم والبخور )
+اعلم أنك إذا أردت العمل بهذه الدعوة الشريفة وهذه الرياضة فتختلي في مكان خال من
+الناس بعيد عن الأصوات وتكون طاهر الثياب والبدن وتصوم مدة الخلوة والرياضة
+ولا تفطر إلا على زيت وزبيب ودقيق الشعير والحل إن أمكن ذلك وتكون مدة الخلوة ٧ أيام أولها
+الأحد وآخرها السبت وإن أردت القليل فتكون رياضتك ثلاثة أيام أولها الثلاثاء وآخرها الخميس
+وأنت تتلو الاسمين الشريفين وهما يا كريم يا رحيم في كل يوم دائماً من غير عدد ولا تفتر عن
+ذكر هما دائماً في كل يوم عقب صلاة الصبح تقرأ سورة قل أيها الكافرون ٢١ مرة وتتلو
+الاسم وبعدها القسم خاصة ٣ مرات ثم تلازم تلاوة الاسمين الكريمين ( يا كريم يا رحيم )
+لا تفتر عن ذلك فإذا كان ليلة الجمعة وأنت تتلو الاسمين تصلي على النبي السلام ألف مرة
+وتقرأ الاسمين ألف مرة ثم تصلي على النبي عليه السلام ألف مرة وتكون قد صليت قبل الصلاة على
+النبي
+
+**English:**
+— 126 —
+And you did what I commanded you. I swear to you, O Samsa’il, the king entrusted with the sphere of Mars, by the right of Him whose command is between the Kaf
+and the Nun; rather, when He wills a thing, He only says to it, “Be,” and it is. Answer, O Samsa’il, in the presence of the Red King.
+Answer, O Red One, by the right of the king whose command prevails over you, Samsa’il, and by the right of Damlīkh, unless you answer and hasten and do
+what I commanded you. I swear to you, O Mika’il, the king entrusted with the sphere of Mercury, and by the right of Him whom the sights do not attain, while He
+attains the sights, and He is the Subtle, the Aware, the Concealer. Answer, O Mika’il, in the presence of Barqān. Answer, O Barqān, in the presence of the king
+whose command prevails over you, O Mika’il, and by the right of Ahiya Sharahiya, unless you answer and hasten and do what I commanded you.
+I swear to you, O Ṣarfī’īl, the king entrusted with the sphere of Jupiter, by the right of Allah, the Light of the heavens and the earth. Answer,
+O Ṣarfī’īl, by the right of Shamharūsh. Answer, O Shamharūsh, by the right of the king whose command prevails over you, O Ṣarfī’īl, by the right of
+Dardamīsh, unless you answer and hasten and hasten and do what I commanded you. I swear to you, O ʿAnī’īl, the king entrusted
+with the sphere of Venus, by the right of Him who knows what every female bears, and what the wombs diminish and what they increase. Answer, O ʿAnī’īl, in the presence of Zubʿa,
+by the right of the king whose command prevails over you, ʿAnī’īl, and by the right of Subbūḥ, Quddūs, Lord of the angels and the Spirit, unless you answer
+and do what I commanded you. I swear to you, O Ṣafā’īl, the king entrusted with the sphere of the fighters, by the right of Him who knows the secret and what is more hidden.
+Answer, O Kasfī’īl, in the presence of Maimūn Abānūkh Bāmūn, by the right of the king whose command prevails, Kasfī’īl, and by the right of Azalī 2
+Idrāk 2 Arzīāl 2. I swear to you, O angels of the Lord of the worlds, by the right of Bismillah al-Rahman al-Rahim, unless
+you answer, hearing, by the right of Him who said to the heavens and the earth, “Come, willingly or unwillingly,” they said, “We have come willingly,” by the right of the true truth,
+the firm king, the bringer forth of man from every distress, and by the sanctity of Muhammad, may Allah bless him and grant him peace, and his companion the truthful one, unless
+you subdue for me this earthly one, that they may be for me a help, obedient to me, complying with my command, by the right of Ahiya Haqarsh Yakmūsh
+ʿAksh Kashlaḥ, and by the right of the One, the Eternal Refuge, who neither begets nor is begotten, and there is none comparable to Him, unless you hasten and answer and none
+of you remains, none at all. Hasten, the hour. May Allah bless you and upon you. Answer and do what I commanded you by the right of what I swore
+upon you. And indeed it is a mighty oath, if you only knew. End.
+( Mention of the spiritual exercise of O Generous, O Merciful, and the oath and the incense )
+Know that if you wish to work with this noble invocation and this spiritual exercise, then you seclude yourself in a place empty of
+people, far from sounds, and you are pure in clothing and body, and you fast for the duration of the seclusion and the spiritual exercise,
+and you do not break the fast except on oil and raisins and barley flour and al-ḥall if that is possible. The duration of the seclusion is 7 days, its first
+being Sunday and its last Saturday. And if you wish the lesser, then your spiritual exercise is three days, its first being Tuesday and its last Thursday.
+And you recite the two noble names, namely O Generous, O Merciful, every day always, without number, and do not cease from
+remembering them always every day after the dawn prayer. You read Sūrat Qul yā ayyuhā al-kāfirūn 21 times and recite
+the name, and after it the oath especially 3 times, then you adhere to the recitation of the two generous names (O Generous, O Merciful).
+Do not cease from that. فإذا كان ليلة الجمعة وأنت تتلو الاسمين تصلي على النبي السلام ألف مرة
+وتقرأ الاسمين ألف مرة ثم تصلي على النبي عليه السلام ألف مرة وتكون قد صليت قبل الصلاة على
+النبي
+
+---
+## Page 133
+
+**Arabic (original):**
+[combined output — see batch]
+
+**English:**
+--- PAGE 132 TRANSLATION ---
+
+**Arabic (original):**
+— ١٢٦ —
+وفعلت ما أمرتك به أقسمت عليك يا سمسائيل الملك الموكل بفلك المريخ بحق من أمره بين الكاف
+والنون إنما إذا أراد شيئاً أن يقول له كن فيكون أجب يا سمسائيل بحضور الملك الأحمر
+أجب يا أحمر بحق الملك الغالب عليك أمره سمسائيل وبحق دملیخ إلا ما أجبت وأسرعت وفعلت
+ما أمرتك به أقسمت عليك يا ميكائيل الملك الموكل بفلك عطارد وبحق من لا تدركه الأبصار وهو
+يدرك الأبصار وهو اللطيف الخبير الستار أجب يا ميكائيل بحضور برقان أجب يا برقان بحضور الملك
+الغالب عليك أمره يا ميكائيل وبحق أهيا شراهيا إلا ما أجبت وأسرعت وفعلت ما أمرتك به
+أقسمت عليك يا صرفيائيل الملك الموكل بفلك المشتري بحق الله نور السموات والأرض أجب
+يا صرفيائيل بحق شمهورش أجب يا شمهورش بحق الملك الغالب عليك أمره يا صرفيائيل بحق
+دردميش إلا ما أجبت وعجلت وأسرعت وفعلت ما أمرتك به أقسمت عليك يا عنيائيل الملك الموكل
+بفلك الزهرة بحق من يعلم ما تحمل كل أنثى وما تغيض الأرحام وما تزداد أجب يا عنيائيل بحضور زبعة
+بحق الملك الغالب عليك أمره عنيائيل وبحق سبوح قدوس رب الملائكة والروح إلا ما أجبت
+وفعلت ما أمرتك به أقسمت عليك يا صفايئل الملك الموكل بفلك المقاتل بحق من يعلم السر وأخفى
+أجب يا كسفيائيل بحضور ميمون أبانوخ بمون بحق الملك الغالب أمره كسفيائيل وبحق أزلي ٢
+أدراك ٢ أرزيال ٢ أقسمت عليكم يا ملائكة رب العالمين بحق بسم الله الرحمن الرحيم إلا ما
+أجبتم سامعين بحق من قال للسموات والأرض ائتيا طوعاً أو كرهاً قالتا أتينا طائعين بحق الحق
+الحقيق الملك الوثيق مخرج الإنسان من كل ضيق وبحرمة محمد صلى الله عليه وسلم وصاحبه الصديق إلا
+ما سخرتم لي هذه الأرضية يكونون لي عوناً لي طوعاً ممتثلين أمري بحق أهيا هاقرش يكموش
+عكش كشلح وبحق الفرد الصمد الذي لم يلد ولم يولد ولم يكن له كفواً أحد إلا ما أسرعتم وأجبتم ولم يبق
+منكم أحد العجل الساعة بارك الله فيكم وعليكم أجيبوا وافعلوا ما أمرتكم به بحق ما أقسمت به
+عليكم وإنه لقسم لو تعلمون عظيم تم
+( ذكر رياضة يا كريم يا رحيم والقسم والبخور )
+اعلم أنك إذا أردت العمل بهذه الدعوة الشريفة وهذه الرياضة فتختلي في مكان خال من
+الناس بعيد عن الأصوات وتكون طاهر الثياب والبدن وتصوم مدة الخلوة والرياضة
+ولا تفطر إلا على زيت وزبيب ودقيق الشعير والحل إن أمكن ذلك وتكون مدة الخلوة ٧ أيام أولها
+الأحد وآخرها السبت وإن أردت القليل فتكون رياضتك ثلاثة أيام أولها الثلاثاء وآخرها الخميس
+وأنت تتلو الاسمين الشريفين وهما يا كريم يا رحيم في كل يوم دائماً من غير عدد ولا تفتر عن
+ذكر هما دائماً في كل يوم عقب صلاة الصبح تقرأ سورة قل أيها الكافرون ٢١ مرة وتتلو
+الاسم وبعدها القسم خاصة ٣ مرات ثم تلازم تلاوة الاسمين الكريمين ( يا كريم يا رحيم )
+لا تفتر عن ذلك فإذا كان ليلة الجمعة وأنت تتلو الاسمين تصلي على النبي السلام ألف مرة
+وتقرأ الاسمين ألف مرة ثم تصلي على النبي عليه السلام ألف مرة وتكون قد صليت قبل الصلاة على
+النبي
+
+**English:**
+— 126 —
+And you did what I commanded you. I swear to you, O Samsa’il, the king entrusted with the sphere of Mars, by the right of Him whose command is between the Kaf
+and the Nun; rather, when He wills a thing, He only says to it, “Be,” and it is. Answer, O Samsa’il, in the presence of the Red King.
+Answer, O Red One, by the right of the king whose command prevails over you, Samsa’il, and by the right of Damlīkh, unless you answer and hasten and do
+what I commanded you. I swear to you, O Mika’il, the king entrusted with the sphere of Mercury, and by the right of Him whom the sights do not attain, while He
+attains the sights, and He is the Subtle, the Aware, the Concealer. Answer, O Mika’il, in the presence of Barqān. Answer, O Barqān, in the presence of the king
+whose command prevails over you, O Mika’il, and by the right of Ahiya Sharahiya, unless you answer and hasten and do what I commanded you.
+I swear to you, O Ṣarfī’īl, the king entrusted with the sphere of Jupiter, by the right of Allah, the Light of the heavens and the earth. Answer,
+O Ṣarfī’īl, by the right of Shamharūsh. Answer, O Shamharūsh, by the right of the king whose command prevails over you, O Ṣarfī’īl, by the right of
+Dardamīsh, unless you answer and hasten and hasten and do what I commanded you. I swear to you, O ʿAnī’īl, the king entrusted
+with the sphere of Venus, by the right of Him who knows what every female bears, and what the wombs diminish and what they increase. Answer, O ʿAnī’īl, in the presence of Zubʿa,
+by the right of the king whose command prevails over you, ʿAnī’īl, and by the right of Subbūḥ, Quddūs, Lord of the angels and the Spirit, unless you answer
+and do what I commanded you. I swear to you, O Ṣafā’īl, the king entrusted with the sphere of the fighters, by the right of Him who knows the secret and what is more hidden.
+Answer, O Kasfī’īl, in the presence of Maimūn Abānūkh Bāmūn, by the right of the king whose command prevails, Kasfī’īl, and by the right of Azalī 2
+Idrāk 2 Arzīāl 2. I swear to you, O angels of the Lord of the worlds, by the right of Bismillah al-Rahman al-Rahim, unless
+you answer, hearing, by the right of Him who said to the heavens and the earth, “Come, willingly or unwillingly,” they said, “We have come willingly,” by the right of the true truth,
+the firm king, the bringer forth of man from every distress, and by the sanctity of Muhammad, may Allah bless him and grant him peace, and his companion the truthful one, unless
+you subdue for me this earthly one, that they may be for me a help, obedient to me, complying with my command, by the right of Ahiya Haqarsh Yakmūsh
+ʿAksh Kashlaḥ, and by the right of the One, the Eternal Refuge, who neither begets nor is begotten, and there is none comparable to Him, unless you hasten and answer and none
+of you remains, none at all. Hasten, the hour. May Allah bless you and upon you. Answer and do what I commanded you by the right of what I swore
+upon you. And indeed it is a mighty oath, if you only knew. End.
+( Mention of the spiritual exercise of O Generous, O Merciful, and the oath and the incense )
+Know that if you wish to work with this noble invocation and this spiritual exercise, then you seclude yourself in a place empty of
+people, far from sounds, and you are pure in clothing and body, and you fast for the duration of the seclusion and the spiritual exercise,
+and you do not break the fast except on oil and raisins and barley flour and al-ḥall if that is possible. The duration of the seclusion is 7 days, its first
+being Sunday and its last Saturday. And if you wish the lesser, then your spiritual exercise is three days, its first being Tuesday and its last Thursday.
+And you recite the two noble names, namely O Generous, O Merciful, every day always, without number, and do not cease from
+remembering them always every day after the dawn prayer. You read Sūrat Qul yā ayyuhā al-kāfirūn 21 times and recite
+the name, and after it the oath especially 3 times, then you adhere to the recitation of the two generous names (O Generous, O Merciful).
+Do not cease from that. فإذا كان ليلة الجمعة وأنت تتلو الاسمين تصلي على النبي السلام ألف مرة
+وتقرأ الاسمين ألف مرة ثم تصلي على النبي عليه السلام ألف مرة وتكون قد صليت قبل الصلاة على
+النبي
+
+---
+## Page 134
+
+**Arabic (original):**
+[combined output — see batch]
+
+**English:**
+--- PAGE 132 TRANSLATION ---
+
+**Arabic (original):**
+— ١٢٦ —
+وفعلت ما أمرتك به أقسمت عليك يا سمسائيل الملك الموكل بفلك المريخ بحق من أمره بين الكاف
+والنون إنما إذا أراد شيئاً أن يقول له كن فيكون أجب يا سمسائيل بحضور الملك الأحمر
+أجب يا أحمر بحق الملك الغالب عليك أمره سمسائيل وبحق دملیخ إلا ما أجبت وأسرعت وفعلت
+ما أمرتك به أقسمت عليك يا ميكائيل الملك الموكل بفلك عطارد وبحق من لا تدركه الأبصار وهو
+يدرك الأبصار وهو اللطيف الخبير الستار أجب يا ميكائيل بحضور برقان أجب يا برقان بحضور الملك
+الغالب عليك أمره يا ميكائيل وبحق أهيا شراهيا إلا ما أجبت وأسرعت وفعلت ما أمرتك به
+أقسمت عليك يا صرفيائيل الملك الموكل بفلك المشتري بحق الله نور السموات والأرض أجب
+يا صرفيائيل بحق شمهورش أجب يا شمهورش بحق الملك الغالب عليك أمره يا صرفيائيل بحق
+دردميش إلا ما أجبت وعجلت وأسرعت وفعلت ما أمرتك به أقسمت عليك يا عنيائيل الملك الموكل
+بفلك الزهرة بحق من يعلم ما تحمل كل أنثى وما تغيض الأرحام وما تزداد أجب يا عنيائيل بحضور زبعة
+بحق الملك الغالب عليك أمره عنيائيل وبحق سبوح قدوس رب الملائكة والروح إلا ما أجبت
+وفعلت ما أمرتك به أقسمت عليك يا صفايئل الملك الموكل بفلك المقاتل بحق من يعلم السر وأخفى
+أجب يا كسفيائيل بحضور ميمون أبانوخ بمون بحق الملك الغالب أمره كسفيائيل وبحق أزلي ٢
+أدراك ٢ أرزيال ٢ أقسمت عليكم يا ملائكة رب العالمين بحق بسم الله الرحمن الرحيم إلا ما
+أجبتم سامعين بحق من قال للسموات والأرض ائتيا طوعاً أو كرهاً قالتا أتينا طائعين بحق الحق
+الحقيق الملك الوثيق مخرج الإنسان من كل ضيق وبحرمة محمد صلى الله عليه وسلم وصاحبه الصديق إلا
+ما سخرتم لي هذه الأرضية يكونون لي عوناً لي طوعاً ممتثلين أمري بحق أهيا هاقرش يكموش
+عكش كشلح وبحق الفرد الصمد الذي لم يلد ولم يولد ولم يكن له كفواً أحد إلا ما أسرعتم وأجبتم ولم يبق
+منكم أحد العجل الساعة بارك الله فيكم وعليكم أجيبوا وافعلوا ما أمرتكم به بحق ما أقسمت به
+عليكم وإنه لقسم لو تعلمون عظيم تم
+( ذكر رياضة يا كريم يا رحيم والقسم والبخور )
+اعلم أنك إذا أردت العمل بهذه الدعوة الشريفة وهذه الرياضة فتختلي في مكان خال من
+الناس بعيد عن الأصوات وتكون طاهر الثياب والبدن وتصوم مدة الخلوة والرياضة
+ولا تفطر إلا على زيت وزبيب ودقيق الشعير والحل إن أمكن ذلك وتكون مدة الخلوة ٧ أيام أولها
+الأحد وآخرها السبت وإن أردت القليل فتكون رياضتك ثلاثة أيام أولها الثلاثاء وآخرها الخميس
+وأنت تتلو الاسمين الشريفين وهما يا كريم يا رحيم في كل يوم دائماً من غير عدد ولا تفتر عن
+ذكر هما دائماً في كل يوم عقب صلاة الصبح تقرأ سورة قل أيها الكافرون ٢١ مرة وتتلو
+الاسم وبعدها القسم خاصة ٣ مرات ثم تلازم تلاوة الاسمين الكريمين ( يا كريم يا رحيم )
+لا تفتر عن ذلك فإذا كان ليلة الجمعة وأنت تتلو الاسمين تصلي على النبي السلام ألف مرة
+وتقرأ الاسمين ألف مرة ثم تصلي على النبي عليه السلام ألف مرة وتكون قد صليت قبل الصلاة على
+النبي
+
+**English:**
+— 126 —
+And you did what I commanded you. I swear to you, O Samsa’il, the king entrusted with the sphere of Mars, by the right of Him whose command is between the Kaf
+and the Nun; rather, when He wills a thing, He only says to it, “Be,” and it is. Answer, O Samsa’il, in the presence of the Red King.
+Answer, O Red One, by the right of the king whose command prevails over you, Samsa’il, and by the right of Damlīkh, unless you answer and hasten and do
+what I commanded you. I swear to you, O Mika’il, the king entrusted with the sphere of Mercury, and by the right of Him whom the sights do not attain, while He
+attains the sights, and He is the Subtle, the Aware, the Concealer. Answer, O Mika’il, in the presence of Barqān. Answer, O Barqān, in the presence of the king
+whose command prevails over you, O Mika’il, and by the right of Ahiya Sharahiya, unless you answer and hasten and do what I commanded you.
+I swear to you, O Ṣarfī’īl, the king entrusted with the sphere of Jupiter, by the right of Allah, the Light of the heavens and the earth. Answer,
+O Ṣarfī’īl, by the right of Shamharūsh. Answer, O Shamharūsh, by the right of the king whose command prevails over you, O Ṣarfī’īl, by the right of
+Dardamīsh, unless you answer and hasten and hasten and do what I commanded you. I swear to you, O ʿAnī’īl, the king entrusted
+with the sphere of Venus, by the right of Him who knows what every female bears, and what the wombs diminish and what they increase. Answer, O ʿAnī’īl, in the presence of Zubʿa,
+by the right of the king whose command prevails over you, ʿAnī’īl, and by the right of Subbūḥ, Quddūs, Lord of the angels and the Spirit, unless you answer
+and do what I commanded you. I swear to you, O Ṣafā’īl, the king entrusted with the sphere of the fighters, by the right of Him who knows the secret and what is more hidden.
+Answer, O Kasfī’īl, in the presence of Maimūn Abānūkh Bāmūn, by the right of the king whose command prevails, Kasfī’īl, and by the right of Azalī 2
+Idrāk 2 Arzīāl 2. I swear to you, O angels of the Lord of the worlds, by the right of Bismillah al-Rahman al-Rahim, unless
+you answer, hearing, by the right of Him who said to the heavens and the earth, “Come, willingly or unwillingly,” they said, “We have come willingly,” by the right of the true truth,
+the firm king, the bringer forth of man from every distress, and by the sanctity of Muhammad, may Allah bless him and grant him peace, and his companion the truthful one, unless
+you subdue for me this earthly one, that they may be for me a help, obedient to me, complying with my command, by the right of Ahiya Haqarsh Yakmūsh
+ʿAksh Kashlaḥ, and by the right of the One, the Eternal Refuge, who neither begets nor is begotten, and there is none comparable to Him, unless you hasten and answer and none
+of you remains, none at all. Hasten, the hour. May Allah bless you and upon you. Answer and do what I commanded you by the right of what I swore
+upon you. And indeed it is a mighty oath, if you only knew. End.
+( Mention of the spiritual exercise of O Generous, O Merciful, and the oath and the incense )
+Know that if you wish to work with this noble invocation and this spiritual exercise, then you seclude yourself in a place empty of
+people, far from sounds, and you are pure in clothing and body, and you fast for the duration of the seclusion and the spiritual exercise,
+and you do not break the fast except on oil and raisins and barley flour and al-ḥall if that is possible. The duration of the seclusion is 7 days, its first
+being Sunday and its last Saturday. And if you wish the lesser, then your spiritual exercise is three days, its first being Tuesday and its last Thursday.
+And you recite the two noble names, namely O Generous, O Merciful, every day always, without number, and do not cease from
+remembering them always every day after the dawn prayer. You read Sūrat Qul yā ayyuhā al-kāfirūn 21 times and recite
+the name, and after it the oath especially 3 times, then you adhere to the recitation of the two generous names (O Generous, O Merciful).
+Do not cease from that. فإذا كان ليلة الجمعة وأنت تتلو الاسمين تصلي على النبي السلام ألف مرة
+وتقرأ الاسمين ألف مرة ثم تصلي على النبي عليه السلام ألف مرة وتكون قد صليت قبل الصلاة على
+النبي
+
+---
+## Page 135
+
+**Arabic (original):**
+- ١٢٩ -
+
+في شهر يكون أوله يوم الجمعة وتدخل الخلوة بعد صلاة الجمعة ثم تبخر المكان بالبخور
+الطيب مثل العود القاقلي والجاوى والند ومثل العنبر إن أمكن وتقرأ سورة الواقعة إن أمكن
+عقيب كل صلاة مرة وفي جوف الليل ٧ مرات وكلما تلوت السورة تطلق البخور إلى انتهاء العدد
+المذكور فإذا كان ليلة الجمعة تجلس على ركبتيك وتصلي على النبي عليه السلام ألف مرة ثم تبدأ
+بقراءة سورة الكهف أربعين مرة وتصلي بين قراءة كل مرتين ركعتين خفيفتين بالفاتحة والإخلاص
+٣ مرات وتصلي على النبي عليه السلام ١٠ مرات فإذا تمت القراءة تستغفر الله وتحمده وتقول
+الباقيات الصالحات ١٠٠ مرة فإذا أصبحت وصليت الصبح وتحمد الله بجميع محامده التي في
+القرآن العظيم وبسيد التحميد تبتهل إلى الله تعالى وتدعوه بالدعوات الصالحات فإذا فرغت من
+دعائك فقم وبش واذكر الله حتى تخرج خارج سور المدينة فيقبل عليك خادم السورة الشريفة
+على صفة شاب حسن طيب الرائحة فيسلم عليك فرد عليه السلام وتأت معه فإنه يدفع إليك كيسا
+فيه ألف دينار ويشترط عليك شروطا منها زيارة الأموات كل يوم جمعة وإيناس الفقراء
+والمساكين وأن لا ترى فتجيبه إلى طلبه وتشكر منه فيقول لك الخادم عبد الله إن قرأتها وفعلت
+ذلك كل شهر رزق ألف دينار فتصرف في الخادم وتقول له شكر الله سعيك وغفر لنا ولك وانصرف
+مأجورا بخير واكتم سرك والله أعلم
+
+( دعوة سورة الواقعة )
+اعلم أن هذه السورة مفتاح باب الغنى فاقرأه عشرة تمنع عشرة سورة الفاتحة تمنع من
+غضب الرب وسورة يس تمنع الفاقة وسورة الدخان تمنع أهوال القيامة وسورة الواقعة
+قراءتها تمنع الفقر وسورة الملك قراءتها تمنع عذاب القبر وسورة الكافرون تمنع الكفر عند النزع
+وسورة الإخلاص قراءتها تمنع النفاق وسورة الفلق قراءتها تمنع حسد الحاسدين وسورة الناس تمنع
+الوسواس واعلم أن هذه الدعوة لها خواص كثيرة منها أن من واظب على قراءتها عقب الصلوات
+الخمس فإنه تكون أمانا له من الفقر والفاقة ومن خواصها تقف على الملوك والوزراء والحكام
+تقرأ السورة قبل أن تقابل ما ذكرنا وتقول عند خروجك توكلوا خدام هذه السورة الشريفة بعقد
+لسان كذا بحق سورة الواقعة عليكم وأنه لقسم لو تعلمون عظيم توكلوا يا فلان واقض ما تريد وتقول
+زجركم بين أعينكم وشركم تحت أرجلكم وخشعت الأصوات للرحمن فلا تسمع إلا همسا وتوكلوا
+خدام هذه الأسماء والدعوة الشريفة بهمهوب ٢ ذي لطف خفي بصمع ٢ ذي نور
+بيا لا يتكلمون إلا من أذن له الرحمن وقال صوابا أجيبوني يا خدام هذه السورة فانفذوا الكلمة عند
+فلان بن فلانة يسمع قولي ويطيع أمري ويقضي لي مصالحي وجميع ما أطلبه منه وما أريد بحق
+هذه الآية الشريفة لا يعصون الله ما أمرهم ويفعلون ما يؤمرون ومن خواصها العطف والمحبة
+والصلح بين اثنين في الحلال لأن كلامه تعالى لا يتصرف إلا في الحلال وأما والعياذ بالله من فعله في
+الحرام فإنه يصرف إليه ولا كان له فإذا أردت محبة من تشاء واقرأ السورة على شيء من المأكول
+وقل عند انتهاء السورة توكلوا خدام هذه السورة بالألفة والمحبة بين فلانة وولد فلانة بهمهوب ٢
+
+( شمس المعارف - أول )
+
+**English:**
+- 129 -
+
+In a month whose first is on Friday, and you enter the retreat after the Friday prayer, then fumigate the place with the pleasant incense, such as al-‘ud al-qaqali and al-jawi and al-ند and such as amber if possible, and recite Surat al-Waqi‘ah if possible after every prayer once, and in the middle of the night 7 times, and whenever you recite the surah you release the incense until the completion of the mentioned number. فإذا كان ليلة الجمعة تجلس على ركبتيك وتصلي على النبي عليه السلام ألف مرة then you begin by reciting Surat al-Kahf forty times, and you pray between the recitation of every two times two light rak‘ahs with al-Fatihah and al-Ikhlas 3 times, and you pray upon the Prophet عليه السلام 10 times. When the recitation is completed, you seek forgiveness of Allah and praise Him and say al-baqiyat al-salihat 100 times. When you rise and pray the morning prayer and praise Allah with all His praises that are in the العظيم Qur’an and with the master of praise, you beseech Allah تعالى and supplicate Him with the righteous supplications. When you have finished from your supplication, then stand and rejoice and remember Allah until you go out beyond the wall of the city, then the servant of the noble surah will come upon you in the form of a handsome youth, pleasant in scent, and he will greet you, so return the greeting to him and come with him, for he will hand over to you a bag in which are a thousand dinars, and he will stipulate upon you conditions, among them visiting the dead every Friday and comforting the poor and the needy, and that you do not see, so you answer him to his request and thank him. Then the servant will say to you: “O servant of Allah, if you recite it and do that every month, a thousand dinars will be provided.” So you dispose toward the servant and say to him: “May Allah reward your effort and forgive us and you,” and depart rewarded with good, and conceal your secret, and Allah knows best.
+
+( Invocation of Surat al-Waqi‘ah )
+Know that this surah is the key to the gate of wealth, so recite it ten [times?] تمنع عشرة سورة الفاتحة تمنع من غضب الرب and Surat Ya-Sin prevents poverty, and Surat al-Dukhan prevents the terrors of the Resurrection, and Surat al-Waqi‘ah, its recitation prevents poverty, and Surat al-Mulk, its recitation prevents the punishment of the grave, and Surat al-Kafirun prevents disbelief at the time of death, and Surat al-Ikhlas, its recitation prevents hypocrisy, and Surat al-Falaq, its recitation prevents the envy of the envious, and Surat al-Nas prevents obsessive whispering. And know that this invocation has many properties, among them that whoever persists in reciting it after the five prayers, it will be a security for him from poverty and neediness. And among its properties: you stand before kings and ministers and rulers; you recite the surah before you meet what we mentioned, and you say when you go out: “Entrust, O servants of this noble surah, with the binding of the tongue of so-and-so, by the right of Surat al-Waqi‘ah over you, and indeed it is a mighty oath, if you only knew. Entrust, O so-and-so, and accomplish what you want.” And you say: “Your repulsion is between your eyes, and your evil is beneath your feet, and the voices were humbled to the Most Merciful, so nothing is heard except a whisper.” And entrust, O servants of these names and the noble invocation, بهمهوب ٢ ذي لطف خفي بصمع ٢ ذي نور بيا, they do not speak except one to whom the Most Merciful has given permission and who says what is right. Answer me, O servants of this surah, and carry out the word at so-and-so son of so-and-so: he hears my saying and obeys my command and fulfills for me my interests and all that I ask of him and what I want, by the right of this noble verse: they do not disobey Allah in what He commands them and do what they are commanded. And among its properties are affection and love and reconciliation between two in the lawful, because His تعالى speech does not act except in the lawful. But as for, and refuge is sought with Allah, whoever does it in the unlawful, then it is turned back upon him and there is nothing for him. So if you want the love of whom you wish, recite the surah over something edible, and say at the completion of the surah: “Entrust, O servants of this surah, with intimacy and love between so-and-so and the son of so-and-so, بهمهوب ٢
+
+( Shams al-Ma‘arif - First )
+
+---
+
+---
+## Page 136
+
+**Arabic (original):**
+- ١٣٠ -
+لهوب ٢ أجب يا صعصعون ذو بهاء وجمال وكلوا يا خدام هذه السورة الشريفة بالمحبة الدائمة والوداد
+بين فلان بن فلانة بحق هذه السورة عليكم وطاعتها لديكم ثم أهدى لما وكل له فإذا أكلاه
+يصطلحا ولا يفترقان إلا بعد الموت * ومن خواصها أنك إذا قرأتها بعد العصر مرة وأسماء
+الله الحسنى مرة ثم مداوم القراءة كل يوم هكذا وتقرأ عقب قراءتك الدعاء هكذا مرة ٤٠ يوما
+فإنك تملك الخدم ويكون عونا لك في كل ما تريد فافهم والبخور حصا لبان وميعة وصندوس
+وجبة سوداء * وهذا دعاء السورة الشريفة تقول اللهم إني أسألك يا الله يا واحد
+يا فرد يا صمد يا وتر يا حي يا قيوم يا بديع السموات والأرض يا ذا الجلال والإكرام يا باسط يا غني
+يا مغني مهمهوب مهمهوب ذي لطف خفي بصعصع صعصع ذي نور بهي سعسوع شعسوب الله
+الذي له العظمة والكبرياء صعصعون ذو جمال و * طمهوب ذو عز شامخ يا مهلهوب الله الذي
+سخر بنوره كل نور يطهطهوب لهوب ٢ أحيوا يا خدام هذه السورة يا خدام اسم الله العظيم
+الأعظم بتسخير قلوب الخلق وجلب الرزق وحركوا روحانية المحبة لي بالمحبة الدائمة بسم الله الذي
+أحرق الحجب نوره وذلت الرقاب لعظمته وتدكدكت الجبال لهيبته وسبح الرعد بحمده والملائكة
+من خيفته هو الله الذي لا إله إلا هو رب العرش العظيم اللهم إني أسألك باسمك المرتفع الذي أعطيته
+من شئت من أوليائك وألهمته لأصفيائك من أحبابك أسألك اللهم أن تأتيني رزق من عندك تغني
+به فقري وتجبر به كسري وتقطع به علائق الشيطان من قلبي فإنك أنت الله الحنان السلطان الديان
+الوهاب الرزاق الفتاح العليم القابض الباسط الرافع المعز المذل السميع البصير الحكم العدل
+اللطيف الخبير المغني الغني الكثير السميع الكريم المعطي الرزاق اللطيف الواسع الشكور ذو الفضل والنعم
+والجود والكرم اللهم إني أسألك بحقك وبحق كرمك وفضلك وإحسانك يا قديم الإحسان
+يا من إحسانه فوق كل إحسان يا مالك الدنيا والآخرة يا صادق الوعد لا إله إلا أنت سبحانك إني
+كنت من الظالمين اللهم يسر لي رزقي من الحلال واجعله لي نصيبا اللهم أجب دعوتي بحق سورة
+الواقعة بحق اسمك العظيم وبحرمة سيدنا ونبينا محمد صلى الله عليه وسلم وعلى آله الطيبين الطاهرين
+وأصحبه أجمعين وبحق ففتح محمد فتاح رزاق قادر معطي خير الرازقين مغني البائس الفقير تواب
+بصير لا يؤاخذ الجرائم اللهم يسر لي رزقا حلالا طيبا واجمع بيني وبينه من حلالك واجعله نصيبي في
+الحلال يا ذا الجلال والإكرام في هذه الساعة يا الله يا كافي يا كفيل يا وكيل أغنني بفضلك الخفي
+يا كريم يا رحيم اللهم اكفني بحلالك عن حرامك وبطاعتك عن معصيتك وبفضلك عمن سواك
+يا الله يا رحمن الدنيا يا رحيم الآخرة يا رب العالمين توكلوا يا خدام هذه السورة الشريفة بجميع ما أمرتكم
+به وما وكلتكم عليه أهيا شراهيا أدوناي أصباؤت آل شداي اللهم أن تصلي على سيدنا
+محمد وصحبه وسلم تسليما كثيرا
+( ذكر رياضة جليلة وهي يا حافظ يا باسط يا ودود نامين )
+اعلم وفقني الله لي اله إياك إلى طاعته وفهم أسرار أسمائه إذا أردت الخلوة والرياضة بهذه الأسماء الشريفة
+فتعمد إلى مكان نظيف خال من الأصوات فتجلس فيه وتطلق البخور وهو عود وند وجاوي وميعة
+يابسة
+
+**English:**
+لهوب 2 Answer, O Sa‘sa‘un, possessor of splendor and beauty, and eat, O servants of this noble surah, with the perpetual love and affection between so-and-so son of so-and-so, by the right of this surah over you and its obedience with you. Then he guided to what he was entrusted with; so if they eat it, they will be reconciled and will not separate except after death. * And among its properties is that if you recite it after the afternoon prayer once and the Beautiful Names of Allah once, then continue reciting every day thus, and you recite after your recitation the supplication thus once for 40 days, then you will possess the servants and it will be a help to you in everything you want, so understand. And the incense is frankincense, myrrh, sandalwood, and black jubbah. * And this is the supplication of the noble surah: you say, “O Allah, I ask You, O Allah, O One, O Single, O Self-Sufficient, O Odd, O Living, O Self-Subsisting, O Originator of the heavens and the earth, O Possessor of majesty and honor, O Extender, O Rich, O Enricher, مهمهوب مهمهوب ذو لطف خفي بصعصع صعصع ذو نور بهي سعسوع شعسوب Allah, who has greatness and pride, صعصعون ذو جمال and * طمهوب ذو عز شامخ, O مهلهوب Allah, who subjected by His light every light, يطهطهوب لهوب 2, bring to life, O servants of this surah, O servants of the name of Allah, the Greatest, the Most Great, by subjugating the hearts of creation and bringing provision, and move the spiritual power of love for me with perpetual love. In the name of Allah, whose light burned the veils and the necks were humbled to His greatness and the mountains were pulverized by His awe and thunder glorified Him with His praise and the angels from His fear. He is Allah, there is no god but He, Lord of the Mighty Throne. O Allah, I ask You by Your exalted name which You gave to whom You willed from Your saints and inspired to Your chosen ones from Your beloved ones. I ask You, O Allah, to bring me provision from You by which You enrich my poverty and mend my brokenness and cut the ties of Satan from my heart, for You are Allah, the Compassionate, the Sultan, the Judge, the Bestower, the Provider, the Opener, the Knowing, the Withholder, the Extender, the Raiser, the Abaser, the Hearing, the Seeing, the Judge, the Just, the Gentle, the Aware, the Enricher, the Rich, the Abundant, the Hearing, the Generous, the Giver, the Provider, the Gentle, the Vast, the Thankful, Possessor of grace and favors and generosity and nobility. O Allah, I ask You by Your right and by the right of Your generosity and Your فضل and Your beneficence, O Ancient of beneficence, O You whose beneficence is above every beneficence, O Owner of this world and the Hereafter, O True to the promise, there is no god but You, glory be to You, indeed I was among the wrongdoers. O Allah, make easy for me my provision from the lawful and make it for me a portion. O Allah, answer my supplication by the right of Surat al-Waqi‘ah, by the right of Your عظیم name, and by the sanctity of our master and our Prophet Muhammad, may Allah bless him and grant him peace, and upon his pure, purified family and all his companions, and by the right of فتح محمد, Fattah, Razzaq, Qadir, Mu‘ti, the best of providers, Enricher of the wretched poor, Oft-returning, Seeing, not taking to account crimes. O Allah, make easy for me a lawful, good provision, and join me with it from Your lawful, and make it my portion in the lawful, O Possessor of majesty and honor, in this hour, O Allah, O Sufficient, O Guarantor, O Trustee, enrich me by Your hidden grace, O Generous, O Merciful. O Allah, suffice me with Your lawful against Your unlawful, and with Your obedience against Your disobedience, and with Your فضل against all besides You. O Allah, O Merciful of this world, O Merciful of the Hereafter, O Lord of the worlds, entrust, O servants of this noble surah, with all that I have commanded you with and all that I have entrusted you with: أهيا شراهيا أدوناي أصباؤت آل شداي. O Allah, send blessings upon our master Muhammad and his companions and grant abundant peace.
+( Mention of a great exercise, and it is: O Preserver, O Extender, O Loving, Namin )
+Know, may Allah guide me and you to His obedience and the understanding of the secrets of His names, that if you desire retreat and spiritual exercise with these noble names, then intend a clean place free from sounds, so that you sit in it and release the incense, and it is al-‘ud and al-ند and al-jawi and dry myrrh.
+
+---
+
+---
+## Page 137
+
+**Arabic (original):**
+— ١٢١ —
+
+ياسة ثم تبدأ بقراءة السورة المذكورة أربعة عشر يوماً وإن أردت السرعة، فتكون مدة سبعة أيام هذا وأنت
+تقرأ الأسماء عقب الصلاة بأعدادهم فإذا تمت الأيام فيدخل عليك خمسة عشر ملكا ويسلمون
+عليك فلا ترد عليهم السلام وإياك والخوف منهم فان خفت ضريت روحك وضاع تعبك فانهم
+يجلسون أمامك ثم يسئلون حاجتك ويقولون لك نحن ثقة بهالك فاطلب منا ما شئت فاياك أن تجيبهم
+فاذا طال عليك الجلوس انصرفوا عنك فتقو قلبك ونبه قرينك وقور يجورك فاذا كان بعد ساعة أو
+ساعتين فيدخلون عليك فرد عليهم السلام وتكون قد جعلت بخورك في تلك الساعة ميعة ياسة
+ولبان ذكر وعود قاري وترمس يرى فإذا فعلت ذلك فقو قلبك لأنهم يشيرون اليك بايديهم فتجد
+روحك في مكانك الأول ولاتكلمهم ولو كلوك فإذا طال الامر وانصرفوا عنك ثم بعد ذلك يدخل
+عليك رجل وحده وينصب له كرسى ويجلس عليه ثم يسلم عليك فرد عليه السلام وتأدب بين
+يديه فيسألك عما تريد فلا تخف منه فانه خادم هذه الأسماء الشريفة فما تطلب ما خلق الله
+فقه وقل له أريد منك العهد والخادم من خدامك يمتثل أمرى في كل ما أطلب منه فعندها
+يعطيك شيأ من الدنيا فخذه منه ثم أصرفه فينصرف واشكر الله على ما أولاك من نعمة واكتم
+سرك تل أمرك والسلام
+( ذكر ياسة الجلالة وخلوتها وهي الله ) ومعها هذه الآية الشريفة وهي قوله تعالى الله نور
+السموات والارض وهوان تخلى لها أربعة عشر يوما بشروط الخلوة من الصوم عن كل ذي روح
+وما خرج من روح والعزلة عن المخلوقين والصلاة وتلازم الجلالة عقب كل صلاة ألف مرة والآية
+المذكورة خمسين مرة ويكون بخورك اللبان الذكر وتقرأ الجلالة كل يوم غير قراءة الصلاة عشرة
+الآف مرة هذا والبخور عمال فإذا كان اليوم الرابع عشر ترى الخلوة قد امتلأت نورا وترى في
+خلال ذلك النور أشياحا فقو قلبك ولا تخف وترى اسم الجلالة قد تشكل بالنور حتى ترى روحك
+كأنك غارق في بحر من نور فقو قلبك وثبت جنانك ولم تزل على تلك الحالة مقدار ثلاث ساعات
+فيأتيك خادم الامام حتى يملأ لك المكان فلا تخف منه فانه مبارك وإياك أن تخاف منه فيسلم عليك
+فرد عليه السلام وتأدب معه فانه رجل عظيم الشأن جليل القدر فتجده ينطق بالجلالة والآية في كل
+يوم عقب الصلوات الخمس خادما بطاعتك وتمثل أمرك فتشكر منه وقل له شكر الله سعيك وغفر
+لنا ولك بمنه وكرمه انصرف مأجورا أثابك الله الجنة بمنه وكرمه انه على ما يشاء قدير
+( ذكر دعوة لطيف )
+اعلم وفقني الله تعالى واياك الى طاعته وفهم أسرار أسمائه اذا أردت تلاوتها لأمر من الامور فصل
+ركعتين بالفاتحة وألم نشرح لك صدرك فاذا فرغت من الصلاة تقول لطيف ستة عشر ألفا وستمائة
+واحدى واربعين مرة وهو العدد الكبير فاذا أقرقتها لتفريج هم أو غم أو مثل ذلك تقولها لعدد
+المذكور ذلك بما تريد فانه يستجاب لك ان شاء الله تعالى وان أردته لتدمير الظالم فتقرأ اسم لطيف
+العدد المذكور بعد ذلك تدعو بهذه الاستغاثة تقول اللهم أنت الملك القادر القاهر ذو القهر والبطش
+الشديد الهي عبد من عبيدك بغى علي وتجبر وانت الحكم العدل وقد خاصمته لديك ووكلت في كشف
+
+**English:**
+Yāsa then you begin reciting the mentioned surah for fourteen days, and if you desire speed, then its duration is seven days, while you recite the names after the prayer with their numbers. When the days are completed, fifteen angels will enter upon you and greet you, so do not return the greeting to them, and beware of fear of them, for if you fear, your spirit will be harmed and your toil will be lost, for they sit before you, then ask your need and say to you: “We are trustworthy with your destruction, so ask us whatever you wish,” so beware that you answer them. If sitting becomes prolonged for you, they depart from you, so strengthen your heart and alert your qarīn and وقور يجورك; then if it is after an hour or two, they enter upon you, so return the greeting to them, and you will have made your incense at that hour myrrh, yāsa, frankincense, al-‘ūd al-qāri, and lupine, يرى. If you do that, then strengthen your heart, because they gesture to you with their hands, and you find your spirit in its first place, and do not speak to them even if they eat you. If the matter becomes prolonged and they depart from you, then after that a man alone enters upon you and a chair is set up for him and he sits upon it, then he greets you, so return the greeting to him and comport yourself before him, for he asks you about what you want, so do not fear him, for he is a servant of these noble names. So whatever you seek, what Allah created, understand it and say to him: “I want from you the covenant,” and the servant from your servants will comply with my command in everything I ask of him. At that point he gives you something of the world, so take it from him, then dismiss him, and he departs. And thank Allah for what He has bestowed upon you of blessing, and conceal your secret, tell your matter, and peace.
+
+( Mention of the majesty of Yāsa and its retreat, and it is Allah ) And with it this noble verse, which is His تعالى saying: Allah is the Light of the heavens and the earth. And it is that you seclude yourself for it fourteen days with the conditions of retreat: fasting from every living thing and what has emerged from a living thing, and isolation from created beings, and prayer, and the constant repetition of the majesty after every prayer a thousand times, and the mentioned verse fifty times, and your incense is frankincense, and you recite the majesty every day besides the prayer-recitation ten thousand times. This and the incense is active. When it is the fourteenth day, you will see the retreat has become filled with light, and you will see within that light shaykhs, so strengthen your heart and do not fear, and you will see the name of majesty formed by the light until you see your spirit as though you are drowned in a sea of light, so strengthen your heart and steady your mind, and you remain in that state for about three hours. Then the servant of the imam comes to you until he fills the place for you, so do not fear him, for he is blessed, and beware that you fear him, so he greets you, return the greeting to him, and comport yourself with him, for he is a man of great شأن and lofty rank. Then you will find him uttering the majesty and the verse every day after the five prayers, serving by your obedience and carrying out your command, so thank him and say to him: “May Allah reward your effort and forgive us and you by His grace and generosity. Depart rewarded; may Allah reward you with Paradise by His grace and generosity. Indeed, He is powerful over what He wills.”
+( Mention of the invocation of Latif )
+Know, may Allah تعالى guide me and you to His obedience and the understanding of the secrets of His names, that if you desire to recite it for a matter among matters, then pray two rak‘ahs with al-Fatihah and Alam nashrah laka sadrak, and when you finish the prayer you say Latif sixteen thousand and six hundred and forty-one times, and it is the great number. So if you recite it for the removal of worry or grief or the like, you say it to the mentioned number for that which you want, for it will be answered for you, if Allah تعالى wills. And if you want it for the destruction of the wrongdoer, then you recite the name Latif the mentioned number, after that you invoke with this cry for help, you say: “O Allah, You are the King, the قادر, the قاهر, Possessor of subjugation and severe assault. My God, a servant from among Your servants has transgressed against me and acted arrogantly, and You are the Judge, the Just, and I have litigated him before You, and I have entrusted in uncovering”
+
+---
+_End of translation — 137 pages._
