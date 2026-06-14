@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 113 translated pages._
+_Auto-generated from 119 translated pages._
 
 ---
 ## Page 1
@@ -6527,4 +6527,354 @@ where do the sinners go? O Allah, cover us with Your veil, and pardon us by Your
 (Seven seals for the seven days are completed)
 
 ---
-_End of translation — 113 pages._
+## Page 114
+
+**Arabic (original):**
+— ١٠٨ —
+التوبة فإنك تقدر على المغفرة، إلهي أطمعناك في أكبر الطاعات الإيمان بك والافتقار إليك، قدرتنا
+أكبر السيئات الشرك بك والافتراء عليك، فاعتزلنا ما بينهما ولا تخجلنا بين يديك. إلهي إن ذنوبنا
+صغيرة في جانب عفوك وإن كانت عظيمة في جانب نهيك. إلهي لو أردت إهانتنا لما هديتنا، ولو أردت فضيحتنا
+لما سترتنا، فتمم اللهم ما به بدأتَنا ولا تسلبنا ما به أكرمتَنا. إلهي أتحرق بالنار وجهاً كان لك عارفاً؟ إلهي أنت
+ملاذنا إذا ضاقت الحيل، وملجؤنا إذا انقطع الأمل، بذكرك نتنعم ونفتخر، وإلى جودك نلتجئ ونفتقر،
+فيك فخرنا وإليك افتقارنا. إلهي كادلتنا عليك، ارحم ذلنا بين يديك، واجعل رغبتنا بين يديك بعقل
+حيث علمنا أن لا يغفر ولا يبالي. إلهي أنت أعلم بالحال قبل الشكوى، وأنت قادر على تحقيق
+الآمال وكشف البلوى. اللهم يا من أسرَّ الزلات وغفر السيئات وأبدلها حسنات، أجرنا من مكرك
+وزينا بذكرك واستعملنا بأمرك ووفقنا لشكرك، واغفر لنا ولوالدينا ولمشايخنا ولجميع المسلمين
+والمسلمات والمؤمنين والمؤمنات الأحياء منهم والأموات، آمين والحمد لله رب العالمين. (دعاء آخر) بسم
+الله الرحمن الرحيم، سبحان رب الأهواء قبل وجودها، سبحان رب بنوره قدَّر الأقدار قبل
+بروزها، سبحان رب بنوره يدبِّر الأزمان قبل حدودها، سبحان رب بنوره قرَّب الأملاك وصرفها،
+سبحان رب بنوره حرَّك الأفلاك وعرَّفها، سبحان رب بنوره لطَّف الأرواح وشرَّفها، سبحان رب
+بنوره ركَّب الأجسام وألَّفها. أسألك اللهم بنورك الذي تجليت به على العرش فوسِع الأنوار، وأسألك
+بنورك الذي تجليت به على الصور فوسِع الأرواح، وأسألك بنورك الذي تجليت به على الكرسي
+فجمَع الأشباح، وأسألك اللهم بوجهك النور، وبعرشك النور، وبقلمك النور، وبروحك النور، وبصورك
+النور، وبكرسيك النور، وأسألك يا نور النور، يا نور كل نور، يا منوِّر كل نور، أسألك أن تجعل في قلبي نوراً
+وفي سمعي نوراً وفي بصري نوراً وفي لساني نوراً وفي عظامي نوراً وفي لحمي نوراً وفي بشري نوراً
+وفي شعري نوراً، وعن يميني نوراً وعن شمالي نوراً ومن أمامي نوراً ومن خلفي نوراً ومن فوقي
+نوراً، وأعوذ بك أن أغتال من تحتي وأن تغشاني في النور، إنك أنت نور الأنوار منوِّر المقربين
+والأبرار، سبوح قدوس رب الملائكة والروح، تعالى رب الملائكة الذين هم في حضرة القدس حاضرون،
+تعالى رب الملائكة الذين هم فاعلون ما يؤمرون، تعالى رب الملائكة الذين هم في الأرض ساعون.
+اللهم إني أسألك بالأرواح المفضلة بليالي العشر، وأسألك بالأرواح الموكلة بنفحات الدهر، وأسألك
+اللهم أن تؤيدني بروح منك ليس شيء قوي يمنعني عن الوقوف على كشف فطرتي حتى أقف في
+الحضرة التي منها أخرجتني، وانغمس في الأنوار التي منها أبرزتني، فأقوى على مقابلة الأرواح
+النورانيات، وأحيا بمشاهدة الحظوظ السريانيات، إنك أنت الحي القيوم والنور والهادي والظاهر
+والمبدي [~] والكاشف والملق [~] والمنزل والسميع والمحيي والقدوس والرفيع والقوي والحليم. بسم
+الله الرحمن الرحيم، الله لا إله إلا هو الحي القيوم، نزَّل عليك الكتاب بالحق مصدقاً لما بين يديه
+وأنزل التوراة والإنجيل من قبل هدى للناس وأنزل الفرقان، إنا نحن نزَّلنا الذكر وإنا له لحافظون.
+الله نور السموات والأرض، مثل نوره كمشكاة فيها مصباح، المصباح في زجاجة، الزجاجة كأنها
+
+**English:**
+— 108 —
+repentance, for You are able to forgive. My God, You have made us covet the greatest of acts of obedience: faith in You and neediness toward You; our greatest of evil deeds: associating partners with You and fabricating against You. So set us apart from what is between them and do not shame us before You. My God, our sins are small in comparison with Your pardon, even if they are great in comparison with Your prohibition. My God, if You had wanted to humiliate us, You would not have guided us; and if You had wanted to disgrace us, You would not have covered us. So complete, O God, what by which You began us, and do not strip us of what by which You honored us. My God, would You burn with fire a face that knew You? My God, You are our refuge when the means are constricted, and our shelter when hope is cut off; by Your remembrance we take delight and boast, and to Your generosity we take refuge and become needy; in You is our pride and to You is our neediness. My God, You have contended with us against You; have mercy upon our humiliation before You, and make our desire before You with reason, since we know that He does not forgive and does not care. My God, You know the state before the complaint, and You are able to bring about the hopes and to uncover the affliction. O God, O You who concealed the slips and forgave the evil deeds and replaced them with good deeds, protect us from Your plotting, and adorn us with Your remembrance, and employ us by Your command, and grant us success in Your gratitude, and forgive us and our parents and our shaykhs and all Muslim men and Muslim women, believing men and believing women, the living among them and the dead, amen, and praise be to God, Lord of the worlds. (Another supplication) In the name of God, the Merciful, the Compassionate. Glory be to the Lord of inclinations before their existence; glory be to the Lord by whose light He determined the decrees before their emergence; glory be to the Lord by whose light He manages the times before their limits; glory be to the Lord by whose light He brought near the angels and disposed them; glory be to the Lord by whose light He set the spheres in motion and made them known; glory be to the Lord by whose light He refined the spirits and ennobled them; glory be to the Lord by whose light He composed the bodies and joined them. I ask You, O God, by Your light by which You manifested upon the Throne and it encompassed the lights, and I ask You by Your light by which You manifested upon the Forms and it encompassed the spirits, and I ask You by Your light by which You manifested upon the Kursi and it gathered the apparitions, and I ask You, O God, by Your luminous Face, and by Your luminous Throne, and by Your luminous Pen, and by Your luminous Spirit, and by Your luminous Forms, and by Your luminous Kursi, and I ask You, O Light of light, O light of every light, O enlightener of every light, I ask You to place in my heart a light, and in my hearing a light, and in my sight a light, and in my tongue a light, and in my bones a light, and in my flesh a light, and in my skin a light, and in my hair a light, and on my right a light and on my left a light and before me a light and behind me a light and above me a light, and I seek refuge in You from being seized from beneath me and from Your covering me in the light. Indeed You are the Light of lights, the enlightener of the near ones and the righteous, All-Glorious, All-Holy, Lord of the angels and the Spirit. Exalted is the Lord of the angels who are present in the Presence of Holiness; exalted is the Lord of the angels who do what they are commanded; exalted is the Lord of the angels who are on earth striving. O God, I ask You by the spirits preferred in the ten nights, and I ask You by the spirits entrusted with the breezes of time, and I ask You, O God, that You support me with a spirit from You, there is no strong thing that prevents me from standing upon the unveiling of my nature until I stand in the Presence from which You brought me forth, and I plunge into the lights from which You brought me out, so that I may be able to confront the luminous spirits, and live by witnessing the Syriac allotments. Indeed You are the Living, the Self-Subsisting, and the Light, and the Guide, and the Manifest, and the Originator [~], and the Uncoverer, and the Mلق [~], and the Sender down, and the Hearing, and the Giver of life, and the All-Holy, and the Exalted, and the Powerful, and the Forbearing. In the name of God, the Merciful, the Compassionate. God, there is no god but He, the Living, the Self-Subsisting; He sent down upon you the Book with the truth, confirming what was before it, and He sent down the Torah and the Gospel before, as guidance for the people, and He sent down the Furqan. Indeed We, We sent down the Remembrance, and indeed We are its Preserver. God is the light of the heavens and the earth; the likeness of His light is as a niche in which is a lamp, the lamp in a glass, the glass as if it were
+
+---
+## Page 115
+
+**Arabic (original):**
+— ١٠٩ —
+
+كَوْكَبٌ دُرِّيٌّ يُوقَدُ مِنْ شَجَرَةٍ مُبَارَكَةٍ زَيْتُونَةٍ لَا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِيءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ
+نُورٌ عَلَى نُورٍ يَهْدِي اللَّهُ لِنُورِهِ مَنْ يَشَاءُ وَيَضْرِبُ اللَّهُ الْأَمْثَالَ لِلنَّاسِ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ بِسْمِ اللَّهِ الرَّحْمَنِ
+الرَّحِيمِ يس وَالْقُرْآنِ الْحَكِيمِ إِنَّكَ لَمِنْ الْمُرْسَلِينَ عَلَى صِرَاطٍ مُسْتَقِيمٍ تَنْزِيلَ الْعَزِيزِ الرَّحِيمِ لِتُنْذِرَ
+قَوْمًا مَا أُنْذِرَ آبَاؤُهُمْ فَهُمْ غَافِلُونَ رَفِيعُ الدَّرَجَاتِ ذُو الْعَرْشِ يُلْقِي الرُّوحَ مِنْ أَمْرِهِ عَلَى مَنْ يَشَاءُ مِنْ
+عِبَادِهِ حم عسق كَذَلِكَ يُوحَى الْآيَةَ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ الخ وَمِنْ أَدْعِيَتِهِ
+أَيْضًا بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ رَبِّ مَا أَشَدَّ فَرَحَكَ بِتَوْبَةِ عَبْدٍ جَذَبَتْهُ بِدِعَايَتِكَ وَأَذَقْتَهُ بِدَفْعِكَ
+وَحَلَاوَةِ مَغْفِرَتِكَ فَأَصْبَحَ مِنْ بَعْدِ جَرَاءَتِهِ عَلَى ارْتِكَابِ الْمَحْرَمَاتِ وَفَرْحَتِهِ بِاكْتِسَابِ السَّيِّئَاتِ
+وَغَرْقَتِهِ فِي انْتِقَاصِ الشَّهَوَاتِ فَأَصْبَحَ مَقْطُوعًا عَنِ الِاخْتِلَافَاتِ مَشْمُولًا بِالِاعْتِدَالَاتِ مَجْذُوبًا بِالْأَلْطَافِ
+الْعِنَايَاتِ الْوَاقِعَةِ بِالْعَطْفِ الرَّعَايَةِ الْجَامِعَةِ لِأَنْوَارِ الْهِدَايَاتِ إِلَى جَمِيلِ الْعَوَائِدِ وَحِيَازَةِ الْفَوَائِدِ وَنَيْلِ
+الزَّوَائِدِ وَمُنْغَمِسًا فِي بِحَارِ رَحْمَتِكَ مُنْتَصِبًا فِي صَفَاءِ حَضْرَتِكَ مُتَصَرِّفًا إِلَى وَفَاءِ مَعْرِفَتِكَ مُتَوَاجِدًا بِتِيجَانِ
+الْكَرَامَةِ مُخَلَّقًا بِأَخْلَاقِ السَّلَامَةِ وَمَمْزُوجًا بِأَرْوَاحِ الْمَدَامَةِ رَبِّ أَسْأَلُكَ تَوْبَةً نَصُوحًا بِهَا فِي الصَّفِّ
+الْأَوَّلِ مِنَ التَّائِبِينَ وَأَتَّصِفُ بِهِمَا مِنَ الْعَابِدِينَ وَبَهَاءِ الْحَامِدِينَ وَصَفَاءِ السَّائِحِينَ وَفَنَاءِ الرَّاكِعِينَ وَبَقَاءِ
+السَّاجِدِينَ وَهَنَاءِ الْوَارِثِينَ وَكَمَالِ الْكَامِلِينَ كَيْ تَأْلَفَ عَوَالِمِي بِمَلَائِكَتِكَ وَتَتَقَرَّبَ لِطَائِفِي بِمُشَاهَدَتِكَ
+كَيْ أَتَقَلَّبَ بَيْنَ أَصَابِعِ لُطْفِكَ بِانْغِمَاسِي فِي رَحْمَتِكَ وَانْتِمَائِي لِحَضْرَتِكَ وَانْصِرَافِي لِرُؤْيَتِكَ
+وَمُشَاهَدَتِكَ إِنَّكَ أَنْتَ الرَّحْمَنُ الرَّحِيمُ وَالْغَفَّارُ الْحَلِيمُ وَالْمَنَّانُ الْكَرِيمُ وَالْعَفُوُّ وَالرَّؤُوفُ وَالْوَلِيُّ
+الْحَمِيدُ وَالْقَرِيبُ وَالْمُجِيبُ وَالْحَفِيظُ وَالْمُغِيثُ وَالْبَرُّ وَالتَّوَّابُ وَالرَّزَّاقُ وَالْوَهَّابُ رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ
+أَنْتَ السَّمِيعُ الْعَلِيمُ وَرَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ رَبَّنَا لَا تُزِغْ
+قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً إِنَّكَ أَنْتَ الْوَهَّابُ وَرَبَّنَا تَقَبَّلْ هَذَا إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيمُ
+رَبَّنَا آتِنَا آمِنًا فَاغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ النَّارِ وَرَبَّنَا اغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ
+الْأَبْرَارِ وَرَبَّنَا آتِنَا مَا وَعَدْتَنَا عَلَى رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ الْقِيَامَةِ إِنَّكَ لَا تُخْلِفُ الْمِيعَادَ رَبَّنَا ظَلَمْنَا أَنْفُسَنَا
+وَإِنْ لَمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ رَبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ
+وَاجْعَلْ لِي مِنْ لَدُنْكَ سُلْطَانًا نَصِيرًا وَرَبَّنَا آتِنَا مِنْ لَدُنْكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا رَبِّ أَنْزِلْنِي
+مَنْزِلًا مُبَارَكًا وَأَنْتَ خَيْرُ الْمُنْزِلِينَ رَبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَعُوذُ بِكَ رَبِّ أَنْ يَحْضُرُونِ
+رَبِّ هَبْ لِي حُكْمًا وَالْحِقْنِي بِالصَّالِحِينَ وَاجْعَلْ لِي لِسَانَ صِدْقٍ فِي الْآخِرِينَ وَاجْعَلْنِي مِنْ وَرَثَةِ جَنَّةِ
+النَّعِيمِ رَبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِلَّذِينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَا
+إِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ (وَمِنْ أَدْعِيَتِهِ لِتَدْمِيرِ الظَّالِمِينَ وَالْبَاغِينَ) بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ تَعَالَيْتَ
+يَا مَنْ قَصَمَ الْجَبَابِرَةَ وَالْمُتَكَبِّرِينَ وَقَطَعَ دَابِرَ الْفَرَاعِنَةِ وَالْمُسْتَهْزِئِينَ وَضَرَبَ الذِّلَّةَ عَلَى الطُّغَاةِ
+وَالْمُتَمَرِّدِينَ مَا أَسْرَعَ نُزُولَ بَطْشِكَ الشَّدِيدِ وَمَا أَسْرَعَ حُلُولَ قَهْرِكَ الْمَجِيدِ بِكُلِّ جَبَّارٍ عَنِيدٍ وَشَيْطَانٍ
+مَرِيدٍ بَغَى عَلَى الْعِبَادِ وَطَغَى فِي الْبِلَادِ وَسَعَى فِيهَا بِالْفَسَادِ بِكَ اسْتَغَثْتُ إِلَهِي لِتَتَصَدَّى إِلَيْكَ أَشْتَكِي
+مِمَّنْ ظَلَمَنِي وَأَسْأَلُكَ مَوْلَايَ أَنْ تَنْصُرَنِي عَلَى مَنْ حَارَبَنِي وَأَنْ تَهْزِمَ مَنْ بَارَزَنِي وَأَنْ تَقْهَرَ مَنْ قَاتَلَنِي
+وَأَنْ تُخْذِلَ أَعْدَائِي وَتَهْزِمَهُمْ إِنَّمَا اجْتَمَعُوا وَأَنْ تَلْعَنَهُمْ وَتَفْضَحَهُمْ أَيْنَمَا افْتَرَقُوا وَأَنْ تَقْصِمَهُمْ أَيْنَمَا اتَّصَلُوا
+
+**English:**
+— 109 —
+
+a brilliant star, lit from a blessed tree, an olive, neither of the east nor of the west, whose oil almost gives light even if fire does not touch it: light upon light. God guides to His light whom He wills, and God strikes parables for the people, and God is knowing of every thing. In the name of God, the Merciful, the Compassionate. Yā Sīn. By the Wise Qur’an, indeed you are among the messengers, upon a straight path, a sending down from the Mighty, the Merciful, that you may warn a people whose fathers were not warned, so they are heedless. Exalted in degrees, Possessor of the Throne, He casts the Spirit from His command upon whom He wills among His servants. Ḥā Mīm ʿAyn Sīn Qāf. Thus it is revealed. The verse: In the name of God, the Merciful, the Compassionate. Indeed We sent it down on the Night of Decree, etc. And among his supplications also: In the name of God, the Merciful, the Compassionate. My Lord, how intense is Your joy at the repentance of a servant whom You drew by Your calling and whom You made taste, by Your repelling, the sweetness of Your forgiveness, so that he became, after his daring to commit the forbidden things and his joy in acquiring evil deeds and his plunging into the diminishing of desires, cut off from the alternations, encompassed by the moderations, drawn by the gentlenesses, the providences occurring by the compassion of the guardianship that gathers the lights of the guidances to the beautiful returns and the obtaining of benefits and the attaining of additions, and plunged in the seas of Your mercy, standing upright in the purity of Your Presence, turning toward the fulfillment of Your knowledge, present with the crowns of nobility, fashioned with the morals of safety, and mixed with the spirits of permanence. My Lord, I ask You for a sincere repentance by which I may be in the first row of the repentant, and be characterized by it among the worshippers, and the splendor of the praisers, and the purity of the wayfarers, and the annihilation of the bowing, and the remaining of the prostrating, and the bliss of the inheritors, and the perfection of the perfect ones, so that my worlds may become familiar with Your angels and my subtle being may draw near by Your witnessing, so that I may turn between the fingers of Your gentleness by my plunging into Your mercy and my belonging to Your Presence and my turning away to Your seeing and Your witnessing. Indeed You are the Merciful, the Compassionate, the All-Forgiving, the Forbearing, the Bestower, the Noble, the Pardoner, the Compassionate, the Protector, the Praiseworthy, the Near, the Responder, the Preserver, the Helper, the Benign, the Accepter of repentance, the Provider, the Bestower. Our Lord, accept from us; indeed You are the Hearing, the Knowing. And our Lord, pour upon us patience, and make firm our feet, and help us against the disbelieving people. Our Lord, do not cause our hearts to deviate after You have guided us, and grant us from Yourself mercy; indeed You are the Bestower. And our Lord, accept this; indeed You are the Hearing, the Knowing. Our Lord, give us safely, so forgive us our sins and protect us from the punishment of the Fire. And our Lord, forgive us our sins and expiate from us our evil deeds and cause us to die with the righteous. And our Lord, give us what You promised us upon Your messengers, and do not disgrace us on the Day of Resurrection; indeed You do not break the promise. Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we shall surely be among the losers. My Lord, admit me an entrance of truth and bring me out a خروج of truth, and appoint for me from Yourself a helping authority. And our Lord, give us from Yourself mercy and prepare for us from our affair right guidance. My Lord, cause me to descend a blessed dwelling, and You are the best of those who cause to descend. My Lord, I seek refuge in You from the promptings of the devils, and I seek refuge in You, my Lord, lest they be present with me. My Lord, grant me judgment and join me with the righteous, and make for me a tongue of truth among the later ones, and make me among the inheritors of the Garden of Bliss. Our Lord, upon You we rely, and to You we turn, and to You is the destination. Our Lord, do not make us a trial for those who disbelieve, and forgive us, our Lord; indeed You are the Mighty, the Wise. (And among his supplications for the destruction of the wrongdoers and the aggressors) In the name of God, the Merciful, the Compassionate. You are exalted, O You who shattered the tyrants and the arrogant, and cut off the remnant of the Pharaohs and the mockers, and struck abasement upon the insolent and the rebellious. How swift is the descent of Your severe might, and how swift is the حلول of Your glorious subjugation upon every obstinate tyrant and rebellious devil who has transgressed against the servants and acted insolently in the lands and strove therein with فساد. By You I have sought help, my God, so that You may turn toward You; I complain to You of him who has wronged me, and I ask You, my Master, that You help me against him who has warred against me, and that You defeat him who has confronted me, and that You subdue him who has fought me, and that You forsake my enemies and defeat them, since they have only gathered, and that You curse them and disgrace them wherever they are separated, and that You crush them wherever they are joined.
+
+---
+## Page 116
+
+**Arabic (original):**
+— ١١٠ —
+
+وأن تجعلهم إلى الظلمة يمهلون، وعلى الذلة يفتنون، ومن النعمة يجوزون، لا يستقيمون سراً ولا
+جهراً، ولا يستفيدون عزاً ولا أجراً، ولا يستطيعون نصراً ولا صبراً، وابعث عليهم عذاباً من فوقهم ومن
+تحت أرجلهم، وألبسهم شيعاً، وأذق بعضهم بأس بعض، واجعلهم لهم حطباً، وأحرق قلوبهم عن
+الاستقامة، واسقهم ماءً غدقاً، واجعل مالهم على الأرض صعيداً جرزاً، وأنزل على جناتهم حسباناً من
+السماء فتصبح صعيداً زلقاً، أو يصبح ماؤها غوراً فلن تستطيع له طلباً، ولا تصلح لهم حالاً، واجعلهم
+من الأخسرين أعمالاً، ولا ترفع لهم رأساً، واجعلهم من الخائفين، ولا تمددهم بما، واجعلهم من الخائنين،
+لا يستطيعون أكلاً ولا شرباً، ولا يستريحون أرضاً ولا ظهراً، واجعل من بين أيديهم سداً ومن خلفهم
+سداً، وعن أيمانهم ردماً وعن شمائلهم ردماً، وعلى رأسهم صخراً وتحت أرجلهم وعراً، كي لا يلد لهم
+مشياً، ولا ترَ لهم عيناً، ولا يحل لهم خيراً، واجعل الأغلال في أعناقهم، واسحبهم بالسلاسل والأصفاد في
+أقدامهم وأرجلهم بالإذلال، والأغلال في أعناقهم، والأعداء في أعقابهم، وأختم في المنازل كي
+لا يفلحون، واعكس قولهم كي لا يهتدون، وانكس أرواحهم كي لا يشهدون، وأبلس نفوسهم كي
+لا يقدرون، واقبض على قلوبهم كي لا يفقهون، وأصمم آذانهم كي لا يسمعون، واطمس على أعينهم
+كي لا يبصرون، وأختم على أفواههم كي لا ينطقون، وامسخهم على مكانتهم كي لا يستطيعون مضياً
+ولا إلى أهلهم يرجعون، إنك الجبار والمتكبر والضابط والناصر والقوي والغالب والقهار والمذل
+والمنتقم والمهلك والشديد والمخذل والمؤخر والمانع والخافض والضار والقاصم ذو الجلال والإكرام
+والولي والعظيم والوكيل والجليل والمحيط ذو القوة المتين، وذو البطش الشديد، وذو العرش المجيد،
+فعال لما يريد، ختم الله على قلوبهم وعلى سمعهم وعلى أبصارهم غشاوة ولهم عذاب عظيم، الله يستهزئ
+بهم ويمدهم في طغيانهم يعمهون، صم بكم عمي فهم لا يرجعون، أو كصيب من السماء فيه ظلمات
+ورعد وبرق، الله قدير، ضربت عليهم الذلة أينما ثقفوا إلا بحبل من الله وحبل من الناس، وباءوا بغضب
+من الله وضربت عليهم المسكنة، وقال الذين كفروا لرسلهم لنخرجنكم من أرضنا أو لتعودن في
+ملتنا، فأوحى إليهم ربهم لنهلكن الظالمين، ولنسكننكم الأرض من بعدهم، ذلك لمن خاف مقامي وخاف
+وعيد، واستفتحوا وخاب كل جبار عنيد، إنا لننصر رسلنا والذين آمنوا في الحياة الدنيا ويوم يقوم
+الأشهاد، يوم لا ينفع الظالمين معذرتهم ولهم اللعنة ولهم سوء الدار، فأهلكنا أشدهم بطشاً ومضى مثل
+الأولين، ذلك بأن الله مولى الذين آمنوا وأن الكافرين لا مولى لهم، حتى إذا فرحوا بما أوتوا أخذناهم
+بغتة فإذا هم مبلسون، فقطع دابر القوم الذين ظلموا والحمد لله رب العالمين، كتب الله لأغلبن أنا ورسلي
+إن الله قوي عزيز، هو الذي أخرج الذين كفروا من أهل الكتاب من ديارهم إلى المؤمنين، طبع
+على قلوبهم فهم لا يفقهون، وإذا رأيتهم تعجبك أجسامهم وإن يقولوا تسمع لقولهم، أنى يؤفكون، ألم
+ترَ كيف فعل ربك بعاد إرم ذات العماد التي لم يخلق مثلها في البلاد، وثمود الذين جابوا الصخر بالواد،
+وفرعون ذي الأوتاد، ألم ترَ كيف فعل ربك بأصحاب الفيل، إلخ السورة، لا يذكر
+أحد هذه الأسماء العظام في الساعة الأولى من يوم السبت أو الثانية منها إلا نال مراده من أعدائه
+أياً كانوا، فاتق الله ولا تفعله إلا مستحقه * ومن كانت له حاجة إلى الله تعالى فليواظب على قراءة
+هذا
+
+**English:**
+— 110 —
+
+and that You make them to the wrongdoers be granted respite, upon abasement be tried, and through favor pass; they do not remain upright in secret nor openly, nor do they gain honor nor reward, nor are they able to gain victory nor patience. And send against them a punishment from above them and from beneath their feet, and clothe them in factions, and let some of them taste the might of some others, and make them fuel for them, and burn their hearts away from uprightness, and give them abundant water, and make their wealth upon the earth a barren dust, and send down upon their gardens a reckoning from the sky so that they become a slippery dust, or its water becomes sunk down so that they will not be able to seek it, and do not make their condition suitable for them, and make them among the ones most losing in deeds, and do not raise for them a head, and make them among the fearful, and do not extend them with what, and make them among the treacherous, they are not able to eat nor drink, nor do they rest on earth nor on a back, and make before them a barrier and behind them a barrier, and on their right sides a mound and on their left sides a mound, and upon their heads rock and beneath their feet roughness, so that walking may not be born for them, and no eye may see them, and no good may be made lawful for them, and make shackles in their necks, and drag them with chains and fetters in their feet and legs in humiliation, and the shackles in their necks, and enemies in their heels, and seal in the dwellings so that they do not prosper, and invert their speech so that they are not guided, and break their spirits so that they do not witness, and confound their souls so that they are not able, and seize their hearts so that they do not understand, and deafen their ears so that they do not hear, and blot out their eyes so that they do not see, and seal over their mouths so that they do not speak, and transform them from their place so that they are not able to proceed nor return to their families. Indeed You are the Compeller and the Arrogant and the Controller and the Helper and the Strong and the Prevailing and the Subduer and the Humiliator and the Avenger and the Destroyer and the Severe and the Forsaker and the Delayer and the Preventer and the Abaser and the Harmful and the Crusher, Possessor of Majesty and Honor, and the Protector and the Magnificent and the Trustee and the Glorious and the Encompassing, Possessor of the strong power, and Possessor of severe might, and Possessor of the glorious Throne, effective in what He wills. God has sealed their hearts and upon their hearing and upon their eyes is a covering, and for them is a tremendous punishment. God mocks them and extends them in their rebellion, wandering blindly. Deaf, dumb, blind, so they do not return, or like a rainstorm from the sky in which are darknesses and thunder and lightning. God is powerful. Abasement has been struck upon them wherever they are found, except by a rope from God and a rope from the people, and they incurred wrath from God and wretchedness was struck upon them. And those who disbelieved said to their messengers, “We will surely expel you from our land, or you must return to our creed.” So their Lord revealed to them: “We will surely destroy the wrongdoers, and We will surely settle you in the land after them.” That is for whoever fears My station and fears My threat. And they sought victory, and every obstinate tyrant failed. Indeed We will surely help Our messengers and those who believe in the life of this world and on the Day when the witnesses stand. The Day when the excuse of the wrongdoers will not benefit them, and for them is the curse and for them is the evil abode. So We
+
+---
+## Page 117
+
+**Arabic (original):**
+( ١١ )
+
+هذا الدعاء المبارك إما عقب كل صلاة ثم يسأل حاجته تقضى ومن كان مضطرا في حاجته وأراد
+قضاءها عاجلا فليتوضأ وليأت إلى بعض المساجد أو عند توابيت الأولياء ثم يصلي ركعتين
+وينوي فيها قضاء حاجته يقرأ في الركعة الأولى الفاتحة والإخلاص ٣ ثم يقول بسم الله الرحمن
+الرحيم ٧٠ مرة وفي الركعة الثانية كذلك ويزيد المعوذتين فإذا سلم استغفر الله ٧٠ مرة
+ويصلي على النبي صلى الله عليه وسلم ٧٠ ثم يقرأ هذا الدعاء ٧ مرات بنية صادقة ويجمع
+حواسه في قراءته حتى تقضى حاجته خصوصا إن كان صاحب حالة صادقة مع الله وهو هذا الدعاء
+المبارك تقول (بسم الله الرحمن الرحيم) رب أسألك باسمك الذي فتحت به عالم الأمر والخلق بالتجلي
+المظهر لنسب التنزيل والمتعالي أمرا وجودا وباطنا معقولا ذلك لمن أردت بل معلوما لمن أشهدت
+مجهولا لمن تشابه منه كثرة لا تقدح في وحدة ما أحكمت من محكمه يا عليم يا حليم يا فتاح
+يا الله يارب وأسألك اللهم بسر الإضافة الرابطة بين حضرتي الوجوب والإمكان المقتضية لظهور
+النعت الأعظم بالاسم المبهم لثبوت الألوهية عموما وخصوصا بدءا وعودا ممن وسعته عموم الرحمانية
+التي لا تناهي استقرارا أو ثبوتا عن فيض خاص الرحيمية الرافع لشهود إثبات التقرب بالقرب
+المجهول الماهية منك يا رحمن يا رحيم يا فتاح يا عليم أسألك التنوير والتيسير والمعونة والفوز
+والحفظ والرعاية والستر والتكميل وطيب الرزق والبركة فيه والرجاء وحسن الظن بك واليأس عن
+غيرك وأسألك بحق البسملة تكونا لأمرك وتكميلا بجودك وبركة منك تبارك اسمك وتعالى
+جدك ولا إله غيرك بك آمنا ولك أسلمنا وعليك توكلنا حققنا اللهم بنورك وبنور اسمك رغنا عن
+غيرك اذهولا فيك يا الله شهودا لك يا رحمن سلام قولا من رب رحيم اللهم إني أسألك بحق هذا الدعاء
+المبارك أن تقضي حاجتي وهي كذا وكذا وتسمى ما أردت فماله فيه رضا وإياك أن تطلب ما لا يحل
+* ومن أدعيته المهمة التي كان يدعو بها فما تتم قراءته حتى تقضى حاجته (بسم الله الرحمن الرحيم
+اللهم إني أسألك بأنك أنت الله في حقائق محض التحقيق وأسألك بأنك أنت الله على كل حال من
+أحوال الحد والعديل وبأنك أنت الله المقدس بخصائص الأحدية والصمدية عن الضد والند
+والنقيض والظهير وبأنك أنت الله الذي ليس كمثله شيء وهو السميع البصير أسألك أن تصلي وتسلم
+على سيدنا محمد وعلى آل محمد وعلى كل من أحب محمدا وأن تقضي حوائجي مما يكون لي فيه خير الدنيا
+والآخرة محفوفا بالرعاية محفوظا من الآفات بخصائص الغايات يا عوادا بالخيرات يا من هو في
+الحقيقة أهل التقوى وأهل المغفرة والحسنات اللهم إنها مسألة خادم عزرو ببيتك بإظهار مسألته
+فإنك أنت علام الغيوب ومشاهد حقيقة المطالب قبل مباشرتها المطلوب فتممها بجميل الخاتمة يا خير
+المطلوب وصلى الله على سيدنا محمد حبيب القلوب وعلى آله وصحبه وسلم * ومن دعائه لكل ما أراد
+من الأعمال (بسم الله الرحمن الرحيم) اللهم إني أستغفرك وأتوب إليك من كل ذنب تبت إليه ثم
+عدت إليه أستغفرك من كل عمل أردت به وجهك الكريم ثم خالطه غيرك وأستغفرك من كل ذنب
+عملته في ظلمة الليل والنهار خضعت لله عبدا خاضعا ذليلا مقهورا آمنت بالله يا غفورا شكورا رضيت
+بنبيك وحبيبك وصفيك وخيرتك من خلقك محمد صلى الله عليه وسلم جاه للكل بالرسالة محبورا
+
+**English:**
+( 11 )
+
+This blessed supplication is either after every prayer, then he asks his need; it is fulfilled. And whoever is in need of his need and desires
+its fulfillment quickly, let him perform ablution and come to some of the mosques or at the tombs of the saints, then pray two rak‘ahs
+and intend therein the fulfillment of his need. He recites in the first rak‘ah al-Fatiha and al-Ikhlas 3, then says: In the name of Allah, the الرحمن
+the Merciful 70 times; and in the second rak‘ah likewise, and he adds the two Mu‘awwidhatayn. Then when he gives the salutation, he seeks forgiveness from Allah 70 times
+and sends blessings upon the Prophet, may Allah bless him and grant him peace, 70, then recites this supplication 7 times with sincere intention and gathers
+his senses in its recitation until his need is fulfilled, especially if he is a possessor of a truthful state with Allah, and it is this blessed supplication:
+you say: (In the name of Allah, the الرحمن the Merciful) My Lord, I ask You by Your name by which You opened the world of command and creation by the manifestation
+that manifests the relations of revelation and the Most High, command, existence, and inwardly intelligible; that is for whom You willed, rather known to whom You made witness,
+unknown to whom there is resemblance from it; abundance does not impugn the unity of what You have perfected from its perfected part. O Knowing, O Forbearing, O Opener,
+O Allah, O Lord, and I ask You, O Allah, by the secret of the annexation linking between the two حضرات of necessity and possibility, necessitating the appearance of
+the greatest attribute by the ambiguous name for the establishment of divinity generally and specifically, beginning and return, from Him whom the generality of the Rahmaniyyah
+encompassed, which has no end in settling or establishment, from a special outpouring of the Rahimiyyah, lifting the witnessing of the affirmation of drawing near by the nearness
+whose quiddity is unknown from You, O Rahman, O Rahim, O Opener, O Knowing, I ask You for illumination, facilitation, help, success,
+protection, care, concealment, completion, goodly provision and blessing in it, hope, good opinion of You, and despair of
+other than You. And I ask You by the right of the basmala to be for Your command and completion by Your generosity and a blessing from You. Blessed is Your name and exalted
+is Your majesty; there is no god other than You. By You we have believed, and to You we have submitted, and upon You we have relied. Make it true for us, O Allah, by Your light and by the light of Your name; make us content with
+other than You, bewildered in You, O Allah, in witnessing You, O Rahman, “Peace, a word from a Merciful Lord.” O Allah, I ask You by the right of this
+blessed supplication that You fulfill my need, and it is such-and-such, and he names what he wills; for there is in it what pleases him. And beware that you ask for what is not lawful.
+* And among his important supplications, which he used to supplicate with, is that nothing is completed in its recitation until his need is fulfilled: (In the name of Allah, the الرحمن the Merciful
+O Allah, I ask You because You are Allah in the realities of pure verification, and I ask You because You are Allah in every state of
+the states of limit and equivalence, and because You are Allah, sanctified by the properties of oneness and self-sufficiency, from opposite, peer,
+contrary, and supporter, and because You are Allah, who has no likeness to Him, and He is the Hearing, the Seeing. I ask You to send blessings and peace
+upon our master Muhammad and upon the family of Muhammad and upon everyone who loved Muhammad, and that You fulfill my needs in what there is for me in it of the good of this world
+and the Hereafter, surrounded by care, محفوظ from afflictions by the properties of ends, O One who repeatedly returns with good things, O You who are in
+truth أهل التقوى and أهل المغفرة and good deeds. O Allah, it is the request of the servant Azru at Your House by the manifestation of his request;
+for You are the Knower of the unseen and the Witness of the reality of requests before undertaking them, the sought-after. So complete it with a beautiful conclusion, O best
+of the sought. And may Allah bless our master Muhammad, the beloved of hearts, and his family and his companions, and grant peace.* And among his supplication for whatever he desired
+of deeds: (In the name of Allah, the الرحمن the Merciful) O Allah, I ask Your forgiveness and repent to You from every sin to which I repented and then
+returned to it. I ask Your forgiveness from every deed by which I desired Your noble Face, then other than You mixed with it. And I ask Your forgiveness from every sin
+I committed in the darkness of night and day. I submitted to Allah as a servant, submissive, abased, overpowered. I believed in Allah, O Forgiving, O Thankful. I was pleased
+with Your Prophet, Your beloved, Your chosen one, and Your elect from Your creation, Muhammad, may Allah bless him and grant him peace, whose rank is for all by the message, rejoiced.
+
+---
+## Page 118
+
+**Arabic (original):**
+- ١١٢ -
+ولا إله إلا الله حقاً على العباد في الكتاب مسطوراً، والحمد لله شكراً على النعم من الله شكراً مقبولاً
+بفضل الله مبروراً، والله أكبر عزاً بالله وإظهاراً لما وجب إظهاره من حلم الله، وشرف الله سعياً
+مشكوراً وذنباً مغفوراً، وسبحان الله تنزه بالله من السوء مساءً وبكوراً، ولا حول ولا قوة إلا
+بالله العلي العظيم إقراراً بالقدرة عند الله إن شاء الله مشكوراً. اللهم إنا نحن المتشبهون بجملة كتابك،
+المتوجهون إليك وجهة الإيمان بكتابك المكنون المخزون من أسمائك وحقائق صفاتك، وبالاسم
+الذي قام به كل شيء من أرضك وسمائك، بأنك أنت الله الصمد الذي لم يلد ولم يكن له كفواً
+أحد، أسألك اللهم أن تصلي وتسلم على سيدنا محمد صلى الله عليه وسلم سيد الأنبياء والمرسلين الذي
+خلقته قبل كل شيء وهو درة، وأودعت صدره الكتاب المبين، أن تجعل لنا من كل ضيق فرجاً ومن
+كل هم مخرجاً، يا مفرج يا عالي الدرج، يا خير ملجأ وأعز ملتجأ، يا كريم العفو والجود،
+يا رزاق العود في الحجر الملحود، يا الله يا رب العالمين، وصلى الله على سيدنا محمد وعلى آله وصحبه وسلم
+تسليماً كثيراً. * ومن دعائه لجلب الرزق: وإذا أردت قراءته فابتدئ بقراءة سورة الواقعة ثم اقرأ
+هذا الدعاء ويسمى دعاء الواقعة: (بسم الله الرحمن الرحيم) اللهم إني أسألك يا الله يا الله يا واحد
+يا أحد يا وتر يا حي يا قيوم يا بديع السموات والأرض يا ذا الجلال والإكرام، يا باسط يا غني يا مغني،
+بمههوب مههوب ذي لطف خفي، بصعصع صعصع ذي نور بهي، محسوب الله الذي له العظمة والكبرياء،
+يا صعصعوب دريها وجمال طهبوب، ذو شامخ طهلهوب ملهوب، الله الذي سخر بنور كل
+نور بطهبوب طهبوب، أجيبوا يا خدام الله العظيم الأعظم بتسخير قلوب الخلق وطلب الرزق،
+وحركوا روحانية المحبة لي بالجهة الدائمة، بسم الله الذي احترقت الحجب لنوره، وذلت الرقاب لعظمته،
+وتدكدكت الجبال لهيبته، وسبح الرعد بحمده والملائكة من خيفته، هو الله الذي لا إله إلا هو رب
+العرش العظيم. * اللهم إني أسألك باسمك المرتفع الذي أعطيته من شئت لأوليائك وألهمته
+لأصفيائك من أحبابك، أسألك أن تأتيني برزق من عندك تغني به فقري، وتجبر به كسري، وتقطع
+به علائق الشيطان من قلبي، فإنك أنت الله الحنان المنان السلطان الديان الوهاب الرزاق الفتاح العليم،
+القابض الباسط الرافع المعز المذل الغني المغني الكريم المعطي الرزاق اللطيف الواسع الشكور،
+ذو الفضل والنعم والجود والكرم. * اللهم إني أسألك بحق حقك وكرم كرمك وفضلك وإحسانك،
+يا من فضله فوق كل فضل وإحسانه فوق كل إحسان، يا مالك الدنيا والآخرة، يا صادق الوعد لا إله إلا أنت
+سبحانك إني كنت من الظالمين، اللهم يسر لي من رزقك الحلال واجعله لي نصيباً. اللهم أجب دعوتي بحق
+سورة الواقعة وبحق اسمك العظيم وبحق سيدنا محمد صلى الله عليه وسلم وآله الطيبين الطاهرين
+وعلى آله وأصحابه أجمعين، وبحق ففتح محمد فتاح رزاق قادر معطي خير الرازقين مغني البائس الفقير،
+ثواب لا يؤاخذ بالجرائم، اللهم يسر لي رزقاً حلالاً طيباً واجمع بيني وبينه من حلالك واجعله من
+نصيبي في الحلال لا حرام يا ذا الجلال والإكرام في هذه الساعة، يا كافي يا جليل يا كفيل يا وكيل،
+أغنني بلطفك الخفي يا كريم يا رحيم. اللهم اكفني بحلالك عن حرامك وبطاعتك عن معصيتك
+وبفضلك
+
+**English:**
+- 112 -
+And there is no god but Allah, truly, upon the servants, inscribed in the Book; and praise be to Allah, thanksgiving for blessings from Allah, accepted thanksgiving
+by the grace of Allah, duly accepted; and Allah is greater, in might through Allah and in manifesting what it was obligatory to manifest of the forbearance of Allah, and the nobility of Allah, striving
+is thanked and a sin forgiven; and glory be to Allah, exalted through Allah from evil evening and morning; and there is no power and no strength except
+by Allah, the Most High, the Great, acknowledgment of power with Allah, if Allah wills, thanked. O Allah, we are those who resemble the totality of Your Book,
+turning to You with the turning of faith in Your hidden, stored Book, from Your names and the realities of Your attributes, and by the name
+by which every thing from Your earth and Your heaven stood, that You are Allah, the Self-Sufficient, who did not beget and was not begotten, and there is none equal
+to Him, I ask You, O Allah, that You send blessings and peace upon our master Muhammad, may Allah bless him and grant him peace, the master of the prophets and the messengers, whom
+You created before everything and he was a pearl, and You entrusted to his breast the Clear Book, that You make for us from every distress a relief and from
+every worry an outlet, O Reliever, O High of degrees, O best refuge and most mighty resort, O Noble of pardon and generosity,
+O Provider of return in the tomb-stone, O Allah, O Lord of the worlds, and may Allah bless our master Muhammad and upon his family and his companions and grant peace
+abundant peace. * And among his supplication for bringing provision: and if you wish to recite it, begin by reciting Surat al-Waqi‘a, then recite
+this supplication, and it is called the supplication of al-Waqi‘a: (In the name of Allah, the الرحمن the Merciful) O Allah, I ask You, O Allah, O Allah, O One
+O One, O Single, O Eternal, O Living, O Sustainer, O Originator of the heavens and the earth, O Possessor of majesty and honor, O Extender, O Rich, O Enricher,
+by Mahhub Mahhub, possessor of hidden gentleness, by Sa‘sa‘ Sa‘sa‘, possessor of splendid light, counted as Allah, to whom belongs greatness and pride,
+O Sa‘s‘ub Duriha and beauty of Tahbub, possessor of lofty Tahlahub, inflamed, Allah who subdued by the light of every
+light by Tahbub Tahbub, respond, O servants of Allah, the Great, the Most Great, by subduing the hearts of creation and seeking provision,
+and move the Ruhaniyyah of love for me toward the permanent direction, in the name of Allah by whose light the veils were burned, and the necks were humbled to His might,
+and the mountains were ground down to His awe, and the thunder glorified with His praise and the angels from His fear; He is Allah, there is no god except Him, Lord
+of the Mighty Throne. * O Allah, I ask You by Your elevated name, which You gave to whom You willed among Your saints and inspired
+to Your chosen ones from Your beloved ones, I ask You to bring me provision from نزد You by which You enrich my poverty, and mend
+my brokenness, and cut off by it the attachments of Satan from my heart, for You are Allah, the Compassionate, the Bestower, the Sovereign, the Judge, the Giver, the Provider, the Opener, the Knowing,
+the Withholder, the Extender, the Exalter, the Abaser, the Rich, the Enricher, the Noble, the Giver, the Provider, the Gentle, the Vast, the Thankful,
+possessor of فضل and blessings and generosity and nobility. * O Allah, I ask You by the right of Your right and the nobility of Your nobility and Your فضل and Your beneficence,
+O You whose فضل is above every فضل and whose beneficence is above every beneficence, O Master of this world and the Hereafter, O True to the promise, there is no god except You,
+glory be to You, I was indeed among the wrongdoers. O Allah, make easy for me from Your lawful provision and make it for me a portion. O Allah, answer my supplication by the right of
+Surat al-Waqi‘a and by the right of Your عظیم name and by the right of our master Muhammad, may Allah bless him and grant him peace, and his good, pure family
+and upon his family and all his companions, and by the right of the opening of Muhammad, Opener, Provider, قادر, Giver, best of providers, Enricher of the wretched poor,
+a reward not taken to account for crimes. O Allah, make easy for me lawful, good provision, and join me with it from Your lawful, and make it from
+my portion in the lawful, not unlawful, O Possessor of majesty and honor, in this hour, O Sufficient, O Majestic, O Surety, O Trustee,
+enrich me by Your hidden gentleness, O Noble, O Merciful. O Allah, suffice me with Your lawful against Your unlawful, and with Your obedience against Your disobedience
+and by Your فضل
+
+---
+## Page 119
+
+**Arabic (original):**
+- ١١٣ -
+
+وبفضلك عمن سواك يا الله يا رحمن الدنيا والآخرة يارب العالمين أسألك أن تصلي وتسلم
+على سيدنا محمد وعلى آل سيدنا محمد وأن تفتح لي أبواب رزقك بإفتتاح سورة الواقعة
+وأسرارها أن تيسر لي رزقي كما يسرته لكثير من خلقك يا الله يارب العالمين * اللهم صل على سيدنا
+محمد وعلى آل سيدنا محمد صلاة أنت لها أهل وهو لها أهل يارب العالمين ولا حول ولا قوة إلا بالله
+العلي العظيم
+
+( فائدة مباركة لقضاء الحوائج )
+من كانت له حاجة إلى الله وأراد قضاءها فليصل ركعتين من قبل صلاة الوتر يقرأ في كل ركعة الفاتحة
+مرة والإخلاص ٣ فإذا فرغ من الصلاة فليجلس على قدميه أي يقوم على الأرض قليلاً ثم يقرأ ويقول
+أستغفر الله العظيم الذي لا إله إلا هو الحي القيوم وأتوب إليه وأسأله التوبة والمغفرة لي ولوالدي ولجميع
+المسلمين والمسلمات ألف مرة وعيناه مغمضتان فإذا فرغ يدعو الله بما أراد من أمر الدنيا والآخرة
+يقضى له
+
+( فائدة لجلب الرزق والقبول )
+* اعلم أن هذه الآيات مباركة فاجعلها ورداً تجد بركتها * وإن حملتها معك يرزقك الله من حيث
+لا تحتسب * وهي بسم الله الرحمن الرحيم وما رزقناهم ينفقون كلما دخل عليها زكريا المحراب
+وجد عندها رزقاً قال يامريم أنى لك هذا قالت هو من عند الله إن الله يرزق من يشاء بغير حساب
+وارزقنا وأنت خير الرازقين قل أغير الله أتخذ ولياً فاطر السموات والأرض وهو يطعم ولا يطعم
+وأورثنا القوم الذين كانوا يستضعفون مشارق الأرض ومغاربها التي باركنا فيها وأيدكم
+بنصره ورزقكم من الطيبات لعلكم تشكرون وأقيموا الصلاة فاجعل أفئدة من الناس تهوي
+إليهم وارزقهم من الثمرات لعلهم يشكرون ولقد مكناكم في الأرض وجعلنا لكم فيها معايش
+قليلاً ما تشكرون كلاً نمد هؤلاء وهؤلاء من عطاء ربك وما كان عطاء ربك محظوراً وإن من شيء
+إلا عندنا خزائنه إنا مكنا له في الأرض وآتيناه من كل شيء سبباً فأتبع سبباً ورزق ربك خير وأبقى
+ولهم رزقهم فيها بكرة وعشياً ولقد كتبنا في الزبور من بعد الذكر أن الأرض يرثها عبادي الصالحون
+فخراج ربك خير وهو خير الرازقين ليجزيهم الله أحسن ما عملوا ويزيدهم من فضله والله يرزق
+من يشاء بغير حساب قال أتمدونن بمال فما آتاني الله خير مما آتاكم أن يبدأ الخلق ثم يعيده
+ومن يرزقكم من السماء والأرض أإله مع الله ونريد أن نمن على الذين استضعفوا في الأرض ونجعلهم
+أئمة ونجعلهم الوارثين رب إني لما أنزلت إلي من خير فقير أولم نمكن لهم حرماً آمنا يجبى إليه ثمرات
+كل شيء رزقاً من لدنا فابتغوا عند الله الرزق واعبدوه واشكروا له إليه ترجعون وكأين من دابة
+لا تحمل رزقها الله يرزقها وإياكم وهو السميع العليم ألم تروا أن الله سخر لكم ما في السموات
+وما في الأرض وأسبغ عليكم نعمه كلوا من رزق ربكم واشكروا له بلدة طيبة ورب غفور ما يفتح الله
+للناس من رحمته فلا ممسك لها وما يمسك فلا مرسل له من بعده وهو العزيز الحكيم وما أنفقتم من شيء فهو
+يخلفه وهو خير الرازقين وما كان الله ليعجزه من شيء في السموات ولا في الأرض إنه كان عليماً قديراً
+
+( ٨ - شمس المعارف - أول )
+
+**English:**
+and by Your فضل from other than You, O Allah, O Merciful of this world and the Hereafter, Lord of the worlds, I ask You to send blessings and peace
+upon our master Muhammad and upon the family of our master Muhammad, and that You open for me the doors of Your provision by the opening of Surat al-Waqi‘a
+and its secrets, that You make easy for me my provision as You made it easy for many of Your creation, O Allah, Lord of the worlds. * O Allah, send blessings upon our master
+Muhammad and upon the family of our master Muhammad, a prayer for which You are أهل and he is أهل, Lord of the worlds, and there is no power and no strength except by Allah,
+the Most High, the Great.
+
+( Blessed benefit for the fulfillment of needs )
+Whoever has a need to Allah and desires its fulfillment, let him pray two rak‘ahs before the witr prayer; in each rak‘ah he recites al-Fatiha
+once and al-Ikhlas 3. When he finishes the prayer, let him sit upon his feet, that is, stand on the ground a little, then recite and say:
+I ask forgiveness of Allah العظيم, there is no god except Him, the Living, the Sustainer, and I repent to Him, and I ask Him for repentance and forgiveness for me and for my parents and for all
+Muslim men and Muslim women, one thousand times, with his eyes closed. When he finishes, he supplicates Allah with whatever he desires from the affairs of this world and the Hereafter;
+it will be fulfilled for him.
+
+( Benefit for bringing provision and acceptance )
+* Know that these verses are blessed, so make them a ورد and you will find their blessing * And if you carry them with you, Allah will provide you from where
+you do not reckon * And they are: In the name of Allah, the الرحمن the Merciful, and what We have provided them they spend; whenever Zakariyya entered upon her in the sanctuary,
+he found with her provision. He said: O Mary, from where is this for you? She said: It is from Allah; indeed Allah provides for whom He wills without reckoning.
+And provide for us, and You are the best of providers. Say: Shall I take other than Allah as a protector, Originator of the heavens and the earth, while He feeds and is not fed?
+And We caused to inherit the people who were oppressed in the east of the earth and its west, which We blessed therein, and He supported you
+with His victory and provided you with good things, that you may give thanks. And establish the prayer, and make hearts from among the people incline
+toward them, and provide for them from the fruits, that they may give thanks. And We had certainly established you in the earth and made for you therein livelihoods;
+little do you give thanks. Each We extend—these and these—from the gift of your Lord, and the gift of your Lord is not restricted. And there is not a thing
+except that with Us are its treasuries, and We do not send it down except in a known measure. We had established him in the earth and given him from every thing a means, so he followed a means, and the provision of your Lord is better and more lasting.
+And for them is their provision therein morning and evening. And We had certainly written in the Psalms after the Reminder that the earth is inherited by My righteous servants.
+So the outlay of your Lord is better, and He is the best of providers, that Allah may recompense them with the best of what they did and increase them from His فضل, and Allah provides
+for whom He wills without reckoning. He said: Do you supply me with wealth? But what Allah has given me is better than what He has given you, that He may begin creation then repeat it.
+And who provides you from the heaven and the earth? Is there a god with Allah? And We desire to bestow favor upon those who were oppressed in the earth and make them
+leaders and make them the inheritors. My Lord, indeed I am, for whatever good You send down to me, poor. Did We not establish for them a secure sanctuary to which are brought the fruits
+of every thing, as provision from Us? So seek provision from Allah and worship Him and give thanks to Him; to Him you will be returned. And how many a creature
+does not carry its provision; Allah provides for it and for you, and He is the Hearing, the Knowing. Have you not seen that Allah has subjected for you what is in the heavens
+and what is on the earth and has lavished upon you His blessings? Eat from the provision of your Lord and give thanks to Him, a good land and a forgiving Lord. Whatever Allah opens
+for the people of His mercy, none can withhold it; and whatever He withholds, none can send it after Him, and He is the Mighty, the Wise. And whatever you spend of anything, He
+replaces it, and He is the best of providers. And Allah would not be unable by anything in the heavens or on the earth; indeed He is Knowing, Powerful.
+
+( 8 - Shams al-Ma‘arif - first )
+
+---
+_End of translation — 119 pages._
