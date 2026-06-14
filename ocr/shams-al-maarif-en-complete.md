@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 101 translated pages._
+_Auto-generated from 107 translated pages._
 
 ---
 ## Page 1
@@ -5414,4 +5414,596 @@ He answers, and when He is asked by it, He gives, and it is beneficial for every
 (And this is the description of the tenfold, and within it are the verses)
 
 ---
-_End of translation — 101 pages._
+## Page 102
+
+**Arabic (original):**
+— ٩٦ —
+
+( وهذه هي صفة الوفق المشار إليه )
+
+| ماله | الملك | الملك | الملك | الملك | الملك |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| الملك | والأرض | وهو العزيز | الحكيم | له ملك | السموات |
+| والأرض | وهو العزيز | الحكيم | له ملك | السموات | والأرض |
+| وهو العزيز | الحكيم | له ملك | السموات | والأرض | وهو العزيز |
+| الحكيم | له ملك | السموات | والأرض | وهو العزيز | الحكيم |
+| له ملك | السموات | والأرض | وهو العزيز | الحكيم | له ملك |
+| السموات | والأرض | وهو العزيز | الحكيم | له ملك | السموات |
+
+قال ذو النون المصري رحمه الله تعالى: رأيت شاباً عند الكعبة يكثر الركوع والسجود، فدنوت منه وقلت: إنك تكثر الصلاة، فقال: انتظر الإذن من ربي في الانصراف، فدنوت منه فرأيت رقعة سقطت عليه مكتوب فيها: من العزيز الغفور إلى عبدي الصادق الشكور، انصرف مغفور لك ما تقدم من ذنبك وما تأخر. * وروي عن أنس بن مالك أن النبي صلى الله عليه وسلم مر برجل يصلي، فلما فرغ من التشهد جعل يقول: اللهم إني أسألك بأن لك الحمد، لا إله إلا أنت، يا حنان يا منان، يا بديع السموات والأرض، يا حي يا قيوم، فقال النبي صلى الله عليه وسلم: أتدرون ما دعا به؟ قلنا: الله ورسوله أعلم، قال: إنه دعا الله باسمه العظيم الأعظم الذي إذا دعي به أجاب، وإذا سئل به أعطى، عشر أسماء: الواحد الأحد الصمد الفعال لما يريد السميع البصير المقتدر القوي القائم، ليس شيء أفضل من العمل بها، فقال: إنها تنفع من معاناة الأثقال والأمور الصعاب. ( فائدة ) هذا الدعاء للأسماء التي قيل إن كل اسم منها هو اسم الله الأعظم، وهو هذا: اللهم إني أسألك بأن لك الحمد، لا إله إلا أنت، يا حنان يا منان، يا بديع السموات
+
+**English:**
+— 96 —
+
+(And this is the description of the indicated Wafq)
+
+| His property | the King | the King | the King | the King | the King |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| the King | and the earth | and He is the Mighty | the Wise | to Him belongs the kingdom | of the heavens |
+| and the earth | and He is the Mighty | the Wise | to Him belongs the kingdom | of the heavens | and the earth |
+| and He is the Mighty | the Wise | to Him belongs the kingdom | of the heavens | and the earth | and He is the Mighty |
+| the Wise | to Him belongs the kingdom | of the heavens | and the earth | and He is the Mighty | the Wise |
+| to Him belongs the kingdom | of the heavens | and the earth | and He is the Mighty | the Wise | to Him belongs the kingdom |
+| of the heavens | and the earth | and He is the Mighty | the Wise | to Him belongs the kingdom | of the heavens |
+
+Dhu al-Nun al-Misri, may God تعالى have mercy on him, said: I saw a young man at the Kaaba who increased in bowing and prostration, so I drew near to him and said: You increase in prayer. He said: Await permission from my Lord for departure. So I drew near to him and saw a slip that had fallen upon him, written in it: From the Mighty, the Forgiving, to My truthful, thankful servant, depart, forgiven for you is what has preceded of your sin and what has delayed. * And it is related from Anas ibn Malik that the Prophet, may God bless him and grant him peace, passed by a man praying, and when he finished the tashahhud he began saying: O God, I ask You by that to You belongs praise, there is no god but You, O Compassionate, O Bestower, O Originator of the heavens and the earth, O Living, O Self-Subsisting, so the Prophet, may God bless him and grant him peace, said: Do you know what he supplicated with? We said: God and His Messenger know best. He said: Indeed he supplicated God by His greatest, greatest name, which if He is supplicated by it He answers, and if He is asked by it He gives: ten names: the One, the Unique, the Self-Sufficient, the Doer of what He wills, the Hearing, the Seeing, the Powerful, the Strong, the قائم, there is nothing better than working with them. So he said: Indeed they benefit from the suffering of burdens and difficult matters. (Benefit) This supplication is for the names of which it was said that each name among them is the greatest name of God, and it is this: O God, I ask You by that to You belongs praise, there is no god but You, O Compassionate, O Bestower, O Originator of the heavens
+
+---
+## Page 103
+
+**Arabic (original):**
+- ٩٧ -
+
+السَّمَوَاتِ وَالأَرْضِ ذَا الْجَلَالِ وَالْإِكْرَامِ يَا حَيُّ يَا قَيُّومُ يَا رَحْمَنُ يَا رَحِيمُ يَا أَحَدُ يَا صَمَدُ يَا ذَا الْجَلَالِ
+وَالْإِكْرَامِ يَا وَهَّابُ يَا خَيْرَ الْوَارِثِينَ يَا غَفَّارُ يَا قَرِيبُ يَا سَمِيعُ لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ
+مِنَ الظَّالِمِينَ يَا أَرْحَمَ الرَّاحِمِينَ يَا سَمِيعَ الدُّعَاءِ يَا رَبَّنَا يَا رَبَّنَا أَسْأَلُكَ بِاسْمِكَ اللَّهُ الَّذِي لَا إِلَهَ إِلَّا هُوَ رَبُّ
+الْعَرْشِ الْعَظِيمِ الم كهيعص طسم طس حمعسق حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ أَسْأَلُكَ بِهَا وَبِالْآيَاتِ كُلِّهَا
+وَبِالْأَسْمَاءِ كُلِّهَا وَبِالِاسْمِ الْعَظِيمِ مِنْهَا يَا مَنْ لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ أَنْ تُصَلِّيَ وَتُسَلِّمَ عَلَى سَيِّدِنَا
+مُحَمَّدٍ وَصَحْبِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَتَسْأَلُ أَيَّ حَاجَةٍ شِئْتَ تَقْضَى بِإِذْنِ اللَّهِ تَعَالَى * اعْلَمْ وَفَّقَنِي اللَّهُ وَإِيَّاكَ
+لِفَهْمِ أَسْرَارِهِ وَأَمَّا الشَّيْخُ أَبُو عَبْدِ اللَّهِ مُحَمَّدُ بْنُ إِسْمَاعِيلَ الْأَحْمِيُّ رَحِمَهُ اللَّهُ تَعَالَى فَهُوَ مِنْ عُظَمَاءِ
+الْمُحَقِّقِينَ وَأَكَابِرِ الْعَارِفِينَ صَاحِبِ الْكَرَامَاتِ الظَّاهِرَةِ وَالْأَحْوَالِ الْفَاخِرَةِ وَالْأَنْفَاسِ الصَّادِقَةِ
+قَدَّسَ اللَّهُ سِرَّهُ قَالَ كُنْتُ فِي خَلْوَةٍ مُتَوَجِّهًا إِلَى اللَّهِ تَعَالَى فَرَأَيْتُ شَكْلًا نُورَانِيًّا وَهُوَ عَلَى صُورَةِ رَأْسِ
+الْعَيْنِ وَفِي بَاطِنِهَا لَجَلَالِهِ وَقَدْ تَفَرَّعَ مِنْهَا كُلُّ اسْمٍ فِيهِ حَرْفُ الْعَيْنِ لِلِاسْمِ الْجَمَالِ فَلَمَّا أَثْبَتُّ هَذَا
+الشَّكْلَ فِي هَذِهِ الْوَرَقَةِ وَقُلْتُ فِي سِرِّي يُمْكِنُ أَنْ أُخْرِجَ مِنْهُ التِّسْعَةَ وَالتِّسْعِينَ اسْمًا تَفْرِيعًا
+وَشَرَعْتُ فِي ذَلِكَ وَهَذِهِ تِسْعَةَ عَشَرَ مِمَّا قَدْ تَخَرَّجَتْ مِنَ الْجَلَالَةِ وَالْجَلَالَةِ الْمُخَرَّجِ مِنْهَا الْأَسْمَاءِ تَتِمَّةُ
+الْعِشْرِينَ وَلَهَا مَنَافِعُ جَلِيلَةُ الشَّأْنِ عَظِيمَةُ الْبُرْهَانِ إِذَا أَرَادَ الْإِنْسَانُ السَّالِكُ التَّحَقُّقَ بِهَا شَاهَدَ أَسْرَارًا
+عَجِيبَةً وَآثَارًا غَرِيبَةً وَلَا يُسْأَلُ الْعُلُومُ الْعَلْوِيَّةُ وَالسُّفْلِيَّةُ وَلَا يُسْأَلُ اللَّهُ تَعَالَى شَيْئًا إِلَّا أَعْطَاهُ إِيَّاهُ قَالَ وَمَنْ كَانَتْ
+لَهُ ضَرُورَةٌ دُنْيَوِيَّةٌ فَلْيُصَلِّ رَكْعَتَيْنِ فِي نِصْفِ اللَّيْلِ فَإِذَا فَرَغَ مِنْ صَلَاتِهِ فَلْيَذْكُرْ هَذِهِ الْأَسْمَاءِ يَا اللَّهُ
+يَا سَرِيعُ يَا السَّمِيعُ الْعَلِيُّ الْعَظِيمُ الْمُتَعَالِ الْبَاعِثُ الْبَدِيعُ الرَّافِعُ الْعَدْلُ الْعَزِيزُ الرَّفِيعُ الْفَعَّالُ الْعَلِيمُ الْمُعِزُّ الْعَفُوُّ
+الْوَاسِعُ الْجَامِعُ الْجَمَالُ * (١٧٣٠) مَرَّةً بِخُشُوعٍ وَخُضُوعٍ وَجَمْعِ حُسْنِ حَالٍ فِي مَوْضِعٍ
+خَالٍ مِنَ الْأَصْوَاتِ وَأَقَلُّ مِنْهُ ١٧ مَرَّةً وَهُوَ مُسْتَقْبِلُ الْقِبْلَةِ ثُمَّ يَسْأَلُ اللَّهُ تَعَالَى حَاجَتَهُ فَإِنَّ اللَّهَ
+يُيَسِّرُهَا وَيُسَهِّلُ أَسْبَابَهَا لَاسِيَّمَا إِنْ كَانَ مِمَّنْ يَطْلُبُ مِنَ اللَّهِ تَعَالَى تَحْصِيلَ عِلْمٍ مِنَ الْعُلُومِ الدِّينِيَّةِ
+وَالْأَسْرَارِ النُّورَانِيَّةِ فَإِنَّ اللَّهَ تَعَالَى يَفْتَحُ لَهُ مِنْ اسْمِهِ الْعَظِيمِ طَرِيقًا إِلَى قَصْدِهِ وَيَرَى عَجَائِبَ الْمَعَانِي
+الْعِرْفَانِيَّةِ وَالْعَارِفِ الرَّبَّانِيَّةِ الَّتِي لَا يَصِلُ إِلَيْهَا إِلَّا الْأَكَابِرُ مِنَ الْعُلَمَاءِ الرَّاسِخِينَ * وَمَنْ نَظَرَ إِلَيْهِ فِي
+كُلِّ يَوْمٍ ١٥ مَرَّةً وَهُوَ يَذْكُرُ اللَّهَ تَعَالَى عَلَيْهِمْ أَطْلَعَهُ اللَّهُ تَعَالَى عَلَى أَسْرَارِ الْعُلُومِ وَخَفِيَّاتِ دَقَائِقِهَا
+وَرَزَقَهُ الْفَهْمَ فِي الْعُلُومِ الذَّوْقِيَّةِ وَاللَّطَائِفِ الْقُدْسِيَّةِ وَأَجْرَى مِنْ قَلْبِهِ لَطَائِفَ أَنْوَارِ الْحِكَمِ الْوَهْبِيَّةِ
+بِمِنَّتِهِ وَكَرَمِهِ وَصَحْبِهِ مَعَهُ بَعْدَ ذِكْرِهِ حَرَسَهُ اللَّهُ تَعَالَى فِي جَمِيعِ حَرَكَاتِهِ وَعَصَمَهُ مِنَ الْآفَاتِ فِي سَائِرِ
+تَقَلُّبَاتِهِ وَأَلْبَسَهُ تَاجَ الْهَيْبَةِ وَتَوَجَّهَ بِتَاجِ الْعَظَمَةِ * وَمَنْ وَضَعَهَا عَلَى شَيْءٍ فِي الْحَضَرِ وَالسَّفَرِ كَانَ
+مَحْرُوسًا مِنْ طَوَارِقِ الْحَوَادِثِ وَإِنْ عَلَّقَهُ عَلَى عَضُدِهِ الْأَيْمَنِ عَصَمَهُ اللَّهُ تَعَالَى مِنْ شَرِّ أَعْدَائِهِ وَأَمَّنَهُ
+مِنْ مَكْرِهِمْ * وَمَنْ دَخَلَ بِهِ عَلَى جَبَابِرَةٍ انْقَادَ إِلَى كَلِمَتِهِ وَارْتَعَدَ مِنْ سَطْوَتِهِ وَقَلْبُ اللَّهِ
+مِنْ جَبَرُوتِهِ بَيْنَ يَدَيْهِ ذَلَّتْ وَانْقَلَبَتْ لَهُ نَفْسُهُ لِلْمُرَادِ وَأَعْطَاهُ اللَّهُ تَعَالَى مَطَالِبَهُ وَكَفَى شَرَّهُ بِإِذْنِ اللَّهِ
+تَعَالَى وَهُوَ مِنَ الْأَسْرَارِ الْجَلِيلَةِ * مَنْ كَتَبَ هَذَا الْوَفْقَ فِي خَاتَمِ زُجَاجٍ بِمِسْكٍ وَزَعْفَرَانٍ وَكَافُورٍ
+وَشَرِبَ مِنْهُ مَنْ بِهِ عِلَّةٌ جُسْمَانِيَّةٌ أَوْ عِلَّةٌ نَفْسَانِيَّةٌ أَزَالَهَا وَحَفِظَهَا وَهِيَ تُعْطِي حَامِلَهَا قُوَّةً فِي جِسْمِهِ
+وَرُوحِهِ وَتَكْسُوهُ هَيْبَةً وَجَلَالَةً فِي أَعْيُنِ النَّاظِرِينَ * وَمَنْ ذَكَرَهَا كُلَّ يَوْمٍ بَعْدَ صَلَاةِ الصُّبْحِ ٧٧
+( ٧ - شمس المعارف - أول )
+
+**English:**
+the heavens and the earth, Possessor of Majesty and Honor, O Living, O Self-Subsisting, O Merciful, O Compassionate, O One, O Self-Sufficient, O Possessor of Majesty and Honor, O Bestower, O Best of the inheritors, O Forgiving, O Near, O Hearing, there is no god but You, Glory be to You, indeed I was among the wrongdoers, O Most Merciful of the merciful, O Hearer of supplication, O our Lord, O our Lord, I ask You by Your name, Allah, He besides whom there is no god, Lord of the Mighty Throne, Alif Lam Mim, Kaf Ha Ya Ayn Sad, Ta Sin Mim, Ta Sin, Ha Mim Ayn Sin Qaf, God is sufficient for us, and excellent is the Trustee. I ask You by them and by all the verses and by all the names and by the greatest name among them, O He who neither begets nor is begotten, and there is none equal to Him, that You bless and grant peace upon our master Muhammad and his Companions, may God bless him and grant him peace, and that you ask whatever need you wish, it shall be fulfilled by the permission of God تعالى. * Know, may God grant success to me and to you for understanding its secrets, and as for the shaykh Abu Abd Allah Muhammad ibn Isma'il al-Akhmi, may God تعالى have mercy on him, he is among the great ones of the investigators and the foremost of the knowers, possessor of manifest miracles and splendid states and truthful breaths. May God sanctify his secret. He said: I was in seclusion, turning toward God تعالى, and I saw a luminous form, and it was in the form of the head of the eye, and in its interior for His majesty, and from it had branched forth every name in which is the letter of the eye for the name of beauty. So when I established this form in this sheet and said in my secret: it is possible that I extract from it the ninety-nine names by branching, and I began in that, and these are nineteen of what had already emerged from the majesty, and the majesty from which the names were extracted, completion of the twentieth. And it has great benefits, of noble شأن, عظيمة proof. If the human wayfarer desires realization through them, he will witness wondrous secrets and strange effects, and the sciences of the upper and lower are not asked, and God تعالى is not asked for anything except that He gives it to him. He said: And whoever has a worldly necessity, let him pray two rak'ahs in the middle of the night; then when he has finished his prayer, let him mention these names: O God, O Swift, O Hearing, the Most High, the Magnificent, the Transcendent, the Resurrector, the Originator, the Lifter, the Just, the Mighty, the Exalted, the Doer, the Knowing, the Honorer, the Pardoner, the All-Encompassing, the Gatherer, the Beauty * (1730) times with humility and submissiveness and gathering of good state in a place devoid of sounds, and less than it 17 times, while facing the qiblah; then he asks God تعالى his need, for God makes it easy for him and facilitates its means, especially if he is among those who seek from God تعالى the attainment of knowledge from the religious sciences and the luminous secrets, for God تعالى opens for him from His عظیم name a way to his aim, and he sees the wonders of the gnostic meanings and the ربانية knowers which none reach except the foremost among the firmly grounded scholars. * And whoever looks at it every day 15 times while he is mentioning God تعالى upon them, God تعالى will inform him of the secrets of the sciences and the hidden subtleties of their الدقيقة, and will provide him understanding in the sciences of taste and the holy لطائف, and will cause to flow from his heart the لطائف of the lights of the bestowed wisdoms by His favor and His generosity, and his companionship with him after his mention, God تعالى will guard him in all his movements and preserve him from afflictions in all his turnings, and clothe him with the crown of awe and crown him with the crown of majesty. * And whoever places it upon something in residence and travel, he will be guarded from the sudden onsets of events, and if he hangs it upon his right upper arm, God تعالى will preserve him from the evil of his enemies and secure him from their plotting. * And whoever enters with it upon tyrants, he will submit to his word and tremble from his might, and the heart of God from his tyranny before him will be humbled and his soul will turn for him to what is intended, and God تعالى will give him his demands and suffice his evil by the permission of God تعالى, and it is among the great secrets. * Whoever writes this Wafq in a خاتم of glass with musk and saffron and camphor, and one afflicted with a bodily ailment or a psychic ailment drinks from it, it removes it and preserves it, and it gives its bearer strength in his body and his spirit, and clothes him with awe and majesty in the eyes of the onlookers. * And whoever mentions it every day after the dawn prayer 77
+(7 - Shams al-Ma'arif - First)
+
+---
+## Page 104
+
+**Arabic (original):**
+— ٦١ —
+
+مرة، وكانت جملة أوراده أسرعت له الخيرات والزيارات والزيادات ونزلت عليه اللدنيات، ورأى
+البركة في دينه ودنياه، ويشاهد من نفسه أشياء عجيبة وأسراراً غريبة، حتى إنه لا يكاد أن تعود همته
+أن تتعلق بأحد من الخلق، ويلقي الله تعالى محبته في قلوب الناس، فتأمله فهو من السر الأكبر. * قال
+الشيخ: من ذكر هذه الأسماء الجليلة أيضاً وهي: يا الله، يا سميع، يا سريع، يا باعث، يا عدل، يا معين،
+يا فعال، في الساعة الجليلة سبعين ألف مرة بجمع همة وحضور قلب، وهو أن ينظر إلى الشكل بسر
+الجلالة ثم دعا على الظالم أخذه وقته. * ومن ظلمه جبار من الجبابرة أو قهره فليذكر هذه الأسماء
+أول ساعة من يوم السبت، وأول ساعة من يوم الأحد، وثاني ساعة من يوم الاثنين، وأول ساعة من يوم
+الثلاثاء، وثالث ساعة من ليلة الاثنين، ورابع ساعة من ليلة الثلاثاء، وأول ساعة من ليلة الأربعاء، وخامس
+ساعة من ليلة الخميس، ورابع ساعة من ليلة الجمعة، فإنه يحول الله ويؤخذ الظالم قبل تمام الأسبوع،
+وتفعل ذلك في كل ساعة من هذه الساعات يكلها ترى العجب العجاب، ولتقبض العنان،
+فللحيطان آذان، والله الموفق المنان. (وهذه صورة الشكل)
+
+[صورة الشكل]
+
+ولنرجع إلى ما نحن بصدده. * اعلم أن هذا الوفق الشريف الآتي ذكره يتصرف في كثير من
+الخواص، وقد اختصرنا شرحه لئلا يقع في يد جاهل، وهذه صفته كما يرى، وفقني الله وإياك لفهمه.
+
+اعلم
+
+**English:**
+— 61 —
+
+once, and the totality of his litanies hastened for him the good things and the visits and the increases, and the laduniyyat descended upon him, and he saw
+blessing in his religion and his world, and he witnesses from himself wondrous things and strange secrets, so that his aspiration scarcely returns
+to attach itself to anyone among creation, and God تعالى casts his love into the hearts of people, so contemplate it, for it is from the greatest secret. * The
+shaykh said: whoever also mentions these noble names, namely: O God, O Hearing, O Swift, O Resurrector, O Just, O Helper,
+O Doer, in the noble hour seventy thousand times with gathering of aspiration and presence of heart, and it is that he looks at the form with the secret
+of majesty, then he supplicates against the wrongdoer; he takes him in his time. * And whoever is wronged by a tyrant among tyrants or is subdued by him, let him mention these names
+in the first hour of Saturday, and the first hour of Sunday, and the second hour of Monday, and the first hour of
+Tuesday, and the third hour of Monday night, and the fourth hour of Tuesday night, and the first hour of Wednesday night, and the fifth
+hour of Thursday night, and the fourth hour of Friday night, for God will turn it and the wrongdoer will be taken before the completion of the week,
+and do that in every hour of these hours, all of them, you will see the wondrous wonder, and let the rein be seized,
+for the walls have ears, and God is the granting, the Bestower. (And this is the image of the form)
+
+[image of the form]
+
+And let us return to what we are engaged in. * Know that this noble Wafq, the mention of which follows, acts in many of
+the properties, and we have abbreviated its explanation lest it fall into the hand of an ignorant one, and this is its description as is seen, may God grant me and you success in understanding it.
+
+Know
+
+---
+## Page 105
+
+**Arabic (original):**
+- ٩٩ -
+
+وقدمنا الى ما عملوا من عمل فجعلناه هباء منثورا
+[في أعلى المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المر
+
+**English:**
+- 99 -
+
+And We advanced to what they did of deed, and We made it scattered dust
+[Grid content preserved as-is]
+[في أعلى المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[في المربع]
+[...truncated...]
+
+---
+## Page 106
+
+**Arabic (original):**
+— ١٠٠ —
+
+المشفقة على أهلها ودعوتك الصادقة فيهم وأخذك الحق منهم وقيام الخلق كلهم من مخافتك وشدة
+سلطانك ينتظرون قضاءك ويخافون عذابك أسألك أن تجعل النور في بصري والإخلاص
+في عملي والشكر في قلبي وذكرك في لساني بالليل والنهار ﴿ يا بقيتي يا الله يارب العالمين ﴾
+ولاحول ولاقوة الا بالله العلي العظيم وصلى الله على سيدنا محمد وآله وصحبه وسلم تسليما كثيرا آمين
+﴿ فصل نذكر فيه الخمس آيات الشريفات ﴾ وقيل ان فيها اسم الله العظيم الأعظم وفي كل آية
+عشر قافات ولها شرح لطيف وذلك أن ملكا من الملوك كان له وزير وكان الملك يبغضه ولما زاد به
+الأمر أمر السياف وقال له اذا أتى الوزير وأعطيتك الإشارة فاضرب عنقه وكان كل يوم اذا أقبل
+الوزير على الملك ووقع نظره عليه يبدل الله تعالى تلك البغضة بمحبته ويأمر السياف بالانصراف
+ولم يزل الملك على تلك الحالة مدة طويلة الى يوم من الأيام ركب الملك والوزير معه فلما كان في
+بعض الطرق ذل الملك من الوزير ووضعه على كتفه وقال أريد أن أسألك عن شيء فلا تخف مني
+شيئا فقال الوزير يا أصل عماد الملك فإني أصدقك فيما سألتني عنه فقال الملك اعلم أيها الوزير أنه لا يوم
+يمضي الا وأضمر لك الهلاك والقتل فحين تقبل علي وأنظرك تتبدل البغضة محبة فأخبرني ما موجب
+ذلك وقل لي الحق فإني قد عفوت عنك ولم يبق لك في باطني شيء من البغضة فهل لك شيء من الأوراد
+والأدعية تدعوه بها فأخبرني بأمرك قال الوزير أيها الملك انه كان فقيه له هو الذي علمني القرآن
+فقال يوما أريد أن أتحفك بتحفة فاحترس عليها وصنها ولازم على قراءتها ليلا ونهارا فإنك تأمن
+من سائر الأعداء ومن يريد لك السوء وهي خمس آيات من القرآن قد جمع في كل آية عشر قافات
+وإن من واظب على قراءتها قبل طلوع الشمس وقبل الغروب كان ملطوفا به وإذا قرأها سلطان
+أو حاكم زاد الله في ملكه وحببه الى حاشيته ورعيته وإن داوم عليها صاحب منصب أبقى الله
+عليه منصبه وإن قرأها صاحب حاجة وسأل الله بعد قراءتها فإن الله تعالى يقضي حاجته ومن
+واظب على قراءتها كان محبوبا عند سائر الناس مهابا عندهم فلما سمع الملك ذلك من الوزير
+تعجب وأحسن اليه وتعلم الآيات منه ﴿ وهذه الآيات الخمسة الأولى قول بسم الله الرحمن الرحيم
+ألم تر الى الملأ من بني إسرائيل من بعد موسى اذ قالوا لنبي لهم ابعث لنا ملكا نقاتل في سبيل الله قال
+هل عسيتم ان كتب عليكم القتال ألا تقاتلوا قالوا ومالنا أن لا نقاتل في سبيل الله وقد أخرجنا من
+ديارنا وأبنائنا فلما كتب عليهم القتال تولوا الا قليلا منهم والله عليم بالظالمين ﴾ ﴿ الآية الثانية لقد
+سمع الله قول الذين قالوا ان الله فقير ونحن أغنياء سنكتب ما قالوا وقتلهم الأنبياء بغير حق ونقول
+ذوقوا عذاب الحريق ﴾ ﴿ الآية الثالثة ألم تر الى الذين قيل لهم كفوا أيديكم وأقيموا الصلاة وآتوا
+الزكاة فلما كتب عليهم القتال اذا فريق منهم يخشون الناس كخشية الله أو أشد خشية وقالوا ربنا
+لم كتبت علينا القتال لولا أخرتنا الى أجل قريب قل متاع الدنيا قليل والآخرة خير لمن اتقى ولا
+تظلمون فتيلا ﴾ ﴿ الآية الرابعة واتل عليهم نبأ ابني آدم بالحق اذ قربا قربانا فتقبل من أحدهما ولم
+يتقبل من الآخر قال لأقتلنك قال انما يتقبل الله من المتقين ﴾ ﴿ الآية الخامسة قل من رب السموات
+والأرض قل الله أفاتخذتم من دونه أولياء لا يملكون لأنفسهم نفعا ولا ضرا قل هل يستوي
+الأعمى
+
+**English:**
+— 100 —
+
+the compassionate toward its people, and Your truthful calling among them, and Your taking the right from them, and the standing of all creation from fear of You and the شدت
+of Your سلطان, awaiting Your decree and fearing Your punishment, I ask You to make the light in my sight and sincerity
+in my deed and gratitude in my heart and Your remembrance on my tongue by night and day ﴿ O my remnant, O Allah, Lord of the worlds ﴾
+And there is no power and no strength except by Allah, the High, the Great, and may Allah bless our master Muhammad and his family and his Companions and grant peace, abundant peace, amen
+﴿ Chapter: we mention in it the five noble verses ﴾ And it was said that in them is the name of Allah, the Great, the Greatest, and in every verse
+ten Qafas, and it has a لطيف explanation, and that is that a king among the kings had a minister, and the king hated him, and when the matter increased with him
+he ordered the executioner and said to him: when the minister comes and I give you the signal, strike his neck; and every day when
+the minister came to the king and his gaze fell upon him, Allah تعالى would change that hatred into love for him, and he would order the executioner to withdraw
+And the king remained in that state for a long time until one day the king rode, and the minister with him. Then when they were in
+some roads, the king humbled himself to the minister and placed him on his shoulder and said, “I want to ask you about a thing, so fear nothing
+from me.” So the minister said, “O root of the pillar of the kingdom, for I shall tell you the truth in what you have asked me about.” The king said, “Know, O minister, that not a day
+passes except that I intend for you destruction and killing; then when you come toward me and I look at you, hatred turns into love. So inform me what is the cause
+of that, and tell me the truth, for I have pardoned you and there remains in my inward nothing of hatred. So do you have anything of the wirds
+and supplications by which you invoke it? So inform me of your affair.” The minister said, “O king, there was a faqih for him, he who taught me the Qur’an.
+He said one day, ‘I want to present you with a gift, so beware of it and guard it, and persist in its recitation by night and day, for you will be safe
+from all enemies and from whoever desires evil for you.’ And they are five verses from the Qur’an, in every verse of which ten Qafas have been gathered.
+And whoever persists in reciting them before sunrise and before sunset will be لطفed with; and if a sultan
+or ruler recites them, Allah increases his kingdom and makes him beloved to his entourage and his subjects; and if a man of office persists upon them, Allah preserves
+for him his office; and if a man of need recites them and asks Allah after reciting them, then Allah تعالى fulfills his need; and whoever
+persists in reciting them is beloved among all people, feared among them.” So when the king heard that from the minister,
+he wondered and treated him well and learned the verses from him. ﴿ And these are the first five verses: the saying of Bismillah al-Rahman al-Rahim:
+Have you not seen the assembly from the Children of Israel after Moses, when they said to a prophet of theirs, “Send to us a king, that we may fight in the way of Allah”? He said:
+“Would you perhaps, if fighting were prescribed for you, not fight?” They said, “And what is it that we should not fight in the way of Allah, while we have been driven out from
+our homes and our sons?” Then when fighting was prescribed for them, they turned away, except a few of them; and Allah is Knowing of the wrongdoers ﴾ ﴿ the second verse: indeed
+Allah has heard the saying of those who said, “Allah is poor and we are rich.” We shall write what they said and their killing of the prophets without right, and We shall say:
+“Taste the punishment of the burning fire” ﴾ ﴿ the third verse: Have you not seen those who were told, “Restrain your hands and establish the prayer and give
+the zakat”? Then when fighting was prescribed for them, behold, a party of them fear the people as the fear of Allah, or with greater fear, and they said, “Our Lord,
+why have You prescribed fighting for us? If only You had delayed us to a near term.” Say, “The enjoyment of this world is little, and the Hereafter is better for whoever is wary, and you
+shall not be wronged a speck” ﴾ ﴿ the fourth verse: And recite to them the tidings of the two sons of Adam in truth, when they both offered a sacrifice, and it was accepted from one of them and not
+accepted from the other. He said, “I shall surely kill you.” He said, “Allah only accepts from the Godfearing” ﴾ ﴿ the fifth verse: Say, “Who is the Lord of the heavens
+and the earth?” Say, “Allah.” Have you then taken besides Him allies who do not possess for themselves benefit nor harm? Say, “Are the blind equal
+the blind
+
+---
+## Page 107
+
+**Arabic (original):**
+— ١٠١ —
+الأعمى والبصير أم هل تستوي الظلمات والنور أم جعلوا لله شركاء خلقوا كخلقه فتشابه الخلق
+عليهم قل الله خالق كل شيء وهو الواحد القهار
+(فصل) ومما قيل في اسم الله الأعظم من أراد ذلك فليقرأ من أول سورة الحديد إلى قوله تعالى
+الصدور وآخر سورة الحشر لو أنزلنا هذا القرآن على جبل إلى آخر السورة ثم تقول اللهم يا من هو
+كذا ولا يكون أحد كذا سواه أن تفعل بي ما هو كذا وكذا * قال بعضهم إذا دعا بها على ميت
+بلية صادقة وقلب حاضر له شأن إذن الله * وذكر أنها مروية عن النبي عليه السلام بأن يقال في الدعاء
+بعد قراءة الآيات المذكورة اللهم إني أسألك باسمك المخزون المكنون الطاهر المقدس الحي
+القيوم الرحمن الرحيم ذي الجلال والإكرام أن تصلي وتسلم على سيدنا محمد وأن تفعل بي ما هو كذا
+وكذا برحمتك يا أرحم الراحمين * ومما يقال في وجه العدو تعززت برب العزة والجبروت
+وتوكلت على الحي الذي لا يموت شاهت الوجوه وعميت الأبصار وتوكلت على الله الواحد
+القهار ولا حول ولا قوة إلا بالله العلي العظيم وتنفث ثلاث نفثات في وجهه على بعد وتقدم عليه
+فإنه لا يتكلم إلا بما تحب * ووجدت بخط الفقيه سلمان العلوي روى أن سعيد بن المسيب
+اجتمع برجل من مؤمني الجن ممن آمن بالنبي صلى الله عليه وسلم فقال له هل أكسيك حجابا
+ما علق على أحد وطرقه طارق سوء ولا علق على دابة فأصابها مغل ولا دخل به على سلطان
+فأصابه شر ولا قرئ في سفينة وغرقت ومن صحبه في السفر والحجاب معه لم يصبه شر أبدا
+فقال ومن لي بذلك فقال هات الدواة والقرطاس واكتب هذه الأسماء بسم الله الرحمن الرحيم
+كل ذي ملك فملوك الله وكل ذي قوة فضعيف عند الله وكل جبار فصغير عند الله وكل ظالم لا محيص
+له من الله حصنت حامل كتابي هذا بأحديته من الإنس والجن والشياطين والعفاريت المتمردين
+خاتم سلمان بن داود على أفواههم وعصى موسى على أكتافهم وخيرهم بين أعينهم وشرهم بين
+أرجلهم ولا غالب إلا الله وحكم حامل كتابي هذا في حرز الله المانع الذي لا يذل من اعتز به ولا
+ينكشف من استتر به سبحان من ألجم البحر بكلماته سبحان من أطفأ نار إبراهيم بقدرته وحكمه
+سبحان من تواضع له كل شيء أقبل ولا تخف إنك من الآمنين لا تخف دركا ولا تخشى لا تخف إنك
+أنت الأعلى لا تخافا إني معكما أسمع وأرى * اللهم احفظ حامل كتابي هذا واستر بسترك الوافي
+الحصين في ليله ونهاره وظعنه وقراره الذي تستر به أولياءك المتقين من أعدائك الظالمين الكافرين
+اللهم من عاداه فعاده ومن كاده فكده ومن مد يده له فخافضه واطفئ عنه نار من أراد به عداوة
+وشرا وفرج عنه كل كربة وضيق ولا تحمله ما لا يطيق إنك أنت الحق الحقيق وصلى
+الله على سيدنا محمد وعلى آله وصحبه وسلم * قال الشعبي إن لله في كل كتاب سرا ومره في الأنعام ٣ وفي
+فواتح السور وقيل اسم الله الأعظم في البقرة آيتان وفي آل عمران واحدة وفي الأنعام ٣ وفي
+الأعراف ٢ وفي الأنفال ٢ وفي الرعد آية وفي مريم آية وفي طه ٤ وفي المؤمنون آية وفي
+الفيل آية وفي الروم آية وفي السجدة آية وفي يس ٢ وفي غافر ٣ وفي الجاثية ١ وفي الرحمن ٢
+وفي الحشر ٣ وفي الملك آية وفي الإخلاص ٢ قال شرح رأيت في النوم قائلا يقول امض إلى
+
+**English:**
+— 101 —
+the blind and the seeing equal, or are the darknesses and the light equal, or have they made for Allah partners who created like His creation, so the creation became similar
+to them? Say: Allah is the Creator of everything, and He is the One, the Subduer.
+(Chapter) And among what was said concerning the Greatest Name of Allah: whoever desires that, let him recite from the beginning of Surat al-Hadid to His saying تعالى
+the breasts, and the end of Surat al-Hashr: “If We had sent down this Qur’an upon a mountain” to the end of the surah, then you say: O Allah, O You who are
+such-and-such, and there is none such-and-such except You, that You do for me what is such-and-such and such-and-such. * Some of them said: if it is invoked by it upon a dead person
+with a true affliction and a present heart, it has a شأن, by Allah’s permission. * And it was mentioned that it is narrated from the Prophet, peace be upon him, that it is said in the supplication
+after reciting the mentioned verses: O Allah, I ask You by Your stored, hidden, pure, sanctified, living
+Self-subsisting, the Merciful, the Compassionate, Possessor of Majesty and Honor, that You bless and grant peace upon our master Muhammad and that You do for me what is such-and-such
+and such-and-such, by Your mercy, O Most Merciful of the merciful. * And among what is said in the face of the enemy: I have become mighty by the Lord of might and dominion
+and I have relied upon the Living who does not die; the faces are made ugly and the eyes are blinded, and I have relied upon Allah, the One,
+the Subduer, and there is no power and no strength except by Allah, the High, the Great. And you blow three breaths in his face from a distance and advance upon him,
+for he will not speak except with what you love. * And I found in the handwriting of the faqih Salman al-‘Alawi: it was narrated that Sa‘id ibn al-Musayyib
+met with a man from the believers among the jinn, among those who believed in the Prophet, may Allah bless him and grant him peace, and he said to him: “Shall I clothe you with a hijab
+that nothing has been hung upon except that an evil visitor visited it, nor hung upon a beast except that a disease afflicted it, nor entered with it upon a sultan
+except that evil befell him, nor was it recited in a ship except that it sank, and whoever accompanied it in travel while the hijab was with him, no evil would ever befall him?”
+So he said, “And who is there for me with that?” He said, “Bring the inkpot and the paper and write these names: Bismillah al-Rahman al-Rahim:
+Every possessor of dominion, then the dominions are Allah’s; and every possessor of power, then weak before Allah; and every tyrant, then small before Allah; and every wrongdoer, there is no escape
+for him from Allah. I have fortified the bearer of this my book by His oneness from mankind and jinn and devils and rebellious ifrits.
+The seal of Solomon son of David upon their mouths, and the staff of Moses upon their shoulders, and their good between their eyes and their evil between
+their legs, and there is no victor except Allah. And the ruling of the bearer of this my book is in the protection of Allah, the Preventer, who does not abase one who seeks might through Him, nor
+is uncovered one who hides by Him. Glory be to Him who muzzled the sea with His words; glory be to Him who extinguished the fire of Abraham by His power and His ruling;
+glory be to Him before whom everything humbled itself. Come forward and do not fear; indeed you are among the secure. Do not fear pursuit, nor be afraid; do not fear, indeed you
+are the uppermost. Do not fear, I am with you both, I hear and I see. * O Allah, preserve the bearer of this my book and conceal him with Your sufficient
+fortified concealment in his night and his day, and his departure and his settling, with which You conceal Your righteous allies from Your الظالمين الكافرين enemies.
+O Allah, whoever is hostile to him, then be hostile to him; and whoever plots against him, then plot against him; and whoever extends his hand to him, then abase him; and extinguish from him the fire of whoever desires enmity
+and evil for him, and relieve from him every distress and constriction, and do not burden him with what he cannot bear. Indeed, You are the true Truth. And may Allah bless
+our master Muhammad and upon his family and his Companions and grant peace. * Al-Sha‘bi said: Indeed for Allah in every book is a secret, and it is mentioned in al-An‘am 3 and in
+the openings of the surahs. And it was said: the Greatest Name of Allah is in al-Baqarah, two verses; and in آل عمران, one; and in al-An‘am, 3; and in
+al-A‘raf, 2; and in al-Anfal, 2; and in al-Ra‘d, a verse; and in Maryam, a verse; and in Ta Ha, 4; and in al-Mu’minun, a verse; and in
+al-Fil, a verse; and in al-Rum, a verse; and in al-Sajdah, a verse; and in Ya Sin, 2; and in Ghafir, 3; and in al-Jathiyah, 1; and in al-Rahman, 2;
+and in al-Hashr, 3; and in al-Mulk, a verse; and in al-Ikhlas, 2. He said: Sharh, I saw in a dream one saying, “Go to”
+
+---
+_End of translation — 107 pages._
