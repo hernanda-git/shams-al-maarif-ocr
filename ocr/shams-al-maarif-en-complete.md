@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 119 translated pages._
+_Auto-generated from 125 translated pages._
 
 ---
 ## Page 1
@@ -6877,4 +6877,273 @@ replaces it, and He is the best of providers. And Allah would not be unable by a
 ( 8 - Shams al-Ma‘arif - first )
 
 ---
-_End of translation — 119 pages._
+## Page 120
+
+**Arabic (original):**
+إِنَّ هَذَا لَرِزْقُنَا مَا لَهُ مِنْ نَفَادٍ هَذَا عَطَاؤُنَا فَامْنُنْ أَوْ أَمْسِكْ بِغَيْرِ حِسَابٍ مَا عِنْدَكُمْ يَنْفَدُ وَمَا عِنْدَ اللَّهِ
+بَاقٍ اللَّهُ الَّذِي خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا وَيَرْزُقْهُ مِنْ حَيْثُ
+لَا يَحْتَسِبُ وَاللَّهُ يَرْزُقُ مَنْ يَشَاءُ بِغَيْرِ حِسَابٍ ﴿فَائِدَةٌ فَعَسَى اللَّهُ أَنْ يَأْتِيَ بِالْفَتْحِ﴾ آيَةٌ مُبَارَكَةٌ فِي آيَاتِ
+الْفَتْحِ لِجَلْبِ الرِّزْقِ تُحْمَلُ وَتُقْرَأُ ﴿وَهِيَ هَذِهِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ فَعَسَى اللَّهُ أَنْ يَأْتِيَ بِالْفَتْحِ
+أَوْ أَمْرٍ مِنْ عِنْدِهِ وَعِنْدَهُ مَفَاتِحُ الْغَيْبِ لَا يَعْلَمُهَا إِلَّا هُوَ وَيَعْلَمُ مَا فِي الْبَرِّ وَالْبَحْرِ وَمَا تَسْقُطُ مِنْ وَرَقَةٍ إِلَّا
+يَعْلَمُهَا الْآيَةَ رَبَّنَا افْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِالْحَقِّ وَأَنْتَ خَيْرُ الْفَاتِحِينَ وَلَوْ أَنَّ أَهْلَ الْقُرَى آمَنُوا وَاتَّقَوْا
+لَفَتَحْنَا عَلَيْهِمْ بَرَكَاتٍ مِنَ السَّمَاءِ وَالْأَرْضِ إِنْ تَسْتَفْتِحُوا فَقَدْ جَاءَكُمُ الْفَتْحُ وَلَمَّا فَتَحُوا مَتَاعَهُمْ وَجَدُوا
+بِضَاعَتَهُمْ رُدَّتْ إِلَيْهِمْ وَاسْتَفْتَحُوا وَخَابَ كُلُّ جَبَّارٍ عَنِيدٍ وَلَوْ فَتَحْنَا عَلَيْهِمْ بَابًا مِنَ السَّمَاءِ فَظَلُّوا فِيهِ يَعْرُجُونَ
+رَبِّ إِنَّ قَوْمِي كَذَّبُونِ فَافْتَحْ بَيْنِي وَبَيْنَهُمْ فَتْحًا وَنَجِّنِي وَمَنْ مَعِيَ مِنَ الْمُؤْمِنِينَ مَا يَفْتَحِ اللَّهُ لِلنَّاسِ مِنْ رَحْمَةٍ
+الْآيَةَ حَتَّى إِذَا جَاءُوهَا وَفُتِحَتْ أَبْوَابُهَا إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا وَأَثَابَهُمْ فَتْحًا قَرِيبًا وَمَغَانِمَ كَثِيرَةً
+يَأْخُذُونَهَا فَفَتَحْنَا أَبْوَابَ السَّمَاءِ بِمَاءٍ مُنْهَمِرٍ نَصْرٌ مِنَ اللَّهِ وَفَتْحٌ قَرِيبٌ وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا
+إِذَا جَاءَ نَصْرُ اللَّهِ إِلَخِ السُّورَةِ يَا فَتَّاحُ يَا رَزَّاقُ يَا اللَّهُ رَبَّ الْعَالَمِينَ وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ
+﴿الْفَصْلُ الرَّابِعَ عَشَرَ فِي الْأَذْكَارِ وَالدَّعَوَاتِ الْمُسَخَّرَاتِ﴾
+﴿ اعْلَمْ وَفَّقَنِي اللَّهُ وَإِيَّاكَ أَنَّ لِكُلِّ اسْمٍ مِنْ أَسْمَاءِ اللَّهِ خَوَاصَّ مُتَعَلِّقَةً بِهِ وَهُوَ مَا نَبَّهَ عَلَيْهِ الشَّيْخُ عَبْدُ الرَّحْمَنِ
+السُّلَمِيُّ بِقَوْلِهِ وَمَا خُصَّ بِهِ أَوْلِيَاءُ اللَّهِ إِذَا أَرَادَ الْوَلِيُّ حَاجَةً مِنْ رَبِّهِ فَإِنَّهُ الَّذِي بِيَدِهِ مَلَكُوتُ
+كُلِّ شَيْءٍ فَلْيَغْتَسِلْ عَشِيَّةَ يَوْمِ الْخَمِيسِ وَهِيَ لَيْلَةُ الْجُمُعَةِ وَيَقْعُدْ مُعْتَكِفًا فِي مُصَلَّاهُ حَتَّى يُصَلَّى الْمَغْرِبُ
+وَيَمْكُثْ ذَاكِرًا آيَةَ الْكُرْسِيِّ حَتَّى يُصَلَّى الْعِشَاءُ الْآخِرَةُ وَيُصَلِّيَ مَا يَقْدِرُ عَلَيْهِ بَعْدَ ذَلِكَ مِنَ النَّوَافِلِ
+فَإِذَا كَانَ آخِرُ سَجْدَةِ الْوِتْرِ يَقُولُ مِائَةَ مَرَّةٍ يَا اللَّهُ يَارَبُّ يَارَحْمَنُ يَارَحِيمُ يَاحَيُّ يَاقَيُّومُ بِكَ أَسْتَغِيثُ ثُمَّ
+يَسْأَلُ حَاجَتَهُ تُقْضَى ﴿ وَقَدْ رُوِيَ عَنِ النَّبِيِّ عَلَيْهِ السَّلَامُ أَنَّهُ قَالَ إِنَّ اللَّهَ خَلَقَ دُرَّةً بَيْضَاءَ وَخَلَقَ فِيهَا
+الْغَيْبَ الْأَشْهَبَ آيَةَ الْكُرْسِيِّ وَأَقْسَمَ بِعِزَّتِهِ وَجَلَالِهِ مَنْ قَرَأَهَا خَلْفَ كُلِّ صَلَاةٍ مُحِيَتْ لَهُ وَقُضِيَتْ حَاجَتُهُ وَغُفِرَتْ ذُنُوبُهُ
+وَذَهَبَتْ شَيَاطِينُهُ وَوُكِّلَ بِهِ مَلَائِكَةٌ يَحْرُسُونَهُ مِنْ كُلِّ دَاءٍ وَعَاهَةٍ وَجِنٍّ وَإِنْسٍ وَمِنْ كُلِّ مَا يَخَافُ
+وَيَحْذَرُ وَقَدْ وُضِعَتْ آيَةُ الْكُرْسِيِّ الشَّرِيفَةُ فِي وَفْقِ ٨ فِي ٨ الَّتِي هِيَ حَقَائِقُ أَبْوَابِ الْجَنَّةِ وَحَقَائِقُ
+حَمَلَةِ الْعَرْشِ وَنَظَرْتُ مَاذَا يُوَافِقُكَ مِنْ أَوْقَاتِ الْكَوَاكِبِ فَإِذَا هُوَ الْمُشْتَرَى وَهُوَ السَّعْدُ الْأَكْبَرُ فَقَامَتِ
+النِّسْبَةُ الْإِلَهِيَّةُ وَاتَّصَلَتِ الْقُوَى الْعُلْوِيَّةُ وَالْقُوَى السُّفْلِيَّةُ وَقَوَّى بَعْضُهَا عَلَى بَعْضٍ فَكَثُرَتِ الْقُوَى
+مِنْ كُلِّ الْجِهَاتِ ﴿ فَمَنْ وَضَعَهُ فِي السَّاعَةِ الْأُولَى مِنْ يَوْمِ الْخَمِيسِ وَالْقَمَرُ مُتَّصِلٌ بِالْمُشْتَرَى اتِّصَالَ شُعَاعِ
+مَوَدَّةٍ فِي لَوْحٍ مِنْ فِضَّةٍ خَالِصَةٍ وَهُوَ طَاهِرُ الْبَدَنِ وَالثَّوْبِ وَذَلِكَ بِصَوْمٍ وَصَلَاةٍ وَجَمْعِ هِمَّةٍ وَصَفَاءِ بَاطِنٍ
+فِي مَوْضِعٍ خَالٍ مِنَ الْأَصْوَاتِ ثُمَّ بَخِّرْهُ بِالْأَشْيَاءِ الْأَرِجَةِ كَالْعُودِ وَالْعَنْبَرِ فَإِنَّهُ يَرَى مِنْ خَفِيِّ لُطْفِ اللَّهِ تَعَالَى
+مَا تَعْجَزُ الْعُقُولُ عَنْ وَصْفِهِ وَهَذِهِ صِفَةُ الْوَفْقِ
+
+سلي
+
+**English:**
+Indeed this is Our provision; there is no depletion for it. This is Our gift, so bestow or withhold without reckoning. What is with you is exhausted, and what is with Allah
+abiding. Allah, who created you, then provided for you, then causes you to die, then gives you life. And whoever fears Allah, He will make for him a way out
+and provide for him from where he does not reckon. And Allah provides for whom He wills without reckoning. [Benefit: So perhaps Allah will bring the فتح] a blessed verse in the verses of
+the فتح for bringing provision; it is carried and recited. [And it is this: In the name of Allah, the Merciful, the Compassionate. So perhaps Allah will bring the فتح
+or an امر from His presence, and with Him are the keys of the unseen; none knows them except He. And He knows what is in the land and the sea, and no leaf falls except
+He knows it. The verse: Our Lord, open between us and between our people with truth, and You are the best of openers. And if the people of the towns had believed and feared
+We would have opened upon them blessings from the heaven and the earth. If you seek فتح, then the فتح has come to you. And when they opened their goods, they found
+their merchandise returned to them, and they sought فتح, and every stubborn tyrant failed. And if We had opened upon them a gate from the heaven, and they would keep ascending therein
+My Lord, indeed my people have denied me, so open between me and them with an opening, and save me and whoever is with me among the believers. Whatever Allah opens for people of mercy
+the verse until, when they came to it and its gates were opened. Indeed We have opened for you a clear فتح, and He rewarded them with a near فتح and many spoils
+which they take. So We opened the gates of the heaven with pouring water. A victory from Allah and a near فتح, and the heaven was opened, so it became gates
+When the victory of Allah comes, to the end of the surah. O Opener, O Provider, O Allah, Lord of the worlds. And may Allah bless our master Muhammad and his family and his companions and grant peace.
+[The Fourteenth Chapter on the subjugating remembrances and supplications]
+[Know—may Allah grant me and you success—that for every name among the names of Allah there are properties connected to it, and that is what Shaykh Abd al-Rahman
+al-Sulami pointed out by his saying, and what the friends of Allah were singled out with. If the friend desires a need from his Lord, for He is the One in whose hand is the dominion
+of everything, then let him bathe on the evening of Thursday, and it is the night of Friday, and let him sit in retreat in his prayer-place until the Maghrib is prayed
+and let him remain remembering the Verse of the Throne until the final Isha is prayed, and let him pray as much as he is able after that of the supererogatory prayers
+Then, when it is the last prostration of the Witr, he says one hundred times: O Allah, O Lord, O Merciful, O Compassionate, O Living, O Self-Subsisting, by You I seek help. Then
+he asks for his need; it is fulfilled. And it has been narrated from the Prophet, peace be upon him, that he said: Indeed Allah created a white pearl and created in it
+the gray unseen, the Verse of the Throne, and He swore by His might and His majesty: whoever recites it behind every prayer, it is erased for him and his need is fulfilled and his sins are forgiven
+and his devils depart, and angels are appointed over him guarding him from every disease and affliction and jinn and human and from everything he fears
+and guards. And the noble Verse of the Throne has been placed in a Wafq of 8 by 8, which are the realities of the gates of Paradise and the realities of
+the bearers of the Throne. And I looked at what of the times of the planets would accord with you, and behold, it was Jupiter, and it is the greater سعد, so the
+divine relation was established and the upper powers and the lower powers became connected, and some of them strengthened some others, so the powers became abundant
+from all directions. Whoever places it in the first hour of Thursday, and the moon is connected with Jupiter, the connection of a ray of
+affection, on a tablet of pure silver, and he is pure of body and garment, and that by fasting and prayer and gathering of resolve and purity of inward state
+in a place free of sounds, then fumigate it with fragrant things such as oud and ambergris, then he will see from the hidden gentleness of Allah تعالى
+what minds are unable to describe. And this is the description of the Wafq
+
+Suli
+
+---
+## Page 121
+
+**Arabic (original):**
+— ١١٥ —
+
+يا عليم يا عليم يا عليم يا عليم يا عليم
+يا عليم يا عليم يا عليم يا عليم يا عليم
+يا عليم يا عليم يا عليم يا عليم يا عليم
+يا عليم يا عليم يا عليم يا عليم يا عليم
+يا عليم يا عليم يا عليم يا عليم يا عليم
+
+اعلم أن هذا الشكل الكافي والرسم الوافي يدل على الأمراء والملوك والرؤساء، وتعطى حامله ما في قوته من العز والهيبة والسعادة والعلو والرفعة والسيادة، وبه تنزل البركات وترفع العاهات وتقضى الحاجات، وفيه أسرار لأهل البدايات وأنوار لأصحاب النهايات، وهو يدل على الدين والصدق والآداب والتوفيق والقوة والصيانة والنصر والغلبة والطاعة والعطف والمحبة والحفظ والكفاية والأمن به والسلامة والكلادة والتمليك على الأمصار في الجهات والأقطار، والملك والسلطنة والوزارة والرزق والسعة والإمارة والبسط والسرور والفهم والغبطة والزيادة في المال والجاه والولد والأهل والحياة الطيبة وحسن الحال وحفظ الخدام والأولاد من الضرر والفساد، والاطلاع على لطائف العلوم ودقائق الفهوم والنطق بالغرائب والحكمة والتكلم بالحقائق والمعرفة؛ لأن طبعه الزيادة في المال والجاه والأهل والولد ودفع الأسقام والأوجاع والآلام، ومن كتبه في لوح من رصاص والقمر في الشعاع بعد تلاوة العزيمة ١٢٨٩ مرة أعمى الله عنه بصر كل جبار عنيد.
+
+**English:**
+— 115 —
+
+O Knowing, O Knowing, O Knowing, O Knowing, O Knowing
+O Knowing, O Knowing, O Knowing, O Knowing, O Knowing
+O Knowing, O Knowing, O Knowing, O Knowing, O Knowing
+O Knowing, O Knowing, O Knowing, O Knowing, O Knowing
+O Knowing, O Knowing, O Knowing, O Knowing, O Knowing
+
+Know that this sufficient form and complete design indicate the princes, kings, and chiefs, and there is given to its bearer what is in its power of might, awe, happiness, loftiness, elevation, and sovereignty, and by it blessings descend and afflictions are lifted and needs are fulfilled, and in it are secrets for the people of beginnings and lights for the people of endings, and it indicates religion, truthfulness, manners, success, strength, preservation, victory, predominance, obedience, kindness, love, protection, sufficiency, security, and safety, and the collar and the granting of possession over the cities in the directions and the regions, and kingship and sultanate and ministry and provision and abundance and emirate and expansion and joy and understanding and gladness and increase in wealth and rank and offspring and family and good life and good state and preservation of servants and children from harm and فساد, and insight into the subtleties of the sciences and the niceties of understandings and utterance of marvels and wisdom and speaking with realities and knowledge; because its nature is increase in wealth and rank and family and offspring and دفع of ailments and pains and aches, and whoever writes it on a tablet of lead and the moon is in the ray after reciting the invocation 1289 times, Allah blinds from him the sight of every stubborn tyrant.
+
+---
+## Page 122
+
+**Arabic (original):**
+— ١١٦ —
+
+وشيطان مريد، وإن كان صاحب حالة صادقة اختفى به عن أعين الناس ۞ ومن وضعه في لوح من
+ذهب أو فضة في شرف المشتري بطالع سعيد محمود وحمله في عنقه ودخل الحرب كان مؤيداً منصوراً
+مهاباً مسروراً، ولا يضره كيد حاسد ولا شر معاند، ويكون مسموع الكلمة مقبول الصورة عند
+الملوك والسلاطين والوزراء والخواتين، وكل من نظر إليه عظمه وهابه وأجله ۞ وينبغي أن يتعاهده
+بالبخور في كل خميس، فإنه لا يحل في مكان إلا كثرت فيه الخيرات وظهرت على أهله البركات، ويدفع
+الله عن ذلك المكان كل بلاء وعاهة وفتنة ومرض ومحنة ۞ وإن شرب منه محموم شفي لوقته
+من ساعته ۞ ومن وضعه في ماء وسقى منه مربوطاً انحل لوقته ۞ وإن شرب منه محموم شفي لوقته،
+وينفع لدفع اللص والسارق والمرجف والطارق والحية والعقرب والسبع وجميع الهوام وكل
+ما يخرج من الأرض وما ينزل من السماء، وهو حجاب عظيم وسر كريم، وبه نجى الله إبراهيم من نار
+النمرود، وبه نجى يونس من بطن الحوت، وبه سخر الوحش والطير والجن والإنس والريح لسليمان
+عليه السلام ۞ وفيه اسم الله الأعظم، وبه نصر الله محمداً صلى الله عليه وسلم على الكفار والمنافقين،
+ومن عرف قدره استغنى به عن كثير من المصنوعات، فإنه من الكمال بغاية لا تصل إليها العبارة
+۞ ومن نقشه وحمله على غير طهارة أصيب إما في ظاهره وإما في باطنه، يفهم ذلك من عادته الفهم عن
+الله، لا يصلح العمل به لمن كان مقهوراً تحت همه وسلطانه، بل يصلح لمن قويت روحه بأنوار المجاهدات
+والرياضات، فافهم ذلك ۞ واعلم أن هذه الآية الشريفة فيها معنى عجيب وسر غريب لحفظ الأموال
+والأولاد والأزواج والأحوال وجلب الرزق والخيرات، إلى الحاوت والمجنون والمصروع والمختل
+والمفزوع يكتب في ورق طهر ويعلق عليه، ويكتب للدخول على الأكابر والأمراء والجبابرة
+يكتب في شرف الشمس في جسم طاهر، ولدفع العدو والسارق عن المكان يكتب ويدفن
+فيه فلا يطرقه طارق بسوء، ويطرد الهوام والحيات والأقارب والآفات من الدار، فتدبره فإنه من
+الأسرار المكنونة والجواهر المصونة ۞ قال بعض المشايخ رضي الله عنه: سكنت في البصرة في بعض
+البيوت، فلما جن علي الليل دخل علي شخص أسود وعيناه كشعل النار وهو يريد أن يدنو مني وله
+دبيب كدبيب التنين فخفت منه ۞ فقلت: الله لا إله إلا هو الحي القيوم، فلما قرأت كلمة قالها معي،
+فلما وصلت إلى قوله تعالى: {ولا يؤده حفظهما وهو العلي العظيم} فلم يقلها فكررتها فذهب، فأويت
+إلى بعض زوايا البيت فنمت فيه إلى الصباح، فرأيت في المكان الذي ذهب فيه آثار حريق رماد
+فتعجبت، فلما أن كان في الليلة الثانية رأيت في المنام هاتفاً يقول: قد أحرقت عفريتاً، فقلت: وبم
+احترق؟ فقال: بقوله تعالى: {ولا يؤده حفظهما وهو العلي العظيم}، فإنك لما رأيته خفت منه فألهمك الله
+قراءة آية الكرسي، وكنت كلما قلت كلمة منها يقولها معك، فلما وصلت إلى قوله تعالى: {ولا يؤده
+حفظهما وهو العلي العظيم} فلم يقلها فكررتها عليه فأحرقته، وهي آية عظيمة كريمة نافعة لكل
+شيء من العوارض والتوابع ۞ ومن قالها عند نومه أمن إلى الصباح ۞ ومن قالها صباحاً أمن
+إلى المساء، ولها خواص عجيبة، وها وفق عظيم وهو هذا كما ترى والله الموفق.
+
+يشفع
+
+**English:**
+— 116 —
+
+and a rebellious devil, and if he is a possessor of a true state, he will be hidden by it from the eyes of people. And whoever places it on a tablet of
+gold or silver in the exaltation of Jupiter with a fortunate, praiseworthy ascendant and carries it on his neck and enters battle, he will be supported, victorious,
+awe-inspiring, joyful, and the plotting of an envier nor the evil of an obstinate one will harm him, and his word will be heard and his form accepted among
+kings, sultans, ministers, and ladies, and everyone who looks at him will magnify him and fear him and revere him. And it should be attended to
+with incense every Thursday, for it does not settle in a place except that good things increase in it and blessings appear upon its people, and Allah repels
+from that place every affliction and ailment and trial and disease and ordeal. And if a feverish person drinks from it, he is cured at once
+from his hour. And whoever places it in water and gives to one bound from it, he will be loosened at once. And if a feverish person drinks from it, he is cured at once,
+and it is beneficial for repelling the thief and robber and the rumor-monger and the night visitor and the serpent and the scorpion and the beast and all vermin and every
+thing that comes out of the earth and what descends from the heaven, and it is a great veil and a noble secret, and by it Allah saved Abraham from the fire of
+Nimrod, and by it Jonah was saved from the belly of the whale, and by it the wild beasts and birds and jinn and humans and the wind were subjected to Solomon
+peace be upon him. And in it is the Greatest Name of Allah, and by it Allah gave victory to Muhammad, may Allah bless him and grant him peace, over the disbelievers and the hypocrites,
+and whoever knows its value is made independent by it from many manufactured things, for it is of perfection to an extent that expression does not reach
+. And whoever engraves it and carries it without purity will be afflicted either in his outward or in his inward; this is understood by one whose custom is understanding from
+Allah. The working with it is not suitable for one who is overpowered under his concern and his authority, rather it is suitable for one whose spirit has been strengthened by the lights of struggles
+and exercises, so understand that. And know that in this noble verse there is a wondrous meaning and a strange secret for the preservation of wealth
+and children and spouses and states and the bringing of provision and good things, for the bewildered and the mad and the epileptic and the deranged
+and the frightened, it is written on pure paper and hung upon it, and it is written for entering upon the great ones and princes and tyrants
+it is written in the exaltation of the sun in a pure body, and for repelling the enemy and thief from the place it is written and buried
+in it, so no visitor visits it with evil, and it drives away vermin and serpents and relatives and afflictions from the house, so reflect upon it, for it is from the
+hidden secrets and preserved jewels. Some of the shaykhs, may Allah be pleased with him, said: I dwelt in Basra in some
+houses, and when night fell upon me, a black person entered upon me and his eyes were like flames of fire, and he wanted to draw near to me and with him was
+a creeping like the creeping of a dragon, so I feared him. So I said: Allah, there is no god except Him, the Living, the Self-Subsisting. When I recited a word, he said it with me,
+and when I reached His saying تعالى: {and His preserving of them does not burden Him, and He is the Most High, the Most Great} he did not say it, so I repeated it and he went away. Then I took refuge
+to some corners of the house and slept in it until morning, and I saw in the place where he went away آثار of a fire of ash,
+so I was astonished. Then when it was the second night I saw in a dream a caller saying: you have burned a ifrit. So I said: and by what
+was it burned? He said: by His saying تعالى: {and His preserving of them does not burden Him, and He is the Most High, the Most Great}, for when you saw him you feared him, so Allah inspired you
+to recite the Verse of the Throne, and whenever I said a word from it he would say it with you, and when I reached His saying تعالى: {and His preserving of
+them does not burden Him, and He is the Most High, the Most Great} he did not say it, so I repeated it upon him and I burned him. And it is a great, noble verse beneficial for every
+thing of accidents and appendages. And whoever says it at his sleep is secure until morning. And whoever says it in the morning is secure
+until evening, and it has wondrous properties, and here is a great Wafq, and it is this as you see, and Allah is the grantor of success.
+
+intercedes
+
+---
+## Page 123
+
+**Arabic (original):**
+— ١١٧ —
+
+( وهذا دعاء الآية الشريفة تقول )
+
+بسم الله الرحمن الرحيم اللهم إنك أنت الله الملك الحق الذي لا إله إلا أنت الواحد الأحد الفرد القديم الحفيظ الصمد الحي القيوم الملك المتفضل القائم بكل شيء العلي العظيم هب لي هيبة من جلالك تحجب بها عني المضار وأكسب بها المسار وبالسر الذي كان يدعوك به آدم عليه السلام وعلمته الأسماء كلها أفض اللهم علي من لآئك ما يحول بيني وبين القوم الظالمين إنك أنت المولى وأنا من بعض العبيد وأنت مولانا وأنا عبدك فلا يقال هو إلا لك يا الله يا من لا تأخذه سنة ولا نوم أسألك أن تحييني حياة طيبة مباركة فيها يا حي حياتك بها انبسطت الحياة وتشعشعت في كل حي أحييني حياة طيبة لا يقع فيها مكروه أبدا يا قيوم ومن قامت العوالم كلها بقهرك ها أنا بين يدي قيوميتك على بساط الخوف مترد بالحياء مقنع بالرجاء ملق على ظهري في حمل السيئات الإساءة متوكئا على عشمي إنك قلت وقولك الحق ادعوني أستجب لكم وأنا لا أطلب غيرك ولا أرجو سواك موقن أنه لا يخلصني مما أنا فيه إلا أنت طالبا للإجابة مستظهرا بظاهر الإخلاص من قيوميتك يا قاهر اقهر من يريد قهري قهرا يمنعه من التصرف في نفسه فضلا منك علي يا من لا تأخذه سنة ولا نوم من أرادني بسوء احجبني عنه وامنعه السنة والنوم وضيق عليه الأرض بما رحبت لا بسراء تسره بل بضراء تضره واشغله بشر الأشرار لأنك لا يخفى عليك الحق يا الله ٣ يا مالك السموات والأرض وما فيهما وما بينهما ولا تملكني اللهم لأعدائي ولا لمن يضرني ها أنا عبدك مظلوم عبدك الفقير الضعيف أفض اللهم وأسدل علي آلاءك سترا أدخل به مع أوليائك على بساط قدسك وأنسك يا من لا يشفع عنده إلا بإذنه استشفعت بالوحي الذي على لسان الأنبياء عليهم الصلاة والسلام وبخيرتك من خلقك أن تجيرني من جميع المكروهات والآفات والمضرات أسألك يا مولاي أن تنصرني على من جار علي وأن تهزم لي من بارزني وأن تقهر من قابلني وأن تخذل أعدائي وتمنعهم أينما اجتمعوا وأن تلعنهم وتفضحهم أينما افترقوا وأن تقطعهم وتفنيهم أينما اتصلوا وأن تجعلهم في الظلمة يعمهون وعلى الذلة يفتون ومن
+
+**English:**
+— 117 —
+
+( And this is the supplication of the noble verse, it says )
+
+In the name of Allah, the Merciful, the Compassionate. O Allah, indeed You are Allah, the true King, there is no god except You, the One, the Unique, the Single, the Ancient, the Preserver, the Self-Sufficient, the Living, the Sustainer, the King, the Bestower, the قائم over everything, the Most High, the Magnificent. Grant me awe from Your majesty, by which You shield me from harms and I gain the attainments. And by the secret by which Adam, peace be upon him, used to call upon You, and You taught him all the names, pour upon me, O Allah, from Your lā’ what comes between me and the wrongdoing people. Indeed You are the patron, and I am among some of the servants, and You are our patron, and I am Your servant, so it is not said “He” except for You, O Allah, O You whom neither slumber nor sleep overtakes. I ask You to give me life, a good life, blessed therein, O Living One, by whose life life expanded and shone forth in every living thing. Give me life, a good life, in which no disliked thing ever occurs, O Sustainer, and by whom all the worlds have stood by Your subjugation. Here I am before Your sustaining power, upon the carpet of fear, trembling with shame, veiled with hope, cast upon my back in bearing the evil of misdeeds, leaning upon my aspiration. Indeed You said, and Your saying is the truth: “Call upon Me, I will respond to you.” And I seek none other than You, nor do I hope for anyone besides You, certain that none will deliver me from what I am in except You, seeking response, seeking support by the outward form of sincerity from Your sustaining power. O Subduer, subdue whoever wants to subdue me with a subjugation that prevents him from disposing of himself, as a favor from You upon me. O You whom neither slumber nor sleep overtakes, whoever intends me harm, veil me from him and prevent him from slumber and sleep, and narrow the earth for him, despite its vastness, not with prosperity that pleases him, but with adversity that harms him, and occupy him with the evil of the evil ones, for the truth is not hidden from You, O Allah. 3 O Possessor of the heavens and the earth and what is in them and what is between them, and do not make me possessed, O Allah, for my enemies nor for whoever harms me. Here I am, Your oppressed servant, Your poor, weak servant. Pour, O Allah, and spread over me Your bounties as a veil, by which I enter with Your saints upon the carpet of Your sanctity and intimacy. O You with whom none intercedes except by His permission, I have sought intercession by the revelation that is upon the tongues of the prophets, peace and blessings be upon them, and by Your chosen one from among Your creation, that You protect me from all disliked things, afflictions, and harms. I ask You, my Master, to grant me victory over whoever has wronged me, and to rout for me whoever has confronted me, and to subdue whoever has met me, and to forsake my enemies and prevent them wherever they gather, and to curse them and expose them wherever they separate, and to cut them off and annihilate them wherever they connect, and to make them in darkness wandering blindly, and upon humiliation they are cast, and from
+
+---
+## Page 124
+
+**Arabic (original):**
+— ۱۱۸ —
+النقمة لا يجازون ولا يستقيمون سرا ولا جهرا ولا يستفيدون عزا ولا فخرا ولا يستطيعون نصرا
+ولا صبرا وابعث عليهم عذابا من فوقهم ومن تحت أرجلهم يعلم ما بين أيديهم وما خلفهم يا علام
+الخفيات ويا غافر الزلات ويا راحم العثرات ارحمني واسترني وانصرني على أعدائي كما
+نصرت أنبياءك على أعدائك وانكسهم على أعقابهم واسحبهم بالسلاسل والأغلال في أعناقهم واقبض
+على قلوبهم لا يفقهون واصمم آذانهم كي لا يسمعوا واطمس على أعينهم كي لا يبصروا واختم على
+أفواههم كي لا ينطقوا وامسخهم على مكانتهم كي لا يستطيعون مضيا ولا إلى أهلهم يرجعون إنك
+أنت الجبار والمتكبر والقابض والناصر والقوي والغالب والقهار والرافع والمذل والمنتقم والمهلك
+والشديد والمخذل والمؤخر والمانع والقابض والخافض والضار والقاصم ذو الجلال والإكرام
+اللهم إني أسألك باسمك العظيم الأعظم وبنبيك المبجل المكرم وبحق هذه الآية الشريفة والأسماء
+المنيفة أن تحفظني من بين يدي ومن خلفي ومن فوقي ومن تحتي وعن يميني وعن شمالي وارزقني
+الإحاطة ولا يحيطون بشيء من علمه إلا بما شاء يا من أحاط بكل شيء علما وأحصى كل شيء عددا
+أسألك الإحاطة بما بين الأصبعين والخروج من العلتين مشمولا بالاعتدالات مجذوبا بالألطاف
+المنابة الدافقة بألطاف الرعاية الجامعة لأنوار الهداية إلى جميع العوائد وجزيل الفوائد وفيل الزوائد
+منغماسا في بحار رحمتك منتسبا في صفاء حضرتك منصرفا إلى وفاء معرفتك متوجا بتيجان
+الكرامة مخلقا بأخلاق السلامة أسألك يا من وسع كرسيه السموات والأرض يا من وسعت قدرته
+ومشيئته كل شيء أوسع لي رزقي وفرج عن كربي واغفر بجودك وكرمك ذنبي وأدخلني في
+سر إمداد اسمك العظيم الأعظم ولا يؤوده حفظهما وهو العلي العظيم * اللهم إني أسألك يا الله
+يا حي يا قيوم بحق هذه الآية الشريفة والأسماء المنيفة أن تنصرني على من ظلمني وتقهر من قهرني
+ومن أرادني بسوء مكرا وغدرا ما أسرع نزول بطشك الشديد وما أسرع حلول قهرك المجيد بكل
+جبار عنيد وشيطان مريد بغى على العباد وطغى في البلاد وسعى بالفساد بك أستغيث إلهي أسألك
+بحق هذه الآية الشريفة والأسماء المنيفة أن تنظر إلي نظرة رحمة وأن تجعلني من عبادك الصالحين
+الذين لا خوف عليهم ولا هم يحزنون ربنا تقبل منا إنك أنت السميع العليم ربنا أفرغ علينا صبرا
+وثبت أقدامنا وانصرنا على القوم الكافرين ربنا لا تزغ قلوبنا بعد إذ هديتنا وهب لنا من لدنك
+رحمة إنك أنت الوهاب لا حول ولا قوة إلا بالله العلي العظيم يا من وسع كرسيه السموات والأرض
+اصرف عني ما يسوءني من الظلم والأغيار واجبر قلبي بالظفر منك يا جابر القلوب المنكسرة وارج
+الترح بالفرح في جزئيتي وكليتي يا قوي قو قلبي بعد الضعف وارفع على رأسي راية يشهد لها العالمان
+مظلوم هب لي اللهم أجبر المظلوم إنك تعلم ما لا نعلم يا غني ادفع عني ما يمنعني من الفقر يا الله يا علي
+يا عظيم تعاليت علوا كبيرا وعظني بعظتك العظيمة ونجني من القوم الظالمين وأمددني
+بملائكتك المقربين وسخر لي قلوب خلقك أجمعين برحمتك يا أرحم الراحمين ولا يؤوده حفظهما
+وهو العلي العظيم * اللهم إني أسألك يا الله يا حي يا مبين أن تنجني أنا ومن يلوذ بي من القوم الظالمين
+وأدخلني في خزائن بسم الله الرحمن الرحيم أقفالها الحمد لله رب العالمين مفتاحها لا إله إلا الله محمد
+رسول
+
+**English:**
+the punishment they are not requited, and they do not become upright secretly nor openly, and they do not benefit from might nor pride, and they are not able to [gain] victory nor patience. And send upon them a punishment from above them and from beneath their feet; He knows what is before them and what is behind them, O Knower of the hidden things, and O Forgiver of slips, and O Merciful to stumbles, have mercy on me and conceal me and grant me victory over my enemies, as You granted victory to Your prophets over Your enemies, and turn them back on their heels, and drag them with chains and shackles in their necks, and seize their hearts so they do not understand, and deafen their ears so that they do not hear, and blot out their eyes so that they do not see, and seal their mouths so that they do not speak, and transform them from their place so that they are not able to go forth nor return to their families. Indeed You are the Compeller and the Supreme, and the Withholder and the Helper, and the Strong and the Prevailing and the All-Subduing, and the Lifter and the Abaser and the Avenger and the Destroyer and the Severe and the Forsaker and the Delayer and the Preventer and the Withholder and the Lowerer and the Harmful and the Crumpler, Possessor of Majesty and Honor. O Allah, indeed I ask You by Your great, greatest Name, and by Your honored, venerated Prophet, and by the right of this noble verse and the lofty names, that You protect me from before me and from behind me and from above me and from beneath me and from my right and from my left, and provide me with encompassing, and they do not encompass anything of His knowledge except what He wills, O You who have encompassed everything in knowledge and counted everything in number. I ask You for encompassing between the two fingers and خروج from the two causes, encompassed by the equilibria, drawn by the outpouring graciousnesses, by the graciousnesses of the encompassing care, for the lights of guidance to all the customs and abundant benefits and the abundance of additions, immersed in the seas of Your mercy, affiliated in the purity of Your presence, turning to the fulfillment of Your knowledge, crowned with crowns of honor, characterized with the character of safety. I ask You, O You whose Throne has encompassed the heavens and the earth, O You whose power and will have encompassed everything, expand for me my provision and relieve my distress and forgive, by Your generosity and Your nobility, my sin, and admit me into the secret of the support of Your great, greatest Name, and their preservation does not burden Him, and He is the Most High, the Magnificent. * O Allah, indeed I ask You, O Allah, O Living, O Sustainer, by the right of this noble verse and the lofty names, that You grant me victory over whoever has wronged me and subdue whoever has subdued me and whoever intended me harm by plotting and treachery. How swift is the descent of Your severe might, and how swift is the arrival of Your glorious subjugation upon every tyrannical obstinate one and rebellious devil who has transgressed against the servants and tyrannized in the lands and striven in فساد. By You I seek help, my God. I ask You by the right of this noble verse and the lofty names that You look upon me with a look of mercy and that You make me among Your righteous servants, those upon whom there is no fear, nor do they grieve. Our Lord, accept from us; indeed You are the Hearing, the Knowing. Our Lord, pour upon us patience and make firm our feet and grant us victory over the disbelieving people. Our Lord, do not deviate our hearts after You have guided us, and grant us from Yourself mercy; indeed You are the Bestower. There is no power and no strength except by Allah, the Most High, the Magnificent. O You whose Throne has encompassed the heavens and the earth, turn away from me what harms me of oppression and others, and mend my heart with triumph from You, O Mender of broken hearts, and replace sorrow with joy in my part and my whole. O Strong One, strengthen my heart after weakness, and raise over my head a banner to which the two worlds bear witness: oppressed. Grant me, O Allah, mending of the oppressed; indeed You know what we do not know. O Rich One, repel from me what prevents me from poverty. O Allah, O High, O Magnificent, You have exalted Yourself with a great exaltation. Admonish me with Your great admonition and save me from the wrongdoing people, and support me with Your close angels, and subjugate for me the hearts of all Your creation, by Your mercy, O Most Merciful of the merciful. And their preservation does not burden Him, and He is the Most High, the Magnificent. * O Allah, indeed I ask You, O Allah, O Living, O Manifest, that You save me and whoever takes refuge with me from the wrongdoing people, and admit me into the treasuries of “In the name of Allah, the Merciful, the Compassionate”; their locks are “Praise be to Allah, Lord of the worlds”; their key is “There is no god except Allah, Muhammad is the Messenger
+
+---
+## Page 125
+
+**Arabic (original):**
+— ١١٩ —
+
+رسول الله
+( دعاء آخر للآية الشريفة )
+اذا كنت في مكان مخيف أو بين أقوام تخاف شرهم وأذاهم فاقرأ آية الكرسي ٢١ مرة وبعدها
+تقول هذا الدعاء الشريف المبارك ﴿ اللهم احرسني بعينك التي لا تنام واكنفني بكنفك الذي لا يرام
+واغفر لي بقدرتك حتى لا أهلك وأنت رجائي أمسينا في خزائن الله مسلسلات بذكر الله لا إله إلا
+الله سورها محمد رسول الله سألوها لا حول ولا قوة إلا بالله بسم الله النور وبسم الله سرور وآية الكرسي
+علينا تدور كما دار السور على محمد الرسول ليس لها قفل ولا مفتاح من العشاء الى الصباح بإذن الملك
+الفتاح فالق الإصباح بألف ألف لا حول ولا قوة إلا بالله العلي العظيم أنت الملك الذي ذلت لعزتك
+الرقاب وتدكدكت من هيبتك الجبال الشوامخ لك السلطان الشامخ والملك الباذخ والملك
+والملكوت ولك العزة والجبروت ترديت بالنعماء انقاد لعز عظمتك جميع المخلوقات ووجلت
+الملائكة المقربون والروحانيون والكروبيون رب الأولين والآخرين إلهي أسألك أن تحفظني
+وترعاني وتنظر إلي بنظر رحمتك إنك أنت أرحم الراحمين خفيت من أعدائي بالله ودخلت في
+كنف الله وترديت برداء الله وتمسكت بالعروة الوثقى لا انفصام لها والله من ورائهم محيط بل هو قرآن
+مجيد في لوح محفوظ ﴾ ( ويليه دعاء آية الكرسي ) تقرأ آية الكرسي بتمامها وتقول أسألك اللهم
+أنت الله الذي لا إله إلا أنت الواحد الفرد الصمد الحي القيوم لا تأخذك سنة ولا نوم أسألك أن
+تصلي على سيدنا محمد وتعطيني مما عندك في خزائن رحمتك من الخير والرزق والبركة والفضل
+بفضلك وجودك وإحسانك وأن تغنيني بفضلك عمن سواك يا الله ٣ يا رحمن يا رحيم يا حي يا قيوم
+يا بديع السموات والأرض يا ملك يا ذا الجلال والإكرام أسألك اللهم بنور وجهك الكريم
+الذي ملأ أركان عرشك العظيم وبقدرتك التي قدرت بها على خلقك وبرحمتك التي وسعت كل
+شيء لا إله إلا أنت سبحانك إني كنت من الظالمين وأنت أرحم الراحمين أسألك وأدعوك أن تديم علي
+النعمة والخير والرزق الطامح وأن تعطيني من خزائنك الواسعة ما تغنيني به عمن سواك يا من إذا
+أراد شيئاً أن يقول له كن فيكون إنك على كل شيء قدير يا الله ٢ يا رحمن ٣ لا إله إلا أنت المعطي
+خزائن النعمة المحسن المتفضل الوهاب هب لي اللهم مالاً كثيراً ونعمة طائلة ورزقاً وعزاً
+بفضلك الواسع يا فياض ٢ يا مفوض فوض علي النعمة والخير وأغنني بفضلك عمن سواك يا مجيب
+الغياض يا الله أنت القائم بكل شيء القديم الحفيظ العلي العظيم فعظمني بعظمتك العظيمة يا عظيم
+الأعظم من كل عظيم أسألك اللهم بحق اسمك العظيم الأعظم المعظم الذي إذا دعيت به أجبت وإذا
+سئلت به أعطيت وبحق أسمائك الحسنى كلها ما علمت منها وما لم أعلم وبحق التوراة وما فيها وبحق
+الإنجيل وما فيه وبحق الزبور وما فيه وبحق القرآن العظيم وما فيه وبحق الاسم الذي أقمت به
+السموات السبع وما فيهن وبحق جميع أنبيائك وأوليائك وأصفيائك وبحق ملائكتك المقربين
+وبحق نبيك محمد صلى الله عليه وسلم وآله وصحبه أجمعين أسألك وأدعوك أن تمدني منك بخير كثير
+
+**English:**
+Messenger of Allah.
+
+( Another supplication for the noble verse )
+
+If you are in a frightening place or among people whose evil and harm you fear, then recite Ayat al-Kursi 21 times, and after that you say this blessed noble supplication: ﴿ O Allah, guard me with Your eye that does not sleep, and shelter me with Your shelter that cannot be assailed, and forgive me by Your power so that I do not perish while You are my hope. We have spent the evening in the treasuries of Allah, linked together by the remembrance of Allah: there is no god except Allah; their wall is Muhammad, the Messenger of Allah; their question is “There is no power and no strength except by Allah.” In the name of Allah, the Light, and in the name of Allah, Joy, and Ayat al-Kursi revolves over us as the wall revolved around Muhammad the Messenger. It has no lock and no key, from evening to morning, by the permission of the King, the Opener, the Splitter of the morning, with a thousand thousand “There is no power and no strength except by Allah, the Most High, the Magnificent.” You are the King before whose might necks are humbled and from whose awe the towering mountains are ground down. To You belong the lofty authority and the splendid kingship and the dominion and the kingdom, and to You belong might and omnipotence. You are adorned with blessings; all creatures have submitted to the might of Your greatness, and the close angels and the spiritual beings and the cherubim have trembled, Lord of the first and the last. My God, I ask You to protect me and tend me and look upon me with the gaze of Your mercy; indeed You are the Most Merciful of the merciful. I have hidden from my enemies by Allah, and entered into the shelter of Allah, and clothed myself with the cloak of Allah, and held fast to the firm handhold that has no breaking for it, and Allah is encompassing behind them; rather, it is a glorious Qur’an in a preserved tablet. ﴾ (And following it is the supplication of Ayat al-Kursi) You recite Ayat al-Kursi in full and say: I ask You, O Allah, You are Allah, there is no god except You, the One, the Single, the Self-Sufficient, the Living, the Sustainer, slumber does not overtake You nor sleep. I ask You to send blessings upon our master Muhammad and to give me from what is with You in the treasuries of Your mercy of good, provision, blessing, and bounty, by Your grace and generosity and beneficence, and that You enrich me by Your grace from whoever is besides You. O Allah 3, O Merciful, O Compassionate, O Living, O Sustainer, O Originator of the heavens and the earth, O King, O Possessor of Majesty and Honor, I ask You, O Allah, by the light of Your noble Face which filled the corners of Your mighty Throne, and by Your power by which You قدرت over Your creation, and by Your mercy which encompassed everything: there is no god except You, glory be to You; indeed I was among the wrongdoers, and You are the Most Merciful of the merciful. I ask You and I call upon You that You perpetuate upon me blessing and good and abundant provision, and that You give me from Your vast treasuries what enriches me from whoever is besides You, O You who, when He wills a thing, only says to it “Be,” and it is. Indeed You are over all things competent. O Allah 2, O Merciful 3, there is no god except You, the Giver of the treasuries of blessing, the Beneficent, the Bestower, the Munificent. Grant me, O Allah, much wealth and abundant blessing and provision and might, by Your vast grace, O Overflowing One 2, O One who entrusts, entrust upon me blessing and good, and enrich me by Your grace from whoever is besides You, O Answerer of the cries. O Allah, You are the قائم over everything, the Ancient, the Preserver, the Most High, the Magnificent, so magnify me with Your great magnificence, O Greatest of the great. I ask You, O Allah, by the right of Your great, greatest, magnified Name, by which if You are called upon, You answer, and if You are asked by it, You give, and by the right of all Your most beautiful names, those of them I know and those I do not know, and by the right of the Torah and what is in it, and by the right of the Gospel and what is in it, and by the right of the Psalms and what is in it, and by the right of the عظیم Qur’an and what is in it, and by the right of the Name by which You established the seven heavens and what is in them, and by the right of all Your prophets and Your saints and Your chosen ones, and by the right of Your close angels, and by the right of Your Prophet Muhammad, may Allah bless him and grant him peace, and his family and all his companions, I ask You and I call upon You that You extend to me from You much good
+
+---
+_End of translation — 125 pages._
