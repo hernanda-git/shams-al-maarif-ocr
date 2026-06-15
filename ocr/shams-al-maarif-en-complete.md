@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 227 translated pages._
+_Auto-generated from 233 translated pages._
 
 ---
 ## Page 1
@@ -13237,4 +13237,334 @@ in the money box, the money is preserved and the money is not emptied from the b
 And from al-Hasan ibn ʿAli رضي الله عنهما is that he said: I guarantee for whoever recites this noble verse, together with twenty verses, that Allah will protect him from every stubborn tyrant, rebellious Satan, unjust ruler, treacherous thief, and harmful beast: the Verse of the Throne, and three verses from al-Aʿrāf: {Indeed your Lord is Allah, who created the heavens and the earth in six days}, and ten verses from the beginning of al-Saffāt to {adhesive}, and three verses from al-Raḥmān: {O company of jinn and humankind} to His saying: {except authority}, and the endings of Sūrat al-Ḥashr, and the end of Sūrat Tabbat. And among the properties of the Verse of the Throne is that if one of you intends a matter, let him perform ablution in the depth of night and pray two rakʿahs, in each rakʿah with al-Fātiḥah and the Verse of the Throne 3 times; then when he gives salām, he recites the verse 7 times and says after it this supplication: O Allah, indeed You hear my speech, and see my place, and know my secret and my public, nothing of my affair is hidden from You. I call upon You with the supplication of the wretched poor one, the imploring one, acknowledging his sin and shortcoming, and I ask You the asking of the needy, and I beseech You the beseeching of the weak, sinful, despicable servant, the beseeching of one whose neck has humbled to You, and whose tears have flowed to You, and whose cheek has been abased to You, and whose nose has been rubbed in the dust for You, that You revive our hearts, and expand our breasts, and make our endeavors sincere for Your noble Face, and a cause of attaining bliss, and grant us success for that which is pure of Your good pleasure, and conclude for us from You with good, and make us tomorrow with those upon whom You have bestowed favor, of the prophets and the truthful and the martyrs and the righteous, and excellent are those as companions, and suffice us against what has concerned us of the affairs of this world and the Hereafter, and do not let the enemies nor the envious people gloat over us, and do not make our affliction in our religion, and do not make the الدنيا the greatest of our concerns, nor the extent of our knowledge, and do not empower over us, by our sins, one who does not fear You and does not have mercy on us, and grant us enjoyment by our hearing and our sight, and give us life with a good life, and open for us the doors of good, and provide for us, and You are the best of providers, our Lord, forgive us and our brothers who preceded us in faith, and do not place in our hearts any rancor toward those who believe, our Lord, indeed You are Kind, Merciful. ۞ Our Lord, forgive us our sins and our excess in our affair, and make firm our feet, and grant us victory over the disbelieving people. Our Lord, give us in this world good and in the Hereafter good, and protect us from the punishment of the Fire by Your mercy, O Most Merciful of the merciful. And among the properties of this verse is that if it is written on the shroud of the dead in three places: at his head, and at his middle, and at his feet, then that dead one is not punished in his grave, and the two angels are gentle with him at the time of questioning; because it is the greatest verse in the Qur’an, and it was begun with His noble Name.
 
 ---
-_End of translation — 227 pages._
+## Page 228
+
+--- PAGE 228 TRANSLATION ---
+
+---
+## Page 229
+
+**Arabic (original):**
+- ٢٢٣ -
+
+فاعرف قدرها وادعُ بها في المهمات وعند قضاء الحاجات. وحُكي عن بعض الصالحين أنه كان في
+سفينة فقام عليه الريح السوداء التي قلَّ من ينجو منها، فرسم آية الكرسي في قرطاس وعلقها في
+مهب الهواء وبسط كفيه إلى الله وقال: اللهم إني أسألك باسمك العظيم: الله لا إله إلا هو الحي القيوم
+إلخ، وأسألك اللهم ببركتها أن تنجينا مما نزل بنا وأنت علام الغيوب وكاشف الكروب، وأسألك
+اللهم بجاه نبيك الأكرم محمد صلى الله عليه وسلم، فما استتم دعاءه حتى فرج الله عنهم وجاءتهم
+الريح الطيبة فساروا بالأمن والسلامة. ومن خواص هذه الآية: من أراد أن يشفيه الله من كل داء
+في بدنه من جميع الأمراض، يكتب في جام زجاج بمسك وزعفران وماء ورد آية الكرسي ٣ مرات،
+ويكتب معها: "وأنزلنا هذا القرآن على جبل" إلخ السورة، وقوله تعالى: "ولو أن قرآنا سُيِّرت به الجبال
+أو قُطِّعت به الأرض أو كُلِّم به الموتى بل لله الأمر جميعاً"، فإذا فرغ من الكتابة يقرأ عليها آية الكرسي
+٧ مرات ويبخرها بالرواح ويشربها على ثلاثة أيام صباحاً ومساءً فإن الله يشفيه مما به. ومن
+كتبها وعلقها عليه كان أبلغ. وتكتب هذه الآية للرمد ووجع العين، يكتب ويقرأ عليه آية
+الكرسي ٣ مرات، وقوله تعالى: "الله نور السموات والأرض"، وتكتب: "قل هو الله أحد" في
+عين رمد أحمر في بياض: حسبي الله الصمد، يا غياثي في الشدائد، حسبي الله الصمد، لم يلد ولم يولد ولم
+يكن له كفواً أحد، أقسمت عليك أيها الرمد المرمود المتمسك بعروق الرأس والجلود، فإني أقسمت
+عليك بيوسف بن يعقوب وبقميصه المقدود، وبحق توراة موسى وإنجيل عيسى وزبور داود وبحق
+القرآن العظيم وبمحمد صلى الله عليه وسلم سراج الوجود وسراج الرب المعبود، اذهب أيها الرمد
+عن حامل كتابي هذا بحق لا إله إلا الله محمد رسول الله صلى الله عليه وسلم وبألف ألف لا حول
+ولا قوة إلا بالله العلي العظيم، وصلى الله على سيدنا محمد وعلى آله وصحبه وسلم. ومن خواص هذه الآية
+الشريفة تكتب لبكاء الأطفال وتعلق عليهم، تكتب الفاتحة أحرفاً متفرقة وآية الكرسي
+كذلك ٣ مرات: "والله غالب على أمره"، "فإن تولوا فقل حسبي الله لا إله إلا هو عليه توكلت وهو رب
+العرش العظيم"، ص ص ص ص ص ص ص ص ص، اصمت أيها المولود واسكت بحرمة الرب المعبود،
+"وخشعت الأصوات للرحمن فلا تسمع إلا همساً"، "وعنت الوجوه للحي القيوم وقد خاب
+من حمل ظلماً"، "وجوه يومئذ مسفرة ضاحكة مستبشرة"، "أفمن هذا الحديث تعجبون وتضحكون
+ولا تبكون وأنتم سامدون فاسجدوا لله واعبدوا"، أسكت أيها المولود بحق الملك المعبود والرب
+الودود، كهيعص حمعسق، "والله من ورائهم محيط بل هو قرآن مجيد في لوح محفوظ
+محفوظ محفوظ"، أيد من علق عليه كتابي هذا بالله تعالى من شر ما خلق، وحصنته بلا إله إلا الله
+محمد رسول الله، وبحق بسم الله الرحمن الرحيم: "قل أعوذ برب الفلق من شر ما خلق ومن شر غاسق
+إذا وقب ومن شر النفاثات في العقد ومن شر حاسد إذا حسد"، وحصنته بالله الحي القيوم الذي لا يموت،
+وادفع اللهم الضر والسوء عن حامل كتابي هذا، حصنته بالله ولا إله إلا الله محمد رسول الله وبحق بسم
+الله الرحمن الرحيم بألف ألف لا حول ولا قوة إلا بالله العلي العظيم. ومن خواص هذه الآية لعقد
+الألسنة: تكتب الآية في ورق هندي حروفاً متفرقة وتكتب معها هذه الأسماء: لووا مـ لو ا عما
+بووا
+
+**English:**
+- 223 -
+
+Know its value and call upon it in important matters and at the fulfillment of needs. And it was related about one of the righteous that he was in a ship, and the black wind arose against him, from which few are saved; so he drew the Verse of the Throne in a sheet of paper and hung it in the wind’s course, and spread his palms to God and said: O God, I ask You by Your العظيم name: Allah, there is no god but He, the Living, the Self-Subsisting, etc., and I ask You, O God, by its blessing to save us from what has befallen us, and You are the Knower of the unseen and the Remover of distress, and I ask You, O God, by the rank of Your most noble Prophet Muhammad, may God bless him and grant him peace. He had scarcely completed his supplication until God relieved them and the good wind came to them, and they traveled in safety and well-being. Among the properties of this verse: whoever desires that God heal him from every ailment in his body from all diseases, writes in a glass bowl with musk and saffron and rose water the Verse of the Throne 3 times, and writes with it: “And We sent down this Qur’an upon a mountain” etc. of the surah, and His saying تعالى: “And if there were a Qur’an by which the mountains were set in motion, or the earth were split apart, or the dead were spoken to—nay, to God belongs the affair altogether,” and when he finishes writing, he recites over it the Verse of the Throne 7 times and fumigates it with al-rāwāḥ and drinks it over three days, morning and evening, then God will heal him from what is in him. And whoever writes it and hangs it upon him, that is more effective. And this verse is written for ophthalmia and eye pain: he writes and recites over it the Verse of the Throne 3 times, and His saying تعالى: “God is the Light of the heavens and the earth,” and he writes: “Say: He is God, One” in an eye afflicted with ophthalmia, red in the white: God is sufficient for me, the Eternal, O my succor in hardships, God is sufficient for me, the Eternal, He neither begot nor was begotten, and there is none comparable to Him. I have sworn against you, O ophthalmia, afflicted ophthalmia, clinging to the veins of the head and the skin, for I have sworn against you by Joseph son of Jacob and by his rent shirt, and by the right of the Torah of Moses and the Gospel of Jesus and the Psalms of David and by the right of the عظیم Qur’an and by Muhammad, may God bless him and grant him peace, the lamp of existence and the lamp of the worshipped Lord: depart, O ophthalmia, from the bearer of my book this, by the right of there is no god but Allah, Muhammad is the Messenger of Allah, may God bless him and grant him peace, and by a thousand thousand there is no might and no power except by God, the Most High, the Most Great, and may God bless our master Muhammad and his family and his companions and grant them peace. And among the properties of this noble verse: it is written for children’s crying and hung upon them; al-Fātiḥah is written in separated letters and the Verse of the Throne likewise 3 times: “And God prevails over His affair,” “So if they turn away, then say: God is sufficient for me; there is no god but He; upon Him I rely, and He is the Lord of the Mighty Throne,” s s s s s s s s s, be silent, O newborn, and be still by the sanctity of the worshipped Lord, “and voices humbled before the Merciful, so you hear nothing but a whisper,” “and faces humbled before the Living, the Self-Subsisting, and he who bore injustice has failed,” “Faces on that Day will be radiant, laughing, rejoicing,” “Do you then marvel at this discourse and laugh and do not weep, while you are heedless? So prostrate to God and worship,” be silent, O newborn, by the right of the worshipped King and the loving Lord, Kaf-Ha-Ya-‘Ayn-Sad Ḥa-Mīm-‘Ayn-Sīn-Qāf, “and God is encompassing them from behind; nay, it is a glorious Qur’an in a Preserved Tablet preserved preserved,” support whoever hangs this my book upon him with God تعالى against the evil of what He created, and I fortified him with there is no god but Allah, Muhammad is the Messenger of Allah, and by the right of: In the name of God, the Merciful, the Compassionate: “Say: I seek refuge in the Lord of daybreak from the evil of what He created and from the evil of darkness when it settles and from the evil of the blowers in knots and from the evil of an envier when he envies,” and I fortified him with God, the Living, the Self-Subsisting, who does not die, and repel, O God, harm and evil from the bearer of this my book; I fortified him with God and there is no god but Allah, Muhammad is the Messenger of Allah, and by the right of In the name of God, the Merciful, the Compassionate, a thousand thousand there is no might and no power except by God, the Most High, the Most Great. And among the properties of this verse for binding tongues: the verse is written on Indian paper in separated letters, and with it these names are written: لووا مـ لو ا عما بووا
+
+Notes:
+[Grid content preserved as-is]
+
+--- PAGE 229 TRANSLATION ---
+
+---
+## Page 230
+
+**Arabic (original):**
+- ٢٢٣ -
+فهم لا ينطقون كل ملك فهو مملوك له وكل غني فهو فقير صعلوك عند الله وكل جبار فهو ذليل عند
+الله ولا محيص له من الله أستعين عليك بفلان بن فلانة بالله العظيم وخشعت الأصوات للرحمن فلا
+تسمع إلا همسا وحيل بينهم وبين ما يشتهون هذا يوم لا ينطقون ولا يؤذن لهم فيعتذرون فسيكفيكهم
+الله وهو السميع العليم كهيعص حمعسق ق ن
+
+صم صم صم صم صم بكم بكم بكم بكم بكم فهم لا يبصرون فهم لا ينطقون فهم لا يتكلمون وجعلنا
+من بين أيديهم سدا ومن خلفهم سدا فأغشيناهم فهم لا يبصرون
+عقدت لسانك يا فلان بن فلانة بما عقد الله به السموات السبع أن تقع على الأرض إلا بإذنه وبما
+عقد الله به السباع عن دانيال عليه السلام وبما عقد الله به الملائكة وبما عقد الله به الريح
+العقيم ما تذر من شيء أتت عليه إلا جعلته كالرميم عقدت ألسنة البشر من كل أنثى وذكر من أولاد
+آدم وبنات حواء عن حامل كتابي هذا لا يتكلمون في حقه إلا بخير أو يصمتون صم عمي
+بكم فهم لا ينطقون - ورد الله الذين كفروا بغيظهم لم ينالوا خيرا وكفى
+الله المؤمنين القتال وكان الله قويا عزيزا * ومن خواص آية الكرسي إذا كان لك عدو أو ضد
+معاند أو خفت من أي ظالم فقم ليلة نصف الليل أو ثلثه الأخير وصل ركعتين
+على نية من تريد هلاكه وتقرأ في الأولى الفاتحة مرة وآية الكرسي ٧ وتفعل في الركعة الثانية
+مثل الأولى فإذا سلمت تقرأ آية الكرسي ٩ وتقول اللهم أنت الشديد البطش الأليم الأخذ العظيم
+ذو القهر المتعالي عن الأضداد والأنداد والمنزه عن الصاحبة والأولاد أسألك به الأعداء وقص الجبارين
+عسكر بمن تشاء وأنت خير الماكرين أسألك باسمك الذي خضعت له القلوب والرواسي وزلت به
+من الصياصي وقذفت به الرعب في قلوب الأعداء وأشقيت أهل الشقاء أسألك أن تمدني برقيقة من
+رقائق هذا الاسم تسري في أعضائي بمراد تكله الجزئية حتى أتمكن من فعل ما أريد بمن أريد فلا
+يصل إلي ظلم بسوء ولا يسطو علي متكبر واجعل عضدي لك وفضلي مقرونا بفضلك واطمس على أبصار
+أعدائي واشدد على قلوبهم واضرب بيني وبينهم سترا باطنه فيه الرحمة وظاهره من قبله العذاب إنك
+شديد البطش أليم العذاب - وكذلك أخذ ربك إذا أخذ القرى وهي ظالمة إن أخذه أليم شديد -
+وناسه من آي القرآن العظيم فأخذهم الله بذنوبهم وما كان لهم من الله من واق إن بطش ربك
+لشديد فأخذهم أخذة رابية فقطع دابر القوم الذين ظلموا والحمد لله رب العالمين وتقول اللهم إني
+أسألك بركة هذه الآيات وسر ما دعوته به أن تقهر أعدائي ومن يريدني بسوء وهو القاهر فوق
+عباده اقهر فلان بن فلانة فإني أدعك في نحره واكفني شره واصرف عني غدره ومكره يارب
+العالمين فإن الله يحرسك منه وإن اعتدى عليك بعد ذلك هلك * ومن خواص آية الكرسي إذا كانت
+لك حاجة من المهمات تدخل في مسجد من المساجد وتصلي ركعتين تقرأ في الأولى الفاتحة مرة وآية
+الكرسي ٧ وفي الثانية كذلك فإذا سلمت قع في المحراب وأمسك بيدك بهدك وهزه
+
+**English:**
+- 223 -
+They do not speak. Every king, then he is owned by Him, and every rich man, then he is a poor wretch before God, and every tyrant, then he is abased before God, and there is no escape for him from God. I seek help against you, O so-and-so son of so-and-so, by God العظيم, and the voices humbled before the Merciful, so nothing is heard except a whisper, and they were placed between them and what they desire; this is a day when they do not speak, nor are they permitted, so they may make excuses. God will suffice you against them, and He is the Hearing, the Knowing. Kaf-Ha-Ya-‘Ayn-Sad Ḥa-Mīm-‘Ayn-Sīn-Qāf Q N
+
+Be silent, be silent, be silent, be silent, be silent; dumb, dumb, dumb, dumb, dumb; they do not see, they do not speak, they do not talk; and We placed before them a barrier and behind them a barrier, and We covered them, so they do not see.
+I have bound your tongue, O so-and-so son of so-and-so, by that with which God bound the seven heavens from falling upon the earth except by His permission, and by that with which God bound the beasts against Daniel, peace be upon him, and by that with which God bound the angels, and by that with which God bound the barren wind: it leaves nothing it passes over except that it makes it like decayed bones. I have bound the tongues of mankind, from every female and male, from the children of Adam and the daughters of Eve, from the bearer of this my book: they do not speak concerning him except good, or they are silent, deaf, dumb; they do not speak. And God repelled those who disbelieved in their rage; they attained no good, and God sufficed the believers in fighting, and God was strong, mighty. * And among the properties of the Verse of the Throne: if you have an enemy or an obstinate opponent, or you fear any wrongdoer, then rise on the night of mid-night or its last third and pray two rak‘ahs with the intention of whomever you want to destroy, and recite in the first the Fātiḥah once and the Verse of the Throne 7, and do in the second rak‘ah like the first; then when you give salām, recite the Verse of the Throne 9 and say: O God, You are the severe in assault, the painful seizer, the عظیم, the possessor of overpowering domination, exalted above opposites and equals, and sanctified from spouse and children. I ask You by it against enemies and the cutting off of tyrants; marshal whom You will, and You are the best of plotters. I ask You by Your name to which hearts and the firm mountains have humbled, and by which from the fortresses they have slipped, and by which terror has been cast into the hearts of enemies and the people of misery have been made wretched. I ask You to extend to me a subtle thread from the subtleties of this name, flowing through my limbs with the intended partial will, so that I may be enabled to do what I want to whomever I want, and no injustice with evil may reach me, nor may any arrogant one assault me. Make my arm for You and my excellence coupled with Your excellence, and blot out the sight of my enemies, and harden their hearts, and strike between me and them a veil whose inward is mercy and whose outward, from its side, is punishment. Indeed You are severe in assault, painful in punishment — and thus is the seizing of your Lord when He seizes the towns while they are unjust; indeed His seizing is painful, severe — and He mentioned from the verses of the عظیم Qur’an: so God seized them for their sins, and they had no protector from God; indeed the assault of your Lord is severe; so He seized them with an overwhelming seizing and cut off the last remnant of the people who ظلموا, and praise be to God, Lord of the worlds. And you say: O God, I ask You by the blessing of these verses and the secret of what I have called upon You with, that You overpower my enemies and whoever wants me harm, and He is the Subduer above His servants; subdue so-and-so son of so-and-so, for I cast you into his throat, and suffice me against his evil and turn away from me his treachery and his plotting, O Lord of the worlds, for God guards you from him, and if he transgresses against you after that, he perishes. * And among the properties of the Verse of the Throne: if you have a need from important matters, enter into a mosque from the mosques and pray two rak‘ahs, reciting in the first the Fātiḥah once and the Verse of the Throne 7, and in the second likewise; then when you give salām, sit in the miḥrāb and hold in your hand your beard and shake it
+
+**English:**
+- 224 -
+
+And say: O Lord 7, O fulfiller of needs 7, then you say: O God, enrich me by You from all besides You with a richness that enriches me from every share that calls to every outward creation or inward matter, and bring me to my desire and raise me in the degree of my utmost end, and show me the revived existence and joy in the highest ranks of attaining ends and generosity to beginnings until speech is cut off and the movement of mankind is silenced and erased by the cutting off of the point of ghayn, and the one takes the place of the two. O God, make easy for me the easiest of what You have made easy upon many of Your servants, and support me thereby with a radiant light by which the sight of every envier from jinn and mankind is snatched away, and grant me the highest degree for every station, and enrich me from all besides You with a richness by which my poverty to You is established. Indeed You are the Rich, the Praiseworthy. O God, I ask You to enrich my poverty, make easy my affair, mend my brokenness, and fulfill my need, and thus you seek what you want, and He is more generous than one asked. And what suits it from the verses of the Qur’an is His saying تعالى: Did He not find you an orphan and shelter you, and find you astray and guide you, and find you needy and enrich you? So reflect upon this indication. * And among the properties of the Verse of the Throne: if you have a need with one of the great ones and you want its fulfillment, then fast that day from the zafar, and if you fast it is better; when it is time for your breaking fast, break it with sweets, then pray Maghrib and sit in your prayer place, then begin reciting the Verse of the Throne and do not speak worldly speech, and remain thus until you pray ‘Ishā’, then sit and recite the verse 17 times; every time you recite the verse once, say: O God, I ask You, O Living, O Self-Subsisting, O Dūdūd, to cast love and affection into the heart of so-and-so, and to decree upon his heart affection and love, and name yourself until he becomes obedient to my hand and does not مخالفة me in what I command him, by the right of the loving King and by the right of the secrets of this verse. O servants of the Verse of the Throne, rely, by drawing the heart of so-and-so son of so-and-so, and move the spirituality of love and affection between me and him. They love them as the love of God, and those who believe are stronger in love for God — if you spent all that is on earth, you would not have united their hearts, but God united them. And I cast upon you love from Me, and that you be made under My eye. Then you write on clean paper what you see mentioned, and the writing is with musk and saffron and rose water, In the name of God, the Merciful, the Compassionate, and beneath it the three verses, and you write: Ṭamūsh Ṭamūsh, O Ṭamūsh, Basṭūsh, Sīṭūsh, Sha‘āb Sha‘āb, Hīlūthā Shīlūthā, Ahāwsh, ‘Alhāfsh, Mihāqsh, Shāghūb Shīghūb, Yāḥūm, Sīḥūm, Marḥūm, Dīmūm, Hāyūm, Ahā, Sharahyā, Adonai, Ṣabā’ūt, Shaddāy. I have taken the meanings of the letters and the correspondence of the number from the worshipped King and the existing good. O servants of these names and letters, move the spirituality of love and affection between so-and-so son of so-and-so by the right of what the عظیم names of God are recited over you, and that you take the gatherings of his heart and his core until he speaks only my name, and looks at nothing but my form, and hears nothing but my saying: Come and do not fear, indeed you are among the secure. And I cast upon you love from Me, and Dūḥb 3 and Maḥūb 3, affection is attained, drawn, like sugar in hearts; draw and bring and love and endear. And cast the turn of love and the crown of awe and the light of knowledge and the majestic names and the عظیم oaths: Hīhūd, Ahyāhūh, every tyrant is humbled by the awe of the majesty of God, and every arrogant one is subdued to the command of God. Fear not, indeed I am with you both, I hear and I see. Fear not, you shall not be overtaken, nor shall you fear. Then when they saw him, they magnified him and cut their hands, and said: Far be it from God! This is not a human being; this is nothing but a noble angel. Rely, O servants of this, for the fulfillment of the need of so-and-so son of so-and-so from such-and-such; they do not disobey God in what He commands them, and they do what they are commanded. Do, O so-and-so son of so-and-so, what I have commanded you concerning the fulfillment of my need, and it is such-and-such, by the right of Him who said to the heavens and the earth: Come willingly or unwillingly, they said: We come willingly. Let so-and-so son of so-and-so obey so-and-so son of so-and-so in what is requested of him, and rely, O owner of this day and this hour, you and your helpers, and be assisting so-and-so son of so-and-so in the fulfillment of his need from
+
+---
+## Page 231
+
+**Arabic (original):**
+— ٢٢٥ —
+
+من فلان بن فلانة بحق هذه الآيات العظام والأسماء الكرام وبحق الله الملك العلام اسمع وأطع
+يا فلان بن فلانة واقض حاجة فلان بن فلانة لا يتكلم أحد في حق فلان بن فلانة إلا بخير أو يصمت
+هذا يوم لا ينطقون ولا يؤذن لهم فيعتذرون اعتبر يا فلان بن فلانة واقض له ما يطلب وما يريد بحق
+الله المجيد المجيد وبحق طهبوب ٢ لهوب ٢ حياة كل شيء ما عصاك عبد إلا احترق ولا
+جبار إلا ذل وهلك هيد هيد وهاها هو هواه بيه بيه رموه وهو القاهر فوق عباده له الملك الباذخ
+والعز الشامخ أنت هو وهو أنت على كل شيء قدير وأسألك اللهم أن تسخر لي ملائكتك الكرام
+الخدام لهذه الأسماء والمطيعين لهذه الأقسام يتوكلون ويمتثلون فيما أمرهم به المساعدة لفلان بن فلانة
+ويقضون له ما يطلب وتجعلونه طوع يده ولا يخالفه في أمر من الأمور هيا الوحا العجل الساعة بارك
+الله فيكم وعليكم ويكتب الوفق الآتي وتبخر الكاغد بعود هندي طيب وجاوي ومصطكى وقليل
+من الزعفران وشعر وبزر خطمي وسبع حبات من تفاح الجن وهي الكزبرة اليابسة و ٧ حبات
+من بزر الكتان وبعد ما تبخر أطعم على من شئت ثم تقول طويت لسان كذا وكذا كطويت
+هذا الكتاب ثم دور هذا الكاغد على رأسه ٣ وإن لم يمكنك فدوره عليه بعد كيف شئت ثم ضعه
+في عمامتك وتدخل على من تريد إذا كان على اسم شخص بعينه وإن كان يريدها لجميع
+الخلق تبخرها بالبخور المذكور وتجعلها في عمامته يرى العجب العجاب وهذه صفة الوفق المتقدم ذكره
+
+| لاله | كهيعص | نفيت | الالله |
+| :--- | :--- | :--- | :--- |
+| ٥٢ | ٤٠ | ٦٨ | ٩٦ | ٤ |
+| ٨٨ | ١٦ | ٤٤ | ٣٢ | ٨٠ |
+| ٢٤ | ٧٢ | ١٠٠ | ٨ | ٥٦ |
+| ٢٠ | ٤٨ | ٣٦ | ٦٤ | ٩٢ |
+| ١٦ | ٨٤ | ١٢ | ٦ | ٢٨ |
+
+ص فلان بن فلانة في كف
+همس هـن
+لعم أين القوة
+
+ومن خواص آية الكرسي للمحبة والألفة بين المتباغضين تبتدئ بعملك في ساعة سعيدة كما ذكرناه
+ثم تكتب أسماء المتباغضين في ورقة وتضمه بين يديك ثم تأخذ أربعين حصاة من لبان ذكر قدر
+الفلفل و ٤٠ حبة من تفاح الجن ثم تقسم البخور نصفين من كل منهما عشرين وتبخر بحبتين من
+البخور حتى تتم ٤٠ وأنت تقرأ آية الكرسي وكلما قرأت ٥ مرات تقول توكلوا يا خدام هذه
+الآية بإلقاء المحبة بين فلان بن فلانة أو فلانة بنت فلانة بحق هذه الآية عليكم وبركتها لديكم وبحق
+من قال للسماوات والأرض ائتيا طوعا أو كرها قالتا أتينا طائعين فإذا فرغت من قراءتك فارسم
+الوفق الآتي في ورقة من تلك الورقات وتكتب معه هذا الدعاء المبارك وهو هذه الآيات الشريفة
+والأسماء المنيفة تقول اللهم إني أسألك ياحي ياقيوم يا من لا تراه العيون ولا تخالطه الظنون ولا تنعته
+— ١٥ — شمس المعارف — ثاني
+
+**English:**
+— 225 —
+
+From so-and-so son of so-and-so, by the right of these great verses and the noble names, and by the right of Allah, the King, the Knower, hear and obey.
+O so-and-so son of so-and-so, fulfill the need of so-and-so son of so-and-so. Let no one speak concerning so-and-so son of so-and-so except with good, or let him be silent.
+This is a day when they do not speak, and permission is not given to them, so they make excuse. Consider, O so-and-so son of so-and-so, and fulfill for him what he asks and what he desires, by the right of
+Allah, the Glorious, the Glorious, and by the right of Tahbub 2 Lahub 2, the life of every thing. No servant disobeyed you except that he burned, and
+no tyrant except that he was humbled and perished. Hayd Hayd and Haa Haa, He is his desire, Bih Bih, they threw him, and He is the Subduer above His servants; to Him belongs the lofty
+kingdom and the towering might. You are He and He is You; over every thing You are powerful. And I ask You, O Allah, that You subdue for me Your noble angels,
+the servants of these names and the obedient to these divisions; they entrust and comply with what He commanded them, the assistance to so-and-so son of so-and-so,
+and they fulfill for him what he asks, and you make it in the obedience of his hand, and it does not مخالفة him in any matter of matters. Come, al-waha, hurry, now. May Allah bless
+you and upon you. And the following wafq is written, and the paper is fumigated with good Indian oud, Jawi, mastika, and a little
+saffron, and hair, and khatmi seed, and seven grains
+of jinn apple, which is dried coriander, and 7 grains
+of flax seed. And after you fumigate, feed it to whom you wish, then you say: I have folded the tongue of so-and-so and so-and-so as I folded
+this book. Then turn this paper around his head 3 times; and if you are not able, then turn it around him afterward however you wish, then place it
+in your turban, and you enter upon whom you want if it is on the name of a specific person. And if he wants it for all
+creation, fumigate it with the mentioned incense and place it in his turban; he will see the wondrous wonder. And this is the description of the wafq mentioned above.
+
+| لاله | كهيعص | نفيت | الالله |
+| :--- | :--- | :--- | :--- |
+| ٥٢ | ٤٠ | ٦٨ | ٩٦ | ٤ |
+| ٨٨ | ١٦ | ٤٤ | ٣٢ | ٨٠ |
+| ٢٤ | ٧٢ | ١٠٠ | ٨ | ٥٦ |
+| ٢٠ | ٤٨ | ٣٦ | ٦٤ | ٩٢ |
+| ١٦ | ٨٤ | ١٢ | ٦ | ٢٨ |
+
+S so-and-so son of so-and-so in the palm
+whispered heh
+By my life, where is the power
+
+And among the properties of Ayat al-Kursi for love and affection between those who hate one another: you begin your work in an auspicious hour as we mentioned,
+then you write the names of the mutual haters on a sheet and fold it between your hands, then you take forty pebbles of frankincense, the size of
+pepper, and 40 grains of jinn apple, then you divide the incense into two halves, twenty of each, and fumigate with two grains of
+the incense until 40 are completed while you recite Ayat al-Kursi. And whenever you have recited 5 times, you say: Entrust yourselves, O servants of this
+verse, with casting love between so-and-so son of so-and-so or so-and-so daughter of so-and-so, by the right of this verse upon you and its blessing with you, and by the right of
+Him who said to the heavens and the earth, “Come willingly or unwillingly,” they said, “We come willingly.” Then when you finish your recitation, draw
+the following wafq on a sheet from those sheets, and write with it this blessed supplication, which is these noble verses
+and exalted names. You say: O Allah, I ask You, O Living, O Self-Subsisting, O You whom eyes do not see, and conjectures do not mingle with, and whom the describers do not describe
+— 15 — Shams al-Ma‘arif — Second
+
+---
+## Page 232
+
+**Arabic (original):**
+- ٢٢٦ -
+
+الناعتون يامن أمره بين الكاف والنون إنما أمره إذا أراد شيئاً أن يقول له كن فيكون أسألك
+أن تلقي المحبة والمودة بين فلان بن فلانة وكذا بحق هذه الآيات يحبونهم كحب الله والذين آمنوا
+أشد حباً لله لو أنفقت ما في الأرض جميعاً ما ألفت بين قلوبهم الآية وإنه لحب الخير لشديد وألقيت
+عليك محبة مني ولتصنع على عيني اللهم يامن خلق في السماء ملكاً نصفه من ثلج ونصفه من نار
+فلا النار تذيب الثلج ولا الثلج يطفئ النار وهو ينادى بلسان الاقتدار سبوح قدوس رب الملائكة
+والروح اللهم يامن ألف بين الثلج والنار ألف بين عبدك فلان بن فلانة وفلانة بنت فلانة إنك على
+ما تشاء قدير وهذه صفته
+
+| | | | | |
+| :--- | :--- | :--- | :--- |
+| | | | | وألقيت عليك |
+| | ٢٠ | ٣٠٢ | ٢٠٦ | ١٦ |
+| | ٩٩ | ٩٢٩ | | |
+| | ٣٥٢ | ٠٠٧ | ٤٠١ | ١٩٨ |
+| | ١٣٠ | ٩٧ | ٢٩٦ | ٣٠٦ |
+
+واعلم أن آية الكرسى للمحبة والقبول والجاه عند الأكابر فإذا أردت ذلك فارسم هذا الوفق
+الآتي في ورق غزال والكتابة بمسك وزعفران وماء ورد وتكتب حول الوفق آية الكرسى وتبخر
+عند حمله بعود هندي وجاوي وعود الصليب وهذه صورته
+
+| | | | | | |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| وألقيت | الله لا إله إلا هو الحي القيوم لا تأخذه سنة ولا نوم له ما في السموات | عليك |
+| | ٤٥٤ | ١٤٠ | ٦٥ | لا تخف | إنك |
+| ٦٣ | ١١١٤ | ٦٩ | ٤٥٢ | ١١١١ | ١٤٣ |
+| ٤٥٠ | ١٤١ | ٦٦ الله | ١١١٢ | ٧٢ |
+| ١١١٥ | ٧ | ٤٥٣ | ١٣٩ | ٦٤ |
+| ٤٥١ | ٦٢ | ١١١٣ | ٧٣ | ١٤٢ | الأعلى | أنت |
+| | | | | | ما في الأرض من ذا الذي يشفع عنده إلا بإذنه يعلم ما بين |
+
+واعلم أن لآية الكرسى خاصية متعلقة بأمور المحبة والألفة بين الأكابر وإلقاء الهيبة في
+قلوبهم
+
+**English:**
+the describers do not describe, O You whose command is between Kaf and Nun; His command, when He desires a thing, is only that He says to it, “Be,” and it is. I ask You
+to cast love and affection between so-and-so son of so-and-so and such-and-such, by the right of these verses: “They love them as the love of Allah,” and “those who believe
+are stronger in love for Allah. If you were to spend all that is in the earth, you would not have united their hearts” — the verse — “and indeed he is intense in love of good,” and “I have cast
+upon you love from Me, and that you be made under My eye.” O Allah, O You who created in the heaven an angel, half of him from snow and half of him from fire,
+so the fire does not melt the snow, nor does the snow extinguish the fire, and he calls out with the tongue of power: “Glorified, Holy, Lord of the angels
+and the Spirit.” O Allah, O You who united between snow and fire, unite between Your servant so-and-so son of so-and-so and so-and-so daughter of so-and-so; indeed You are, over
+what You will, Powerful. And this is its description.
+
+| | | | | |
+| :--- | :--- | :--- | :--- |
+| | | | | And I cast upon you |
+| | 20 | 302 | 206 | 16 |
+| | 99 | 929 | | |
+| | 352 | 007 | 401 | 198 |
+| | 130 | 97 | 296 | 306 |
+
+And know that Ayat al-Kursi is for love, acceptance, and standing among the great. So if you desire that, then draw this wafq
+following on gazelle parchment, and the writing with musk and saffron and rose water, and you write around the wafq Ayat al-Kursi, and fumigate
+when carrying it with Indian oud, Jawi, and oud al-salib. And this is its form.
+
+| | | | | | |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| And I cast | Allah, there is no god except Him, the Living, the Self-Subsisting; neither slumber nor sleep overtakes Him. To Him belongs whatever is in the heavens | upon you |
+| | 454 | 140 | 65 | do not fear | indeed you |
+| 63 | 1114 | 69 | 452 | 1111 | 143 |
+| 450 | 141 | 66 Allah | 1112 | 72 |
+| 1115 | 7 | 453 | 139 | 64 |
+| 451 | 62 | 1113 | 73 | 142 | the Most High | You |
+| | | | | | what is in the earth. Who is it that intercedes with Him except by His permission? He knows what is between |
+
+And know that for Ayat al-Kursi there is a property connected to matters of love and affection between the great and casting awe into
+their hearts.
+
+---
+## Page 233
+
+**Arabic (original):**
+— ٢٢٧ —
+
+قلوبهم وتقع لمقابلة الملوك والوزراء إذا حملها وتلاها وهي هذه الآيات يقول هذا الدعاء وهو هذا
+اللهم إني أسألك يا الله الأولين والآخرين ويا مجيب دعوة المضطرين أسألك بحق الله لا إله إلا هو
+الحي القيوم أن تنجيني من فلان بن فلانة وتجعله مشغوفاً بفلان بن فلانة لا تأخذه سنة ولا نوم كذلك
+طول ليله لا يهيد بمحبة فلان بن فلانة له في السموات وما في الأرض كذلك تضيق السموات والأرض على
+فلان بن فلانة حتى لا يرى في ليله ونهاره إلا خياله معه وذكره على لسانه لشدة المحبة الدائمة من ذا الذي
+يشفع عنده إلا بإذنه كذلك تشفع هذه الآية الشريفة الكريمة لفلان بن فلانة عند فلان بن فلانة
+دون شفاعة الخلق بل شفاعة كلام الحق يعلم ما بين أيديهم وما خلفهم وكذلك فلان بن فلانة يعلم أن
+فلان بن فلانة من بين يديه تابعاً مطيعاً لأمره مجيباً لدعوته مليكاً لكلمته قاضياً لحاجته راسخ في قلبه
+محبة ولا يحيطون بشيء من علمه إلا بما شاء كذلك يحيط فلان بن فلانة بعين المحبة والوفاء والصفاء وسع
+كرسيه السموات والأرض كذلك أوسعت قلبك صفته على فلان بن فلانة حتى لا يطيق على صبر جئتك
+بفلان بن فلانة إلى فلان بن فلانة حتى يقضى لك جميع المصالح وما تطلب من غير معاودة ولا معاندة
+ولا يؤوده حفظهما وهو العلي العظيم اللهم إني أسألك بالله أن تسكن محبة فلان بن فلانة في قلب
+فلان بن فلانة حتى يطيعه ولا يعصى له أمراً بحق هذه الآية الشريفة فلا يوكل يا خدام هذه الآية
+الشريفة بفلان بن فلانة واعطفوا قلبه ولينوا جوارحه بمحبة فلان بن فلانة بحق هذه الآية الكريمة
+يحبونهم كحب الله والذين آمنوا أشد حباً لله لو أنفقت ما في الأرض إلى حم وألقي عليك محبة مني
+يا فلان بن فلانة بحق هذه الآيات الشريفة وحكي عن بعض الصالحين أنه كان إذا جن الليل يقوم إلى
+محرابه ويصلي ما شاء الله فإذا أتم صلاته يقول هذا الدعاء إلهي أنت أنت انقطع الرجاء إلا منك وخاب
+الآمال إلا فيك وسدت الطرق إلا إليك يائقة من لائقة به غيرك اللهم أسألك باسمك العظيم
+الأعظم لا إله إلا الله الحي القيوم أنت الحي الباقي على الدوام لا تأخذه سنة ولا نوم وإنما السنة
+والنوم للمخلوقين لا للخالق له ما في السموات وما في الأرض غيرك من ذا الذي يشفع عنده إلا بإذنه
+من ذا الذي يقدر على ما تقدر عليه أنت كل المخلوقات تحت قهر عظمتك هم ما بين أيديهم وما
+خلفهم أنت العالم بما في الصدور تعلم ما نخفي وما نعلن ولا يحيطون بشيء من علمه إلا بما شاء وسع
+كرسيه السموات والأرض أنت الذي وسعت كل شيء رحمة وعلماً وأنت بكل شيء عليم ولا يؤوده
+حفظهما وهو العلي العظيم وبنار بنا سيدنا مولانا مولانا أنت الذي طوى وتمتع أنت الذي ترفع
+وتضع أنت الذي تبصر وتسمع ولا يخفى عليك شيء في الأرض لا في السماء أسألك بحق لطفك وجلال
+عزك أن تصلي وتسلم على الحبيب الأعظم والنبي الأكرم والرسول المعظم سيدنا ونبينا محمد صلى الله
+عليه وسلم اللهم بجاه أهل بيته الطيبين الطاهرين وبجاه أصحابه أجمعين وبجاه التابعين وتابع
+التابعين لهم بإحسان إلى يوم الدين أسألك أن تحشرني في زمرتهم وتحت لوائهم وتمدني بمددهم
+آمين يارب العالمين من ناجى الله بهذا الدعاء المبارك في جوف الليل وسأل الله تعالى أعطاه الله جميع
+ما سأل وطلب والله ذو الفضل العظيم * ومن خواص آية الكرسي الشريفة إذا كان لأحدكم
+حاجة من حوائج الدنيا والآخرة فيقيم في جوف الليل ويصلي أربع ركعات يقرأ في كل ركعة الفاتحة
+
+**English:**
+their hearts, and it is for meeting kings and ministers if one carries it and recites it, and it is these verses. He says this supplication, and it is this:
+O Allah, I ask You, O Allah of the first and the last, and O Answerer of the supplication of the distressed, I ask You by the right of Allah, there is no god except Him,
+the Living, the Self-Subsisting, that You deliver me from so-and-so son of so-and-so and make him passionately devoted to so-and-so son of so-and-so. Neither slumber nor sleep overtakes Him; likewise
+throughout his night he is not moved by the love of so-and-so son of so-and-so for him in the heavens and what is in the earth; likewise the heavens and the earth become constricted upon
+so-and-so son of so-and-so until he sees in his night and his day nothing except his imagination with him and his remembrance upon his tongue, because of the intensity of enduring love. Who is it
+that intercedes with Him except by His permission? Likewise this noble, honored verse intercedes for so-and-so son of so-and-so with so-and-so son of so-and-so
+without the intercession of creation, rather the intercession of the speech of the Truth. He knows what is before them and what is behind them, and likewise so-and-so son of so-and-so knows that
+so-and-so son of so-and-so, from before him, is a follower, obedient to his command, answering his call, sovereign over his word, fulfilling his need, firmly rooted in his heart
+with love, and they encompass nothing of His knowledge except what He wills. Likewise so-and-so son of so-and-so encompasses with the eye of love, loyalty, and purity. His Throne extended
+over the heavens and the earth; likewise I expanded your heart, its description, upon so-and-so son of so-and-so until he cannot endure patience. I brought you
+with so-and-so son of so-and-so to so-and-so son of so-and-so until all needs are fulfilled for you and what you seek, without return and without resistance,
+and their preservation does not burden Him, and He is the Most High, the Great. O Allah, I ask You by Allah that You settle the love of so-and-so son of so-and-so in the heart
+of so-and-so son of so-and-so until he obeys him and does not disobey him in any command, by the right of this noble verse. So do not entrust, O servants of this
+noble verse, so-and-so son of so-and-so, and incline his heart and soften his limbs with the love of so-and-so son of so-and-so, by the right of this noble verse:
+“They love them as the love of Allah, and those who believe are stronger in love for Allah. If you were to spend what is in the earth...” to “And I cast upon you love from Me.”
+O so-and-so son of so-and-so, by the right of these noble verses. And it is related from some of the righteous that when night fell he would rise to
+his prayer niche and pray as Allah willed; then when he completed his prayer he would say this supplication: My God, You are You; hope has been cut off except from You, and hopes have failed
+except in You, and the roads have been blocked except to You. Nothing is desired from one who is desired except You. O Allah, I ask You by Your great
+greatest name: there is no god except Allah, the Living, the Self-Subsisting. You are the Living, the Everlasting forever; slumber does not overtake You nor sleep, and indeed slumber
+and sleep are for created beings, not for the Creator. To Him belongs whatever is in the heavens and whatever is in the earth; none other than You. Who is it that intercedes with Him except by His permission?
+Who is it that is able over what You are able over? You, all creatures are under the subjugation of Your greatness; what is before them and what is
+behind them. You are the Knower of what is in the breasts; You know what we conceal and what we proclaim, and they encompass nothing of His knowledge except what He wills. His Throne extended
+over the heavens and the earth. You are He who encompassed every thing in mercy and knowledge, and You are of every thing Knowing, and their preservation does not burden
+Him, and He is the Most High, the Great. And by our master, our lord, our lord, You are He who folded and enjoyed, You are He who raises
+and lowers, You are He who sees and hears, and nothing is hidden from You, neither on earth nor in heaven. I ask You by the right of Your gentleness and majesty
+of Your might that You bless and grant peace upon the most beloved, the most noble Prophet, the most honored Messenger, our master and our prophet Muhammad, may Allah bless
+him and grant him peace. O Allah, by the rank of the people of his pure, purified household, and by the rank of all his companions, and by the rank of the followers and the followers of
+the followers of them in excellence until the Day of Religion, I ask You to gather me among their group, under their banner, and to extend to me from their مدد.
+Amen, Lord of the worlds. Whoever privately supplicates Allah with this blessed supplication in the depth of the night and asks Allah تعالى, Allah gives him all
+that he asked and sought, and Allah is Possessor of عظیم فضل. * And among the properties of the noble Ayat al-Kursi: if one of you has
+a need from the needs of this world and the Hereafter, then he rises in the depth of the night and prays four rak‘ahs, reciting in every rak‘ah al-Fatiha
+
+---
+_End of translation — 233 pages._
