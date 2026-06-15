@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 245 translated pages._
+_Auto-generated from 251 translated pages._
 
 ---
 ## Page 1
@@ -14172,4 +14172,223 @@ Notes:
 [Grid content preserved as-is]
 
 ---
-_End of translation — 245 pages._
+## Page 246
+
+**Arabic (original):**
+- ٢٤٠ -
+
+السلام وحملها إنسان معه أمن من شر الجن والإنس وشر طارق الليل والنهار وكان محروساً بها
+وهذه صورتها
+[مربع سحري]
+اعلم أن من كتب سورة محمد صلى الله عليه وسلم في جام زجاج
+ومحا الكتابة بماء زمزم وشربها كان وجيهاً عند الناس مسموع
+الكلام ولا يسمع من أحد شيئاً إلا حفظه بإذن الله تعالى قوله تعالى
+نُفِخَ فِي الصُّورِ نَفْخَةٌ وَاحِدَةٌ وَحُمِلَتِ الْأَرْضُ وَالْجِبَالُ فَدُكَّتَا دَكَّةً
+وَاحِدَةً فَيَوْمَئِذٍ وَقَعَتِ الْوَاقِعَةُ وَانشَقَّتِ السَّمَاءُ فَهِيَ يَوْمَئِذٍ وَاهِيَةٌ هذه الآية الشريفة تكتب
+لأطراف الدم في أي مكان شئت فمن ذلك رسم الأسماء في الرصاص والقمر في العقرب وارسم
+فيها اسم من أراد ترافقه واسم أمه وتكون الكتابة بزنجفر رومي ثم تدفن العمل في ساقية تجري
+إلى المشرق وتكون قد وضعت ما كتبت في بوصة وتلف عليها خيطاً أحمر وتربطها إلى جانب
+الساقية وإياك أن تذهب البوصة فإن المعمول له ذلك يهلك وتكون أنت المطالب به بين يدي الله
+تعالى ولا تخليه أكثر من سبعة أيام فيهلك المعمول فإذا أردت حله فأخرج ما كتبته ثم أحمه الماء ثم
+اكتب للمعمول له آية الكرسي والإخلاص والمعوذتين والفاتحة في إناء طاهر واسقه له فإنه يبرأ
+بإذن الله تعالى والله الموفق وهذا صورة وضعه كما ترى
+[مربع سحري]
+قوله تعالى عَسَىٰ رَبُّهُ إِن طَلَّقَكُنَّ أَن يُبْدِلَهُ أَزْوَاجًا
+خَيْرًا مِّنكُنَّ مُسْلِمَاتٍ مُّؤْمِنَاتٍ قَانِتَاتٍ تَائِبَاتٍ
+عَابِدَاتٍ سَائِحَاتٍ ثَيِّبَاتٍ وَأَبْكَارًا هذه الآية
+لطلاق النساء تكتب في زبدية زرقاء بمداد وقطران
+وترسم أسماءهم وتمحوها بماء سارب وترشها في الدار
+التي يسكنون فيها فإنهم يفترقون ولا يقيمون فيها
+وهذه صورة ما تكتب في الصحيفة
+[مربع سحري]
+قوله سبحانه وتعالى ذَٰلِكَ بِأَنَّهُمْ آمَنُوا ثُمَّ كَفَرُوا فَطُبِعَ
+عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ إلى قوله تعالى يُؤْفَكُونَ
+هذه الآية لعقد الألسنة وصمت العدو وقطعه عند
+المخاصمة والمجادلة تكتب في صحيفة من الحديد
+بطالع الميزان والمريخ فيه للعقرب الوجه الأول وتحمل معه ويقابل من أراد فإنه يصمت لسان عدوه
+وينتصر عليه وهذا صورة وضعه كما ترى بالصحيفة الآتية
+
+دات
+
+**English:**
+- 240 -
+
+Peace, and if a human carries it with him, he is secure from the evil of the jinn and mankind and the evil of the night and day comer, and he was guarded by it.
+And this is its form
+[Grid content preserved as-is]
+Know that whoever writes Surat Muhammad, may Allah bless him and grant him peace, in a glass cup and erases the writing with Zamzam water and drinks it, he will be of standing among people, his speech heard, and he will not hear anything from anyone except that he will memorize it, by permission of Allah تعالى. His saying تعالى:
+“Blown into the Trumpet is one blast, and the earth and the mountains are carried and they are crushed with one crushing. Then on that day the Event occurred, and the heaven is split, so it is on that day frail.” This noble verse is written for the sides of blood in any place you wish; from that is drawing the names in lead and the moon in Scorpio, and draw in it the name of whoever you wish to accompany and the name of his mother, and the writing is with Roman cinnabar. Then bury the work in a channel flowing to the east, and you will have placed what you wrote in a reed tube, and wrap around it a red thread and tie it beside the channel. And beware that the reed tube goes away, for the one worked for by that will perish, and you will be the one demanded for it before Allah تعالى. And do not leave it more than seven days, lest the one worked for perish. If you wish to undo it, then take out what you wrote, then heat it with water, then write for the one worked for Ayat al-Kursi, al-Ikhlas, al-Mu‘awwidhatayn, and al-Fatiha in a pure vessel and give it to him to drink, for he will recover, by permission of Allah تعالى. And Allah is the grantor of success. And this is a picture of its placement as you see.
+[Grid content preserved as-is]
+His saying تعالى: “Perhaps his Lord, if he divorces you, will substitute for him wives better than you: Muslim women, believing women, devoutly obedient, repentant, worshipping, fasting, previously married and virgins.” This verse for divorcing women is written in a blue bowl with ink and tar, and their names are drawn and erased with flowing water, and it is sprinkled in the house in which they dwell, for they will separate and not remain in it. And this is a picture of what is written in the sheet.
+[Grid content preserved as-is]
+His saying, Glorified and Exalted, “That is because they believed, then disbelieved, so a seal was set upon their hearts, so they do not understand” to His saying تعالى “they are turned away.” This verse is for binding the tongues and silencing the enemy and cutting him off at disputation and argument. It is written in a sheet of iron with the ascendant of Libra and Mars in it for Scorpio, the first face, and it is carried with him, and he confronts whomever he wishes, for the tongue of his enemy will be silenced and he will prevail over him. And this is a picture of its placement as you see in the following sheet.
+
+Dat
+
+---
+## Page 247
+
+**Arabic (original):**
+- ٢٤١ -
+
+قوله تعالى: {رَبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ * رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَا إِنَّكَ أَنتَ الْعَزِيزُ الْحَكِيمُ} هذه الآية إذا رُسمت في خاتم من حديد وألقاه أحد في بيته فإن الله تعالى ينصره ويؤيده ويعزه ولو كان ذليلاً، ويعلمه علم ما لم يكن، ويأتيه رزقه رغداً من عند الله تعالى، ويكون له نصراً ومعيناً؛ لأن فيه اسم التوكل والعزة والحكم لله، والله يهدي من يشاء إلى صراط مستقيم، وهذه صورة وضعه كما ترى فافهم.
+
+قوله تعالى: {فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا * يُرْسِلِ السَّمَاءَ عَلَيْكُم مِّدْرَارًا * وَيُمْدِدْكُم بِأَمْوَالٍ وَبَنِينَ وَيَجْعَل لَّكُمْ جَنَّاتٍ وَيَجْعَل لَّكُمْ أَنْهَارًا} هذه الآية للزيادة لك في الرزق ونمو التجارة وكثرة الربح، فمن رسمها في خاتم من فضة بيضاء وألقاه في أصبعه فإنه يسهل الله عليه رزقه، وهو من الأمور العجيبة لأنه أمر لا يقدر على وضعه أحد لما فيه من البركات والخيرات الوافرات بعون الله تعالى، وهذه صورته.
+
+قوله تعالى: {إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ وَثُلُثَهُ وَطَائِفَةٌ مِّنَ الَّذِينَ مَعَكَ وَاللَّهُ يُقَدِّرُ اللَّيْلَ وَالنَّهَارَ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ} هذه الآية الشريفة لمن أراد الزيادة في العبادة والأنابة إلى الله تعالى، فإذا أراد ذلك فليأخذ طشتين من النحاس الأحمر ويرسم فيه الآية الشريفة يوم الجمعة والناس في الصلاة، وقل: فتاب الله على فلان، واغسله بالماء القراح واقرأ عليه مائة مرة واشرب به ثلاث مرات إذا أراد النوم، فإن الله يهدي صاحب الاسم للعمل الصالح ويقربه إلى أفعال العبادة والطاعة بحول الله وقوته، وهذه صورة وضعه كما ترى (عوض إن نقش نقش يس است). قوله تعالى: {إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ * وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا * فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ إِنَّهُ كَانَ تَوَّابًا} من كتب
+
+١٦ - شمس المعارف - ثاني
+
+**English:**
+- 241 -
+
+His saying تعالى: {Our Lord, upon You we have relied, and to You we have turned, and to You is the destination. Our Lord, do not make us a trial for those who disbelieve, and forgive us. Our Lord, indeed You are the Mighty, the Wise.} This verse, if it is drawn in a ring of iron and someone throws it in his house, then Allah تعالى will grant him victory, support him, and honor him, even if he were abased, and He will teach him the knowledge of what was not, and his provision will come to him abundantly from Allah تعالى, and it will be for him a victory and a helper; because in it is the name of reliance and might, and judgment belongs to Allah, and Allah guides whom He wills to a straight path. And this is a picture of its placement as you see, so understand.
+
+His saying تعالى: {Then I said, Seek forgiveness of your Lord; indeed He is ever Forgiving. He will send the sky upon you in abundant rain, and He will supply you with wealth and sons, and make for you gardens, and make for you rivers.} This verse is for increase for you in provision and growth of trade and abundance of profit. Whoever draws it in a ring of white silver and throws it on his finger, Allah will make his provision easy for him. And it is among the wondrous matters, because it is a matter that no one is able to place because of what is in it of blessings and abundant good things, by the help of Allah تعالى. And this is its form.
+
+His saying تعالى: {Indeed your Lord knows that you stand less than two-thirds of the night and half of it and a third of it, and a group of those with you, and Allah measures the night and the day. He knew that you would not be able to keep count of it, so He turned to you in forgiveness.} This noble verse is for whoever desires increase in worship and turning back to Allah تعالى. So if he desires that, let him take two basins of red copper and draw in them the noble verse on Friday while the people are in prayer, and say: So Allah turned in forgiveness to so-and-so, and wash it with pure water and recite over it one hundred times and drink from it three times when he wishes to sleep, for Allah guides the possessor of the name to righteous action and brings him near to acts of worship and obedience by the might and power of Allah. And this is a picture of its placement as you see (instead of “engraving,” engrave YS). His saying تعالى: {When the help of Allah and the victory come, and you see the people entering into the religion of Allah in crowds, then glorify with the praise of your Lord and seek His forgiveness; indeed He is ever Accepting of repentance.} Whoever wrote
+
+16 - Shams al-Ma‘arif - Second
+
+---
+## Page 248
+
+**Arabic (original):**
+- ٢٤٢ -
+
+هذه السورة الشريفة في خرقة زرقاء يوم السبت في ساعة عطارد والقمر مسعود وألقها في رأسه
+فكل من خاصمه غلبه بعون الله تعالى وإن نقش في شرف الشمس والمريخ مقابله نصر على عدوه
+بعون الله تعالى ومن حمله منع من الجراح بإذن الله تعالى وتوفيقه وهذه صورة نقش إن ربك
+يعلم أنك تقوم أدنى الآية
+
+[جدول]
+
+قوله تعالى وجعلنا في قلوب الذين اتبعوه رأفة ورحمة ورهبانية ابتدعوها ما كتبناها إلى قوله تعالى
+ظاهر من هذه الآية للخصومة والمحاكمة والمجادلة وقهر الأعداء والظفر بهم والنصر عليهم فإذا أردت
+ذلك فارسم هذه الآيات في ورق غزال بماء الآس يوم الجمعة عند انفضاض الناس من الصلاة
+وبخره بالعود والعنبر وضعه في صحيفة فضة وألقه في رأسك وحاكم من أردت من الأعداء وقابل من
+تريد من الحكام فإنك تغلبه بعون الله تعالى وهذه صورته فافهم ترشد
+اعلم وفقني الله وإياك إلى طاعته وفهم أسرار أسمائه أنه من أراد
+مقابلة سلطان أو وزير أو قاض أو حاكم إذا أراد
+عقد لسانه لسبب أذيته عنه ولو كان على القتل يكتب الأسماء
+الآتي ذكرها في رق غزال بمسك وزعفران وماء ورد يبخر
+بأطيب البخور مثل العود والند والعنبر والمسك ثم يحملها في مقدم عمامته تكون الكتابة في
+ساعة الشمس من يوم الأحد وإن كان في شرف الشمس يكون أجود فإن كنت في شك من ذلك وأردت
+أن تجرب فعلة على شاة قدمت للذبح فإنها لا تذبح مادام معلقا عليها وإذا دخلت الحمام والكتابة معك
+فإن الحمام يبرد بإذن الله تعالى وهذه صفة الطلسم المذكور والآيات الشريفة
+أقبل ولا تخف نجوت من القوم الظالمين لا تخف إنك
+أنت الأعلى إني لا يخاف لدي المرسلون قال رجلان
+من الذين يخافون أنعم الله عليهما ادخلوا عليهم الباب
+فإذا دخلتموه فإنكم غالبون وعلى الله فتوكلوا إن كنتم مؤمنين أقبل فلان بن فلانة كما أقبل الخطيب
+على المنبر والسلطان على العسكر عقدت لسان من تخاصمه ولسان كل ناطق لا تكلمه دون في حامل
+كتاب هذا إلا بخير أو يصمتون صم صم صم بكم بكم بكم عمي عمي عمي فهم لا يبصرون جعلت حامل
+
+**English:**
+- 242 -
+
+This noble surah in a blue rag on Saturday in the hour of Mercury, and the moon auspicious, and cast it on his head, then everyone who disputes with him he overcomes by the help of Allah تعالى. And if it is engraved in the exaltation of the sun and Mars opposite it, he will be victorious over his enemy by the help of Allah تعالى. And whoever carries it is prevented from wounds by the permission of Allah تعالى and His granting of success. And this is a picture of the engraving: “Indeed your Lord knows that you stand less...” the verse.
+
+[Table]
+
+His saying تعالى: “And We placed in the hearts of those who followed him compassion and mercy and monasticism they innovated; We did not prescribe it...” to His saying تعالى “manifest.” From this verse, for disputation, litigation, argument, subduing enemies, prevailing over them, and victory over them. So if you desire that, then draw these verses on gazelle parchment with myrtle water on Friday when the people disperse from the prayer, and fumigate it with oud and ambergris, and place it in a silver sheet and cast it on your head, and litigate with whomever you wish from the enemies and confront whomever you wish from the rulers, for you will overcome him by the help of Allah تعالى. And this is its form, so understand, you will be guided.
+
+Know, may Allah grant me and you success in obeying Him and understanding the secrets of His names, that whoever desires to confront a sultan or a minister or a judge or a ruler, if he desires to bind his tongue because of his harming him, even if it were for killing, he writes the names to be mentioned below in gazelle parchment with musk and saffron and rose water, fumigated with the finest incense such as oud, al-ند, ambergris, and musk, then carries it in the front of his turban. The writing is in the hour of the sun on Sunday, and if it is in the exaltation of the sun it is better. If you are in doubt about that and wish to test an action on a sheep brought forward for slaughter, then it will not be slaughtered so long as it is hanging upon it. And if you enter the bathhouse and the writing is with you, then the bathhouse will cool, by permission of Allah تعالى. And this is the description of the mentioned talisman and the noble verses:
+Come forward and do not fear; you have been saved from the wrongdoing people. Do not fear, you are the uppermost. Indeed, I do not fear in My presence the messengers. Two men said, from those who fear, Allah bestowed favor upon them: Enter upon them through the gate, and if you enter it, then you will be victorious, and upon Allah rely if you are believers. Come, so-and-so son of so-and-so, as the preacher comes forward upon the pulpit and the sultan upon the army. I have bound the tongue of whoever you dispute with and the tongue of every speaker; do not speak to him. Write in the bearer of this book nothing except good, or they will be silent, silent, silent, dumb, dumb, dumb, blind, blind, blind, for they do not see. I have made the bearer of the book...
+
+---
+## Page 249
+
+--- PAGE 249 TRANSLATION ---
+
+---
+## Page 250
+
+**Arabic (original):**
+- ٢٤٣ -
+
+كتابي هذا منصوراً مؤبداً على كل أحد كما نصر الله نبيه محمداً صلى الله عليه وسلم بالملائكة وجبريل
+عن يمينه وميكائيل عن شماله وإسرافيل من وراء ظهره وأسماء الله محيطة به شاهت الوجوه وعنت
+الوجوه للحي القيوم ماهت باهت حتى تحت الظلاما محلاً أهلاً أقبل ناجياً منصوراً مؤبداً
+بالواحد الأحد الفرد الصمد الذي لم يلد ولم يولد ولم يكن له كفواً أحد ﷺ اعلم يا أخي أن هذا الطلسم
+عجيب وسر غريب قد ادخره العلماء وأخفوه خوفاً لئلا يقع في يد جاهل فيهتك به المحصنات
+فبالله يا واصلاً إلى هذا الكتاب لا تفعله إلا في الحلال وأنت المطالب به يوم القيامة فإذا أردت العمل
+به فاكتبه في كف اليمين بمسك وزعفران وماء ورد وبخره برائحة أرجة وتكون الكتابة يوم
+الأربعاء في أول ساعة واتل القسم الكبير الذي أوله بسم الله القدوس الطاهر ثم أخف يدك داخل
+الكم وافتح يدك في وجه من تريد حتى ينظر الكتابة ثم سر ولا تلتفت إلى ورائك فإن المطلوب يتبعك
+حيث شئت وهذا ما تكتب
+
+[صورة طلسم]
+
+(فصل) وإذا رأيت من يشتكي وجع الطحال فاكتب له هذا الطلسم المبارك في ورقة وضع
+الطلسم والورقة فوق الطحال ثم خذ ملعقة جديدة وتضع فيها قليلاً من الرماد وضع
+فوق الرماد جمرة نار ثم ضع ملعقة فوق الطلسم فإن النار يحس بها صاحب الطحال أنها داخل
+جوفه فحكمها على قدر استطاعة المريض ولو كان نصف درجة وارفعها فإن الطحال لا يمكث بعدها
+حتى يقطع ويزول مع الغائط ويبرأ صاحبه منه بإذن الله تعالى وهذه صفة الطلسم كما ترى فافهم
+(فصل) إذا أردت أن تحفظ كلما تسمع ولا تنساه فاكتب
+هذه الأحرف في جام زجاج واشربها بالماء القراح ثلاثة أيام
+فإنك ترى العجب العجاب من شدة الفهم وتقول عند
+شربها ففهمناها سليمان الآية صفة الطلسم سفاحكم
+للحلم حكم لله منتخف طلسم طلسم
+ح ح ح د د ى أحسه رب ع ولح فاطط
+لله احفظ ع ل [صورة طلسم] افعله
+
+إذا كان لك عدو أو جار سوء وأردت إزالته من جانبك فاكتب هذا الطلسم على سقف بيته أو لوح
+من الرصاص أو خشب ويدفن تحت باب من تريد فإنه يرحل من ذلك المكان والله لا تعمله إلا لمستحقه
+من الناس وهو الطلسم المذكور
+(فصل) إذا أردت عقد لسان أحد أو ألسنة الناس أجمعين تكتب هذا الطلسم وتضعه في مقدمة
+
+**English:**
+- 243 -
+
+This my book, victorious perpetually over every one, just as God aided His Prophet Muhammad, may God bless him and grant him peace, with the angels, and Gabriel
+on his right, and Michael on his left, and Israfil behind his back, and the Names of God encompassing him; the faces are made ugly, and the faces are humbled
+to the Living, the Self-Subsisting; they are made dull, faded, even under the darkness. A place, welcome, come forward, saved, victorious perpetually
+by the One, the One, the Single, the Eternal Refuge, who neither begot nor was begotten, and there is none equal to Him, one ﷺ Know, my brother, that this talisman
+is wondrous and a strange secret; the learned have stored it and concealed it, fearing lest it fall into the hand of an ignorant one, and he violate by it the chaste women.
+So by God, O you who have reached this book, do not do it except in the lawful, and you are the one demanded for it on the Day of Resurrection. So if you desire to work
+with it, then write it in the palm of the right hand with musk and saffron and rose water, and fumigate it with the scent of Arja, and the writing is on the day
+of Wednesday in the first hour, and recite the great oath whose beginning is In the name of God, the Holy, the Pure, then conceal your hand inside
+the sleeve and open your hand in the face of whom you desire until he looks at the writing, then go and do not turn back behind you, for the sought one follows you
+wherever you wish, and this is what you write
+
+[Grid content preserved as-is]
+[صورة طلسم]
+
+(Chapter) And if you see one complaining of spleen pain, then write for him this blessed talisman on a sheet and place
+the talisman and the sheet above the spleen, then take a new spoon and put in it a little ash and place
+above the ash a live coal of fire, then place the spoon above the talisman, for the fire is felt by the one with the spleen as though it is inside
+his belly; so apply it according to the patient’s ability, even if it be half a degree, and raise it, for the spleen will not remain after that
+until it is cut off and passes away with the excrement, and its owner is healed from it, by permission of God تعالى. And this is the description of the talisman as you see, so understand
+(Chapter) If you desire to memorize everything you hear and not forget it, then write
+these letters in a glass bowl and drink them with pure water for three days
+for you will see the wondrous wonder from the intensity of understanding, and you say when
+drinking it: “So We made Solomon understand it” the verse. Description of the talisman: سفاحكم
+للحلم حكم لله منتخف طلسم طلسم
+ح ح ح د د ى أحسه رب ع ولح فاطط
+لله احفظ ع ل [Grid content preserved as-is] افعله
+
+If you have an enemy or an evil neighbor and you desire to remove him from your side, then write this talisman on the ceiling of his house or a tablet
+of lead or wood and bury it under the door of whom you desire, for he will depart from that place; and by God, do not do it except for one deserving it
+from among people, and it is the talisman mentioned
+(Chapter) If you desire to bind the tongue of someone or the tongues of all people, you write this talisman and place it in the front of
+
+--- PAGE 250 TRANSLATION ---
+
+---
+## Page 251
+
+**Arabic (original):**
+- ٢٤٤ -
+العامة ترى العجب وهذا صفة ما تكتب
+فلا يمل عن بابه حتى يخرج منه ما سواه
+عمه [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?]
+[...truncated...]
+
+**English:**
+- 244 -
+the العامة see the wonder, and this is the description of what you write
+so that he does not cease from his door until what is other than him comes out from it
+عمه [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?]
+
+---
+_End of translation — 251 pages._
