@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 239 translated pages._
+_Auto-generated from 245 translated pages._
 
 ---
 ## Page 1
@@ -13846,4 +13846,330 @@ And by You, O God, O Majestic, for nothing * approaches You in the thick covenan
 And by Your Throne crowned with light * to Your great glorious Throne
 
 ---
-_End of translation — 239 pages._
+## Page 240
+
+**Arabic (original):**
+— ٢٣٤ —
+
+وَبِمَا كَانَ تَحْتَ عَرْشِكَ حَقًّا قَبْلَ خَلْقِ السَّمَاءِ وَصَوْتِ الرُّعُودِ
+ذَاكَ إِذْ كُنْتَ لَمْ تَزَلْ قَطُّ إِلَيْهَا عَرَفْتَ التَّوْحِيدَ
+وَفِي [~] بَعْدَ فَرَاغِكَ مِنْ هَذِهِ الْآيَاتِ الشَّرِيفَةِ اسْأَلِ اللَّهُمَّ أَنْ تُصَلِّيَ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَأَنْ
+تَقْضِيَ حَاجَتِي وَهِيَ كَذَا وَكَذَا فَإِنَّ اللَّهَ تَعَالَى يَقْضِيهَا بِمَنِّهِ وَكَرَمِهِ إِنْ شَاءَ اللَّهُ تَعَالَى وَيَلِيهِ هَذَا الدُّعَاءُ الْمُبَارَكُ
+وَهُوَ دُعَاءُ آيَةِ الْكُرْسِيِّ الشَّرِيفَةِ تَقُولُ يَا حَيُّ يَا قَيُّومُ أَنْتَ الَّذِي لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ
+الظَّالِمِينَ سَأَلْتُكَ بِقَيُّومِيَّتِكَ أَنْ تُقِيمَنِي إِلَيْكَ وَسَأَلْتُكَ بِحَيَاتِكَ حَيَاةَ الْقَلْبِ وَسَلَامَتَهُ كَذَلِكَ فِي الدِّينِ
+وَالدُّنْيَا وَالْآخِرَةِ وَفِيمَا بَيْنَهَا وَاحْفَظْ عَلَيَّ جَمِيعَ ذَلِكَ آمِينَ لَا يَؤُودُهُ شَيْءٌ مِنْ حِفْظِهِ يَا عَلِيُّ يَا عَظِيمُ إِلَى أَنْ
+أَلْقَاكَ وَأَنْتَ عَنِّي رَاضٍ يَا اللَّهُ عَلَى أَحْسَنِ حَالٍ مِنْكَ أَنْعِمْ إِلَيَّ بِلَا مِحْنَةٍ وَلَا عُقُوبَةٍ فِي الدِّينِ وَلَا فِي
+الدُّنْيَا وَلَا فِي الْوَلَدِ وَلَا فِي الْمَالِ وَلَا فِي الدُّنْيَا وَلَا فِي الْآخِرَةِ بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِينَ * اعْلَمْ وَفَّقَكَ اللَّهُ تَعَالَى
+وَإِيَّاكَ إِلَى طَاعَتِهِ وَنَوَّرَ قَلْبَكَ بِنُورِ مَعْرِفَتِهِ إِنِّي كُنْتُ كَثِيرًا أَدَاوِمُ عَلَى قِرَاءَةِ آيَةِ الْكُرْسِيِّ وَخَوَاتِيمِ
+سُورَةِ الْبَقَرَةِ مِنْ قَوْلِهِ تَعَالَى آمَنَ الرَّسُولُ إِلَى آخِرِ السُّورَةِ ثُمَّ أَوَائِلِ سُورَةِ آلِ عِمْرَانَ إِلَى قَوْلِهِ الْعَزِيزُ
+الْحَكِيمُ مَعَ الْآيَتَيْنِ قَوْلِهِ تَعَالَى قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ إِلَى قَوْلِهِ بِغَيْرِ حِسَابٍ ثُمَّ تَقُولُ اللَّهُمَّ إِنِّي أَسْأَلُكَ صِحَّةَ
+الْخَوْفِ وَغَلَبَةَ الشَّوْقِ وَإِتْيَانَ الْعِلْمِ وَدَوَامَ الْفِكْرِ وَأَسْأَلُكَ اللَّهُمَّ بِسِرِّ الْأَسْرَارِ مِنَ الْأَضْرَارِ حَتَّى
+لَا يَكُونَ لَنَا مَعَ الذَّنْبِ أَوِ الْعَيْبِ قَرَارٌ وَأَحْيِنَا وَاهْدِ اللَّهُمَّ بِهَذِهِ الْكَلِمَاتِ الَّتِي بَسَطَهَا لَنَا عَلَى لِسَانِ
+رَسُولِكَ وَابْتُلِيتَ بِهِمْ إِبْرَاهِيمَ خَلِيلَهُ فَأَتَمَّهُنَّ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا قَالَ وَمِنْ ذُرِّيَّتِي قَالَ لَا يَنَالُ
+عَهْدِي الظَّالِمِينَ فَاجْعَلْنَا مِنَ الْمُحْسِنِينَ مِنْ ذُرِّيَّتِهِ وَمِنْ ذُرِّيَّةِ آدَمَ وَنُوحٍ وَاسْلُكْ بِنَا سَبِيلَ أَئِمَّةِ الْمُتَّقِينَ
+اللَّهُمَّ إِنْ ظَلَمْتُ نَفْسِي ظُلْمًا كَثِيرًا وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ فَاغْفِرْ لِي وَارْحَمْنِي وَتُبْ عَلَيَّ لَا إِلَهَ إِلَّا أَنْتَ
+سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ يَا اللَّهُ يَا عَلِيمُ يَا حَلِيمُ يَا سَمِيعُ يَا بَصِيرُ يَا قَدِيرُ يَا حَيُّ يَا قَيُّومُ
+يَا رَحْمَنُ يَا رَحِيمُ يَا مَنْ هُوَ يَا هُوَ يَا أَوَّلُ يَا آخِرُ يَا ظَاهِرُ يَا بَاطِنُ تَبَارَكَ اسْمُكَ ذُو الْجَلَالِ وَالْإِكْرَامِ اللَّهُمَّ
+صَلِّ بِاسْمِكَ الْعَظِيمِ الَّذِي لَا يَضُرُّ مَعَ الذُّنُوبِ شَيْئًا وَاجْعَلْ لِي مِنْهُ وَجْهًا تَقْضِي بِهِ الْحَوَائِجَ لِلْقَلْبِ وَالْعَقْلِ
+وَالرُّوحِ وَالشَّوْقِ وَالنَّفْسِ وَالْبَدَنِ وَادْرُجْ أَسْمَائِي تَحْتَ أَسْمَائِكَ وَصِفَاتِي تَحْتَ صِفَاتِكَ وَأَفْعَالِي تَحْتَ
+أَفْعَالِكَ إِلَى دَرَجِ السَّلَامَةِ وَإِسْقَاطِ النَّدَامَةِ وَتَنْزِيلِ الْكَرَامَةِ وَظُهُورِ الْإِمَامَةِ وَكُنْ لِي فِيمَا ابْتُلِيتَ بِهِ مِنْ
+أُمَّةِ الْهُدَى مِنَ عِلْمِكَ وَأَغْنِنِي حَتَّى تَغْنِيَ بِمَنْ شِئْتَ وَأَحْيِنِي حَتَّى تَحْيِيَ بِمَنْ شِئْتَ وَمَا شِئْتَ مِنْ
+عِبَادِكَ وَاجْعَلْ خِزَانَةَ الْأَرْبَعِينَ وَمِنْ خَاصَّةِ الْمُتَّقِينَ وَاعْلَمْ لَا يَنَالُهُ الظَّالِمُونَ طسم حم عسق
+مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ بَيْنَهُمَا بَرْزَخٌ لَا يَبْغِيَانِ ثُمَّ الْفَاتِحَةَ الشَّرِيفَةَ إِلَى آخِرِهَا وَقُلْ هُوَ اللَّهُ أَحَدٌ ثَلَاثَ
+مَرَّاتٍ فَمَنْ قَرَأَ هَذِهِ الْآيَاتِ وَالْأَقْسَامَ وَطَلَبَ حَاجَتَهُ مِنْ حَوَائِجِ الدُّنْيَا وَالْآخِرَةِ نَالَهَا بِإِذْنِ اللَّهِ تَعَالَى
+وَهَا نَحْنُ قَدْ فَتَحْنَا الْبَابَ لِمَنْ أَرَادَ الدُّخُولَ إِلَى كَنْزِ الْخَيْرَاتِ وَاللَّهُ يُلْقِي مُلْكَهُ مَنْ يَشَاءُ وَبَعْدَهَا تَقُولُ
+يَا اللَّهُ يَا حَقُّ يَا مُنِيرُ افْتَحْ قَلْبِي بِنُورِكَ وَعَلِّمْنِي مِنْ عِلْمِكَ وَاحْفَظْنِي بِحِفْظِكَ وَأَسْمِعْنِي وَفَهِّمْنِي
+عِلْمَكَ وَبَصِّرْنِي بِكَ وَسَبِّبْ لِي سَبَبًا مِنْ فَضْلِكَ تُغْنِنِي بِهِ مِنَ الْفَقْرِ وَتُعِزُّنِي بِهِ مِنَ الذُّلِّ وَتَصْلُحُ لِي بِهِ
+الدُّنْيَا وَالْآخِرَةِ وَتُصِلْنِي بِهِ إِلَى نُظُورِ وَجْهِكَ الْكَرِيمِ فِي جَنَّةِ النَّعِيمِ إِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ وَلَا حَوْلَ وَلَا
+قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ فَمَنْ قَرَأَ هَذِهِ الْآيَاتِ وَالْأَقْسَامَ كَمَا قَدَّمْنَا ذَكَرَهُمْ نَالَ مَا طَلَبَ مِنَ اللَّهِ تَعَالَى بِمِنَّهِ
+وَكَرَمِهِ
+
+**English:**
+— 234 —
+
+And by what was beneath Thy Throne, truly, before the creation of the heaven and the sound of the thunders,
+that, when Thou hadst not ceased at all toward it, Thou knewest the Unity.
+And in [~] after thy finishing from these noble verses, ask: O Allah, that Thou bless our master Muhammad and his family, and that
+Thou fulfill my need, and it is such-and-such; for Allah, Most High, fulfills it by His favor and His generosity, if Allah, Most High, wills. And after it follows this blessed supplication,
+and it is the supplication of the noble Ayat al-Kursi. Thou sayest: O Living, O Self-Subsisting, Thou art He besides whom there is no god; glory be to Thee, verily I was among
+the wrongdoers. I asked Thee by Thy Self-Subsistence that Thou establish me unto Thee, and I asked Thee by Thy Life for the life of the heart and its safety, likewise in religion
+and the world and the Hereafter and what is between them, and preserve for me all of that, amen. Nothing of its preservation burdens Him. O High, O Great, until
+I meet Thee and Thou art pleased with me. O Allah, upon the best state, from Thee bestow upon me without trial and without punishment in religion and without
+in the world and without in the child and without in the wealth and without in the world and without in the Hereafter, by Thy mercy, O Most Merciful of the merciful. * Know—may Allah, Most High,
+grant thee success and thee to His obedience and illuminate thy heart with the light of His knowledge—that I used often to persist in the recitation of Ayat al-Kursi and the endings of
+Surat al-Baqarah, from His saying, Most High, The Messenger has believed, to the end of the surah, then the beginnings of Surat Al ‘Imran, to His saying, the Mighty,
+the Wise, together with the two verses, His saying, Most High, Say: O Allah, Owner of Sovereignty, to His saying, without reckoning. Then thou sayest: O Allah, verily I ask Thee for the soundness of
+fear and the overcoming of longing and the coming of knowledge and the دوام of thought, and I ask Thee, O Allah, by the secret of secrets, from harms, until
+there be not for us, together with sin or defect, any settling, and give us life and guide, O Allah, by these words which He spread for us upon the tongue of
+Thy Messenger, and with them Thou didst try Abraham Thy friend, and he fulfilled them: He said, Verily I am making thee an imam for the people. He said, And from my offspring? He said, My covenant shall not reach
+the wrongdoers. So make us among the doers of good, from his offspring and from the offspring of Adam and Noah, and lead us by the way of the imams of the Godfearing.
+O Allah, if I have wronged myself with much wrong, and none forgives sins except Thou, then forgive me and have mercy on me and turn unto me. There is no god except Thou.
+Glory be to Thee, verily I was among the wrongdoers. O Allah, O Knowing, O Forbearing, O Hearing, O Seeing, O Powerful, O Living, O Self-Subsisting,
+O Merciful, O Compassionate, O He who is, O He, O First, O Last, O Manifest, O Hidden, blessed is Thy name, Possessor of Majesty and Honor. O Allah,
+bless by Thy عظیم name, which harms nothing along with sins, and make for me from it a face by which needs are fulfilled for the heart and the intellect
+and the spirit and longing and the soul and the body, and insert my names beneath Thy names and my attributes beneath Thy attributes and my actions beneath
+Thy actions, to the degree of safety and the dropping of regret and the sending down of honor and the ظهور of the imamate. And be for me in what Thou hast been tried with from
+the community of guidance, from Thy knowledge, and enrich me until Thou enrich whom Thou wilt, and give me life until Thou givest life by whom Thou wilt, and whomsoever Thou wilt from
+Thy servants, and make the treasury of the forty and from the special ones of the Godfearing. And know, the wrongdoers shall not attain it. Tasm, Ha Mim, ‘Ayn, Sin, Qaf.
+He let loose the two seas, meeting; between them is a barrier, they do not transgress. Then the noble Fatiha to its end, and Say: He is Allah, One, three
+times. So whoever recites these verses and oaths and seeks his need from the needs of the world and the Hereafter shall attain it by the permission of Allah, Most High.
+And behold, we have opened the door for whoever desires entry into the treasury of good things, and Allah casts His sovereignty upon whom He wills. And after it thou sayest:
+O Allah, O True, O Illuminator, open my heart by Thy light, and teach me from Thy knowledge, and preserve me by Thy preservation, and make me hear and make me understand
+Thy knowledge, and make me see by Thee, and cause for me a cause from Thy bounty by which Thou enrichest me from poverty and honorest me by it from humiliation, and by it Thou makest right for me
+the world and the Hereafter, and by it Thou bringest me to the beholding of the vision of Thy noble Face in the Garden of Bliss. Verily Thou art over every thing powerful, and there is no might and no
+power except by Allah, the High, the Great. So whoever recites these verses and oaths as we have previously mentioned them shall attain what he sought from Allah, Most High, by His favor
+and His generosity.
+
+---
+## Page 241
+
+**Arabic (original):**
+- ٢٣٥ -
+
+وكرمه ۞ ومن خواص دعاء آية الكرسي قال بعض الصالحين رضي الله عنه فمن كان يدعو به في جميع
+أموره ومهماته يستجاب له وهو هذا الدعاء العظيم تقول الحمد لله الذي جعل للعالمين أعلام العلوم
+وجعل حملة القرآن العظيم خواصه وأحبابه من الشمول والمروح وأراح الأرواح من التعب
+والنصب والهموم وصير العالم مملكة لازوردية والصالحين طرازها المرقوم فطبيعه ممدوح وعاصيه
+مذموم وأين يفر الظالم وقد دعا عليه المظلوم واشتكاه عند ملك عظيم الهيبة إليه الملوك تقوم يغضب
+لغضبه الماء والهواء والليل والنهار والشمس والقمر والنجوم والحر والبرد والشجر والمدر والسحاب
+والغيوم وقف الموت والحياة عند بابه كوقوف الخادم لله مخدوم الله لا إله إلا هو الحي القيوم دبر
+الوجود يوما بعد يوم وأفنى القرون الماضية قوما بعد قوم وأسكن حركات من في الأرض ومن في السماء
+ولا إشارة لهم ولا ورم أشبع أهل الإسراف وجوع أهل الصوم وأفنى تلك الأشخاص كلها وهو
+الباقي على الدوام لا تأخذه سنة ولا نوم ما فوق الفوق وما تحت التحت والطول والعرض وحكم بالنجاة
+والفوز والندب والفرض على عباده وظاهرهم بذلك الفرض له ما في السموات والأرض كل الخلائق
+لائذ إلى شديد ركنه والمؤمن في حصنه والمنافق في سجنه فإذا يوم القيامة اشتغل كل والد عن
+ولده وابنه لا يشفع عنده إلا من ارتضاه بمنه من ذا الذي يشفع عنده إلا بإذنه خالق للماء والنار
+والتراب والهواء وجعلهم العناصر الأربعة فما النار والتراب والهواء إلا كحبة في الماء والنار
+والتراب والهواء والكرسي إلا كنجمة في السماء وما الماء والذرة والتراب والهواء والعرش والكرسي
+الأرجل معه عشرون درهما والكل في قبضته كذرة في علم الابتداء والانتهاء ما بين أيديهم وما خلفهم
+ولا يحيطون بشيء من علمه إلا بما شاء خلق حملة العرش أربعة سهوى أعظما واضعين تحت
+رؤوسهم وفوق الصخور قدما يشبهون بالوجوه أسدا ونسرا وديكا ونعما لا يسأل صاحب عن
+صاحبه عما في النعماء وسع كرسيه السموات والأرض ولا يؤوده حفظهما أنزل آية الكرسي خمسين
+كلمة من أعظم القرآن العظيم ما سمع مثلها السكليم وهي تحفظ النفوس والروح والمال والولد والمسافر
+والمقيم وتبرئ الأكمه والأبرص والمعافي وتسقم مزلها عظيم وملكها قديم وصراط مستقيم
+وفضلها عميم وهو الله في السموات وفي الأرض هو العلي العظيم
+{ الفصل التاسع عشر في خواص بعض الأوفاق والطلسمات النافعات المجربات }
+۞ اعلم وفقني الله وإياك إلى طاعته وفهم أسرار أسمائه أن لكل آية من كتاب الله تعالى حروفا
+وأعدادا ولكل عدد وفق فمن جمع بين حروف آية وعددها في وفق شريف وفق لكشف سرها واعلم
+أن كل آية لها شكل عند أرباب الأسرار ووفق عند أصحاب الأنوار فانظر الروحاني إلى ذاك الشكل
+أجاب ومن عرف سر التداخل انفصلت له الأشياء ألا ترى أن أصحاب الأسرار لما فهموا أسرار التداخل
+للآيات وغيرها برؤوا بها العلل المزمنة وإنما بطل على السالكين سلوكهم فيه لقلة درايتهم
+بالطبائع والتداخل ففرتوا الأساس على الماء فلم يثبت ووضعوا الثقيل على الخفيف فلم يثبت إذ
+الجاهل ينبغي أن يكون أقوى من المجهول ۞ واعلم أن هذه الحروف خواصها غريبة ومنافعها عجيبة
+لا يطلع عليها إلا أحاد الراسخين من الأفراد والعارفين ويتصرف بها في جذب القلوب والأرواح
+
+**English:**
+and His generosity. ۞ And among the properties of the supplication of Ayat al-Kursi, some of the righteous, may Allah be pleased with him, said: whoever used to supplicate with it in all
+his affairs and important matters, it is answered for him, and it is this العظيم supplication: thou sayest, Praise be to Allah who made for the worlds the banners of the sciences
+and made the bearers of the Mighty Qur’an His special ones and His beloved ones, from comprehensiveness and al-muruwah, and gave rest to the spirits from fatigue
+and toil and worries, and made the world an azure kingdom, and the righteous its inscribed brocade. So its nature is praised and its disobedient one
+blamed. And where shall the wrongdoer flee, when the wronged one has invoked against him and complained of him before a king of great awe, to whom kings rise, he becomes angry
+at his anger: the water and the air and the night and the day and the sun and the moon and the stars and the heat and the cold and the trees and the clay and the clouds
+and the clouds. And death and life stood at his door like the standing of the servant before the served of Allah. Allah, there is no god except He, the Living, the Self-Subsisting. He managed
+existence day after day, and annihilated the past centuries, people after people, and stilled the movements of those in the earth and those in the heaven,
+and there is no indication for them and no swelling. He satisfied the people of excess and made hungry the people of fasting, and annihilated all those persons, and He is
+the abiding forever; slumber does not overtake Him, nor sleep. What is above the above and what is below the below, and the length and the width, and He decreed salvation
+and success and recommendation and obligation upon His servants, and made them manifest by that obligation. To Him belongs what is in the heavens and the earth; all creatures
+seeking refuge in His strong pillar, and the believer in his fortress, and the hypocrite in his prison. So on the Day of Resurrection every father shall be occupied away from
+his child and his son. None intercedes with Him except whom He has approved by His favor. Who is it that intercedes with Him except by His permission? Creator of the water and the fire
+and the earth and the air, and He made them the four elements. So the fire and the earth and the air are nothing but like a grain in the water, and the fire
+and the earth and the air and the Kursi are nothing but like a star in the sky. And what are the water and the atom and the earth and the air and the Throne and the Kursi
+the legs with Him are twenty dirhams, and all are in His grasp like an atom in the knowledge of beginning and ending, what is before them and what is behind them,
+and they encompass nothing of His knowledge except what He wills. He created the bearers of the Throne, four, saho, greater bodies, placing beneath
+their heads and above the rocks a foot, resembling in faces a lion and an eagle and a rooster and a cattle. The possessor does not ask about
+his possessor concerning what is in the bliss. His Kursi has encompassed the heavens and the earth, and their preservation does not burden Him. He sent down Ayat al-Kursi, fifty
+words, from the greatest of the Mighty Qur’an; the sick one has not heard the like of it. It preserves the souls and the spirit and the wealth and the child and the traveler
+and the resident, and it cures the one born blind and the leper and the one in health, and it makes ill its place. Its station is عظیم and its kingdom ancient and a straight path
+and its فضل is abundant, and He is Allah in the heavens and in the earth; He is the High, the Great.
+{ Chapter Nineteen on the properties of some wafqs and talismans, the beneficial tried ones }
+۞ Know—may Allah grant me and thee success to His obedience and the understanding of the secrets of His names—that for every verse of the Book of Allah, Most High, there are letters
+and numbers, and for every number there is a wafq. So whoever combines the letters of a verse and its number in a noble wafq is granted success for the unveiling of its secret. And know
+that every verse has a form with the masters of secrets and a wafq with the people of lights, so let the spiritual one look to that form:
+it answered. And whoever knows the secret of interpenetration, things become separated for him. Do you not see that when the masters of secrets understood the secrets of interpenetration
+of the verses and other than them, they cured by them chronic ailments? Rather, their way was invalidated for the wayfarers because of the paucity of their knowledge
+of natures and interpenetration. So they scattered the foundation upon water and it did not remain fixed, and they placed the heavy upon the light and it did not remain fixed, since
+the ignorant ought to be stronger than the unknown. ۞ And know that these letters, their properties are strange and their benefits wondrous;
+none becomes aware of them except individuals among the firmly grounded, the singular ones, and the knowers, and by them one acts in drawing the hearts and the spirits.
+
+---
+## Page 242
+
+**Arabic (original):**
+— ٢٣٦ —
+وجلب المهج والأشباح وهي تنقسم إلى ناري وترابي وهوائي ومائي هذا عند أرباب الطبائع، وإلى ناري وهوائي وترابي ومائي وهذا مذهب أصحاب النواميس، والمطلوب من أمرنا إنما هو التركيب على قوام هذا الفصل، وهذه صورة دائرته تعرف بها الأحرف المائية والترابية على الترتيب: ا ب ت ث ج ح خ نارية، ل م ن ص ض ع غ هوائية، ف ق س ى ترابية. وصورة الترائب عند أهل الأسرار إنما يقدمون الحروف النارية على الحروف الترابية ويلقونه في الماء؛ لأن الهواء لا يمسك الماء، فها نحن قد بينا لك كل شيء فلا تضجر واطلب واجتهد وكن كما قال الشيخ رحمه الله تعالى شعراً:
+
+اطلب ولا تضجر من مطلب ۞ فآفة الطالب أن يضجرا
+أما تنظر الجبل بتكراره ۞ في الصخرة الصماء قد أثرا
+
+ومن جد وجد ومن لم يجد، وهذه صورة الدائرة كما ترى فافهم ترشد.
+
+[Image of the circle with Arabic letters]
+
+روي عن الإمام علي كرم الله وجهه أنه سأله رجل من اليهود عن عدد بجميع الكسور من النصف إلى العشر من غير كسر، فقال له الإمام: أن أنا أخبرتك عن ذلك تسلم؟ قال: نعم. فقال له الإمام كرم الله وجهه: اضرب أيام جمعتك في أيام شهرك والحاصل في شهور سنتك يظهر لك الجواب عما سألت، فاجتمع من الضرب جميعه ٢٥٢٠، فالنصف ١٢٦٠، والثلث ٨٤٠، والربع ٦٣٠، والخمس ٥٠٤، والسدس ٤٢٠، والسبع ٣٦٠، والثمن ٣١٥، والتسع ٢٨٠، والعشر ٢٥٢، فافهم هذا من العلم الإلهي الذي هو فضل من الله تعالى، والله يؤتي من يشاء والله ذو الفضل العظيم. وحروف الظلمانية أربعة عشر حرفاً وهي هذه يجمعها قولك: غض شج ثيب خذ وزد فظ وأضا، تنقسم إلى قسمين: ذي وأدنى، فالذي منها سبعة يجمعها قولك: ذو قضدغب، والأدنى سبعة يجمعها قولك: خشفبخ نظر، ولكل حرف من الحروف
+النورانية
+
+**English:**
+and the bringing of the souls and the apparitions, and they are divided into fiery and earthy and airy and watery; this is according to the masters of natures, and into fiery and airy and earthy and watery; and this is the doctrine of the أصحاب of laws. And the intended aim of our matter is only the composition upon the basis of this chapter, and this is the form of its circle; by it are known the watery and earthy letters in order: ا ب ت ث ج ح خ fiery, ل م ن ص ض ع غ airy, ف ق س ى earthy. And the form of the earths among the people of secrets is only that they advance the fiery letters over the earthy letters and cast it into the water; because the air does not hold the water. Thus have we made clear to thee everything, so do not be vexed, and seek and strive, and be as the shaykh, may Allah have mercy on him, said in verse:
+
+Seek, and do not be vexed by a seeking ۞ for the bane of the seeker is that he vexes
+Do you not see the mountain, by its repetition ۞ in the solid rock it has made an أثر
+
+And he who strives finds, and he who does not find. And this is the form of the circle as thou seest, so understand, thou wilt be guided.
+
+[Image of the circle with Arabic letters]
+
+It is related from Imam Ali, may Allah ennoble his face, that a man from the Jews asked him about a number with all the fractions from one-half to one-tenth without fraction, so the Imam said to him: if I inform thee of that, wilt thou submit? He said: Yes. So the Imam, may Allah ennoble his face, said to him: multiply the days of thy week by the days of thy month and the حاصل by the months of thy year; the answer to what thou askedst will appear to thee. So from the whole multiplication there came together 2520; so the half is 1260, and the third 840, and the quarter 630, and the fifth 504, and the sixth 420, and the seventh 360, and the eighth 315, and the ninth 280, and the tenth 252. So understand this from the divine knowledge, which is a فضل from Allah, Most High, and Allah gives to whom He wills, and Allah is Possessor of the عظیم فضل. And the letters of the الظلمانية are fourteen letters, and they are these, gathered by your saying: غض شج ثيب خذ وزد فظ وأضا, divided into two parts: ذي and أدنى. So the seven of them are gathered by your saying: ذو قضدغب, and the lower seven are gathered by your saying: خشفبخ نظر, and for every letter of the letters
+the luminous.
+
+---
+## Page 243
+
+**Arabic (original):**
+- ٢٣٧ -
+النورانية ما يقابله من الحروف الظلمانية واما الحروف النورانية فجمعها قولك طرق سمعك النصيحة
+وأيضا على هذه الصفة من قطعك صله سحرا * اعلم أيها الطالب انك اذا اخذت حروف بسط من
+الحروف الظلمانية ومزجتها بحروف اسم الشخص في شفة نبته والقمر في محاقه ودفنته في قبر منسي فان
+الهموم والاحزان تسلط على قلبه من غير سبب فتو الله تعالى قال بعض الفضلاء اذا أردت قضاء
+حاجة من أي أحد كان من الموجودات فاكتب جميع عدد اسمه واسم أمه واسم المطلوب فاذا اجتمع
+من الجملة العدد فارسمه في ساعة سعيدة وامسكه عندك وانهض به في طلب حاجتك فانها تقضى باذن
+الله تعالى * واعلم أيها الطالب اذا أردت أن تنظر شخصا فانظر حروف اسمه واسم أمه وحروف
+طالعه، واخرج حروف الطالع والاسمين وارمه في طعامه او شرابه وتكلم عليه بالكلام وهو بسط
+فتقبض عليه تلك الطبيعة العالية وتصرف فيها بكل ما تريد وهذا سر غامض من أسرار الله تعالى *
+قال الشيخ الامام الفاضل العالم الكامل المحقق المدقق قطب الفرد الجامع علامة عصره
+وفريد دهره الامام جعفر الصادق رضي الله عنه اذا أردت عملا تعمله فخذ اسم الطالب واسم المطلوب
+وأضف اليهما من الاعداد رك وقد هذا هو اعداد الغالب وء و اسم مكسب وكيفية الدخول الى
+سائر الاعمال فاحسب اسم الطالب بالجمل الكبير واسم المطلوب وانظره ان كان الغالب عليه من
+عد ذلك مثاله تجعل اسم الطالب أحمد واسم المطلوب محمد تحسب بطرق العمل هكذا أحمد
+٥٣ ومحمد ٩٢ فاضف أعداد رك فصار اسم الطالب ٢٧٣ واسم المطلوب ٢٧٦ تمازج كلامها
+فصار ٢٤٩ ثم تسقط من هذا ٣٠ بق منه ٦١٩ وقسمناه أربعة أقسام فصار كل قسم منه ١٥٤
+و بقي ثلاثة مكسورة والزائد الذي زاد من الحساب تنزل به هكذا يحصل المقصود ان شاء الله تعالى
+* فائدة ايضا اذا التقى ثلاثة كسور تنزل بيت الخمسة واحد واذا بقي واحد احد تنزل بيت الثلاثة عشر
+واحد يحصل لك المقصود والله أعلم قوله تعالى والله مخرج ما كنتم تكتمون فقفنا اضرب به بعضها
+كذلك يحيي الله الموتى ويريكم آياته لعلكم تعقلون هذه الآية يستنطق بها النائم يخبر عما في ضميره
+وهذه صورة وضعه كآتي
+فاذا أردت ذلك فاكتبها في فك وضعها على صدر النائم واسأله عما تريد
+فانه يخبرك باذن الله تعالى وهو مخصوص باب باب البصائر قوله سبحانه
+وتعالى وكذلك أخذ ربك اذا أخذ القرى وهي ظالمة ان أخذه أليم شديد ١٦٩
+ما ألقيت في دار ظالم الاخر بت تكتب في عظم بومة مذكاة مصطاد بالسلاح والجوارح وهذه
+صورة وضعه الآتية
+
+| ١٥٤ | ٩٨ | ١٦٥ | ١٦٢ |
+| ١٦٦ | ١٦١ | ١٥٥ | ١٦٧ |
+| ١٦٠ | ١٦٣ | ١٧٠ | ١٥٦ |
+| ١٦٩ | ١٢٧ | ١٥٩ | ١٦٤ |
+
+**English:**
+- 237 -
+the luminous, what corresponds to it from the dark letters; and as for the luminous letters, their collection is your saying: “The paths of your hearing, the counsel.”
+And likewise, in this manner, from your cutting off a connection by sorcery * know, O seeker, that if you take the letters of expansion from the dark letters and mix them with the letters of the person’s name in the lip of a plant, and the moon in its conjunction, and bury it in a forgotten grave, then worries and sorrows will be set upon his heart without cause, so fear Allah تعالى. Some of the virtuous said: if you desire the fulfillment of a need from anyone whatsoever among existing things, then write the total number of his name and the name of his mother and the name of the one sought; then when the number from the total has come together, draw it in an auspicious hour and keep it with you and set out with it in seeking your need, for it will be fulfilled by the permission of Allah تعالى * And know, O seeker, if you desire to look upon a person, then look at the letters of his name and the name of his mother and the letters of his ascendant, and extract the letters of the ascendant and the two names and cast them into his food or his drink, and speak over him with the speech while it is expansion, then that lofty nature will seize him and dispose within it with whatever you wish; and this is a hidden secret from the secrets of Allah تعالى *
+The shaykh, the imam, the virtuous, the learned, the complete, the verifying, the exacting, the pole of the singular, the جامع, the sign of his age and the unique one of his time, the imam Ja‘far al-Sadiq, may Allah be pleased with him, said: if you desire a work to do, then take the name of the seeker and the name of the sought, and add to them from the numbers رك وقد; this is the numbers of the dominant and ء and the name of gain and the manner of entering into the rest of the works. So calculate the name of the seeker by the great abjad and the name of the sought, and consider it; if the dominant over it is from that number. Its example: you make the name of the seeker Ahmad and the name of the sought Muhammad; you calculate by the methods of the work thus: Ahmad 53 and Muhammad 92. So add the numbers of رك, and the name of the seeker became 273 and the name of the sought 276; their speech was mixed, so it became 249. Then subtract from this 30; there remained منه 619, and we divided it into four divisions, so every division of it became 154, and there remained three broken ones, and the excess that increased from the calculation, descend with it thus; thus the intended purpose is obtained, if Allah تعالى wills *
+* Benefit also: if three fractions meet, descend بيت الخمسة one, and if one single one remains, descend بيت الثلاثة عشر one; the intended purpose will be obtained for you, and Allah knows best. His saying تعالى: “And Allah brings forth what you used to conceal,” so we stopped, strike with some of it likewise. “Thus Allah gives life to the dead and shows you His signs, that you may reason.” This verse is made to speak by means of the sleeper; he informs of what is in his inner self. And this is the form of its placement as follows:
+So if you desire that, write it in a jaw, place it upon the chest of the sleeper, and ask him about what you want, for he will inform you by the permission of Allah تعالى. And it is مخصوص by باب باب البصائر. His saying سبحانه وتعالى: “And thus is the seizure of your Lord when He seizes the towns while they are unjust; indeed His seizure is painful, severe” 169.
+What you cast in the house of an unjust one, the other one slept; you write in the bone of an owl, slaughtered, hunted with weapons and birds of prey. And this is the following form of its placement:
+
+| 154 | 98 | 165 | 162 |
+| 166 | 161 | 155 | 167 |
+| 160 | 163 | 170 | 156 |
+| 169 | 127 | 159 | 164 |
+
+Notes:
+[Grid content preserved as-is]
+
+---
+## Page 244
+
+**Arabic (original):**
+- ٢٣٨ -
+
+[Grid content]
+ن | و | ل
+ل | ن | و
+ك | ل | ن | م | ث | ر
+ف | ه | ى | ى | ل
+و | ى | ر
+
+[Diagram text]
+[?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | 
+[...truncated...]
+
+**English:**
+- 238 -
+
+[Grid content preserved as-is]
+ن | و | ل
+ل | ن | و
+ك | ل | ن | م | ث | ر
+ف | ه | ى | ى | ل
+و | ى | ر
+
+[Diagram text]
+[?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] | [?] |
+
+---
+## Page 245
+
+**Arabic (original):**
+- ٢٣٩ -
+
+ومقام كثيرة يأخذونها فتفتح أبواب السماء بما منهم نصر من الله وفتح قريب وفتحت السماء فكانت أبوابا إذا جاء نصر الله والفتح ورأيت الناس يدخلون في دين الله أفواجاً فسبح بحمد ربك واستغفره إنه كان تواباً فاكتبهم وعلقهم على عضدك الأيمن ففعلت ذلك ففتح الله ويسر الله لي من حيث لا أحتسب * قوله تعالى فستذكرون ما أقول لكم وأفوض أمري إلى الله إن الله بصير بالعباد هذه الآية الشريفة من نقشها في خاتم وختم بها كان ملفوفاً به في جميع أحواله وإذا دخل به على ظالم * يقرؤها أمامه كفى أمري بحول الله تعالى وقوته وهذه صورته
+قال بعض العلماء رضي الله عنه من أراد الوصول إلى الغنى الأكبر
+والكبر الأعظم فليكتب قوله تعالى قل اللهم مالك الملك تؤتي الملك
+من تشاء وتنزع الملك ممن تشاء وتعز من تشاء وتذل من تشاء بيدك
+الخير إنك على كل شيء قدير تولج الليل في النهار وتولج النهار في الليل
+وتخرج الحي من الميت وتخرج الميت من الحي وترزق من تشاء
+بغير حساب في صحيفة من ذهب أو فضة أو ورق في يوم سعيد في الساعة
+الأولى من يوم الخميس وليصم من أراد أن يصل إلى السر الأعظم والكنز العظيم أو يعين يوماً لا يأكل فيها
+حيواناً ولا ما خرج من حيوان ويفطر على الحلال وإن قدر على المباح الذي لم تتعلق به همم الناس فهو
+أولى وليقرأ كل يوم عند طلوع الشمس سورة الضحى ألف مرة ثم يقول في آخر ذلك اللهم يسر علي
+اليسر الذي يسرته على كثير من عبادك وأغنني بفضلك عمن سواك وكذلك تقرأ السورة بعد
+الغروب العدد المتقدم وليضع الشكل المرسوم في كيس طاهر في اليوم الأول ومعه أربعون درهماً
+فإذا أراد أن ينفق شيئاً فلا أسر عدد ما أنفق منه إلا ثبت مدة الأيام وهو باق على حاله لم يتغير وهو
+مخصوص بأرباب الأحوال فافهم فقد فتحت باب الغنى لمن أراد والله يقول الحق وهو يهدي
+السبيل * واعلم وفقني الله وإياك إلى طاعته أن الملك والسلطنة قل اللهم مالك الملك إلى قوله تعالى
+بغير حساب والوزارة والإمارة واجعل لي وزيراً من أهلي هارون أخي اشدد به أزري وجعلنا معه
+أخاه هارون وزيراً والمحبة والطاعة وألقيت عليك محبة مني ولتصنع على عيني لو أنفقت ما في الأرض
+جميعاً ما ألفت بين قلوبهم ولكن الله ألف بينهم إنه عزيز حكيم وإنه لحب الخير لشديد يحبونهم
+كتب الله الذين آمنوا أشد حباً لله والنصر والغلبة وما النصر إلا من عند الله وينصرك الله نصراً
+عزيزاً ادخلوا عليهم الباب فإذا دخلتموه فإنكم غالبون وعلى الله فتوكلوا إن كنتم مؤمنين فافهم ذلك
+فإنه لا يمكن التصريح بأكثر من ذلك وقس عليه ما فهم من الآيات ما لم يفهم * واعلم أن من داوم
+على قراءة الضحى أربعين يوماً في كل يوم عند انقضاء ذكره وقراءته اللهم يا مغني أغنني
+بجلالك عن حرامك غنى لا أخاف منه فقراً واهدني في ضال واعلمني فإني جاهل أرسل الله تعالى
+إليه من يعلمه الحكمة في نومه أو في يقظته * قوله تعالى وما محمد إلا رسول قد خلت من قبله الرسل أفإن
+مات أو قتل انقلبتم على أعقابكم ومن ينقلب على عقبيه فلن يضر الله شيئاً وسيجزي الله الشاكرين
+إذا رسمت على هذه الصورة وعلى جهاتها محمد وجبريل وميكائيل وإسرافيل وعزرائيل عليهم
+
+**English:**
+- 239 -
+
+and many stations they take, so the gates of heaven are opened by what is from them: victory from Allah and a near opening, and the heaven was opened and became gates, when the victory of Allah and the opening came, and you saw the people entering into the religion of Allah in troops, so glorify with the praise of your Lord and seek His forgiveness; indeed He was ever accepting of repentance. So write them and hang them upon your right upper arm; so I did that, and Allah opened, and Allah made easy for me from where I do not reckon * His saying تعالى: “Then you will remember what I say to you, and I entrust my affair to Allah; indeed Allah is Seeing of the servants.” This noble verse, whoever engraves it in a ring and seals with it, will be wrapped with it in all his states; and if he enters with it upon an unjust one * he recites it before him, my affair is sufficed by the might of Allah تعالى and His power. And this is its form.
+Some of the scholars, may Allah be pleased with him, said: whoever desires to attain the greatest wealth
+and the greatest grandeur, let him write His saying تعالى: “Say: O Allah, Owner of the kingdom, You give the kingdom
+to whom You will and You take away the kingdom from whom You will, and You honor whom You will and You abase whom You will; in Your hand
+is the good; indeed You are over all things powerful. You make the night enter into the day and You make the day enter into the night,
+and You bring forth the living from the dead and You bring forth the dead from the living, and You provide for whom You will
+without reckoning” on a sheet of gold or silver or paper, on a fortunate day, in the first hour
+of Thursday. And let him fast who desires to reach the greatest secret and the great treasure, or let him designate a day in which he does not eat
+an animal nor what has come out of an animal, and he breaks his fast on the lawful; and if he is able to [eat] the permissible that the aspirations of people have not تعلق به, then it is
+more fitting. And let him recite every day at sunrise Surat al-Duha one thousand times, then say at the end of that: O Allah, make easy for me
+the ease that You have made easy for many of Your servants, and enrich me by Your bounty from other than You. Likewise the surah is recited after
+sunset the preceding number. And let him place the drawn figure in a pure pouch on the first day, and with it forty dirhams.
+Then if he desires to spend something, let him not count the number of what he spends from it except that it remains established for the duration of the days, while it remains upon its state, unchanged; and it is
+specific to the masters of states, so understand, for the gate of wealth has been opened for whoever desires. And Allah says the truth, and He guides
+the way * And know, may Allah grant me and you success in obedience to Him, that kingship and sovereignty: “Say: O Allah, Owner of the kingdom” up to His saying تعالى:
+“without reckoning”; and the ministry and the emirate: “And appoint for me a minister from my family, Aaron my brother; strengthen through him my back,” and “We made with him
+his brother Aaron a minister”; and love and obedience: “And I cast upon you love from Me, and that you be brought up under My eye”; if you were to spend what is in the earth
+all of it, you would not have united their hearts, but Allah united between them; indeed He is Mighty, Wise. And indeed he is, for the love of good, شديد; they love them.
+Allah has written those who believe as strongest in love for Allah; and victory and triumph: “And victory is only from Allah, and Allah will grant you victory, a mighty victory.
+Enter upon them through the gate; then when you have entered it, you will be غالبون; and upon Allah rely, if you are believers.” So understand that,
+for it is not possible to state more than that, and analogize to it what is understood from the verses, what is not understood. * And know that whoever persists
+in reciting al-Duha for forty days, every day at the completion of his remembrance and his recitation: “O Enricher, enrich me
+by Your majesty from Your unlawful, a wealth from which I do not fear poverty,” and guide me in [my] astray, and teach me, for I am ignorant—Allah تعالى
+will send to him one who teaches him wisdom in his sleep or in his waking. * His saying تعالى: “And Muhammad is only a messenger; messengers have passed away before him. So if
+he dies or is killed, will you turn back on your heels? And whoever turns back on his heels will not harm Allah anything, and Allah will reward the grateful.”
+If you draw upon this form and upon its sides Muhammad and Jibril and Mika’il and Israfil and ‘Azra’il عليهم
+
+Notes:
+[Grid content preserved as-is]
+
+---
+_End of translation — 245 pages._
