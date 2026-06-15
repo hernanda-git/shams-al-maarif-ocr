@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 161 translated pages._
+_Auto-generated from 167 translated pages._
 
 ---
 ## Page 1
@@ -9005,4 +9005,386 @@ Among that is adherence to the الجماعة and the correct belief correspondi
 Among that is the union of the cities and seeking the suitable time for the request and fumigation with the fitting fumigation and wearing the special garment, for these are the conditions of the weak who have not reached the stature of men. And know that it is necessary for whoever is in the degree of adhering to these conditions to take a house for remembrance that none other than him enters, and let it be only the measure of his sitting and standing, nothing separating from it, and in it there is no opening through which light enters, far from sounds, and he sits in it directly upon the earth without a barrier, and if he needs a barrier then its table is the earth, and he does not sleep unless sleep overcomes him, and he attends to the four fumigations in most of his times. (A لطيفة) Some of them were asked about seclusion, and he said: its taste suffices in place of its meaning, and its form turns away from its purport; meaning, whoever chooses seclusion, it is the best of matters, and it was said, the highest of them. And know that retreat is a ضبط for the people of purity, and seclusion is among the signs of union. So understand that, and God is the pearl of the speaker.
 
 ---
-_End of translation — 161 pages._
+## Page 162
+
+**Arabic (original):**
+— ١٥٦ —
+
+بيت الولاية قسمت أركانه ۞ ساداتنا فيه من الأبدال
+مابين صمت واعتزال دائم ۞ والجوع والسهر النزيه العالي
+۞ وقال عليه السلام الصمت يورث معرفة الله والعزلة تورث معرفة الدنيا والجوع يورث معرفة
+الشيطان والسهر يورث معرفة النفس ۞ واعلم أنه قد أجمع السلف رضي الله تعالى عنهم على أن
+الفتح الرباني والكشف الصمداني لا يصلح لمن في معدته مثقال ذرة من الطعام وهو حد الصمدانية
+الجسمانية واختلف في ذلك فقيل يكون في أسبوعين والأشهر عندهم الأربعين وهو
+ما شرطه الله في حق كليمه موسى عليه السلام في الأربعين لتطهر معدته من كثائف الأغذية فتقوى
+روحانية روحه ويصفو عقله ويقوى قلبه وتطيب نفسه فهذه صمدانية الأرواح وقد حدها السلف
+الصالح إلى ٦٠ يوماً وفيها تدرك عجائب الملكوت ولطائف الجبروت وأسرار الملك ۞ وأما صمدانية
+العقول بمجموع الذات الإنسانية فسبعون يوماً وهي انتهاء المدة للمتمرضين ومنها نشأة أخرى مختصة
+أنوار اختصاصية لم يعهدها أحد من أرباب الأحوال ولا من مراتب الأعمال فتكشف له الأسرار
+ويرفع عن أسراره الأستار وهو الذي مات بالفناء ثم أحيي بالبقاء وهذه آخر مرتبة الصمدانية في
+الإنسانية مجموع علمها وأنواع تجلياتها ۞ واعلم أن مادة الشهوات الطبيعية لا تحسم إلا بعد جوع عام
+جرت بذلك العادة القديمة في أسرار الذات ۞ أما صمدانية الطائع فحدها ٢٨ يوماً أو أقل لسالك
+مبادئ أسرار الصمدانية من ٤١ يوماً ۞ وأما من خرمت عليه العادة وغلبت عليه نفسه لميلها إلى
+ما تشتهيه فزمومه السوء وأخرجوه عن الخلوات بحراب بطلانه عن الموارد الربانية والمواهب
+الإلهية الإيمانية وكان بعضهم ينقص من أكله كل يوم قدر نواة ومنهم من لا يعمل في تقليل القوت
+ولكن يعمل في تأخره بالتدريج حتى ينتهي تدريجه إلى ٧ أيام وعشرة أيام إلى تمام الأربعين ومنهم
+من يعتبر أكله بعود رطب وينقص من أكله كل يوم بقدر نشاف العود وقال سهل رضي الله عنه
+من طوى أربعين يوماً ظهرت له آثار القدرة في الملكوت وقد كشفنا عن أسرار السلوك وأوضحنا
+الطريق فافهم
+
+﴿ وهذه صلاة الكفاية ﴾
+تصلي ست ركعات في أي وقت ثم تجلس بعد تمام الصلاة وتقول سبحان الله والحمد لله ولا إله إلا الله
+والله أكبر ولا حول ولا قوة إلا بالله العلي العظيم اللهم صل على سيدنا محمد وعلى آله وأصحابه
+وأزواجه أمهات المؤمنين كما صليت على إبراهيم وعلى آل إبراهيم في العالمين إنك حميد مجيد ثم بعد
+ذلك يكبر ويسجد ويقرأ في سجوده فاتحة الكتاب سبعاً وآية الكرسي كذلك وقول لا إله إلا الله
+وحده لا شريك له له الملك وله الحمد يحيي ويميت وهو على كل شيء قدير ١٠ اللهم إني أسألك بمعاقد
+العز من عرشك وبمنتهى الرحمة من كتابك وبحق اسمك العظيم الأعظم وجدك الأعلى وكلماتك
+التامة ثم يسأل حاجته ويرفع رأسه وأن يذبح كبشاً سليماً من العيوب في موضع خال ذبحاً شرعياً
+موجهاً للقبلة ويقول عند الذبح اللهم هذا منك وإليك فاجعله فدائي وتقبله مني ويحفر له حفرة
+ويدفنه في التراب ويخرجه ويقطعه ٦٠ جزء ويفرقه على الفقراء والمساكين أو يطعم ستين
+
+**English:**
+— 156 —
+
+The House of Wilayah, its corners were divided ۞ our masters therein are from the Abdal
+Between silence and perpetual seclusion ۞ and hunger and the lofty, pure vigil
+۞ And he, peace be upon him, said: silence begets knowledge of God, and seclusion begets knowledge of the world, and hunger begets knowledge of
+Satan, and vigil begets knowledge of the النفس ۞ And know that the predecessors, may God تعالى be pleased with them, have unanimously agreed that
+the divine opening and the Samadani unveiling are not suitable for one in whose stomach there is the weight of an atom of food, and that is the limit of the bodily Samadaniyyah
+And there was disagreement concerning that, so it was said it is in two weeks, and the more famous among them is forty, and it is
+what God stipulated in the right of His interlocutor Moses, peace be upon him, in the forty, so that his stomach may be purified from the dense foods, then the
+spirituality of his spirit becomes strong, and his intellect becomes clear, and his heart becomes strong, and his soul becomes pleasant; so this is the Samadaniyyah of spirits, and the righteous predecessors
+limited it to 60 days, and therein are perceived the wonders of the Malakut, the لطائف of the Jabarut, and the secrets of the kingdom ۞ And as for the Samadaniyyah
+of the intellects with the totality of the human essence, it is seventy days, and it is the end of the period for the sickly, and from it is another genesis, specific
+exclusive lights that none of the people of states nor of the ranks of deeds has known, so the secrets are unveiled to him
+and the veils are lifted from his secrets, and he is the one who died by annihilation then was brought to life by subsistence, and this is the last rank of the Samadaniyyah in
+humanity, the totality of its knowledge and the kinds of its manifestations ۞ And know that the substance of natural desires is not cut off except after a general hunger
+by which the ancient custom has proceeded in the secrets of the essence ۞ As for the Samadaniyyah of the obedient, its limit is 28 days or less for the wayfarer of
+the beginnings of the secrets of the Samadaniyyah from 41 days ۞ And as for one upon whom the custom has been breached and his soul has prevailed over him due to its inclination to
+what it desires, then its bad reins and they brought him out of the seclusions with the spears of its invalidity from the divine resources and the
+faithful divine gifts, and some of them used to diminish from his food every day the amount of a kernel, and among them is one who does not work in reducing the sustenance
+but works in delaying it gradually until his gradual reduction ends at 7 days and ten days until the completion of forty, and among them
+is one who considers his food by a fresh twig and diminishes from his food every day by the amount of the twig’s drying, and Sahl, may God be pleased with him, said:
+whoever folds up forty days, the آثار of power appear to him in the Malakut, and we have disclosed the secrets of conduct and clarified
+the path, so understand
+
+﴿ And this is the Prayer of Sufficiency ﴾
+You pray six rak‘ahs at any time, then you sit after the completion of the prayer and say: Glory be to God and praise be to God and there is no god but God
+and God is greater and there is no might and no power except by God, the Most High, the Most Great. O God, send blessings upon our master Muhammad and upon his family and his companions
+and his wives, the Mothers of the Believers, as You sent blessings upon Abraham and upon the family of Abraham in the worlds; indeed You are Praiseworthy, Glorious. Then after
+that he magnifies and prostrates and recites in his prostration the Opening of the Book seven times and the Verse of the Throne likewise and the saying: there is no god but God,
+alone, no partner for Him; His is the kingdom and His is the praise; He gives life and causes death, and He is over all things powerful 10 O God, I ask You by the bonds
+of might from Your Throne and by the utmost of mercy from Your Book and by the right of Your greatest, greatest Name and Your highest majesty and Your perfect words
+then he asks his need and raises his head, and that he slaughter a ram free of defects in an empty place, a lawful slaughter, directed toward the qiblah, and he says at the slaughter: O God, this is from You and to You, so make it my ransom and accept it from me; and he digs for it a pit
+and buries it in the earth and takes it out and cuts it into 60 parts and distributes it to the poor and the needy, or feeds sixty
+
+---
+## Page 163
+
+**Arabic (original):**
+— ١٥٧ —
+مسكينا من أفضل الطعام أو يتصدق بسبعة دراهم على سبعة مساكين فإنه يكفي شر من يريد * ولنختم
+هذا الفصل بذكر غريب وورد عجيب لا يناجي الله به عبد إلا أعتق ولا أسير إلا انطلق ولا خائف
+إلا أمن ولا فقير إلا استغنى ولا ذليل إلا عز وفيه معنى بديع لقمع الجبارين وقطع دابر الظالمين
+والمفسدين ومن كتبه وحمله ذل له كل جبار عنيد وشيطان مريد ولا يراه أحد إلا أحبه * ومن أكثر
+من ذكره أحيا الله قلبه بنور المعارف وحفظه في أهله وماله وعياله ونفسه وكفاه شر ما يخاف ولا
+يذكره ملك إلا اتسع ملكه ونفذت كلمته وفيه اسم الله الأعظم ومن ذكره بين يدي جبار وقت
+غضبه سكن ومن سأل الله به حاجة أعطاه ما سأل فافهم التوحيد بهذا السر المكنون واستعن به عن
+كثير من الأذكار التصريفية في مثل هذا النوع والدخول عليه بعرفة أو باب الصائر وذكرها
+الاسم الجامع لأكابر المولهين حي قيوم لا رب باب البدايات ولأراد الإنسان أن يفصح عن أسرار هذا
+الياقوت الباهر والسر الزاهر من جهة أسراره العددية وآثاره الحرفية وأمهاته النورانية وأوضاعه
+الوفقية لا تستوعب من ذلك عشرة وينبغي للملوك والأمراء والأكابر والصلحاء وأفاضل العلماء
+وحذاق الحكماء التوجه به في الأولى من يوم الجمعة أو يوم الأحد أو يوم عرفة أو يوم العيدين أو يوم
+عاشوراء أو ليلة النصف من شعبان أو ليلة ٢٧ رمضان أو في غرة كل شهر أو ليالي الجمع لتظفر
+بخيري الدنيا والآخرة والسعادة العظمى * وهذا هو الورد المبارك (بسم الله الرحمن الرحيم) ولا حول
+ولا قوة إلا بالله العلي العظيم اللهم صل على سيدنا محمد وعلى آله وصحبه وسلم كما صليت على إبراهيم وعلى
+آل إبراهيم في العالمين إنك حميد مجيد لا إله إلا أنت سبحانك إني كنت من الظالمين ١٢٦ مرة حسبي الله
+ونعم الوكيل حسبي الله لا إله إلا هو عليه توكلت وهو رب العرش العظيم ٧ مرات بسم الله الذي لا يضر
+مع اسمه شيء في الأرض ولا في السماء وهو السميع العليم ٣ مرات سلام قولا من رب رحيم ١٩ مرة
+ولا حول ولا قوة إلا بالله العلي العظيم ١٩ مرة اللهم يا ودود ٣ مرات يا ذا العرش المجيد يا مبدئ
+يا معيد يا فعال لما يريد أسألك بنور وجهك الذي ملأ أركان عرشك وبقدرتك التي قدرت بها على
+جميع خلقك وبرحمتك التي وسعت كل شيء لا إله إلا أنت يا غياث المستغيثين أغثني ١٣ مرة اللهم
+يا عظيم يا ولي يا عليم يا حنان يا منان يا رحيم يا رحمن يا جميل يا عطوف يا كريم يا رؤوف أسألك
+باسمك المخزون أن تقبض على من فيض جمالك الأقدس وكمالك الأنفس سرا نورانيا وأسرارا يا نا حتى
+أتصرف في النفوس والأرواح والمهج والأشباح بهيجان المحبة وهيجان المودة يا من يفرج عن
+المحزونين يا أنيس المستوحشين اللهم إني أسألك بسر الألف المعطوف الذي هو مبدأ الحروف يا وهاب
+يا نافع يا تواب اللهم إني أسألك شوقا يوصلني إليك ونورا يداني عليك وتلقي الروح والريحان وفرحة
+الأمن منك والرضوان يا باسط يا واحد يا ماجد يا الله ٣ ربي لا شريك له ولا أشرك به شيئا اللهم من
+أرادني بسوء أو شر فأقم رأسه وأعقل لسانه وألجم فاه وأحبس كيده وحل بيني وبينه يا دائم
+يا حي يا مجيب يا مجيد بحرمة محمد ٩ صلى الله عليه وسلم اللهم إني أسألك بالسر الجامع والنور الساطع
+أن تهبني فرقانا منك تشرح به صدري وترفع به قدري أنت وجهتي وجاهي وإليك المرجع والتناهي
+تجبر الكسير وترحم الفقير لا إله إلا الله الحليم العظيم لا إله إلا الله رب العرش العظيم لا إله إلا الله ب
+
+**English:**
+— 157 —
+a poor person from the best food, or he gives charity of seven dirhams to seven poor persons, for it suffices against the evil of whoever intends * And let us conclude
+this chapter with the mention of a strange and wondrous litany; no servant supplicates God with it except that he is freed, nor a captive except that he is released, nor a fearful one
+except that he is made secure, nor a poor one except that he becomes rich, nor a humiliated one except that he is honored, and in it is a wondrous meaning for subduing the tyrants and cutting off the remnant of the الظالمين
+and the corrupters, and whoever writes it and carries it, every obstinate tyrant and rebellious devil is humbled to him, and no one sees it except that he loves it * And whoever
+increases in ذكره, God revives his heart with the light of knowledges and preserves him in his family and his wealth and his dependents and his self, and suffices him the evil of what he fears, and no
+angel mentions it except that his kingdom expands and his word is carried out, and in it is the Greatest Name of God, and whoever mentions it before a tyrant at the time
+of his anger, he becomes calm, and whoever asks God by it for a need, He gives him what he asked; so understand tawhid by this hidden secret and seek help by it from
+many of the dispositional litanies in such a type, and entering upon it by Arafah or the Gate of the Departing, and ذكرها
+the جامع name for the greatest of the infatuated: Hayy Qayyum, no Lord, Gate of the Beginnings, and if a person were to wish to express the secrets of this
+radiant ruby and shining secret from the aspect of its numerical secrets and its letter effects and its luminous mothers and its harmonious
+arrangements, ten would not encompass that, and it is fitting for kings and princes and notables and the righteous and the eminent scholars
+and the adept sages to turn toward it in the first of Friday or on Sunday or on the Day of Arafah or on the Day of the Two Feasts or on the Day of
+Ashura or on the night of the middle of Sha‘ban or on the night of 27 Ramadan or at the beginning of every month or on the nights of الجمع so that you may attain
+the good of this world and the Hereafter and the greatest happiness * And this is the blessed litany (In the name of God, the Most Merciful, the Most Compassionate) and there is no might
+and no power except by God, the Most High, the Most Great. O God, send blessings upon our master Muhammad and upon his family and his companions and grant peace, as You sent blessings upon Abraham and upon
+the family of Abraham in the worlds; indeed You are Praiseworthy, Glorious. There is no god but You, glory be to You; indeed I was among the wrongdoers 126 times. God is sufficient for me
+and excellent is the Trustee. God is sufficient for me; there is no god but He; upon Him I rely, and He is the Lord of the Mighty Throne 7 times. In the name of God by whose name nothing harms
+on earth nor in the heaven, and He is the Hearing, the Knowing 3 times. Peace, a saying from a Merciful Lord 19 times
+and there is no might and no power except by God, the Most High, the Most Great 19 times. O God, O Loving 3 times, O Possessor of the Glorious Throne, O Originator
+O Restorer, O Doer of what He wills, I ask You by the light of Your Face that filled the corners of Your Throne and by Your power by which You قدرت over
+all Your creation and by Your mercy that encompasses everything; there is no god but You, O Succorer of the succor-seekers, succor me 13 times. O God,
+O Great, O Guardian, O Knowing, O Compassionate, O Bestower, O Merciful, O Most Merciful, O Beautiful, O Kind, O Generous, O Clement, I ask You
+by Your hidden Name that You seize, from the overflow of Your most holy beauty and Your most perfect perfection, a luminous secret and secrets, O Na, until
+I may act in the souls and spirits and hearts and bodies by the stirring of love and the stirring of affection, O You who relieves
+the sorrowful, O intimate companion of the lonely. O God, I ask You by the secret of the turned alif, which is the beginning of the letters, O Bestower
+O Benefactor, O Accepter of repentance. O God, I ask You for a longing that brings me to You and a light that draws near upon You and the receiving of spirit and basil and the joy
+of security from You and good pleasure, O Expander, O One, O Glorious, O God 3, my Lord, there is no partner for Him and I associate nothing with Him. O God, whoever
+intends me with evil or harm, then raise his head and bind his tongue and bridle his mouth and restrain his plot and place a barrier between me and him, O Everlasting
+O Living, O Responder, O Glorious, by the sanctity of Muhammad 9, peace be upon him. O God, I ask You by the جامع secret and the shining light
+that You grant me a Furqan from You by which You expand my breast and raise my rank; You are my direction and my face, and to You is the return and the end.
+You mend the broken and have mercy on the poor. There is no god but God, the Forbearing, the عظیم. There is no god but God, Lord of the Mighty Throne. There is no god but God b
+
+---
+## Page 164
+
+**Arabic (original):**
+— ١٥٨ —
+
+السّموات والارض وربّ العرش الكريم اللهمّ ربّ جبريل وميكائيل واسرافيل وعزرائيل
+وابراهيم واسمعيل واسحق ويعقوب عافني واعف عنّي ولا تسلّط عليّ أحداً من خلقك يا الله بشيئ
+لا طاقة لي به يا سميع الدّعاء يا مجيب النّداء فسيكفيكهم الله وهو السّميع العليم توكّلت على الحيّ الذي
+لا يموت والحمد لله الذي لم يتّخذ ولداً ولم يكن له شريك في الملك الى تكبيرا الله أكبر ٣
+اللهمّ انّي أعوذ بك ممّا أخاف وأحذر وأعوذ بالله الذي لا اله الا هو ممسك السّماء أن تقع على الارض الا
+باذنه من كلّ جبار عنيد وشيطان مريد اللهمّ انّي أسألك الفقر وأماناً من الفتن وأماناً من الخسف
+وأماناً من الرّجف اللهمّ احسن عاقبتنا في الامور كلها وأجرنا من خزي الدّنيا وعذاب الآخرة اللهمّ
+انّي أسألك بمحمّد السّيد الكامل الفاتح الخاتم نور أنوار المعارف ومرّ أسرار العوارف وصفوة خلقك
+وسرّ علمك ومرآة ذاتك ومشهد صفاتك وأسألك بنور وجهك وبساط رحمتك وبالسبعة والثّمانية
+وأسرارها المتّصلة منك يا الله ٣ يا أحد يا صمد يا حيّ يا قيّوم أن تهبني من علمك عقلاً ومن جانبك
+روحاً ومن ارادتك حكماً ومن قدرتك فعلاً ومن كلماتك لساناً ومن سمعك فهماً ومن بصرك كشفاً
+ومن احاطتك قياماً وامنحني منك بك سرّاً تخضع له أعناق المتكبّرين وتنقاد اليه نفوس الجبّارين
+فلك الحمد يا ربّ على كلّ بداية ولك الشّكر على كلّ نهاية أنك أنت الغنيّ الحميد اللهمّ أنمني على فراش
+رحمتك بامنك واحرسني بحارس حفظك وصونك وردني برداء الهيبة وأجلسني على سرير العظمة
+متوّجاً بتاج البهاء واضرب عليّ سرادقات الحفظ وانشر عليّ لواء العزّ ويسّر لي الرّزق واملأ باطني خشية
+ورحمة وظاهري عظمة وهيبة وملكني ناصية كلّ جبار عنيد وشيطان مريد واعصمني من الخطأ
+والزلل وأيدني في القول والعمل اللهمّ انّي أسألك بك وبما اشتملت عليه ذاتك مما لا يعلمه أحد سواك
+أن تصلّي على سيّدنا محمّد الذّات المحمديّة واللطيفة الاحمديّة شمس سماء الاسرار ومظهر الانوار وقطب
+فلك الجمال ومركز مدار الجلال اللهمّ انّي أسألك بسره لديك وبسيره اليك أن تؤمن خوفي وتقيل
+عثرتي واذهب حرصي وحزني وكلّ نقصي وخذني اليك وارزقني القناعة ولا تجعلني مفتوناً
+بنفسي محجوباً بحسي واكشف لي عن كلّ سرّ مكتوم يا حيّ يا قيّوم واكفني بلطف ترتاح اليه أرواح
+الاولياء وتنبسط له نفوس السّعداء فلك المجد الاوسع والملك الاجمع اللهمّ انّي أسألك بكلّ اسم سمّيت
+به نفسك في علمك انك لا تمنع من السّؤال به طالباً ولا تردّ من سأل به خائباً أسألك أن تقضي حاجتي فيما أريد
+وأن تنصحني بحسن العاقبة انك تعلم ما أريدك يدك مقاليد الامور وأنت على كلّ شيء قدير اللهمّ انّي أسألك
+وأتوسّل اليك ببسم الله الرّحمن الرّحيم ان تفيض عليّ من ملابس أنوارك مارة على أبصار
+الاعداء خاسئة وأيديهم خاسرة وان تكسوني من كلّ ما أحاول بهجة منك تترّاح اليها رواح المدبّرين
+وتشخص لها أبصار النّاظرين وتسير بها أسرار العارفين انك أنت علّام الغيوب ومعلمها وكاشف الاسرار
+ومفهمها فلك الحمد والمدح وبيدك الخير والفتح اللهمّ صلّ على أنبيائك والمرسلين وملائكتك المقرّبين
+وأوليائك الصّالحين وعلى أهل طاعتك أجمعين وبلغهم سلامنا وتحيّتنا وبلغنا شفاعتهم بسؤالنا
+وأمنيتنا اللهمّ انّي صرفت رجائي الى وجهك الكريم وأحسنت ظنّي في عفوك العظيم فارحمني
+وارحم
+
+**English:**
+— 158 —
+
+the heavens and the earth and Lord of the Noble Throne. O God, Lord of Gabriel and Michael and Israfil and Azrael
+and Abraham and Ishmael and Isaac and Jacob, heal me and pardon me, and do not empower over me anyone from Your creation, O God, with something
+I have no strength for. O Hearer of supplication, O Answerer of the call, God will suffice them, and He is the Hearing, the Knowing. I rely upon the Living who
+does not die, and praise be to God who has not taken a son and who has no partner in sovereignty, to magnification: God is greater 3
+O God, I seek refuge in You from what I fear and what I beware, and I seek refuge in God, there is no god except Him, the One who holds the heaven lest it fall upon the earth except
+by His permission, from every obstinate tyrant and rebellious devil. O God, I ask You for poverty and safety from tribulations and safety from sinking
+and safety from trembling. O God, make good our outcome in all matters, and deliver us from the disgrace of the world and the punishment of the Hereafter. O God,
+I ask You by Muhammad, the master, the perfect, the opener, the seal, the light of the lights of knowledges and the bitterness of the secrets of the knowers and the quintessence of Your creation
+and the secret of Your knowledge and the mirror of Your essence and the witness of Your attributes, and I ask You by the light of Your Face and the expanse of Your mercy and by the seven and the eight
+and their connected secrets from You, O God 3, O One, O Samad, O Living, O Qayyum, that You grant me from Your knowledge an intellect and from Your side
+a spirit and from Your will a judgment and from Your power an act and from Your words a tongue and from Your hearing an understanding and from Your sight an unveiling
+and from Your encompassing a standing, and grant me from You, by You, a secret before which the necks of the arrogant are humbled and to which the souls of the tyrants are led
+So to You belongs praise, O Lord, for every beginning, and to You belongs thanks for every end, for You are the Rich, the Praiseworthy. O God, make me sleep upon the bed
+of Your mercy in Your security, and guard me with the guardian of Your preservation and protection, and clothe me with the robe of awe, and seat me upon the couch of majesty
+crowned with the crown of splendor, and spread over me the canopies of protection, and raise over me the banner of honor, and make provision easy for me, and fill my inward with fear
+and mercy and my outward with greatness and awe, and make me master of the forelock of every obstinate tyrant and rebellious devil, and preserve me from error
+and slip, and support me in speech and action. O God, I ask You by You and by what Your essence contains of what no one besides You knows
+that You send blessings upon our master Muhammad, the Muhammadan essence and the Ahmadan لطيفة, the sun of the heaven of secrets and the manifestation of lights and the pole of
+the sphere of beauty and the center of the orbit of majesty. O God, I ask You by his secret with You and by his journey to You that You secure my fear and remove
+my stumble and take away my greed and my sorrow and every deficiency of mine and take me to You and provide me with contentment and do not make me infatuated
+with myself, veiled by my sense, and unveil for me every hidden secret, O Living, O Qayyum, and suffice me with a gentleness to which the spirits of
+the saints find rest and by which the souls of the fortunate expand. So to You belongs the widest glory and the most comprehensive kingdom. O God, I ask You by every name by which You have named
+Yourself in Your knowledge, that You do not withhold from one who asks by it, nor reject one who asks by it disappointed. I ask You to fulfill my need in what I desire
+and to advise me with a good outcome; indeed You know what I desire, Your hand is the keys of affairs, and You are over all things powerful. O God, I ask You
+and I seek means to You by Bismillah al-Rahman al-Rahim that You pour upon me from the garments of Your lights, passing over the eyes of
+the enemies, abject and their hands defeated, and that You clothe me from everything by which I seek beauty from You, to which the departures of the planners find rest
+and for which the eyes of the beholders are fixed, and by which the secrets of the knowers travel; indeed You are the Knower of the unseen and its teacher and the Unveiler of secrets
+and their one who makes them understood. So to You belongs praise and laudation, and in Your hand is the good and the opening. O God, send blessings upon Your prophets and the messengers and Your angels, the near ones
+and Your righteous saints and upon all the people of Your obedience, and convey to them our peace and our greeting, and convey to us their intercession through our asking
+and our wish. O God, I have turned my hope to Your noble Face and have made good my opinion in Your عظیم pardon, so have mercy on me
+and have mercy
+
+---
+## Page 165
+
+**Arabic (original):**
+— ١٥٩ —
+وارحم والدي واغفر لي وللمسلمين ولا تصرف رجائي عن وجهك خائباً ولا تجعل حسن ظني في
+عفوك كاذباً اللهم كيف تصدر عن بابك بخيبة وقد أمرتنا بدعائك يا أرحم الراحمين * اللهم إني أسألك
+أن ترضى إذا انقضى أجلي وانقطع عملي ولبست كفني وفارقت سكني يا رب الأرباب يا مسبب الأسباب
+يا معتق الرقاب ويا كاشف العذاب مسني الضر وأنت أرحم الراحمين بسم الله الشافي بسم الله الكافي
+بسم الله المعافي الم المر كهيعص حم عسق طسم طس حم ق ن فالله خير حافظاً وهو أرحم
+الراحمين ثم تقول لا إله إلا الله ألف مرة يا لطيف ١٢٩ يا كافي ١١١ يا حليم ٨٨ يا سلام ١٣١
+الحفيظ ٩٩٨ وتدعو بعد ذلك بما تريد من أمور الدنيا والآخرة يستجاب لك فتدبر ذلك فإنه من
+الأسرار العظيمة وصلى الله على سيدنا محمد النبي الأمي وعلى آله وصحبه وسلم
+( الفصل السادس عشر في أسماء الله الحسنى وأوقاتها النافعات )
+اعلم أن هذا الفصل در مصون ولؤلؤ مكنون صدر من وادي الصفا إلى خلان الوفا وخواص الصوفية
+الراكبين على أعناق الرياح الشوقية الطائرين بأجنحة الروحانيات الذوقية إلى فهم هذه
+العلوم الوهبية والرسوم الفتحية والرقوم الهندية واللطائف الحرفية والمعادن العددية
+والأسماء النورانية والحقائق العرفانية فأقول إن أسماء الله تعالى بالنظر إلى ما جاء منها في
+الكتاب والسنة إما بصيغة الاسم أو بصيغة الفعل إلا أنه مشتق منه اسم وإلى ما أطلع عليه أهل
+الكشف بحقائق الأسماء كما هو صفة كمال كثيرة جداً لأننا إذا عددنا القاهر والقار والشاكر
+والشكور اسمين فإنها تصل ٣٠٠ اسم وقيل إلى ٦٠٠٠ والغرض من هذه الإشارة إنما هو
+الاختصار والإيماء إلى هذا العلم المكنون والسر المخزون لتنبيه طالبه ومن قسم له في حظ منه فليبادر
+إلى قطع عقبات السلوك والتخلي عن مذموم الأخلاق وسفاسفها والتحلي بمحمودها وحينئذ
+يصل إلى هذه الموضوعات لأخذ العلم موتاً عن موات قال تعالى فلا تعلم نفس ما أخفي لهم من قرة أعين
+جزاء بما كانوا يعملون فلذلك أشرت إلى الكلام على الأسماء التسعة والتسعين ورأيت أن أوردها
+أولاً بشروط ثم الكلام على اسم بعد التنبيه على سر الإحصاء فأقول روى الترمذي عن أبي هريرة
+رضي الله عنه قال قال النبي عليه السلام إن لله تسعة وتسعين اسماً من أحصاها دخل الجنة وهي هو الله
+الذي لا إله إلا هو الرحمن الرحيم الملك القدوس السلام المؤمن المهيمن العزيز الجبار المتكبر
+الخالق البارئ المصور الغفار القهار الوهاب الرزاق الفتاح العليم القابض الباسط الخافض الرافع
+المعز المذل السميع البصير الحكم العدل اللطيف الخبير الحليم العظيم الغفور الشكور العلي الكبير
+الحفيظ المقيت الحسيب الجليل الرقيب المجيب الواسع الحكيم الودود المجيد الباعث
+الشهيد الحق الوكيل القوي المتين الولي الحميد المحصي المبدئ المعيد المحيي المميت الحي القيوم
+الواجد الماجد الواحد الأحد الفرد الصمد القادر المقتدر المقدم المؤخر الأول الآخر الظاهر الباطن
+الوالي المتعال البر التواب المنتقم العفو الرؤوف مالك الملك ذو الجلال والإكرام المقسط الجامع الغني المغني
+المانع الضار النافع النور الهادي البديع الباقي الوارث الرشيد الصبور فهذه ٩٩ اسماً من أحصاها
+دخل الجنة وقد أحصاها النبي عليه الصلاة والسلام وخصها الذكر لكونها جوامع مشتملة على المعاني
+
+**English:**
+— 159 —
+And have mercy upon my parents and forgive me and the Muslims, and do not turn my hope away from Your face disappointed, and do not make my good opinion in Your pardon a liar. O Allah, how should one depart from Your door with disappointment, while You have commanded us to call upon You, O Most Merciful of the merciful? * O Allah, I ask You that You be pleased when my term has ended and my deed has been cut off and I have put on my shroud and departed from my dwelling, O Lord of lords, O Causer of causes, O Liberator of necks, and O Remover of punishment, afflict me with harm, and You are the Most Merciful of the merciful. In the name of Allah, the Healer; in the name of Allah, the Sufficient; in the name of Allah, the One who grants well-being. Alif Lam Mim, Alif Lam Ra, Kaf Ha Ya ‘Ayn Sad, Ha Mim ‘Ayn Sin Qaf, Ta Sin Mim, Ta Sin, Ha Mim, Qaf, Nun. So Allah is best as guardian, and He is the Most Merciful of the merciful. Then you say: There is no god but Allah one thousand times: O Gentle 129, O Sufficient 111, O Forbearing 88, O Peace 131, the Preserver 998. And after that you supplicate with whatever you wish of the affairs of this world and the Hereafter; it will be answered for you. So reflect upon that, for it is among the great secrets. And may Allah bless our master Muhammad, the unlettered Prophet, and upon his family and his companions, and grant peace.
+
+(Chapter Sixteen on the Most Beautiful Names of Allah and their beneficial times)
+
+Know that this chapter is a preserved pearl and a hidden jewel, brought forth from the Valley of Safa to the companions of loyalty, and the special ones of the Sufis, riding upon the necks of the winds of yearning, flying with the wings of the spiritualities of tasting, to the understanding of these gifted sciences, the opening forms, the Indian numerals, the subtle letter-meanings, the numerical mines, the luminous names, and the gnostic realities. So I say that the names of Allah تعالى, with regard to what has come of them in the Book and the Sunna, are either in the form of the noun or in the form of the verb, except that a noun is derived from it; and with regard to what the people of unveiling have been made aware of, the realities of the names, as it is, are very many attributes of perfection. For if we count al-Qahir, al-Qar, al-Shakir, and al-Shakur as two names, then they reach 300 names, and it was said up to 6000. The purpose of this indication is only brevity and allusion to this hidden knowledge and concealed secret, to alert its seeker. And whoever has been allotted a share of it, let him hasten to cut the obstacles of the path, and to divest himself of blameworthy character traits and their baseness, and to adorn himself with their praiseworthy ones; then he will reach these subjects for taking knowledge, death from lifelessness. He تعالى said: “No soul knows what has been hidden for them of the comfort of eyes, as recompense for what they used to do.” Therefore I have indicated speaking on the ninety-nine names, and I saw that I should mention them first with conditions, then speak on the name after drawing attention to the secret of enumeration. So I say: al-Tirmidhi narrated from Abu Hurayra, may Allah be pleased with him, who said: the Prophet عليه السلام said: “Indeed Allah has ninety-nine names; whoever enumerates them enters Paradise,” and they are: He, Allah, the One besides whom there is no god, the Merciful, the Compassionate, the King, the Holy, the Peace, the Believer, the Guardian, the Mighty, the Compeller, the Supremely Great, the Creator, the Originator, the Fashioner, the Forgiver, the Subduer, the Bestower, the Provider, the Opener, the Knowing, the Withholder, the Extender, the Abaser, the Exalter, the Giver of honor, the Giver of humiliation, the Hearing, the Seeing, the Judge, the Just, the Subtle, the Aware, the Forbearing, the Magnificent, the Forgiving, the Thankful, the Most High, the Great, the Preserver, the Sustainer, the Reckoner, the Majestic, the Watchful, the Responsive, the All-Encompassing, the Wise, the Loving, the Glorious, the Resurrector, the Witness, the Truth, the Trustee, the Strong, the Firm, the Patron, the Praiseworthy, the Enumerator, the Originator, the Restorer, the Giver of life, the Giver of death, the Living, the Self-Subsisting, the Finder, the Glorious, the One, the Unique, the Single, the Eternal Refuge, the Capable, the Powerful, the Advancer, the Delayer, the First, the Last, the Manifest, the Hidden, the Governor, the Most High, the Benign, the Accepter of repentance, the Avenger, the Pardoner, the Clement, the Possessor of sovereignty, Possessor of Majesty and Honor, the Equitable, the Gatherer, the Rich, the Enricher, the Preventer, the Harmful, the Beneficial, the Light, the Guide, the Incomparable, the Everlasting, the Inheritor, the Rightly Guided, the Patient. So these are 99 names; whoever enumerates them enters Paradise. And the Prophet, peace and blessings be upon him, enumerated them and singled them out for mention because they are comprehensive, containing the meanings
+
+---
+## Page 166
+
+**Arabic (original):**
+— ١٦٠ —
+
+التي هي درج الجنة فلذلك قال من أحصاها دخل الجنة وأتمها لم يذكر اسم رسول الله صلى الله عليه
+وسلم الذي هو تمام المائة لاختصاصه به ومعناه الوسيلة الى ما يدرج في الجنة لا تتبع لأحد من عباد
+الله وهي لأكمل خلقه محمد صلى الله عليه وسلم واعلم أن من دخل الكنز وخرج بذل الخمسة مات
+بنيران الحسرة ومن طلب الرحمة [~] طمس فوجهه شعر
+على نفسه فليك من صاغ عمره ۞ وليس له منها نصيب ولاسم
+فيا حسرة من في تهاونه وغفلته مفرطا وعن رفقته ذوي المعارف الربانية مثبطا لقد بان خسرانه
+عند رب العالمين ونسخ اسمه من لوح المقربين أعاذنا الله من ذلك فافهم ترشد
+(فصل) في اسمه تعالى هو الله الذي لا إله إلا هو فإن قلت لم لا عددت الإله اسما قلت لم يعده النبي
+صلى الله عليه وسلم بل جاء به فيما أجراه على اسم الله تعالى من التوحيد ولذلك لم يجعل اسمه هو اسما
+مستقلا في هذا العدد بل عدد عليه قوله هو الله الذي لا إله إلا هو اسما واحدا وذلك لسر تعرفه
+أو باب البصائر ۞ فأما اسمه تعالى هو فهو ضمير الغيبة وهو من أخص أسمائه تعالى إذ الغيبة
+الحقيقية أسماء هي له إذ لا تصوره العقول ولا تحده الأوهام واسم للذات باعتبار إحاطة عنها وإطلاقها
+عن جميع القيود والأوصاف التي وجب تعددها وهو فاتحة الأسماء وأم كتابها وقد ينزل منزلة الألف
+من الحروف وهو اسم جليل القدر وهو اسم الله الأعظم ومن أكثر من ذكره لا يخطر في قلبه
+غيره ويفتح الله له بابا من الكشف على حسب استعداده وهو من الأسماء الجليلة القدر المخصوص
+بالمتولهين وله من العدد ١١ وهو رابع عدد هذا العدد من مقتضياتها فلذلك كان خامس عدد فرد
+وهو عدد ثماني دهور تق لا فتق فيه ۞ وأما أسماء حروفه فتسير الى اسمه تعالى واحد وأما مربعه فعلى هذا
+وله مربع ٣ + ٣ واف من جهة الشفع وله مربع
+٤ × ٤ واف من جهة الوتر ومبدأ مثله من
+حرف الهاء ومن نقش هذا المثلث على فص خاتم من
+| ١٢٣ | ١٢٨ | ١٢١ |
+| ١٢٢ | ١٢٤ | ١٢٦ |
+| ١٢٧ | ١٣٠ | ١٢٥ |
+| ماجد | حق | منجي |
+| عز | عدل | متين |
+| كهف | منجد | راقي |
+فضة في شرف زحل وحمله طاعته جميع الروحانية ۞ ومن أكثر من ذكره كان مطاعا مهابا
+وإن تكلم أحد من العارفين أجابته الروحانية وذلك بعد صوم وذكر فيسأل عما يريد وله من
+العدد ٣٧ لفظا و ٣٦ رقما وهو من الأسماء الجامعة لسر الوتر والشفع وله ٤٣ معنى وذلك
+لدخول الواو في الهاء وأما مربعه فعلى هذه الصفة
+(الفصل الأول) في اسمه تعالى الله
+وهو اسم الله الأعظم بالاتفاق تفرد به الباري
+سبحانه وتعالى ومعناه السيد وهو الاسم الجامع
+ولذلك تكون جميع الأسماء وصفاته ولا يكون وصفا لشيء منها ۞ ومن أكثر من ذكره لا يطيق
+أحد النظر إليه إجلالا له ۞ ومن كتبه في شرف الشمس على جسم شريف أحرق به كل شيطان
+مريد وإذا أمسكه معه في يوم شديد البرد وأكثر من ذكره لا يحس بالبرد الشديد وإذا تختم
+| ه | ا | ل | ل |
+| ٨ | ١١٠ | ٧٤ | ٥٦ |
+| متين | هدى | أول | متين |
+| ط | ن | ا |
+| ٦ | ٤ | ٣ |
+| به | ح | ع |
+به
+
+**English:**
+the degrees of Paradise. Therefore he said, “Whoever enumerates them enters Paradise.” And he completed them; he did not mention the name of the Messenger of Allah, may Allah bless him and grant him peace, which is the completion of the hundred, because of its اختصاص to him, and its meaning is the means to that which is entered into Paradise; it is not followed by any of the servants of Allah, and it is for His most perfect creation, Muhammad, may Allah bless him and grant him peace. And know that whoever entered the treasure and خرج with the humiliation of the five died by the fires of regret, and whoever sought mercy [~] was effaced, so his face [became] hair upon himself; let him be of those who fashioned his life ۞ and there is not for him from it any share nor name. So, O regret for one who in his negligence and heedlessness is excessive, and from his companionship of the possessors of divine knowledges is deterring. Indeed his loss has become clear with the Lord of the worlds, and his name has been erased from the Tablet of the Near Ones. May Allah protect us from that. So understand, you will be guided.
+
+(Section) On His تعالى name, He, Allah, the One besides whom there is no god. If you say: why did you not count al-Ilah as a name? I say: the Prophet, may Allah bless him and grant him peace, did not count it, but rather he brought it in what he made to proceed upon the name of Allah تعالى of tawhid. Therefore he did not make His name “He” an independent name in this count, but rather counted upon it His saying, “He is Allah, the One besides whom there is no god,” as one name, and that is for a secret you know, or a gate of the inner sights ۞ As for His تعالى name “He,” it is the pronoun of absence, and it is among the most special of His تعالى names, since the true absence is names that are for Him, since intellects do not picture Him and imaginations do not define Him, and [it is] a name for the Essence in consideration of encompassing it and إطلاق it from all restrictions and descriptions whose multiplicity became necessary. And it is the opening of the names and the Mother of its Book, and it may descend to the station of the alif among the letters. And it is a name of great value, and it is the Greatest Name of Allah. Whoever increases in ذكره, nothing other than Him comes to his heart, and Allah opens for him a gate of unveiling according to his preparedness. And it is among the names of great value, مخصوص to the passionately devoted. And for it is the number 11, and it is the fourth number of this number from its requirements; therefore it was the fifth odd number, and it is the number of eight ages of time, no opening in it. ۞ As for the names of its letters, they proceed to His تعالى name “One.” As for its square, then upon this there is for it a square 3 + 3 complete from the side of the even, and there is for it a square 4 × 4 complete from the side of the odd, and the beginning of its like is from the letter ha. And whoever نقش this triangle on the bezel of a خاتم of
+silver in the honor of Saturn and carried it, all spirituality obeys him. ۞ And whoever increases in ذكره becomes obeyed, revered; and if one of the knowers speaks, the spirituality answers him, and that after fasting and ذكر, so he asks for whatever he wants. And for it is the number 37 in word and 36 in numeral, and it is among the comprehensive names of the secret of the odd and the even. And for it is 43 meanings, and that is due to the دخول of the waw into the ha. As for its square, then upon this description:
+
+(First Chapter) On His تعالى name Allah
+
+And it is the Greatest Name of Allah by agreement; the Creator, سبحانه وتعالى, singled it out. And its meaning is the Master, and it is the comprehensive name; therefore all the names and His attributes are, and it is not an attribute of anything among them. ۞ And whoever increases in ذكره, no one is able to look at him out of reverence for him. ۞ And whoever writes it in the honor of the sun on a noble body, every rebellious devil is burned by it. And if he holds it with him on a very cold day and increases in ذكره, he does not feel the intense cold. And if he seals with it
+| h | a | l | l |
+| 8 | 110 | 74 | 56 |
+| Firm | Guidance | First | Firm |
+| t | n | a |
+| 6 | 4 | 3 |
+| by it | h | ‘a |
+by it
+
+---
+## Page 167
+
+**Arabic (original):**
+— ١٦١ —
+
+به صاحب الحمى الباردة ذهبت لوقتها وإذا نقش مربعه على رق والشمس في الأسد وحمله بعدد كره
+٣١٧ مرة فلا يضع يده على ماء إلا غار بإذن الله تعالى بشرط أن يكون صاحب حال مع الله تعالى
+ومن عرف قدره استغنى به عن كل ما سواه لأنه اسم الله تعالى الأعظم الذي إذا دعي به أجاب وإذا
+سئل به أعطى ومن ثم كانت قواه الظاهرة تشير إلى قولك مجيب وهو أول الأسماء المظهرة والجامع
+لحقائقها والمشتمل على دقائقها ورقائقها وله خمس جليل القدر من رسمه وحمله لم يعسر عليه أمر من
+الأمور وبه تسهل الشدائد وهو ذكر أكابر الموحدين من أهل الخلوات ويصلح ذكراً لمن كان
+اسمه محمداً فليكثر منه كره يقول الله الله لقوله صلى الله عليه وسلم الله ربي لا أشرك به شيئاً
+ويصلح أيضاً لمن كان اسمه عبد الله وله من العدد ٩٩ لفظاً و ٩٩ رقماً وأما أسماء حروفه ٢٦
+تشير إلى اسمين جليلين وها هي قديم وهذه صورته كما ترى
+( فصل الثاني في اسمه تعالى رحمن ) هذا الاسم الشريف له
+مربع ٥ × ٥ يوصف بسر التداخل في شرف زحل فصاحبه لا يزال
+يتقلب في رضوان الله ولا يراه أحد إلا رق له وتوالت عليه النعم ومن
+وضعه في ماء وسقى منه صاحب الحمى الحارة ذهبت عنه لوقتها ومن
+أكثر من ذكره نظر الله له بعين الرحمة ويصلح ذكراً لمن كان اسمه عبد الرحمن ومن واظب على ذكره
+كان ملطوفاً به في سائر أحواله وهذه صورته كما ترى
+وروي عن الخضر عليه السلام أنه قال من صلى عصر الجمعة واستقبل
+القبلة وقال يا رحمن إلى أن تغيب الشمس وسأل الله تعالى شيئاً إلا
+أعطاه إياه وله من العدد ٩٩ وهو زوج فرد ناقص أجزاؤه ٣٧٠ تشير
+إلى اسمه تعالى مبقٍ هذا من حيث رقمه وأما من حيث لفظه فله من العدد
+٣٩ وهو عدد فرد ناقص أجزاؤه ٤٧ تشير إلى اسمه تعالى الإله وأما أسماء حروفه فهي ٤٩
+تشير إلى اسمين جليلين وها هي مبدع فاطر
+( الفصل الثالث في اسمه تعالى رحيم ) هذا الاسم الجليل القدر يوضع في مربع ٤ × ٤ بسر
+التداخل فحامله يكون ملطوفاً به في سائر أحواله ومن أكثر من ذكره كان حجاب الدعوة وهو
+أمان من سطوات الدهر ووقته اللائق به شرف القمر وهو نافع لجميع الحميات الحارة ويكتب معه
+أيضاً وننزل من القرآن ما هو شفاء الآية ويصلح ذكراً لمن كان اسمه إبراهيم ويضاف إليه اسمه
+المطهر وله من العدد ٢٥٨ وهو زوج فرد مستطيل مركب يثنى اللطيف ويثلث البديع ويسدس
+الأول وهو عدد زائد أجزاؤه ٢١٩ تشير إلى اسمه الكريم وأما أسماء حروفه ٣١٣ تشير إلى
+اسمه تعالى يا بصير يا هـ النداء وهذه صورتها
+
+( ١١ - شمس المعارف - أول )
+
+**English:**
+with it, the one with the cold fever, it departs at its time. And if its square is inscribed on parchment, and the sun is in Leo, and he carries it with the number of its repetition 317 times, he does not put his hand on water except that it becomes abundant, by permission of Allah تعالى, on condition that he be a man of a state with Allah تعالى. And whoever knows its value becomes self-sufficient by it from everything besides it, because it is the Greatest Name of Allah تعالى, which, if supplicated by, answers, and if asked by, gives. And from this its outward powers indicated by your saying “Responsive,” and it is the first of the manifested names and the جامع of its realities and the one containing its subtleties and delicacies. And for it is five of great value; whoever draws it and carries it, no matter of the matters becomes difficult for him, and by it hardships become easy. And it is the ذكر of the greatest monotheists among the people of seclusion, and it is suitable as a ذكر for one whose name is Muhammad, so let him increase in it, saying “Allah, Allah,” because of his saying, may Allah bless him and grant him peace: “Allah is my Lord; I do not associate anything with Him.” And it is also suitable for one whose name is ‘Abd Allah. And for it is the number 99 in word and 99 in numeral. As for the names of its letters, 26 indicate two noble names, and here it is ancient, and this is its form as you see.
+
+(Second Chapter on His تعالى name Rahman)
+
+This noble name has a square 5 × 5, described with the secret of interpenetration in the honor of Saturn, so its companion does not cease turning in the pleasure of Allah, and no one sees him except that he becomes tender toward him and blessings continue upon him. And whoever places it in water and gives to drink from it the one with the hot fever, it departs from him at its time. And whoever increases in ذكره, Allah looks upon him with the eye of mercy. And it is suitable as a ذكر for one whose name is ‘Abd al-Rahman. And whoever persists in ذكره is treated with gentleness in all his states. And this is its form as you see.
+
+And it was narrated from al-Khidr, عليه السلام, that he said: whoever prays the Friday afternoon prayer and faces the qibla and says “O Merciful” until the sun sets, and asks Allah تعالى for something, He gives it to him. And for it is the number 99, and it is an even-odd deficient composite whose parts are 370, indicating His تعالى name “the Remaining”; this is from the aspect of its numeral. As for from the aspect of its word, for it is the number 39, and it is an odd deficient number whose parts are 47, indicating His تعالى name “the God.” As for the names of its letters, they are 49, indicating two noble names, and here they are: Inventor, Originator.
+
+(Third Chapter on His تعالى name Rahim)
+
+This name of great value is placed in a square 4 × 4 by the secret of interpenetration, so its bearer is treated with gentleness in all his states. And whoever increases in ذكره, it is the veil of the supplication, and it is protection from the assaults of time, and its fitting time is the honor of the moon. And it is beneficial for all hot fevers, and there is written with it also: “And We send down from the Qur’an that which is a healing” [the verse]. And it is suitable as a ذكر for one whose name is Ibrahim, and his purified name is added to it. And for it is the number 258, and it is an even-odd elongated composite; the subtle is doubled, the wondrous is tripled, and the first is sextupled. And it is an increased number whose parts are 219, indicating His noble name. As for the names of its letters, 313 indicate His تعالى name “O Seeing, O h of the call.” And this is its form.
+
+(11 - Shams al-Ma‘arif - First)
+
+---
+_End of translation — 167 pages._
