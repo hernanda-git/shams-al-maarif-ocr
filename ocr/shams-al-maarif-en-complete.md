@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 221 translated pages._
+_Auto-generated from 227 translated pages._
 
 ---
 ## Page 1
@@ -13022,4 +13022,219 @@ Whomsoever, by mention of Him, the hearts are reassured. O Allah, O so-and-so so
 (Chapter) And it was said that these names which were in the seal of Solomon, peace be upon him: There is no god except Allah alone, without partner to Him. I am Allah; I was strengthened by kingship and authority. إبل إبل. I am Allah; I was strengthened by might and possibility. Yāh Yāh, O Allah, Living, Self-Subsisting, I do not sleep. آه آه آه. I am Allah, Knowing, Powerful; everything obeyed me. أنوخ ٣. I am Allah, the Merciful, the Compassionate, ذو عوجٍ فعوجَ.
 
 ---
-_End of translation — 221 pages._
+## Page 222
+
+**Arabic (original):**
+— ٢١٦ —
+
+إنه من سليمان وإنه بسم الله الرحمن الرحيم ألا تعلوا علي وأتوني مسلمين. وتكتب كل اسم في يومه وأنت طاهر الجسد والثياب والمكان في ساعة سعيدة وتبخرهم بأجل البخور وتجمعه تحت النجوم بسورة يس وتبارك الذي بيده الملك فإنه نافع لكل ما تريد، ولأهل الأسماء الأربعة أربعة أيام: الأول ليوم الأحد وساعته الأولى عند طلوع الشمس وعونه دمياط العفريت وصاحب الساعة المذهب الكبير وهذا اسمه هشطلهكوش ٩ أحرف، والثاني ليوم الثلاثاء وساعته الأولى منه وعونه شوغال العفريت وصاحب الساعة الأحمر أبو التوابع وهذا اسمه كشكليعوش ٩، والثالث ليوم الأربعاء وساعته الأولى منه وخادمه هدلياج العفريت وصاحب الساعة برقان ودريد عطارد وهذا الاسم بجلهلهشوش ٩ أحرف، الرابع وهو ليوم السبت وساعته الأولى منه وعونه صعيق العفريت وصاحب الساعة ميمون أبانوخ وهذا اسمه شطلططشكوش ٩ أحرف، وإنما كانت هذه التسعة أحرف لكل اسم لأنها نهاية العدد وأقواها وهذه صفة الخاتم.
+
+وروي أن هذه عزيمته وكلامه الذي تمليه وهي: اللهم أقوى لأقوى الإله خالق الليل والنهار القادر على ما يشاء ويريد ولا يخفى عليه شيء من الأشياء لا يخاف عقاباً ولا يرجو ثواباً القادر بقدرته الرحيم برحمته، قد سألتكم أيتها الأرواح باسمه الرحمن الرحيم وبالروح الأمين جبريل والملك العظيم الرفيع ميكائيل والملك الموكل بالنفخ إسرافيل والملك المرهوب الذي ترعد منه القلوب عزرائيل وحملة العرش أجمعين إلا ما أسرعتم بقضاء حاجتي وتصرفتم في مرضاتي بحق نبي الله سليمان عليه السلام وبحق قوله تعالى: قال عفريت من الجن أنا آتيك به قبل أن تقوم من مقامك وإني عليه لقوي أمين، إنه من سليمان وإنه بسم الله الرحمن الرحيم ألا تعلوا علي وأتوني مسلمين، اللهم إني أسألك بهذه الأرواح الروحانية الكرام كلمك أن تسخر لي العفاريت الأربعة بقدرتك وجلالك: لهشطش مشيش قطوش كهوش كشكش يوش شخشلوط ججج ٢ أجيبوا وتوكلوا وافعلوا ما أؤمر.
+
+١ فصل
+
+**English:**
+— 216 —
+
+It is from Solomon, and it is: In the name of Allah, the Merciful, the Compassionate. Do not exalt yourselves against me, but come to me in submission. And you write every name on its day, while you are pure in body, clothes, and place, in a fortunate hour, and you fumigate them with the most noble incense, and you gather it under the stars with Sūrat Yā-Sīn and Tabāraka alladhī bi-yadihi al-mulk, for it is beneficial for everything you want. And for the people of the four names are four days: the first for Sunday and its first hour at sunrise, and its helper is the ifrit Dmyat, and the lord of the hour is al-mudhahhab al-kabīr, and this is its name: هشطلهكوش, 9 letters; the second for Tuesday and its first hour from it, and its helper is the ifrit Shūghāl, and the lord of the hour is the red Abū al-Tawābiʿ, and this is its name: كشكليعوش, 9; the third for Wednesday and its first hour from it, and its servant is the ifrit Hadliyāj, and the lord of the hour is Barqān and Dardīd ʿUṭārid, and this name is بجلهلهشوش, 9 letters; the fourth, and it is for Saturday and its first hour from it, and its helper is Ṣaʿīq the ifrit, and the lord of the hour is Maymūn Abānūkh, and this is its name: شطلططشكوش, 9 letters. And these nine letters were only for every name because it is the end of the number and its strongest, and this is the description of the seal.
+
+And it is narrated that this is his ʿazīmah and his speech which he dictates, and it is: O Allah, stronger for the strongest, the God, Creator of night and day, the قادر over what He wills and desires, and nothing of things is hidden from Him, He fears no punishment and hopes for no reward, the One able by His power, the Merciful by His mercy. I have asked you, O spirits, by His name, the Merciful, the Compassionate, and by the faithful spirit Gabriel, and the great exalted king Michael, and the king entrusted with the blowing, Israfil, and the dreaded king from whom hearts tremble, Azrael, and the bearers of the Throne all together, except that you hasten to fulfill my need and act in what pleases me, by the right of the Prophet of Allah Solomon, عليه السلام, and by the right of His saying تعالى: A ifrit from among the jinn said, “I will bring it to you before you rise from your place, and indeed I am over it strong and trustworthy.” It is from Solomon, and it is: In the name of Allah, the Merciful, the Compassionate. Do not exalt yourselves against me, but come to me in submission. O Allah, I ask You by these noble spiritual spirits, Your word, that You subdue for me the four ifrits by Your power and majesty: لهشطش مشيش قطوش كهوش كشكش يوش شخشلوط ججج ٢ Answer and rely and do what I command.
+
+1 chapter
+
+---
+## Page 223
+
+**Arabic (original):**
+- ٢١٧ -
+
+[جدول]
+(فصل وقيل إن خاتم سليمان عليه السلام الذي كان في يده وفيه ملكه وفيه الاسم الأعظم الذي كان مكتوباً على قلب آدم) أقول ومن بعض الفوائد الجليلة وهي قوله تعالى اركبوا فيها بسم الله
+مجراها ومرساها إن ربي لغفور رحيم هذه الآية لمن له سفينة في البحر وأراد سلامتها من لجج البحر فلينقش ذلك في لوح من
+خشب الساج ويسمره في مقدمة المركب وفي نسخة في دبر المركب فإنه يكون حرزاً ووقاية بإذن الله
+* وعن الحسن رضي الله عنه قال قال رسول الله عليه السلام أمان لأمتي من الغرق إذا ركبوا في السفينة
+أن يقولوا بسم الله مجريها الآية وما قدروا الله حق قدره الآية ويقف في الآخر ويستقبل المقدم
+ويومئ على اليمين والشمال ويقول أبو بكر وعمر ويقول عثمان ويومئ للمقدم على بسم الله سمينا
+بكم عص كفينا بمعسق حمينا والله من ورائهم محيط إلخ السورة وقال ابن عباس رضي الله عنهما من
+قال حين يركب دابة أو مركباً بسم الله الملك وما قدروا الله حق قدره إلى يشركون وقال اركبوا فيها
+الآية ثم التفت إلى أصحابه وقال إن غرق أو عطب قائلها فعلي دينه وقال ابن شكر وصلت إلى
+ساحل دمشق فوجدت في الساحل ٢٢ سفينة موسوقة بالطعام فدخلت في إحداهن وقلت الكلمات
+وقرأت الآيات فجرت السفن بريح طيبة وعظمت الموج فما وصل إلى الساحل غير السفينة التي أنا فيها
+وعن عبدالله بن عمر قال أمان من الغرق والعطب إن ركب البحر أن يقول بسم الله الرحمن الرحيم وما
+قدروا الله حق قدره الآية وقال اركبوا فيها الآية فإذا استويت أنت ومن معك على الفلك
+فقل الحمد لله الذي نجانا من القوم الظالمين إن الله يمسك السموات والأرض أن تزولا الآية والله
+من ورائهم محيط الآية وعن ابن عباس رضي الله عنهما أنه قال من قال حين يركب البحر بسم الله
+الملك لله يا من له السموات والأرض خائفة والخيال الشالحة خاشعة والبحر والزاخرات خاضعة احفظني
+
+**English:**
+- 217 -
+
+[Grid content preserved as-is]
+(Chapter, and it was said that the seal of Solomon, عليه السلام, which was in his hand and in which was his kingdom and in which was the Greatest Name which was written on the heart of Adam) I say, and among some of the noble benefits is His saying تعالى: Embark in it, in the name of Allah is its course and its mooring; indeed my Lord is Forgiving, Merciful. This verse is for whoever has a ship in the sea and desired its safety from the surges of the sea, then let him engrave that on a tablet of teak wood and nail it in the front of the vessel, and in one copy in the stern of the vessel, for it will be a protection and safeguard by permission of Allah.
+* And on the authority of al-Hasan, رضي الله عنه, he said: The Messenger, عليه السلام, said: A security for my الأمة from drowning when they ride in the ship is that they say: In the name of Allah, its course... the verse, and: They did not appraise Allah with true appraisal... the verse, and he stands at the end and faces the front and gestures to the right and the left and says: Abu Bakr and ʿUmar, and he says: ʿUthman, and he gestures to the front with: In the name of Allah, we named you, with you we are fortified, with you we are sufficed, with you we are protected, and Allah is encompassing them from behind, etc. the sūrah. And Ibn ʿAbbās, رضي الله عنهما, said: Whoever says when mounting a beast or a vessel: In the name of Allah, the King, and: They did not appraise Allah with true appraisal... to: they associate [others], and he said: Embark in it... the verse, then he turned to his companions and said: If its speaker drowns or is harmed, then its debt is upon me. And Ibn Shukr said: I arrived at the coast of Damascus and found on the coast 22 ships laden with food, so I entered one of them and said the words and recited the verses, and the ships moved with a pleasant wind and the waves grew great, and none reached the coast except the ship in which I was. And on the authority of ʿAbdullah ibn ʿUmar, he said: A security from drowning and harm, if he rides the sea, is that he says: In the name of Allah, the Merciful, the Compassionate, and: They did not appraise Allah with true appraisal... the verse, and he said: Embark in it... the verse. Then if you and whoever is with you are settled upon the ark, then say: Praise be to Allah who saved us from the wrongdoing people. Indeed Allah holds the heavens and the earth lest they cease... the verse, and Allah is encompassing them from behind... the verse. And on the authority of Ibn ʿAbbās, رضي الله عنهما, that he said: Whoever says when riding the sea: In the name of Allah, the King belongs to Allah, O You to whom belong the heavens and the earth, fearful, and the phantom is shālḥah, humbled, and the sea and the surging ones, submissive, preserve me
+
+---
+## Page 224
+
+**Arabic (original):**
+- ٢١٨ -
+
+أنت خير حافظاً أنت أرحم الراحمين وما قدروا الله حق قدره إذ يشركون وصلى الله على سيدنا محمد وعلى آله وصحبه وسلم تسليماً كثيراً على جميع الأنبياء والمرسلين والملائكة المقربين وقال اركبوا فيها الآية ثم التفت ابن عباس إلى أصحابه وقال إن عرف قائلها أو عطب فعلى دينه والله أعلم
+﴿ الفصل الثامن عشر في خواص آية الكرسي وما لها من البركات ﴾
+اعلم وفقني الله وإياك لطاعته أن الأسماء هما معان دالة ومن أعظم الأسماء في كتاب الله آية الكرسي المعظمة لقوله تعالى وسع كرسيه السموات والأرض وإن في قوله تعالى له ما في السموات وما في الأرض مالك الملك * واعلم أن هذه الآية لما نزلت على النبي صلى الله عليه وسلم نزل معها سبعون ألف ملك إجلالاً لها وإعظاماً لقدرها فاعرف قدر ما وصل إليك لأنها الآية المنجية والمانعة والنافعة والواقية وإنها سيدة القرآن وروى ذلك في أحاديث صحيحة من قرأها أول النهار أتاه السيد الملك المطاع لفهم آية الكرسي وإنها تعد بمائة وسبعين حرفاً و ٥٠ كلمة و ٧ فصول ومن قرأها بعدد حروفها ١٧٠ مرة وأراد الشيء من السلطان قبلت شفاعته ومن قرأها العدد المذكور وكان في شدة في جوف الليل على ضوء واستقبل قبلة وجد في قلبه حالة لم يعهدها وخشوعاً فليدع الله يستجاب له من خير الدنيا والآخرة ومن قرأها وسط الليل ٢٢٥ مرة أمن من عدوه وأهلكه الله ومن قرأها ٣١٣ مرة كفاه الله ما أهمه من أمر دينه ودنياه وفتح له باب الخيرات ومن خواصها إذا كتبها حروفاً مفرقة في جام زجاج بزعفران وماء ورد ومسك وشربت بصدد كلماتها ويكون صائماً لا يفطر إلا عليها أنطقه الله بفنون الحكمة ويكون الابتداء بالعمل في شهر نيسان وإن أضاف إليه من مائه كان أجود وإذا أراد الفطور على الآية كما ذكرنا يقرأ الآية ٧ مرات ثم يقول اللهم إني أسألك بحق هذه الآية الشريفة أن تهب لي العلم اللدني بالله وإذا أردت علماً من العلوم تذكر بحق عملك أشرت لبعض الإخوان بذلك فاستعمله فلم يتم للعدد حتى فتح الله عليه بعلوم شتى ونال ما طلبه * ومن خواصها أنك إذا لبست ثوباً جديداً وتقول عند لبسه اللهم كما ألبستني ثوباً جديداً أن تحييني سعيداً وأن تجعل لي عمراً مديداً فإن الملائكة الخدام لهذه الآية يستغفرون للابس الثوب حتى يقطع وإن أضاف سورة القدر [~] لاه كان أجود * وخواصها إذا عدت مريضاً فاسأله عن حال مرضه فإن كان من صداع في رأسه اكتبها له حروفاً مفرقة وعلقها عليه من ناحية الألم وإن قال لك المريض إن وجعه من باطنه أو من جميع جسده فارسم وفقها المشهور في جام زجاج وتكون الكتابة بمسك وزعفران وماء ورد ثم كتب الآية الشريفة حروفاً متفرقة واكتب معها آيات الشفاء وهي قوله تعالى ويشف صدور قوم مؤمنين * وشفاء لما في الصدور وهدى ورحمة للمؤمنين وفيه شفاء للناس ونزل من القرآن ما هو شفاء ورحمة للمؤمنين * وإذا مرضت فهو يشفين قل هو للذين آمنوا هدى وشفاء * ثم تمحى الكتابة بالعسل المحلى وتقرأ عليها الآية الشريفة ٧ مرات ويشربها المريض فإنه يشفى بإذن الله * ومن خواصها من أضر به البلغم فليأخذ سبع قطع من صغار الملح الأبيض ثم يقرأ على كل واحدة منهن الآية ٧ مرات ويستعملهم على الريق ٧ أيام معدودة فإن الله يذهبه عنه * وروى عن بعضهم أنه كان ينظر في منامه أموراً
+مخيفة
+
+**English:**
+- 218 -
+
+You are the best Protector, You are the most Merciful of the merciful. And they did not appraise Allah with true appraisal when they associate [others]. And Allah sent blessings upon our master Muhammad and upon his family and his companions, and granted abundant peace, upon all the prophets and the messengers and the near angels. And he said: Embark in it... the verse. Then Ibn ʿAbbās turned to his companions and said: If its speaker knows it or is harmed, then its debt is upon me, and Allah knows best.
+
+﴿ Chapter Eighteen on the properties of Āyat al-Kursī and what blessings it has ﴾
+
+Know, may Allah grant me and you success in obeying Him, that the names are indicative meanings, and among the greatest of the names in the Book of Allah is Āyat al-Kursī, the exalted, because of His saying تعالى: His Kursī extends over the heavens and the earth, and in His saying تعالى: To Him belongs whatever is in the heavens and whatever is on the earth, Owner of Sovereignty. * And know that when this verse was revealed to the Prophet, صلى الله عليه وسلم, seventy thousand angels descended with it, in reverence for it and magnifying its worth, so know the worth of what has reached you, for it is the saving, preventing, beneficial, and protecting verse, and it is the mistress of the Qur’an. And that was narrated in authentic hadiths: whoever recites it at the beginning of the day, the master, the obeyed king, comes to him for the understanding of Āyat al-Kursī, and it is counted as one hundred and seventy letters and 50 words and 7 sections. And whoever recites it the number of its letters, 170 times, and desires a thing from the ruler, his intercession is accepted. And whoever recites it the mentioned number and was in distress in the middle of the night in light and faced the qiblah, he finds in his heart a state he had not known and humility, so let him supplicate Allah; he will be answered with good of this world and the Hereafter. And whoever recites it in the middle of the night 225 times is secured from his enemy, and Allah destroys him. And whoever recites it 313 times, Allah suffices him for what concerns him of his affair of his religion and his world, and opens for him the door of good things. And among its properties is that if it is written as separated letters in a glass bowl with saffron, rose water, and musk, and drunk in accordance with its words, and he is fasting, breaking his fast only upon it, Allah makes him speak with varieties of wisdom, and the beginning of the work is in the month of Nīsān, and if one adds to it from its water it is better. And if he wants to break the fast upon the verse as we mentioned, he recites the verse 7 times, then says: O Allah, I ask You by the right of this noble verse that You grant me the divine knowledge of Allah. And if you want knowledge from the sciences, remember by the right of your work. I indicated that to some of the brothers, so he used it, and before the count was completed Allah opened for him various sciences and he attained what he sought. * And among its properties is that if you wear a new garment and say when wearing it: O Allah, just as You have clothed me with a new garment, that You make me live happy and make for me a long life, then the angels who serve this verse seek forgiveness for the wearer of the garment until it is cut, and if he adds Sūrat al-Qadr [~] to it, it is better. * And among its properties is that if you visit a sick person, ask him about the state of his illness; if it is from a headache in his head, write it for him as separated letters and hang it upon him from the side of the pain. And if the sick person says to you that his pain is from within him or from all of his body, then draw its famous wafq in a glass bowl, and the writing is with musk and saffron and rose water, then write the noble verse as separated letters and write with it the verses of healing, which are His saying تعالى: and He heals the breasts of believing people * and healing for what is in the breasts and guidance and mercy for the believers * and in it is healing for people * and there has come down from the Qur’an that which is healing and mercy for the believers * and when I am ill, it is He who heals me. Say: it is for those who believe, guidance and healing * Then the writing is erased with sweetened honey, and the noble verse is recited over it 7 times, and the sick person drinks it, for he will be healed by permission of Allah. * And among its properties: whoever is harmed by phlegm, let him take seven pieces of small white salt, then recite over each one of them the verse 7 times, and use them on an empty stomach for 7 counted days, for Allah will remove it from him. * And it was narrated from some of them that he used to see in his sleep frightening matters
+
+---
+## Page 225
+
+**Arabic (original):**
+— ٢١٩ —
+مخيفة وأشياء مفزعة، فشكا لبعض المشايخ وشكاه ذلك، فقال له الشيخ: إذا أويت إلى فراشك فتعوذ
+بالله من الشيطان الرجيم ثلاثاً، فإذا وصلت إلى قوله تعالى: {وَلَا يَؤُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ} فكررها
+ثلاثاً وتنام، فإنك تأمن مما تجده، وفعل فلم يجد شيئاً بعدها يكرهه. * ومن خواصها أنك إذ أردت
+الدخول على ملك أو جبار وخفت من شره، فقل وأنت داخل عليه: شهدت الوجوه ثلاثاً، وتقرأ آية
+الكرسي ثلاثاً، وتقول: اللهم ألقِ عليَّ من زينتك ومحبتك وكرامتك وعزة ربوبيتك ما تقهر به
+القلوب، وتذل له النفوس، وتفرق له الأبصار، وتتبلد له الأفكار، ويخضع له كل متكبر جبار، يا عزيز
+يا غفار، يا واحد يا أحد، احفظني فيما ملكتني مما أنت أملك به مني، وأمددني برقيقة من
+رقائق الملك الحفيظ، فاختطف به أبصار الموجودات، وألبسني درعاً من كفايتك وكلاءتك، وقلدني
+بسيف نصرتك وكرامتك وحمايتك، وتوجني بتاج كرامتك وعزك، وردني برداء منك وعافيتك،
+وأركبني مركب النجاة إلى الممات، وأمددني برقيقة من رقائق أسمائك القهرية، أدفع بها عني من
+أرادني بسوء من جميع خلقك، كما سخرت البحر لموسى بن عمران، ولين لي قلوبهم كما لنت الحديد لداود
+عليه السلام، فإنهم لا ينطقون إلا بإذنك، نواصيهم إليك في قبضتك تقلبها كيف تشاء، يا مقلب القلوب،
+بأعلام الغيوب، أطفأت غضب فلان ابن فلانة، وإن شئت تقول: أطفأت غضب الناس بلا إله إلا الله،
+واستجلبت مودتهم ومحبتهم بمحبة رسول الله عليه السلام، {فَلَمَّا رَأَيْنَهُ أَكْبَرْنَهُ وَقَطَّعْنَ أَيْدِيَهُنَّ
+وَقُلْنَ حَاشَ لِلَّهِ مَا هَذَا بَشَرًا إِنْ هَذَا إِلَّا مَلَكٌ كَرِيمٌ}، ولا حول ولا قوة إلا بالله العلي العظيم. * واعلم أن من
+خواص آية الكرسي إذا كنت في مكان مخوف فاجلس أنت ومن معك على الأرض، وأمر القوم أن
+يجعلوا ظهورهم إلى بعضهم بعضاً، وخط عليهم دائرة وأنت من داخلها، وتقرأ على الخط آية الكرسي
+٧ مرات، وتقول بعدها: {وَلَا يَؤُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ}، {وَحَفِظْنَاهَا ذَلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ}،
+{وَحَفِظْنَاهَا مِنْ كُلِّ شَيْطَانٍ مَارِدٍ}، {وَحَفِظْنَاهَا مِنْ كُلِّ شَيْطَانٍ رَجِيمٍ}، {إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ}،
+{لَهُ مُعَقِّبَاتٌ مِنْ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِ يَحْفَظُونَهُ مِنْ أَمْرِ اللَّهِ}، {بَلْ هُوَ قُرْآنٌ مَجِيدٌ * فِي لَوْحٍ مَحْفُوظٍ}،
+{وَنَجَّيْنَاهُ وَأَهْلَهُ مِنَ الْكَرْبِ الْعَظِيمِ}، {وَنَجَّيْنَاهُ مِنَ الْغَمِّ وَكَذَلِكَ نُنْجِي الْمُؤْمِنِينَ}، {وَمَا أَنْتَ عَلَيْهِمْ بِحَفِيظٍ}،
+{إِنْ كُلُّ نَفْسٍ لَمَّا عَلَيْهَا حَافِظٌ}، {فَإِنْ تَوَلَّوْا فَقُلْ حَسْبِيَ اللَّهُ لَا إِلَهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ}،
+{اللَّهُ حَفِيظٌ عَلَيْهِمْ وَمَا أَنْتَ عَلَيْهِمْ بِوَكِيلٍ}، وتقول: حفيظ حفيظ يا حافظ يا أمين، احفظنا اللهم، احرسنا
+بعينك التي لا تنام، واكنفنا بكنفك الذي لا يرام، يا الله يا رب العالمين، تمسكت أنت ومن معك ولا
+تتكلموا، فإنه لو دخل عليك ربيعة ومضر فإنهم لا يضرونك ولا يؤذونك ويحفظك الله منهم. * واعلم أن
+هذه الآية الشريفة نزلت من تحت ساق العرش، وما نزلت على النبي عليه السلام نزل معها سبعون
+ألف ملك إكراماً لها، وهي المنجية من الخوف والفزع ومن الجن والإنس، ومن قرأها في خوف
+أمن من كل شر وحرس؛ لأنها آية الحرس، وإن لها ٧٢ تصريفاً، وقد أعرضت عن ذكرها خوفاً
+من الجهال. * ومن خواصها إذا خرج الإنسان إلى السفر وأراد الخروج من بلده فليقل: ألف ألف
+ألف قل هو الله أحد وآية الكرسي، أحرز بها المال والولد والأهل، ألف ألف ألف قل هو الله أحد
+وآية الكرسي عن يميني وشمالي، أحترز بها من كل أحد، ليست ستر الله المحيط الأعلى وتحصنت بالله.
+
+**English:**
+— 219 —
+frightful and terrifying things, so he complained to some of the shaykhs and that was complained of to him. So the shaykh said to him: When you go to your bed, seek refuge with Allah from the accursed Satan three times; then when you reach His تعالى saying: {AND HIS PRESERVATION OF THEM BOTH WEARIES HIM NOT, AND HE IS THE HIGH, THE GREAT}, repeat it three times and sleep, for you will be safe from what you find. So he did, and he found nothing after that which he disliked. * And among its properties is that if you wish to enter upon a king or a tyrant and fear his evil, then say, while entering upon him: I have witnessed the faces three times, and recite the Verse of the Throne three times, and say: O Allah, cast upon me from Your adornment and Your love and Your honor and the might of Your lordship that by which You subdue hearts, and souls are humbled to it, and eyes are scattered by it, and thoughts are stupefied by it, and every arrogant tyrant submits to it, O Mighty, O Forgiving, O One, O Single, preserve me in that which You have made me possess from that over which You are more possessing than I am over me, and extend to me a subtlety from the subtleties of the Preserving King, so that by it I may snatch the sights of beings, and clothe me in a coat of Your sufficiency and Your protection, and gird me with the sword of Your help and Your honor and Your protection, and crown me with the crown of Your honor and Your might, and return me with a cloak from You and Your well-being, and mount me upon the conveyance of salvation until death, and extend to me a subtlety from the subtleties of Your coercive names, by which I ward off from myself whoever intends me with evil from all Your creation, as You subjected the sea to Moses son of عمران, and soften for me their hearts as You softened iron for David عليه السلام, for they do not speak except by Your permission; their forelocks are to You, in Your grasp, You turn them however You will, O Turner of hearts, by the signs of the unseen, I have extinguished the anger of so-and-so son of so-and-so, and if you wish you say: I have extinguished the anger of the people with no god but Allah, and I have drawn forth their affection and their love by the love of the Messenger عليه السلام, {AND WHEN THEY SAW HIM, THEY MAGNIFIED HIM, AND THEY CUT THEIR HANDS, AND THEY SAID: “GLORY BE TO ALLAH! THIS IS NOT A HUMAN BEING; THIS IS NONE BUT A NOBLE ANGEL”}, and there is no power and no strength except by Allah, the High, the Great. * And know that among the properties of the Verse of the Throne is that if you are in a frightening place, then sit you and those with you on the ground, and order the people that they place their backs toward one another, and draw around them a circle while you are inside it, and recite over the line the Verse of the Throne 7 times, and then say: {AND HIS PRESERVATION OF THEM BOTH WEARIES HIM NOT, AND HE IS THE HIGH, THE GREAT}, {AND WE PRESERVED IT; THAT IS THE DETERMINATION OF THE MIGHTY, THE KNOWING}, {AND WE PRESERVED IT FROM EVERY REBELLIOUS SATAN}, {AND WE PRESERVED IT FROM EVERY ACCURSED SATAN}, {INDEED, WE, WE SENT DOWN THE Reminder, AND INDEED WE ARE ITS PRESERVERS}, {FOR HIM ARE FOLLOWERS, BEFORE HIM AND BEHIND HIM, WHO GUARD HIM BY THE COMMAND OF ALLAH}, {NAY, IT IS A GLORIOUS QUR’AN * IN A PRESERVED TABLET}, {AND WE SAVED HIM AND HIS FAMILY FROM THE GREAT DISTRESS}, {AND WE SAVED HIM FROM GRIEF, AND THUS DO WE SAVE THE BELIEVERS}, {AND YOU ARE NOT OVER THEM A KEEPER}, {NOTHING IS BUT A SOUL UPON IT IS A KEEPER}, {SO IF THEY TURN AWAY, THEN SAY: ALLAH IS SUFFICIENT FOR ME; THERE IS NO GOD BUT HE; UPON HIM I RELY, AND HE IS THE LORD OF THE MIGHTY THRONE}, {ALLAH IS A KEEPER OVER THEM, AND YOU ARE NOT OVER THEM A WAKIL}, and you say: Preserver, Preserver, O Keeper, O Trustworthy, preserve us, O Allah, guard us with Your eye that does not sleep, and shelter us with Your shelter that cannot be assailed, O Allah, O Lord of the worlds. Hold fast, you and those with you, and do not speak, for if Rabi‘ah and Mudar were to enter upon you, they would not harm you nor hurt you, and Allah will preserve you from them. * And know that this noble verse descended from beneath the leg of the Throne, and when it descended upon the Prophet عليه السلام, seventy thousand angels descended with it in honor of it, and it is the savior from fear and terror and from jinn and humankind, and whoever recites it in fear is safe from every evil and guard; because it is the verse of guarding, and it has 72 inflections, and I have turned away from mentioning them out of fear of the ignorant. * And among its properties is that if a person goes out for travel and wishes to depart from his town, let him say: a thousand thousand thousand Qul Huwa Allahu Ahad and the Verse of the Throne, by which I secure wealth and child and family, a thousand thousand thousand Qul Huwa Allahu Ahad and the Verse of the Throne on my right and my left, by which I guard myself from every one, is not the encompassing veil of Allah the Highest, and I have fortified myself with Allah.
+
+---
+
+---
+## Page 226
+
+**Arabic (original):**
+— ٢٢٠ —
+
+القديم الأزلي وتقلّدت بسيف أمير المؤمنين عليه السلام وتردّيت برداء عائشة أم المؤمنين
+ودخلت في خزائن بسم الله الرحمن الرحيم أقفالها الحمد لله رب العالمين ومن قرأ آية الكرسي مرة
+وقل هو الله أحد ثلاث مرات وينفث عن يمينه وشماله ومن أراد الاختصار فليقرأ ما ذكرناه ثم
+ينفث على كفيه ويمسح بهما وجهه وسائر جسده فإنه يأمن مما يخاف حتى يعود إلى منزله ومن قرأها
+صباحاً أمن حتى يمسي ومن قرأها مساءً أمن حتى يصبح وإذا قرئت على رأس مروع ١١ مرة
+أفاق لوقته وإن أقام العارض في الجثة احترق وإذا قرئت عقب الصلوات فإنها تمحو ما على المصلي
+من الخطايا ومن خواصها إذا قرئت عند الدخول على جبار أو حاكم جائر وقال في إتمامها اللهم يا حي
+يا قيوم أبدع السموات والأرض يا ذا الجلال والإكرام أسألك بحق هذه الآية الكريمة وما فيها
+من الأسرار العظيمة أن تلجم فاه عني وتخرس لسانه حتى لا ينطق إلا بخير أو يصمت خيرك أيها
+بين يديك وشرك تحت قدميك ويدخل عليه فإن الله يلجم فاه عنه ولا يحصل له ضرر منه ومن
+خواصها إذا كنت تخاف من أحد وحصل لك منه ضرر فتصلّ - المغرب ركعتين - فاقرأ آية
+الكرسي وأنت ساجد ٣ مرات فإذا وصلت إلى قوله تعالى ولا يؤوده حفظهما وهو العلي العظيم
+تكررها ثلاثاً سبعاً وتقول في أثناء قراءتك اللهم حل بيني وبين فلان بن فلانة كما حلت بين السماء
+والأرض وألجم فاه عني كما ألجمت السباع عن دانيال عليه السلام بحق هذه الأسماء الشريفة فإنك تكفى
+شره ويلجم فاه عنك حتى لا يتكلم فيك إلا بخير ومن خواصها إذا كنت في جماعة وأردت أن
+تكفى شرهم وأذيتهم فاقرأ الآية ٣ مرات وانفث في كفيك ٣ وامسح يدك على وجهك
+وأنت تقول اللهم اكفني شر هؤلاء القوم يا كافي وعافني من أذاهم يا معافي فإن الله يؤمنك منهم ولا
+يحصل لك منهم ضرر ومن خواص هذه الآية إذا قرأتها ليلة فإنك تأمن إلى الصباح وإذا قرأتها صباحاً
+تأمن إلى المساء وحكي أن رجلاً سكن داراً مهجورة فلما جن عليه الليل فإذا بفتح وجلجلة فنظر الرجل
+فإذا هو مارد قاصده فلما رأيته خفت فألهمت أن قرأت آية الكرسي وكنت كلما أقول كلمة يقولها معي
+إلى قوله تعالى ولا يؤوده حفظهما وهو العلي العظيم فأقالها فكررتها عليه مراراً عديدة فغاب عني
+ولم أره بقية ليل فلما كان الصباح نظرت فإذا في ركن البيت رماد فتعجبت من ذلك ثم قصصت
+قصتي على أخ من إخواني وكان صالحاً فقال لي إن هذا عفريت أراد أذيتك فخرقته هذه الآية
+لأنك ألهمت قراءتها فلما سمعت ذلك اتخذتها ورداً وذكراً ليلاً ونهاراً فرأيت من بركتها شيئاً عظيماً
+ومن خواصها أنها تكتب للقرناء والتوابع فإن من علقت عليه يأمن وإذا أضيف إليها قوله تعالى والله
+من ورائهم محيط بل هو قرآن مجيد في لوح محفوظ فالله خير حافظاً وهو أرحم الراحمين له
+معقبات من بين يديه ومن خلفه يحفظونه من أمر الله فإن قيل ذلك تقدير العزيز العليم وتكتب
+معها الإخلاص والمعوذتين فإنها حجاب عظيم للقرناء والتوابع ومن خواص هذه الآية إذا وضعت
+في متاع حفظ وأمن صاحبه من اللصوص وغيرهم ومن رسم هذه الآية في وفق مثمن عددي
+أودع في ساعة الشمس محموضة في أحمال التجارة فإنها تروّج وترج وإن وضع الوفق المذكور في
+
+صندوق
+
+**English:**
+— 220 —
+
+the Pre-eternal, the Everlasting, and I girded myself with the sword of the Commander of the Faithful عليه السلام and I clothed myself with the cloak of ʿA’ishah, the Mother of the Believers, and I entered into the treasuries of “In the name of Allah, the Most Merciful, the Most Compassionate,” whose locks are “Praise be to Allah, Lord of the worlds.” And whoever recites the Verse of the Throne once and “Say: He is Allah, One” three times and blows to his right and left, and whoever wishes brevity, let him recite what we mentioned, then blow upon his palms and wipe with them his face and the rest of his body, for he will be safe from what he fears until he returns to his home. And whoever recites it in the morning is safe until evening, and whoever recites it in the evening is safe until morning. And if it is recited over the head of one terrified 11 times, he awakens at once, and if the accident remains in the body it burns. And if it is recited after the prayers, it erases what is upon the worshipper of sins. And among its properties is that if it is recited upon entering upon a tyrant or an unjust ruler, and he says in completing it: O Allah, O Living, O Self-Subsisting, Originator of the heavens and the earth, O Possessor of majesty and honor, I ask You by the right of this noble verse and what is in it of the عظيمة secrets that You bridle his mouth from me and silence his tongue so that he speaks only good or is silent; your good is before your hands and your evil beneath your feet, and he enters upon him, for Allah will bridle his mouth from him and no harm will befall him from him. And among its properties is that if you fear someone and harm has befallen you from him, then pray — the Maghrib, two rakʿahs — then recite the Verse of the Throne while prostrating 3 times; when you reach His تعالى saying: and His preservation of them both wearies Him not, and He is the High, the Great, repeat it three times seven, and say during your recitation: O Allah, place between me and so-and-so son of so-and-so as You placed between heaven and earth, and bridle his mouth from me as You bridled the beasts away from Daniel عليه السلام by the right of these noble names, for you will be sufficed against his evil and his mouth will be bridled from you so that he speaks about you only good. And among its properties is that if you are in a group and wish to be sufficed against their evil and harm, then recite the verse 3 times and blow into your palms 3 times and wipe your hand over your face while you say: O Allah, suffice me against the evil of these people, O Sufficient One, and grant me well-being from their harm, O Granter of well-being, for Allah will secure you from them and no harm will befall you from them. And among the properties of this verse is that if you recite it at night, you are safe until morning, and if you recite it in the morning, you are safe until evening. And it is related that a man dwelt in an abandoned house; when night fell upon him, there was opening and clamor, and the man looked, and behold, it was a rebellious jinn heading toward him. When I saw it I feared, so I was inspired to recite the Verse of the Throne, and whenever I said a word it said it with me, until His تعالى saying: and His preservation of them both wearies Him not, and He is the High, the Great; then it ceased it, so I repeated it upon it many times, and it disappeared from me and I did not see it for the rest of the night. When morning came I looked, and behold, in the corner of the house was ashes, so I wondered at that, then I told my story to a brother of mine, and he was righteous, and he said to me: This was an ifrit who intended to harm you, and this verse pierced it because you were inspired to recite it. When I heard that, I took it as a wird and remembrance by night and day, and I saw from its blessing a tremendous thing. And among its properties is that it is written for the qarīn and the followers; for whoever it is hung upon is safe. And if there is added to it His تعالى saying: and Allah is encompassing them from behind them, nay, it is a glorious Qur’an in a preserved tablet, then Allah is best as Guardian, and He is the most merciful of the merciful, for him are attendants before him and behind him, guarding him by the command of Allah; if that is said, it is the determination of the Mighty, the Knowing. And with it are written al-Ikhlāṣ and the two Muʿawwidhatayn, for it is a great veil for the qarīn and the followers. And among the properties of this verse is that if it is placed in goods, its owner is preserved and secured from thieves and others. And whoever draws this verse in an octagonal numerical wafq, deposited in the hour of the sun, moistened in trade loads, then it becomes promoted and sought. And if the المذكور wafq is placed in
+
+Box
+
+---
+## Page 227
+
+**Arabic (original):**
+— ٢٢١ —
+
+صندوق المال حُفِظَ ولم يُفرغ المال من الصندوق مادام فيه ۞ ومن خواص هذه الآية يقرأ قوله:
+الم الله لا إله إلا هو الحي القيوم، هذه الآية لها اسم الله الأعظم وله من العدد ٤٨٣، من كتبها بسر
+التداخل في الأولى من يوم الجمعة على جسم شريف وحمله رأى من عجب الله ما تعجز عنه
+الأوصاف من الجاه والعز والهيبة في أعين الناس، وفيه سر بديع للدخول على الحكام والأمراء
+والأكابر والوزراء وطلب الحوائج وقضاء الأمور، وهذه صورته:
+
+| الم الله | لا إله إلا هو | الحي | القيوم |
+| :--- | :--- | :--- | :--- |
+| ١٣٧ | ١١٠ | ٤٩ | ١٨٧ |
+| ٥٠ | ١٦ | ١٣٨ | ١٠٩ |
+| ١٨٥ | ٤٧ | ١١٢ | ١٣٩ |
+| ١١١ | ١٤٠ | ١٨٤ | ٤٨ |
+
+وعن الحسن بن علي رضي الله عنهما أنه قال: أضامن لمن قرأ هذه الآية الشريفة إلى عشرين آية
+يعصمه الله من كل جبار عنيد، وشيطان مريد، وسلطان ظلوم، ولص غادر، وسبع ضار: آية الكرسي،
+وثلاث آيات من الأعراف: {إن ربكم الله الذي خلق السموات والأرض في ستة أيام}، وعشر آيات من
+أول الصافات إلى {لازب}، وثلاث آيات من الرحمن: {يا معشر الجن والإنس} إلى قوله: {إلا سلطان}، وخواتيم
+سورة الحشر، وآخر سورة تبت. ومن خواص آية الكرسي إذا هم أحدكم أمر فليتوضأ في جنح الليل
+ويصلي ركعتين، كل ركعة بالفاتحة وآية الكرسي ٣ مرات، فإذا سلم يقرأ الآية ٧ مرات ويقول
+بعدها هذا الدعاء: اللهم إني تسمع كلامي، وترى مكاني، وتعلم سري وعلانيتي، لا يخفى عليك شيء من
+أمري، أدعوك دعاء البائس الفقير المستغيث المعترف بذنبه والتقصير، وأسألك مسألة المسكين، وأبتهل
+إليك ابتهال العبد الضعيف المذنب الحقير، ابتهال من خضعت لك رقبته، وفاضت إليك عبرته، وأذل
+لك خده، ورغم لك أنفه، أن تحيي قلوبنا، وتشرح صدورنا، وتجعل مساعينا خالصة لوجهك الكريم،
+وسبب الفوز إلى النعيم، ووفقنا لما هو محض رضاك، واختم لنا منك بخير، واجعلنا غداً مع الذين
+أنعمت عليهم من النبيين والصديقين والشهداء والصالحين وحسن أولئك رفيقا، واكفنا ما أهمنا من
+أمور الدنيا والآخرة، ولا تشمت بنا الأعداء ولا القوم الحاسدين، ولا تجعل مصيبتنا في ديننا، ولا تجعل
+الدنيا أكبر همنا، ولا مبلغ علمنا، ولا تسلط علينا بذنوبنا من لا يخافك ولا يرحمنا، ومتعنا بأسماعنا وأبصارنا،
+وأحينا حياة طيبة، وافتح لنا أبواب الخير، وارزقنا وأنت خير الرازقين، ربنا اغفر لنا ولإخواننا الذين
+سبقونا بالإيمان ولا تجعل في قلوبنا غلاً للذين آمنوا ربنا إنك رؤوف رحيم ۞ ربنا اغفر لنا ذنوبنا
+وإسرافنا في أمرنا وثبت أقدامنا وانصرنا على القوم الكافرين، ربنا آتنا في الدنيا حسنة وفي
+الآخرة حسنة وقنا عذاب النار برحمتك يا أرحم الراحمين. ومن خواص هذه الآية إذا كتبت
+على كفن الميت في ثلاثة أماكن: عند رأسه، وعند وسطه، وعند ساقيه، فإن ذلك الميت لا يعذب في قبره،
+ويرفق الملكان به وقت السؤال؛ لأنها أعظم آية في القرآن، وقد ابتدئ فيها باسمه الكريم.
+
+**English:**
+— 221 —
+
+in the money box, the money is preserved and the money is not emptied from the box so long as it is in it. ۞ And among the properties of this verse is that one recites His saying: Alif Lam Mim Allah, there is no god but He, the Living, the Self-Subsisting. This verse has the Name of Allah the Greatest, and its number is 483. Whoever writes it with the secret of interpenetration in the first [hour] of Friday upon a noble body and carries it will see from the wonders of Allah what descriptions are unable to encompass, of rank, might, and awe in the eyes of people. And in it is a wondrous secret for entering upon rulers, princes, the great, and ministers, and for seeking needs and accomplishing affairs. And this is its form:
+
+| الم الله | لا إله إلا هو | الحي | القيوم |
+| :--- | :--- | :--- | :--- |
+| ١٣٧ | ١١٠ | ٤٩ | ١٨٧ |
+| ٥٠ | ١٦ | ١٣٨ | ١٠٩ |
+| ١٨٥ | ٤٧ | ١١٢ | ١٣٩ |
+| ١١١ | ١٤٠ | ١٨٤ | ٤٨ |
+
+And from al-Hasan ibn ʿAli رضي الله عنهما is that he said: I guarantee for whoever recites this noble verse, together with twenty verses, that Allah will protect him from every stubborn tyrant, rebellious Satan, unjust ruler, treacherous thief, and harmful beast: the Verse of the Throne, and three verses from al-Aʿrāf: {Indeed your Lord is Allah, who created the heavens and the earth in six days}, and ten verses from the beginning of al-Saffāt to {adhesive}, and three verses from al-Raḥmān: {O company of jinn and humankind} to His saying: {except authority}, and the endings of Sūrat al-Ḥashr, and the end of Sūrat Tabbat. And among the properties of the Verse of the Throne is that if one of you intends a matter, let him perform ablution in the depth of night and pray two rakʿahs, in each rakʿah with al-Fātiḥah and the Verse of the Throne 3 times; then when he gives salām, he recites the verse 7 times and says after it this supplication: O Allah, indeed You hear my speech, and see my place, and know my secret and my public, nothing of my affair is hidden from You. I call upon You with the supplication of the wretched poor one, the imploring one, acknowledging his sin and shortcoming, and I ask You the asking of the needy, and I beseech You the beseeching of the weak, sinful, despicable servant, the beseeching of one whose neck has humbled to You, and whose tears have flowed to You, and whose cheek has been abased to You, and whose nose has been rubbed in the dust for You, that You revive our hearts, and expand our breasts, and make our endeavors sincere for Your noble Face, and a cause of attaining bliss, and grant us success for that which is pure of Your good pleasure, and conclude for us from You with good, and make us tomorrow with those upon whom You have bestowed favor, of the prophets and the truthful and the martyrs and the righteous, and excellent are those as companions, and suffice us against what has concerned us of the affairs of this world and the Hereafter, and do not let the enemies nor the envious people gloat over us, and do not make our affliction in our religion, and do not make the الدنيا the greatest of our concerns, nor the extent of our knowledge, and do not empower over us, by our sins, one who does not fear You and does not have mercy on us, and grant us enjoyment by our hearing and our sight, and give us life with a good life, and open for us the doors of good, and provide for us, and You are the best of providers, our Lord, forgive us and our brothers who preceded us in faith, and do not place in our hearts any rancor toward those who believe, our Lord, indeed You are Kind, Merciful. ۞ Our Lord, forgive us our sins and our excess in our affair, and make firm our feet, and grant us victory over the disbelieving people. Our Lord, give us in this world good and in the Hereafter good, and protect us from the punishment of the Fire by Your mercy, O Most Merciful of the merciful. And among the properties of this verse is that if it is written on the shroud of the dead in three places: at his head, and at his middle, and at his feet, then that dead one is not punished in his grave, and the two angels are gentle with him at the time of questioning; because it is the greatest verse in the Qur’an, and it was begun with His noble Name.
+
+---
+_End of translation — 227 pages._
