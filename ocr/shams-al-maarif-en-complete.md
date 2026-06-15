@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 215 translated pages._
+_Auto-generated from 221 translated pages._
 
 ---
 ## Page 1
@@ -12765,4 +12765,261 @@ Kah
 14 - Shams al-Maʿārif -
 
 ---
-_End of translation — 215 pages._
+## Page 216
+
+**Arabic (original):**
+— ٢١٠ —
+
+وقال بعض العارفين من قرأ الخمس آيات وهو جالس على الأرض ثم يديرها من وراء ظهره بإصبع يده
+الشاهد حتى يقفلها أمامه ثم يقول يا خدام هذه الآيات والأسماء بحقها عليكم إلا ما أخفيتموني
+عن الناس والخلق أجمعين ثم تسكت ولا تتكلم فإنك تخفى ما دمت ساكتاً ومن أكثر
+من ذكره وقرأ هذه الآيات وكان صاحب حالة صادقة شاهد من صنع الله ما تعجز عنه
+الأوصاف واعلم أن وضع هذه الأسماء وهي ١٤ اسماً من الحروف النورانية في فواتح
+السور وهي هذه الله لطيف ملك كافي عليم يسير رحمن طيب سلام حي قيوم نور هادٍ في مربع
+على صحيفة من ذهب في شرف الشمس أو بيده وحملها منه ارتفع ذكره وعلا قدره وانبسط سره
+وانشرح صدره وهي من الأسرار المخزونة وهذه صورته كما ترى
+
+| الله | لطيف | ملك | كافي | هادٍ | عليم | يسير | رحمن | حي | سلام | طيب | قيوم | نور | هادٍ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| لطيف | ملك | كافي | هادٍ | عليم | يسير | رحمن | حي | سلام | طيب | قيوم | نور | هادٍ | الله |
+| ملك | كافي | هادٍ | عليم | يسير | رحمن | حي | سلام | طيب | قيوم | نور | هادٍ | الله | لطيف |
+| كافي | هادٍ | عليم | يسير | رحمن | حي | سلام | طيب | قيوم | نور | هادٍ | الله | لطيف | ملك |
+| هادٍ | عليم | يسير | رحمن | حي | سلام | طيب | قيوم | نور | هادٍ | الله | لطيف | ملك | كافي |
+| عليم | يسير | رحمن | حي | سلام | طيب | قيوم | نور | هادٍ | الله | لطيف | ملك | كافي | هادٍ |
+| يسير | رحمن | حي | سلام | طيب | قيوم | نور | هادٍ | الله | لطيف | ملك | كافي | هادٍ | عليم |
+| رحمن | حي | سلام | طيب | قيوم | نور | هادٍ | الله | لطيف | ملك | كافي | هادٍ | عليم | يسير |
+| حي | سلام | طيب | قيوم | نور | هادٍ | الله | لطيف | ملك | كافي | هادٍ | عليم | يسير | رحمن |
+| سلام | طيب | قيوم | نور | هادٍ | الله | لطيف | ملك | كافي | هادٍ | عليم | يسير | رحمن | حي |
+| طيب | قيوم | نور | هادٍ | الله | لطيف | ملك | كافي | هادٍ | عليم | يسير | رحمن | حي | سلام |
+| قيوم | نور | هادٍ | الله | لطيف | ملك | كافي | هادٍ | عليم | يسير | رحمن | حي | سلام | طيب |
+| نور | هادٍ | الله | لطيف | ملك | كافي | هادٍ | عليم | يسير | رحمن | حي | سلام | طيب | قيوم |
+| هادٍ | الله | لطيف | ملك | كافي | هادٍ | عليم | يسير | رحمن | حي | سلام | طيب | قيوم | نور |
+
+ومن ذكر هذه الأسرار النورانية ٥٦ مرة وصلى على النبي صلى الله عليه وسلم ١٣٧ مرة فإنه
+لا يطلب من الله شيئاً إلا أعطاه إياه وفيه سر عجيب للملوك وأصحاب المراتب وما أكثر
+من ذكرها ملك اتسع ملكه وكثرت رعيته ونفذت كلمته وانقادت له الرقاب وفيه اسم الله الأعظم
+وكنزه الأكبر فتدبره فإنه من الأسرار الربانية واعلم أن لكل اسم من هذه الأسماء تصريفاً خاصاً
+به وعدده فجمع حروف كل اسم وعدده في وفق وحمله معه وأكثر من ذكره كشف الله له به
+الستر ومهما كان العدد فرداً ففعله يقتضي الإفراد وإذا كان زوجاً ففعله يقتضي الائتلاف وأشاهد
+الستر
+
+بما
+
+**English:**
+— 210 —
+
+And some of the knowers said: whoever reads the five verses while he is sitting on the ground, then turns them from behind his back with the forefinger of his hand, the witness, until he closes them before him, then says: O servants of these verses and the names, by their right upon you, except that you hide me from the people and all creation together; then be silent and do not speak, for you will be hidden so long as you are silent. And whoever increases in its remembrance and reads these verses, and was صاحب حالة صادقة, shall witness from the making of God what descriptions are عاجزة عنه. And know that the placing of these names, and they are 14 names from the luminous letters in the openings of the surahs, and they are these: Allah, Latif, Malik, Kafi, Alim, Yasir, Rahman, Tayyib, Salam, Hayy, Qayyum, Nur, Hadi, in a square upon a sheet of gold in Sharf al-Shams or by his hand, and whoever carries it from it, his mention is raised, his rank is exalted, his secret is expanded, and his breast is opened. And it is from the hidden secrets, and this is its form as you see.
+
+[Grid content preserved as-is]
+
+And whoever mentions these luminous secrets 56 times and sends blessings upon the Prophet, may God bless him and grant him peace, 137 times, then he does not ask God for anything except that He gives it to him. And in it is a wondrous secret for kings and أصحاب المراتب. And whoever mentions it much, his kingdom expands, his subjects increase, his word is carried out, and necks submit to him. And in it is the Greatest Name of God and His greatest treasure, so reflect upon it, for it is from the divine secrets. And know that for every name of these names there is a special tasrif for it and its number, so gather the letters of each name and its number in a wafq and carry it with him, and increase in its remembrance; God will uncover the veil for him by it. And whatever the number is odd, then its action necessitates individuation, and if it is even, then its action necessitates association. And I behold the veil
+
+with
+
+---
+## Page 217
+
+**Arabic (original):**
+— ٢١١ —
+
+بما يظهر أمره ومهما وافق اسم ذات العدد والعرش وكسره وصوره كان اسما أعظم في حقه
+يفعل به ما يفعل بالاسم الأعظم واعلم أن لكل اسم من الأسماء آيات من القرآن تقاسمه وقد رتبت
+هذه الأسماء ترتيبا آخر وسميتها لطائف ( الطبقة الأولى ) عشرة أسماء أمان للخائفين وأنس
+المستوحشين وإطلاق للمسجونين وهي الرحمن الرحيم الرؤوف العفو المنان الكريم ذو الطول
+والإكرام ( اللطيفة الثانية ) منبع العلوم الجميلة ولطائف الأسماء الجليلة وأجل الأسماء في المناجاة
+فمن عمل بها واتخذها ذكرا دائما فتح الله عليه وبورك وسخر له العلوم والعقل وحصل له بها
+الكشف وهي ٦ أسماء العظيم الحليم الخبير المبين الهادي علام الغيوب ( اللطيفة الثالثة ) وهي
+شطر من الاسم الأعظم وفيها دفع الوسواس وغلبة الشهوة ودفع الذم من الأمور العظام وها وفق
+التسخير وفيها نفع عظيم وهي ثمانية أسماء الملك القادر العلي العظيم الغني المتعال المهيمن المتكبر
+( الطبقة الرابعة ) للهيبة والجبروت وهي شطر من الاسم الأعظم وبها يفعل الخلائق
+لجمع المتفرق وتفريق المجمع فمن داومها دفع عنه كل مؤلم ومن بنى عليه نصره الله وتصلح ذكرا
+بين يدي كل جبار وعظماء الخلق الأكابر والملوك ولا يزالون سالمين ولا ينالهم مكروه ويسخر الله له
+الحيوانات الثمانية والقلوب القاسية وهي عشرة أسماء العزيز القوي القدير ذو القوة المتين المقتدر
+الجبار المتكبر القاهر القهار ( اللطيفة الخامسة ) فيها اسم الله الأعظم ولها إلهام لأهل المكاشفات
+وهي من أعظم الأذكار وما استدام أحد ذكرها إلا يسر الله له المطلوب ورزق المرغوب ومن
+ذكرها نصف الليل شاهد العجائب ومداومتها تفتح الأسرار وفيها حفظ النفس والجسم من الآلام
+وقهر الأعداء وهي من الأسرار وفيها حفظ الملكوت به ولا يستديم ذكرها أحد إلا ورأى من أمور العالم
+العلوي أشياء جليلة ويفهم أسرار الملكوت ويسخر له كل عام وهي الكلمات التامات وهي
+عشرة أسماء وهي المحيط العالم الرب الشهيد الحسيب الفعال الخلاق الخالق البارئ المصور
+( الطبقة السادسة ) لها خواص في حفظ العلوم وأصحاب القوى ولأهل المعرفة بها مناجاة وإظهار
+وتطهير قلوب الزهاد من أغيار النفس وفيها [لين] أنواع النفس ومجاري التقدير وهي ١٠ أسماء الباطن
+الحفيظ الكامل المبدئ المعيد المحيي المميت المجيد الصادق الواسع ( الطبقة السابعة ) وهي من أعظم
+الأذكار وينفع لذاكرها الشفاء فيها اسم الله الأعظم ومن لازمها نصف الليل شاهد العجائب ومن
+عرف كيفية أقسامها استغنى بها غناء الأبد وكانت له وسيلة القرب إلى الحق وهي ١٠ أسماء الوهاب
+الباسط الحي القيوم النور الفتاح البصير العزيز الودود الواسع ( اللطيفة الثامنة ) لها سر عظيم لطالب
+الأسباب وبث النعم وتنفع لتيسير العسير وتقبل الوجوه إليه بالبركة من الكسب وتسخر له
+كل من يطلب منه حاجة وتصلح لأرباب الديانات فإنها عظيمة وهي ٩ التواب الغافر الحسيب
+الوكيل الكافي الرازق السلام المؤمن السريع ( الطبقة التاسعة ) وهي ١٥ اسما في علم الملك
+والملكوت وسر المقدور والعلم العلوي السفلي من استدام ذكرها مع خلو المعدة شاهد من نفسه
+علو الهمة والدفع إلى الأمور الباطنة ما لم يعلم من نفسه وأقبلت عليه النفس وتتقلب له القلوب انقلابا
+لطيفا وإن كان خائفا أمن ومن وسع طالبه الوقت وهي الحي المميت القابض الباعث الوارث الشافي
+
+**English:**
+— 211 —
+
+By that which makes its matter appear, and whatever agrees with the name of the Essence, the number, the Throne, its breaking, and its forms, it is a Greatest Name in his right, by which is done what is done by the Greatest Name. And know that for every name of the names there are verses from the Qur’an that divide it, and these names have been arranged in another arrangement and I have named them Latā’if. (The first class) ten names: security for the fearful, intimacy for the estranged, and release for the imprisoned, and they are: al-Rahman, al-Rahim, al-Ra’uf, al-‘Afuww, al-Mannan, al-Karim, Dhu al-Tawl and al-Ikram. (The second Latifah) the source of the beautiful sciences and the لطائف of the majestic names and the most sublime of the names in supplication; so whoever acts by them and takes them as a constant remembrance, God opens for him, and he is blessed, and the sciences and the intellect are subjected to him, and by them unveiling is obtained for him. And they are 6 names: al-‘Azim, al-Halim, al-Khabir, al-Mubin, al-Hadi, ‘Allam al-Ghuyub. (The third Latifah) and it is a half of the Greatest Name, and in it is the دفع of whispering, the overcoming of desire, and the دفع of blame from the great matters, and it is a wafq of subjugation, and in it is great benefit, and they are eight names: al-Malik, al-Qadir, al-‘Ali, al-‘Azim, al-Ghani, al-Muta‘al, al-Muhaymin, al-Mutakabbir. (The fourth class) for awe and dominion, and it is a half of the Greatest Name, and by it the creatures act for the gathering of the dispersed and the separation of the gathered; so whoever persists in it, every painful thing is دفع عنه, and whoever builds upon it, God grants him victory, and it is suitable as a remembrance before every tyrant and the great ones of creation, the notables and the kings, and they remain safe and no harm reaches them, and God subjugates for him the eight animals and the hard hearts, and they are ten names: al-‘Aziz, al-Qawi, al-Qadir, Dhu al-Quwwah, al-Matin, al-Muqtadir, al-Jabbar, al-Mutakabbir, al-Qahir, al-Qahhar. (The fifth Latifah) in it is the Greatest Name of God, and for it is inspiration for the people of unveilings, and it is among the greatest remembrances, and no one persists in its remembrance except that God makes easy for him the sought thing and provides the desired thing. And whoever remembers it at midnight witnesses wonders, and its constancy opens the secrets. And in it is the preservation of the soul and the body from pains and the subjugation of enemies, and it is from the secrets, and in it is the preservation of the kingdom by it, and no one persists in its remembrance except that he sees from the affairs of the upper world noble things and understands the secrets of the kingdom, and every year it is subjugated to him, and they are the perfect words, and they are ten names: al-Muhit, al-‘Alim, al-Rabb, al-Shahid, al-Hasib, al-Fa‘al, al-Khallaq, al-Khaliq, al-Bari’, al-Musawwir. (The sixth class) for it are properties in preserving the sciences and the possessors of powers, and for the people of knowledge in it is supplication and manifestation, and the purification of the hearts of the ascetics from the othernesses of the النفس, and in it is [لين] the kinds of the النفس and the courses of decree, and they are 10 names: al-Batin, al-Hafiz, al-Kamil, al-Mubdi’, al-Mu‘id, al-Muhyi, al-Mumit, al-Majid, al-Sadiq, al-Wasi‘. (The seventh class) and it is among the greatest remembrances, and it benefits its rememberer with healing; in it is the Greatest Name of God, and whoever keeps to it at midnight witnesses wonders, and whoever knows the manner of its divisions is enriched by it with the wealth of eternity, and it is for him a means of nearness to the Truth, and they are 10 names: al-Wahhab, al-Basit, al-Hayy, al-Qayyum, al-Nur, al-Fattah, al-Basir, al-‘Aziz, al-Wadud, al-Wasi‘. (The eighth Latifah) for it is a great secret for the seeker of causes and the spreading of blessings, and it benefits for the easing of the difficult, and faces are turned to it with the blessing of earning, and every one who seeks from him a need is subjugated to him, and it is suitable for the people of religions, for it is great, and they are 9: al-Tawwab, al-Ghafir, al-Hasib, al-Wakil, al-Kafi, al-Razzaq, al-Salam, al-Mu’min, al-Sari‘. (The ninth class) and they are 15 names in the science of the kingdom and the kingdom, and the secret of the decreed, and the upper and lower science; whoever persists in their remembrance with an empty stomach witnesses from himself the loftiness of aspiration and the pushing toward the inward matters that he did not know from himself, and the النفس turns toward him and the hearts turn for him with a gentle turning, and if he is afraid he is made secure, and whoever expands, time seeks him, and they are: al-Hayy, al-Mumit, al-Qabid, al-Ba‘ith, al-Warith, al-Shafi
+
+---
+## Page 218
+
+**Arabic (original):**
+— ٢١٢ —
+
+البر الجواد المحسن المنعم الأول الآخر الظاهر الباطن القدوس لم يلد ولم يولد ولم يكن له كفوا أحد
+* واعلم أن هذه اللطائف سريعة التأثير ينبغي أن ينقش كل لطيفة على خاتم ذهب وفصه فضة واما أن
+يكون في فص خاتم من جنس واحد فإذا أردت الذكر لطيفة منها تختم بخاتمها واذكرها تسرع
+التأثير لكل ما تريد ويكون بمضمون رياضة ظفر بما تريد * قوله تعالى وأما ينزغنك من الشيطان
+نزغ إلى يبصرون هذه الآية للوسوسة والخوف والفزع وحديث النفس والخيال والوصف فمن
+حصل له شيء من ذلك فليكتبها بماء ورد وزعفران يوم الجمعة في ٧ ورقات عند طلوع الشمس
+ويبتلع كل يوم ورقة ويشرب عليها جرعة من الماء يزول عنه قال عليه السلام يأتي أحدكم الشيطان
+فيقول من خلق كذا حتى يقول من خلق ربك فإذا بلغ ذلك فليستعذ بالله وينته وفي رواية لا يزال
+الناس يتساءلون حتى يقال هذا خلق الله فمن خلق الله فمن وجد ذاك فليقل آمنت بالله ورسوله
+وأخرج الترمذى عن عائشة رضي الله عنها قالت قال رسول الله عليه السلام من وجد من هذا
+الوسواس شيئا فليقل آمنا بالله ورسوله ثلاثا فانه يذهب عنه وروى مسلم عن عثمان بن أبي العاص
+قال قلت يارسول الله ان الشيطان قد حال بيني وبين صلاتي وقراءتي يلبسها علي فقال عليه السلام
+ذاك شيطان يقال له خنزب فإذا أحسست به فتعوذ بالله تعالى منه واتفل على يسارك ثلاثا ففعلت
+فذهب عني وهو أي خنزب بخاء معجمة ونون ساكنة وزاى ثم باء موحدة واختلف العلماء في ضبط
+الخاء فمنهم من فتحها ومنهم من كسرها ومنهم من ضمها وروى أبو داود عن ابن زميل قال قلت لابن
+عباس ما شيء أجد في نفسي أهو قلت والله لا أتكلم به قال شيء من شك وضحك فقال ما نجا منه
+أحد حتى أنزل الله إن كنت في شك مما أنزلنا إليك الآية ثم قال لى إذا وجدت في نفسك شيئا فقل هو
+الأول والآخر والظاهر والباطن وهو بكل شيء عليم وقال بعض العلماء يستحب قول لا اله الا الله
+لمن ابتلى بالوسوسة في الوضوء والصلاة وشبههما فان الشيطان أعدى الكفرة ولا اله الا الله رأس
+الذكر ولذلك اختار السادة طريقة السالكين وتأديب المريدين بقول لا اله الا الله هي الحلوة
+وأمرهم بالمداومة عليها وقالوا أنفع علاج لدفع الوسواس الاقبال على ذكر الله والاكثار منه قال
+الشيخ احمد الخوارزمي شكوت الى أبى سليمان الداراني وسواسا فقال اذا أردت أن ينقطع عنك في
+أي وقت أحسست به فافرح فاذا فرحت به انقطع عنك فانه ابغض شيء الى الشيطان سرور المسلم
+المؤمن فاذا غممت به زادك قال الشيخ محي الدين وهذا يؤيد ما قاله بعض العلماء ان الوسوسة
+يبتلى بها من كمل ايمانه فان اللص لا يقصد دارا خربة وعن أبي الدرداء رضي الله عنه من قال كل يوم ٧
+مرات فان تولوا فقل حسبي الله لا اله الا هو عليه توكلت وهو رب العرش العظيم
+وفي رواية لم يمت هما ولا غما ولا ضر بالحديد وعن الليث بن سعد ان رجلا انكسرت فخذه
+فأتاه آت وقال له ضع يدك حيث تجد ألمك وقل حسبي الله لا اله الا هو عليه توكلت وهو رب العرش
+العظيم فجبرت فخذه وعوفي ومن خاصية هذه الآية من كتبها وعلقها عليه لم يقف لها هم الا وقضى
+حاجته
+( فصل في تأليف القلوب )
+يكتب ٧ مرات يا الله و ٧ مرات يارحمن و ٧ مرات يارحيم لين قلب فلان بن فلانة واجعل
+ف
+
+**English:**
+— 212 —
+
+al-Barr, al-Jawwad, al-Muhsin, al-Mun‘im, al-Awwal, al-Akhir, al-Zahir, al-Batin, al-Quddus, He neither begot nor was begotten, and there is none equal to Him, one.
+* And know that these لطائف are swift in effect; each Latifah should be engraved on a gold ring and its bezel of silver, or that it be in the bezel of a ring of one جنس. So if you desire the remembrance of one of them, seal with its ring and remember it; its effect hastens for whatever you want, and it will be, by the content of discipline, that you attain what you want. * His saying تعالى: And if an incitement from Satan incites you to يبصرون — this verse is for whispering, fear, terror, inner speech, imagination, and description. So whoever has something of that, let him write it with rose water and saffron on Friday in 7 sheets at sunrise, and let him swallow one sheet each day and drink upon it a draught of water; it will depart from him. He, عليه السلام, said: Satan comes to one of you and says, “Who created such-and-such?” until he says, “Who created your Lord?” فإذا بلغ ذلك فليستعذ بالله وينته. And in a narration: people will continue asking one another until it is said, “This is the creation of God; so who created God?” Whoever finds that, let him say, “I believe in God and His Messenger.” And al-Tirmidhi narrated from ‘A’isha, may God be pleased with her, that the Messenger of God, عليه السلام, said: whoever finds something of this whispering, let him say, “We believe in God and His Messenger” three times, for it will go away from him. And Muslim narrated from ‘Uthman ibn Abi al-‘As that he said: I said, “O Messenger of God, Satan has come between me and my prayer and my recitation, confusing it for me.” So he, عليه السلام, said: “That is a devil called Khanzab. So if you sense him, seek refuge in God تعالى from him and spit to your left three times.” So I did, and he went away from me. And he, that is Khanzab, is with a khā’ with a dot, and a nūn sakin, and a zāy, then a bā’ with one dot; and the scholars differed concerning the ضبط of the khā’; some opened it, some broke it, and some joined it. And Abu Dawud narrated from Ibn Zumayl that he said: I said to Ibn ‘Abbas, “What is something I find in myself? Is it?” I said, “By God, I will not speak of it.” He said, “Something of doubt and laughter.” So he said, “No one was saved from it until God revealed: If you are in doubt concerning what We have sent down to you — the verse.” Then he said to me: “If you find something in yourself, then say: He is the First and the Last and the Manifest and the Hidden, and He is, of every thing, Knowing.” And some scholars said it is recommended to say “There is no god but God” for one afflicted by whispering in ablution and prayer and the like of them, for Satan is the most hostile of the disbelievers, and there is no god but God is the head of remembrance. Therefore the masters chose the way of the wayfarers and the disciplining of the aspirants by saying “There is no god but God”; it is the sweet one, and they commanded them to persist in it. And they said: the most beneficial treatment for دفع الوسواس is turning to the remembrance of God and increasing in it. Al-Shaykh Ahmad al-Khwarizmi said: I complained to Abu Sulayman al-Darani of whispering, and he said: if you want it to be cut off from you at any time you sense it, then rejoice; for if you rejoice in it, it is cut off from you, for it is the most hateful thing to Satan: the joy of the Muslim believer. So if you are grieved by it, it increases you. Al-Shaykh Muhyi al-Din said: and this confirms what some scholars said, that whispering is inflicted upon the one whose faith is perfected, for the thief does not قصد a ruined house. And from Abu al-Darda’, may God be pleased with him: whoever says every day 7 times: فان تولوا فقل حسبي الله لا اله الا هو عليه توكلت وهو رب العرش العظيم. And in a narration: he did not die of worry nor grief nor harm by iron. And from al-Layth ibn Sa‘d: that a man’s thigh was broken, and someone came to him and said to him: put your hand where you find your pain and say: حسبي الله لا اله الا هو عليه توكلت وهو رب العرش العظيم, and his thigh was set and he was cured. And among the property of this verse: whoever writes it and hangs it upon himself, no worry will stand before it except that his need is fulfilled.
+
+(Chapter on the composition of hearts)
+Write 7 times “O God” and 7 times “O Merciful” and 7 times “O Compassionate” [to] soften the heart of so-and-so son of so-and-so and make
+
+---
+## Page 219
+
+--- PAGE 219 TRANSLATION ---
+
+---
+## Page 220
+
+**Arabic (original):**
+— ٢١٣ —
+
+لَى عِنْدَهُ الرَّأْفَةُ وَالرَّحْمَةُ وَالْحَنَانُ وَالْقَبُولُ فَإِنْ تَوَلَّوْا فَقُلْ حَسْبِيَ اللَّهُ لَا إِلَهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ
+الْعَرْشِ الْعَظِيمِ وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ أَرِنِي كَيْفَ تُحْيِ الْمَوْتَى قَالَ أَوَلَمْ تُؤْمِنْ إِلَى حَكِيمٍ كَذَلِكَ يَأْتِي فُلَانٌ
+ابْنُ فُلَانَةَ خَاضِعًا ذَلِيلًا فَكَشَفْنَا عَنْكَ غِطَاءَكَ فَبَصَرُكَ الْيَوْمَ حَدِيدٌ يَكْتُبُهَا بِالزَّعْفَرَانِ وَالْفُلْفُلِ
+وَالرَّصَاصِ وَتَدُورُ بِهَا عَلَى رَأْسِ مَنْ شِئْتَ ٧ مَرَّاتٍ مَا تَيَسَّرَ عَلَيْكَ فِي حَالِ نَوْمِهِ أَوْ فِي حَالِ يَقَظَتِهِ
+بِالْقُرْبِ كَالزَّوْجَةِ وَالزَّوْجِ وَمَا أَشْبَهَهَا وَإِنْ كَانَ مِمَّا لَا يُتَوَصَّلُ إِلَى رَأْسِهِ فَتَدُورُهُ عَلَى بُعْدٍ مِنْهُ حَيْثُ تَرَاهُ
+وَلَا يَرَاكَ وَأَنْتَ تُكَبِّرُ عَلَى كُلِّ دَوْرَةٍ مَرَّةً تَقُولُ اللَّهُ أَكْبَرُ ٧ وَتَحْمِلُهُ مَعَكَ بِرَحْمَةِ اللَّهِ يَتْبَعُكَ
+وَيَنْقَادُ لَكَ تَكْتُبُهَا يَوْمَ الْخَمِيسِ عِنْدَ طُلُوعِ الشَّمْسِ فِي حِرْزِهِ وَاللَّهُ أَعْلَمُ
+(فَصْلٌ) هَذَا الِاسْمُ السَّرِيعُ أَهْلُ اللَّوْحِ وَالتِّمْيَارِ وُصُولٌ أَوْصِلْ كَذَا إِلَى كَذَا وَاصِلِ الْمَوَدَّةَ
+بَيْنَهُمَا بِلَطِيفٍ سَلِيطِيعٍ أَسَاطُونَ طُونَهَكْشٍ يُوشٍ هَيُورَشٍ هَيُورَ الْأَرْكِيَاظِ هَيُورَشَ مَارُوشَ الشَّقِّ
+الشَّقُومِ مَهْرَاشٍ بَشٍ حَطَّ بِدَفْقُوسٍ بَعْلَثَاقُومٍ عَلْشَاقِشٍ مَهْرَا قَشْ أَجِيبُوا أَيَّتُهَا الْأَرْوَاحُ الْعِظَامُ بِاسْمِ
+الْمَخْزُونِ الْمَكْنُونِ أَجِبْ يَا مَيْمُونُ يُكْتَبُ يَوْمَ الْأَرْبِعَاءِ بِمَاءِ الذَّهَبِ النَّهْرِيِّ الْقَرَنْفُلِ وَالزَّعْفَرَانِ
+وَمَاءِ الْوَرْدِ الطَّيِّبِ فِي أَوْرَاقِ الْقَصَبِ مَعَ اسْمِ مَنْ أَرَدْتَ وَبِعْتَهَا فِي الرِّيحِ تُبَخِّرُهَا بِبَانٍ ذَكَرٍ وَلْيَكُنْ
+غِذَاؤُكَ أَيَّامَ الْخَلْوَةِ الْخُبْزَ وَالزَّيْتَ وَالزَّبِيبَ وَمُدَّةُ الْخَلْوَةِ ٧ أَيَّامٍ فِي مَكَانٍ خَالٍ مِنَ النَّاسِ فِي
+مُعْتَكَفٍ صَالِحٍ وَتَصُومُ يَوْمَكَ وَتُقَطِّرُ عَلَى مَا ذَكَرْتُهُ مِنْ غَيْرِ شِبَعٍ وَتَذْكُرُ عَقِبَ الصَّلَوَاتِ
+وَتَصْرِفُهَا فِيمَا شِئْتَ مِنْ صَرْعِ الْقَرِينِ وَصَرْفِهِ وَجَلْبِ الْغَائِبِ وَانْقِلَابِ الْكَائِدِ ذَهَبٍ أَوْ فِضَّةٍ وَكُلَّمَا
+أَرَدْتَ وَلَا تُطَاعُ عَلَى سِرِّكَ اطْلُبِ الْأَمَلَ وَهَذَا خَاتَمُ الطَّاعَةِ وَفِيهِ الِاسْمُ السَّرِيعُ وَالطَّالِعُ الرَّفِيعُ
+نَكْتُبُهُ فِي ١١٨٠ اسْمًا وَذَلِكَ فِيهِ الطَّالِعُ وَهَذَا الْعَدَدُ اجْتَمَعَ فِي ٣ أَحْرُفٍ وَيَكُونُ
+بِهِ تَقْدِيمٌ وَتَأْخِيرٌ فَإِنَّهُمْ لِلْمُحِيطَانِ آذَانٌ وَتَعِيهَا أُذُنٌ وَاعِيَةٌ وَهَذِهِ صِفَةُ الْخَاتَمِ
+
+| جِبْرِيلُ | مِيكَائِيلُ |
+| :--- | :--- |
+| بَهْلُوهُ الْأَرْكِيَاظِ هَيُورَشُ | |
+| يَارُونُ عَيْشَقُ مَهْرَا قَشْ | |
+| عَلْشَاقِشُ عَلْشُ قُوشُ | |
+| أَقْشَامِقْشُ أَجِيبُوا فُلَانَةَ | |
+| بِنْتَ فُلَانَةَ سَرِيعًا | |
+| إِسْرَافِيلُ | عَزْرَائِيلُ |
+
+(فَصْلٌ) تَكْتُبُ هَذِهِ الْأَسْمَاءَ فِي وِسَادَةٍ لِلتَّبَاغُضِ مِنَ الزَّوْجَيْنِ وَهِيَ أَسْمَاءُ أُمِّ مُوسَى يَوْمَ الْجُمُعَةِ عِنْدَ
+جُلُوسِ الْإِمَامِ عَلَى الْمِنْبَرِ أَوْ شَرَعَ فِي الْأَذَانِ الْأَوَّلِ بِالزَّعْفَرَانِ وَمَاءِ الْوَرْدِ وَالطِّيبِ وَالْقَرَنْفُلِ مَفْرُوكًا
+فِي مَاءِ وَرْدٍ ثُمَّ اطْوِ الْكِتَابَ وَتُضَمِّخُهُ بِالْغَالِيَةِ وَتَجْعَلُ الْكِتَابَةَ فِي جَوْفِ الْوِسَادَةِ الَّتِي يَنَامَانِ عَلَيْهَا
+فَإِنَّهُمَا يَتَحَابَّانِ وَهَذَا مَا تَكْتُبُ طَسُومٌ ٢ عَيْسُومٌ ٢ عُلُومٌ ٢ كُلُومٌ ٢ قَيُّومٌ ٢ قَيُّومٌ ٢ سُبْحَانَ
+
+**English:**
+— 213 —
+
+With Him is tenderness and mercy and affection and acceptance. So if they turn away, then say: Allah is sufficient for me; there is no god except Him; upon Him I rely, and He is the Lord of the Mighty Throne. And when Ibrahim said: My Lord, show me how You give life to the dead. He said: Did you not believe? to a Wise One. Thus so-and-so comes, son of so-and-so, humbled, abased. So We removed from you your covering, and your sight today is sharp. You write it with saffron and pepper and lead, and you circle with it over the head of whomsoever you wish 7 times, as much as is made easy for you, in the state of his sleep or in the state of his wakefulness, near, like the wife and the husband and what resembles them. And if it is among that to which one cannot reach his head, then you circle it at a distance from him where you see him and he does not see you, while you magnify on every circuit once, saying: Allah is أكبر 7. And you carry it with you, by the mercy of Allah, it follows you and yields to you. You write it on Thursday at sunrise in his ḥirz, and Allah knows best.
+
+(Chapter) This swift name, the people of the tablet and the Timaryar, arrival: convey thus to thus, and connect the affection between them by لطيفٍ سَليطيعٍ أَسَاطُونَ طُونَهَكْشٍ يُوشٍ هَيُورَشٍ هَيُورَ الْأَرْكِيَاظِ هَيُورَشَ مَارُوشَ الشَّقِّ الشَّقُومِ مَهْرَاشٍ بَشٍ حَطَّ بِدَفْقُوسٍ بَعْلَثَاقُومٍ عَلْشَاقِشٍ مَهْرَا قَشْ. Answer, O mighty spirits, by the name of the stored, the hidden: answer, O Maymūn. It is written on Wednesday with river-gold water, clove, and saffron, and rose water, in reed leaves, with the name of whom you intended, and you sold it in the wind; you fumigate it with male frankincense. And let your food during the days of seclusion be bread and oil and raisins, and the duration of the seclusion is 7 days in a place free of people, in a proper retreat, and you fast your day and drip upon what I mentioned without satiety, and you mention after the prayers, and you direct it in whatever you wish, from the striking down of the qarīn and its removal, and the bringing of the absent, and the turning back of the schemer, gold or silver, whenever you wish. And it is not obeyed upon your secret; seek the hope. And this is the seal of obedience, and in it is the swift name and the lofty rising one. We write it in 1180 names, and that therein is the rising one, and this number gathered in 3 letters, and there is by it precedence and delay, for indeed they have ears for the encompassing ones, and an attentive ear hears it. And this is the description of the seal.
+
+[Grid content preserved as-is]
+| جِبْرِيلُ | مِيكَائِيلُ |
+| :--- | :--- |
+| بَهْلُوهُ الْأَرْكِيَاظِ هَيُورَشُ | |
+| يَارُونُ عَيْشَقُ مَهْرَا قَشْ | |
+| عَلْشَاقِشُ عَلْشُ قُوشُ | |
+| أَقْشَامِقْشُ أَجِيبُوا فُلَانَةَ | |
+| بِنْتَ فُلَانَةَ سَرِيعًا | |
+| إِسْرَافِيلُ | عَزْرَائِيلُ |
+
+(Chapter) You write these names in a pillow for mutual hatred between the two spouses, and they are the names of the mother of Moses, on Friday at the sitting of the imam upon the minbar or when he begins the first adhān, with saffron and rose water and perfume and clove, crushed in rose water. Then fold the book and perfume it with al-ghāliyah, and place the writing in the interior of the pillow upon which they sleep, for indeed they will love one another. And this is what you write: Ṭasūm 2, ʿAysūm 2, ʿUlūm 2, Kulūm 2, Qayyūm 2, Qayyūm 2, Subḥān
+
+--- PAGE 220 TRANSLATION ---
+
+---
+## Page 221
+
+**Arabic (original):**
+- ٢٨٤ -
+
+مَن بذكرِهِ تطمئنُّ القلوبُ اللهمَّ يا فلانَ بنَ فلانةَ أو فلانةَ بنتَ فلانٍ كما أصلحتَ بينَ محمدٍ صلى اللهُ
+عليهِ وسلمَ وأنصارِهِ اللهمَّ ادخلْ محبةَ يوسفَ في قلبِ زليخا و يا مَن أدخلَ محبةَ موسى في قلبِ
+آسيةَ بنتِ مزاحمٍ ادخلْ محبةَ كذا وكذا في قلبِ كذا وكذا اللهمَّ يا مَن أدخلَ محبةَ محمدٍ صلى اللهُ
+عليهِ وسلمَ في قلبِ خديجةَ بنتِ خويلدٍ وعائشةَ بنتِ أبي بكرٍ أدخلْ محبةَ كذا وكذا في قلبِ كذا وكذا
+كما أدخلتَ الليلَ في النهارِ والنهارَ في الليلِ والذكرَ في الأنثى لو أنفقتَ ما في الأرضِ جميعاً ما ألفتَ بينَ
+قلوبهم ولكنَّ اللهَ ألفَ بينهم أنهُ عزيزٌ حكيمٌ ولا حولَ ولا قوةَ إلا باللهِ العليِّ العظيمِ وإن شئتَ تكتبها
+بعدَ طلوعِ الشمسِ من يومِ الجمعةِ.
+(فصل) ومنها سُئلَ ذو النونِ المصريُّ عن أسماءِ أمِّ موسى فقالتِ الرواياتُ فيها كثيرةٌ والذي صحَّ
+عندنا أن تدعو بهذا الدعاءِ وتصومَ ٧ أيامٍ ولا تتكلمْ أحداً وتتصدقَ كلَّ يومٍ على ٧ مساكينَ
+وتبخرْ في يومِ مسجدِكَ بكرةً وعشيةً باللبانِ الذكرِ والعودِ وبعدَ كلِّ صلاةٍ ٧ مراتٍ فإذا تمَّ ذلكَ
+فأقرأهُ في نفسك ولا تدعو بهِ على قفلٍ ولا سلسلةٍ ولا على غلقٍ إلا وقد فتحَ لكَ أسرعَ من طرفةِ عينٍ
+وهذا هو تقولُ بسمِ اللهِ الرحمنِ الرحيمِ ربِّ هل بايتَ رغماً للمؤمنةِ الصديقةِ أمِّ موسى عليهِ السلامُ
+و اللهُ العزيزُ الحكيمُ القديرُ المتكبرُ المهيمنُ العظيمُ الرحمنُ الرحيمُ الذي يفتحُ بهِ الأطباقَ واستنارتْ
+بنورهِ الآفاقُ وفتحتْ بهِ إذا قاسى افتحْ هذا القفلَ أو هذا العملَ وإن شئتَ قلتَ افتحْ قلبَ كذا وكذا
+بمحبةِ كذا اللهُ العزيزُ المتكبرُ الكبيرُ المهيمنُ العظيمُ وقيلَ في روايةٍ أخرى أنَّ أسماءَ أمِّ موسى تحلُّ
+القيودَ والأقفالَ وغيرَ ذلكَ وهيَ طسومَ ٢ حيومَ ٢ قيومَ ٢ دائمَ ٢ ديومَ ٢ اللهمَّ يا مَن فتحَ
+السماءَ بالمطرِ الغزيرِ افتحِ الأغلالَ والأغلالَ والقلوبَ إنكَ على كلِّ شيءٍ قديرٌ اللهمَّ اشبيهِ اشبيهِ اشبيهِ
+وشبيهِ وذيدوحَ ديدحَ وطاحولَ عجيلَ لهُ ومكائدَ وسلامٍ وما يوحى ومحلوتَ دامَ أحرارهُ جنودها
+حابورهِ يوه ده يديحا وحابيبَ جانونةَ مردودهِ فانمحَ طففَ لففَ كهفَ سهفَ فعيلَ يا بطا
+وطيا طيا لَتُربهِ إلا متوكلتم وأجبتم وأطعمتم اللهَ ورسولهِ وقدرتهِ وسلطانهِ افتحوا هذا القفلَ
+وإن كانَ من الحديدِ طيروهُ وإن كانَ من مفرقٍ أو نحاسٍ أو عودٍ فاكسروهُ بحقِّ هذهِ الأسماءِ عليكم
+وإن شئتَ قلتَ افتحوا قلبَ كذا وكذا بالمحبةِ والمودةِ إلى كذا
+(فصل) في ذكرِ خاتمِ سليمانَ عليهِ السلامُ اعلمْ أنَّ مَن ختمَ بهِ وحفظهُ من المعصيةِ طهرَ ثوبَ
+والبدنِ صموتَ اللسانِ تاركاً للمعاصي ملازماً للطاعاتِ متيقناً في اللهِ عزَّ وجلَّ وهوَ خاتمُ إطاعاتٍ
+لامسهُ العزيزُ منهُ كانَ خاتمَ سليمانَ عليهِ السلامُ على أربعةِ أطباقٍ وفوقَ كلِّ طبقٍ مكتوبٌ
+على الجانبِ الأيمنِ انا للهِ وإلى الجانبِ الأيسرِ أنا اللهُ الحيُّ القيومُ وعلى الثالثِ اللهُ العزيزُ لا عزيزَ
+غيري وعزَّ يزمنَ البستهِ خاتمي وعلى الرابعِ مكتوبٌ آيةُ الكرسيِّ محيطٌ يا محمدُ رسولُ اللهِ صلى اللهُ عليهِ وسلمَ
+(فصل) وقيلَ إنَّ هذهِ الأسماءَ التي كانت في خاتمِ سليمانَ عليهِ السلامُ لا إلهَ إلا اللهُ وحدهُ لا شريكَ لهُ
+أنا اللهُ تعززتُ بالملكِ والسلطانِ إبل إبل أنا اللهُ تعززتُ بالعزةِ والامكانِ ياه ياه يا اللهُ حيُّ قيومُ
+لا انام ايه ايه ايه انا اللهُ خبيرٌ قادرٌ أطاعني كلُّ شيءٍ أنوخ ٣ أنا اللهُ الرحمنُ الرحيمُ ذا عوجٍ فعوجَ
+
+**English:**
+— 284 —
+
+Whomsoever, by mention of Him, the hearts are reassured. O Allah, O so-and-so son of so-and-so, or so-and-so daughter of so-and-so, as You reconciled between Muhammad, may Allah bless him and grant him peace, and his helpers. O Allah, bring the love of Yusuf into the heart of Zuleikha, and O You who brought the love of Moses into the heart of Asiyah daughter of Muzāḥim, bring the love of so-and-so and so-and-so into the heart of so-and-so and so-and-so. O Allah, O You who brought the love of Muhammad, may Allah bless him and grant him peace, into the heart of Khadijah daughter of Khuwaylid and ʿĀ’ishah daughter of Abū Bakr, bring the love of so-and-so and so-and-so into the heart of so-and-so and so-and-so, as You brought the night into the day and the day into the night and the male into the female. If you were to spend what is in the earth all together, you would not have united their hearts, but Allah united between them; indeed He is Mighty, Wise. And there is no power and no strength except by Allah, the High, the عظیم. And if you wish, you write it after sunrise on Friday.
+
+(Chapter) And among it, Dhu al-Nūn al-Miṣrī was asked about the names of the mother of Moses, and the reports concerning it are many; and what is sound with us is that you invoke with this supplication and fast 7 days and do not speak to anyone and give charity every day to 7 poor persons, and fumigate on the day of your mosque morning and evening with male frankincense and oud, and after every prayer 7 times. So when that is completed, then recite it in yourself, and do not invoke it upon a lock nor a chain nor upon a closure except that it will be opened for you faster than the twinkling of an eye. And this is that you say: In the name of Allah, the Merciful, the Compassionate, my Lord, هل بايتَ, in spite of, for the believing, truthful mother of Moses, peace be upon him. And Allah, the Mighty, the Wise, the Powerful, the Proud, the Guardian, the عظیم, the Merciful, the Compassionate, by whom the layers are opened and the horizons were illuminated by His light and opened by it; if it is difficult, open this lock or this work. And if you wish, you say: open the heart of so-and-so and so-and-so with the love of so-and-so. Allah the Mighty, the Proud, the Great, the Guardian, the عظیم. And it was said in another report that the names of the mother of Moses loosen bonds and locks and other than that, and they are: Ṭasūm 2, Ḥiyūm 2, Qayyūm 2, Dā’im 2, Dīyūm 2. O Allah, O You who opened the sky with abundant rain, open the shackles and the shackles and the hearts; indeed You are powerful over all things. O Allah, اشبيهِ اشبيهِ اشبيهِ and شبيهِ and ذيدوحَ ديدحَ and طاحولَ عجيلَ for him and plots and peace and what is revealed and محلوتَ دامَ, its free ones, its soldiers, حابورهِ يوه ده يديحا وحابيبَ جانونةَ مردودهِ فانمحَ طففَ لففَ كهفَ سهفَ فعيلَ يا بطا وطيا طيا لَتُربهِ إلا متوكلتم وأجبتم وأطعمتم اللهَ ورسولهِ وقدرتهِ وسلطانهِ open this lock. And if it is of iron, cast it away; and if it is of split wood or copper or wood, then break it by the right of these names upon you. And if you wish, you say: open the heart of so-and-so and so-and-so with love and affection to so-and-so.
+
+(Chapter) Concerning the mention of the seal of Solomon, peace be upon him: know that whoever is sealed by it and preserves it from disobedience, his garment is purified, and the body, silent of tongue, leaving sins, adhering to acts of obedience, certain in Allah, عز وجل, and it is a seal of obediences. The Mighty touched it from him. The seal of Solomon, peace be upon him, was upon four layers, and above every layer was written: on the right side, I am for Allah; and on the left side, I am Allah, the Living, the Self-Subsisting; and on the third, Allah the Mighty, there is no Mighty except Me; and عزَّ يزمنَ البستهِ خاتمي; and on the fourth was written the Throne Verse, encompassing, O Muhammad, Messenger of Allah, may Allah bless him and grant him peace.
+
+(Chapter) And it was said that these names which were in the seal of Solomon, peace be upon him: There is no god except Allah alone, without partner to Him. I am Allah; I was strengthened by kingship and authority. إبل إبل. I am Allah; I was strengthened by might and possibility. Yāh Yāh, O Allah, Living, Self-Subsisting, I do not sleep. آه آه آه. I am Allah, Knowing, Powerful; everything obeyed me. أنوخ ٣. I am Allah, the Merciful, the Compassionate, ذو عوجٍ فعوجَ.
+
+---
+_End of translation — 221 pages._
