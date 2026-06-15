@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 155 translated pages._
+_Auto-generated from 161 translated pages._
 
 ---
 ## Page 1
@@ -8753,4 +8753,256 @@ O Aid of those who seek aid, aid me (3). He said: So a distressed one supplicate
 his horse and in his hand was a spear, and he advanced upon the Kurd, who was the thief who had intended the distressed one, and killed him, and said: O Zayd, when you called
 
 ---
-_End of translation — 155 pages._
+## Page 156
+
+**Arabic (original):**
+— ١٥٠ —
+الله المرة الأولى كنت في السماء السابعة فنادى جبريل من هذا الملهوف فقلت أنا فلما دعوت الثانية
+كنت في سماء الدنيا فلما دعوت الثالثة جئتك * واعلم أنه لا يدعو بدعائك أحد إلا أجبته فلما
+رجع زيد وأخبر النبي عليه السلام فقال له لقد لقنك الله اسمه الأعظم الأعظم الذي إذا دعي به أجاب وإذا
+سئل به أعطى
+(فصل في ذكر استخارة مجربة) إذا أردت أن تعلم عاقبة أمر وكيف المخرج منه صلِّ ٦ ركعات
+بعد صلاة العشاء تسلم في كل ركعتين تقرأ في الأولى الفاتحة والضحى والثانية الفاتحة والتين والثالثة
+بالفاتحة وألم نشرح والرابعة بالفاتحة والقدر والخامسة بالفاتحة والزلزلة والسادسة الفاتحة والإخلاص
+فإذا فرغت من صلاتك تكتب في قرطاس براءة إلى الرب الجليل الودود الكريم العزيز الجبار المتكبر
+من عبده فلان الفقير الذليل المحتاج البائس الفقير السائل المضطر الذي لم يجد لحاجته سواك يطلب ويرغب
+منك حاجة كذا وكذا ويسميها ثم يقول اللهم إني أسألك بكل اسم هو لك سميت به نفسك أو أنزلته في كتابك
+أو علمته أحداً من خلقك أو استأثرت به في علم الغيب عندك أن تجعل لي من أمري فرجاً ومخرجاً وناشراً
+وأن تقضي حاجتي وتذكر ما شئت من إقبال أو محبة أو بيان ما صعب عليك فهمه وأردت الوقوف
+على عاقبة أمره وبيان وقته ويخبرك كتابك ببخور جاوي واطوه وشمعة بشمع أبيض وضعها
+في جبة واربطها بخيط وثيق وألقها في الماء الجاري وتقول أجريت قلب فلان بن فلانة أو تضعها
+في إناء فيه ماء وتضعه عند رأسك وتنام على طهارة ووضوء تقضى حاجتك
+(فصل) وهذا الدعاء يروى عن عبد الله بن محمد بن أبي زيد القيرواني رحمه الله قال فما رأيت أسرع
+إجابة من هذا الدعاء ويصلح الدعاء به على كل سلطان جائر وعلى كل لص خائن وفي المصائب والشدائد
+ومن وقف عليه فليحفظه وهو هذا * بسم الله الرحمن الرحيم اللهم يا موضع كل شكوى ويا شاهد كل نجوى
+ويا عالم كل خفية ويا كاشف كل بلية يا منجي موسى ومحمد وإبراهيم الخليل صلوات الله وسلامه عليهم أجمعين
+أدعوك يا إلهي دعاء من اشتدت فاقته وضعفت قوته وقلت حيلته دعاء الغريق الملهوف الذي لا يجد
+لكشف ما به إلا أنت لا إله إلا أنت يا أرحم الراحمين اكشف عنا ما نزل بنا من عدونا وعدو ك الشيطان
+الرجيم يارب العالمين إنك على كل شيء قدير وأغوثاه يا الله ٣ اللهم يا بادئ لا بداية لك يا دائم
+لا نفاد لك يا حي يا محيي الموتى يا قائماً على كل نفس بما كسبت إلهي أنت الله العزيز الجبار لا إله إلا أنت
+إلهاً واحداً أسألك بالكلمات التامات الأمن والعفو والعافية والمعافاة الدائمة في الدين والدنيا
+والآخرة والأهل والجسد والمال والولد والمسلمين أجمعين يارب العالمين إنك على كل شيء قدير
+وارحمني برحمتك يا أرحم الراحمين واكشف عني ما نزل بي من ضيق وكلما أردت وخلصني خلاصاً
+جميلاً يارب العالمين وحسن ظنك والله الموفق
+(فصل) واعلم أن سر الحروف في ألواح صدور العلماء مرقوم وسر الأعداد في صحائف أسرار
+الحكماء مرسوم وسر الكيمياء في حظيرة كنز القدماء مخزون وسر التسخير في أفئدة قلوب الأولياء
+مكنون وسر الأسماء في مرآة بصيرة الأنبياء مرموز وسر الكلام في عرش سماء الأرواح مكنوز
+فافهم هذه الإشارات القدسية واللطائف الكشفية تفز بحظ وافر من المعاني الذوقية والمباني الشوقية
+(فصل)
+
+**English:**
+— 150 —
+God, the first time I was in the seventh heaven, so Gabriel called out: “Who is this distressed one?” and I said: I. Then when I called the second time I was in the heaven of the الدنيا, then when I called the third time I came to you * and know that no one calls with your calling except that I answer him. So when Zayd returned and informed the Prophet, عليه السلام, he said to him: “God has taught you His Greatest Name, the Greatest, which, when He is called by it, He answers, and when He is asked by it, He gives.”
+
+(Chapter concerning a tried istikhārah) If you wish to know the outcome of a matter and how the way out from it is, pray 6 rak‘ahs after the prayer of ‘Isha’, giving salām in every two rak‘ahs. In the first you recite al-Fātiḥah and al-Ḍuḥā, in the second al-Fātiḥah and al-Tīn, in the third al-Fātiḥah and Alam nashraḥ, in the fourth al-Fātiḥah and al-Qadr, in the fifth al-Fātiḥah and al-Zalzalah, and in the sixth al-Fātiḥah and al-Ikhlāṣ. When you finish your prayer, write on a sheet a release to the Lord, the Majestic, the Loving, the Generous, the Mighty, the Compeller, the Proud, from His servant so-and-so, the poor, the abject, the needy, the wretched, the poor, the asking, the compelled, who found for his need none but You, seeking and desiring from You such-and-such a need, and he names it. Then he says: O God, I ask You by every name that is Yours, by which You named Yourself, or sent it down in Your Book, or taught it to one of Your creation, or kept it to Yourself in the knowledge of the unseen with You, that You make for me from my affair a relief and a way out and an opening, and that You fulfill my need. And you mention whatever you wish of acceptance or love or clarification of what is difficult for you to understand and you wished to stand upon the outcome of its affair and the clarification of its time. And your book informs you with Jāwī incense and ʾaṭwāh and a candle with white wax; and place it in a jubba and bind it with a firm thread and cast it into running water, and you say: I have caused the heart of so-and-so son of so-and-so to run. Or you place it in a vessel in which is water and place it at your head and sleep in purity and ablution; your need will be fulfilled.
+
+(Chapter) And this supplication is narrated from ‘Abd Allāh ibn Muḥammad ibn Abī Zayd al-Qayrawānī, may God have mercy on him. He said: I have not seen quicker response than this supplication, and supplication with it is suitable against every unjust ruler and against every treacherous thief, and in calamities and hardships. Whoever comes upon it, let him preserve it, and it is this: * In the name of God, the Merciful, the Compassionate. O God, O place of every complaint, and O witness of every secret converse, and O knower of every hidden thing, and O remover of every affliction, O deliverer of Moses and Muḥammad and Abraham the Friend, may the prayers of God and His peace be upon them all. I call upon You, my God, the supplication of one whose need has become severe and whose strength has weakened and whose stratagem has lessened, the supplication of the distressed drowning one who finds none to remove what is with him except You. There is no god but You, O Most Merciful of the merciful. Remove from us what has descended upon us from our enemy and the enemy of You, Satan the accursed. Lord of the worlds, indeed You are powerful over everything, and help! O God. 3 O God, O Originator with no beginning for You, O Everlasting with no end for You, O Living, O Giver of life to the dead, O One standing over every soul by what it has earned, my God, You are God, the Mighty, the Compeller; there is no god but You, one God. I ask You by the perfect words for security, pardon, well-being, and lasting well-being in religion and the world and the Hereafter and family and body and wealth and child and all Muslims, Lord of the worlds. Indeed You are powerful over everything. And have mercy on me by Your mercy, O Most Merciful of the merciful, and remove from me what has descended upon me of distress, whenever You wish, and deliver me a beautiful deliverance, Lord of the worlds. And make good Your opinion, and God is the One who grants success.
+
+(Chapter) And know that the secret of letters is inscribed in the tablets of the breasts of the scholars, and the secret of numbers is drawn in the pages of the secrets of the sages, and the secret of alchemy is stored in the enclosure of the treasure of the ancients, and the secret of subjugation is hidden in the hearts of the hearts of the saints, and the secret of names is hinted at in the mirror of the insight of the prophets, and the secret of speech is treasured in the throne of the heaven of spirits. So understand these sacred indications and unveiling subtleties; you will attain a plentiful share of tasting meanings and yearning structures.
+
+(Chapter)
+
+---
+## Page 157
+
+**Arabic (original):**
+— ١٥١ —
+
+(فصل) واعلم أن لكل دعوة اسماً من أسماء الله تعالى مدخلاً منه ومعراجاً ترقى عليه وروحانية تصعد به ونهاية تقف عندها وتخرج الإجابة من ذلك الباب المعراج على أيدى تلك الملائكة وذلك الوقت إن عجلت الإجابة أو في مثله من الساعات فافهم واعلموا علمكم الله تعالى حقائق الأسماء ورزقكم مراتب الإحصاء أنه لما كانت المقامات الدينية ثلاث مقامات: مقام الإسلام ومقام الإيمان ومقام الإحسان، ومراتب الجنان المرتبة على الإحصاء لأهل الدين ثلاث: جنة الأعمال وجنة الميراث وجنة الامتنان، وكانت أنواع الإحصاء ثلاثة: التعلق في مقام الإسلام، والتخلق في مقام الإيمان، والتحقيق في مقام الإحسان. فأحصاها بالتعلق في مقام الإسلام هو أن يطلب السالك آثار كل اسم منها في نفسه وبدنه وجميع قواه وأعضائه وحالاته ونشأته النفسانية والجسمانية فيرى جميع ذلك من أحكام هذه الأسماء وآثارها فيقابل كل أثر بما يليق به فيقابل الإنعام بالشكر والبلاء بالصبر وغير ذلك، ومثل هذا الإحصاء يدخل تحت جنة الأعمال التي هي محل الأعراض الزائلة بالأعيان الثابتة الباقية التي اخترعها إبراهيم الخليل عليه السلام بأنها قيعان الجنة وأن غراسها سبحان الله والحمد لله ولا إله إلا الله والله أكبر. وأحصاها بالتخلق في مقام الإيمان يكون بتطلع الروحانية لحقائق هذه الأسماء ومعانيها ومفهومها والتخلق بها كما أخبر بقوله عليه السلام: "تخلقوا بأخلاق الله تعالى" بحيث يكون المتخلق هو عين ذلك الاسم أي يفعل مثله، فمثل هذا الإحصاء يدخل تحت جنة الميراث التي هي أعلى من الجنة الأولى بل هي باطنها المنزل منها لم الملك والملكوت وهي المشار إليها بقوله عليه السلام: "وما منكم أحد إلا وله منزلة في الجنة ومنزلة في النار فإذا مات ودخل النار ورث منزلة أهل النار" وإن شئتم فاقرؤوا: {أولئك هم الوارثون} الآية. وأحصاها بالتحقيق في مقام الإحسان بالنقول والأخلاع عما سوى الله ويظهر فيك من الصور والمعاني تسمية الحدوث وتستدير الحضرة الحقيقية بسجف أستارها وأعيانها، قال الشاعر:
+تسترت من دهري بظل جناحه * بحيث أرى دهري وليس يراني
+فلو تعلم الأيام اسمي ما درت * وأين مكاني ما درين مكاني
+فمثل هذا الإحصاء يدخل تحت جنة الامتنان التي هي محل غيوب الغيب المشار إليها بقوله عليه السلام: "فيها ما لا عين رأت ولا أذن سمعت ولا خطر على قلب بشر" والإشارة إليها بقوله تعالى: {إن المتقين في جنات ونهر * في مقعد صدق عند مليك مقتدر}. قلت: مع أن السلف الصالح لم يرتقوا لحقائق الملكوت وجانب الجبروت إلا بتحقيق التخلق بالأسماء إلى أن ينقاد كل اسم في حق مقامه أعظم مما يرد فيه ويراه من مواهب الله ولطائف الحكم، ومهما سمعت الاعلم على لسان هذه الطائفة فهذه حقيقته، فإذا علموا هذه الأسماء أعدت إليهم أسماء أعظم وذلك في كمالات المقامات وانتهاء الغايات فلا يبقى لهم اسم يسلكونه للتخلق بل يعينون في اسم الذات الذي هو حقيقة التخلق وهوية وقع الأمر لقوله: {قل الله ثم ذرهم في خوضهم يلعبون}، ثم لا جرم وإن كانت الأعمال باختلاف مقاصدها واجتهاد العالمين بأطوارها موصلة بطهارة القلوب ومبادئ الكرامات وتلوج الأحوال، والسالكون على صراط الأسماء ومعارج الارتقاء ينكشف لهم الأسرار الملكوتية والتشكلات الأسمائية في أسرع وقت وأقرب مدة فظهر عليهم أنوار الحكمة بلطائف العموم وحقائق العلوم الوهبية الملكوتية وذلك.
+
+**English:**
+(Chapter) And know that for every invocation there is a name from the names of God Most High, an entrance through which it enters, and a ladder by which it ascends, and a spirituality by which it rises, and an end at which it stops, and the response comes out from that gate, the ladder, by the hands of those angels, and that time, if the response is hastened, or in the like of it among the hours. So understand, and know—may God Most High teach you the realities of the names and provide you the ranks of enumeration—that when the religious stations were three stations: the station of Islam, the station of faith, and the station of excellence, and the ranks of the gardens arranged upon enumeration for the people of religion were three: the Garden of Deeds, the Garden of Inheritance, and the Garden of Bestowal, and the kinds of enumeration were three: attachment in the station of Islam, characterizing oneself in the station of faith, and realization in the station of excellence. So its enumeration by attachment in the station of Islam is that the wayfarer seeks the effects of each name among them in himself and his body and all his powers and limbs and states and his psychic and bodily origination, so he sees all of that from the rulings of these names and their effects, and he meets every effect with what befits it, so he meets favor with gratitude and affliction with patience and other than that. And such enumeration enters under the Garden of Deeds, which is the place of vanishing accidents with the abiding fixed essences, which Abraham the Friend, عليه السلام, invented by saying that they are the plains of Paradise and that its planting is Subḥān Allāh and al-Ḥamdu lillāh and Lā ilāha illā Allāh and Allāhu Akbar. And its enumeration by characterizing oneself in the station of faith is by the spirituality’s looking toward the realities of these names and their meanings and their concept, and characterizing oneself by them, as he informed in his saying, عليه السلام: “Characterize yourselves with the character of God Most High,” such that the one characterized becomes the very essence of that name, that is, he acts like it. So such enumeration enters under the Garden of Inheritance, which is higher than the first garden, rather it is its inward, descended from it for the dominion and the kingdom, and it is the one indicated by his saying, عليه السلام: “There is none among you except that he has a station in Paradise and a station in the Fire; so when he dies and enters the Fire, he inherits the station of the people of the Fire,” and if you wish, recite: {Those are the inheritors} the verse. And its enumeration by realization in the station of excellence is by the removals and the stripping away from other than God, and there appears in you from forms and meanings the naming of origination, and the true presence revolves with the drapes of its veils and its essences. The poet said:
+
+You concealed myself from my age by the shade of its wing, * so that I see my age while it does not see me  
+If the days knew my name, they would not have turned, * and where my place is, they would not have known my place
+
+So such enumeration enters under the Garden of Bestowal, which is the place of the unseen of the unseen, indicated by his saying, عليه السلام: “In it is what no eye has seen, nor ear heard, nor has it occurred to the heart of a human being,” and the indication to it by His تعالى saying: {Indeed the Godfearing are in gardens and a river * in a seat of truth, with a Sovereign, Powerful}. I say: although the righteous predecessors did not ascend to the realities of the kingdom and the side of the dominion except by realizing characterizing oneself with the names until every name becomes compliant in respect of its station, greater than what comes in it and what he sees from the gifts of God and the subtleties of wisdom, and whatever you hear of the most learned on the tongue of this group, this is its reality. So when they knew these names, greater names were returned to them, and that is in the perfections of the stations and the ending of the goals, so no name remains for them by which they travel for characterizing oneself, rather they are assigned to the name of the Essence, which is the reality of characterizing oneself and the identity of the occurrence of the matter, by His saying: {Say: God, then leave them to play in their plunging}. Then, inevitably, although deeds, by the differing of their purposes and the striving of the knowers in their modes, are conducing to the purity of hearts and the beginnings of miracles and the dawning of states, and the wayfarers upon the path of the names and the ladders of ascent, the secrets of the kingdom and the name-formations are unveiled to them in the swiftest time and nearest duration, so the lights of wisdom appeared upon them with the subtleties of universality and the realities of the bestowed sciences of the kingdom, and that.
+
+---
+## Page 158
+
+**Arabic (original):**
+- ١٥٢ -
+
+لقصدِ الطرِيقِ على التحقيقِ والسلوكِ بالإخلاصِ والتصديقِ
+{فصل} وقد اختلفَ الناسُ في الاسمِ هل هو مشتقٌ من السموِ أو السمةِ وفي ذلك إشارةٌ لطيفةٌ
+* واعلم أن السائرَ إلى اللهِ قسمانِ مرادٌ ومُريدٌ فأما المُريدُ فقامَ فكلُ اسمٍ يقومُ بهِ
+فيكون مأخوذاً من وسمِ الاسمِ وأن يكونَ مراداً ويرتقي إلى درجةِ المرادِ فإنَّ الإمامةَ ترقيهِ وهو
+ساكنٌ لاستغراقِهِ في مشاهدةِ أنوارِ التجلي في معاني الأسماءِ فسمو قدرِهِ من السلوكِ بالأسماءِ فيكون الاسمُ
+في حقهِ سمواً مأخوذاً من سما يسمو إذا علا إشارةً في ظهورِ الأسماءِ فذلك أنَّ المآلَ في الآخرةِ
+للبقاءِ والمآلُ في الدنيا للفناءِ فأوصافكَ في الدنيا فانيةٌ من نسبتها فمنَّ اللهُ عليكَ بأسمائهِ الباقيةِ لتشاهدَ
+حقائقها فيها لا وعودَ في الفناءِ المشهودِ كقالَ الصديقُ لو كشفَ الغطاءُ ما ازددتُ يقيناً ولأنكَ إذا دعوتهُ
+بأسمائكَ فتدعو الباقي بالفاني فإنكَ إذا كنتَ بكَ كنتَ بكمٍ وإذا كنتَ بهِ كنتَ بما لم يزل
+فشتانَ ما بين الاسمينِ وبعيدٌ ما بين الحكمينِ قالَ تعالى ففروا إلى اللهِ أي من نفوسكم وأسماءِ أوصافكم
+وقالَ تعالى وللهِ الأسماءُ الحسنى فادعوهُ بها إشارةً أخرى وذكرَ في أولهِ بل أبدأه بأسمائكَ الحسنى
+حيثُ قالَ تعالى إنَّ المسلمينَ والمسلماتِ والمؤمنينَ والمؤمناتِ الآيةِ ثمَّ أمركَ أن تذكرهُ بأسمائهِ
+فتحيرت حقيقتك في بحارِ الهيمانِ وتاهَ عقلكَ في قفارِ البحرِ فرحمكَ بدليلِ اللطفِ وعقائدِ الرحمةِ
+والرأفةِ فقالَ تعالى هو اللهُ الذي لا إلهَ إلا هو الملكُ القدوسُ السلامُ المؤمنُ المهيمنُ العزيزُ الجبارُ المتكبرُ
+فوصفكَ بأحسنِ أسمائهِ التي معكَ فهي ستةٌ فأمركَ بذكرِ أسمائهِ الحسنى التي هي رحمةٌ إشارةً إلى
+قولهِ فسبح باسمِ ربكَ العظيمِ والتسبيحُ هو الصلاةُ والصلاةُ هي التسبيحُ الذي حقيقتهُ التنزيهُ عن كلِ وصفٍ
+محدثٍ فيكون الاسمُ صلةً يعني المسمى على طريقةِ من فرقَ بين الاسمِ والمسمى فتسبيحُ اللهِ
+تنزيهُ بهِ يكون بالقولِ تارةً وبالاعتقادِ تارةً فلا يصحُ ذلك إلا بحدوثِ المعرفةِ وكشفِ أسرارِ الدليلِ
+والفناءِ في التفريدِ والتحقيقِ في التجريدِ وذلك لا يصحُ إلا لأهلِ الحقِ الذين عرفوهُ بنعوتِ الجلالِ
+ووصفوهُ بأنواعِ الكمالِ فسلموا الربوبيةَ إليهِ وطرحوا ذواتهم في قيدِ العبوديةِ لديهِ ولا يصحُ منك
+التسبيحُ للهِ حتى تنزهَ نفسك عن كلِ شهوةٍ مذمومةٍ وإيمانكَ عن أعمالِ النقصِ وعقلكَ عن
+الهوى وروحكَ عن الالتفاتِ إلى المألوفاتِ وقلبك عن ظلمِ الغفلاتِ وجسمكَ عن العاداتِ والمخالفاتِ
+وأكلِ الحرامِ والشبهاتِ فحينئذٍ يبدو لكَ من كلِ اسمٍ من صفاتِ الذاتِ وأسماءِ الصفاتِ وأسماءِ
+المعاني ما هو عظيمٌ في نفسه كبيرٌ في قدرهِ * ومنه ما حكى عن سيدي إبراهيمَ الخواصِ أنه قالَ كنتُ
+نزعتُ من باطني حبَّ الفواكهِ أحبَّ الزمانِ فمررتُ برجلٍ بهِ مرضٌ شديدٌ مهري لحمهُ وقمتُ
+عليهِ الزنابيرُ ولا أكلتُ منهُ فسألتُ عليهِ فردَّ عليَّ السلامَ وعرفني باسمي من غيرِ معرفةٍ سابقةٍ
+فقلتُ في نفسي لو كانَ هذا حالَهُ مع اللهِ لدعاهُ أن يخلصهُ من هذهِ الزنابيرِ فقالَ لي الغيبةِ حرامٌ ادعوهُ
+أنتَ أن يخلصكَ من شهوةِ الرمانِ فإنَّ لدغَ الزنابيرِ على الأجسامِ أسهلُ من لدغِ الشهواتِ على القلوبِ
+فهذا أدبُ الأقوالِ * ومنهم من تأدبَ بضربِ المثالِ كما حكى عن بعضهم أنه قالَ رأيتُ شاباً وعليهِ
+عباءةٌ وبيدهِ ركوةٌ وقالَ لي إني إنسانٌ أقصدُ الورعَ ولا آكلُ إلا ما تلقيهِ الناسُ فربما أجدُ شيئاً من
+قشرِ أو لبابٍ يسقى عليهِ النملُ فألقيهِ أم أكلَ فهل في ذلكَ عليَّ شيءٌ فقلتُ في نفسي وأنا منكرٌ عليهِ
+
+**English:**
+for the purpose of the path in verification and the wayfaring with sincerity and assent.
+
+(Chapter) And people have differed concerning the name: is it derived from al-sumū or from al-simah? And in that there is a subtle indication. * And know that the wayfarer to God is of two kinds: one desired and one desiring. As for the desiring one, he stood, so every name by which he stands is taken from the marking of the name, and that he be desired and ascend to the degree of the desired one, for the imamate raises him while he is still, because of his being absorbed in witnessing the lights of manifestation in the meanings of the names. So the loftiness of his rank is from wayfaring by the names, and the name in his right is loftiness, taken from samā yasmū when it rises, as an indication in the manifestation of the names. That is because the end in the Hereafter is for abiding, and the end in the world is for annihilation, so your attributes in the world are annihilating from their relation. So God favored you with His abiding names so that you might witness their realities in them, no promises in the witnessed annihilation, as al-Ṣiddīq said: “If the veil were lifted, I would not increase in certainty.” And because when you call Him by your names, you call the abiding by the perishing. For when you are by you, you are by a multitude, and when you are by Him, you are by that which has not ceased. So far apart are the two names, and far apart are the two rulings. He تعالى said: {So flee to God}, that is, from your souls and the names of your attributes. And He تعالى said: {And to God belong the most beautiful names, so call Him by them}, another indication. And He mentioned at its beginning, rather I begin it with Your most beautiful names, where He تعالى said: {Indeed the Muslim men and the Muslim women, and the believing men and the believing women} the verse. Then He commanded you to mention Him by His names, so your reality became bewildered in the seas of bewilderment and your intellect wandered in the deserts of the sea, so He had mercy on you by the guide of gentleness and the creeds of mercy and tenderness. So He تعالى said: He is God, there is no god but He, the King, the Holy, the Peace, the Faithful, the Guardian, the Mighty, the Compeller, the Proud. So He described you with the best of His names that are with you, and they are six. Then He commanded you to mention His most beautiful names, which are mercy, as an indication to His saying: So glorify with the name of your Lord, the Magnificent. And glorification is prayer, and prayer is glorification, whose reality is declaring transcendence from every originated attribute, so the name becomes a link, meaning the named, according to the method of one who differentiated between the name and the named. So the glorification of God is declaring transcendence by it, sometimes by speech and sometimes by belief. And that is not valid except by the occurrence of knowledge and the unveiling of the secrets of the proof and annihilation in singling out and realization in divesting. And that is not valid except for the people of truth who knew Him by the attributes of majesty and described Him by the kinds of perfection, so they surrendered lordship to Him and cast their essences into the bond of servitude to Him. And glorification of God is not valid from you until you declare your soul transcendent from every blameworthy desire, and your faith from the works of deficiency, and your intellect from caprice, and your spirit from turning toward familiar things, and your heart from the ظلم of heedlessness, and your body from customs and مخالفة and eating the unlawful and the doubtful. Then there appears to you from every name of the attributes of the Essence and the names of the attributes and the names of the meanings what is عظیم in itself, great in its قدر. * ومنها what was related from my master Ibrāhīm al-Khawwāṣ that he said: I had removed from my inward the love of fruits, the love of time, so I passed by a man afflicted with a severe illness, his flesh being gnawed, and the hornets were upon him, and I did not eat from it. So I asked about him, and he returned the salām to me and knew me by my name without prior acquaintance. So I said to myself: if this were his state with God, he would call upon Him to deliver him from these hornets. So he said to me: backbiting is unlawful; you call upon Him to deliver you from the desire for pomegranates, for the sting of hornets upon bodies is easier than the sting of desires upon hearts. So this is the etiquette of sayings. * And among them is one who comported himself by striking a parable, as was related about one of them that he said: I saw a young man, and upon him was a cloak, and in his hand was a water-skin, and he said to me: I am a human being, I intend scrupulousness, and I eat only what people cast forth. So perhaps I find something of peel or pulp upon which ants have been watered, so shall I cast it away or eat it? Is there in that anything against me? So I said to myself, while I was objecting to him:
+
+---
+## Page 159
+
+**Arabic (original):**
+— ١٥٣ —
+
+ما على وجه الأرض أورع من هذا ثم نظرت إليه فإذا هو واقف على أرض من فضة بيضاء وقال لي
+يا هذا الغيبة حرام وغاب عن بصري فهؤلاء الذين حرس الله أسرارهم وطهر أذكارهم ونور أبصارهم
+(فصل) التسبيح تفعيل من السبح والسبح هو المجيء والذهاب قال تعالى إن لك في النهار سبحاً
+طويلاً أي مجيئاً وذهاباً وقال بعضهم السبح يسبح باطن حقيقته طهارة أوصاف فكرته في
+ميدان عجائب ملكوت لطائف الجبروت والسالك يسبح بذكره في بحار القلب والمريد
+يسبح بقلبه في بحار الفكر والمحب يسبح بروحه في بحار الشوق والعارف يسبح سره في بحار الغيب
+والصديق يسبح بسره في بحار الأنوار القدسيات المنيعة من معاني أسماء الصفات مع ثبوت أقدام
+التمكين في اختلاف الحالات فافهم تحقيق غاية شهود كل سالك من حضرات الأسماء إنما هو الاسم
+الذي رتبه ولا يكون شهوده له تاماً مالم يحط ذلك الشهود والعجز والحضرة في ذلك الشهود بحيث
+تكون عبارة عنها ضمناً وإدراكها لها عجزاً ومن ثم كان أوسع الخلق شهوداً عليه السلام بقوله
+سبحانك لا أحصي ثناءً عليك أنت كما أثنيت على نفسك وكان يقول اللهم زدني فيك تحيراً وكان
+يقول ليس في أسماء الله الحسنى اسم ذات الاسم الله إذ اسم الذات عبارة عما وضع للحقيقة من
+غير اعتبار ما من الاعتبارات ألبتة ليدل عليها اللفظ
+(فصل) واعلم أن أسماء الأفعال على نوعين نوع ورد في الشرع ذكر فعله دون اسمه نحو
+سخط الله وغضب الله ولعنة الله وفضل الله ونوع ورد في الشرع ذكره نحو يخلق الله ما يشاء والله
+خالق كل شيء اه واعلم أن الحقائق لأسماء الله على نوعين ليس له صورة ظاهرة تدلنا عليه
+وإليه الإشارة بقوله عليه السلام اللهم إني أسألك بكل اسم هو لك سميت به نفسك أو أنزلته
+في كتابك أو علمته أحداً من خلقك أو استأثرت به في مكنون الغيب عندك * والنوع
+الثاني ما له صورة ظاهرة لفظية أو رقمية عندنا هي الاسم الذي يدلنا عليه وذلك قسمان أحدهما
+مضمر والثاني مظهر فافهم
+(فصل) واعلم أن وجوه كل شخص مسند إلى كلي أو جزئي من الأسماء الإلهية فافهم ذلك
+تفز فإنه سبحانه له رجال هم رجال الغيب والأسماء وهم ٩٩ رجلاً ورجل جامع يقال له الغوث
+الفرد الجامع القطب ولا يعرفه أحد من التسعة والتسعين مع استمداد الجميع منه أصلاً ومهما وافق
+اسم من أسماء الله تعالى اسم ذات في العدد الحرفي والعددي وكسره واتفق وفقه كان اسماً أعظم في
+حقه يفعل به ما يفعل بالاسم الأعظم * وسمعت بعض العارفين بالله يقول إن لكل داع يدعو الله اسماً هو
+بالنسبة إليه أعظم الأسماء كما أن أرحم الراحمين لأيوب والوهاب لسليمان ولأنه أنت سبحانك إني
+كنت من الظالمين ليونس وهذا بحسب حال من يدعو لا على وفق المسؤول والمطلوب بالدعاء وهذا
+القول قريب إلى هذا المعنى وهو قول جمهور الصوفية * وقال الشيخ العارف بالله تعالى محمد
+الخوارزمي بحرم مكة قدس الله سره في سنة ٦٧٠ من عرف الله تعالى باسمه الوتر في حاله ومقاله
+فقد عرف الاسم الأعظم المخصوص به * واعلم أن الله تعالى من خفي لطفه أظهر أسماء مختلفة
+التراكيب ليدل كل اسم منها على نوع من أنواع أفعاله وطريقته فيجد كل سالك مسلكاً سهلاً
+
+**English:**
+— 153 —
+
+There is not upon the face of the earth more scrupulous than this. Then I looked at him, and behold, he was standing on a ground of white silver, and he said to me:
+“O this one, backbiting is forbidden,” and he disappeared from my sight. So these are those whose secrets God guarded, and whose remembrances He purified, and whose sights He illumined.
+(Section) Tasbih is a verbal noun from al-sabh, and al-sabh is coming and going. He تعالى said: “Indeed for you in the day is a long sabh,” that is, coming and going. And some of them said: al-sabh, he glorifies; the inward reality of its essence is the purity of the qualities of its thought in the field of the wonders of the dominion of the subtleties of al-jabarut. And the wayfarer glorifies with his remembrance in the seas of the heart, and the aspirant glorifies with his heart in the seas of thought, and the lover glorifies with his spirit in the seas of longing, and the knower glorifies his secret in the seas of the unseen, and the truthful one glorifies with his secret in the seas of the holy, impregnable lights from the meanings of the names of the attributes, with the feet of empowerment firmly established in the differing states. So understand. The realization of the utmost goal of the witnessing of every wayfarer from the presences of the names is only the name which he arranged for him, and his witnessing of it is not complete unless that witnessing, and incapacity, and the presence in that witnessing encompass it, so that expression about it is by implication and its apprehension of it is incapacity. And therefore the most expansive of creation in witnessing was, peace be upon him, in his saying: “Glory be to You, I cannot enumerate praise of You; You are as You have praised Yourself.” And he used to say: “O God, increase me in bewilderment in You.” And he used to say: “There is not among the beautiful names of God a name of essence, the name Allah, since the name of essence is an expression for that which was placed for the reality without any consideration whatsoever of any consideration, so that the utterance may indicate it.”
+(Section) And know that the names of acts are of two kinds: a kind whose act is mentioned in the Law while its name is not, such as the wrath of God, the anger of God, the curse of God, and the فضل of God; and a kind whose mention is found in the Law, such as: God creates what He wills, and God is the Creator of everything, etc. And know that the realities of the names of God are of two kinds: one has no apparent form that يدلنا عليه, and to it is the اشاره in his saying, peace be upon him: “O God, I ask You by every name that is Yours, with which You named Yourself, or sent down in Your Book, or taught to one of Your creation, or kept to Yourself in the hidden treasure of the unseen with You.” * And the second kind is what has an apparent form, verbal or numerical, with us; it is the name that يدلنا عليه, and that is two divisions: one concealed and the second manifest. So understand.
+(Section) And know that the faces of every person are ascribed to a universal or particular one of the divine names. So understand that and you will triumph, for He سبحانه has men who are the men of the unseen and the names, and they are 99 men and one جامع man called the ghawth, the singular جامع pole, and none of the ninety-nine knows him at all, while all derive support from him. And whenever a name from among the names of God تعالى agrees with a name of essence in the numerical and letter-number, and its breaking, and its correspondence agrees, it is a greater name in its right; by it is done what is done by the greatest name. * And I heard some of the knowers of God say that for every supplicant who calls upon God there is a name which, in relation to him, is the greatest of names, just as “the Most Merciful of the merciful” is for Job, and “the Bestower” for Solomon, and “You are, glory be to You, indeed I was among the wrongdoers” for Jonah; and this is according to the state of the one who calls, not according to the one asked of and sought by the supplication. And this saying is close to this meaning, and it is the saying of the majority of the Sufis. * And the shaykh, the knower of God تعالى, Muhammad al-Khwarizmi, in the Sanctuary of Mecca, may God sanctify his secret, said in the year 670: whoever knows God تعالى by His odd name in his state and speech has known the greatest name specific to Him. * And know that God تعالى, from the hidden subtlety of His gentleness, manifested different names of compositions so that each name among them may indicate a type of His acts and His way, so that every wayfarer may find an easy path
+
+---
+## Page 160
+
+**Arabic (original):**
+— ١٥٤ —
+
+يليق به فيكون الاسم اللائق به في قصده إذاعة، وسأل به في وقت يناسب الاسم، فيجتمع من
+معرفة الوقت ومعرفة السبب ومعرفة الاسم اللائق بالوقت والحاجة المطلوبة بالمطابقة للاسم في
+الوقت مع توجه القلب لذلك النوع المطلوب خصوصاً سرعة الإجابة، فإن من دعا بهذا القانون
+استجيب له، وذلك إشارة للحديث النبوي عليه السلام بقوله: «إن لربكم في أيام دهركم نفحات ألا فتعرضوا
+لها»، والنفحات مصادفة الوقت اللائق بالطلب بالاسم المطابق للمقصد، وهذا نوع من الأسرار
+كشف لأهل عناية الله من المرسلين وعباده المقربين.
+(فصل) واعلم أن السر الجامع والسيف القاطع أن تأخذ عدد حروف الأسماء التي تذكر بها
+كقولك: اللطيف الخبير، ولا تأخذ آلة التعريف بل تأخذ: لطيف خبير، وتنظر لهما من الأعداد
+عند أرباب الأسرار وتضربها في أيام الأسبوع، وتذكر على طهارة وصلاة وجمع همة وصفاء باطن
+في موضع خال من الأصوات فتجد سرعة الإجابة. * قال رضي الأكبر: اعلم أن السر المصون والعلم
+المكنون في الذكر بالأسماء وهو أن تأخذ عدد حروف الأسماء وعددها وعدد صورها الرقيقة
+كما ذكرت وتذكر بذلك القدر يحصل المطلوب. * مثال ذلك أن اسم الله تعالى ٤ أحرف وله من
+العدد ٦٦ فيكون مجموع ذلك ٧٠ فتستغيث به ٧٠ مرة وتصل حاجتك، ثم تذكر بقدر
+حاجتك في القدر في موضع خال بجمع همة وحضور قلب فإنه يستجاب لك. * واعلم أن لكل
+اسم خاصية لا تتعداها ولا يتعدى الذاكر بها غيرها، فافهم فهو سر الله في الملك والملكوت. *
+واعلم أن في الأسماء ما يكون له خاصية فيه وحده ولم يوجد في غيره لصيغة، وفيه ما يجمع اسمين وثلاثة
+في المعنى الواحد، وفيه سر عجيب وأمر غريب، فسبحان العليم الحكيم. * واعلم أن خواص كل
+اسم من مشتقته والتصرف به من مقتضاه، وهذا هو السر الغامض الذي لا يفتح بابه إلا لكل عبد
+منيب، {وَمَا يُلَقَّاهَا إِلَّا الَّذِينَ صَبَرُوا وَمَا يُلَقَّاهَا إِلَّا ذُو حَظٍّ عَظِيمٍ}، ومن فتح له من ذلك باب فقد فاز بحظ
+وافر من علم آل محمد، والله هو الفتاح العليم.
+(فصل) واعلم أن كل اسم من أسماء الله تعالى إذا كانت حروفه وتراً فإنه يصلح للتفريق والتشتيت،
+وإن كان شفعاً فإنه يصلح للتأليف والازدواج والمحبة. * واعلم أن كل اسم له حروف وأعداد،
+ولكل عدد وفق، فمن جمع من حروف كل اسم وعدد ما في وفق من كشف السر، ولكل اسم
+من الأسماء عدد روحاني بطبيعة جسده الهوائي المتشكل، أضربنا عن ذكره لما فيه من كشف
+السر والخطر العظيم، ولو علمت أن ذلك لا يظهر لأحد لأظهرت منه الأسرار الغريبة والأمور العجيبة.
+* ومن قضى له بشيء من الرزق ظهرت منه لهيبة المغناطيس الجذاب والياقوت الحلاب من فم
+إلى فم، والله يلقي الروح من أمره على من يشاء من عباده، فاصبح إن كنت سابحاً واسرح إن كنت
+سار، حافظه درر الإشارات بدت من أصداف العبارات، وحقائق العلو نالت نزلت في ربوع البسيطات،
+فاشترها بثمن يسير قبل فوتها، وابذل حقيقة ادخارك مهراً لعروسها قبل شرب كأس الحسرة
+من دنان، وبنار ارجعنا أعمل صالحاً غير الذي ربنا نعمل، فتجد على بساط الهوان بفرعة أول نمركم
+ما يتذكر فيه من تذكر، وجاءكم النذير، فيالها من قعقعة ما أعظم انطباقها، وفتنة ما أمر مذاقها،
+فافهم.
+
+**English:**
+— 154 —
+
+that befits him, so the name fitting for him in his intention is proclamation, and he asks by it at a time suitable to the name. Thus there is gathered from knowledge of the time, and knowledge of the cause, and knowledge of the name fitting for the time and the need sought, in correspondence with the name at the time, together with the turning of the heart to that sought type especially, swiftness of response; for whoever calls by this law is answered. And that is an اشاره to the prophetic hadith, peace be upon him, in his saying: “Indeed your Lord has in the days of your age breaths, so expose yourselves to them.” And the breaths are the coincidence of the time fitting for the request with the name corresponding to the purpose. And this is a type of secrets disclosed to the people of God’s care from among the messengers and His near servants.
+(Section) And know that the جامع secret and the cutting sword is that you take the number of the letters of the names by which you remember, as when you say: al-Latif al-Khabir, and do not take the definite article, but take: Latif Khabir, and look for them in the numbers with the masters of secrets, and multiply them by the days of the week, and remember upon purity and prayer and gathering of resolve and inward clarity in a place empty of sounds, and you will find swiftness of response. * Al-Rida al-Akbar said: know that the guarded secret and the hidden knowledge in remembrance by the names is that you take the number of the letters of the names and their number and the number of their subtle forms as I mentioned, and remember by that amount; the sought thing will be obtained. * An example of that is that the name of God تعالى is 4 letters and its number is 66, so the total of that is 70; thus you seek help by it 70 times and your need is attained, then you remember according to the measure of your need in the amount in a place empty, with gathering of resolve and presence of heart, and it will be answered for you. * And know that for every name there is a property that does not exceed it, and the one remembering by it does not exceed other than it. So understand, for it is the secret of God in the dominion and the ملكوت. * And know that among the names are those that have a property in themselves alone and are not found in another by form, and among them are those that gather two names and three in one meaning, and in them is a wondrous secret and a strange matter; so glory be to the Knowing, the Wise. * And know that the properties of every name are from its derivation and its disposition by it is مقتضاه, and this is the obscure secret whose door is opened only to every penitent servant: {And none are granted it except those who are patient, and none are granted it except one possessing a great fortune}; and whoever has a door opened for him from that has won a plentiful share of the knowledge of the family of Muhammad, and God is the Opener, the Knowing.
+(Section) And know that every name from the names of God تعالى, if its letters are odd, then it is suitable for separation and scattering, and if it is even, then it is suitable for composition and pairing and love. * And know that every name has letters and numbers, and for every number there is a correspondence; so whoever gathers from the letters of each name and the number of what is in the correspondence, he has uncovered the secret. And for every name among the names there is a spiritual number by the nature of its formed airy body; we have turned away from mentioning it because of what is in it of uncovering the secret and the great danger. And if I knew that that would not appear to anyone, I would have disclosed from it strange secrets and wondrous matters. * And whoever has been decreed something of provision, there appears from him, by the awe of the attracting magnet and the suckling ruby, from mouth to mouth; and God casts the spirit of His command upon whom He wills among His servants. So become morning if you are a swimmer, and roam if you are a walker. Its keeper: pearls of indications appeared from the shells of expressions, and the realities of exaltation attained, descended in the quarters of the plains. So buy it for a small price before its loss, and expend the reality of your hoarding as a dowry for its bride before drinking the cup of regret from jars, and with fire “Return us, we will do righteous deeds other than what we used to do, our Lord”; you will find upon the carpet of humiliation, with the first branch of your warning, what is remembered by whoever remembers, and the warner has come to you. So what a clatter, how great is its closing together, and a trial, how bitter is its taste. So understand.
+
+---
+## Page 161
+
+**Arabic (original):**
+— ١٥٥ —
+
+ففهم الأمر وتدبر هذا الذكر، إن الله يسمع من يشاء وما أنت بمسمع من في القبور، ولو فكر النظر
+وأنصف لاستفاد علوماً جليلة. واعلموا أن شروط العمل بالأسماء والدعوات كثيرة، إلا أنه
+لابد منها لكل أحد، ومنها ما هو شرط في بعض دون بعض، وسأذكر لك ما تريد في فصل يخصه.
+(الفصل الأول في الشروط اللازمة لكل أحد)
+فمن ذلك لزوم الجماعة والاعتقاد الصحيح المطابق للكشف الصريح، والمداومة على الطهارة الحسية
+والمعنوية، ثم رياضة الفكر في التأمل في هذه الأسماء ومعانيها اعتباراً أو استقراراً، بحيث يكون عن ذلك
+اليقين الكامل لمعرفة أسرارها والجزم التام بتأثيراتها، ثم التخلق كالمتقدم، وذلك أن من أراد تصريفاً
+كلياً فلا بد له من التخلق بجميع الأسماء ليعطيه كل اسم ما في قوته، وبه يحصل ذلك بالتجلي على كل
+وصف وتفرغ المحل من كل شيء، فمتى أراد التصريف باسم التفت لحضرة ذلك الاسم مستعداً للقبول
+ما يرد عليه من أنواره، شاقته لئلا يكون فيه متسع لغيره فيكون هو فضلاً وتصريفاً. وقد يحصل بالتخلق
+باسم واحد تصريف كلي بواسطة أحد الأمرين، فإما أن يكون ذلك الاسم من الأصول الكلية ويكون
+هذا التخلق بأحد بصيرة بأمر الشهود بالنسبة لحضرة هذا الاسم بحيث يشهدها من حيث اشتمالها
+وجمعها بسائر الأسماء، كما حكي عن الشيخ أبي العباس السبتي من كمال التصريف لتخلقه باسمه تعالى
+الجواد، حتى أنه كان يفوق على حاتم بفعل الجود، وحاكى عن الشيخ أبي موسى
+السيدراني أنه كان له من الورد في اليوم والليلة سبعون ألف ختمة لتخلقه باسمه تعالى الباسط. وقد
+ذكرت على التخلق بالأسماء جماعة كأبي القاسم القشيري وأبي الحاكم البرجاني وأبي البركات عبد
+القادر الجيلاني وأبي حامد الغزالي وأبي الحسن الحراني وأبي عبد الله محيي الدين بن العربي وأبي
+العباس الأفليسي وأبي عبد الله الكوفي وخلق كثير لا يحصى عدهم إلا الله تعالى، فليتأمل ذلك من
+كلامهم من أراد الوقوف على ذلك. واعلم أن الإنسان هو الاسم الأعظم، فمن عرف نفسه فقد عرف
+ربه. وقال الشيخ أبو الحسن الشاذلي: جلست يوماً بين يدي شيخي عبد السلام بن مشيش وكان
+له ولد صغير فوضعته في حجري ثم هممت أن أسأل الشيخ عن الاسم الأعظم، فأجابك الطفل بدفني ثم
+قال لي: اعلم أنت اسم الله الأعظم أو اسم الله الأعظم فيك، فقال الشيخ: قد أجابك الطفل فافهم.
+(الفصل الثاني في الشروط اللازمة لبعض دون بعض)
+فمن ذلك اتحاد المدن وتحري الوقت المناسب للطلب والتدخين بالدخنة اللائقة ولبس الثوب الخاص،
+فإنها هي شروط الضعفاء الذين لم يبلغوا شأو الرجال. واعلم أنه لابد لمن كان في درجة التزام
+هذه الشروط من اتخاذ بيت للذكر لا يدخله غيره وليكن قدر جلوسه وقيامه
+فقط لا يفصل منه شيء وليس فيه كوة يدخل منها نور بعيد عن الأصوات، ويجلس فيه مباشر
+الأرض من غير حائل، وإن احتاج إلى حائل فمائدته الأرض، ولا ينام إلا أن غلبه النوم، ويتعاهد
+بالبخورات الأربعة في أكثر أوقاته. (لطيفة) سئل بعضهم عن العزلة فقال: لعتها يغني عن معناها
+وصورتها تغض عن فحواها، يعني من اختار العزلة فهي خير الأمور وقيل أعلاها. واعلم أن الخلوة
+ضبط لأهل الصفوة والعزلة من أمارات الوصلة، فافهم ذلك والله در القائل.
+
+**English:**
+— 155 —
+
+So understand the matter and ponder this remembrance: indeed God hears whom He wills, and you are not one to make hear those in the graves. And if the النظر reflected and was fair, it would benefit from noble sciences. And know that the conditions of working with the names and invocations are many, except that they are indispensable for everyone, and among them are those that are a condition for some and not for others, and I shall mention to you what you want in a section تخصه.
+(The first section on the conditions necessary for everyone)
+Among that is adherence to the الجماعة and the correct belief corresponding to the explicit unveiling, and persistence upon sensory and spiritual purity, then disciplining the thought in contemplating these names and their meanings by way of consideration or settling, so that from that there is complete certainty for knowing their secrets and full decisiveness regarding their effects, then characterizing oneself as before. That is because whoever desires a universal تصريف must necessarily characterize himself with all the names so that every name may give him what is in its power, and by it that is obtained through manifestation upon every attribute and the emptying of the locus from everything. So whenever he desires تصريف by a name, he turns to the presence of that name, prepared to receive what comes upon him from its lights, making it difficult for it lest there be room in it for other than it, so that it may be excess and تصريف. And universal تصريف may be obtained by characterizing oneself with one name through one of two matters: either that that name be from the universal roots, and that this characterizing oneself be with one insight into the matter of witnessing in relation to the presence of this name, so that he witnesses it from the aspect of its encompassing and gathering with the rest of the names, as was related of Shaykh Abu al-‘Abbas al-Sabti regarding the perfection of تصريف due to his characterizing himself with His تعالى name al-Jawad, so much so that he surpassed Hatim in the act of generosity; and it was related of Shaykh Abu Musa al-Sidarani that he had from the wird in the day and the night seventy thousand khatmas due to his characterizing himself with His تعالى name al-Basit. And a group have been mentioned regarding characterizing oneself with the names, such as Abu al-Qasim al-Qushayri, Abu al-Hakim al-Burjani, Abu al-Barakat عبد القادر الجيلاني, Abu Hamid al-Ghazali, Abu al-Hasan al-Harrani, Abu عبد الله Muhyi al-Din ibn al-‘Arabi, Abu al-‘Abbas al-Aflisi, Abu عبد الله al-Kufi, and many خلق not counted except by God تعالى. So let whoever desires to stand upon that ponder that from their words. And know that man is the greatest name; whoever knows himself has known his Lord. And Shaykh Abu al-Hasan al-Shadhili said: I sat one day before my shaykh عبد السلام بن مشيش, and he had a small son, so I placed him in my lap, then I intended to ask the shaykh about the greatest name, and the child answered you with my burial, then said to me: know, are you the greatest name of God or is the greatest name of God in you? So the shaykh said: the child has answered you, so understand.
+(The second section on the conditions necessary for some and not others)
+Among that is the union of the cities and seeking the suitable time for the request and fumigation with the fitting fumigation and wearing the special garment, for these are the conditions of the weak who have not reached the stature of men. And know that it is necessary for whoever is in the degree of adhering to these conditions to take a house for remembrance that none other than him enters, and let it be only the measure of his sitting and standing, nothing separating from it, and in it there is no opening through which light enters, far from sounds, and he sits in it directly upon the earth without a barrier, and if he needs a barrier then its table is the earth, and he does not sleep unless sleep overcomes him, and he attends to the four fumigations in most of his times. (A لطيفة) Some of them were asked about seclusion, and he said: its taste suffices in place of its meaning, and its form turns away from its purport; meaning, whoever chooses seclusion, it is the best of matters, and it was said, the highest of them. And know that retreat is a ضبط for the people of purity, and seclusion is among the signs of union. So understand that, and God is the pearl of the speaker.
+
+---
+_End of translation — 161 pages._
