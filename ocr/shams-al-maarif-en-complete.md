@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 179 translated pages._
+_Auto-generated from 185 translated pages._
 
 ---
 ## Page 1
@@ -10298,4 +10298,491 @@ Whoever increases in mentioning this name, Allah ennobles his face from humbling
 [Grid content preserved as-is]
 
 ---
-_End of translation — 179 pages._
+## Page 180
+
+--- PAGE 180 TRANSLATION ---
+
+---
+## Page 181
+
+**Arabic (original):**
+- ١٧٤ -
+
+وانقاد إليه كل من دعاه ورأى في دهره العلو الزاهر وفي نفسه السمو الباهر وفيه سر بديع للمشايخ
+والكبراء وطلاب العلوم والأنوار وإذا أضيف إليه اسمه العليم كان من أعظم الأذكار ومن وفقها
+في خاتم من ذهب وبخره بعود وحمله معه فكل من رآه خضع له وكانت الملوك تتخذه من
+بعد السفاح إلى زماننا هذا يثبت الله ملكهم وقيل للمأمون كيف أنت وقد أتتك ملوك فارس
+فأخرج يده بخاتم فيه الاسمان موقفين وقال لا يقدر علينا أحد مادام هذا معنا والوقت اللائق
+به شرف القمر وهذه صورته
+
+| م | ظ | ع | ى | ل |
+|---|---|---|---|---|
+| ع | م | ظ | ى | ل |
+| ل | ع | م | ظ | ى |
+| ى | ل | ع | م | ظ |
+| ظ | ى | ل | ع | م |
+| م | ظ | ى | ل | ع |
+
+وهذا الاسم له من العدد ١٢٥ فالعشرون للدلالة على الظهور
+بالمكان العالي والمائة للدلالة على الأصحاب عما يظهر به من الإحاطة
+قال تعالى والله من ورائهم محيط الخ ولما كان ظهوره في كل شيء
+وجوده وجوداً واحتجابه عند رفعه هو بمقتضى حكمته لاجرم كان
+العدد يشير إلى اختصاصه وقد وصف الله بالحكمة ما وصف بالعلو
+قال تعالى وإنه في أم الكتاب لدينا لعلي حكيم وهو من أعداد الزوج
+والفرد زائد أجزاؤه ٤٢ تزيد عليه بمثله وكأنه يقول علي أو أعلى هو الحكيم وأما أسماء حروفه
+فهي ٢٠٠ تشير إلى اسمه مالك الملك وهذه صورته
+
+| ٢٢ | ٢٧ | ٣١ | ٣٩ |
+|---|---|---|---|
+| ٢٣ | ١٨ | ٢٣ | ٣٦ |
+| ٢٧ | ٣٠ | ٢٩ | ٢٤ |
+| ٣٨ | ٢٥ | ٢٦ | ٢١ |
+
+( الفصل الثامن والثلاثون في اسمه كبير )
+من أكثر من ذكره صغر عنده كل شيء ولا يراه أحد إلا هابه وهو من الأذكار
+الجليلة التي تذكر عند الملوك والجبابرة فتصغر نفوسهم لديه يقيناً وله من العدد
+٣٣٣ وهو زوج الفرد ناقص أجزاؤه ٢٦٢ رقماً وأسماء حروفه تشير إلى
+اسمين جليلين وهما بصير واحد وأما مربعه فعلى هذه الصفة
+
+( الفصل التاسع والثلاثون في اسمه تعالى حفيظ )
+من أكثر من ذكره في سفره حفظه الله إلى رجوعه منه ومن رسمه في
+صحيفة في شرف المشتري فلا يوضع في شيء إلا حفظه الله ومن
+أكثر من ذكره كان محفوظاً من كل مكروه وهو مربع
+الإجابة للخائف في الأسفار فإن ذاكره يأمن في وطنه الخوف ولا يرى مكروهاً وقد وقت في مواطن
+الهيب والأخذ فأقبلت على ذكره فرأيت من عجائب صنع الله ما لا يدركه أحد ومن نقشه على فص
+خاتم من فضة وجعل عدده وفقاً كسره حروفاً في باطن الخاتم وحمله فإنه في وسط السباع فلا يناله
+ضرر ويقول بعده يا حفيظ احفظني ٣ مرات يحصل المطلوب وهذه صورته حرفياً وعددياً
+
+| ٢٠٠ | ٩ | ٣ | ١٩ |
+|---|---|---|---|
+| ٤ | ٢٢ | ١٩ | ٨ |
+| ٧ | ١٩٩ | ٢١ | ٥ |
+
+قال
+
+**English:**
+- 174 -
+
+And every one who called him was led to him, and he saw in his age the shining exaltation, and in himself the dazzling loftiness, and in him a wondrous secret for the shaykhs and the great ones and the seekers of the sciences and the lights. And if his name, al-‘Alim, is added to it, it is among the greatest remembrances, and among the most successful of them. Whoever is successful in it, in a ring of gold, and perfumes it with oud, and carries it with him, then everyone who sees him submits to him. And the kings used to take it, from al-Saffah until our time, may God establish their kingship. And al-Ma’mun was asked: how are you, when the kings of Persia have come to you? So he brought out his hand with a ring in which the two names were set upright and said: no one is able against us so long as this is with us. And the fitting time for it is the honor of the moon, and this is its form.
+
+[Grid content preserved as-is]
+
+And this name has, from the number, 125. So the twenty is for indication of manifestation in the high place, and the hundred for indication of the companions, from what is manifested by it of encompassing. He تعالى said: “And God is encompassing over them” etc. And since its manifestation in everything is existence, and its veiling when it is raised is by the requirement of His wisdom, necessarily the number indicates its exclusiveness. And God has described with wisdom what He described with loftiness. He تعالى said: “And indeed it is, in the Mother of the Book with Us, surely exalted, wise.” And it is among the numbers of the even and the odd, and the sum of its parts is 42, increasing upon it by its like, and it is as though it says: ‘Ali or higher, He is the Wise. As for the names of its letters, they are 200, indicating His name Malik al-Mulk. And this is its form.
+
+[Grid content preserved as-is]
+
+(Chapter Thirty-Eight on His name, Great)
+
+Whoever increases in mentioning it, every thing becomes small in his sight, and no one sees him except that he fears him. And it is among the majestic remembrances that are mentioned with kings and tyrants, so their souls become small before him in certainty. And it has from the number 333, and it is the even of the odd, minus its parts, 262 digits. And the names of its letters indicate two majestic names, and they are Basir, One. As for its square, it is upon this form.
+
+(Chapter Thirty-Nine on His تعالى name, Hafiz)
+
+Whoever increases in mentioning it in his travel, God preserves him until his return from it. And whoever draws it in a page in the honor of Jupiter, it is not placed in anything except that God preserves it. And whoever increases in mentioning it is محفوظ from every disliked thing. And it is the square of response for the fearful in travels, for whoever remembers it is secure in his homeland from fear and sees no disliked thing. And it has been timed in the places of dread and seizure, so I turned to its ذكر and saw from the wonders of God’s making what no one reaches. And whoever engraves it on the bezel of a silver ring and makes its number according to the breaking of letters in the interior of the ring and carries it, then he is in the midst of beasts and no harm reaches him. And he says after it: “O Hafiz, preserve me” 3 times; the sought thing is obtained. And this is its form, literally and numerically.
+
+[Grid content preserved as-is]
+
+He said:
+
+--- PAGE 181 TRANSLATION ---
+
+---
+## Page 182
+
+**Arabic (original):**
+— ١٧٥ —
+
+| ح | ى | ظ |
+| :--- | :--- | :--- |
+| ظ | ح | ف |
+| ى | ف | ح |
+| ف | ح | ى |
+
+قال: ومن خاف الوقوع في
+أمر لا يطيقه فليكثر من
+ذكره فإن الله تعالى يسلمه
+منه، ومن قرأ آية الكرسي
+قبل خروجه من منزله لم يصبه شيء حتى يرجع، وأن يتصدق بشيء من ماله على الفقراء فإنه سبب
+لسلامته. ومر جماعة برجل قائم في مسبعة فرسه ترعى حوله فتركوه وقالوا له: ألا تخف وأنت
+في هذا الموضع وفيه السباع؟ فرفع رأسه وقال: إني أستحي منه أن أخاف غيره. ومن تحقق بهذا الاسم
+فإن الله يحفظه في سائر أوقاته وحركاته، كما حكي عن أبي الدقائق أنه قال: جاء لبعض الصالحين عشرة
+آلاف دينار فقال: إلهي إني محتاج إليها وإن لم أحسن حفظها فادفعها لك وتردها لي
+في وقت حاجتي إليها، وتصدق بها على الفقراء والمساكين،
+فكان كلما احتاج لشيء سأل الله فيعطيه ما سأل حتى
+أعطاه أضعافها، والله هو المعطي، ووضعه بعض المطلعين
+على أسرار الحروف وآثار الظروف على هذه الصفة
+كما ترى فافهم ترشد.
+
+| ١٨٦ | ٢١٧ | ٣٢ | ١٩٥ | ٠٣٧ |
+| :--- | :--- | :--- | :--- | :--- |
+| ٣٠٥ | ١٩٢ | ٦ | ١٨٩ | ٢١٥ |
+| ١١٩ | ٢٠ | ١٨٧ | ٢١٨ | ١٩١ |
+| ٢٠ | ٢٠١ | ٦ | ٩١ | ٣٠ |
+| ١٩٢ | ٣٠٠ | ١٦٨ | ٢١٤ | ٣٠٤ |
+
+وله من العدد ٩٩٨، فالهاء والظاء لازمتان وهو زوج
+فرد ناقص أجزاؤه تشير لاسمين جليلين وهما أحد حافظ، وله مربع هذه صورته:
+
+| ح | ف | ى | ظ |
+| :--- | :--- | :--- | :--- |
+| ٩٠١ | ٩ | ٨١ | ٧ |
+| ٧٨ | ٦ | ٩٢ | ١٢ |
+| ١١ | ٩٣ | ٥ | ٧٩ |
+
+(الفصل الأربعون في اسمه تعالى مقيت)
+من أكثر من ذكره كان قائماً بالحق والأمر لا يفوته شيء إليه حاجته به
+قوامه، وهو من أذكار الصالحين أهل الوصال، فإنهم إذا داوموا عليه إلى أن
+يغلب عليهم منه حال لا يحسون بألم الجوع، وإلى التحقيق بهذا الاسم أشار
+عليه الصلاة والسلام بقوله: إني لست كأحدكم إني أبيت عند ربي يطعمني ويسقين. وله من العدد ٥٥ وهو
+زوج الزوج فرد مستطيل ناقص أجزاؤه ٥١٩ تشير إلى اسمين وهما أحد متين، وهذان الاسمان
+ما يشفع وترها الآن اسمه تعالى مشتق منهما، أما أسماء حروفه فهي ٦٨٣ تشير إلى اسمين وهما وجد
+منتقم، وله مخمس جليل وهذه صورته:
+
+| ٩٨ | ٩١١ | ١١٩ | ١٠٨ | ١١٥ |
+| :--- | :--- | :--- | :--- | :--- |
+| ١٢٢ | ١٠٥ | ١١٣ | ١٣ | ١٠٩ |
+| ١١٦ | ٩٩ | ١١٤ | ١٤ | ١٠٢ |
+| ١١٠ | ١٨ | ١٦ | ١٠٨ | ١٥٣ |
+| ١٠٤ | ١١٧ | ١٠٠ | ١٨ | ٣١ |
+
+(الفصل الحادي والأربعون في اسمه تعالى حسيب)
+إذا أكثر من ذكره أحد كان مكفي المؤنة مقضى
+الحاجة مجاب الدعوة لا يسأل الله شيئاً إلا أعطاه إياه
+لأن فيه إشارة إلى الاسم الأعظم، ومن خاف عاقبة
+محاسبة وأكثر من ذكره نجاه الله مما
+
+**English:**
+— 175 —
+
+[Grid content preserved as-is]
+
+He said: And whoever fears falling into
+a matter he cannot bear, let him increase
+in mentioning it, for God تعالى will deliver him
+from it. And whoever recites Ayat al-Kursi
+before leaving his house, nothing will befall him until he returns, and that he give in charity something from his wealth to the poor, for it is a cause
+of his safety. And a group passed by a man standing in a lion-infested place, his horse grazing around him, so they left him and said to him: do you not fear while you are
+in this place and there are beasts in it? So he raised his head and said: I am ashamed before Him to fear other than Him. And whoever is realized by this name,
+then God preserves him in all his times and movements, as was related from Abu al-Daqa’iq that he said: ten
+thousand dinars came to one of the righteous, so he said: My God, I am in need of them, and if I do not know how to preserve them, then deposit them with You and return them to me
+at the time of my need for them, and give charity with them to the poor and the needy.
+So whenever he needed something he asked God and He gave him what he asked until
+He gave him many times their like. And God is the Giver. And some of those informed
+about the secrets of letters and the effects of conditions placed it in this form
+as you see, so understand, you will be guided.
+
+[Grid content preserved as-is]
+
+And it has from the number 998. So the hā’ and the ẓā’ are inseparable, and it is the even
+of the odd, minus its parts. They indicate two majestic names, and they are Ahad, Hafiz. And it has a square, this is its form:
+
+[Grid content preserved as-is]
+
+(Chapter Forty on His تعالى name, Muqit)
+
+Whoever increases in mentioning it was قائم بالحق والأمر, nothing escapes him; to Him is his need, by it
+his subsistence. And it is among the remembrances of the righteous, the people of union, for if they persist in it until
+a state from it overcomes them, they do not feel the pain of hunger. And to the realization by this name the
+Prophet عليه الصلاة والسلام اشاره بقوله: “I am not like any one of you; I spend the night with my Lord, He feeds me and gives me drink.” And it has from the number 55, and it is
+the even of the even, the odd, elongated, minus its parts 519, indicating two names, and they are Ahad, Matin. And these two names
+what intercedes its string now, His تعالى name is derived from them. As for the names of its letters, they are 683, indicating two names, and they are Wajd,
+Muntaqim. And it has a majestic pentagon, and this is its form:
+
+[Grid content preserved as-is]
+
+(Chapter Forty-One on His تعالى name, Hasib)
+
+If one increases in mentioning it, he is sufficed in expense, the need fulfilled, the supplication answered; he asks God for nothing except that He gives it to him,
+because in it is an indication to the Greatest Name. And whoever fears the consequence
+of reckoning and increases in mentioning it, God saves him from what
+
+---
+## Page 183
+
+**Arabic (original):**
+- ١٧٧ -
+
+| ١١ | ٢ | ٢٣ | ١٠ |
+| :--- | :--- | :--- | :--- |
+| ٣٢ | ١١ | ١٦ | ٢١ |
+| ١٢ | ٢٥ | ١٨ | ١٥ |
+| ١٩ | ١٤ | ١٢ | ٢٤ |
+
+الفصل الثالث والأربعون في اسمه تعالى كريم
+من لازم على ذكره أعطاه الله رزقه من غير تعب ولا مشقة، فسهل الله
+رزقه وإذا أضيف إليه الوهاب وذو الطول كان من العجائب * واعلم أن
+اسمه الكريم والوهاب وذو الطول أسماء جليلة فإن استدام ذكرهم من فقر عليه
+رزقه سهل الله له من حيث لا يشعر ومن نقشه وحمله لم يدر كيف تيسرت له المطالب من غير عسر
+ولا مشقة، هذه صورته:
+
+| ك | ر | ي | م |
+| :--- | :--- | :--- | :--- |
+| ٢١ | ١٩ | ١١ | ٢٩ |
+| ٨ | ٣٨ | ٢٢ | ٢٢ |
+| ٢٨ | ٢٧ | ٢٣ | ٩ |
+
+وقال شمس العلماء أبو عبد الله شمس الدين يعقوب الكوفي رحمه الله:
+ذاكر هذا الاسم يجد الزيادة في جميع أحواله ويوسع الله عليه نعمه ظاهرة
+وباطنة وهو من أعظم الأسماء فليواظب عليه إلى أن يغلب عليه حاله وكذلك ذكر الملك كان اسمه
+من نقشه وحمله وسع الله تعالى رزقه وخلقه وهو من الأسرار المخزونة ويصلح ذكر الملك كان اسمه
+عبد الكريم وله من العدد ٤٨ وهو زوج فرد ناقص أجزاؤه ٨٤ تزيد على أصله وهو اسمه صفوح
+لما يقتضيه الكرم من الصفح وأما أسماء حروفه فهي ٣٣ تشير إلى اسمين جليلين وهما رب معان في
+واعلم أن أسماء الكريم والوهاب وذو الطول والمنعم أسماء عظيمة لهم مربع جليل القدر يحمل
+لجلب الرزق وقد يجمع بين مربعه الحرفي ومثله العددي في وفق وهذه صورتهما كما ترى:
+
+| كريم | وهاب | ذو الطول | منعم |
+| :--- | :--- | :--- | :--- |
+| ذو الطول | منعم | كريم | وهاب |
+| منعم | كريم | وهاب | ذو الطول |
+| وهاب | ذو الطول | منعم | كريم |
+
+( الفصل الرابع والأربعون في اسمه تعالى رقيب )
+هذا الاسم الأعظم والسر الأكرم من أكثر من
+ذكره كان محفوظاً في سائر حركاته وسكناته
+وجميع أحواله وتصرفاته وله مربع جليل القدر يوضع في شرف القمر فحامله يحمد الحفظ والعصمة باطناً
+وظاهراً * واعلم أن اسمه تعالى الرقيب إذا تلي كل يوم أربعة آلاف مرة أو أربعمائة أو أربعين مرة
+مدة أربعين يوماً وصوم وطهارة ورياضة وجمع همة إلى أن يغلب عليه حال وتسبح معه ملائكة
+الاسم فإنه بعد ذلك إذا دخل إلى محل فيه ظلم عمله وبطل وله من العدد ٦١٢ وهو زوج
+فرد زائد أجزاؤه ٥٢٨ تشير إلى اسمين جليلين وهما حي متين وهذه صورته:
+
+( الفصل الخامس والأربعون في اسمه تعالى مجيب )
+
+| ر | ق | ي | ب |
+| :--- | :--- | :--- | :--- |
+| ١٩ | ٣ | ٧ | ١٠٣ |
+| ٣٣ | ٤ | ١١ | ٩٩ |
+
+هذا الاسم والسر الأكبر لصالح إجابة الدعوات فينبغي أن يضاف
+إلى كل اسم أريد به الدعاء والطلب ومن نقشه في مربع يوم الجمعة ساعة الزهرة
+
+( ١٢ - شمس المعارف - أول )
+
+**English:**
+- 177 -
+
+| 11 | 2 | 23 | 10 |
+| :--- | :--- | :--- | :--- |
+| 32 | 11 | 16 | 21 |
+| 12 | 25 | 18 | 15 |
+| 19 | 14 | 12 | 24 |
+
+Chapter forty-three in His تعالى name Karim
+Whoever is constant upon ذكره, Allah gives him his provision without toil and without hardship, so Allah makes
+his provision easy for him; and if al-Wahhab and Dhu al-Tawl are added to it, it is among the wonders * And know that
+His name al-Karim and al-Wahhab and Dhu al-Tawl are noble names; so if one persists in their ذكر while in poverty,
+Allah makes his provision easy for him from where he does not perceive, and whoever inscribes it and carries it does not know how the demands were made easy for him without difficulty
+nor hardship. This is its form:
+
+| K | R | Y | M |
+| :--- | :--- | :--- | :--- |
+| 21 | 19 | 11 | 29 |
+| 8 | 38 | 22 | 22 |
+| 28 | 27 | 23 | 9 |
+
+And Shams al-‘Ulama’ Abu ‘Abd Allah Shams al-Din Ya‘qub al-Kufi, may Allah have mercy on him, said:
+Whoever remembers this name finds increase in all his states, and Allah expands upon him His blessings, outward
+and inward, and it is among the greatest of names, so let him persist upon it until his state overcomes him. Likewise the ذكر of al-Malik, if his name is
+inscribed and carried, Allah تعالى expands his provision and his creation, and it is among the stored secrets. And the ذكر of al-Malik is suitable; his name is
+‘Abd al-Karim, and its number is 48, and it is even-odd, its parts deficient, 84, exceeding its origin, and it is his name Safuh
+because of what generosity necessitates of pardon. As for the names of its letters, they are 33, indicating two noble names, and they are Rabb ma‘an in
+And know that the names al-Karim, al-Wahhab, Dhu al-Tawl, and al-Mun‘im are عظيمة names; they have a square of great value that is carried
+for bringing provision, and one may combine between its letter-square and its numerical like in a Wafq, and these are their forms as you see:
+
+| Karim | Wahhab | Dhu al-Tawl | Mun‘im |
+| :--- | :--- | :--- | :--- |
+| Dhu al-Tawl | Mun‘im | Karim | Wahhab |
+| Mun‘im | Karim | Wahhab | Dhu al-Tawl |
+| Wahhab | Dhu al-Tawl | Mun‘im | Karim |
+
+( Chapter forty-four in His تعالى name Raqib )
+This greatest name and the most honored secret: whoever increases
+in its ذكر is محفوظ in all his movements and stillnesses
+and all his states and actions, and it has a square of great value placed in the exaltation of the moon, so its bearer is praised for preservation and immunity inwardly
+and outwardly * And know that His تعالى name al-Raqib, if recited every day four thousand times or four hundred or forty times
+for a period of forty days, with fasting and purity and exercise and gathering of resolve until a state overcomes him, and the angels of the name
+glorify with him, then after that if he enters a place in which there is ظلم, his work is nullified and it is void. Its number is 612, and it is even-
+odd, its parts exceeding 528, indicating two noble names, and they are Hayy Matin. This is its form:
+
+( Chapter forty-five in His تعالى name Mujib )
+
+| R | Q | Y | B |
+| :--- | :--- | :--- | :--- |
+| 19 | 3 | 7 | 103 |
+| 33 | 4 | 11 | 99 |
+
+This name and the greatest secret are for the proper answering of supplications, so it should be added
+to every name by which supplication and request are intended. Whoever inscribes it in a square on Friday at the hour of Venus
+
+( 12 - Shams al-Ma‘arif - First )
+
+---
+## Page 184
+
+**Arabic (original):**
+— ١٧٨ —
+
+ثم ذكره إلى غروب الشمس وسأل الله تعالى شيئاً أعطاه إياه وله من العدد ٥٥ وهو عدد قص
+أجزاؤه ١٧ تشير إلى اسمه تعالى بارئ ظاهر لما في تزال الأسباب من حضرة الجمع ومعنى الظهور
+وهذا العدد يشير به ياته الشمس إلى الحضرات وهاؤه تشير إلى حضرة جمع الباطن ونوره يشير
+إلى حضرة العدد وأما أسماء حروفه ١٥١ فتشير إلى اسمه معظم فتدبر ذلك | ٦ | ٣٠ | ١٦ | أحد
+وأما أربعه فعلى هذه الصفة كما ترى | ٧ | ١٧ | ١٣ | واحد
+| ١٤ | ٢٢ | ٨ | هو
+
+( الفصل السادس والأربعون في اسمه تعالى واسع )
+هذا الاسم الشريف والسر اللطيف من أكثر من ذكره وسع الله عليه رزقه
+وخلقه وعلمه وفسح له في أجله وهو من الأسماء الجليلة وحامله لا يحصل له ضيق الأوجد منه سعة ويجعل
+الله له من أمره فرجاً ومخرجاً ومن داوم على هذا الاسم الجامع الزاهر والسر العلي الباهر وسع الله تعالى
+عليه رزقه وشرح له صدره ومن كسره في مربع ٤×٤ في زيادة القمر وذكره عدده بعد قراءة
+الفاتحة وحمله معه سهل الله الأمور الصعاب ويسر له الرزق وفيه سر بديع للملوك والأمراء والأكابر
+وكل ملك أكثر من ذكره اتسع ملكه وسرت كلمته وله من العدد ١٣٧ السبعة للتخلص من الضيق
+والثلاثون لانتظام جميع الأسماء في وسع وصلته والمائة لإحاطته وظهوره فلذلك كان العدد جامعاً
+لأول الأسماء ظهوراً ولاهتاً تنزلاً الذي هو في الحقيقة آخرها ظهوراً وذلك أنه مليك وهذا العدد إذا
+حمل عليه مثله كان ذلك أوسع وذات إشارة لمحمد صلى الله عليه وسلم وهو المشار إليه بقوله وسعني
+قلب عبدي المؤمن وهذا من الأعداد الأول وإنما كان كذلك لأن ظاهر العبارة لما اقتضى
+الظرفية لكل شي بحيث يكون ظهوره حائلاً بين ظهور كل شي فكان الرتق أحق بهذا المعنى من
+الفتق وهو تعالى المقدس على أن يحل في شي أو يحل فيه شي وإنما هي إشارة شريفة تفهمها أذواق
+لطيفة ( نكتة ) من شهد العظمة قال ما رأيت شيئاً إلا رأيت الله قبله وإن العين هي باطن العظمة وهي
+ظاهر الوسع ولذلك كانت العظمة إزاراً فافهم ذلك فإنه من لطائف التوحيد وأما أسماء | ع | س |
+حروفه ١٣٧ فتشير إلى اسمه ذلك الروح لسعة إحاطته وهذه صورة صر مه كما ترى | ٦٦ | ٥٢ | ٥
+| ٣ | ٨ | ٦٦ | ٥٨ | ٧ | ٤
+
+( الفصل السابع والأربعون في اسمه تعالى حكيم )
+من أكثر ذكره ألهمه الله الحكمة وعلمه دقائق العلوم وغرائب المعاني ولطائف
+الإشارات وهو من الأسماء الجليلة ومن وضعه في الساعة الأولى من يوم الأربعاء في شرف عطارد في
+جسم لائق به حمله معه ذاكراً للاسم متخلقاً بأخلاق الحكماء ومتأدباً بآدابهم ضاعف عليه الفيض الإلهي
+وتفجرت ينابيع الحكمة من قلبه على لسانه والعمل مشروط بتزكية النفس ومن أكثر من ذكره فهم
+حقائق أسرار المعاني وهو من الأسرار المخزونة والأنوار المكنونة ومن وضعه في صحيفة من زئبق معقود
+في شرف عطارد وحملها رزق الفهم في علوم الحكمة وصالح ذكره الحكماء وله من العدد ٨٧ وهو زوج
+فرد زائد أجزاؤه ٩ تشير إلى اسمه تعالى مالك وهو أدنى تنزلات الحكمة وأما أسماء حروفه فهي ٢١٧ باعتبار
+٢١١ فالاعتبار الأول تشير إلى اسمه تعالى عالم ومنه نبي ظاهرة والاعتبار الثاني تشير إلى اسمه تعالى بارئ لما في
+البره
+
+**English:**
+— 178 —
+
+Then he remembers it until sunset and asks Allah تعالى for something, He gives it to him. And it has the number 55, and it is a number of قص,
+its parts 17 indicate His تعالى name Bāri’, manifest, because of what the causes are removed from the presence of the totality and the meaning of manifestation.
+And this number, by its yā’ and its shīn, indicates the حضرات; and its hā’ indicates the presence of the totality of the inward, and its light indicates
+the presence of the number. As for the names of its letters, 151, they indicate his name Mu‘aẓẓam, so reflect on that | 6 | 30 | 16 | One
+As for its four, then it is upon this form as you see | 7 | 17 | 13 | One
+| 14 | 22 | 8 | He
+
+( Chapter forty-six in His تعالى name Wāsi‘ )
+This noble name and the subtle secret: whoever increases in ذكره, Allah expands for him his provision
+and his creation and his knowledge, and makes ample for him his term. And it is among the noble names, and its bearer does not obtain constriction; rather he finds expansiveness, and Allah makes
+for him in his affair relief and an outlet. Whoever persists upon this جامع, radiant name and the lofty, dazzling secret, Allah تعالى expands
+for him his provision and expands his breast. Whoever breaks it in a 4×4 square in the increase of the moon and remembers its number after reciting
+al-Fātiḥa and carries it with him, Allah makes the difficult matters easy and makes provision easy for him. In it is a wondrous secret for kings, princes, and notables.
+And every king who increases in its ذكر, his kingdom expands and his word spreads. And it has the number 137: the seven for getting out of constriction,
+and the thirty for the arrangement of all the names in Wāsi‘ and its connection, and the hundred for its encompassing and its manifestation. Therefore the number was جامعًا
+for the first of the names in manifestation and the one descending in appearance, which in truth is the last of them in manifestation, and that is because it is Malik. And this number, if
+its like is carried upon it, that is more expansive, and ذات is an indication of Muḥammad, صلى الله عليه وسلم, and he is the one indicated by His saying, “My believing servant’s heart has expanded me.”
+And this is from the prime numbers. It was only so because the outward wording, when it necessitated
+the ظرفية for every thing such that its manifestation would be an obstacle between the manifestation of every thing, then the joining was more deserving of this meaning than
+the splitting, and He تعالى is sanctified from that a thing should dwell in Him or that a thing should dwell in it. Rather, it is a noble indication understood by subtle
+tastes. (Nukta) Whoever witnesses the عظَمة said: I saw nothing except that I saw Allah before it. And the eye is the inward of the عظَمة, and it is
+the outward of expansiveness; therefore the عظَمة was an izār, so understand that, for it is among the subtleties of tawḥīd. As for the names | ع | س |
+of its letters, 137, they indicate His name, that spirit, because of the vastness of its encompassing. And this is the form of its square as you see | 66 | 52 | 5
+| 3 | 8 | 66 | 58 | 7 | 4
+
+( Chapter forty-seven in His تعالى name Ḥakīm )
+Whoever increases in its ذكر, Allah inspires him with wisdom and teaches him the subtleties of the sciences, the wonders of meanings, and the subtleties
+of indications. And it is among the noble names. Whoever places it in the first hour of Wednesday in the exaltation of Mercury in
+a body suitable to it, carrying it with him, remembering the name, characterizing himself with the character of the wise, and comporting himself with their manners, the divine effusion is doubled upon him,
+and the springs of wisdom burst forth from his heart upon his tongue. And action is conditioned upon purifying the النفس. Whoever increases in its ذكر understands
+the realities of the secrets of meanings, and it is among the stored secrets and the hidden lights. Whoever places it in a sheet of bound mercury
+in the exaltation of Mercury and carries it, is provided with understanding in the sciences of wisdom, and the wise have made its ذكر suitable. And it has the number 87, and it is even-
+odd, its parts exceeding 9, indicating His تعالى name Mālik, and it is the lowest of the descents of wisdom. As for the names of its letters, they are 217, considering
+211. The first consideration indicates His تعالى name ‘Ālim, and from it is a manifest prophet, and the second consideration indicates His تعالى name Bāri‘ because of what is in
+the burh
+
+---
+## Page 185
+
+**Arabic (original):**
+-- ١٧٩ --
+
+المرء الذي هو إعداد المادة لقبول الصور من الأحكام التي هي من مقتضى الحكمة ( لطينة )
+الحكيم يرى الضيق سعة والمحكوم عليه بالحكم يرى السعة ضيقاً ومن لم يجعل الله له نوراً فما له
+نور ومن يؤت الحكمة فقد أوتي خيراً كثيراً وما يذكر إلا أولوا الألباب * واعلم أن كل ذكر يعطي
+ذاكره ما في قوته لكن بالوقوف على حقيقته وذلك لا يتفق إلا لأفراد والله | ح | ك | ى |
+الموفق وأما مربعه فعلى هذه الصفة | ٤١ | ٩ | ٢١ | ٧ |
+| ١١ | ٤٣ | ٥ | ١٥ |
+| ١٨ | ٦ | ١٢ |
+
+( الفصل الثامن والأربعون في اسمه تعالى ودود )
+هذا المغناطيس الجذاب والياقوت الخلاب من أكثر من ذكره كان محبوباً
+عند سائر الخلق ويثبت الله تعالى قلوب الخلق على محبته وهو من الأذكار الجليلة ومن وضع اسمه
+ودود والحسيب في مثلث مركزه جواد ووضع المثلث في باطن مربع وحمله فإنه لا يقع عليه بصر أحد
+إلا أحبه ومن وضع هذا الشكل في الساعة الأولى من يوم الجمعة أو في شرف الزهرة وحمله ولازم
+على تلاوته فإنه يرى العجب العجاب * واعلم أن من كتب هذا الاسم الشريف في حريرة بيضاء
+وحملها رزق محبة القلوب وينبغي أن يكون على طهارة وذكر بعضهم أن من أكثر من ذكره إلى
+أن يغلب عليه منه حال فكل من رآه مال إليه بطبعه وأحبه بقلبه وأحيا الله تعالى باطنه بروح
+المحبة وزين ظاهره بأسرار المودة فافهم ذلك وقد وضعه بعضهم على هذه الصفة وهو وضع
+شريف وهذه صورته
+
+| ع | ح | س |
+| ٣٠ | ٨ | ٢٠ |
+| ١٨ | ١٤ | ٣١ |
+| ١٩ | ١٥ | ١٦ |
+| ٣٢ | ٣٥ | ٣٦ |
+| ٢٦ | ١٧ | ١٤ |
+| ودود | ودود | ودود | ودود |
+| ودود | ودود | ودود | ودود |
+| ودود | ودود | ودود | ودود |
+| ودود | ودود | ودود | ودود |
+
+وله مثلث جليل القدر يوضع في شرف القمر في الساعة الأولى من يوم الجمعة ويحمله ثم يذكره
+إلى الغروب من ذلك اليوم فإنه لا يقع عليه بصر أحد إلا أحبه وهذه صورته
+وفيه سر عجيب ومنه عجيب لجذب القلوب والأرواح والمهج وهو ذكر لأرباب الجمال | ١٦ | ٢٣ | ١٨ |
+ولمن ذاق مشروب المحبة وجلس على بساط المودة ألا ترى أنه يناسب حروفه بدوح وأسماء | ٢١ | ١٩ | ١٠ |
+حروفه ٩٦ تشير إلى اسمه سول وأجزاء عدده تشير إلى اسمه حبيب وهو روح الفرد يوافقه من | ٢٠ | ١٥ | ٢٢ |
+الأسماء هادي وهو من الأعداد الشريفة لأنه من ضرب ا ل عدد وهو زائد أجزاؤه ٢٢ تشير إلى اسمه
+حبيب لقوله توادوا تحابوا وأما أسماء حروفه ٩٦ فتشير إلى اسمه سول إذا لحب الود وهو السول
+وإذا لوتر ورد المحبة جمل نهايتها الطلب الذي هو من إشارة اسمه طالب فإن قلت ما المحبة قلت صفاء
+المودة وهي الليل الدائم بالقلب الهائم وقيل في فضل هذا المقام أربعة ألقاب ب الودح العشق
+
+**English:**
+-- 179 --
+
+The person, which is the preparation of the substance for the acceptance of forms, from the judgments that are among the requirements of wisdom (for the clay)
+The wise sees constriction as expansiveness, and the one judged by judgment sees expansiveness as constriction. And whoever Allah has not made for him a light, then he has no
+light. And whoever is given wisdom has indeed been given much good, and none remember except those of understanding * And know that every ذكر gives
+its rememberer what is in its power, but by standing upon its reality, and that does not occur except for individuals, and Allah | H | K | ى |
+is the One who grants success. As for its square, then it is upon this form | 41 | 9 | 21 | 7 |
+| 11 | 43 | 5 | 15 |
+| 18 | 6 | 12 |
+
+( Chapter forty-eight in His تعالى name Wadud )
+This attractive magnet and captivating ruby: whoever increases in its ذكر is beloved
+among all creation, and Allah تعالى establishes the hearts of creation upon its love. And it is among the noble remembrances. Whoever places its name,
+Wadud, and al-Hasib in a triangle whose center is Jawad, and places the triangle within a square and carries it, no one’s gaze falls upon him
+except that he loves him. And whoever places this figure in the first hour of Friday or in the exaltation of Venus and carries it and persists
+upon reciting it, he will see the most wondrous of wonders * And know that whoever writes this noble name on a white silk cloth
+and carries it is granted the love of hearts, and he should be in purity. And some mentioned that whoever increases in its ذكر until
+a state from it overcomes him, then everyone who sees him inclines to him by his nature and loves him with his heart, and Allah تعالى revives his inward with the spirit
+of love and adorns his outward with the secrets of affection, so understand that. And some have placed it in this form, and it is a
+noble placement. This is its form
+
+| ع | ح | س |
+| 30 | 8 | 20 |
+| 18 | 14 | 31 |
+| 19 | 15 | 16 |
+| 32 | 35 | 36 |
+| 26 | 17 | 14 |
+| Wadud | Wadud | Wadud | Wadud |
+| Wadud | Wadud | Wadud | Wadud |
+| Wadud | Wadud | Wadud | Wadud |
+| Wadud | Wadud | Wadud | Wadud |
+
+And it has a triangle of great value placed in the exaltation of the moon in the first hour of Friday, and he carries it, then remembers it
+until sunset of that day, for no one’s gaze falls upon him except that he loves him. And this is its form.
+And in it is a wondrous secret, and from it is a wondrous [means] for attracting hearts and spirits and souls, and it is a ذكر for the people of beauty | 16 | 23 | 18 |
+and for whoever has tasted the drink of love and sat upon the carpet of affection. Do you not see that its letters suit Baduh and names | 21 | 19 | 10 |
+its letters 96 indicate his name Sul, and the parts of its number indicate his name Habib, and he is the spirit of the individual; from it agrees | 20 | 15 | 22 |
+the names Hadi, and it is among the noble numbers because it is from the multiplication of the number, and its parts exceeding 22 indicate his name
+Habib because of his saying, “Love one another, you will love one another.” As for the names of its letters, 96, they indicate his name Sul if for the love of affection, and it is the Sul
+and if for the tether, the ورد of love, it beautifies its end, the request, which is from the indication of his name Talib. If you say, what is love? I say the purity
+of affection, and it is the perpetual night in the wandering heart. And it was said in the virtue of this station: four titles with al-Wudḥ, al-‘ishq
+
+---
+_End of translation — 185 pages._
