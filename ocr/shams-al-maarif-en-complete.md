@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 233 translated pages._
+_Auto-generated from 239 translated pages._
 
 ---
 ## Page 1
@@ -13567,4 +13567,283 @@ that he asked and sought, and Allah is Possessor of عظیم فضل. * And among
 a need from the needs of this world and the Hereafter, then he rises in the depth of the night and prays four rak‘ahs, reciting in every rak‘ah al-Fatiha
 
 ---
-_End of translation — 233 pages._
+## Page 234
+
+**Arabic (original):**
+- ٢٢٨ -
+
+مرة وآية الكرسي عشر مرات ويرفع رأسه ويديه إلى السماء ويدعو ويقول اللهم إني أسألك
+الله بالله يا حي يا قيوم يا من لا تأخذه سنة ولا نوم وأسألك اللهم بحرمة آية الكرسي عندك
+أن تفعل لي ما هو كذا وأن تتولى جميع مآربي ومقاصدي وما أطلب منك وتطلب حاجتك
+وتسميها فإنه حق على الله تعالى أن يقضيها ثم تصلي على النبي صلى الله عليه وسلم في أول ابتدائك
+وآخره ينجح عملك إن شاء الله تعالى والله هو الموفق * ومن خواص آية الكرسي الشريفة أن من
+قرأها نهاراً حفظه الله تعالى ذلك اليوم ومن قرأها ليلاً حفظه الله تعالى في ليلته * ومن خواص آية
+الكرسي من قرأها عقب كل صلاة غفر الله ذنوبه وكفر الله سيئاته إلى الصلاة الأخرى * ومن
+خواص آية الكرسي من قرأها عند نومه كانت له حرزاً من الشيطان الرجيم * ومن خواص آية
+الكرسي من قرأها عند غضبه وتفل على شماله خنس شيطانه وذهب عنه غضبه بإذن الله تعالى
+ولنذكر هذا الدعاء المبارك لآية الكرسي ثقة وقد اختصرت شرحه والكلام عليه لئلا يقع
+في يد من لا يعرفه فيدعو به فيستجاب له وهو دعاء عظيم جليل القدر عظيم البرهان عالي الشأن
+تقول الله لا إله إلا هو انفرد بالبقاء والدوام لا تثبت ذوات المخلوقين حقيقة بهم مع ذاته ولا صفاتهم مع
+صفاته ولا أسماءهم مع أسمائه ولا أفعالهم مع أفعاله ولا سواه أحداً لجمال على الحقيقة إلا لجلاله ولا جلال
+إلا لجلاله وهو أبداً في كماله القيوم الدائم على عرشه بدوام ملكه وكل الخلائق منقادون إلى كمال
+معرفته ويعلمون أنه واحد في ملكه أحد في سرمدية عز أبديته مع اختلاف عقولهم وأديانهم كلهم
+يرجعون إلى حقيقة معرفته ويعلمون أنه هو الخالق الرزاق والمحيي والمميت والأمر كله راجع إليه
+وأما العارفون والمحققون فإنهم قد تاهوا في حقيقة معرفته ما نور قلوبهم وأبصارهم بالاطلاع على
+حقائق معرفة موضوعاته قد تاهوا في بحار حبه وبما أنعم عليهم به وغاصوا في أمواج الحجج بحار تلاطم
+قدرته فهم أقروا العجز عن إدراك معرفته وغرقوا في بحار ملكوته فعلموا وتحققوا أنه لا إله
+إلا هو ودل على أنه حي قيوم فأحيا قلوبهم ونور أبصارهم وأفئدتهم فلم يشاهدوا في الكون سواه ولا رب
+إلا إياه فأقروا أنه لا تأخذه سنة ولا نوم أي لا تأخذه فترة عن الخلق للمصنوعات ولا نوم عن
+إدراك المعلومات إنما أمره إذا أراد شيئاً أن يقول له كن فيكون فسبحان الذي بيده ملكوت
+كل شيء وإليه ترجعون جميع الموجودات تقدسه عن الحلول والنظير والاتحاد والبداية والنهاية
+والاتصال والانفصال ليس كمثله شيء قبل الأشياء ورجوع الخلائق وانقيادها إليه وهو في ملكه
+الأول والأمد واحد أحد منفرد بنفسه في الغيوب عن الظنون والفهوم له ما في السموات وما في
+الأرض وجميع الكائنات له شاهدات والمصنوعات عارفات بأنه إله الأرضين والسموات من ذا الذي
+يشفع عنده إلا بإذنه يسبح له أهل السموات والأرض وإن من شيء إلا يسبح بحمده ولكن لا تفقهون
+تسبيحهم وكل ناطق إذا بإذنه عالم بعلمه عالم بكل شيء وغني عن كل شيء وكل شيء مفتقر
+إليه وخاضع لديه ذليل ما بين يديه بعلم ما بين أيديهم وما خلفهم سبحانك لا علم لنا إلا ما علمتنا إنك أنت
+العليم الحكيم يعلم ما في البر والبحر وما تسقط من ورقة إلا يعلمها ولا حبة في ظلمات الأرض ولا
+رطب ولا يابس إلا في كتاب مبين ولا يحيطون بشيء من علمه إلا بما شاء أحاط بكل شيء علماً والله
+من
+
+**English:**
+- 228 -
+
+once and Ayat al-Kursi ten times, and he raises his head and his hands to the sky and supplicates and says: O Allah, I ask You, Allah by Allah, O Living, O Self-Subsisting, O He whom neither slumber nor sleep seizes, and I ask You, O Allah, by the sanctity of Ayat al-Kursi with You, that You do for me what is such-and-such, and that You undertake all my needs and aims and what I seek from You, and you name your need, for it is a right upon Allah تعالى that He fulfill it. Then you send blessings upon the Prophet, صلى الله عليه وسلم, at the beginning of your commencement and at its end; your work will succeed, if Allah تعالى wills, and Allah is the One who grants success. * And among the properties of the noble Ayat al-Kursi is that whoever recites it by day, Allah تعالى preserves him that day, and whoever recites it by night, Allah تعالى preserves him in his night. * And among the properties of Ayat al-Kursi is that whoever recites it after every prayer, Allah forgives his sins and expiates his evil deeds until the next prayer. * And among the properties of Ayat al-Kursi is that whoever recites it when going to sleep, it is for him a protection from the accursed Satan. * And among the properties of Ayat al-Kursi is that whoever recites it when angry and spits on his left, his Satan withdraws and his anger departs from him by the permission of Allah تعالى. And let us mention this blessed supplication for Ayat al-Kursi with trust, and I have abbreviated its explanation and the الكلام upon it lest it fall into the hand of one who does not know it, and he supplicates with it and it is answered for him; and it is a عظیم supplication, of great value, great proof, lofty شأن. You say: Allah, there is no god but He; He is singled out by permanence and دوام. The essences of the created do not truly remain with Him with His Essence, nor their attributes with His attributes, nor their names with His names, nor their actions with His actions, nor besides Him is anyone for beauty in الحقيقة except for His majesty, nor majesty except for His majesty, and He is always in His perfection, the Ever-Subsisting, the perpetual upon His Throne by the دوام of His dominion. And all creatures are led to the perfection of His knowledge, and they know that He is One in His dominion, One in the eternity of the glory of His everlastingness, despite the اختلاف of their intellects and religions; all of them return to the reality of His knowledge and know that He is the Creator, the Provider, the Giver of life, and the Giver of death, and the matter all returns to Him. As for the knowers and the realizers, they have been bewildered in the reality of His knowledge; what illuminated their hearts and their sights by the awareness of the realities of the objects of His knowledge? They have been bewildered in the seas of His love and in what He has bestowed upon them, and they have plunged into the waves of the proofs, seas of the surging of His power. So they acknowledged incapacity for attaining His knowledge and drowned in the seas of His dominion, and they knew and realized that there is no god except He, and it indicated that He is Living, Self-Subsisting, so He gave life to their hearts and illuminated their sights and their hearts, and they saw nothing in the cosmos besides Him, nor lord except Him. So they acknowledged that neither slumber nor sleep seizes Him, that is, no interval seizes Him from creation for the manufactured things, nor sleep from perceiving the known things. His command, when He wills a thing, is only that He says to it, “Be,” and it is. So glory be to Him in whose hand is the dominion of every thing, and to Him you all return. All existents sanctify Him from indwelling, counterpart, union, beginning and end, connection and separation. Nothing is like Him, before things and the return of creatures and their submission to Him, and He is in His dominion the First and the End, One, Unique, singular by Himself in the unseen things from conjectures and understandings. To Him belongs what is in the heavens and what is in the earth, and all beings are witnesses for Him and the manufactured things are knowers that He is the god of the earths and the heavens. Who is it that intercedes with Him except by His permission? The people of the heavens and the earth glorify Him, and there is nothing except that it glorifies with His praise, but you do not understand their glorification. And every speaker, if by His permission, is knowing by His knowledge, knowing everything, and غني from everything, and everything is in need of Him and submissive before Him, abased between His hands, by the knowledge of what is before them and what is behind them. Glory be to You, we have no knowledge except what You taught us; indeed, You are the Knowing, the Wise. He knows what is in the land and the sea, and no leaf falls except that He knows it, nor a grain in the darknesses of the earth, nor moist nor dry except in a clear Book, and they do not encompass anything of His knowledge except what He wills. He has encompassed everything in knowledge, and Allah from
+
+---
+## Page 235
+
+**Arabic (original):**
+- ٢٢٦ -
+
+مِنْ وَرَائِهِمْ مُحِيطٌ بَلْ هُوَ قُرْآنٌ مَجِيدٌ فِي لَوْحٍ مَحْفُوظٍ وَأَحَاطَتْ قُدْرَتُهُ عَلَى مَلَكُوتِ السَّمَاوَاتِ فَكُلُّ
+إِلَيْهِ صَائِرٌ رَبَّنَا وَسِعَتْ كُلَّ شَيْءٍ رَحْمَةً وَعِلْمًا ذَهَبَتِ الْأَرْوَاحُ وَشَاهَتِ الْوُجُوهُ وَتَاهَتْ فِي هَاهَا كُلُّ
+أَشْبَاحِهَا وَتَفَرَّقَتْ فِي مَصْنُوعَاتِ إِيثَارِهَا وَتَشَكَّلَتْ فِي قَوَالِبِ الرُّوحَانِيَّاتِ لِشُهُودِ اخْتِلَافِ الصُّوَرِ فِي
+قَوَالِبِ التَّرْكِيبِ فِي مُسْتَدِيرِ الْبَرَازِخِ بِظُهُورِ الْحُكْمِ عَلَى الدَّلَالَةِ وَظُهُورِ الْعِلْمِ ظَاهِرُهَا ظَاهِرُ الْقُدْرَةِ
+وَبَاطِنُهَا بَاطِنُ الْأَمْرِ وَهُوَ السِّرُّ الْأَيْدُ لِقَبُولِ مَجَارِي الْحُكْمِ وَالتَّصَرُّفِ بِهِ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ
+وَالْأَرْضَ وَلَا يَؤُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ أَوْسِعْ لَنَا مِنْ قَيُّومِيَّتِكَ عِلْمًا وَفِيمَا تَتَصَرَّفُ بِهِ فِي الْكَائِنَاتِ
+لَا حَوْلَ لِي وَلَا قُوَّةَ إِلَّا بِكَ قَدْ رَفَعْتُ فَاقَتِي وَمَسَكْتُ إِلَيْكَ يَدَ يَدَيْكَ فَلَا تُخَيِّبْ رَجَائِي مِنْكَ وَأَنْتَ
+الْوَاسِعُ الرَّبُّ الْعَظِيمُ أَسْأَلُكَ بِتَنَوُّعِ حَيَاةِ الْأَرْوَاحِ الرُّوحَانِيَّةِ وَبِأَنْوَاعِ أَسْرَارِ الْمَلِكِ الْعَظِيمِ الْأَعْظَمِ
+الَّذِي انْتَفَعَتْ بِتَجَلِّيهِ عَطَاشُ أَكْبَادِ أَهْلِ الْمَحَبَّةِ الْوَاضِحَةِ الْبُرْهَانِ فَتَهَافَتْ فِي أَوْدِيَةِ صَفَاءِ سِرِّهِمْ وَأَنْوَارِ
+ذَوَاتِهِمْ فَنَادَوْا يَا مَنْ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ وَلَا يَؤُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ يَا كَرِيمُ
+يَا رَحِيمُ يَا رَؤُوفُ يَا حَلِيمُ إِنَّمَا هُوَ اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ لَهُ مَا فِي السَّمَاوَاتِ
+وَمَا فِي الْأَرْضِ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ
+إِلَّا بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ وَلَا يَؤُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ أَسْأَلُكَ اللَّهُمَّ بِحَقِّ
+هَذِهِ الْآيَاتِ الْعَظِيمَةِ وَالْأَسْمَاءِ الْكَرِيمَةِ أَنْ تُنَوِّرَ قُلُوبَنَا وَتُوَسِّعَ أَرْزَاقَنَا وَتُهَذِّبَ أَخْلَاقَنَا يَا مُؤْنِسَ
+الْقُلُوبِ وَيَا سَاتِرَ الْعُيُوبِ وَيَا كَاشِفَ الْكُرُوبِ وَيَا غَافِرَ الذُّنُوبِ وَيَا عَلَّامَ الْغُيُوبِ تَقَبَّلْ مَا كَانَ مِنْ
+مَسْأَلَتِي وَاعْتِذَارِي فِي خَلْوَتِي وَإِقَالَتِي مِنْ زَلَّتِي وَتَصَلَّى مِنْ خَطِيئَتِي وَأَنْتَ اللَّهُمَّ تَعْلَمُ هَمَّتِي وَالْمُطَّلِعُ عَلَى
+نِيَّتِي وَالْعَالِمُ بِطَوِيَّتِي مَالِكَ الْمُلْكِ رَبِّي وَآخِذُ بِنَاصِيَتِي وَغَايَتِي فِي مَطَالِبِي وَرَجَائِي عِنْدَ شِدَّتِي وَمُؤْنِسِي فِي
+وَحْدَتِي وَرَاحِمُ عَبْرَتِي وَمُقِيلِي مِنْ عَثْرَتِي وَمُجِيبُ دَعْوَتِي فَإِنْ كُنْتُ قَصَرْتُ عَمَّا أَمَرْتَنِي وَارْتَكَبْتُ
+مَا عَنْهُ نَهَيْتَنِي فَجَاءَكَ حَمِيَّتِي وَبِسِتْرِكَ سَتَرْتَنِي فَيَا أَكْرَمَ الْأَكْرَمِينَ وَيَا غَاثَةَ الطَّالِبِينَ وَمَالِكَ يَوْمِ
+الدِّينِ أَنْتَ تَعْلَمُ مَا أَخْفَى فِي الضَّمِيرِ وَمُدَبِّرُ أُمُورِ الصَّغِيرِ وَالْكَبِيرِ فَإِنْ كُنْتُ قَضَيْتُ حَاجَتِي فَضْلُكَ
+أَسْأَلُكَ أَنْ تَشْفَعَ هِيَ فِي نَفْسِي وَأَنْ تَرْحَمَنِي بِرَحْمَتِكَ الَّتِي وَسِعَتْ كُلَّ شَيْءٍ يَا أَرْحَمَ الرَّاحِمِينَ وَأَسْأَلُكَ اللَّهُمَّ
+بِحَقِّ هَذِهِ الْآيَةِ الْكَرِيمَةِ وَالْأَسْمَاءِ الْعَظِيمَةِ أَنْ تُصَلِّيَ عَلَى مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ وَأَنْ تُعْطِيَ لِي
+وَمَا طَلَبْتُهُ مِنْكَ يَا رَبَّ الْعَالَمِينَ * وَمِنْ خَوَاصِ آيَةِ الْكُرْسِيِّ الشَّرِيفَةِ إِذَا كَانَ الْعَبْدُ كَثِيرَ الذُّنُوبِ
+وَالْخَطَايَا وَأَرَادَ التَّوْبَةَ بِمَا حَاجَتُهُ وَانْفَصَلَ عَمَّا فَعَلَ فَلْيَقُمْ فِي اللَّيَالِي الْبِيضِ مِنْ أَيِّ شَهْرٍ كَانَ وَفِي الثَّالِثِ
+عَشَرَ وَالرَّابِعَ عَشَرَ وَالْخَامِسَ عَشَرَ فَلْيَطْهُرْ ثِيَابَهُ وَمَكَانَهُ وَلْيَقُمْ فِي جَوْفِ اللَّيْلِ وَيَتَوَضَّأُ وَيُصَلِّ أَرْبَعَ
+رَكَعَاتٍ يَقْرَأُ فِي الْأُولَى الْفَاتِحَةَ مَرَّةً وَآيَةَ الْكُرْسِيِّ ٧ مَرَّاتٍ يَفْعَلُ فِي كُلِّ رَكْعَةٍ مِثْلَ الْأُولَى فَإِذَا سَلَّمَ
+يَجْلِسُ وَيَسْتَغْفِرُ اللَّهَ عَظِيمَ ٧٠ مَرَّةً وَيُصَلِّي عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ٧٠ مَرَّةً وَصِفَةُ الصَّلَاةِ
+تَقُولُ اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ صَلَاةً تُنَجِّينَا بِهَا مِنْ جَمِيعِ الْأَهْوَالِ وَالْآفَاتِ وَتَقْضِي لَنَا بِهَا جَمِيعَ
+الْحَاجَاتِ وَتُطَهِّرُنَا بِهَا مِنْ جَمِيعِ السَّيِّئَاتِ وَتَرْفَعُنَا بِهَا أَعْلَى الدَّرَجَاتِ وَتُبَلِّغُنَا بِهَا أَقْصَى الْغَايَاتِ مِنْ جَمِيعِ
+الْخَيْرَاتِ فِي الْحَيَاةِ وَبَعْدَ الْمَمَاتِ صَلَاةً أَدَّخَرَهَا لِيَوْمِ الْفَزَعِ الْأَكْبَرِ وَخِيفَتِهِ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ ثُمَّ
+تَبْدَأُ بِقِرَاءَةِ هَذَا الدُّعَاءِ تَقُولُ إِلَهِي أَنْتَ التَّوَّابُ عَلَى مَنْ تَابَ وَالْمُقَرِّبُ لِمَنْ آنَابَ وَالْكَاشِفُ ظَلَامَهُ
+
+**English:**
+- 226 -
+
+from behind them encompassing; rather, it is a Glorious Qur’an in a Preserved Tablet. And His power has encompassed the dominion of the heavens, so everything is returning to Him. Our Lord, Your mercy and knowledge have encompassed everything. The spirits have gone, and the faces have become ugly, and in this, all their forms have wandered, and they have dispersed in the manufactured things of their preference, and they have taken form in the molds of the spiritual beings for the witnessing of the difference of the forms in the molds of composition in the revolving of the isthmuses, by the ظهور of judgment upon indication and the ظهور of knowledge. Its outward is the outward of power, and its inward is the inward of command, and it is the secret, the handiest, for the acceptance of the courses of judgment and disposal by it. His Throne has encompassed the heavens and the earth, and their preservation does not burden Him, and He is the High, the Great. Expand for us from Your self-subsistence knowledge, and in what You dispose of in the beings. There is no might for me and no power except by You. I have raised my neediness and I have held to You the hand of Your two hands, so do not disappoint my hope from You, and You are the vast, the great Lord. I ask You by the variety of the life of the spiritual spirits and by the kinds of the secrets of the great, the greatest King, by whose manifestation the thirsty livers of the people of clear proof of love have benefited, so they hastened in the valleys of the purity of their secret and the lights of their essences. So they cried out: O He whose Throne has encompassed the heavens and the earth, and their preservation does not burden Him, and He is the High, the Great; O Generous, O Merciful, O Clement, O Forbearing. It is only Allah; there is no god except He, the Living, the Self-Subsisting. Neither slumber nor sleep seizes Him. To Him belongs what is in the heavens and what is in the earth. Who is it that intercedes with Him except by His permission? He knows what is before them and what is behind them, and they do not encompass anything of His knowledge except what He wills. His Throne has encompassed the heavens and the earth, and their preservation does not burden Him, and He is the High, the Great. I ask You, O Allah, by the right of these عظيمة verses and the noble names, that You illuminate our hearts and expand our provisions and refine our character, O Comforter of hearts, O Concealer of faults, O Remover of distress, O Forgiver of sins, O Knower of the unseen. Accept what was from my request and my excuse in my solitude and my release from my slip and my absolution from my sin. And You, O Allah, know my aspiration, and the One aware of my intention, and the Knower of my inwardness, the Possessor of dominion, my Lord, and the Seizer of my forelock, and my end in my demands and my hope at my hardship, and my companion in my loneliness, and the Merciful of my tear, and my reliever from my stumble, and the Answerer of my supplication. If I have fallen short of what You commanded me and committed what You forbade me from, then my zeal came to You and by Your covering You covered me. So O most generous of the generous, and O succor of the seekers, and Possessor of the Day of Judgment, You know what is hidden in the inner self and the disposer of the affairs of the small and the great. If You have decreed my need, Your bounty I ask You to intercede it in my soul and to have mercy on me by Your mercy which encompasses everything, O Most Merciful of the merciful. And I ask You, O Allah, by the right of this noble verse and the عظيمة names, that You bless Muhammad and his family and his companions and grant peace, and that You give to me what I have asked of You, O Lord of the worlds. * And among the properties of the noble Ayat al-Kursi is that if the servant is abundant in sins and transgressions and desires repentance for what his need is and has separated from what he did, then let him stand in the white nights of any month it may be, and on the thirteenth and the fourteenth and the fifteenth. Let him purify his clothes and his place, and let him stand in the middle of the night and perform ablution and pray four rak‘ahs, reciting in the first the Opening once and Ayat al-Kursi 7 times. He does in every rak‘ah like the first. Then when he gives the salām, he sits and seeks forgiveness from Allah عظیم 70 times and sends blessings upon the Prophet, صلى الله عليه وسلم, 70 times. And the form of the prayer: you say, O Allah, bless our master Muhammad with a prayer by which You deliver us from all terrors and afflictions, and by which You fulfill for us all needs, and by which You purify us from all evil deeds, and by which You raise us to the highest degrees, and by which You bring us to the utmost ends of all good things in life and after death, a prayer I ذخرتها for the Day of the Greatest Terror and its fear, and upon his family and his companions, and grant peace. Then you begin by reciting this supplication: you say, My God, You are the Accepter of repentance upon whoever repents, and the Bringer near to whoever turns back, and the Remover of its darkness
+
+---
+## Page 236
+
+**Arabic (original):**
+— ٢٣٠ —
+الحجاب تعلم خائنة الأعين وما تخفي الصدور وأنت على كل شيء قدير وإليك ترجع الأمور وبك تدفع
+الشرور اللهم إني أسألك سراً من سرك ونوراً من نورك وروحاً من أمرك يورثني السكون لمقدرتك
+ووفقني توفيقاً منك يوقظ غافلي مني ويعلم جاهلي ويوضح إليك طريقي ويكون في النجاة والرجعة
+رفيقي فيك اجتهادي وعليك اعتمادي وإليك مرجعي وبين يديك مصرعي تعلم حقيقة أمري وسؤالي
+لديك سري وجهري تعاليت عن سمات المحدثات وتنزهت عن النقائص والآفات علمك عن معارضة
+الشهوات إلهي أسألك به سري ويسر بها تقدسي وتزكي بها نفسي وتطهرني من رجسي وهبني نوراً منك
+أمشي به في الناس إنك أنت وهاب الأنوار وكاشف الأسرار وكل شيء عندك بمقدار يا حي يا قيوم يا ذا
+الجلال والإكرام وصل الله على سيدنا محمد وعلى آله وصحبه وسلم ومن خواص آية الكرسي أنه من
+خاف عاقبة أمر من الأمور وأراد الخروج منه فليتطهر ويلبس ثياباً طاهرة نظيفة ويطهر مجلسه
+الذي يختلي فيه فإذا صلى العشاء الآخرة يصلي ركعتين قبل صلاة الوتر يقرأ في كل ركعة الفاتحة مرة
+وآية الكرسي أحد عشر مرة فإذا سلم يقرأ آية الكرسي أحد عشر مرة ويقرأ سورة إنا أنزلناه
+في ليلة القدر وسورة الإخلاص ثلاث مرات والمعوذتين مرة يقول إني تفاءلت بكلامك القديم فأرني
+ما هو المكنون اللهم أرني في ليلتي هذه جميع ما سألت عنه وما لم أسأل وبين لي الخروج من هذه
+الأمور التي أخافها وأحذرها اللهم إن كان خيراً فأرني بياضاً أو خضرة وإن كان شراً لي أو علي فأرني
+سواداً أو حمرة وأن ترسل لي خادماً من خدام هذه الآية الشريفة آية الكرسي يخبرني في منامي ما هو
+المكتوم عني اللهم أنت الحق يبين لي الحق بأحق الحق إنك على كل شيء قدير ثم تسمي ما تريد وتطلبه
+ثم تصلي صلاة الوتر وترقد على جنبك الأيمن وتصلي على سيدنا محمد صلى الله عليه وسلم على قدر
+الاستطاعة وتنام وتجعل بالك في حاجتك وما هو خيرتك وما هو شر عليك وإن لم تر في ليلتك ما تسلب
+وما سألت عنه فعاود العمل فالصلاة في الليلة الثانية والثالثة فإنك ترى ما طلب وأخلص نيتك فإن
+النية سابقة العمل والله يهدي من يشاء إلى صراط مستقيم فاعرف قدر ما وصل إليك فإنها تغنيك
+عن علوم كثيرة ومن خواص آية الكرسي الشريفة من أضره العشق والمحبة والهيام إلى شخص
+وخشي الفضيحة من الناس أو بين أهله فليرسم آية الكرسي الشريفة خمس مرات في جام زجاج
+بمسك وزعفران وماء ورد ثم يضعه تحت السماء بعد أن يكتب اسم الشخص الذي يراد سلب محبته فإذا
+كان الصباح يذيب الكتابة بماء ورد ويشربها على الريق يفعل ذلك ثلاث مرات على ثلاثة أيام فإن
+الله تعالى ينسيه ذلك الشخص ويقلع محبته من قلبه والنية سابقة العمل فمن أخلص نيته نال أمنيته
+اعلم وفقني الله تعالى وإياك إلى طاعته وفهم أسرار أسمائه أن آية الكرسي لها خواص ومنافع
+غزيرة تنفع للخائف إذا حصل له رجفان فإنه يذهب ذلك عنه بإذن الله تعالى ومن خواص آية
+الكرسي تكتب لوجع القلب والخفقان ووجع الكبد ومغص البطن يكتب كذا كذا في إناء طاهر
+ثلاثة مرات ويشربها صاحب العلة ويقول عند شربها نويت الشفاء من العلة الفلانية ويذكر العلة
+فإن الله تعالى ببركة الآية الشريفة يشفيه ويعافيه بإذن الله تعالى والله الشافي المعافي ومن خواص آية
+
+**English:**
+— 230 —
+the veil, You know the treacherous glance and what the breasts conceal, and You are powerful over everything, and to You matters return, and by You evils are repelled. O Allah, I ask You for a secret from Your secret, and a light from Your light, and a spirit from Your command, that may bequeath to me tranquility before Your power, and grant me success, a success from You that awakens my heedlessness from me and teaches my ignorance and makes clear to me my path to You and is, in salvation and return, my companion. In You is my striving, and upon You is my reliance, and to You is my return, and before You is my place of falling. You know the reality of my affair and my asking with You, my secret and my open, You are exalted above the marks of the originated things and sanctified above deficiencies and afflictions, Your knowledge from opposing the desires. My God, I ask You by it, my secret, and by it make easy my sanctification, and by it purify my soul, and cleanse me from my filth, and grant me a light from You by which I walk among the people. Indeed You are the Bestower of lights and the Unveiler of secrets, and everything with You is by measure, O Living, O Self-Subsisting, O Possessor of majesty and honor. And may Allah bless our master Muhammad and his family and his companions and grant peace. And among the properties of Ayat al-Kursi is that whoever fears the consequence of a matter among matters and desires to get out of it, let him purify himself and wear pure, clean clothes and purify his sitting place in which he is secluded. Then if he prays the last night prayer, let him pray two rak‘ahs before the witr prayer, reciting in every rak‘ah the Opening once and Ayat al-Kursi eleven times. Then when he gives salām, he recites Ayat al-Kursi eleven times and recites Sūrat Inna Anzalnāhu fī Laylat al-Qadr and Sūrat al-Ikhlāṣ three times and the two Mu‘awwidhatayn once. He says: I have taken an omen from Your ancient speech, so show me what is hidden. O Allah, show me in this night of mine all that I asked about and what I did not ask, and make clear to me the خروج from these matters which I fear and beware. O Allah, if it is good, then show me whiteness or greenness, and if it is evil for me or against me, then show me blackness or redness, and that You send to me a servant from the servants of this noble verse, Ayat al-Kursi, who informs me in my sleep of what is concealed from me. O Allah, You are the Truth; make the truth clear to me by the truest truth. Indeed You are powerful over everything. Then you name what you want and seek it, then you pray the witr prayer and lie down on your right side and send blessings upon our master Muhammad, صلى الله عليه وسلم, according to ability, and sleep and make your mind upon your need and what is your choice and what is evil against you. And if you do not see in your night what you seek and what you asked about, then repeat the work, for the prayer in the second night and the third, for you will see what was sought. And make your intention sincere, for the intention precedes the work, and Allah guides whom He wills to a straight path. So know the value of what has reached you, for it suffices you from many sciences. And among the properties of the noble Ayat al-Kursi is that whoever is harmed by passion and love and infatuation toward a person and fears disgrace from people or among his family, let him draw the noble Ayat al-Kursi five times in a glass bowl with musk and saffron and rose water, then place it under the sky after writing the name of the person whose love is intended to be removed. Then when morning comes, dissolve the writing with rose water and drink it on an empty stomach. Do that three times over three days, for Allah تعالى will make him forget that person and uproot his love from his heart. And intention precedes work; whoever makes his intention sincere attains his wish. Know, may Allah تعالى grant me and you success in obedience to Him and understanding the secrets of His names, that Ayat al-Kursi has abundant properties and benefits, benefiting the fearful if trembling befalls him, for it removes that from him by the permission of Allah تعالى. And among the properties of Ayat al-Kursi: it is written for heartache and palpitations and liver pain and stomach colic. Write such-and-such in a pure vessel three times, and the one afflicted drinks it, and he says when drinking it:
+
+---
+## Page 237
+
+**Arabic (original):**
+— ٢٣١ —
+
+آية الكرسي لا تذهب الطحال ووجهه يكتب الآية الشريفة وآية فوق الطحال فإن الله تعالى
+يعافيه ويشفيه ببركة الآية الشريفة ۞ ومن خواص آية الكرسي للصداع والشقيقة أن يكتبها رقى
+غزال إن أمكن أو في كاغد نقي وتكتب معها قوله سبحانه وتعالى لو أنزلنا هذا القرآن على جبل لرأيته
+خاشعاً متصدعاً إلى آخر السورة وقوله تعالى وله ما سكن في الليل والنهار وهو السميع العليم أسكن أيها
+الصداع والشقيقة والوجع والضربان عن حامل كتابي هذا كما سكن عرش الرحمن بحرمة هذه
+الأحرف الشريفة المباركة المنيفة ح ح ط ي ك ل م ن ع ص ص د ي اسكنوا هم من ذكرت
+عليه هذه الأسماء الله الشافي الله الكافي الله المعافي فسيكفيهم الله وهو السميع العليم ولا حول ولا قوة
+إلا بالله العلي العظيم هذا ما جرب وصح ۞ اعلم وفقني الله وإياك إلى طاعته وفهم أسرار أسمائه
+إن آية الكرسي الشريفة لها خواص لا تحصى ولا تعد لأنها أعظم آية في كتاب الله تعالى وإن من أعظم
+خواصها ما أذكره لك وذلك أني كنت جالساً بين يدي شيخي أبي عبد الله الأندلسي ونحن نذاكر في
+بعض العلوم إذ دخل علينا رجل وهو يرجف مثل السعفة في الريح العاصف ثم سلم ووقع على يد الشيخ
+يقبلها ويبكي فقال له الشيخ مالك أيها الرجل وما الذي أبكاك فقال له الرجل اعلم ياسيدي أني خائف
+من بعض الأعداء أن يغتالني بسوء وليس لي قدرة عليه وقد أتيتك ياسيدي عساك أن تفرج عني
+همي وغمي وتزيل عني كربي فلما سمع الشيخ ذلك القول من الرجل قال له أبشر يا هذا ولا تخف
+إن شاء الله تعالى بعد هذا اليوم لا تخف من أحد ثم إن الشيخ عمد إلى رقعة وكتب فيها أعوذ بالله من
+الشيطان الرجيم وصلى الله على سيدنا محمد وآله وصحبه وسلم تسليماً كثيراً ثم كتب فاتحة الكتاب وكتب
+آية الكرسي وسورة الإخلاص والمعوذتين ثم كتب قوله تعالى ولا تخف إنك من الآمنين لا تخف
+دركاً ولا تخشى لا تخافا إني معكما أسمع وأرى لا تخف نجوت من القوم الظالمين قال رجلان من الذين
+يخافون أنعم الله عليهما ادخلوا عليهم الباب فإذا دخلتموه فإنكم غالبون وعلى الله فتوكلوا إن كنتم
+مؤمنين لا تخف إنك أنت الأعلى اللهم احرسني بعينك التي لا تنام واكتنفني بركنك الذي لا يرام
+واغفر لي بقدرتك حتى لا أهلك وأنت رجائي رب كم من نعمة أنعمت بها علي قل لك عندها شكري
+فلم تحرمني ويا من رآني على الخطايا فلم يفضحني يا ذا المعروف الذي لا ينقطع أبداً ويا ذا النعماء التي
+لا تحصى أبداً أسألك اللهم أن تصلي وتسلم على سيدنا محمد وعلى آله وصحبه وسلم تسليماً كثيراً وأن
+تحفظني وتحرسني من أعدائي ومن يريدني بسوء أو مكروه اردد اللهم بأسه عليه واجعل خيره بين
+عينيه وشره تحت قدميه ومن يريدني بشراً أو مكراً أرغدراً فهو عائد عليه واجعله موصولاً لديه ورد
+الله الذين كفروا بغيظهم لم ينالوا خيراً وكفى الله المؤمنين القتال وكان الله قوياً عزيزاً صم بكم عمي فهم
+لا يبصرون فهم لا ينطقون فهم لا يتكلمون هذا يوم لا ينطقون لهم فيعتذرون ص ق ن
+فسيكفيهم الله وهو السميع العليم ثم إن الشيخ طوى الرقعة ودفعها للرجل وقاله ضعها في عمامتك
+فإنك تأمن من كل مكروه فلم ينظر الرجل بعده سوءاً أبداً ۞ واعلم يا أخي أن هذه الأسماء العظيمة القدر
+ما حملها أحد إلا نجاه الله تعالى مما يخافه ويحذره وإن دخل بها على حاكم جائر فإنه يأمن من شره ولا
+يخاصم حاملها أحداً إلا غلبه وقهره ببركتها وفضائلها مشهورة عند العلماء وعند من يعرف قدرها
+
+**English:**
+The Verse of the Throne does not go away the spleen, and its face: he writes the noble verse and a verse above the spleen, for verily God تعالى will grant him well-being and heal him by the blessing of the noble verse ۞ And among the properties of the Verse of the Throne for headache and migraine is that it be written by a gazelle skin, if possible, or on clean paper, and with it is written His saying, سبحانه وتعالى, “If We had sent down this Qur’an upon a mountain, you would have seen it humbled, rent asunder,” to the end of the surah, and His saying تعالى, “And to Him belongs what rests in the night and the day, and He is the Hearing, the Knowing.” Be still, O headache and migraine and pain and throbbing, from the bearer of this my book, as the Throne of the Merciful became still, by the sanctity of these noble blessed exalted letters: ح ح ط ي ك ل م ن ع ص ص د ي. Be still, O you upon whom these names are mentioned: God the Healer, God the Sufficient, God the Well-Giver of well-being; then God will suffice them, and He is the Hearing, the Knowing, and there is no power and no strength except by God, the High, the Great. This is what has been tried and proven ۞ Know, may God grant me and you success to His obedience and the understanding of the secrets of His names, that the noble Verse of the Throne has properties not counted and not numbered, because it is the greatest verse in the Book of God تعالى, and among its greatest properties is what I shall mention to you; that is, I was sitting before my shaykh Abu عبد الله الأندلسي, and we were discussing some sciences, when a man entered upon us, trembling like a palm frond in the raging wind, then he gave salutation and fell upon the hand of the shaykh, kissing it and weeping. So the shaykh said to him, “What is with you, O man, and what is it that made you weep?” The man said to him, “Know, my master, that I am afraid of some enemies that they may assassinate me with evil, and I have no power against him, and I have come to you, my master, hoping that you may relieve me of my worry and my grief and remove from me my distress.” When the shaykh heard that saying from the man, he said to him, “Be glad, O this one, and do not fear. God willing تعالى, after this day do not fear anyone.” Then the shaykh proceeded to a sheet and wrote in it: “I seek refuge in God from the accursed Satan,” and he prayed upon our master Muhammad and his family and his Companions, with abundant salutation, then he wrote the Opening of the Book and wrote the Verse of the Throne and Sūrat al-Ikhlāṣ and the two Muʿawwidhatayn, then he wrote His saying تعالى: “And do not fear, indeed you are among the secure,” “Do not fear pursuit, nor do you fear,” “Do not fear, I am with you both, I hear and I see,” “Do not fear, you have escaped from the wrongdoing people,” “Two men from those who fear, upon whom God has bestowed favor, said: Enter upon them by the gate, for if you enter it, then you will be victorious, and upon God put your trust if you are believers,” “Do not fear, indeed you are the uppermost,” “O God, guard me with Your eye that does not sleep, and encompass me with Your pillar that is not assailed, and forgive me by Your power so that I do not perish, and You are my hope. Lord, how many a blessing have You bestowed upon me; little is my gratitude to You at it, yet You did not deprive me. O You who saw me upon sins yet did not expose me, O Possessor of beneficence that never ceases, and O Possessor of blessings that are never counted, I ask You, O God, to bless and grant peace upon our master Muhammad and upon his family and his Companions, with abundant salutation, and to preserve me and guard me from my enemies and from whoever wants me with evil or harm. Repel, O God, his might upon him, and make his good before his eyes and his evil beneath his feet. And whoever wants me with evil or plotting or deceit, then it returns upon him, and make it connected to him. And God repelled those who disbelieved in their rage; they attained no good, and God sufficed the believers in fighting, and God was Strong, Mighty. Deaf, dumb, blind, so they do not see; so they do not speak; so they do not talk. This is a day they do not speak, so they will make excuses. ص ق ن. Then God will suffice them, and He is the Hearing, the Knowing.” Then the shaykh folded the sheet and handed it to the man and said to him, “Put it in your turban, for you will be safe from every harm.” So the man thereafter did not see evil ever again ۞ And know, my brother, that these names of great worth, no one carried them except that God تعالى saved him from what he feared and guarded. And if he enters with them upon an unjust ruler, he is safe from his evil, and no one disputes with the bearer of them except that he overcomes him and subdues him by their blessing, and their virtues are famous among the scholars and among those who know their worth.
+
+---
+## Page 238
+
+**Arabic (original):**
+- ٢٣٢ -
+
+وَاللَّهُ يُؤَيِّدُ بِنَصْرِهِ مَنْ يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ ۝ فَائِدَةٌ مُبَارَكَةٌ لِلْحَرَسِ مِنَ الْأَعْدَاءِ وَالْخَوْفِ
+وَالْفَزَعِ مِنْ قُطَّاعِ الطَّرِيقِ وَمَنْ غَيْرِهِمْ قَالَ بَعْضُ الصَّالِحِينَ رَحِمَهُ اللَّهُ تَعَالَى نَزَلْنَا فِي بَعْضِ الْأَسْفَارِ
+عَلَى نَهْرٍ يَجْرِي فَأَتَانَا قَوْمٌ قَالُوا إِنَّهُمْ نَزَلَ فِي هَذَا الْمَوْضِعِ أَحَدُ الْأَنْهَابِ مَتَاعَهُ فَرَحَلَ أَصْحَابِي مِنَ الْخَوْفِ
+وَالْفَزَعِ وَتَخَلَّفْتُ أَنَا لِحَدِيثٍ سَمِعْتُهُ مِنِ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَنْ قَرَأَ ثَلَاثًا
+وَثَلَاثِينَ آيَةً مِنْ كِتَابِ اللَّهِ تَعَالَى لَمْ يَضُرَّهُ تِلْكَ اللَّيْلَةَ سَبْعُ ضَارٍ وَلَا لِصُّ عَادٍ وَعُوفِيَ فِي نَفْسِهِ وَأَهْلِهِ وَمَالِهِ
+حَتَّى يُصْبِحَ فَلَمَّا أَمْسَيْتُ لَمْ أَنَمْ حَتَّى رَأَيْتُ جَمَاعَةً وَقَدْ جَاءُوا مُجَرَّدِينَ سُيُوفَهُمْ وَأَيْدِيهِمْ مِنِّي فَلَمْ يَصِلُوا إِلَيَّ
+فَلَمَّا أَصْبَحْتُ رُحْتُ فَلَقِيَنِي شَيْخٌ عَلَى فَرَسٍ وَقَالَ لِي يَا هَذَا أَنَسِيٌّ أَمْ جِنِّي فَقُلْتُ بَلْ إِنْسِيٌّ مِنْ أَوْلَادِ آدَمَ
+فَقَالَ لِي مَا بَالُ آتَيْنَاكَ فِي هَذِهِ اللَّيْلَةِ أَكْثَرَ مِنْ سَبْعِينَ مَرَّةً ذَلِكَ يُحَالُ بَيْنَنَا وَبَيْنَكَ بِسُورٍ مِنْ
+حَدِيدٍ فَقُلْتُ لَهُ حَدَّثَنِي ابْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَنْ قَرَأَ ثَلَاثًا وَثَلَاثِينَ
+آيَةً مِنْ كِتَابِ اللَّهِ تَعَالَى فِي لَيْلَةٍ لَمْ يَضُرَّهُ سَبْعُ ضَارٍ وَلَا لِصُّ عَادٍ وَيَكُونُ فِي أَمَانِ اللَّهِ تَعَالَى إِلَى
+الصَّبَاحِ فَلَمَّا سَمِعَ الشَّيْخُ ذَلِكَ نَزَلَ عَنْ فَرَسِهِ وَقَبَّلَ رَأْسِي وَأَعْطَى اللَّهُ عَهْدًا أَنْ لَا يَعُودَ إِلَى مَا كَانَ
+مِنْهُ أَبَدًا وَالْآيَاتُ الْمُبَارَكَةُ الْقَدْرِ تَقْرَأُ أَرْبَعَ آيَاتٍ مِنْ سُورَةِ الْبَقَرَةِ إِلَى قَوْلِهِ تَعَالَى الْمُفْلِحُونَ وَآيَةَ
+الْكُرْسِيِّ الشَّرِيفَةِ وَآيَتَيْنِ بَعْدَهَا إِلَى قَوْلِهِ خَالِدُونَ وَثَلَاثَ آيَاتٍ مِنْ آخِرِ الْبَقَرَةِ لِلَّهِ مَا فِي السَّمَوَاتِ
+وَمَا فِي الْأَرْضِ إِلَى آخِرِ السُّورَةِ وَثَلَاثَ آيَاتٍ مِنَ الْأَعْرَافِ قَوْلِهِ تَعَالَى إِنَّ رَبَّكُمُ اللَّهُ الَّذِي خَلَقَ
+السَّمَوَاتِ وَالْأَرْضَ إِلَى قَوْلِهِ الْمُحْسِنِينَ وَعَشْرَ آيَاتٍ مِنْ أَوَّلِ سُورَةِ الصَّافَّاتِ إِلَى قَوْلِهِ تَعَالَى لَازِبٍ
+وَآخِرِ الْإِسْرَاءِ قُلِ ادْعُوا اللَّهَ أَوِ ادْعُوا الرَّحْمَنَ أَيَّامَا تَدْعُوا إِلَى آخِرِ السُّورَةِ وَآيَتَانِ مِنْ سُورَةِ الرَّحْمَنِ
+يَا مَعْشَرَ الْجِنِّ وَالْإِنْسِ إِلَى قَوْلِهِ تَنْتَصِرَانِ وَأَوَاخِرِ الْحَشْرِ قَوْلِهِ تَعَالَى لَوْ أَنْزَلْنَا هَذَا الْقُرْآنَ عَلَى جَبَلٍ
+لَرَأَيْتَهُ إِلَى آخِرِ السُّورَةِ وَآيَتَانِ مِنْ سُورَةِ الْجِنِّ قَوْلِهِ تَعَالَى وَأَنَّهُ تَعَالَى جَدُّ رَبِّنَا مَا اتَّخَذَ صَاحِبَةً وَلَا وَلَدًا إِلَى
+قَوْلِهِ شَطَطًا ۝ وَاعْلَمْ أَنَّ هَذِهِ الْآيَاتِ تُسَمَّى آيَاتِ الْحَرَسِ بَدَلَ أَنَّ فِيهَا شِفَاءً مِنْ مِائَةِ دَاءٍ مِثْلِ الْجُذَامِ
+وَالْبَرَصِ وَغَيْرِهِ . وَرُوِيَ عَنْ مُحَمَّدِ بْنِ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ قَالَ قَرَأْتُهَا عَلَى شَيْخٍ قَدْ أَلَمَّ فَذَهَبَ
+اللَّهُ تَعَالَى عَنْهُ ذَلِكَ بِإِذْنِ اللَّهِ تَعَالَى وَبَرَكَةِ كَلَامِهِ الْقَدِيمِ فَافْهَمْ ذَلِكَ وَمَنْ نَقَشَ هَذَا الْوَفْقَ الشَّرِيفَ
+عَلَى خَاتَمٍ مِنَ الْفِضَّةِ أَوْ لَوْحٍ مِنْهَا فِي السَّاعَةِ الْأُولَى مِنْ يَوْمِ الْجُمُعَةِ وَهِيَ مِنْ طُلُوعِ الشَّمْسِ إِلَى أَنْ يَصِيرَ
+الظِّلُّ ثَمَانِيَةً وَعِشْرِينَ قَدَمًا فَمَنْ فَعَلَ ذَلِكَ رَأَى الْعَجَائِبَ مِنْ نَفْسِهِ وَالْمَحَبَّةِ وَالْقَبُولِ وَالْهَيْبَةِ وَيُوسِعُ
+الرِّزْقَ وَهَذِهِ صِفَتُهُ بِالصَّحِيفَةِ الْآتِيَةِ
+
+٢٩٢
+
+**English:**
+And God supports with His victory whom He wills, and God is Possessor of the عظیم فضل. ۝ A blessed benefit for guarding from enemies and fear and terror from highway robbers and others besides them. Some of the righteous, may God تعالى have mercy on him, said: We descended in some of the journeys upon a flowing river, and a people came to us; they said that there had descended in this place one of the robbers, his baggage, so my companions set out from fear and terror, and I remained behind because of a report I had heard from ابن عمر, may God be pleased with him, from the Prophet, may God bless him and grant him peace: whoever recites thirty-three verses from the Book of God تعالى, seven harmful things will not harm him that night, nor an habitual thief, and he will be preserved in himself, his family, and his wealth until morning. So when evening came upon me, I did not sleep until I saw a group, and they had come with their swords drawn and their hands from me, but they did not reach me. Then when morning came I went out, and a shaykh on a horse met me and said to me, “O this one, are you a human companion or a jinni?” I said, “Rather a human from the children of Adam.” So he said to me, “What is the matter that we came to you in this night more than seventy times? That is barred between us and you by a wall of iron.” So I said to him, “I was told by ابن عمر, may God be pleased with him, from the Prophet, may God bless him and grant him peace: whoever recites thirty-three verses from the Book of God تعالى in a night, seven harmful things will not harm him, nor an habitual thief, and he will be in the security of God تعالى until morning.” When the shaykh heard that, he dismounted from his horse and kissed my head, and God gave a covenant that he would not return to what he had been from ever again. And the blessed verses of great worth are recited: four verses from Sūrat al-Baqarah up to His saying تعالى, “the successful”; and the noble Verse of the Throne; and two verses after it up to His saying, “abiding”; and three verses from the end of al-Baqarah, “To God belongs what is in the heavens and what is in the earth,” to the end of the surah; and three verses from al-Aʿrāf, His saying تعالى, “Indeed your Lord is God who created the heavens and the earth,” up to His saying, “the doers of good”; and ten verses from the beginning of Sūrat al-Ṣāffāt up to His saying تعالى, “adhesive”; and the end of al-Isrāʾ, “Say: Call upon God or call upon the Merciful; whichever you call upon,” to the end of the surah; and two verses from Sūrat al-Raḥmān, “O company of jinn and humankind,” up to His saying, “you will be victorious”; and the ends of al-Ḥashr, His saying تعالى, “If We had sent down this Qur’an upon a mountain, you would have seen it,” to the end of the surah; and two verses from Sūrat al-Jinn, His saying تعالى, “And that He, exalted is the majesty of our Lord, has not taken a consort nor a child,” up to His saying, “excess.” ۝ And know that these verses are called the Verses of Guard, besides that in them is healing from a hundred ailments such as leprosy and vitiligo and other than it. And it was related from Muḥammad ibn ʿAlī, may God be pleased with him, that he said: I recited it upon a shaykh who had been afflicted, and God تعالى removed that from him by the permission of God تعالى and the blessing of His ancient speech, so understand that. And whoever engraves this noble wifq upon a ring of silver or a tablet of it in the first hour of Friday, and it is from sunrise until the shadow becomes twenty-eight feet, then whoever does that will see wonders from himself and love and acceptance and awe, and it expands provision. And this is its description in the following page.
+
+292
+
+---
+## Page 239
+
+**Arabic (original):**
+| ٢٣٣ | ٢١٠ | ٢٥٠ | ٢٥١ | ٢٦٣ | ٢٢٣ | ٢٣ | ٢٩٤ | ٣٩٤ |
+|---|---|---|---|---|---|---|---|---|
+| ٢٣٢ | ٢٩٣ | ٢٩٢ | ٢٣٩ | ٢٤٨ | ٢٩٧ | ٢٢٦ | ٢٤٩ | ٢٠٩ |
+| ٢٢٨ | ٢٩٢ | ٢٢٥ | ٢٤٧ | ٢٠٣ | ٢٣٠ | ٥٦ | ٢٦٠ | ٣٠٦ |
+| ٢٠٦ | ٢٤٦ | ٢٥٥ | ٢٥٩ | ٢١٩ | ٢٥٨ | ٢٢٣ | ٢٩٠ | ٢٢٢ |
+| ٢٥٧ | ٢٦١ | ٢١٨ | ٣١ | ٢٢٥ | ٢٨٩ | ٢٠٤ | ٢٥٨ | ٢٤٥ |
+| ٢٢٦ | ٢١٢ | ١٥٤ | ٢٢٤ | ٢٨٨ | ٢٢٧ | ٢١٣ | ٢٤٤ | ٢٠٠ |
+| ٢٢٩ | ٢٣٩ | ٢٥٧ | ٢٠٢ | ٢١٢ | ٢٢٣ | ٢٥٦ | ٢٦٥ | ٢١٦ |
+| ٢٤٢ | ٢٠١ | ٢١٥ | ٢٥٥ | ٢٦٧ | ٢٨٦ | ٢٢٨ | ٢٤١ | |
+
+فائدة جليلة لمقابلة الحكام والملوك والوزراء والقضاة والولاة وأرباب المناصب يوضع في شرف
+الشمس أو في شرف المشتري في لوح من ذهب أو فضة أو من نحاس أصفر ويكون النقاش صائماً ويبخر
+وقت حمله والحاجة إليه بالعود الهندي والجاوى والمصطكى وعود ند وبزعفران وهذه صورته
+وصفاته كما ترى فافهم ترشد
+
+٣٦٦١٠
+٣٥٣
+
+| ٥٤ | ٩٥ | ١١ | ٦٧ | ٨ | ٩ | ٧ | ١٥ | ٤ |
+|---|---|---|---|---|---|---|---|---|
+| ١١ | ٨ | ٤ | ٢ | ٦ | ٦ | ٤ | ٢ | ٨ | ١٧ |
+| ١ | ٥ | ٢٧ | ١٠ | ١٠ | ٤ | ٥ | ٨ | ٤٦ |
+| ١ | ٨ | ١ | ٥ | ٥ | ٤ | ١١ | ٢٤ | ١ | ٢١ |
+| ٨ | ٦ | ٥ | ٨ | ٤ | ٥ | ٨ | ٤ | ٥ |
+| ١ | ٨ | ٨ | ٥ | ٨ | ٣ | ٤ | ٨ | ٤ | ٤ |
+| ٤ | ١٠ | ٤ | ٤ | ٦ | ٤ | ٤ | ٦ | ١٠ | ٤ |
+| ٤ | ٤ | ٤ | ٦ | ٩ | ٤ | ٨ | ٥ | ٩ |
+
+وحكي عن بعض الصالحين رضي الله عنه قال كانت لي حاجة فمكثت ثلاثين سنة أسأل الله تعالى فيها
+ومع ذلك لم أيأس منه فأخذت مضجعي ذات ليلة ونمت وإذا بقائل يقول خذ هذه الأقسام التي تحت
+رأسك وأقسم بها في حاجتك فإنها تقضى فانتبهت فوجدتها مكتوبة في لوح حروفها مقطعة
+فجمعتها فإذا هي كما ترى فأقسم بها على حاجتك تقض من ساعتها وهي هذه
+بخضوع القلوب عند السجود * لك ياسيدي بغير جحود
+وبك الله ياجليل فلا شيء * يدانيك في غليظ العهود
+وبكرسيك المكلل بالنور * إلى عرشك العظيم المجيد
+
+**English:**
+[Grid content preserved as-is]
+| ٢٣٣ | ٢١٠ | ٢٥٠ | ٢٥١ | ٢٦٣ | ٢٢٣ | ٢٣ | ٢٩٤ | ٣٩٤ |
+|---|---|---|---|---|---|---|---|---|
+| ٢٣٢ | ٢٩٣ | ٢٩٢ | ٢٣٩ | ٢٤٨ | ٢٩٧ | ٢٢٦ | ٢٤٩ | ٢٠٩ |
+| ٢٢٨ | ٢٩٢ | ٢٢٥ | ٢٤٧ | ٢٠٣ | ٢٣٠ | ٥٦ | ٢٦٠ | ٣٠٦ |
+| ٢٠٦ | ٢٤٦ | ٢٥٥ | ٢٥٩ | ٢١٩ | ٢٥٨ | ٢٢٣ | ٢٩٠ | ٢٢٢ |
+| ٢٥٧ | ٢٦١ | ٢١٨ | ٣١ | ٢٢٥ | ٢٨٩ | ٢٠٤ | ٢٥٨ | ٢٤٥ |
+| ٢٢٦ | ٢١٢ | ١٥٤ | ٢٢٤ | ٢٨٨ | ٢٢٧ | ٢١٣ | ٢٤٤ | ٢٠٠ |
+| ٢٢٩ | ٢٣٩ | ٢٥٧ | ٢٠٢ | ٢١٢ | ٢٢٣ | ٢٥٦ | ٢٦٥ | ٢١٦ |
+| ٢٤٢ | ٢٠١ | ٢١٥ | ٢٥٥ | ٢٦٧ | ٢٨٦ | ٢٢٨ | ٢٤١ | |
+
+A great benefit for meeting rulers and kings and ministers and judges and governors and holders of offices: it is placed in the exaltedness of the sun or in the exaltedness of Jupiter in a tablet of gold or silver or of yellow copper, and the engraver is fasting, and it is fumigated at the time of carrying it and the need for it with Indian aloeswood and Jāwī and mastic and ʿūd ند and with saffron, and this is its form and its qualities as you see, so understand, you will be guided
+
+36610
+353
+
+[Grid content preserved as-is]
+| ٥٤ | ٩٥ | ١١ | ٦٧ | ٨ | ٩ | ٧ | ١٥ | ٤ |
+|---|---|---|---|---|---|---|---|---|
+| ١١ | ٨ | ٤ | ٢ | ٦ | ٦ | ٤ | ٢ | ٨ | ١٧ |
+| ١ | ٥ | ٢٧ | ١٠ | ١٠ | ٤ | ٥ | ٨ | ٤٦ |
+| ١ | ٨ | ١ | ٥ | ٥ | ٤ | ١١ | ٢٤ | ١ | ٢١ |
+| ٨ | ٦ | ٥ | ٨ | ٤ | ٥ | ٨ | ٤ | ٥ |
+| ١ | ٨ | ٨ | ٥ | ٨ | ٣ | ٤ | ٨ | ٤ | ٤ |
+| ٤ | ١٠ | ٤ | ٤ | ٦ | ٤ | ٤ | ٦ | ١٠ | ٤ |
+| ٤ | ٤ | ٤ | ٦ | ٩ | ٤ | ٨ | ٥ | ٩ |
+
+And it was related from some of the righteous, may God be pleased with him, he said: I had a need, and I remained thirty years asking God تعالى concerning it, and nevertheless I did not despair of Him. So I took my couch one night and slept, and behold, a speaker said: Take these divisions that are beneath your head and swear by them in your need, for it will be fulfilled. So I awoke and found them written on a tablet, its letters separated. So I gathered them, and behold, they are as you see. So swear by them for your need; it will be fulfilled from its hour, and they are these:
+With the humility of hearts at prostration * to You, my master, without denial
+And by You, O God, O Majestic, for nothing * approaches You in the thick covenants
+And by Your Throne crowned with light * to Your great glorious Throne
+
+---
+_End of translation — 239 pages._
