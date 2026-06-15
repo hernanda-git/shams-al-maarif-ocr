@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 257 translated pages._
+_Auto-generated from 263 translated pages._
 
 ---
 ## Page 1
@@ -14783,4 +14783,226 @@ And if
 [?] [Grid content preserved as-is]
 
 ---
-_End of translation — 257 pages._
+## Page 258
+
+**Arabic (original):**
+[No text on this page]
+
+**English:**
+[No text on this page]
+
+---
+## Page 259
+
+**Arabic (original):**
+— ٢٥٣ —
+لا شريك لك وأشهد أن محمداً عبدك ورسولك يا الله أنت الحق المبين يا الله أنت الثابت النصير يا الله
+أنت الله المعروف بالجود يا الله أنت الله المصور البديع يا الله أنت نور السموات والأرض يا الله
+أنت الله نور الدنيا والآخرة يا الله أنت الله الواحد الأحد يا الله أنت الحي القيوم يا الله أنت الله
+العزيز زاجر يا الله أنت الله المتوحد بالصمدانية يا الله أنت الله العالي المحسن يا الله أنت الله الظاهر
+بكلماتك يا الله أنت الله المبرئ من كل عيب يا الله أنت الله الذي لم يلد ولم يولد ولم يكن له كفواً أحد
+يا الله أنت الله لا ضد له ولا ند له ولا شبيه له يا الله أنت الله الأول بلا غاية يا الله أنت الله الآخر
+بلا نهاية يا الله أنت الله المقيم بلا حد يا الله أنت الله الحي الذي لا يموت أبداً يا الله أنت الله الباقي المعبود
+يا الله أنت الله المكرم المتفضل يا الله أنت ربي ذو الجلال والإكرام اللهم إني أسألك بحرمة سورة
+يس وبحق هذا الدعاء المبارك أن تريني حرمك وتبلغني زيارة قبر نبيك محمد صلى الله عليه وسلم
+وتسهل علي كل عسير وأن تسخر لي خدام هذه السورة يكونون لي عوناً على ما أريد من كل خير اللهم
+سخر لي خلقك ورزقك اللهم اعطف علي قلوب عبادك من كل ذكر وأنثى وحر وعبد وصغير وكبير
+بالمحبة الدائمة والمودة والعطف وارزقني الحظ الجزيل وسخر لي قلوب عبادك وأن ترزقني رزقاً حلالاً
+طيباً مباركاً فيه وكن لي عوناً ومعيناً وحافظاً ونصيراً أميناً سبحان المنفس عن كل مديون سبحان
+المفرج عن كل محزون سبحان من خزائنه بين الكاف والنون سبحان من إذا أراد شيئاً أن يقول له
+كن فيكون إلي آخرها إمفرج فرج ٧ مرات يا قاضي الحاجات يا مجيب الدعوات هون علي كل
+عسير ببركة سورة يس بسم الله الرحمن الرحيم يس والقرآن الحكيم بكررها ٧ ويقول وأفوض
+أمري إلى الله ٧ وتصلي على النبي صلى الله عليه وسلم عشراً وتقول إنك لمن المرسلين إلى قوله
+مقمحون وتقول وأفوض أمري إلى الله الآية ٧ والصلاة على النبي عشراً وتقول وجعلنا من بين
+أيديهم سداً إلى قوله وأجركم ٧ وتقول وأفوض أمري إلى الله الآية ٧ والصلاة على النبي عشراً
+وتقول إنا نحن نحيي الموتى ونكتب ما قدموا وآثارهم الآية وتقول ما تقدم وتقول سبحانك المفرج
+عن كل محزون سبحانك المنفس عن كل مديون سبحان من جعل خزائنه بين الكاف والنون
+إمفرج فرج ٧ وتقول يا قاضي الحاجات يا مجيب الدعوات سخر لي خدام هذه السورة الشريفة
+يطيعوني ويمتثلوا أمري وارزقني زيارة قبر نبيك محمد صلى الله عليه وسلم وتسهل علي كل عسير
+وتسخر لي جميع خلقك ورزقك واعطف علي قلوب عبادك حرهم وعبدهم صغيرهم وكبيرهم
+من كل ذكر وأنثى وألف قلوبهم لي بالمحبة والمودة الدائمة وارزقني الحظ الجزيل والعمر الطويل
+وافتح لي أبواب رحمتك وارزقني رزقاً حلالاً وكن لي عوناً ومعيناً وحافظاً وناصراً وأميناً اللهم إني
+أسألك الله الأول والآخر حين أن تسخر لي جميع خلقك بالمحبة الدائمة والمودة العطف كما سخرت
+البحر لموسى عليه السلام ولين لي قلوبهم وأرواحهم وجوارحهم وأعظمهم كما لينت الحديد لداود
+عليه السلام فهم لا ينطقون إلا بإذنك نواصيهم في قبضتك وقلوبهم في يدك جل ثناؤك وتقدست
+أسماؤك لا إله غيرك ولا معبود سواك برحمتك يا أرحم الراحمين اللهم إني أسألك بحق هذه السورة
+الشريفة أن تسخر لي رزقي واعطف على قلوب عبادك واجلب لي أرواحهم وأجسادهم بحقك وحق
+
+**English:**
+— ٢٥٣ —
+There is no partner to You, and I bear witness that Muhammad is Your servant and Your Messenger. O Allah, You are the manifest Truth. O Allah, You are the steadfast helper. O Allah, You are Allah, known by generosity. O Allah, You are Allah, the wondrous fashioner. O Allah, You are the light of the heavens and the earth. O Allah, You are the light of the الدنيا and the آخرة. O Allah, You are Allah, the One, the Unique. O Allah, You are the Living, the Self-Subsisting. O Allah, You are Allah, the Mighty, the Repeller. O Allah, You are Allah, singular in Samadaniyyah. O Allah, You are Allah, the High, the Beneficent. O Allah, You are Allah, manifest by Your words. O Allah, You are Allah, the absolver from every defect. O Allah, You are Allah, who neither begot nor was begotten, and there is none equal to Him, one. O Allah, You are Allah, there is no opposite to Him, nor peer to Him, nor likeness to Him. O Allah, You are Allah, the First without end. O Allah, You are Allah, the Last without end. O Allah, You are Allah, the Established without limit. O Allah, You are Allah, the Living who never dies ever. O Allah, You are Allah, the Remaining, the Worshipped. O Allah, You are Allah, the Honoring, the Bountiful. O Allah, You are my Lord, Possessor of Majesty and Honor. O Allah, I ask You by the sanctity of Surat Yasin and by the truth of this blessed supplication that You show me Your sanctuary and bring me to the visitation of the grave of Your Prophet Muhammad, صلى الله عليه وسلم, and make easy for me every difficult thing, and that You subjugate for me the servants of this surah, that they be for me a help upon what I desire of every good. O Allah, subjugate for me Your creation and Your provision. O Allah, incline toward me the hearts of Your servants, of every male and female, free and slave, small and great, with enduring love and affection and tenderness, and provide for me the abundant fortune, and subjugate for me the hearts of Your servants, and that You provide for me lawful provision, good, blessed therein, and be for me a help and an assistant and a guardian and a helper, trustworthy. Glory be to the Reliever of every debtor. Glory be to the Releaser of every sorrowful one. Glory be to Him whose خزائن are between Kaf and Nun. Glory be to Him who, when He wills a thing, only says to it, “Be,” and it is, to its end. Mufarrij, Farraj 7 times. O Judge of needs, O Answerer of prayers, make every difficult thing easy for me by the blessing of Surat Yasin. In the name of Allah, the Merciful, the Compassionate. Yasin and the Wise Qur’an, repeat it 7 times, and he says: And I entrust my affair to Allah 7, and you send blessings upon the Prophet, صلى الله عليه وسلم, ten times, and you say: Indeed, you are among the messengers, to His saying, “made to stare,” and you say: And I entrust my affair to Allah, the verse 7, and the الصلاة upon the Prophet ten times, and you say: And We placed before them a barrier, to His saying, “and your reward,” 7, and you say: And I entrust my affair to Allah, the verse 7, and the الصلاة upon the Prophet ten times, and you say: Indeed, We give life to the dead and We write what they have sent ahead and their آثار, the verse, and you say: what preceded, and you say: Glory be to You, the Reliever of every sorrowful one. Glory be to You, the Releaser of every debtor. Glory be to Him who made His خزائن between Kaf and Nun. Mufarrij, Farraj 7. And you say: O Judge of needs, O Answerer of prayers, subjugate for me the servants of this noble surah, that they obey me and comply with my command, and provide for me the visitation of the grave of Your Prophet Muhammad, صلى الله عليه وسلم, and make easy for me every difficult thing, and subjugate for me all Your creation and Your provision, and incline toward me the hearts of Your servants, their free and their slave, their small and their great, of every male and female, and unite their hearts for me with enduring love and affection, and provide for me the abundant fortune and the long life, and open for me the doors of Your mercy, and provide for me lawful provision, and be for me a help and an assistant and a guardian and a helper and a trustworthy one. O Allah, I ask You, Allah the First and the Last, that You subjugate for me all Your creation with enduring love and affection, tenderness, as You subjugated the sea for Moses, عليه السلام, and soften for me their hearts and their spirits and their limbs and their bones, as You softened iron for David, عليه السلام. For they speak not except by Your permission; their forelocks are in Your grasp, and their hearts are in Your hand. Exalted is Your praise, and sanctified are Your names. There is no god other than You, and no worshipped one besides You, by Your mercy, O Most Merciful of the merciful. O Allah, I ask You by the truth of this noble surah that You subjugate for me my provision, and incline toward the hearts of Your servants, and bring to me their spirits and their bodies, by Your truth and the truth of
+
+---
+## Page 260
+
+**Arabic (original):**
+— ١٥٤ —
+حقك ونور وجهك وبحق أنبيائك والمرسلين والملائكة المقربين وبحق سورة يس والقرآن الحكيم
+وبحق الم ذلك كتاب لا ريب فيه هدى للمتقين الم الله لا إله إلا هو الحي القيوم وبحق المص
+والمر وكهيعص وحمعسق وحم والكتاب المبين وبحق القرآن ذي الذكر وبحق ق
+والقرآن المجيد وبحق والطور وكتاب مسطور إلى قوله والبحر المسجور والقلم وما يسطرون
+وبحق القرآن العظيم الذي قلت فيه وأنت أصدق القائلين ونزل من القرآن ما هو شفاء ورحمة
+للمؤمنين وبأسمائك الحسنى العظيمة وبحق العرش العظيم والكرسي واللوح والقلم وبحق جبرائيل
+وميكائيل وإسرافيل وعزرائيل وحملة العرش والكرسي والملائكة المقربين على نبينا عليهم
+الصلاة والسلام وبحق السموات والأرضين وما فيهن وبالكواكب السيارة وبالسماء ذات البروج
+إلى قوله ومشهود وبالسماء والطارق إلى قوله لما عليه حافظ وبحق والفجر إلى قوله إذا يسر وبحق
+والتين والزيتون إلى قوله تقويم وبحرمة البيت الحرام والبيت المقدس وبحرمة أنبيائك وأصفيائك
+وعبادك الصالحين يا رب العالمين يا خير الناصرين ويا مجيب السائلين ويا قاضي الحاجات ويا مجيب
+الدعوات ويا مقيل العثرات ويا ولي الحسنات ويا دافع البليات ويا غافر السيئات وكاشف الكربات
+اللهم إني أسألك لكرمك وبلغني زيارة قبر نبيك محمد صلى الله عليه وسلم وسخر لي جميع خلقك
+ولين لي قلوبهم وأرواحهم بالمحبة والمودة والعطف لي ويسر لي رزقي وهون علي كل عسير بحرمة يس
+والقرآن الحكيم واقض عني ديني وفرج عني كربي وأعطني من خزائنك الواسعة إنما أمره إذا
+أراد شيئاً أن يقول له كن فيكون وبحق سورة يس إلى المرسلين وبكررها سبعاً وفوض أمري إلى
+الله الآية سبعاً والصلاة على النبي صلى الله عليه وسلم عشراً وتقول اللهم سخر لي جميع خلقك ولين لي
+قلوبهم وأرواحهم بحرمة سورة يس ونفس كربي وأعطني من خزائنك الواسعة إنما أمره إذا أراد
+شيئاً أن يقول له كن فيكون إلى آخرها وبحق سورة يس وبكرر لفظ يس سبعاً ويقول واضرب لهم
+مثلاً إلى قوله البلاغ المبين ويقول ما تقدم من الآية والصلاة على النبي وتقول قالوا إنا تطيرنا بكم إلى
+قوله فاسمعون اللهم إني أسألك يا إله الأولين والآخرين أن تسخر لي جميع خلقك وهون علي كل
+عسير وتقول وأفوض أمري إلى الله ٧ والصلاة على النبي عشراً وتقول قيل ادخل الجنة إلى قوله
+تعالى إن أنتم إلا في ضلال مبين اللهم إني أسألك يا إله الأولين والآخرين أن تقضي عني ديني وتفرج
+همي وغمي وأعطني من خزائنك الواسعة يا مسخر سخر لي رزقي وهون علي عسير ولين لي قلوب
+عبادك كألينت الحديد لداود عليه السلام اللهم سخر لي خدام هذه السورة يقضوا حاجتي وارزقني
+زيارة قبر نبيك محمد صلى الله عليه وسلم وتقول ويقولون متى هذا الوعد إن كنتم صادقين إلى قوله
+سلام قولاً من رب رحيم وتقول سيدي السلام عليك مني انصرني وبيدك سمعي وبصري وقلبي فلك
+جسمي وشرفت ضيمي ورفعت ذكري وأعطيت قدري تباركت يا نوار الأنوار واهب الأعمار
+وتنزهت في سموك عن سمات المحدثات وعلت رتبتك عن طرق النقص والآيات تشهد بذلك
+الأرضون والسموات لك الحمد الأرفع والجناب الأوسع والعز الأقنع سبوح قدوس رب الملائكة
+والروح منور الصياصي المظلمة والغواسق ومنقذ الغرقى من بحر الهلاك والهول أعوذ بك من شر
+غاسق
+
+**English:**
+— ١٥٤ —
+Your truth and the light of Your face, and by the truth of Your prophets and the messengers and the near angels, and by the truth of Surat Yasin and the Wise Qur’an, and by the truth of Alif Lam Mim, that is the Book, there is no doubt in it, a guidance for the Godfearing; Alif Lam Mim, Allah, there is no god except Him, the Living, the Self-Subsisting; and by the truth of Alif Lam Mim Sad, and Ra, and Kaf Ha Ya ‘Ayn Sad, and Ha Mim ‘Ayn Sin Qaf, and Ha Mim, and the Manifest Book; and by the truth of the Qur’an, possessor of the Remembrance; and by the truth of Qaf, and the Glorious Qur’an; and by the truth of “By the Mount” and a Book inscribed, to His saying, and the overflowing sea, and the Pen and what they inscribe; and by the truth of the عظیم Qur’an, concerning which You said, and You are the most truthful of those who say, and there was sent down from the Qur’an that which is a healing and a mercy for the believers; and by Your great beautiful names; and by the truth of the عظیم Throne and the Kursi and the Tablet and the Pen; and by the truth of Gabriel and Michael and Israfil and Azrael and the bearers of the Throne and the Kursi and the near angels, upon our Prophet, upon them be the prayers and peace; and by the truth of the heavens and the earths and what is in them; and by the moving stars; and by the heaven of constellations, to His saying, and witnessed; and by the heaven and the night-comer, to His saying, over it is a guardian; and by the truth of “By the dawn,” to His saying, when it breathes; and by the truth of “By the fig and the olive,” to His saying, stature; and by the sanctity of the Sacred House and the Holy House, and by the sanctity of Your prophets and Your chosen ones and Your righteous servants, O Lord of the worlds, O best of helpers, and O Answerer of the askers, and O Judge of needs, and O Answerer of prayers, and O Reliever of slips, and O Guardian of good deeds, and O Repeller of afflictions, and O Forgiver of evil deeds, and Uncoverer of distresses. O Allah, I ask You for Your generosity and bring me to the visitation of the grave of Your Prophet Muhammad, صلى الله عليه وسلم, and subjugate for me all Your creation, and soften for me their hearts and their spirits with love and affection and tenderness toward me, and make easy for me my provision, and make every difficult thing easy for me by the sanctity of Yasin and the Wise Qur’an, and settle my debt for me, and relieve my distress from me, and give me from Your vast خزائن. His command, when He wills a thing, is only that He says to it, “Be,” and it is. And by the truth of Surat Yasin to the messengers, and repeat it seven times, and “I entrust my affair to Allah” the verse seven times, and the الصلاة upon the Prophet, صلى الله عليه وسلم, ten times, and you say: O Allah, subjugate for me all Your creation and soften for me their hearts and their spirits by the sanctity of Surat Yasin, and remove my distress, and give me from Your vast خزائن. His command, when He wills a thing, is only that He says to it, “Be,” and it is, to its end. And by the truth of Surat Yasin, and repeat the لفظ of Yasin seven times, and he says: And strike for them a parable, to His saying, the clear delivery, and he says what preceded from the verse and the الصلاة upon the Prophet, and you say: They said, “Indeed we have taken ill omen from you,” to His saying, “so hear me,” O Allah, I ask You, O God of the first and the last, that You subjugate for me all Your creation and make every difficult thing easy for me. And you say: And I entrust my affair to Allah 7, and the الصلاة upon the Prophet ten times, and you say: It was said, “Enter Paradise,” to His saying, “You are only in manifest error.” O Allah, I ask You, O God of the first and the last, that You settle my debt for me and relieve my worry and my grief and give me from Your vast خزائن. O subjugator, subjugate for me my provision and make difficult things easy for me and soften for me the hearts of Your servants as You softened iron for David, عليه السلام. O Allah, subjugate for me the servants of this surah, that they fulfill my need, and provide for me the visitation of the grave of Your Prophet Muhammad, صلى الله عليه وسلم. And you say: And they say, “When is this promise, if you are truthful?” to His saying, “Peace, a word from a Merciful Lord.” And you say: My master, peace be upon you from me; support me, and in Your hand are my hearing and my sight and my heart, so to You belong my body. You have honored my humiliation and raised my remembrance and given my rank. Blessed are You, O Light of lights, Giver of lives. And You are exalted in Your sublimity above the marks of originated things, and Your rank is exalted above the ways of deficiency, and the signs bear witness to that, the earths and the heavens. To You is the loftiest praise and the widest presence and the most fitting might. All-Glorious, All-Holy, Lord of the angels and the Spirit, illuminator of the dark fortresses and the dark nights, and deliverer of the drowned from the sea of destruction and terror. I seek refuge in You from the evil of a darkening one.
+
+---
+## Page 261
+
+**Arabic (original):**
+-- ٢٥٥ --
+غاسق إذا وقب وحاسد إذا حسد وارتقب، أناجيك مناجاة عبد كسير يعلم أنك تسمع ولا يطمع أنك تجيب،
+وأنا واقف منتظر لا أجد من دونك وكيلاً، أسألك اللهم بالاسم الذي أفضت به الخيرات وأنزلت به
+البركات وأخرجت به من الظلمات وفتحت به سكر الإرادات، أسألك أن تصلي وتسلم على سيدنا
+محمد وأن تفيض على ملابس أنوارك مارد أبصار الظالمين والحاسدين حاسرة وأيديهم خاسرة وأجمل
+حظي منك إشراقاً يجلولي نعمتي ويكشف لي عن كل ستر، يا نور كل شيء وهداه، أنت الذي فلقت
+الظلمات بنورك وكل نور من نورك، يا كاشف كل مستور وإليك ترجع الأمور وبك تدفع الشرور،
+يا حي يا قيوم برحمتك يا أرحم الراحمين، بك أستغيث ومن عذابك أستجير، اللهم إني أعوذ بك من شرورهم،
+إن تشأ نزل عليهم من السماء آية إلى قوله خاضعين، اللهم يا منزل السحاب وهازم الأحزاب اهزم أعدائي
+وجندهم وأتباعهم وانصرني عليهم، اللهم أرني حرمك بكرمك وبلغني زيارة قبر نبيك محمد صلى الله
+عليه وسلم وسخر لي خلقك ولين لي قلوبهم وأرواحهم، اللهم سهل علي كل عسير واجعل العسير علي
+سهلاً يسيراً، اللهم انصرني نصراً عزيزاً وافتح لي فتحاً مبيناً وارزقني حلالاً طيباً مباركاً بحق سورة
+يس والقرآن الحكيم يا رب العالمين، وتقول وأفوض أمري إلى الله وصلاة على النبي عشراً، وتقول
+وامتازوا اليوم أيها المجرمون إلى قوله صراط مستقيم، اللهم إني أسألك يا إله الأولين والآخرين
+مفرج فرج لي أوف ديني وفرج كربي وأعطني من خزائنك ويسر لي جميع خدامك وهون علي
+كل عسير، وتقول ما تقدم وما تأخر منكم جبلاً كثيراً إلى قوله لا يرجعون، وتقول ما تقدم من الآية
+والصلاة على النبي صلى الله عليه وسلم، وتقول ومن نعمره ننكسه في الخلق أفلا يعقلون إلى قوله وبحق
+القول على الكافرين، اللهم إني أسألك يا إله الأولين والآخرين أسألك أن تسخر لي جميع خلقك
+بالمحبة والمودة وأن ترزقني رزقاً حلالاً طيباً وأن تسهل علي كل عسير وأن تجعل العسير علي يسيراً، وتقول
+ما تقدم من الآية والصلاة على النبي، وتقول لينذر من كان حياً إلى قوله خصيم مبين، اللهم إني أسألك
+يا إله الأولين والآخرين أن تسخر لي رزقي وتسهل علي كل عسير، وتقول وأفوض أمري [إلى] الله
+سبعاً والصلاة على النبي عشراً، وتقول وضرب لنا مثلاً ونسي خلقه إلى آخرها فسبحان الذي بيده
+ملكوت كل شيء وإليه ترجعون، وتقول بسم الله الرحمن الرحيم اللهم إني أسألك بحق سورة يس
+والقرآن الحكيم وبكرها سبعاً، وتقول بآئنا المرسلين وهادي المضلين إلى صراط مستقيم ما أملك
+على الظالمين ويا مبيد الفاسقين وكل لديه محضر، يا من يحيي الموتى ويكتب ما قدموا وآثارهم وكل
+شيء أحصيناه في إمام مبين، يا من يحيي الأرض بعد موتها ويخرج منه حباً فلون، يا من جعل فيها
+جنات من نخيل وأعناب وفجرنا فيها من العيون إلى قوله أفلا يشكرون، يا من يسبح له كل لسان،
+يا من خلق الأزواج كلها مما تنبت الأرض ومن أنفسهم ومما لا يعلمون، يا من جعل الشمس تجري
+لمستقرها ذلك تقدير العزيز العليم، يا من قدر القمر منازل حتى عاد كالعرجون القديم، يا من خلق لنا
+أنعاماً ذللها لهم فمنها ركوبهم ومنها يأكلون، ويا من خلق الإنسان من نطفة فإذا هو خصيم مبين، يا من
+يحيي العظام وهي رميم، يا من أنشأها أول مرة وهو بكل خلق عليم، يا من جعل من الشجر الأخضر ناراً
+فإذا أنتم منه توقدون، يا من خلق السموات والأرض بقادر على أن يخلق مثلهم بخلاق يا عليم، يا من إذا
+
+**English:**
+-- 255 --
+Dark, when it overcasts, and an envier when he envies, and watch; I converse with You the converse of a broken servant who knows that You hear and does not covet that You answer, and I am standing waiting, I find no guardian besides You. I ask You, O Allah, by the Name by which You caused the good things to overflow and by which You sent down the blessings and by which You brought out from the darknesses and by which You opened the intoxication of the wills. I ask You that You bless and grant peace upon our master Muhammad, and that You pour upon the garments of Your lights a rout of the eyes of the الظالمين and the الحاسدين, bare, and their hands defeated, and the most beautiful portion of my lot from You, a radiance that reveals my blessing and uncovers for me every veil. O Light of everything and its guidance, You are the One who split the darknesses with Your light, and every light is from Your light. O Uncoverer of every concealed thing, and to You the affairs return, and by You the evils are repelled. O Living, O Self-Subsisting, by Your mercy, O Most Merciful of the merciful, by You I seek succor and from Your punishment I seek refuge. O Allah, I seek refuge in You from their evils. If You will, there descends upon them from the heaven a sign, to His saying: humbled. O Allah, O Sender down of the clouds and Defeater of the parties, defeat my enemies and their troops and their followers and grant me victory over them. O Allah, show me Your sanctuary by Your generosity and bring me to the visitation of the grave of Your Prophet Muhammad, may Allah bless him and grant him peace, and subdue Your creation for me and soften for me their hearts and their spirits. O Allah, make easy for me every difficult thing and make the difficult for me easy, easy. O Allah, grant me a mighty victory and open for me a clear opening and provide me with lawful, good, blessed provision by the right of Surat Yasin and the Wise Qur’an, O Lord of the worlds. And you say: And I entrust my affair to Allah, and prayer upon the Prophet ten times. And you say: And be distinguished today, O criminals, to His saying: straight path. O Allah, I ask You, O God of the first and the last, Reliever, relieve for me, pay off my debt, and relieve my distress, and give me from Your treasuries, and make easy for me all Your servants, and make easy for me every difficult thing. And you say: what has preceded and what has followed from you, a great multitude, to His saying: they do not return. And you say what preceded from the verse and الصلاة upon the Prophet, may Allah bless him and grant him peace. And you say: And whomever We grant long life We reverse him in creation; do they not reason? to His saying: and by the truth of the word against the disbelievers. O Allah, I ask You, O God of the first and the last, I ask You to subdue for me all Your creation with love and affection, and to provide me with lawful, good provision, and to make easy for me every difficult thing, and to make the difficult for me easy. And you say what preceded from the verse and الصلاة upon the Prophet. And you say: that he may warn whoever is alive, to His saying: clear adversary. O Allah, I ask You, O God of the first and the last, to subdue my provision for me and make easy for me every difficult thing. And you say: And I entrust my affair [to] Allah seven times, and الصلاة upon the Prophet ten times. And you say: And they struck for Us a parable and forgot his creation, to its end; so glory be to Him in Whose hand is the dominion of everything, and to Him you are returned. And you say: In the name of Allah, the Merciful, the Compassionate. O Allah, I ask You by the right of Surat Yasin and the Wise Qur’an, and its beginning seven times. And you say: with our messengers and the guide of the misguided to a straight path, I have no power over the الظالمين, and O destroyer of the wicked, and everyone with Him is present. O You who gives life to the dead and writes what they have sent ahead and their آثار, and everything We have enumerated in a clear Imam. O You who gives life to the earth after its death and brings forth from it grain, then colors. O You who made therein gardens of palms and grapes, and We caused to gush forth therein springs, to His saying: do they not give thanks? O You to Whom every tongue glorifies. O You who created all pairs from what the earth grows and from themselves and from what they do not know. O You who made the sun run to its resting place; that is the determination of the Mighty, the Knowing. O You who determined for the moon stations until it returned like the old palm-stalk. O You who created for us cattle, subdued for them, so from them is their riding and from them they eat. And O You who created man from a drop, and behold, he is a clear adversary. O You who gives life to bones while they are decayed. O You who originated them the first time, and He is, of every creation, Knowing. O You who made from the green tree fire, and then from it you kindle. O You who created the heavens and the earth, able to create the like of them; no creator, O Knowing. O You who, if
+
+---
+
+---
+## Page 262
+
+**Arabic (original):**
+— ٢٥٦ —
+أراد شيئاً أن يقول له كن فيكون إلى آخرها ويقول هذا الدعاء اللهم لك الحمد إلهي لا إله إلا أنت ولك
+الحمد إلهي أما لك الملك لا إله إلا أنت ولك الحمد إلهي لا أحد لأنت ولك الحمد إلهي لا سلطان إلا أنت ولك الحمد
+إلهي لا واحد لأنت ولك الحمد إلهي لا خالق إلا أنت ولك الحمد إلهي لا إله إلا أنت ولك الحمد إلهي
+لا برهان إلا لك. لك الحمد إلهي لا جبار إلا أنت فلك الحمد إلهي لا قهار إلا أنت فلك الحمد إلهي لا رزاق إلا
+أنت فلك الحمد إلهي لا قادر إلا أنت ولك الحمد إلهي لا سميع إلا أنت ولك الحمد إلهي لا ناصر إلا أنت ولك
+الحمد إلهي الكافي لهدى ولك الحمد إلهي أنت خير الفاتحين ولك الحمد إلهي أنت مقلب القلوب ولك الحمد
+إلهي أنت إله السموات والأرض ولك الحمد إلهي أنت كاشف الكربات ولك الحمد إلهي أنت الرحمن
+الرحيم ولك الحمد إلهي أنت أحسن الخالقين ولك الحمد إلهي أنت خير الغافرين ولك الحمد إلهي أنت خير
+الناصرين فلك الحمد إلهي أنت خير الرازقين ولك الحمد إلهي أنت الكافي الشافي ولك الحمد إلهي أنت
+المعطي المبدئ ولك الحمد إلهي أنت تولج الليل في النهار وتولج النهار في الليل ولك الحمد إلهي أنت
+القريب المجيب ولك الحمد إلهي أنت التواب الوهاب ولك الحمد إلهي أنت رب الأرباب ولك الحمد
+إلهي أنت مسبب الأسباب ولك الحمد إلهي أنت سيد السادات ولك الحمد إلهي أنت رفيع الدرجات
+ولك الحمد إلهي أنت فاطر السموات ولك الحمد إلهي أنت الباعث الوارث ولك الحمد إلهي أنت غياث
+المستغيثين ولك الحمد إلهي أنت الخالق الجبار ولك الحمد إلهي أنت الرشيد ولك الحمد إلهي أنت الصبور
+القديم ولك الحمد إلهي أنت القاهر القهار، ولك الحمد إلهي أنت الأحد الصمد ولك الحمد إلهي أنت الشكور
+المجيد ولك الحمد إلهي أنت الواجد ولك الحمد إلهي أنت النور الهادي ولك الحمد إلهي أنت الحكم
+العدل ولك الحمد إلهي أنت المهيمن العزيز الجبار ولك الحمد إلهي أنت المتكبر ولك الحمد إلهي أنت
+الخالق البارئ إلى آخر السورة فإذا عزمت فتوكل على الله إن الله يحب المتوكلين ومن يتوكل على
+الله فهو حسبه لا آية إلى قوله قدراً اللهم اعطف علي قلوب عبادك من أولاد آدم وبنات حواء من
+كل ذكر وأنثى وحر وعبد وصغير وكبير بالمحبة الدائمة والمودة والرأفة والرحمة واجلب لي قلوبهم
+واحفظني من شر ما يضمرون ويدبرون لي وادفع عني مكرهم وشرهم اللهم بحرمة ما تلوته
+أسألك أن ترني حرمك بكرمك وبلغني زيارة قرينك محمد صلى الله عليه وسلم يا قاضي الحاجات
+يا مجيب الدعوات يا الله يا رب العالمين يا رحمن يا رحيم يا سلام يا مؤمن يا مهيمن يا عزيز يا جبار يا متكبر
+يا رازق يا فتاح يا عليم يا باسط يا رافع يا معز يا مذل يا سميع يا بصير يا لطيف يا عليم يا علي يا عظيم يا شكور
+يا حفيظ يا مقيت يا حسيب يا جليل يا كريم يا رقيب يا مجيب يا واسع يا سميع يا جامع يا غني يا مغني يا باقي
+يا نور كل شيء وهداه أنت الذي فلقت الظلمات بنورك يا علي الشامخ فوق كل شيء علو ارتفاعه اللهم
+إني أسألك يا الله أن تسخر لي خدام هذه السورة الشريفة يكونوا لي عوناً في كل ما أريد وأطلب بحقكم
+عليكم وطاعتها لديكم وتوكلوا وأطيعوا وأجيبوا بحق ما فيها من الأسرار ومن تخلف منكم أحرق
+بالنار هيا العجل الوحا الساعة ومن لا يجب داعي الله فليس بمعجز في الأرض الآية أجيبوا وتوكلوا
+فيما آمركم به بحق هذه السورة الشريفة وحرمتها لديكم هيا الوحا العجل الساعة (تمت الدعوة
+المباركة) فاعرف قدر ما صار إليك واحفظها وصنها من غير أهلها فهي من الكبريت الأحمر
+وتمت
+
+**English:**
+— 256 —
+He wills a thing, that He says to it, “Be,” and it is, to its end. And he says this supplication: O Allah, to You belongs praise; my God, there is no god but You, and to You belongs praise; my God, is not the dominion Yours? There is no god but You, and to You belongs praise; my God, there is none, for You are the One, and to You belongs praise; my God, there is no authority except You, and to You belongs praise; my God, there is no one, for You are the One, and to You belongs praise; my God, there is no creator except You, and to You belongs praise; my God, there is no god but You, and to You belongs praise; my God, there is no proof except for You. To You belongs praise, my God, there is no Compeller except You, so to You belongs praise, my God, there is no Subduer except You, so to You belongs praise, my God, there is no Provider except You, so to You belongs praise, my God, there is no Able except You, and to You belongs praise, my God, there is no Hearer except You, and to You belongs praise, my God, there is no Helper except You, and to You belongs praise, my God, the Sufficient for guidance, and to You belongs praise, my God, You are the Best of openers, and to You belongs praise, my God, You are the Turner of hearts, and to You belongs praise, my God, You are the God of the heavens and the earth, and to You belongs praise, my God, You are the Remover of distresses, and to You belongs praise, my God, You are the Merciful, the Compassionate, and to You belongs praise, my God, You are the Best of creators, and to You belongs praise, my God, You are the Best of forgivers, and to You belongs praise, my God, You are the Best of helpers, so to You belongs praise, my God, You are the Best of providers, and to You belongs praise, my God, You are the Sufficient, the Healer, and to You belongs praise, my God, You are the Giver, the Originator, and to You belongs praise, my God, You cause the night to enter into the day and cause the day to enter into the night, and to You belongs praise, my God, You are the Near, the Answerer, and to You belongs praise, my God, You are the Oft-Returning, the Bestower, and to You belongs praise, my God, You are the Lord of lords, and to You belongs praise, my God, You are the Causer of causes, and to You belongs praise, my God, You are the Master of masters, and to You belongs praise, my God, You are the Exalted of degrees, and to You belongs praise, my God, You are the Originator of the heavens, and to You belongs praise, my God, You are the Resurrector, the Inheritor, and to You belongs praise, my God, You are the Aid of those who seek aid, and to You belongs praise, my God, You are the Creator, the Compeller, and to You belongs praise, my God, You are the Rightly Guided, and to You belongs praise, my God, You are the Patient, the Ancient, and to You belongs praise, my God, You are the Subduer, the All-Subduing, and to You belongs praise, my God, You are the One, the Self-Sufficient, and to You belongs praise, my God, You are the Thankful, the Glorious, and to You belongs praise, my God, You are the Finder, and to You belongs praise, my God, You are the Light, the Guide, and to You belongs praise, my God, You are the Judge, the Just, and to You belongs praise, my God, You are the Guardian, the Mighty, the Compeller, and to You belongs praise, my God, You are the Proud, and to You belongs praise, my God, You are the Creator, the Maker, to the end of the surah. So when you resolve, then rely upon Allah; surely Allah loves those who rely. And whoever relies upon Allah, then He is sufficient for him. No verse to His saying: a decree. O Allah, incline toward me the hearts of Your servants from the children of Adam and the daughters of Eve, from every male and female, free and slave, small and great, with lasting love and affection and tenderness and mercy, and bring me their hearts, and preserve me from the evil of what they conceal and devise against me, and repel from me their plotting and their evil. O Allah, by the sanctity of what I have recited, I ask You to show me Your sanctuary by Your generosity and bring me to the visitation of Your companion Muhammad, may Allah bless him and grant him peace. O fulfiller of needs, O answerer of prayers, O Allah, O Lord of the worlds, O Merciful, O Compassionate, O Peace, O Believer, O Guardian, O Mighty, O Compeller, O Proud, O Provider, O Opener, O Knowing, O Extender, O Exalter, O Abaser, O Hearer, O Seer, O Gentle, O Knowing, O High, O Magnificent, O Thankful, O Preserver, O Sustainer, O Reckoner, O Majestic, O Generous, O Watchful, O Answerer, O Vast, O Hearer, O Gatherer, O Rich, O Enricher, O Everlasting. O Light of everything and its guidance, You are the One who split the darknesses with Your light, O High, towering above everything, exalted in its height. O Allah, I ask You, O Allah, to subdue for me the servants of this noble surah, that they be for me a help in everything I desire and seek, by your right over them and its obedience with you: and obey and answer by the right of what is in it of secrets. And whoever of you lags behind, burn him with fire. Come, hurry, the hour. And whoever does not answer the caller of Allah is not one who can frustrate in the earth, the verse. Answer and obey in what I command you by the right of this noble surah and its sanctity with you. Come, hurry, the hour. (The blessed supplication is completed.) So know the value of what has come to you, and preserve it and guard it from those not fit for it, for it is from the red الكبريت. And it is completed.
+
+---
+
+---
+## Page 263
+
+**Arabic (original):**
+- ٢٥٧ -
+
+واتق يا أخا الشهب واتق واعلم أن المتقين * وقال رسول الله صلى الله عليه وسلم يس لما قرئت له
+(وقال) عليه الصلاة والسلام من قرأ يس لوجه الله تعالى غفر له ما تقدم من ذنبه وما تأخر
+(قال) صلى الله عليه وسلم أسرار الله تعالى في سورة يس وأسرار يس في أربع آيات منها
+وهي قوله تعالى إن أصحاب الجنة إلى قوله تعالى من رب رحيم فتأمل هذه الأسرار وتدبرها تظفر بالمراد
+والله الموفق (وهذه) دعوة أخرى لسورة يس وفضلها ومنافعها وأسرارها تقول بسم الله الرحمن
+الرحيم يس ٧ مرات والقرآن الحكيم إلى قوله تعالى سبحان المنفس عن كل مديون
+سبحان المخلص لكل مسجون سبحان العالم بكل مكنون سبحان من خزائنه ملكه بين الكاف والنون
+سبحان من إذا أراد شيئاً أن يقول له كن فيكون إلى آخرها سبحانه ٣ وتعالى سبحان ربك رب
+العزة عما يصفون إلى آخرها ويقول بسم الله الرحمن الرحيم الحمد لله رب العالمين إلى قوله إياك
+نستعين ويسأل حاجته وتقول سبع مرات يا هادي المضلين لا هادي غيرك اهدنا الصراط المستقيم
+صراط الذين أنعمت عليهم وتقول اللهم سخر لي الملك والملكوت لا إله إلا أنت يا ذا الجلال والإكرام
+يا حي يا قيوم بك أستغيث أغثني أربعين مرة ويدعو يستجاب له في الحال وتقول ٣٦
+يا مجيب أجب دعوتي واقض حاجتي يا أرحم الراحمين غير المغضوب عليهم ولا الضالين وتقول اللهم
+اجعلني من الذين أنعمت عليهم غير المغضوب عليهم وملكتهم أسرار أسمائك يارب يا رحمن يا رحيم ثم
+تقول واضرب لهم مثلاً أصحاب القرية إلى قوله تعالى وما علينا إلا البلاغ المبين وتقول سبحان المفرج
+عن كل محزون سبحان المنفس عن كل مسجون سبحان الميسر لكل مديون سبحان المخلص لكل
+مسجون سبحان العالم بكل مكنون سبحان من خزائنه ملكه بين الكاف والنون سبحان من إذا أراد
+شيئاً إلى آخرها سبحانه ٣ سبحان ربك رب العزة إلى آخرها بسم الله الرحمن الرحيم الحمد لله رب
+العالمين إلى قوله أنعمت عليهم ٣ مرات إياك نعبد وإياك نستعين إلى أنعمت
+عليهم ويسأل حاجته وتقول سبعاً يا هادي المضلين لا هادي غيرك اهدنا الصراط المستقيم صراط الذين
+أنعمت عليهم اللهم اجعلني من الذين أنعمت عليهم وملكتهم أسرار أسمائك واجعلني يارب يا رحمن
+يا رحيم من الذين يخشون ربهم بالغيب فبشرهم بمغفرة وأجر كريم اللهم بشرني يوم لقائك بمغفرة
+وأجر كريم ويسأل حاجته يستجاب له في الوقت غير المغضوب عليهم ولا الضالين يا آمين سبعاً وتقول
+أربع مرات اللهم إني أسألك باسمك العظيم الأعظم ونبيك الأكرم المصطفى صلى الله عليه وسلم أن
+تغفر لي ما أنا أهله إنك أهل التقوى وأهل المغفرة ثم يسأل حاجته يستجاب له في الحال ثم تقول اللهم
+سخر لي الملك والملكوت لا إله إلا أنت يا ذا الجلال والإكرام برحمتك أستغيث يا مغيث أغثني ٤
+مرات ويدعو يستجاب له في الحال ثم يقول قالوا إنا تطيرنا بكم إلى قوله تعالى عذاب أليم * وفي هذه
+الآية سر عظيم هلاك من شئت وهو أن تصور صورته في الأرض وتأخذ في يدك سكيناً بولاذياً
+نصل وتقرأ الآية المذكورة ١٧ مرة وتضرب على الصورة المذكورة ترى عجباً والله أعلم ثم
+تقول اللهم احفظني من بلاء الدنيا وعذاب الآخرة اللهم لا تذل اسمي ولا تغير جسمي ولا تفرق جسمي
+وبين نبيك محمد صلى الله عليه وسلم خلق كل دابة من ماء إلى قوله إن الله على كل شيء قدير ثم
+
+**English:**
+- 257 -
+
+And fear, O brother of the sparks, and fear, and know that the Godfearing * And the Messenger of Allah, may Allah bless him and grant him peace, said: Yasin, when it was recited for him. (And he) peace be upon him said: Whoever recites Yasin for the Face of Allah Most High, his past sin and his future sin are forgiven for him. (He) may Allah bless him and grant him peace said: The secrets of Allah Most High are in Surat Yasin, and the secrets of Yasin are in four verses of it, namely His saying, Most High: Indeed, the companions of Paradise, to His saying, Most High: from a Merciful Lord. So contemplate these secrets and reflect upon them; you will attain the desired. And Allah is the One who grants success. (And this is) another supplication for Surat Yasin and its virtue and its benefits and its secrets. You say: In the name of Allah, the Merciful, the Compassionate, Yasin 7 times, and the Wise Qur’an, to His saying, Most High: Glory be to the One who relieves every debtor, glory be to the One who frees every prisoner, glory be to the One who knows every hidden thing, glory be to the One in whose treasuries is His dominion between Kaf and Nun, glory be to the One who, when He wills a thing, says to it, “Be,” and it is, to its end, glory be to Him 3, and exalted be He, glory be to the Lord, your Lord of might, above what they describe, to its end. And he says: In the name of Allah, the Merciful, the Compassionate, praise be to Allah, Lord of the worlds, to His saying: You alone we seek help from, and he asks his need. And you say seven times: O Guide of the misguided, no guide is there other than You, guide us to the straight path, the path of those upon whom You have bestowed favor. And you say: O Allah, subdue for me the dominion and the ملكوت, there is no god but You, O Possessor of majesty and honor, O Living, O Self-Subsisting, by You I seek succor, succor me forty times, and he supplicates; it is answered for him immediately. And you say 36: O Answerer, answer my supplication and fulfill my need, O Most Merciful of the merciful, not those upon whom is wrath nor those who are astray. And you say: O Allah, make me among those upon whom You have bestowed favor, not those upon whom is wrath, and You have made them possessors of the secrets of Your names, my Lord, O Merciful, O Compassionate. Then you say: And strike for them a parable, the companions of the town, to His saying, Most High: and nothing is upon us except the clear delivery. And you say: Glory be to the Reliever of every sorrowful one, glory be to the One who frees every prisoner, glory be to the One who makes easy for every debtor, glory be to the One who frees every prisoner, glory be to the One who knows every hidden thing, glory be to the One in whose treasuries is His dominion between Kaf and Nun, glory be to the One who, when He wills a thing, to its end, glory be to Him 3, glory be to the Lord, your Lord of might, to its end. In the name of Allah, the Merciful, the Compassionate, praise be to Allah, Lord of the worlds, to His saying: upon those upon whom You have bestowed favor 3 times, You alone we worship and You alone we seek help from, to upon those upon whom You have bestowed favor. And he asks his need. And you say seven times: O Guide of the misguided, no guide is there other than You, guide us to the straight path, the path of those upon whom You have bestowed favor. O Allah, make me among those upon whom You have bestowed favor and whom You have made possessors of the secrets of Your names, and make me, my Lord, O Merciful, O Compassionate, among those who fear their Lord in the unseen, so give them good tidings of forgiveness and a noble reward. O Allah, give me good tidings on the Day of Your meeting with forgiveness and a noble reward. And he asks his need; it is answered for him in the moment, not those upon whom is wrath nor those who are astray, O Amen, seven times. And you say four times: O Allah, I ask You by Your great, greatest Name and by Your most noble Prophet, the chosen one, may Allah bless him and grant him peace, that You forgive me what I am worthy of. Indeed, You are worthy of Godfearing and worthy of forgiveness. Then he asks his need; it is answered for him immediately. Then you say: O Allah, subdue for me the dominion and the ملكوت, there is no god but You, O Possessor of majesty and honor, by Your mercy I seek succor, O Succorer, succor me 4 times, and he supplicates; it is answered for him immediately. Then he says: They said, “We deem you an evil omen,” to His saying, Most High: a painful punishment. * And in this verse is a tremendous secret, the destruction of whomsoever you wish, and it is that you depict his image on the ground and take in your hand a knife of بولاذ with a blade, and you recite the mentioned verse 17 times and strike upon the mentioned image; you will see wonders, and Allah knows best. Then you say: O Allah, preserve me from the affliction of the world and the punishment of the Hereafter. O Allah, do not abase my name, nor change my body, nor separate my body and between Your Prophet Muhammad, may Allah bless him and grant him peace. He created every creature from water, to His saying: surely Allah is over everything powerful. Then
+
+---
+_End of translation — 263 pages._
