@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 251 translated pages._
+_Auto-generated from 257 translated pages._
 
 ---
 ## Page 1
@@ -14391,4 +14391,396 @@ so that he does not cease from his door until what is other than him comes out f
 عمه [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?]
 
 ---
-_End of translation — 251 pages._
+## Page 252
+
+**Arabic (original):**
+— ٢٤٦ —
+
+وسريان وقيطرثى وهو حرف نارى وطبائعه حارة يابسة في الدرجة الثالثة وخواصه لتوقيف
+المراكب عن المسير في البحر وتوقيف المسافرة في البر عن السفر ٩ ق ق ق وق ق ق
+توقيف غيرهم يكتب في لوح من الرصاص في ساعة نحسة ( فقر بصواحتى حين وقفوهم انهم )
+وتدفن في الطريق ترى العجب والبخور لسان العصفور ورأس وطواط وهذه صورة ما تكتب
+[صورة طلسم]
+
+(فصل) إذا أردت أن يحبك إنسان وتثبت محبتك في قلبه إلى الممات ولا تغير أبداً فكتب هذه الأسماء
+في سبع ورقات بيض وتكتب معها اسمك واسم أم المطلوب واسم أمه وتحرق كل يوم واحدة
+وتكون الكتابة بقلم ريحان ويكون المداد معه شيء من المسك فإنك ترى العجب من إلقاء المحبة والمودة
+الأول ليوم الأحد عطفت قلب ٢٥٢ على بحق هذه الأسماء ٢١٢٣١١ × ٥١١٦٠٦٢٣٦
+[صورة طلسم]
+صحو كاس
+٩٣١ق٥٢
+الثاني ليوم الاثنين أحرقت قلب ٢٥٢ على محبة
+وألقيت بينهم المحبة والمودة بحق هذه الأسماء حان
+محل فه حط صه سحاعه فه منه فدحى الثالث ليوم الثلاثاء أحرقت قلب ٢٥٢ وأخذته وجذبته إلى
+محبة ٢٥٢ وأحرقته النار كما تحرق هذه الأسماء توكلوا [صورة طلسم]
+إخدام هذه الأسماء بما أمرتكم به يا العجل الوحا [صورة طلسم]
+الساعة بحق هذه الأسماء الرابع ليوم الأربعاء توكلوا بإخدام هذه الأسماء والقلفطر إت بإلقاء المحبة
+والمودة في قلب ٢٥٢ وحركوا روحانية إلى محبة ٢٥٢ لا يفارقه ليلا ولا نهارا ولا يعصى له أمرا ولا
+قولا ولا تخالف له أمرا بحق هذه الأسماء وحرمتها عليكم [صورة طلسم] الخامس
+ليوم الخميس توكلوا بإخدام هذه الأسماء بحق الملك الموكل عليكم الطائعين وأمره عصحامابل هطيل
+هطيل كل إحه عيل حلحل هههلليل كان السادس ليوم الجمعة توكلوا بإخدام هذه الأسماء بجلب
+وجذب قلب ٢٥٢ إلى محبة ٢٥٢ وألقوا بينهم الألفة والمودة بحق [صورة طلسم]
+هذه الأسماء السابع ليوم السبت توكلوا بإخدام الأسماء المباركة
+وحركوا روحانية المحبة والألفة بين ٢٥٢ وفلانة بنت فلانة بالمودة التامة الدائمة بمحبة فلان بن
+فلانة بحق هذه الأسماء [صورة طلسم] هله حمه
+عليكم وطاعتها لديكم [صورة طلسم]
+قوله تعالى وهو الذي
+أنشأكم من نفس واحدة فمستقر ومستودع قد فصلنا الآيات لقوم يفقهون هذه الآية الكريمة
+أدا
+
+**English:**
+— 246 —
+
+and Saryan and Qaytarthā, and it is a fiery letter, and its natures are hot and dry in the third degree, and its properties are for stopping
+the ships from proceeding in the sea and stopping the traveler on land from traveling ٩ ق ق ق وق ق ق
+stopping others; it is written on a tablet of lead in an unlucky hour ( فقر بصواحتى حين وقفوهم انهم )
+and it is buried in the road; you see the wondrous, and the incense is the tongue of the sparrow and the head of a bat, and this is the form of what is written
+[Grid content preserved as-is]
+[صورة طلسم]
+
+(Faṣl) If you desire that a person love you and that your love be fixed in his heart until death and never change at all, then write these names
+on seven white sheets, and write with them your name and the name of the mother of the sought one and the name of his mother, and burn one each day
+and the writing is to be with a basil pen, and the ink is to have with it something of musk, for you will see the wondrous from the casting of love and affection
+the first for Sunday: you bent the heart ٢٥٢ upon by these names ٢١٢٣١١ × ٥١١٦٠٦٢٣٦
+[Grid content preserved as-is]
+Ṣaḥw Kās
+٩٣١ق٥٢
+the second for Monday: you burned the heart ٢٥٢ upon love
+and you cast between them love and affection by the truth of these names ḥān
+maḥall fah ḥaṭ ṣah saḥāʿah fah minhu fadḥā the third for Tuesday: you burned the heart ٢٥٢ and took him and drew him to
+the love of ٢٥٢ and the Fire burned him as these names burn; trust [Grid content preserved as-is]
+the servants of these names with that which I have commanded you, O the calf, al-waḥā [Grid content preserved as-is]
+the hour by the truth of these names the fourth for Wednesday: trust in the serving of these names and al-qalfaṭr it in casting love
+and affection into the heart of ٢٥٢ and move a Ruhāniyyah toward the love of ٢٥٢; it does not leave him by night nor by day, and no command is disobeyed for him nor
+word, and no command is opposed to him by the truth of these names and their sanctity upon you [Grid content preserved as-is] the fifth
+for Thursday: trust in the serving of these names by the truth of the king entrusted over you, the obedient ones, and his command ʿaṣḥāmābal haṭīl
+haṭīl every iḥeh ʿayl ḥalḥal hēhēllīl kān the sixth for Friday: trust in the serving of these names by bringing
+and drawing the heart of ٢٥٢ to the love of ٢٥٢, and cast between them intimacy and affection by the truth of [Grid content preserved as-is]
+these names the seventh for Saturday: trust in the serving of the blessed names
+and move the Ruhāniyyah of love and intimacy between ٢٥٢ and so-and-so daughter of so-and-so with complete, lasting affection, with the love of so-and-so son of
+so-and-so by the truth of these names [Grid content preserved as-is] halah ḥamah
+upon you and her obedience to you [Grid content preserved as-is]
+His تعالى saying, and He it is who
+produced you from a single soul, then a place of settlement and a place of deposit; We have indeed detailed the signs for a people who understand this noble verse
+adā
+
+---
+## Page 253
+
+**Arabic (original):**
+— ٢٤٧ —
+إذا رسمت في رق نقي وحملته معك على اسم إنسان فإنه لا يقدر يفارقك مادام الرق معك وهذه صورته
+
+( فصل لرد الآبق ولو كان في السلاسل والأغلال ) يكتب هذا الوفق الآتي بيانه ثم تأخذ
+خنفساء إن كان للذكر فإن كان للأنثى فأنثى وتربط له في وسط الدائرة بخيط رفيع
+وتدق المسمار في قطب الدائرة وتربط الخنفساء إليه فكلما دارت الخنفساء تطلب الخلاص كذلك يدور
+الآبق ويرجع إلى المكان الذي فيه هذا الطلسم ولو كان في السلاسل سبب الله له الرجوع ببركة
+هذا الطلسم المبارك في تحت الشكل وهو الذي أنما كم * وإذا أردت أن تنوم من شئت من مريض
+أو من به وجع مؤلم وغير ذلك فاكتب هذه الأسماء وضعها تحت عمامته أو تحت وسادته فإنه ينام
+من وقته لا يستيقظ حتى ترفع الأسماء من تحت رأسه وهذه الأسماء تنفع للأطفال الذين يكثرون البكاء
+وهي هذه ولبثوا في كهفهم ثلاث مائة تسعا وازدادوا تسعا وتحسبهم أيقاظا وهم رقود ونقلبهم ذات
+اليمين وذات الشمال هل تحس منهم من أحد أو تسمع لهم ركزا
+
+فأستيقظوا المحبة [?]
+ما عوج بك يا إبراهيم
+إنه على رجعه لقادر
+أرجسوا
+فلان بن فلان
+إلى هذا
+المكان
+إنه على رجعه لقادر
+أيضا ما سكتوا منها
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+
+**English:**
+— 247 —
+If it is drawn on a pure parchment and you carry it with you in the name of a person, then he is not able to part from you so long as the parchment is with you, and this is its form
+
+(Faṣl for the return of the runaway, even if he is in chains and fetters) write this square, the explanation of which follows, then take
+a beetle, if it is for the male then a male, and if for the female then a female, and tie it for him in the middle of the circle with a thin thread
+and drive the nail into the pole of the circle and tie the beetle to it; so whenever the beetle turns seeking release, likewise the runaway turns
+and returns to the place in which this talisman is, even if he were in chains; God causes his return by the blessing of
+this blessed talisman in beneath the figure, and it is that which anmā kam * And if you desire to put to sleep whomever you wish, whether a sick person
+or one who has painful ache and other than that, then write these names and place them under his turban or under his pillow, for he sleeps
+from his time and does not awaken until the names are lifted from beneath his head. And these names are beneficial for children who cry a lot
+and they are these: and they remained in their cave three hundred, nine, and increased nine, and you think them awake while they are asleep, and We turn them to the
+right and to the left; do you perceive among them any one, or hear from them a sound
+
+So they awoke the love [?]
+What is wrong with you, O Abraham
+Indeed, He is able to return him
+Arjisū
+So-and-so son of so-and-so
+to this
+place
+Indeed, He is able to return him
+also they were not silent from it
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+
+---
+## Page 254
+
+**Arabic (original):**
+— ٢٤٨ —
+
+( فصل ) إذا أردت جلب غائب أو شخص تحبه فاكتب ما يأتي بيانه في صحيفة من نحاس بقة من
+الريحان بمداد وزعفران وماء ورد وتكون في أول ساعة الزهرة وإن كان الشخص بعيداً فادفن
+الصحيفة في نار قوية وإن كان المطلوب قريباً فادفنها في نار متوسطة وقسمها توافق الفصل الذي
+أنت فيه وتوكل خدام التوافق أيضاً فيكون أجود لعملك وأكد وأسرع فإنه يجلب الغائب
+من مسيرة ثلاثة أشهر وبحق هذه الأسماء 
+هيا الوحا الساعة العجل الوحا الطاعة لله
+ولرسوله ولأسمائه فإنا مخلوق وإنما الطاعة لله ولأسمائه بحق الذي قال للسموات والأرض ائتيا
+طوعاً أو كرهاً قالتا أتينا طائعين الوحا العجل الساعة باحضر فلان بن فلانة أو فلانة بنت فلانة *
+اعلم يا أخي وفقني الله تعالى وإياك إلى فهم أسرار أسمائه إني كنت جالساً بين يدي الشيخ عبد الصمد
+الأندلسي رضي الله عنه وإذا برجل أقبل على الشيخ، سلم عليه فرد الشيخ عليه السلام بأحسن رد ثم
+دنا الرجل من الشيخ وكلمه بكلام خفي فيما بينه وبينه فرد الشيخ عليه جواباً فألح الرجل على الشيخ
+بالكلام فلما أعياه رفع الشيخ رأسه إليه وقال يا هذا إذا أردت ذلك فصم ثلاث أسابيع لا تأكل فيها
+شيئاً أبداً فيه روح فإني بمدتها أقضي لك حاجتك فأجاب الرجل بالسمع والطاعة ومضى وغاب
+المدة المذكورة وأتى الشيخ وقال له يا سيدي فعلت ما أمرتني به فقال له الشيخ امض وأتم صيامك
+أربعين يوماً وإنني أقضي حاجتك فمضى الرجل وأتم الصيام المدة ثم أتى إلى الشيخ فقال له يا سيدي
+أتممت صيام الأربعين يوماً فقال الشيخ إذن قد استحقيت الفضيلة ثم إن الشيخ دخل وخرج معه
+رقعة ففتحها وتأملها طويلاً وقبلها وخر رأسه ودفعها إلى ذلك الرجل وأوصاه الشيخ بها فأجاب
+الرجل بالسمع والطاعة وقبل يد
+الشيخ فلما غاب الرجل عنا تقدمت
+إلى الشيخ وقبلت يده وقلت يا سيدي
+ما هذه الرقعة التي دفعتها إلى هذا
+الرجل فقال الشيخ يا أحمد فيها سر
+الله تعالى الذي لا يطلع عليه أحد
+إلا أفراد ممن أراد الله تعالى به خيراً
+فقلت يا سيدي أما تخبرني بها فلم يرد
+علي جواباً فأخذت في نفسي وقلت دعني أسأل الشيخ مرة ثانية فأقمت أياماً وسألته عنها فلم يخبرني
+فلم أزل أردد القول عليه مدة سنة والشيخ لم يرد علي جواباً فلما كان بعد سنة قال لي الشيخ من
+تلقاء نفسه يا أحمد ما تريد بسؤالك هذا فقلت له يا مولاي أريد الاطلاع على هذه الأسماء المباركة
+والاشتغال بها فقال الشيخ يا أحمد إن أردت ذلك فصم أربعين يوماً لا تأكل فيها روح ولا ما خرج من
+روح فإن فعلت ذلك أخبرتك بما فيها فأجبته بالسمع والطاعة ثم تجردت إلى الصيام فأعانني الله
+تعالى
+
+[جدول]
+اجلب وقويا خادم هذه الأسماء
+٩ ٩٠ ١٢٧٠ ٨ ١٥١ ١٢٥
+اجلب وقويا خادم هذه الأسماء
+٩٩٣٦ ١٤٩٣٦١٤
+
+**English:**
+— 248 —
+
+(Faṣl) If you desire to bring an absent one or a person you love, then write what is explained next on a sheet of copper, a bunch of
+basil, with ink, saffron, and rose water, and it is to be in the first hour of Venus. And if the person is far away, then bury
+the sheet in a strong fire; and if the sought one is near, then bury it in a moderate fire. And divide it according to the concordance of the chapter in
+which you are, and entrust the servants of the concordance also, so it will be better for your work, more certain, and quicker, for it brings the absent one
+from a journey of three months. And by the truth of these names:
+Hāyā al-waḥā al-sāʿah al-ʿajal al-waḥā al-ṭāʿah to God
+and to His Messenger and to His names, for we are created, and obedience is only to God and to His names, by the truth of Him who said to the heavens and the earth, “Come
+willingly or unwillingly,” they said, “We come willingly,” al-waḥā al-ʿajal al-sāʿah bring so-and-so son of so-and-so or so-and-so daughter of so-and-so *
+Know, O my brother—may God تعالى grant me and you success in understanding the secrets of His names—that I was sitting in the presence of the shaykh ʿAbd al-Ṣamad
+al-Andalusī, may God be pleased with him, and behold, a man came up to the shaykh, greeted him, and the shaykh returned the greeting with the best reply, then
+the man drew near to the shaykh and spoke to him with hidden speech between him and him, and the shaykh replied to him with an answer. Then the man pressed the shaykh
+with speech, and when he wearied him, the shaykh raised his head to him and said, “O this one, if you desire that, then fast three weeks, in which you do not eat
+anything at all that has spirit, for by their duration I will fulfill your need for you.” So the man answered with hearing and obedience and departed and was absent
+for the mentioned period, then came to the shaykh and said to him, “O my master, I have done what you commanded me.” So the shaykh said to him, “Go and complete your fast
+for forty days, and I will fulfill your need.” So the man went and completed the fast for the period, then came to the shaykh and said to him, “O my master,
+I have completed the fast of the forty days.” So the shaykh said, “Then you have indeed deserved the virtue.” Then the shaykh went in and came out with
+a sheet; he opened it, contemplated it for a long time, kissed it, and bowed his head, and handed it to that man, and the shaykh instructed him concerning it. So he answered
+the man with hearing and obedience and kissed the hand of
+the shaykh. When the man was absent from us, I advanced
+to the shaykh and kissed his hand and said, “O my master,
+what is this sheet that you handed to this
+man?” So the shaykh said, “O Ahmad, in it is the secret
+of God تعالى, which no one is informed of
+except individuals whom God تعالى has intended for good.”
+So I said, “O my master, will you not inform me of it?” but he did not return
+to me an answer. So I took it upon myself and said, “Let me ask the shaykh a second time.” So I remained for days and asked him about it, but he did not inform me.
+I did not cease repeating the saying to him for a year, and the shaykh did not return to me an answer. Then after a year, the shaykh said to me of
+his own accord, “O Ahmad, what do you want by this asking of yours?” So I said to him, “O my lord, I desire to be informed of these blessed names
+and to զբաղle myself with them.” So the shaykh said, “O Ahmad, if you desire that, then fast forty days, in which you do not eat spirit nor what comes out of
+spirit; if you do that, I will inform you of what is in it.” So I answered him with hearing and obedience, then I devoted myself to fasting, and God
+تعالى aided me
+
+[Table]
+Bring and strengthen the servant of these names
+٩ ٩٠ ١٢٧٠ ٨ ١٥١ ١٢٥
+Bring and strengthen the servant of these names
+٩٩٣٦ ١٤٩٣٦١٤
+
+---
+## Page 255
+
+**Arabic (original):**
+— ٢٤٩ —
+تعالى على ذلك فلما أتمت صيام الأربعين يوما أتيت الشيخ وقبلت يده وأخبرته بالصيام فقال الشيخ
+الآن قد استوجبت الفضيلة ثم دخل الشيخ الخلوة وغاب طويلا ثم خرج والرقعة في يده فقبلها
+ثم قال يا أحمد أتدري ما فيها فقلت لا أدري فقال الشيخ اعلم أن هذه الأسماء كانت مكتوبة على عصا
+موسى وعصا شعيب عليهما السلام وكانت مرقومة في حلة يوسف عليه السلام وكانت على سيف
+دانيال عليه السلام وكانت مع إبراهيم عليه السلام لما رمي في النار وكانت مع عيسى عليه السلام
+وعلمها للحواريين وكان أخصهم شمعون الأنوارى وكان يدعو الله تعالى بها فيبرئ بها العلل
+والأمراض وحاملها تهابه السباع وسائر المخلوقات ويحرسه الله من شر الجن والإنس وتنعقد عنه سائر
+الألسنة ويعقد عنه الحديد حتى لو دخل بين كثير في الحروب وقاتل لم يقدر عليه أحد بسوء أبدا
+وتلزم بين يديه الجيوش والأعداء ومن كان به ألم مثل صداع في رأسه أو رمد في عينه أو علة من
+العلل في جسده وتكتب هذه الأسماء في رق طاهر وفي رضي وتلقى عليه وتكتب الفاتحة وآية الكرسي
+وسورة الإخلاص والمعوذتين في جام زجاج بمسك وزعفران وماء ورد وشربها فإن الله
+تعالى يعافيه من جميع ما يكرهه وإن كتبها كما ذكرنا وعلقها عليه ودخل على سلطان أو وزير
+أو حاكم من الحكام يقول وهو داخل في نفسه اللهم إني أسألك بحق هذه الأسماء أن تعقد لسان فلان
+ابن فلانة شاهت الوجوه وعنت الوجوه للحي القيوم وقد خاب من حمل ظلما وينفث كيف ما اتفق
+فيدخل عليه فإنه يرى الأمان من شره ويقضى به جميع حوائجه وحامل هذه الأسماء يكون وجيها
+عند الخلائق أجمعين ويهابه كل من رآه ولها خواص كثيرة وقد اختصرنا الشرح خوفا من الإطالة
+وربما تقع في غرامهم بها ومن لا يعرف قدرها وهي هذه الأسماء كما ترى
+(فصل) اذكر فيه الأسماء التي كانت على عصى موسى عليه السلام وبها كان يفعل الغرائب إذا
+كتبها في شرف الشمس أو شرف المشترى بماء النسرين وماء أحيق النهرى وماء كزبرة البئر وماء
+الخلاف وماء الورد البصير والزعفران الشعر في رق غزال ويبخر وقت الكتابة برائحة أريحه وتخوف
+العصاة وتجل الأسماء فيها وتختم عليها بشمع فرح بنت بكر فإن كنت في مكان مخيف وظهر عليك
+اللصوص وقطاع الطريق أو ظهر عليك شئ من الوحوش الضارية المؤذية فاضرب العصا في الأرض
+٣ مرات وقل اللهم إني أسألك ببركة هذه الأسماء العظيمة التي كانت على عصا موسى بن عمران عليه
+السلام وضرب بها البحر فانفلق وكان كل فرق كالطود العظيم أن تحبس عنا ما هو كذا أو تذكر
+ما تريد من توقيف رجال وتوقيف سباع وتقول في ثناء كلامك وقفوهم إنهم مسئولون فإنهم يقفون بإذن
+الله تعالى وهذه صورها بالصحيفة الآتية
+
+**English:**
+— 249 —
+Exalted be He over that. So when she completed the fasting of the forty days, I came to the shaykh and kissed his hand and informed him of the fasting. So the shaykh said: now you have indeed become deserving of the virtue. Then the shaykh entered the retreat and remained hidden for a long time, then came out while the slip of paper was in his hand, so he kissed it. Then he said: O Ahmad, do you know what is in it? I said: I do not know. So the shaykh said: know that these names were written on the staff of Moses and the staff of Shu‘ayb, peace be upon them both, and were inscribed in the robe of Joseph, peace be upon him, and were upon the sword of Daniel, peace be upon him, and were with Abraham, peace be upon him, when he was cast into the fire, and were with Jesus, peace be upon him, and he taught them to the disciples, and his most special among them was Shim‘un al-Anwari, and he used to call upon God تعالى by them, and by them he would cure ailments and diseases. And whoever carries them, the beasts and the rest of created beings fear him, and God guards him from the evil of jinn and men, and all tongues are bound from him, and iron is bound from him, so that if he were to enter among many in wars and fight, no one would ever be able to harm him at all. Armies and enemies are compelled before him. And whoever has pain, such as a headache, or ophthalmia in his eye, or an ailment from ailments in his body, these names are written on a pure parchment and in رضي and are cast upon him, and al-Fatiha, Ayat al-Kursi, Surat al-Ikhlas, and the two Mu‘awwidhat are written in a glass bowl with musk and saffron and rose water and he drinks it, then God تعالى will cure him from all that he dislikes. And if he writes them as we mentioned and hangs them upon him and enters upon a sultan or a minister or one of the rulers, he says while entering within himself: O God, I ask You by the right of these names to bind the tongue of so-and-so son of so-and-so. Faces are made ugly and faces are humbled to the Living, the Self-Subsisting, and he who bears ظلم has failed. And he blows, however it happens, and enters upon him, for he sees safety from his evil, and by it all his needs are fulfilled. And the bearer of these names will be eminent among all creatures, and everyone who sees him will fear him. And they have many properties, and we have abbreviated the explanation for fear of length, and perhaps you may fall in love with them because of it, though one who does not know their value. And these are the names, as you see.
+
+(Section) I mention in it the names that were upon the staff of Moses, peace be upon him, and by them he used to perform marvels. If he writes them in Sharf al-Shams or Sharf al-Mushtari with water of narcissus, water of Ahiq al-Nahri, water of well-coriander, water of khilaf, water of clear rose, and saffron hair in gazelle parchment, and fumigates at the time of writing with the scent of Arīha, and fears the عصاة, and makes the names majestic therein, and seals it with the wax of Farah bint Bakr, then if you are in a frightening place and thieves and highway robbers appear against you, or something of the harmful savage beasts appears against you, strike the staff on the ground 3 times and say: O God, I ask You by the blessing of these great names that were upon the staff of Moses son of عمران, peace be upon him, and by which he struck the sea and it split apart, and every part became like the great mountain, that You restrain from us what is such-and-such, or mention what you want of stopping men and stopping beasts, and say in the midst of your speech: “And detain them; they are to be questioned,” for they will stop by the permission of God تعالى. And these are their forms in the following page.
+
+---
+## Page 256
+
+**Arabic (original):**
+- ٢٥٠ -
+
+(فصل) لما توفي شيخي أبو عبد الله السبتي وجرده الغاسل من ثيابه وجدت في مرقعه رقعة مطبقة فأخذتها وواريتها التراب، فتحت تلك الرقعة فوجدت فيها أسماء شريفة، عجلة، ولا حول ولا قوة إلا بالله العلي العظيم، وصلى الله على سيدنا محمد وآله وصحبه وسلم. كنت قد طلبتها منه في حال حياته فامتنع، ثم قال لي: يا أحمد لا تأخذ على خاطرك شيئاً، وستصل إليها من غير تعب ولا مشقة. فلما نظرت إليها في تلك الساعة افتكرت كلام الشيخ فترحمت عليه، وقلت في نفسي: هذه أنفاس الرجال الصالحين مع الله، وكان لسان حاله يقول لي: بعد موتي تصل إليها بلا سؤال ولا تعب. فتأملتها تأملاً شافياً، فإذا فيها يقول: اعلم يا أخي أن من وقعت في يده هذه الأسماء العظيمة فليصنها عن غير أهلها؛ لأنها نزلت مع آدم عليه السلام، وجعل كل يوم ينظر إليها ويقول: سبحانك ما أعظم شأنك وأعز سلطانك. ويذكر من خواصها شيئاً كثيراً لو أطلعتك عليه لمشيت على الماء به ولم تبتل قدماك.
+ولو
+
+**English:**
+- 250 -
+
+(Section) When my shaykh Abu عبد الله al-Sabti died and the washer stripped him of his clothes, I found in his patched garment a folded slip, so I took it and buried it in the earth. I opened that slip and found in it noble names, عجلة, and there is no power and no strength except in God, the High, the عظیم, and may God bless our master Muhammad and his family and his companions and grant them peace. I had asked him for them during his lifetime, but he refused, then he said to me: O Ahmad, do not take anything to heart, and you will reach them without toil and without hardship. So when I looked at them at that hour, I remembered the shaykh’s words and asked mercy for him, and I said to myself: these are the breaths of the righteous men with God, and the tongue of his state was saying to me: after my death you will reach them without asking and without toil. So I contemplated them a sufficient contemplation, and in them he says: know, my brother, that whoever has fallen into his hand these great names, let him guard them from those not أهلها; because they descended with Adam, peace be upon him, and he made it so that every day he would look at them and say: Glory be to You, how great is Your شأن and how mighty is Your authority. And he mentions from their properties many things; if I were to inform you of them, you would walk upon the water by means of them and your feet would not become wet.
+And if
+
+---
+## Page 257
+
+**Arabic (original):**
+- ٢٥١ -
+
+ولو اردت ان تطير في الهواء من مكان الى مكان لفعلت ذلك ببركة هذه الاسماء الشريفة وبها رجال الغيب
+يختفون عن العيون ويظهرون فاذا تلوتها وقلت يا خدام هذه الاسماء احملوني الى مكة المشرفة فانهم
+يحملونك في ساعة واحدة ، كذلك تفعل في الذهاب والاياب ولها خواص كثيرة لولا خوفي من افشاء
+السر وانه تقع في يد غير اهلها لا ظهرت منه العجب العجاب وهذا الطلسم المبارك تحت عصا موسى عليه
+السلام فكن به ضنيا ولا تهدها لغير اهلها
+وهذه صفة الاسماء الشريفة تقول
+٧٧٣١٥٣٣١٤٣٢٣٩٦١٨١ ١٣١٨
+٣١٣١٣١٤٣٥٣٣١٦٥٤١٨٢٣١٢١٤
+١٢١٢٢١١٨٣١٤١٨٣٢١٣٤٦٢٣١٩١٥١٣١٥
+بسم الله الرحمن الرحيم اللهم اني اسئلك يامن
+بيدك ينبوع حياة كل شئ اسئلك بنفحات
+٧٨ ١٣٨٣١٧١٨٨٣١
+اسرار انوار اسمائك ونور بهاء اشراق انوار عرشك
+كم [?]
+وبما اودعته في اللوح المحفوظ
+عندك من اسرار اسمائك وبما
+ألهمته وعلمته لآدم أبي البشر
+وقلت في كلامك الانور الذي انزلته
+على حبيبك المطهر وعلم آدم الاسماء
+كلها واسئلك بجلالك وجمال كمال بهاء
+نور وجهك الا كرم العظيم الانور
+الاقدس وبما اودعته من انوار اسرارك وانوارك في قلب الشمس والقمر وبحق هذه الاسماء الجليلة
+١٨ ٩٥ ٣٣١ ١٣١٥٤٢ ٢٣ ٥
+[?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [?] [Grid content preserved as-is]
+[?] [Grid content preserved as-is]
+
+---
+_End of translation — 257 pages._
