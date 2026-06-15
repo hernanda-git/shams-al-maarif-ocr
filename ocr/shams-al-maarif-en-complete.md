@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 203 translated pages._
+_Auto-generated from 209 translated pages._
 
 ---
 ## Page 1
@@ -12116,4 +12116,355 @@ and the odd; زيد ند, its parts 22, indicate His تعالى name, Reckoner. 
 Understanding of what is in guidance, of making understood the path from which one goes astray. And this is its form, the following page.
 
 ---
-_End of translation — 203 pages._
+## Page 204
+
+**Arabic (original):**
+— ١٩٨ —
+
+| هـ | الف | دال |
+| :--- | :--- | :--- |
+| ٢٦ | ١٠ | ١١٠ |
+| ١١٣ | ١٥ | ٣٤ |
+
+( الفصل الخامس والتسعون في اسمه تعالى بديع )
+هذا الاسم العظيم والسر الكريم يصلح ذكراً لمن أراد إظهار صنعة لم
+يسبق بمثلها وذاكر هذا الاسم لا يزال مبدعاً في العلوم الإلهية وتتفتح
+العلوم من قلبه ما أظهره من العلوم فأمر على مدة الأوجرى الله تعالى الحكمة على لساني فصرت
+أنطق بما لا كنت أعلمه ولا أفهمه وله من العدد ٨٦ وهو زوج فرد مستطيل من ضرب أول
+عدد في أول عدد فتنبهوا لهذا السر العجيب وهو عدد ناقص أجزاؤه ٤٦ ففيها علومه وهي
+تشير إلى ولاية الفعل الأول وأما أسماء حروفه فهي ١٨١ تشير إلى اسمه تعالى العليم لأن الإبداع
+لا يكون إلا عن علم وله مربع جليل القدر عظيم النفع وهذه صورته
+
+| ع | ى | د | ب |
+| :--- | :--- | :--- | :--- |
+| ٣١ | ٤٢ | ٣ | ١٩ |
+| ٣٤ | ٣٨ | ٦ | ٥ |
+
+( الفصل السادس والتسعون في اسمه تعالى باقي )
+هذا الاسم العظيم الرباني والذكر الحكيم النوراني ينقش في طالع ثابت
+لحفظ الأشياء التي تخاف عليها الفساد والزوال فإنها لا تبلى أبداً ومن اتخذه ذكراً
+لا يعرض له من طول حياته وهو المعول عليه في البقاء الأبدي ولا يكرره ملك من ملوك الأرض
+إلا ثبت الله تعالى ملكه وسلم من الآفات الرديئة وله من العدد ١١٣ وهو عدد أول يشير إلى
+الأحدية والكتبة وأما أسماء حروفه فهي ١٩٦ تشير إلى اسمه تعالى رزاق وإذا كان الرزق
+باقياً فلا أسف على الفائت ولا تعب على الرزق وأمامه فهو هذا
+
+| ى | ق | ا | ب |
+| :--- | :--- | :--- | :--- |
+| ٣٦ | ٥١ | ٦ | ١٦ |
+| ٤٥ | ١٩ | ٣ | ٥٦ |
+| ٢٠ | ٥٢ | ٤ | ١٢ |
+
+( الفصل السابع والتسعون في اسمه تعالى وارث )
+هذا الاسم الأكبر الصمداني والياقوت الأزهر الروحاني من أكثر من ذكره
+وهو يطلب أمراً أو مالاً في يد غيره أو شيئاً من أقاربه أورثه الله تعالى إياه إما
+لقيام من هو بيده أو بقهره عن القيام وهو ذكر جليل القدر يصلح لأكابر المستخلفين وأرباب
+الوراثة وقال أبو عبد الله الكافي من أكثر من ذكره على أن يغلب عليه منه حال صار رئيساً في بيته
+مراداً في عشيرته ويرى في ماله ونفسه وأهله الزيادة وهو من الأسرار المخزونة وله من العدد ٧٠٧
+وهو يدل على شدة وقوة وهو فرد ناقص أجزاؤه ١٠٦ تشير إلى اسمه السبوح بآل وأما أسماء
+حروفه فهي ٨٤٦ تشير إلى اسمين جليلين وهما خبير وبصير وأمامه فهو على هذه الصفة كما ترى
+
+( الفصل الثامن والتسعون في اسمه تعالى رشيد )
+هذا الاسم الشريف والدر اللطيف من أكثر من ذكره حمدت عاقبته
+في جميع تصرفاته ومن وضعه في مربع وحمله معه أصلح الله تعالى حاله
+ظاهراً وباطناً ولا يندم على فعل فعله وله من العدد ١٥٢ وهو زوج فرد
+ناقص أجزاؤه ١٥٠ تشير إلى قولنا هو راحم وأما أسماء حروفه فهي ٦١٧ تشير إلى اسمين
+جليلين
+
+| و | ث | ر | د |
+| :--- | :--- | :--- | :--- |
+| ٥٠١ | ٩٩ | ٥ | ٤ |
+| ٣ | ٨ | ١٩٦ | ٤٠ |
+| ١٩٢ | ٤٩٩ | ٦ | ٤ |
+
+**English:**
+— 198 —
+
+| h | alif | dal |
+| :--- | :--- | :--- |
+| 26 | 10 | 110 |
+| 113 | 15 | 34 |
+
+(Chapter ninety-five in His تعالى name Badi‘)
+This العظيم name and الكريم secret is suitable as a remembrance for whoever desires to manifest an art with which none has preceded him, and the rememberer of this name remains ever inventive in the divine sciences, and the sciences open from his heart; what he has manifested of the sciences, so I passed over a period, and the تعالى wisdom flowed upon my tongue, and I became speaking with what I did not know and did not understand. And for it is the number 86, and it is an even-odd elongated, from the multiplication of the first number by the first number, so be attentive to this wondrous secret, and it is a deficient number whose parts are 46; in them are its sciences, and they indicate the guardianship of the first act. As for the names of its letters, they are 181, indicating His تعالى name al-‘Alim, because invention is only from knowledge. And for it is a square of noble قدر, عظیم benefit, and this is its form
+
+| ‘ayn | ya | dal | ba |
+| :--- | :--- | :--- | :--- |
+| 31 | 42 | 3 | 19 |
+| 34 | 38 | 6 | 5 |
+
+(Chapter ninety-six in His تعالى name Baqi)
+This العظيم رباني name and the الحكيم نوراني remembrance is inscribed in a fixed Tali‘ for preserving things over which one fears فساد and زوال, for they never wear out. And whoever takes it as a remembrance, nothing from the length of his life will befall him, and it is the relied-upon one in eternal remaining. And no king from the kings of the earth repeats it except that Allah تعالى establishes his kingdom and preserves him from evil afflictions. And for it is the number 113, and it is a prime number indicating al-Ahadiyyah and the scribes. As for the names of its letters, they are 196, indicating His تعالى name Razzaq. And if provision is remaining, then there is no regret over what has passed, and no toil over provision; and before it, it is this
+
+| ya | qaf | alif | ba |
+| :--- | :--- | :--- | :--- |
+| 36 | 51 | 6 | 16 |
+| 45 | 19 | 3 | 56 |
+| 20 | 52 | 4 | 12 |
+
+(Chapter ninety-seven in His تعالى name Warith)
+This الأكبر الصمداني name and the الروحاني azure ruby, whoever increases in mentioning it while he seeks a matter or money in the hand of another, or something from his relatives, Allah تعالى bequeaths it to him, either by the standing of the one in whose hand it is, or by overpowering him from standing. And it is a remembrance of noble قدر, suitable for the great successors and the possessors of inheritance. And Abu ‘Abd Allah al-Kafi said: whoever increases in mentioning it, on condition that a state from it غالب عليه, becomes a chief in his house, desired in his clan, and increase is seen in his wealth, himself, and his family. And it is from the stored secrets, and for it is the number 707, and it يدل upon severity and strength, and it is odd, deficient, its parts 106 indicate His name al-Sabuh bi-al, and as for the names of its letters, they are 846, indicating two noble names, and they are Khabir and Basir. And before it, it is upon this description as you see
+
+(Chapter ninety-eight in His تعالى name Rashid)
+This noble name and the لطيف pearl, whoever increases in mentioning it, his outcome is praised in all his dispositions. And whoever places it in a square and carries it with him, Allah تعالى اصلاح his state outwardly and inwardly, and he does not regret any deed he has done. And for it is the number 152, and it is even-odd, deficient, its parts 150 indicate our saying: He is Raḥim. As for the names of its letters, they are 617, indicating two noble names
+
+| waw | tha | ra | dal |
+| :--- | :--- | :--- | :--- |
+| 501 | 99 | 5 | 4 |
+| 3 | 8 | 196 | 40 |
+| 192 | 499 | 6 | 4 |
+
+---
+## Page 205
+
+**Arabic (original):**
+--- ١٩٩ ---
+
+جليلين وها حق مبين وأمر به فعلى هذه الصفة،
+| د | ى | ش | ر |
+|---|---|---|---|
+| ٩٩ | ٣٠١ | ٣ | ١١ |
+| ٣٠٧ | ٣٢ | ٨ | ٢ |
+| | | ٢٠٢ | ٣٠١ |
+( الفصل التاسع والتسعون في اسمه تعالى صبور )
+هذا الاسم الجليل البهي والسر الجميل السني من أكثر من ذكره رزقه
+الله تعالى الثبات عند المصائب ولا يعجز عن إتمام عمل ابتدأ فيه ويصلح
+لذكر أهل المجاهدات ماداموا في تحمل مشاق الأعمال ومربعه لغيره إلا أنه يوضع بطالع
+إحدى البروج الثابتة وله من العدد ٢٩٨ وهو زوج فرد مستطيل ناقص أجزاؤه ١٥٢ يشير إلى
+اسمه صفي وأما مربعه فهو هذا
+| ر | و | ب | ص |
+|---|---|---|---|
+| ١٩٧ | ٩ | ٩ | ٩٩ |
+| ٤ | ٨٨ | ٩٨ | ٨ |
+| ٧ | ١٠٩ | ١٩١ | |
+فانظر إلى ختم الأسماء عند هذا الاسم الشريف الذي يذهب الله تعالى به الحزن
+عن أهل الجنة حيث قالوا الحمد لله الذي أذهب عنا الحزن إن ربنا لغفور شكور
+إلى قوله لغفور وأما أسماء حروفه فكتب ص ب و ر فتنبهوا لسر الختم بهذا
+الاسم وافهم هذا الرمز واكتم هذا الكنز وصحح الاعتقاد تظفر بالمراد فإن أمم من هذه الأسماء
+له خواص ورياضة طويلة وشيء لا يدرك بطريق التطاول بل بالله يقول الحق وهو يهدي السبيل
+( الفصل السابع عشر في خواص كهيعص وحروفها الربانيات الأقدسيات )
+اعلم أيها الطالب الصادق والمخاطب الراغب أوصلك الله إلى كيمياء السعادة الأبدية وسيمياء السيادة
+السرمدية إن علم الأسماء علم شريف نوراني وسر لطيف روحاني عول عليه الأكابر من الأولياء
+العارفين واعتمد عليه الأفاضل من العلماء كالإمام الغزالي والرازي وهو من العلوم اللدنية في أصله
+والرسوم الكشفية في وصفه وحقيقة التمسك به والتوجه للطائف ومعارف التجليات الوحدانية
+الحاصلة لأهل التوجهات الفردانية والمؤثر في كل ما لها من قوابل الإمكانية والمتصدي له من محققي
+العلماء العارفين أكثر من أن يختلج أركانه في عقيدة الجهلاء الغافلين قال مرآة الأسرار ومركز
+دائرة الأنوار النبي المختار عليه الصلاة والسلام إن من العلم كهيئة المخزون لا يعلمه إلا العلماء بالله تعالى
+فإذا تكلموا به أنكره أهل العزة بالله تعالى شعر
+أغار عليها أن ترى الشمس وجهها * بغير خمار والمحب غيور
+فيا إخوان الصفاء ويا خلان الوفاء هذا هو الدر المكنون والسر المحزون والكبريت الأحمر
+والياقوت الأزهر إشارته واضحة للعارفين لم يحجبه صدفة الرمز للثقة بهمين مخبوء في كتب العماية عن
+الملحدين ولا تمسه بسوء يد الجاحدين فيه مشارب للواردين وفصوله مشارب للسالكين فخذوه بفهم
+إن كنتم تفقهون أفغير أحق شاهد تم أنتم لا تبصرون إنما تخير موارده الذاقون ولا يعبر
+به إلا المعبرون ولا يعمرها كل الأنوار العالمون عليكم باتباع محكمه فيفد ذكراً للعالمين وما اشتبه
+منه فالله خير الفاتحين شعر
+لو كان الناس مذ علمه * لصبوا ببصائر وعيون
+ولا تظن أن هذا العلم نوراني والسر الرحماني جرى على اللسان فرسم البيان بل كل حرف منه نوراني
+
+**English:**
+noble, and here is a clear truth, and it is commanded by it, so it is upon this description,
+| dal | ya | shin | ra |
+|---|---|---|---|
+| 99 | 301 | 3 | 11 |
+| 307 | 32 | 8 | 2 |
+| | | 202 | 301 |
+(Chapter ninety-nine in His تعالى name Sabur)
+This noble, splendid name and the beautiful, radiant secret: whoever increases in mentioning it, Allah تعالى grants him steadfastness at calamities, and he does not fail to complete a work he has begun, and it is suitable for the remembrance of the people of struggles so long as they are in bearing the hardships of works. And its square, for others, except that it is placed under the Tali‘ of one of the fixed signs. And for it is the number 298, and it is even-odd elongated, deficient, its parts 152 indicate His name Safi. And as for its square, it is this
+| ra | waw | ba | sad |
+|---|---|---|---|
+| 197 | 9 | 9 | 99 |
+| 4 | 88 | 98 | 8 |
+| 7 | 109 | 191 | |
+So look at the sealing of the names at this noble name, by which Allah تعالى removes grief from the people of Paradise, where they said: Praise be to Allah who has removed grief from us; indeed our Lord is Forgiving, Thankful, to His saying Forgiving. And as for the names of its letters, they are written ص ب و ر, so be attentive to the secret of the sealing by this name, and understand this symbol, and conceal this treasure, and correct the belief, you will attain the desired. For indeed, groups from these names have properties and a long Riyadah, and a thing not attained by the way of pretension, but by Allah. He says the truth, and He guides the way.
+(Chapter seventeen in the properties of Kaf Ha Ya ‘Ayn Sad and their ربانيات الأقدسيات letters)
+Know, O sincere seeker and desirous addressee—may Allah bring you to the alchemy of eternal happiness and the simiya of everlasting sovereignty—that the science of names is a noble, luminous science and a subtle, spiritual secret upon which the great among the saints and knowers relied, and upon which the eminent among the scholars, such as Imam al-Ghazali and al-Razi, depended. And it is from the لدنية sciences in its origin, and the الكشفية forms in its description, and the reality of adhering to it and turning to the subtle ones and the knowledges of the singular theophanies obtained for the people of singular turnings, and the effective in all that has from potential receptacles, and those who undertake it from the verifying knowers among the scholars is more than that its pillars should be stirred in the creed of the heedless ignorant. The Mirror of Secrets and the Center of the Circle of Lights, the Chosen Prophet, عليه الصلاة والسلام, said: “Indeed, among knowledge is that which is like the stored; none knows it except the scholars by Allah تعالى. فإذا تكلموا به أنكره أهل العزة بالله تعالى” poetry
+She was jealous lest the sun see her face * without a veil, and the lover is jealous
+So, O brothers of purity and O companions of loyalty, this is the treasured pearl, the sorrowed secret, the red sulfur
+and the azure ruby; its indication is clear to the knowers. The chance of symbol has not veiled it, for trust in two concerns hidden in the books of blindness from
+the atheists, and let not the hand of the deniers touch it with evil. In it are drinking places for the arrivals, and its chapters are drinking places for the wayfarers, so take it with understanding
+if you are among those who understand. Is not a truer witness you? Yet you do not see. Only the tasters choose its springs, and none interprets
+it except the interpreters, and none inhabits it, all the lights, the knowers. عليكم by following its decisive part, so it yields a remembrance for the worlds, and whatever is ambiguous
+from it, then Allah is the best of openers. poetry
+If the people, from the time of its knowledge, * had poured forth with insights and eyes
+And do not think that this luminous science and the merciful secret flowed upon the tongue, so the expression was drawn, but rather every letter of it is luminous
+
+---
+## Page 206
+
+**Arabic (original):**
+— ٢٠٠ —
+
+مركب مع حرف ظلمان وانتظمت منه دقيقة سنية ولطيفة هنية بوضع بديع التركيب ونظم غريب
+الترتيب بعد كشف علوم علية وفهوم قدسية وفك رموز روحانية وفك طلاسم كنوز ربانية وتجليات
+صمدانية وتوجهات وحدانية ومشارب صافية وموارد وافية وأعمال خارقة وأنفاس صادقة وفهم
+أسرار عرفانية وآثار نورانية وإشارات عرشية وعبارات صوفية وتلوحات لوحية وتصريحات
+وهبية وكشف خواص حرفية ورقوم هندية وأوفاق عددية ومعارف لدنية ولطائف فتحية
+تتوصل بها إلى الحضرة الربانية والوحدة الفردانية بلا بعد في سلوك وسير ولا تعب في طريق منير
+فاعلم ذلك وحققه وافهمه ودققه ذلك فضل الله يؤتيه من يشاء والله ذو الفضل العظيم ومن شأنه عز
+وجل أن يؤتي الحكمة من يشاء من عباده وينزل السر على من يشاء من أوليائه فإن ساعد البسط
+والزمان ووافق الضبط والأوان وأعان التوفيق وافق التحقيق واسترحت من الشواغل والهم
+الشاغل وزالت النفوس من التشويش والبؤس والتحويش وجمعت الجمع المتفرق والعلم المستغرق
+وأحييت من ساعات عمرك أوقاتاً صافية وشرفت من أيام الدهر أزماناً وافية جلوت فهمك الروحاني
+عرائس فهومك النوراني فتتكير الاجتماع عند كشف القناع عن عرائس أسرار ونفائس الأفكار
+في الروضة الرحبة الزاهرة والحكمة السندسية الباهرة حيث يتأسف من قول لا صديق حميم ولا
+شفوق رحيم فإن ضاق الوقت عن ذلك ومنع المانع السلك فقد أتتك بها بضاعة قية بدار سنة
+حسناء بهية عذراء شهية بصورة يوسفية وسيرة مريمية ونفحة مسكية وفجة مكة صحفاً مكرمة نقية
+مطهرة أبكاراً طاهرات أتراباً بهرت لم يطمثهن فكر لأعينهم ذكر ولا يلمسهن فهم لا يقرن
+وهم لأن دهنا مصون وسرها مخزون وأمها ملثوم ودنها مختوم معاً طباً جذاباً وقوة
+جلاب وروضها عاطر وحبها شمر ونهرها دافق وطيرها زاعق وبرقها لامع وغيمها همع ونورها
+طالع وجمالها زاهر وهلالها باهر وشهوها فاخر وحسنها ظاهر وسمائها لطائف وأرضها معارف
+وغربها أسرار وشرقها أنوار وقابلها أسماء وصدرها أسماء ورسمها عجيب ورقها عجب وسرها
+آيات وحصنها تلاوات لطائفها شمسية ومعارفها قدسية وكتبها مدنون وعلمها مصون لا يمسه إلا
+المطهرون ولا ينالها إلا الأولياء العاملون ولا يعرفها إلا الأصفياء الخالصون ولا يحكمها إلا الحكماء
+المحققون ولا ينالها إلا الفضلاء المدققون ولا يلقاها إلا الصابرون شر
+حير الحسن في ملاحتها * فصار كالعاشقين بها هاما
+
+فلهذا هل فليعمل العاملون وفي مثل هذا فليتنافس المتنافسون وأما منافع القرآن العظيم فذكر له
+فضل بعد ذلك فليخلص الأعيان بزهو كالبرق الأكبر والياقوت الأزهر واعلم أن القرآن هو الدر
+المصون والعلم المكنون والسر المختوم والسر العظيم والكنز القديم والترياق الشافي والدواء
+الكافي وهو الجوهر ورموزه وفك طلاسم كنوزه والخوض في بحار أسراره واستخراج درره
+العظيمة من أعماق أنواره والوقوف على حقائقه الحرفية والعددية ومنافعه الموجهة وخواصه
+الفردية والزوجية وأشكاله الوفقية وأذكاره الصمدانية وأسراره الروحانية وغير
+ذلك من الأسرار التي لا يطلع عليها إلا الآحاد من الراسخين والكمل من أفراد العارفين ذلك فضل
+
+**English:**
+composite with a ظلمان letter, and from it were arranged a subtle, noble, and delightful minute thing, in a wondrous composition and strange ordering, after the unveiling of lofty sciences and sacred understandings, and the unraveling of spiritual symbols, and the untying of the talismans of divine treasures, and the theophanies of al-Samadaniyyah, and singular turnings, and pure drinking places, and ample sources, and extraordinary works, and truthful breaths, and the understanding of gnostic secrets, and luminous traces, and throne-like indications, and Sufi expressions, and tablet-like allusions, and inspired declarations, and the unveiling of letter-properties, and Indian numerals, and numerical wafqs, and لدنية knowledges, and فتحية subtleties, by which you reach the divine presence and the singular unity without distance in conduct and journeying, and without toil on a luminous path. So know that, and verify it, and understand it, and scrutinize it. That is the فضل of Allah; He gives it to whom He wills, and Allah is Possessor of عظیم فضل. And it is from His شأن, عز وجل, to give wisdom to whom He wills from His servants and to send down the secret upon whom He wills from His saints. If expansion assists, and time, and the arrangement and the time agree, and success aids, verification agrees, and you are relieved from preoccupations and the preoccupying grief, and the souls are removed from confusion and misery and hoarding, and you gather the scattered gathering and the all-encompassing knowledge, and you revive from the hours of your life pure times and honor from the days of time complete times, you have polished your spiritual understanding, the brides of your luminous understandings, so the gathering becomes repeated at the unveiling of the veil from the brides of secrets and the precious things of thoughts, in the spacious, flourishing garden and the dazzling silk-like wisdom, where one grieves over the saying: no intimate friend and no compassionate merciful one. For if the time is narrow for that, and the preventing مانع blocks the thread, then merchandise of value has come to you, in a house of sunnah, beautiful, splendid, virgin, desirable, in a Joseph-like form and a Mary-like conduct, and a musky breeze and a Meccan opening, honored, pure pages, purified, virgins, pure, peers, dazzling, untouched by thought, for their eyes a remembrance, and no understanding touches them, they are not compared, and they are because their oil is preserved and its secret stored, and its mother is sealed and its vessel is sealed together, a medicine attractive and a force that draws, and its garden is fragrant, and its love is shammar, and its river is flowing, and its bird is crying out, and its lightning is shining, and its cloud is pouring, and its light is rising, and its beauty is radiant, and its crescent is dazzling, and its desire is splendid, and its beauty is manifest, and its sky is subtleties, and its earth is knowledges, and its west is secrets, and its east is lights, and its facing is names, and its breast is names, and its form is wondrous, and its paper is wonder, and its secret is verses, and its fortress is recitations, its subtleties are solar, and its knowledges are sacred, and its writings are hidden, and its knowledge is preserved, none touches it except the purified, and none attains it except the working saints, and none knows it except the pure chosen ones, and none judges it except the verifying sages, and none attains it except the precise virtuous, and none meets it except the patient. poetry
+Beauty bewildered in its loveliness * so it became, like the lovers, passionately devoted to it
+
+For this reason, let the workers work, and in such as this let the competitors compete. And as for the benefits of the عظیم Qur’an, mention of it has a فضل after that; so let the essences be made pure with splendor like the greater lightning and the azure ruby. And know that the Qur’an is the preserved pearl, the stored knowledge, the sealed secret, the عظیم secret, the ancient treasure, the healing antidote, and the sufficient remedy. And it is the jewel, and its symbols, and the untying of the talismans of its treasures, and plunging into the seas of its secrets, and extracting its عظیم pearls from the depths of its lights, and standing upon its literal and numerical realities, and its directed benefits, and its individual and paired properties, and its wafq forms, and its samadani remembrances, and its spiritual secrets, and other than that of the secrets which none is informed of except the single ones among the firmly rooted and the perfect among the individuals of the knowers. That is فضل
+
+---
+## Page 207
+
+**Arabic (original):**
+— ٢٠١ —
+
+الله يؤتيه من يشاء والله ذو الفضل العظيم فمنهم قنع بالتفسير اللغوي من اللبوب وبما ظهر عما يظن
+ومنهم من غره أمواجه فظفر بالكبريت الأحمر ومنهم من غاص في عمقه فاستخرج الياقوت الأحمر
+والدر الأزهر والزبرجد الأخضر ومنهم من تعلق في آخر سواحله فاستخرج من حيوانها الترياق
+الأكبر والمسك الأزفر وهو الذي عجز عنه الأولون والآخرون عن معارضته ووقف العاملون
+في مقام الحصر دون منافعه وهو حبل الله المتين ونوره المبين وصراطه المستقيم وسبيله القويم وكلامه
+القديم والبحر الذي لا تنقص عجائبه ولا تفنى غرائبه ولا يدرك مداه ولا يبلغ أوهام أقصاه والمميز عن
+الطب والحيث والحلال والحرام لا يأتيه الباطل من بين يديه ولا من خلفه تنزيل من حكيم حميد
+* واعلم أن العلماء أربعة علم حظه من الله الآخرة وعلم حظه من الله العلم والمعرفة وعلم حظه السر
+إلى الآخرة وعلم يعلم السير إلى الآخرة فالأول مع الله بالله والثاني يدعو العلم بعلم الله والثالث يدعو
+إلى الآخرة والرابع يدعو إلى الآخرة وروى عن رسول الله صلى الله عليه وسلم أنه قال جالسوا
+الحكماء وخالطوا العلماء واسألوا الحكماء لأن يلين الفهم وأتأول والتفسير خلافا شهيرا قال تعالى
+سأصرف عن آياتي الذين يتكبرون في الأرض الآية قال ابن عباس وغيره إني سأنتزع منهم فهم
+القرآن والعلماء في عبارات القرآن على ثلاثة أقسام الأول التفسير وهو أدناهم والثاني التأويل وهو
+أوسطهم والثالث بالفهم وهو أجلهم فالتفسير بالتعلم والدراسة والبحث على أقاويل السلف والتأويل
+بالهداية والتوفيق والفقه من الله تعالى والقياس والعقل فأهل الفهم ينطقون بالله تعالى كما
+قال كنت لسانه الذي ينطق به إلى آخر الخبر * ول الحكيم بدأ الله تعالى على أفواه الحكماء فلا
+ينطقون بشيء حتى يظهرهم وقال بعضهم عند قوله تعالى وما أرسلنا من قبلك من رسول ولا نبي
+ولا محدث وهم أهل الفهم الذين ينطقون من الحكماء * وروى عن بعض الصحابة أنه قال لأنكم
+تقرؤون ظاهرا وأنا أقرأ باطنا فالغرض المقصود من ذلك تعلم شرف الباطن الذي فهموا عن
+الله تعالى بأسرار التدبير وأنوار التذكير ولطائف التفكر ما أراد الله تعالى في باطن آياته من
+أطوار إرادته والقرآن العظيم هو الكتاب المكنون والسر المخزون والدر المصون وهو البحر المحيط
+الذي يسقى منه علوم الأولين والآخرين قال تعالى ما فرطنا في الكتاب من شيء وما من سر من
+الأسرار إلا وهو محتو فيه وقد قال رسول الله صلى الله عليه وسلم إن للقرآن ظهرا وبطنا إلى السبعة
+أبطن وقد قال الإمام علي كرم الله وجهه ظاهره أنيق وباطنه عميق لا تفنى عجائبه ولا تنقضي غرائبه
+وما من آية من القرآن إلا ولها سبع معان ظاهر وباطن وإشارات وأمارات ولطائف وحقائق
+فالظاهر للعوام والباطن للخواص والإشارات لخواص الخواص والأمارات للأولياء واللطائف
+للصديقين والحقائق للنبيين ثم تحت كل كلمة بل تحت كل حرف منه حكم عاج وبحر عجاج وافق
+مواج فإذا قرأ الشاهد من العارفين والصادق من المحبين أعطى لكل حرف منه ألف فهم ولكل
+فهم ألف فطنة ولكل فهم ألف عبرة والعبرة لا يقوم بها من في السموات والأرض فذلك
+قال تعالى ومن يؤت الحكمة فقد أوتى خيرا كثيرا معنى فهم القرآن ومعانيه وقال بعض العلماء لكل
+آية من القرآن ستون ألف فهم وما بقي من فهمها فهو أكثر قال بعضهم القرآن محتو على سبعة وسبعين
+
+**English:**
+— 201 —
+
+Allah gives it to whom He wills, and Allah is Possessor of the عظیم فضل; so among them is one content with the linguistic interpretation from the lubub and with what has appeared from what is thought, and among them is one whom its waves deceived, so he attained the red الكبريت, and among them is one who dived into its depth and extracted the red ruby and the bright pearl and the green emerald, and among them is one who clung to the end of its shores and extracted from its animal the greater antidote and the blue musk, and it is that which the الأولون and the الآخرون were unable to oppose, and the workers stood in the مقام of restriction without its benefits, and it is the firm Rope of Allah and His manifest Light and His straight Path and His upright Way and His ancient Speech and the sea whose wonders do not diminish and whose marvels do not perish and whose extent is not reached and whose utmost is not attained by imaginations, and the distinguisher between medicine and حيث and the lawful and the unlawful; falsehood does not come to it from before it nor from behind it, a revelation from One Wise, Praiseworthy.
+
+* And know that the scholars are four: knowledge whose share from Allah is the Hereafter; and knowledge whose share from Allah is knowledge and gnosis; and knowledge whose share is the secret to the Hereafter; and knowledge that knows the journey to the Hereafter. So the first is with Allah by Allah, and the second calls knowledge by the knowledge of Allah, and the third calls to the Hereafter, and the fourth calls to the Hereafter. And it is narrated from the Messenger of Allah, صلى الله عليه وسلم, that he said: Sit with the sages, and mix with the scholars, and ask the sages, because understanding becomes softened. And I interpret and the interpretation is a famous disagreement. He, تعالى, said: “I shall turn away from My signs those who are arrogant in the earth” the verse. Ibn Abbas and others said: I shall surely tear from them the understanding of the Qur’an. And the scholars in the expressions of the Qur’an are in three categories: the first is tafsir, and it is the lowest of them; and the second is ta’wil, and it is the middle of them; and the third is by understanding, and it is the most eminent of them. So tafsir is by learning and study and research upon the sayings of the predecessors, and ta’wil is by guidance and success and jurisprudence from Allah تعالى and analogy and reason. So the people of understanding speak by Allah تعالى, as He said: “I was his tongue by which he speaks,” to the end of the report. * And for the wise, Allah تعالى began upon the mouths of the sages, so they do not speak with anything until He manifests them. And some of them said at His saying تعالى: “And We sent not before you any messenger nor prophet nor muhaddath,” and they are the people of understanding who speak from the sages. * And it is narrated from some of the Companions that he said: because you read outwardly, and I read inwardly. So the intended purpose of that is learning the nobility of the inward, which they understood from Allah تعالى by the secrets of management, the lights of admonition, and the subtleties of contemplation, what Allah تعالى intended in the inward of His verses from the states of His will. And the عظیم Qur’an is the concealed Book and the stored secret and the preserved pearl, and it is the encompassing sea from which the sciences of the الأولين and the الآخرين are watered. He تعالى said: “We have not neglected in the Book anything,” and there is no secret from the secrets except that it is contained in it. And the Messenger of Allah صلى الله عليه وسلم said: “Indeed the Qur’an has an outward and an inward, up to seven inward aspects.” And Imam Ali, may Allah ennoble his face, said: Its outward is elegant and its inward is deep; its wonders do not perish and its marvels do not end. And there is no verse from the Qur’an except that it has seven meanings: outward and inward and indications and signs and subtleties and realities. So the outward is for the common people, and the inward for the elect, and the indications for the elect of the elect, and the signs for the saints, and the subtleties for the truthful ones, and the realities for the prophets. Then beneath every word, rather beneath every letter of it, is a ruling, a rushing sea, a roaring sea, a surging sea. So when the witness from among the knowers and the truthful one from among the lovers reads, it gives to every letter of it a thousand understandings, and to every understanding a thousand sharpnesses, and to every understanding a thousand lessons; and the lesson is not upheld by those in the heavens and the earth. Thus He تعالى said: “And whoever is given wisdom has been given much good,” meaning the understanding of the Qur’an and its meanings. And some of the scholars said: for every verse of the Qur’an are sixty thousand understandings, and what remains of its understanding is more. Some of them said: the Qur’an contains seventy-seven
+
+---
+## Page 208
+
+**Arabic (original):**
+- ٢٠٢ -
+
+ألف علم، وقال بعض الأكابر من أرباب البصائر: حقيقة القرآن على القوة الحاملة للسموات والأرض
+وما فيهما من يوم وجودها إلى يوم عودها، وذلك كان شراط الساعة ذهابه من صدور الرجال
+ومصاحفهم كطي السموات وبعض الأرض، فتدبر ذلك والله الموفق.
+( فصل في خواص القرآن العظيم والبسملة والفاتحة )
+اعلم وفقني الله وإياك لطاعته أن من فهم سر قوله تعالى: وننزل من القرآن ما هو شفاء لظواهر الأجسام
+كما فيه الشفاء لحقائق القلوب، ولذلك نبه عليه النبي صلى الله عليه وسلم فقال: شفاء أمتي في ثلاث: آية من
+كتاب الله تعالى، أو كأس من يد حجام، أو لعقة من عسل نحل. وقال صلى الله عليه وسلم: القرآن هو الدر،
+فإنهم ذلك وما أودع الله تعالى في القرآن المكنون والسر المخزون من الجواهر في أصداف حروفه
+من العجائب في بحره العميق. وقال بعض العارفين: بسم الله منك بمنزلة كن منه. وقال الحسن بن علي
+رضي الله عنهما: من أحسن كتابة بسم الله الرحمن الرحيم وجودها تعظيمًا لله تعالى دخل الجنة. وعن أبي
+سعيد الخدري رضي الله تعالى عنه أنه قال: سمعت ابن عباس رضي الله تعالى عنهما يقول: لكل شيء
+أساس، وأساس الكتب كلها القرآن، وأساس القرآن الفاتحة، وأساس الفاتحة بسم الله الرحمن الرحيم،
+فإذا اشتكيت أو عملت فعليك بالأساس تشف من كل داء. ومن ذكر بسم الله الرحمن الرحيم ٤٨٧
+مرة على طلسم وهو بأصوله فهيأ اطلبه لوقته، ومن تلاها العدد المذكور وسأل الله تعالى شيئًا أعطاه
+إياه. وقال بعض العلماء: من ذكر بسم الله الرحمن الرحيم كل يوم ١٥٠ مرة أطلعه الله تعالى على أسرار
+العلوم وبواطن حقائقها، فافهم ذلك. واعلم أن من أكثر ذكر اسم الله الرحمن الرحيم رزق الهيبة
+من العالم العلوي والسفلي، وما أودع الله تعالى فيها من الأسرار، وفيها اسم الله الأعظم، وهي أول ما خطه
+القلم العلوي على صفحة اللوح، ومتى أقام الله تعالى ملك سليمان بن داود، وبها أقام الله تعالى شجرة
+الأكوان وظهر فيها أسرارها. ومن رسم بسم الله الرحمن الرحيم على هذه الصفة: بسم الله الرحمن الرحيم
+ومنها سورة الرحمن، ومن حملها معه أطفأ بها حر النار، ومن كتبها ببطاقة وحملها من به وجع الضرس
+أو الرأس بشرط أن يضعها على الوجع فإنه يسكن لوقته. وروى عن عبد الله بن عمر رضي الله تعالى عنه
+أنه قال: من كانت له حاجة فليصم يوم الأربعاء والخميس والجمعة، فإذا كان يوم الجمعة يغتسل ويذهب إلى
+المسجد فليتصدق بشيء في طريقه، وبعد الفراغ من الصلاة يقول: اللهم إني أسألك باسمك العظيم بسم
+الله الرحمن الرحيم الذي لا إله إلا هو عالم الغيب والشهادة هو الرحمن الرحيم، أسألك باسمك الذي ملأ
+السموات والأرض، وأسألك باسمك بسم الله الرحمن الرحيم الذي عنت له الوجوه وخشعت له
+الأصوات ووجلت القلوب من خشيته أن تصلي على سيدنا محمد وعلى آله وصحبه وسلم وأن تقضي
+حاجتي وهي كذا وكذا ويسميها، فإنها تقضى. وكان يقول: لا تعلموها لسفهائكم فيدعو بعضهم على بعضهم
+فيستجاب لهم في الوقت. وينتظم من حروف بسم الله الرحمن الرحيم تسعة عشر، أما عدد حروفها
+وهي: الله، الرحمن، الرحيم، الرب، السلام، المهيمن، المهدي، الستار، الحي، المحيي، العليم، المنان، الحي، القيوم،
+الباري، المبين، الحبيب. ومن وضع هذه الأسماء الشريفة في مربع تسعة عشر في مثلها وحمله معه
+فإنه لا يسأل الله تعالى شيئًا إلا أعطاه إياه، وفيه اسم الله الأعظم، ويكون وضعه رابع الشهر فإنه أبلغ.
+ود
+
+**English:**
+— 202 —
+
+thousand sciences. And some of the great ones among the possessors of insights said: the reality of the Qur’an is upon the power bearing the heavens and the earth and what is in them, from the day of their existence to the day of their return; and that was among the signs of the Hour: its disappearance from the breasts of men and their codices, like the folding up of the heavens and some of the earth. So reflect upon that, and Allah is the One who grants success.
+
+(Chapter on the properties of the عظیم Qur’an and the basmalah and the Fatiha)
+
+Know, may Allah grant me and you success in obedience to Him, that whoever understands the secret of His saying تعالى: “And We send down from the Qur’an that which is a healing for the outward bodies,” as in it is the healing for the realities of hearts. Therefore the Prophet صلى الله عليه وسلم drew attention to it and said: “The healing of my community is in three: a verse from the Book of Allah تعالى, or a cup from the hand of a cupping-bather, or a lick of honey of bees.” And he صلى الله عليه وسلم said: “The Qur’an is the pearl.” So understand that, and what Allah تعالى deposited in the concealed Qur’an and the stored secret of jewels in the shells of its letters, from the wonders in its deep sea. And some of the knowers said: “Bismillah from you is in the position of Kun from Him.” And al-Hasan ibn Ali, may Allah be pleased with them both, said: Whoever writes well the Bismillah al-Rahman al-Rahim and perfects it, magnifying Allah تعالى, enters Paradise. And from Abu Sa‘id al-Khudri, may Allah تعالى be pleased with him, that he said: I heard Ibn Abbas, may Allah تعالى be pleased with them both, saying: For everything there is a foundation, and the foundation of all the books is the Qur’an, and the foundation of the Qur’an is the Fatiha, and the foundation of the Fatiha is Bismillah al-Rahman al-Rahim. So if you are ill or act, then upon you is the foundation; you will be cured from every disease. And whoever mentions Bismillah al-Rahman al-Rahim ٤٨٧ times upon a talisman while it is with its roots, then prepare, seek it at its time; and whoever recites it the mentioned number and asks Allah تعالى for something, He gives it to him. And some of the scholars said: whoever mentions Bismillah al-Rahman al-Rahim every day 150 times, Allah تعالى will make him aware of the secrets of the sciences and the inward aspects of their realities, so understand that. And know that whoever increases in mentioning the name of Allah al-Rahman al-Rahim is granted awe from the upper world and the lower world, and what Allah تعالى deposited in it of secrets; and in it is the Greatest Name of Allah, and it is the first thing the upper قلم inscribed upon the page of the Tablet, and whenever Allah تعالى established the kingdom of Solomon son of David, and by it Allah تعالى established the tree of the cosmos and its secrets appeared in it. And whoever draws Bismillah al-Rahman al-Rahim in this form: Bismillah al-Rahman al-Rahim, and from it is Surat al-Rahman, and whoever carries it with him extinguishes by it the heat of fire, and whoever writes it on a card and carries it, if there is in him toothache or headache, on condition that he places it upon the pain, then it will subside at its time. And it is narrated from Abdullah ibn Umar, may Allah تعالى be pleased with him, that he said: Whoever has a need, let him fast Wednesday and Thursday and Friday; then when it is Friday, let him bathe and go to the mosque, and let him give charity with something on his way, and after finishing the prayer let him say: O Allah, I ask You by Your عظیم name, Bismillah al-Rahman al-Rahim, there is no god but He, Knower of the unseen and the witnessed, He is al-Rahman al-Rahim. I ask You by Your name that filled the heavens and the earth, and I ask You by Your name Bismillah al-Rahman al-Rahim, to which faces are humbled and voices are subdued and hearts tremble from fear of Him, that You send blessings upon our master Muhammad and upon his family and his Companions, and that You fulfill my need, and it is such and such, and he names it; for it is fulfilled. And he used to say: Do not teach it to your fools, lest some of them invoke against some of them and it be answered for them at the time. And there are arranged from the letters of Bismillah al-Rahman al-Rahim nineteen, as for the number of its letters, and they are: Allah, al-Rahman, al-Rahim, al-Rabb, al-Salam, al-Muhaymin, al-Mahdi, al-Sattar, al-Hayy, al-Muhyi, al-‘Alim, al-Mannan, al-Hayy, al-Qayyum, al-Bari’, al-Mubin, al-Habib. And whoever places these noble names in a square of nineteen in its like and carries it with him, then he does not ask Allah تعالى for anything except that He gives it to him, and in it is the Greatest Name of Allah, and its placement on the fourth of the month is more effective.
+And
+
+---
+## Page 209
+
+**Arabic (original):**
+- ٢٠٣ -
+
+وقد سأل الإمام عثمان بن عفان رضي الله عنه النبي صلى الله عليه وسلم عن بسم الله الرحمن الرحيم على
+إبراهيم وهو في كف المنجنيق فجعل الله النار برداً وسلاماً (وحكى) الأوزاعي رحمه الله تعالى قال
+تخيل لي خيال في الليل فجزعت منه فقلت بسم الله الرحمن الرحيم فقال لي لقد استعذت بعظيم
+وانصرف عني وإن كل حرف من بسم الله الرحمن الرحيم مفتاح اسم من أسماء الله تعالى فالباء مفتاح
+اسمه بصير والسين سميع والميم مبدئ والألف الله واللام لطيف والهاء هادي والراء رازق والحاء حنان
+والميم مانع ومعطي وهذه كلها يدعى بها عند افتتاح كل شيء والدعاء بهذه الأسماء مجاب لا محالة ولو
+شرعنا في بسط الكلام عليها وما لها من الخواص والعجائب واللطائف لضاق علينا الوقت وكلت
+الأقلام عن ذلك وتقدم بعض خواصها ولها وفق عظيم به محيط خمس جوفي فمن جمع بين ربعه الحرفي
+في مربع واحد وحمله رأى من لطف الله تعالى ما تعجز عنه الأوصاف ولا يدخل تحت حصر ومن
+عرف قدره استغنى به عن غيره فإن فيه اسم الله الأعظم الذي إذا دعي به أجاب وإذا سئل به أعطى
+والله الموفق وهذه صورته
+
+[Image of the magic square]
+
+قال ابن عباس أخبرني علي بن أبي طالب كرم الله وجهه وخرجت إلى البقيع في أول الليل وقال
+لي اقرأ يا ابن عباس قال فقرأت بسم الله الرحمن الرحيم فأخذ يتكأ لي في الباء ومقتضاها إلى طلوع
+الفجر فافهم ذلك والله يؤتي ملكه الآية وقال صلى الله عليه وسلم أعطيت فاتحة الكتاب من تحت
+العرش وقال صلى الله عليه وسلم من أتى إلى منزله وقرأ سورة الفاتحة والإخلاص نفي عنه الفقر وكثر
+خيره وقال صلى الله عليه وسلم فاتحة الكتاب شفاء من كل داء واعلم أن من مهم سر الحمد أول
+الكتاب العزيز وهي السبع المثاني فافهم سر الحمدانية ويتصل حمد الكتاب بمحمد الجنة وقال
+الإمام علي كرم الله وجهه لو شئت أن أوقر من ترقيم البسملة وفاتحة الكتاب سبعين بعيراً لفعلت
+وقال بعض الأكابر في هذه السورة ألف خاصية ظاهرة وألف خاصية باطنة قال مسلمة قاسم بن
+إبراهيم أم الكتاب هي رأس القرآن وعماده وفيها خمسة أسماء وهي التي شرف الله تعالى بها هذه
+السورة على غيرها من السور وفيها بسم الله الأعظم الذي إذا دعي به أجاب وإذا سئل به أعطى وهذه
+
+**English:**
+— 203 —
+
+And Imam Uthman ibn Affan, may Allah be pleased with him, asked the Prophet صلى الله عليه وسلم about Bismillah al-Rahman al-Rahim upon Ibrahim while he was in the palm of the catapult, and Allah made the fire coolness and peace. And al-Awza‘i, may Allah تعالى have mercy on him, related, he said: A phantom appeared to me at night, and I was alarmed by it, so I said Bismillah al-Rahman al-Rahim, and he said to me: You have sought refuge with the Great One, and it turned away from me. And every letter of Bismillah al-Rahman al-Rahim is the key to a name from the names of Allah تعالى: so the ba’ is the key to His name Basir, and the sin Sami‘, and the mim Mubdi’, and the alif Allah, and the lam Latif, and the ha’ Hadi, and the ra’ Raziq, and the ha’ Hannan, and the mim Mani‘ and Mu‘ti. And all of these are invoked at the opening of every thing, and supplication by these names is answered without fail. And if we were to begin to expand the speech upon them and what belongs to them of properties and wonders and subtleties, time would become narrow for us and the pens would grow weary of that. And some of its properties have preceded, and it has a great wifq by which a five-inward square is encompassed. So whoever combines its literal fourth in one square and carries it will see from the gentleness of Allah تعالى what descriptions are عاجزة from and what does not enter under enumeration. And whoever knows its value is enriched by it from other than it, for in it is the Greatest Name of Allah, by which if He is called He answers, and if He is asked by it He gives. And Allah is the One who grants success. And this is its form.
+
+[Image of the magic square]
+
+Ibn Abbas said: Ali ibn Abi Talib, may Allah ennoble his face, informed me, and I went out to al-Baqi‘ at the beginning of the night, and he said to me: Recite, O Ibn Abbas. He said: So I recited Bismillah al-Rahman al-Rahim, and he began to lean for me in the ba’ and its requirement until the rising of dawn; so understand that. And Allah gives His kingdom the verse. And he صلى الله عليه وسلم said: I was given the Opening of the Book from beneath the Throne. And he صلى الله عليه وسلم said: Whoever comes to his home and recites Surat al-Fatiha and al-Ikhlas, poverty is removed from him and his good increases. And he صلى الله عليه وسلم said: The Opening of the Book is a healing from every disease. And know that among the important matters of the secret of praise is the first of the Noble Book, and it is the seven oft-repeated ones; so understand the secret of the praise-ness, and the praise of the Book is connected to Muhammad of Paradise. And Imam Ali, may Allah ennoble his face, said: If I wished to load seventy camels from the numbering of the basmalah and the Opening of the Book, I would do so. And some of the great ones said regarding this surah: a thousand outward properties and a thousand inward properties. Muslima Qasim ibn Ibrahim said: Umm al-Kitab is the head of the Qur’an and its pillar, and in it are five names, and they are that by which Allah تعالى honored this surah over the other surahs, and in it is Bismillah al-A‘ظم, by which if He is called He answers, and if He is asked by it He gives. And these
+
+---
+_End of translation — 209 pages._
