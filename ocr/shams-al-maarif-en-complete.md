@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 209 translated pages._
+_Auto-generated from 215 translated pages._
 
 ---
 ## Page 1
@@ -12467,4 +12467,302 @@ And Imam Uthman ibn Affan, may Allah be pleased with him, asked the Prophet صل
 Ibn Abbas said: Ali ibn Abi Talib, may Allah ennoble his face, informed me, and I went out to al-Baqi‘ at the beginning of the night, and he said to me: Recite, O Ibn Abbas. He said: So I recited Bismillah al-Rahman al-Rahim, and he began to lean for me in the ba’ and its requirement until the rising of dawn; so understand that. And Allah gives His kingdom the verse. And he صلى الله عليه وسلم said: I was given the Opening of the Book from beneath the Throne. And he صلى الله عليه وسلم said: Whoever comes to his home and recites Surat al-Fatiha and al-Ikhlas, poverty is removed from him and his good increases. And he صلى الله عليه وسلم said: The Opening of the Book is a healing from every disease. And know that among the important matters of the secret of praise is the first of the Noble Book, and it is the seven oft-repeated ones; so understand the secret of the praise-ness, and the praise of the Book is connected to Muhammad of Paradise. And Imam Ali, may Allah ennoble his face, said: If I wished to load seventy camels from the numbering of the basmalah and the Opening of the Book, I would do so. And some of the great ones said regarding this surah: a thousand outward properties and a thousand inward properties. Muslima Qasim ibn Ibrahim said: Umm al-Kitab is the head of the Qur’an and its pillar, and in it are five names, and they are that by which Allah تعالى honored this surah over the other surahs, and in it is Bismillah al-A‘ظم, by which if He is called He answers, and if He is asked by it He gives. And these
 
 ---
-_End of translation — 209 pages._
+## Page 210
+
+**Arabic (original):**
+— ٢٠٤ —
+
+الأسماء الشريفة قال أهل العلم بالله تعالى إنها في اللوح المحفوظ كما هي في أول القرآن وهي مكتوبة في
+سرادقات العرش والكرسي وكلماتها كثير أثير إلى الحروف والفواتح للسور وعدد حروفها
+١٠٢٣ حرفا وذلك عدد اسمه صلى الله عليه وسلم محمد أفصح الأنبياء وأحمد منها له لمحمد عبدالله
+وأحمد عبدالرحمن ﴿ لطيفة ﴾ الشهر تسعة وعشرون يوما والثلاثون تارة تثبت وتارة لا تثبت لأنها
+فائدة ليلة من وهي سنة لا واجبة فافهم ذلك لأن واو الحمد لله في العطف هي قطب دائرتها محور اسمها
+إذ هي الله الشفيق العددي الحرفي والشفيق العلمي لأنها تشير إلى مقام الولاية وهي أشرف المهمات
+وهي منزلة من إحدى وعشرين حرفا وقد سقط منها هذه الأحرف السبعة ب ط ح ح و ط ش ف
+هؤلاء يسمون سواقط الفاتحة وقد أنزل في الكتاب الأول أن من قرأ سورة خالية من هذه الأحرف
+السبعة التي هي سواقط حرمه الله تعالى على النار وقد اجتمعت في آيتين كريمتين في سورة الأنعام واعلم
+أن الحروف الساقطة أمان من الظالمة وقال بعض العارفين من كتب سورة الفاتحة في جام زجاج بقلم
+من ذهب في الساعة الأولى من يوم الجمعة بمسك وكافور ومحاه بماء ورد ووضعه في قارورة ومسح به
+وجهه عند دخوله على الملوك والأمراء فإنه ينال القبول والمحبة بإذن الله تعالى وإذا كتب في إناء طاهر
+ومحي بماء ورد وغسل به المريض وجع عينه بإذن الله تعالى وإذا كتبها لكثير النسيان في إناء من زجاج
+ومحاها بماء ورد وشرب منه إما ما زال نسيانه وحفظ كلما سمع ﴿ وفي خبر صحيح من أراد أن يشفى
+من كل ضعف في بصره أو رمد أصابه فليصل الهلال أول ليلة أو الثانية فإذا رآه فليمسح
+بيمينه على عينيه وهو يقرأ أم القرآن عشر مرات يبسمل في كل مرة ويؤمن في آخرها ثم يقرأ قل هو
+الله أحد ثلاث مرات ويمسح على عينيه ﴿ قول شفاء من كل داء برحمتك يا أرحم الراحمين سبع
+مرات فإن الله سبحانه وتعالى يعافيه من كل داء في بصره وكل مرض أصابه والله على كل شيء قدير
+﴿ وعن أنس رضي الله تعالى عنه أنه قال قال رسول الله صلى الله عليه وسلم إذا وضعت جنبك تقرأ
+فاتحة الكتاب وقل هو الله أحد فقد أمنت من كل شيء إلا الموت ﴿ قد أهدناك من طرائف ما عندنا
+وأهدينا إليك من غرائب ما لدينا من هذه الجواهر المصونة واليواقيت المخزونة فاستجلب ما عند
+ربك وكاتبك من خير وما تؤمله من هداية وبر تقرأ السبع المثاني والقرآن العظيم الذي أمرت
+بقراءتها في كل صلاة ﴿ وأخبرك الصادق عليه الصلاة والسلام بأنه ليس في التوراة والإنجيل والزبور
+مثلها وهذا تنبيه بل تصريح أن تكثر من قراءتها وذكرها لما تضمنت من الفوائد وحصنت به مما
+لو سطر لكان فيه أوقار إجمال فافهم ذلك ﴿ وقال عبدالله بن مسعود اشتكيت من وجع عيني للنبي
+صلى الله عليه وسلم فقال لي انظر في المصحف فنظرت فيه فعافاني الله تعالى وقال أبو بكر الصديق
+رضي الله عنه في كل كتاب سر والله تعالى في القرآن في أوائل السور وقال رضي الله عنه
+إن لكل كتاب صفوة وصفوة القرآن حروف التهجي ﴿ وسئل ابن عباس رضي الله عنهما عن الرحمن
+فقال اسم الرحمن على الهجاء وقيل هو اسم القرآن قاله السدي والكلبي وقتادة وقيل إنها حروف
+أقسم الله تعالى بها قاله ابن عباس وعكرمة وقيل إن كل حرف فيها يدل على أسمائه وصفاته وقال ابن
+عباس رضي الله عنهما الم الألف إشارة إلى أنه أول واللام إشارة إلى أنه لطيف والميم إشارة إلى
+أنه
+
+**English:**
+— 204 —
+
+The noble names, the people of knowledge with Allah تعالى said that they are in the Preserved Tablet, as they are at the beginning of the Qur’an, and they are written in the pavilions of the Throne and the Kursi, and their words are many, more abundant than the letters and the openings of the surahs, and the number of their letters is 1023 letters, and that is the number of his name, صلى الله عليه وسلم, Muhammad, the most eloquent of the prophets, and Ahmad from them, for him, for Muhammad Abdullah and Ahmad Abd al-Rahman. [Subtle point] The month is twenty-nine days, and thirty at times is established and at times is not established, because it is the benefit of a night from it, and it is a Sunnah, not obligatory, so understand that. For the waw of “al-hamdu lillah” in conjunction is the pole of its circle, the axis of its name, since it is Allah, the compassionate, numerically and letter-wise, and the compassionate in knowledge, because it points to the station of sainthood, and it is the noblest of the tasks, and it is a station of twenty-one letters, and from it these seven letters have fallen: ب ط ح ح و ط ش ف. These are called the fallen letters of al-Fatiha. And it has been sent down in the first Book that whoever reads a surah devoid of these seven letters, which are the fallen ones, Allah تعالى will forbid him from the Fire. And they have come together in two noble verses in Surat al-An‘am. And know that the fallen letters are a protection from the الظالمة. And some of the gnostics said: whoever writes Surat al-Fatiha in a glass bowl with a pen of gold in the first hour of Friday, with musk and camphor, and erases it with rose water, and places it in a flask, and wipes his face with it when entering upon kings and princes, he will attain acceptance and love, by permission of Allah تعالى. And if it is written in a pure vessel and erased with rose water, and the sick person’s eye pain is washed with it, by permission of Allah تعالى. And if it is written for one of much forgetfulness in a vessel of glass, and erased with rose water, and he drinks from it, then his forgetfulness will cease and he will retain whatever he hears. And in a sound report: whoever wishes to be cured from every weakness in his sight or from ophthalmia that has afflicted him, let him watch the crescent on the first night or the second; then when he sees it, let him wipe with his right hand over his eyes while reciting Umm al-Qur’an ten times, beginning with basmala each time and saying amen at its end, then recite “Qul huwa Allahu ahad” three times and wipe over his eyes, and say: “A saying of healing from every ailment, by Your mercy, O Most Merciful of the merciful,” seven times; then Allah سبحانه وتعالى will grant him well-being from every ailment in his sight and every disease that has afflicted him, and Allah is over all things powerful. And from Anas, رضي الله تعالى عنه, that he said: the Messenger of Allah صلى الله عليه وسلم said: if you place your side down, recite Fatihat al-Kitab and “Qul huwa Allahu ahad,” then you are safe from everything except death. We have indeed gifted you from the curiosities of what is with us, and presented to you from the marvels of what is with us, from these preserved jewels and stored rubies, so seek what is with your Lord and your scribe of good, and what you hope for of guidance and righteousness: you recite the seven oft-repeated ones and the عظیم Qur’an, which you were commanded to recite in every prayer. And the truthful one, عليه الصلاة والسلام, informed you that there is nothing like it in the Torah, the Gospel, and the Psalms. And this is an admonition, rather an explicit statement, that you increase in its recitation and remembrance because of what it contains of benefits and what it fortifies with, which if it were written down there would be in it burdens of brevity, so understand that. And Abdullah ibn Mas‘ud said: I complained of the pain in my eye to the Prophet صلى الله عليه وسلم, and he said to me: look into the mushaf. So I looked into it and Allah تعالى cured me. And Abu Bakr al-Siddiq, رضي الله عنه, said: in every book there is a secret, and Allah تعالى’s secret in the Qur’an is in the openings of the surahs. And he, رضي الله عنه, said: every book has a quintessence, and the quintessence of the Qur’an is the letters of spelling. And Ibn Abbas, رضي الله عنهما, was asked about al-Rahman, and he said: the name al-Rahman is upon spelling. And it was said: it is the name of the Qur’an; al-Suddi, al-Kalbi, and Qatadah said so. And it was said that they are letters by which Allah تعالى swore; Ibn Abbas and Ikrimah said so. And it was said that every letter in it يدل on His names and attributes. And Ibn Abbas, رضي الله عنهما, said: alif is an indication that He is first, and lam is an indication that He is subtle, and mim is an indication that He is
+
+---
+## Page 211
+
+**Arabic (original):**
+— ٢٠٥ —
+
+إنه مالك، وقيل إن بعض هذه الحروف تدل على بعض أسماء الذات وبعضها على بعض أسماء الصفات، وقيل الألف آلاؤه، واللام لطفه، والميم مجده. وقال الضحاك: الألف عن الله، واللام عن جبريل، والميم عن محمد. وقال بعض العارفين معناه في الميم من، وقيل إن بعضها يدل على أسماء الله تعالى وبعضها على غير أسماء الله تعالى. وقال بعض أرباب الحقائق إن هذه الحروف جعلها الله تعالى حفظاً للقرآن من الزيادة والنقصان، وهي المشار إليها في قوله تعالى: {إنا نحن نزلنا الذكر وإنا له لحافظون}. وقال بعض أرباب الحقيقة إن الحروف التي تلفظ بها ثمانية وعشرون حرفاً، شطرها حروف النور وشطرها حروف الظلمة، وحروف النور وهي: الألف والهاء والصاد والسين والكاف والعين والراء والطاء والهاء والنون والميم والقاف واللام والياء، وما عداها حروف الظلمة. وقد كانت الحكماء تكتب هذه الأحرف في أجساد الأصنام حتى يخضع لها من رآها بالعبادة من هيبتها لأمور اعتادوها. ومن نقش هذه الأحرف النورانية والأسرار العرفانية في فص خاتم من جسم شريف في مربع أول شهر رجب ولبسه، فإن كان خائفاً أمن، وإن دخل به على سلطان أكرمه وقضى حاجته، وإن مسح به على رأس غضبان زال غضبه، وإن وضعه في فيه وهو ظمآن روي، وإذا ذاب [~] في ماء المطر وشرب به قوي فهمه وجاد حفظه، ولبسته امرأة عازبة تزوجت ورغب فيها الخطاب، وإذا وضع على رأس صروع أفاق بإذن الله تعالى، وإن حملته امرأة وهي تطلق وضعت حالاً بإذن الله تعالى، ومن طبع به على كندر وبخر به مسحوراً زال سحره بإذن الله تعالى، وهذه صورته كما ترى فافهم ترشد:
+
+| عسق | طمس | حم ق | الر ن |
+| :--- | :--- | :--- | :--- |
+| أحد ملك | مالك كافي | نافع | رحمن |
+| محمد كبر | الم كرب | الله | كفيل |
+| طمعس | الم ص | الم ص | ق ن |
+
+وهذه هي الأحرف كما ترى فافهم ترشد: الم الر كهيعص طه طس يس ص ق ن. فمن نقشها على الترتيب الإلهي وهي: الم كهيعص طس حم ق ص ن في خاتم من فضة والطالع الثور وحمله معه قضيت حوائجه، ورأى من عجائب لطف الله تعالى ما لا يدخل تحت حصر، والله الموفق. وقال الشيخ أبو الحسن الحراني رحمه الله: فتبصر في دفع السموم على الحروف التي في أوائل السور. وقال بعض العلماء: إني وقفت على سطور عن عبد الرحمن بن عوف الزهري أنه كان يكتب هذه الأحرف على ما يريد حفظه من الأموال متاع فيحفظ. وذكر عن عثمان بن عفان رضي الله تعالى عنه أنه قال: اللهم احفظ آل محمد بالنصر والذائقة بالمص وكهيعص وحم عسق والقرآن المجيد والقلم وما يسطرون. وكان الإمام الكمال رحمه الله تعالى إذا ركب في الدجلة يقرأ هذه الأحرف التي في أوائل السور، فتسئل عن ذلك فقال: ما قرئت أو وضعت في متاع في بر أو بحر إلا حفظ ذلك المتاع، وتاليها وحاملها في نفسه وماله أمن من الغرق والتلف. كان بعض العلماء إذا أراد سفراً في البحر كتب هذه الأحرف في رق أو شقفة.
+
+**English:**
+It is Malik. And it was said that some of these letters indicate some of the names of the Essence and some of them some of the names of the attributes. And it was said: alif is His bounties, lam is His gentleness, and mim is His glory. Al-Dahhak said: alif is from Allah, lam is from Jibril, and mim is from Muhammad. And some of the gnostics said its meaning in mim is “from.” And it was said that some of them indicate the names of Allah تعالى and some of them other than the names of Allah تعالى. And some of the people of realities said that Allah تعالى made these letters as a preservation for the Qur’an from increase and decrease, and they are what is indicated in His saying تعالى: {Indeed We, We sent down the Reminder, and indeed We are surely its محافظون}. And some of the people of reality said that the letters pronounced are twenty-eight letters, half of them are the letters of light and half of them are the letters of darkness, and the letters of light are: alif, ha, sad, sin, kaf, ayn, ra, ta, ha, nun, mim, qaf, lam, ya, and whatever is other than them are letters of darkness. And the sages used to write these letters on the bodies of idols so that whoever saw them would submit to them in worship from their awe for matters they had become accustomed to. And whoever engraves these luminous letters and gnostic secrets in the bezel of a ring of a noble substance in the square of the first month of Rajab and wears it, if he is fearful he will be made safe; and if he enters with it upon a sultan, he will honor him and fulfill his need; and if he wipes with it over the head of one in anger, his anger will depart; and if he places it in his mouth while thirsty, he will be quenched; and if it is melted [~] in rainwater and drunk with it, his understanding will become strong and his memorization excellent; and if an unmarried woman wears it, she will marry and suitors will desire her; and if it is placed on the head of one afflicted by seizure, he will recover by permission of Allah تعالى; and if a woman carries it while in labor, she will give birth immediately by permission of Allah تعالى; and whoever smokes an afflicted person with it on frankincense and fumigates him, his sorcery will depart by permission of Allah تعالى. And this is its form as you see, so understand, you will be guided:
+
+| عسق | طمس | حم ق | الر ن |
+| :--- | :--- | :--- | :--- |
+| أحد ملك | مالك كافي | نافع | رحمن |
+| محمد كبر | الم كرب | الله | كفيل |
+| طمعس | الم ص | الم ص | ق ن |
+
+And these are the letters as you see, so understand, you will be guided: الم الر كهيعص طه طس يس ص ق ن. So whoever engraves them in the divine order, namely: الم كهيعص طس حم ق ص ن, in a silver ring, and the ascendant is Taurus, and carries it with him, his needs will be fulfilled, and he will see from the wonders of the gentleness of Allah تعالى what does not enter under count, and Allah is the grantor of success. And Shaykh Abu al-Hasan al-Harrani, رحمه الله, said: so look carefully into repelling poisons by the letters that are in the openings of the surahs. And some of the scholars said: I came upon lines from Abd al-Rahman ibn Awf al-Zuhri that he used to write these letters upon whatever of property he wanted to preserve, and it would be preserved. And it is mentioned from عثمان بن عفان رضي الله تعالى عنه that he said: O Allah, preserve the family of Muhammad by victory and the tasting by al-mas and كهيعص and حم عسق and the glorious Qur’an and the pen and what they inscribe. And Imam al-Kamal, رحمه الله تعالى, when he rode in the Tigris, used to recite these letters that are in the openings of the surahs, and he was asked about that, so he said: nothing is recited or placed in goods on land or sea except that that good is preserved, and its reciter and its bearer are safe in themselves and their wealth from drowning and destruction. Some of the scholars, when he wanted a journey by sea, used to write these letters in a parchment or a shard.
+
+---
+## Page 212
+
+**Arabic (original):**
+— ٢٠٦ —
+
+فاذهاج البحر ألقاها فيه فركد باذن الله تعالى وكان بعض الصالحين يسافر معه حروف المعجم
+التي في أوائل السور فسئل عن ذلك فقال ظهر لي بركتها وبها يحفظني الله تعالى ويوسع علي رزقي
+ويحفظني عند العدو والسبع والحشرات حتى أعود الى أهلي * وذكر عن بعض الصالحين
+أنه كان عنده جارية فنامت من النوم وباتت في موضع لم تتعد فيه للمول فصرعت فقام سيدها وقال
+حمعسق ن والقلم وما يسطرون فسرى الحجى ولم يعد اليها ومن نقش الحروف النورانية في شكل
+مدور من فضة والطالع الثور وفيه القمر وأمسكه عنده فانه لا يخلو من نفعه وقال الامام علي كرم
+الله وجهه رأيت الخضر عليه السلام قبل وقعة بدر بيوم واحد فقلت له علمني شيئاً أنتصر به على
+الاعداء فقال قل بسم الله الرحمن الرحيم اللهم اني أسألك بحق الم والم والمص والمر والر
+وكهيعص وطه وطسم وطس ويس وحم وحم وحم وحم وحم وحم وحم
+وق ون يامن هو هو يامن لا اله الا هو اغفر لي وانصرني انك على كل شيء قدير وهذا سر جمع
+ونور لامع توضع في يوم الخميس في أول ساعة شكلاً خمساً في معدن رضع كالذهب والفضة
+أو رق وتكتب فيه كهيعص ٥ مرات ثم تقول اللهم ياهادي يا كريم ياعليم يا باقي يا الهي
+اقض حاجتي وهي كذا وكذا أو ما يتعلق بالاخرة فانه ينال ما يريد وأما كهيعص ففيها
+سر مكنون فالكاف من كافي والهاء من هادي والياء من باري والعين عليم والصاد صادق
+كذا روى عن عبد الله بن عمر وابن عباس قيل كان عبد الله بن عباس اذا دعا يقول يا كافي اهْدِ
+يا باري يا عليم يا صادق اقض لي كذا وكذا وقيل هو اسم الله الاعظم واذا أردت قبولاً عند الاكابر أو
+غيرهم أو شخص معين يقضى حاجتك فخذ رق ظبي واكتب فيه هذا الوفق الآتي وبخره
+بمصطكى ومحلب وعود وضعه في رأسك أمامك فكل حاجة توجهت فيها تقضى وينصرك الله
+على أعدائك وقد قال فيها أمير المؤمنين علي بن أبي طالب كرم الله وجهه شعراً
+عشرون حرفاً لمعان جممت * خمس وخمس صورتن سكملت
+ترى السر فيها ان سألت معلماً * يراك اذا فيها معان تشرعت
+فنهافض الحاجات قد شاع ذكرها * ومنها لرد الخصم اذ هي جربت
+تكلم أهل العلم فيها بسرم * وقالو احصنت ذ السر الذي أنظمت
+ومن رسمها في فص خاتم في الاولى يوم الجمعة في قوة الهلال ووضعه في أصبعه كان له قبول وبهجة
+وهو الشكل الذي وضعه أبو يعقوب الكندي للقبول عند سائر الخلق يكتب في حريرة صفراء
+والطالع المشتري ويحملها ينال الحظ الوافر عند الخلق بقدرة الله وهذه صورته
+
+| ل | هـ | ي | ع | ص |
+| :--- | :--- | :--- | :--- | :--- |
+| ى | ع | ص | ك | هـ |
+| هـ | ص | ك | هـ | ى |
+| ى | ع | ص | ك | هـ |
+| ص | ك | هـ | ى | ع |
+
+| ح | م | ع | س | ق |
+| :--- | :--- | :--- | :--- | :--- |
+| م | ع | س | ق | ح |
+| س | ق | ح | م | ع |
+| س | ق | ح | م | س |
+| ق | ح | م | س | ق |
+
+ومن
+
+**English:**
+So it cast it into the sea, and it became still by permission of Allah تعالى. And some of the righteous would travel with him the letters of the alphabet that are in the openings of the surahs. He was asked about that, and he said: their blessing has become apparent to me, and by them Allah تعالى preserves me and expands my provision for me and preserves me with the enemy and the beast and the insects until I return to my family. * And it is mentioned from some of the righteous that he had a slave girl, and she slept from sleep and spent the night in a place in which she had not تجاوزت for the male, so she was seized by convulsions. So her master stood and said: حمعسق ن and the Pen and what they inscribe, and the seizure departed and did not return to her. And whoever engraves the luminous letters in a circular form of silver, and the ascendant is Taurus and the moon is in it, and keeps it with him, فإنه لا يخلو من نفعه. And Imam Ali, may Allah honor his face, said: I saw al-Khidr عليه السلام one day before the battle of Badr, and I said to him: teach me something by which I may gain victory over the enemies. He said: say, “In the name of Allah, the Merciful, the Compassionate. O Allah, I ask You by the right of الم and الم and المص and المر and الر and كهيعص and طه and طسم and طس and يس and حم and حم and حم and حم and حم and حم and حم and ق and ن, O He, who is He, O He, there is no god but He, forgive me and grant me victory; indeed You are over all things powerful.” And this is the secret of gathering and shining light: it is placed on Thursday in the first hour, in a form of five in a mineral like gold and silver or parchment, and كهيعص is written in it 5 times, then you say: O Allah, O Guide, O Generous, O Knowing, O Remaining, O my God, fulfill my need, and it is such and such, or what relates to the Hereafter, for he will obtain what he wants. As for كهيعص, in it is a hidden secret: the kaf is from Kafi, and the ha is from Hadi, and the ya is from Bari, and the ayn is Knowing, and the sad is Truthful. Thus it is narrated from Abdullah ibn Umar and Ibn Abbas. It was said that Abdullah ibn Abbas, when he supplicated, would say: O Kafi, guide; O Bari, O Knowing, O Truthful, fulfill for me such and such. And it was said that it is the Greatest Name of Allah. And if you desire acceptance with the great ones or others, or a specific person to have your need fulfilled, then take a gazelle parchment and write in it this following wafq, and fumigate it with mastic and mahlab and oud, and place it on your head before you, then every need toward which you turn will be fulfilled, and Allah will grant you victory over your enemies. And the Commander of the Faithful Ali ibn Abi Talib, may Allah honor his face, said concerning it poetry:
+
+Twenty letters for meanings I gathered * Five and five, a form completed
+You see the secret in it if you ask a teacher * He sees you, if in it meanings are unfolded
+So the needs’ repellers, their mention has become widespread * And among them is for repelling the adversary, since it has been tried
+The people of knowledge spoke in it with a secret * And they said: you have fortified that secret which you composed
+
+And whoever draws it in the bezel of a ring in the first hour of Friday in the strength of the crescent and places it on his finger, it will have acceptance and splendor for him. And it is the form which Abu Ya‘qub al-Kindi placed for acceptance with the rest of creation: it is written on yellow silk, and the ascendant is Jupiter, and whoever carries it obtains abundant fortune with creation by the power of Allah. And this is its image:
+
+| ل | هـ | ي | ع | ص |
+| :--- | :--- | :--- | :--- | :--- |
+| ى | ع | ص | ك | هـ |
+| هـ | ص | ك | هـ | ى |
+| ى | ع | ص | ك | هـ |
+| ص | ك | هـ | ى | ع |
+
+| ح | م | ع | س | ق |
+| :--- | :--- | :--- | :--- | :--- |
+| م | ع | س | ق | ح |
+| س | ق | ح | م | ع |
+| س | ق | ح | م | س |
+| ق | ح | م | س | ق |
+
+And from
+
+---
+## Page 213
+
+**Arabic (original):**
+- ٢٠٧ -
+
+ومن رسمها في خاتم في شرف الزهرة من فضة وحمله رزق الهيبة والمحبة والقبول وإذا تختم به من به
+نزيف انقطع عنه وإذا جمع بين وفقه العددي والحرفي كان أسرع للإجابة وقال بعض الصالحين لما
+بعث النبي عليه السلام وأنزل عليه كهيعص وكذلك يوحي إليك وإلى الذين من قبلك علمت أن في ذاك
+من اللطيف فاتخذته وذريتي عند المخاوف والشدائد فرزقت ووقيت الخوف والشدائد وكان علي
+يدعو بها في الشدائد يقول اللهم يا كهيعص يا كهيعص اغفر لي وارحمني وكان يقول لا يدعوه
+أحدكم بهذا الاسم إلا استجيب له وقضيت حاجته وهذه صورته
+
+[Grid content preserved as-is]
+[Grid 1]
+
+ومن جمع بين كهيعص وحمعسق في وفق معشر حرفي ويكون في شرف القمر في صحيفة فضة يرى
+ما تعجز عنه الأوصاف وفيه سر بديع لقضاء الحوائج قدره قدر المغناطيس الأكبر والكبريت
+الأحمر وهذه صفته كما ترى فافهم ترشد والله تعالى أعلم
+
+[Grid content preserved as-is]
+[Grid 2]
+
+وهذا دعاؤه تقول بسم الله الرحمن الرحيم اللهم إني أسألك بكهيعص أن تكفني كل عظيم
+وأن تصرف عني كذا وكذا يارب العالمين وما يناسب هذا لو وفق الخمس آيات وهي كأنه أنزله من
+السماء فاختلط به نبات الأرض فأصبح هشيماً تذروه الرياح وكان الله على كل شيء مقتدراً هو الله الذي
+
+**English:**
+- 207 -
+
+And whoever draws it in a ring in the exaltation of Venus, from silver, and carries it, is granted awe, love, and acceptance. And if one who has bleeding is sealed with it, it ceases from him. And if its numerical and literal accord are combined, it is quicker for response. And some of the righteous said: when the Prophet, peace be upon him, was sent and كهيعص was sent down upon him, likewise “Thus does He reveal to you and to those before you,” I knew that in that there is from the لطيف, so I took it, and my offspring, at times of fears and hardships, and I was provided for and protected from fear and hardships. And ʿAli used to supplicate with it in hardships, saying: O Allah, O كهيعص, O كهيعص, forgive me and have mercy on me. And he used to say: none of you calls upon Him by this name except that he is answered and his need is fulfilled. And this is its form.
+
+[Grid content preserved as-is]
+[Grid 1]
+
+And whoever combines كهيعص and حمعسق in a lettered muwafaq of twenty, and it is in the exaltation of the moon in a silver tablet, sees what descriptions are عاجزة عنه. And in it is a wondrous secret for the fulfillment of needs, its measure being the measure of the greater magnet and the red sulfur. And this is its description as you see, so understand, you will be guided. And Allah تعالى knows best.
+
+[Grid content preserved as-is]
+[Grid 2]
+
+And this is its supplication: you say, In the name of Allah, the Merciful, the Compassionate. O Allah, I ask You by كهيعص that You suffice me against every great matter, and that You turn away from me such-and-such, O Lord of the worlds. And what is suitable for this is if the five verses are made into a muwafaq, and they are: “As though He had sent it down from the sky, and the vegetation of the earth became mixed with it, then it became dry stubble, scattered by the winds, and Allah is over everything powerful. He is Allah, the One
+
+---
+## Page 214
+
+**Arabic (original):**
+— ٢٠٨ —
+لا إله إلا هو عالم الغيب والشهادة هو الرحمن الرحيم يوم الآزفة إذ القلوب لدى الحناجر كاظمين
+ما للظالمين من حميم ولا شفيع يطاع علمت نفس ما أحضرت فلا أقسم بالخنس الجوار الكنس الآية ص والقرآن
+ذي الذكر بل الذين كفروا في عزة وشقاق ( وخواصها كثيرة ) قال الشيخ زين الدين الكافي
+تخرج المسجون من السجن وتطلق الأسير ولها تصاريف كثيرة جدا وناسبها من الأوفاق
+وفق الزهرة وهو في هـ للسنة العربية العددية فجعلناها لهذه الآيات الجليلة الشأن فالزهرة
+والحياة الطيبة وزيادة المحبة والأفراح والأصداق أضافوا لها هذا الوفق بالسر الإلهي المخزون
+الطاهر العظيم وأضلاعه عشرة أسماء من أسماء الله الحسنى في سورة الفاتحة هـ وفي سورة الأنعام هـ
+فتدبر هذا الكنز القديم والرمز القويم وقال بعض العلماء إذا أردت إحضار شخص غائب فاقرأ الخمس
+آيات ٦٠ مرة بقلب وجمعة واطلبه فإنه يحضر وأما طه فاسم محمد عليه السلام وله من العدد ١٤ وهو
+عدد نصف منازل القمر وهو حجاب أكبر نافع لكل ما تريد وإذا كنت خائفاً من جبار أو
+سلطان خذ من الأرض ٥ حصيات تقرأ الأولى ك وعلى الثانية هـ وعلى الثالثة ي وعلى الرابعة ع
+وعلى الخامسة ص ثم ترمى الأولى عن يمينك وتقول قوله والثانية عن يسارك وتقول الحق والثالثة
+خلفك وتقول وله والرابعة بين يديك وتقول الملك ثم تضع الخامسة فوق رأسك وأنت تقول كهيعص
+حمعسق أمسك عليك لسانك يا فلان بن فلانة بحق الاسم الأعظم وبحق هذه الأسماء الشريفة
+كهيعص حمعسق صم بكم عمي فهم لا يرجعون فإن الله يعقد لسانه عنك وهذا من السر
+المخزون وإذا كنت في مكان مخيف تخط بإصبعك في الأرض من وراء ظهرك خطاً وأنت تقرأ حتى
+تقفل عليك دائرة عند تمام الأحد عشر ثم اسكت ولا تتكلم فإن الله يعمي عنك الأبصار ولو دخل
+الدخول على حاكم أو قاض أو ظالم أو غيره فإذا كان آخر العدد من الستين تقول ك وتعقد إصبعاً
+من اليد اليمنى هـ وتعقد إصبعاً ثانياً ي وتعقد إصبعاً ثالثاً ع وتعقد إصبعاً رابعاً ص وتعقد
+الخامس وتفعل ذلك باليسرى ن حمعسق على كل إصبع فصير اليد منطبقة فادخل عليه وافتحها
+في وجهه ترى عجب من عجائب الله وهذه صفته بأوجه الثان كما ترى
+
+كاه
+
+**English:**
+— 208 —
+There is no god but He, Knower of the unseen and the witnessed, He is the Merciful, the Compassionate. The Day of the Approaching, when the hearts are at the throats, choking; the الظالمين have no intimate friend nor an intercessor obeyed. A soul knows what it has brought forward. So I swear not by the retreating, the running, the hiding. The verse. Ṣād. By the Qur’an full of remembrance. Nay, those who disbelieve are in pride and dissension. (And its properties are many.) Shaykh Zayn al-Din al-Kafi said: it brings the imprisoned out of prison and releases the captive, and it has very many dispositions. And suitable to it from the awfaq is the awfaq of Venus, and it is in هـ for the numerical Arabic year, so we made it for these majestic verses, for Venus, and the good life, and increase of love, and joys, and dowries. They added to it this awfaq by the hidden, pure, great divine secret, and its sides are ten names from the Beautiful Names of Allah in Surat al-Fatiha هـ and in Surat al-Anʿam هـ. So reflect on this ancient treasure and the upright symbol. And some scholars said: if you want to bring an absent person, recite the five verses 60 times with heart and Friday, and ask for him, for he will come. As for Ṭā Hā, it is the name of Muhammad, peace be upon him, and its number is 14, which is the number of half the mansions of the moon, and it is the greatest veil, beneficial for whatever you want. And if you are afraid of a tyrant or a sultan, take from the earth 5 pebbles; on the first read ك, and on the second هـ, and on the third ي, and on the fourth ع, and on the fifth ص. Then throw the first to your right and say “His saying,” and the second to your left and say “the Truth,” and the third behind you and say “and to Him,” and the fourth before you and say “the King,” then place the fifth above your head while you say كهيعص حمعسق. Hold your tongue, O so-and-so son of so-and-so, by the right of the Greatest Name and by the right of these noble names: كهيعص حمعسق صم بكم عمي فهم لا يرجعون, for Allah binds his tongue from you, and this is from the hidden secret. And if you are in a frightening place, draw with your finger in the earth behind your back a line while you recite until a circle encloses you at the completion of eleven, then be silent and do not speak, for Allah blinds the eyes from you. And if entering upon a ruler or judge or tyrant or other than them, then when the last of the number from sixty comes, you say ك and you knot a finger from the right hand, هـ and you knot a second finger, ي and you knot a third finger, ع and you knot a fourth finger, ص and you knot the fifth, and you do that with the left: ن حمعسق on every finger, then make the hand folded together, then enter upon him and open it in his face; you will see a wonder from the wonders of Allah. And this is its form with the faces of the second as you see.
+
+Kah
+
+---
+## Page 215
+
+**Arabic (original):**
+٢٠٩
+
+| كأنّه أنزلناه من | السماء فاختلط | به نبات الأرض | فأصبح هشيماً | تذروه الرياح |
+| :--- | :--- | :--- | :--- | :--- |
+| يوم الآزفة إذ | القلوب لدى | الحناجر | كاظمين ما للظالمين | من حميم ولا شفيع |
+| هو الله الذي | لا إله إلا هو | عالم الغيب والشهادة | هو الرحمن | الرحيم |
+| علمت نفس ما | فلا أقسم بالخنس | الجوار الكنس | والليل إذا عسعس | والصبح إذا تنفس |
+| ص والقرآن | ذي الذكر | كفروا | في عزة وشقاق | |
+| الله فاطر | رب قادر | رحمن لطيف | رحيم جدير | ملك قاهر |
+| السماء فاختلط | ذات الأرض | فأصبح هشيماً | تذروه الرياح | كأنّه أنزلناه من |
+| لا إله إلا هو | عالم الغيب والشهادة | هو الرحمن | الرحيم | هو الله الذي |
+| إذ القلوب لدى | الحناجر كاظمين | ما للظالمين من | حميم ولا شفيع | يوم الآزفة |
+| علمت نفس ما | الجوار الكنس | والليل إذا عسعس | والصبح إذا تنفس | علمت نفس ما |
+| ذي الذكر | بل الذين | كفروا في عزة | وشقاق | ص والقرآن |
+| رب قادر | رحمن لطيف | وشقاق | حميم خبير | الله فاطر |
+| به نبات الأرض | فأصبح هشيماً | تذروه الرياح | كأنّه أنزلناه من | السماء فاختلط |
+| عالم الغيب والشهادة | هو الرحمن | الرحيم | هو الله الذي | لا إله إلا هو |
+| الحناجر كاظمين | ما للظالمين | والليل إذا عسعس | يوم الآزفة | يوم الآزفة |
+| الجوار الكنس | بل الذين | كفروا في عزة | والصبح إذا تنفس | والصبح إذا تنفس |
+| رحمن لطيف | رحمن خبير | رحيم | ذي الذكر | ذي الذكر |
+| فأصبح هشيماً | تذروه الرياح | كأنّه أنزلناه من | رب قادر | رب قادر |
+| هو الرحمن الرحيم | هو | الله الذي | به نبات الأرض | به نبات الأرض |
+| ما للظالمين من | حميم ولا شفيع | لا إله إلا هو | غيب وشهادة | غيب وشهادة |
+| والليل إذا عسعس | والصبح إذا تنفس | يوم الآزفة إذ | القلوب | الجوار الكنس |
+| كفروا في عزة | وشقاق | والقرآن | ذي الذكر | بل الذين |
+| رحيم خبير | ملك قاهر | الله فاطر | رب قادر | رحمن لطيف |
+| تذروه الرياح | كأنّه أنزلناه من | السماء فاختلط | به نبات الأرض | فأصبح هشيماً |
+| الرحيم ولا شفيع | لا إله إلا هو | عالم الغيب والشهادة | هو الرحمن | الرحيم |
+| والصبح إذا تنفس | يوم الآزفة | علمت نفس ما | الحناجر كاظمين | ما للظالمين |
+| وشقاق | ص والقرآن | والقرآن | الجوار الكنس | والليل إذا عسعس |
+| الله قاهر | الله فاطر | الله فاطر | بل الذين | كفروا في عزة |
+| | | | رحمن لطيف | رحيم خبير |
+
+١٤ - شمس المعارف -
+
+**English:**
+209
+
+| As though He had sent it down from | the sky, and the vegetation | of the earth became mixed with it, then it became dry stubble, | scattered by the winds |
+| :--- | :--- | :--- | :--- | :--- |
+| the Day of the Approaching, when | the hearts are at | the throats, | choking; the الظالمين have no | intimate friend nor intercessor |
+| He is Allah, the One | there is no god except Him | Knower of the unseen and the witnessed | He is the Merciful | the Compassionate |
+| A soul knows what | So I swear not by the retreating | the running, the hiding | and the night when it grows dark | and the morning when it breathes |
+| Ṣād. By the Qur’an | full of remembrance | disbelieved | in pride and dissension | |
+| Allah, Originator | Lord, Powerful | Merciful, Gentle | Compassionate, Worthy | King, Subduer |
+| the sky, and it became mixed | the earth itself | then it became dry stubble | scattered by the winds | as though He had sent it down from |
+| there is no god except Him | Knower of the unseen and the witnessed | He is the Merciful | the Compassionate | He is Allah, the One |
+| when the hearts are at | the throats, choking | the الظالمين have no | intimate friend nor intercessor | the Day of the Approaching |
+| A soul knows what | the running, the hiding | and the night when it grows dark | and the morning when it breathes | A soul knows what |
+| full of remembrance | nay, those who | disbelieved in pride | and dissension | Ṣād. By the Qur’an |
+| Lord, Powerful | Merciful, Gentle | and dissension | intimate friend, Knower | Allah, Originator |
+| by it the vegetation of the earth | then it became dry stubble | scattered by the winds | as though He had sent it down from | the sky, and it became mixed |
+| Knower of the unseen and the witnessed | He is the Merciful | the Compassionate | He is Allah, the One | there is no god except Him |
+| the throats, choking | the الظالمين have no | and the night when it grows dark | the Day of the Approaching | the Day of the Approaching |
+| the running, the hiding | nay, those who | disbelieved in pride | and the morning when it breathes | and the morning when it breathes |
+| Merciful, Gentle | Merciful, Knower | Compassionate | full of remembrance | full of remembrance |
+| then it became dry stubble | scattered by the winds | as though He had sent it down from | Lord, Powerful | Lord, Powerful |
+| He is the Merciful, the Compassionate | He | is Allah, the One | by it the vegetation of the earth | by it the vegetation of the earth |
+| the الظالمين have no | intimate friend nor intercessor | there is no god except Him | unseen and witnessed | unseen and witnessed |
+| and the night when it grows dark | and the morning when it breathes | the Day of the Approaching, when | the hearts | the running, the hiding |
+| disbelieved in pride | and dissension | and the Qur’an | full of remembrance | nay, those who |
+| Compassionate, Knower | King, Subduer | Allah, Originator | Lord, Powerful | Merciful, Gentle |
+| scattered by the winds | as though He had sent it down from | the sky, and it became mixed | by it the vegetation of the earth | then it became dry stubble |
+| the Compassionate, nor intercessor | there is no god except Him | Knower of the unseen and the witnessed | He is the Merciful | the Compassionate |
+| and the morning when it breathes | the Day of the Approaching | A soul knows what | the throats, choking | the الظالمين have no |
+| and dissension | Ṣād. By the Qur’an | and the Qur’an | the running, the hiding | and the night when it grows dark |
+| Allah, Subduer | Allah, Originator | Allah, Originator | nay, those who | disbelieved in pride |
+| | | | Merciful, Gentle | Compassionate, Knower |
+
+14 - Shams al-Maʿārif -
+
+---
+_End of translation — 215 pages._
