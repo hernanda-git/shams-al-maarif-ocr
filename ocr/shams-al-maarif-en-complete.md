@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 143 translated pages._
+_Auto-generated from 149 translated pages._
 
 ---
 ## Page 1
@@ -8097,4 +8097,307 @@ will come. And say after the conjuration each time: O King, O Ancient, two hundr
 And this is the description of the circle as you see.
 
 ---
-_End of translation — 143 pages._
+## Page 144
+
+**Arabic (original):**
+— ١٣٨ —
+
+[Image of a circular diagram containing Arabic text]
+
+وهذه العزيمة عزيمة الحروف تقول بسم الله القدوس الطاهر العلي سلمخ هر القاهر رب شيشلخ
+شلسلعطا جرر ب رب الدهور الداهرة والزمان مدير الأوقات والزمان الذي لا يحول ملكه ولا
+يزول صاحب العز الشامخ والجلال الباذخ وبأسمائه دعوتكم يا ذوي الأرواح الروحانية المنقسمين على
+طايع هذه الحروف أن تتوكلوا فيما أمرتكم من جلب فلان بن فلانة الى فلان بن فلانة بحق هذه الأسماء
+النورانية يظهر طهطف هليشقطهور يحف طهوب هن لخططف ابنار كلشي لاسمه
+فأجاب كل حي لدعوته طرففش هشراط و يطش غالب كل شي هلمليع اشليموت خوعطشهوش
+شهيع شعصع واحرق لشمغلانيخ حيططه أحططمطه أجيبوا أيتها الأرواح الكريمة خدام
+هذه الحروف العظيمة بحق ما أقسمت عليكم توكلوا يا طوطيائيل وأنت يا سلعائيل وأنت
+يا طفيائيل وأنت يا صمائيل بتسخير خدام هذه الحروف الكريمة يقضوا حوائجي وأن يحضروا
+إلى مطلوبي ما سميته لكم في هذه الدائرة من جلب فلان بن فلانة أينما تكونوا يأت بكم الله
+جميعا إن الله على كل شي قدير وهو على جمعهم إذا يشاء قدير هيا هيا الوحا الوحا العجل الساعة بحق
+ما تلوته عليكم من هذه الأسماء الشريفة المباركة المنيعة وبحق ما تلوته عليكم ۝ اعلم أيها الطالب وفقني الله
+تعالى وإياك إلى طاعته وفهم أسرار أمهاته أن هذا الباب عظيم جدا فلا تفعله إلا في الحلال وإياك ومتابعة
+الجهال فإنه كتاب الأولياء الصالحين فاتق الله تعالى وإن فعلته في غير الحلال فأنت مطالب به بين يدي
+الله تعالى فها أنا قد خلصتها من عنقي فصارت في عنقك أيها الواصل إلى هذه الدائرة العظيمة والله أعلم
+(فصل) اعلم وفقني الله تعالى وإياك إلى طاعته وفهم أسرار أسمائه أن رياضة سورة الإخلاص ودعوتها
+جليلة القدر وهي مما نبه عليه بعض الخواص من الفضلاء ۝ يحكى عن الشيخ سيد الواحد الأندلسي
+رضي الله عنه قال إني مكثت مدة سنين وإن هذه الرياضة عندي فتجهزت من بلاد المغرب إلى أن
+وصلت لمصر وتوجهت لأرض الحجاز الشهر فوافقت سنة مجاورا وتوصلت إلى ذلك الرجل وأهديت
+له
+
+**English:**
+— 138 —
+
+[Image of a circular diagram containing Arabic text]
+
+And this azīmah is the azīmah of the letters. It says: In the name of Allah, the Holy, the Pure, the High, Salmakh Har, the Subduer, Lord of Shishlakh, Shalsalaṭa Jarr B, Lord of the enduring ages and time, the disposer of times and time, whose kingdom does not change nor vanish, possessor of lofty might and splendid majesty; and by His names I called you, O possessors of spiritual souls, divided upon the Tali' of these letters, that you should undertake, in what I have commanded you, the bringing of so-and-so son of so-and-so to so-and-so son of so-and-so, by the right of these luminous names: يظهر طهطف هليشقطهور يحف طهوب هن لخططف ابنار كلشي لاسمه. Then every living thing answered to its call: طرففش هشراط و يطش غالب كل شي هلمليع اشليموت خوعطشهوش شهيع شعصع واحرق لشمغلانيخ حيططه أحططمطه. Answer, O noble spirits, servants of these mighty letters, by the right of what I have sworn upon you, undertake, O Tūṭiyā'īl, and you, O Salā'īl, and you, O Ṭafī'ā'īl, and you, O Ṣamā'īl, by subjugating the servants of these noble letters, that they may accomplish my needs and bring to my sought object what I have named for you in this circle, namely the bringing of so-and-so son of so-and-so. Wherever you may be, Allah will bring you all together. Surely Allah is powerful over everything, and He is powerful over gathering them if He wills. Come, come, the haste, the haste, the hour, by the right of what I have recited to you of these noble, blessed, impregnable names, and by the right of what I have recited to you. ۝ Know, O seeker—may Allah تعالى grant me and you success in obeying Him and understanding the secrets of His mothers—that this الباب is very عظیم, so do not do it except in what is lawful, and beware of following the ignorant, for it is the book of the righteous saints. So fear Allah تعالى; and if you do it in other than what is lawful, then you will be held to account for it before Allah تعالى. So here I have absolved it from my neck, and it has become upon your neck, O one who has reached this great circle. And Allah knows best.
+
+(Chapter) Know—may Allah تعالى grant me and you success in obeying Him and understanding the secrets of His names—that the spiritual exercise of Sūrat al-Ikhlāṣ and its invocation is of lofty value, and it is among what some of the elect among the learned have pointed out. ۝ It is related of the shaykh Sayyid al-Wāḥid al-Andalusī, may Allah be pleased with him, that he said: I remained for a period of years, and this exercise was with me, so I prepared myself from the lands of the Maghrib until I reached Egypt and set out for the land of the Ḥijāz in the month, and I happened upon a year as a neighbor, and I reached that man and presented to him
+
+---
+
+---
+## Page 145
+
+**Arabic (original):**
+— ١١٩ —
+
+له بدية سنيه وأقت مدة أصحبه وألفاخه في شيء من ذلك فلما طالت الصحبة بيني وبينه وجعلت ذات
+يوم نتفاوض في حديث الرياضة وما ذكره بعض الأولياء رضي الله عنهم في سلوكها، أن أصل
+الأمور تقوى الله تعالى وصفاء النية والإخلاص وطلب الدار الآخرة والدرجة العليا مع الذين أنعم
+الله عليهم من النبيين والصديقين والشهداء والصالحين وحسن أولئك رفيقا فقال لي الشيخ من تلقاء
+نفسه والله يا أخي عبد الواحد ما أنا في بركة وخير إلا من رياضة سورة الإخلاص فتبسمت فقال لي
+ما تبسمك أفتم أباً مما قلت لك فقلت حاشا لله تعالى أهزأ بصفة الرحمن عز وجل رب العزة والعظمة
+ولكن السبب في تبسمي أني والله ما قصدتك من بلاد المغرب ومحبتك إلا سبها فقال هكذا تقول
+بحق رب هذا البيت فقلت نعم فقال لي قال رسول الله صلى الله عليه وسلم من قصدنا وحب حقه علينا
+وأنا تابع لقوله متمسك بشريعته إذ قصدتني وجب حقك علي وأنت من أهل العلم وقصدتني من بلاد
+بعيدة وعندك صبر جميل فإن لك مدة ولم تعرفني أما سبب محبتك لي فيدل على كثرة عقلك وحسن
+معرفتك إني ورب هذا البيت ما أمنعك منها فقبلت يده وقبل رأسي وقال غداً إن شاء الله تعالى
+أعرضها عليك وأعرفك طريقتها فدعوت له بحسن العاقبة فنمت تلك الليلة من الفرح فلما بكرت
+إلى الكعبة الشريفة وطفقت الصبح وإذ بالشيخ جالس في مكانه بالأمس فأتيت إليه
+وقبلت يده فقال أتدرى ما أقوله لك وما أشرت به لك قلت لا والله قال والله أفادني شيخي عبد الصمد
+الخوارزمي أسماء تلوتها وقت النوم عشراً وأصلي على النبي صلى الله عليه وسلم وأسأل الله تعالى كشف
+ما أريده فيكشف لي ببركة هذه الأسماء وإن فعلت ذلك هذه الليلة وسألت الله تعالى أمرك وكان
+قصدك بهذه الرياضة ضرية دنيوية أو أخروية يا أهل أفعل أو ما أفعل من عظمتي فكأني رأيت
+شيخي عبد الصمد الخوارزمي في النوم وقال يا أبا عبد الله سألت عن حال عبد الواحد أو ما قصدتك
+بسببه من الرياضة الشريفة فلا ترده خائباً منها فهو من أهل الخير وأهل لذلك ولكن عاهده على
+حفظها وكتمها عن غير أهلها وعرفه أنه متى غير نيته حصل له من خدامها الأذى البالغ ونسأل الله تعالى
+العافية وقال لي أقرئه عني السلام قال عبد الواحد فبكيت بكاء عظيماً وسجدت شكراً لله تعالى ثم
+عاهدني عند الحجر الأسود أن لا أوصل هذا السر العظيم إلا لأهله وأوصاني بتقوى الله تعالى ثم دفع لي
+صحيفة وفيها صفة هذه الرياضة الشريفة مكتوبة فيها وأذا فيها مكتوب أنه من أراد رياضة سورة
+الإخلاص فعليه بالإخلاص وأنه يتطهر ويتنظف ويغتسل ويجلس في مكان خال عن الناس بحيث
+إنه لا يكلم أحداً إلا الله تعالى في المدة المذكورة ولكن الذي يخدمه رجل صالح ناصح في الخدمة
+حريص على الطهارة والنظافة وأن تصوم للرياضة أول خميس في الشهر كان ويتم صيامه خمسة عشر
+يوماً صائماً عن غير ذي روح ولكن فطوره على خبز الشعير والملح والزيت ويتلو السورة الشريفة
+كل يوم خمسة آلاف مرة عقب كل صلاة فريضة ألف مرة وفي نصف الليل ألف مرة مدة أربعة
+عشر يوماً فتكون عدتها أربعة وثمانين ألف مرة وباقي أوقاتها بما تيسر من
+التلاوة والذكر والصلاة على النبي صلى الله عليه وسلم والبخور عمال ليلاً ونهاراً وصفته ند وحصا
+لبان وجاوي فإذا كان ليلة الجمعة الختم وقد فرغ من تلاوتها ستة عشر ألف مرة ويدعو بهذا الدعاء
+
+**English:**
+— 119 —
+
+to him the beginning of my years, and I remained with him for a period, accompanying him and conversing with him about something of that. Then when the companionship between me and him became long, one day we began to discuss the talk of the spiritual exercise and what some of the saints, may Allah be pleased with them, mentioned concerning its conduct: that the أصل of affairs is the fear of Allah تعالى, purity of intention, sincerity, and seeking the Abode of the Hereafter and the highest degree with those upon whom Allah has bestowed favor, from the prophets, the truthful, the martyrs, and the righteous; and excellent are those as companions. Then the shaykh said to me of his own accord: By Allah, O my brother عبد الواحد, I am not in blessing and good except from the spiritual exercise of Sūrat al-Ikhlāṣ. So I smiled, and he said to me: What is your smiling? Are you mocking what I have said to you? I said: Far be it from Allah تعالى that I mock the attribute of the Merciful, عز وجل, Lord of might and greatness. But the reason for my smiling is that, by Allah, I did not come to you from the lands of the Maghrib and your love except for it. He said: Thus do you say, by the right of the Lord of this House? I said: Yes. He said to me: The Messenger of Allah صلى الله عليه وسلم said, “Whoever قصد us and loved, his right upon us...” and I am a follower of his saying, holding fast to his law. Since you قصد me, your right upon me has become due, and you are among the people of knowledge, and you came to me from distant lands, and you have beautiful patience. For you have been for a period and did not know me. As for the reason for your love for me, it indicates the abundance of your intellect and the goodness of your knowledge. By Allah and the Lord of this House, I do not منعك from it. So I kissed his hand and kissed his head, and he said: Tomorrow, if Allah تعالى wills, I will present it to you and make you know its method. So I prayed for him for a good end, and I slept that night from joy. Then when I went early to the Noble Kaaba and began the morning prayer, behold, the shaykh was sitting in his place from yesterday. So I came to him and kissed his hand. He said: Do you know what I am saying to you and what I have indicated to you? I said: No, by Allah. He said: By Allah, my shaykh عبد الصمد الخوارزمي benefited me with names which I recited at the time of sleep ten times, and I send blessings upon the Prophet صلى الله عليه وسلم and ask Allah تعالى to uncover what I desire, and He uncovers it for me by the blessing of these names. And if you do that this night and ask Allah تعالى concerning your matter, and your intention by this spiritual exercise was a worldly or otherworldly desire, O people of do or do not do, from my greatness, it is as though I saw my shaykh عبد الصمد الخوارزمي in a dream, and he said: O Abū ʿAbd Allāh, you asked about the state of عبد الواحد or what you intended because of the noble spiritual exercise, so do not send him back disappointed from it, for he is among the people of good and among those fit for it. But bind him to preserve it and conceal it from other than its people, and make him know that whenever he changes his intention, severe harm will befall him from its servants, and we ask Allah تعالى for well-being. And he said to me: Convey my peace to him. عبد الواحد said: Then I wept a great weeping and prostrated in gratitude to Allah تعالى. Then he bound me at the Black Stone that I would not convey this عظیم secret except to its people, and he enjoined me to fear Allah تعالى. Then he gave me a sheet in which was written the description of this noble spiritual exercise, and in it it was written that whoever desires the spiritual exercise of Sūrat al-Ikhlāṣ must have sincerity, and that he should purify himself, clean himself, bathe, and sit in a place empty of people, such that he speaks to no one except Allah تعالى during the mentioned period. But the one who serves him is a righteous man, sincere in service, keen on purity and cleanliness, and that you fast for the exercise the first Thursday of the month, and complete its fast for fifteen days, fasting from that which has no soul, but his breaking of the fast is on barley bread and salt and oil. And he recites the noble sūrah every day five thousand times, after every obligatory prayer one thousand times, and at midnight one thousand times, for a period of fourteen days, so that its total becomes eighty-four thousand times, and the rest of his times with what is facilitated of recitation, remembrance, الصلاة upon the Prophet صلى الله عليه وسلم, and incense working by night and day, and its description is frankincense, pebbles, and jāwī. Then when it is the night of Friday, the sealing, and he has finished reciting it sixteen thousand times, and he invokes with this supplication
+
+---
+
+---
+## Page 146
+
+**Arabic (original):**
+— ١٤٠ —
+
+المبارك يقول ﴿اللهم إني أسألك يا واحد يا أحد يا فرد يا صمد يا من لم يتخذ صاحبة ولا ولدا يا من لم
+يلد ولم يولد ولم يكن له كفوا أحد﴾ أسألك أن تسخر لي خدام هذه السورة الشريفة أن يجيبوني إلى
+ما أريد فإنك فعال لما تريد ثم تقول أقسمت عليكم يا خدام هذه السورة الشريفة ما تعتقدونه وإلا
+ما أمرتكم بالإجابة فحينئذ يدخل عليك ثلاث ملائكة وجوههم كالقمر ليلة البدر عند تمامه لكن
+وجوههم كالأتراس ونورهم يكاد يخطف الأبصار فيقولون السلام عليك يا عبد صالح ورحمة الله
+وبركاته نحن خدام هذه السورة الشريفة العظيمة فما الذي تريده منا فترد عليهم السلام وتقول أريد
+منكم إكراما وإجلالا وتعظيما لهذه السورة صفته أن تخدموني وتطيعوني في ما أمرتكم به ولكم علي أن
+لا أريد منكم إلا حاجة ترضي الرب فيقولون السمع والطاعة قد بر بنا قسمك وأجبنا دعوتك ولكن
+لنعليك شرطان من يومك هذا وساعتك هذه لا تقع في معصية ولا كذب ولا تأكل الثوم ولا
+البصل ولا السمك وتصوم يوم الخميس الذي تتلو في ذلك اليوم والليلة وهي ليلة الجمعة السورة
+الشريفة عشرة آلاف مرة تهدي ثوابها للأموات المسلمين وأن لا تقطع صيام يوم الخميس إلا أن يكون
+نهار عيد وأن لا تبطل غسل الجمعة وأن تزور المقابر كل نهار سبت قبل طلوع الشمس وتقرأها إحدى
+عشرة مرة وتهدي ثوابها لأموات المسلمين فتقول نعم والله يهدي السبيل والله على ما أقول شهيد
+بذلك فحينئذ يصافحونك ويقولون لك قد صرت أخانا من إخواننا فأي حاجة طلبت نقضها
+لك إن شاء الله تعالى فتقول لهم أعطوني كل واحد منكم إشارة أطلبه بها فيقول
+الأول أنا اسمي عبد الواحد قاتل السورة وقل يا عبد الواحد أجيبك ولك علي أن أحملك إلى مكة
+وأردك إلى منزلك في ساعة ويقول لك الثاني وأنا اسمي عبد الصمد قاتل السورة إلى عند قوله الصمد
+وقل يا عبد الصمد أجيبك بإذن الله تعالى ولك علي إحضار ما أردت من المأكول والمشروب والفضة والذهب
+من مباح الأرض الحلال ويقول لك الثالث وأنا اسمي عبد الرحمن قاتل السورة وقل يا عبد الرحمن
+أجيبك بإذن الله تعالى ولك علي ثلاث شروط تغوير المياه الموضوعة وأن أخفيك عن أعين الناس
+وآتيك من البلدان بالأخبار فعند ذلك تسجد لله تعالى شكرا على هذه النعمة العظيمة
+وتقول لهم شكرا لله سعيكم وجزاكم الله تعالى خيرا فاحتفظ بها وأخفها عن الجهال فهذه
+أمانة مني والسلام
+
+( فصل أذكر فيه دعوة الهمزة الشريفة )
+إذا أردت العمل بها تعمد إلى مكان خال من الناس وتطهر ثيابك وبدنك ومكانك وتجلس فيه
+ذاكرا لله تعالى ثم تقول أستغفر الله العظيم مائة مرة وتصلي على النبي صلى الله عليه وسلم مائة مرة
+ثم تصلي ركعتين تقرأ في الأولى بفاتحة الكتاب مرة والإخلاص خمسمائة مرة وفي الثانية كذلك
+ثم تتشهد وتسلم ثم تطلق البخور وهو لبان ذكر ثم تضع رأسك على ركبتيك وتقرأ سورة الهمزة
+مرة بنية خالصة وحضور قلب وتعمل من شئت في أي صورة أردت من التماثيل مثل سبع أو ضارب
+سيف مهما أردت وتكرر حتى تقضى حاجتك والله الموفق للصواب
+( فصل أذكر فيه سورة الإخلاص ودعاءها على وجه آخر ) اعلم وفقني الله تعالى وإياك إلى معرفة
+أسمائه
+
+**English:**
+— 140 —
+
+the blessed one says: “O Allah, I ask You, O One, O Unique, O Single, O Self-Sufficient, O He Who has not taken a consort nor a child, O He Who neither begets nor is begotten, and there is none comparable to Him. I ask You to subjugate for me the servants of this noble sūrah, that they may answer me to what I desire, for You are the Doer of what You will.” Then you say: “I have sworn upon you, O servants of this noble sūrah, by what you believe in, otherwise I have not commanded you to answer.” Then three angels enter upon you, their faces like the moon on the night of the full moon at its completion, but their faces are like shields and their light nearly snatches away the sight. They say: “Peace be upon you, O righteous servant, and the mercy of Allah and His blessings. We are the servants of this great noble sūrah, so what do you desire from us?” Then you return the greeting to them and say: “I desire from you honoring, reverence, and magnification of this sūrah, that you serve me and obey me in what I have commanded you, and upon me is that I desire from you nothing except a need that pleases the Lord.” They say: “Hearing and obeying. Your oath has been fulfilled by us, and we have answered your call, but let us impose upon you two conditions from your day this and your hour this: do not fall into disobedience nor lying, and do not eat garlic nor onions nor fish, and fast the Thursday on which you recite on that day and night, which is the night of Friday, the noble sūrah ten thousand times, dedicating its reward to the dead Muslims; and do not break the fast of Thursday except if it is the day of a feast; and do not invalidate the غسل of Friday; and visit the graves every Saturday before sunrise and recite it eleven times and dedicate its reward to the dead Muslims.” So you say: “Yes, by Allah, He guides to the way, and Allah is witness over what I say.” By that, they then shake your hand and say to you: “You have become our brother from among our brothers, so whatever need you request, it will be fulfilled for you, if Allah تعالى wills.” Then you say to them: “Give me from each of you a sign by which I may call him.” So the first says: “My name is ʿAbd al-Wāḥid, recite the sūrah and say: O ʿAbd al-Wāḥid, I answer you, and upon me is that I carry you to Mecca and return you to your home in an hour.” And the second says to you: “And my name is ʿAbd al-Ṣamad, recite the sūrah up to His saying: al-Ṣamad, and say: O ʿAbd al-Ṣamad, I answer you by permission of Allah تعالى, and upon me is to bring what you desire of food and drink and silver and gold from the lawful permitted things of the earth.” And the third says to you: “And my name is ʿAbd al-Raḥmān, recite the sūrah and say: O ʿAbd al-Raḥmān, I answer you by permission of Allah تعالى, and upon me are three conditions: the draining of the placed waters, that I conceal you from the eyes of people, and that I bring you news from the lands.” At that, you prostrate to Allah تعالى in gratitude for this great blessing and say to them: “Thanks to Allah, your striving; and may Allah تعالى reward you with good.” So preserve it and conceal it from the ignorant, for this is a trust from me. And peace.
+
+(Chapter: I mention in it the invocation of the noble Hamzah)
+If you desire to work with it, then deliberately go to a place empty of people, and purify your clothes and your body and your place, and sit in it remembering Allah تعالى, then say: “I seek forgiveness from Allah العظيم” one hundred times, and send blessings upon the Prophet صلى الله عليه وسلم one hundred times. Then pray two rakʿahs, reciting in the first the Opening of the Book once and al-Ikhlāṣ five hundred times, and in the second likewise. Then you recite the tashahhud and give salām, then release the incense, which is frankincense, then place your head upon your knees and recite Sūrat al-Hamzah once with a pure intention and presence of heart, and work with whomever you wish in any form you desire of the figures, such as a lion or a sword-wielder, whatever you desire, and repeat until your need is fulfilled. And Allah is the one who grants success to what is right.
+
+(Chapter: I mention in it Sūrat al-Ikhlāṣ and its supplication in another manner) Know—may Allah تعالى grant me and you success—to the knowledge of His names
+
+---
+## Page 147
+
+**Arabic (original):**
+— ١٤١ —
+
+أسمائه، إذا أردت قراءة هذه السورة الشريفة تطهر ثيابك وبدنك ومكانك، ثم تصوم ثلاثة أيام عن
+كل ذي روح وما خرج من روح، ويكون ابتداء عملك نهار الثلاثاء، فإذا كان ليلة الجمعة تقرأ السورة
+الشريفة ألف مرة وتقرأ هذا الدعاء المبارك أربعين مرة، فإذا تمت قراءتك يدخل عليك خادم السورة
+فلا تخف منه، ثم يسلم عليك فرد عليه السلام وعظمه فإنه ملك جليل القدر والشأن، ويفعل لك ما تريد
+أيها العبد الصالح، فاطلب منه حاجتك وما تريد فإنه يقضيها لك، فاطلب منه خادماً من خدامه يكون لك
+ممتثلاً أمرك، وخادماً من الخدام يكون لك طائعاً في كل ما تصرفه، وخذ منه إشارة، فإذا أردت
+قضاء حاجة فاقرأ السورة واذكر اسمه فإنه يحضر بين يديك، فاصرفه فيما تحب وتريد، والبخور لبان
+وجاوي، فاتق الله تعالى وأخلص النية ترشد.
+( فصل صفة الدعوة للسورة المباركة تقول ) اللهم إني أسألك بقاف القدرة والإحاطة، وبلام اللوح
+واللطف، وبهاء الهيبة والهداية، وبواو الولاية، أن تجعل لي قدرة وإحاطة على دقة الكائنات اللوحية،
+مبتهجاً ببهاء الهيبة، مهتدياً هادٍ لمن شئت هدايته، أنت الهادي من استهداه، يا من ستره عم جميع
+الجهات والغيرات والتعطيلات والحوادث والتغيرات والنظير والضد والانقسام والعدد، قل هو الله
+أحد، يا واحد في ديمومية ملكه القديم عن غير تحول ولا تجسم، اللهم إني أسألك بواو الوحدانية والألف
+المعطوف الذي هو أصل النشأة الدورية، وبهاء الحياة الأزلية، وبدال الدوام الأبدية من غير حصر
+ووقت وعدد ولا صاحبة ولا ولد، أنت الله الواحد الأحد الصمد، اللهم اجعلني أحداً من الآحاد وفرداً
+من الأفراد، ومدني بنشأة من نشأة الروحانية الألف المعطوف حتى أخوض بعد ذلك بحار المقربين
+في الأفراد، وأحيِ نفسي بنفحة حكمية من نفحاتك وروحانية ممدودة بعظيم الإمداد، حتى أكون
+راجياً من السعادة والإرشاد، وجيهاً بين عبادك إلى اليوم المعاد، اللهم إني أسألك بصاد الصدق والصبر،
+وبميم الملك والمجد، وبياء اليقظة واليقين، أن تجعلني صادقاً صدوقاً مالكاً مجيداً مجدداً باليقظة معتقداً
+باليقين، ممدوداً من عظيم كرمك، وبصديق من ملائكتك أستعين به على صلاح أموري الدنيوية
+والأخروية، واجعل لي عوناً من غير عائق بمضرة إلى الأبد، لم يلد ولم يولد ولم يكن له كفواً أحد، اللهم
+اكفني بكاف كفايتك حتى لا ألتجئ إلى أحد من مخلوقاتك، ونورني بنور نورانية ذلك حتى أفوز بفاء
+الفوز والنجاة بين عبادك المقربين، إنك على كل شيء قدير وبالإجابة جدير، برحمتك يا أرحم الراحمين.
+☆ وهذا الوفق نافع لما ذكرنا لهذه السورة الشريفة، وقد اختصرنا شرحه لئلا يطول الكلام،
+وهذه صفته كما ترى فافهم، والله تعالى أعلم.
+
+**English:**
+— 141 —
+
+Its names. If you desire to recite this noble surah, purify your garments and your body and your place, then fast three days from every living thing and what has come forth from a spirit, and let the beginning of your work be on Tuesday daytime. فإذا كان ليلة الجمعة you recite the noble surah one thousand times and recite this blessed supplication forty times. When your recitation is completed, the servant of the surah enters upon you, so do not fear him. Then he greets you, so return the greeting to him and magnify him, for he is a king of great rank and شأن, and he will do for you what you desire, O righteous servant. So ask him your need and what you desire, for he will fulfill it for you. So ask him for a servant from his servants who will be compliant to your command, and a servant from the servants who will be obedient to you in all that you direct. And take from him an indication. If you desire the fulfillment of a need, then recite the surah and mention his name, for he will be present before you. So direct him to what you love and desire. And the incense is frankincense and javī. So fear Allah تعالى and make the intention sincere; you will be guided.
+(Chapter: the description of the invocation for the blessed surah; you say) O Allah, I ask You by the Qaf of power and encompassing, and by the Lam of the Tablet and gentleness, and by the Bā’ of majesty and guidance, and by the Wāw of guardianship, that You make for me power and encompassing over the subtlety of the tabletly beings, rejoicing with the Bā’ of majesty, guided, a guide for whom You will to guide. You are the Guide of him who seeks guidance from Him. O You whose concealment encompasses all directions, and the othernesses, and the impediments, and the events, and the changes, and the like, and the opposite, and division, and number: Say, He is Allah, One. O One in the perpetuity of His ancient kingdom, without transformation and without embodiment. O Allah, I ask You by the Wāw of oneness and the alif joined to it, which is the أصل of the cyclical origination, and by the Bā’ of the eternal life, and by the Dāl of the everlasting دوام without limitation and time and number, and no consort and no child. You are Allah, the One, the Unique, the Self-Sufficient. O Allah, make me one of the ones and an individual from among the individuals, and extend to me with an origination from the origination of the spiritual alif joined to it, until I then plunge into the seas of the near ones in the individuals, and give life to my soul with a wise breath from Your breaths and a روحانية extended with عظیم امداد, until I become hoping for happiness and guidance, of rank among Your servants until the Day of Return. O Allah, I ask You by the Ṣād of truthfulness and patience, and by the Mīm of kingship and glory, and by the Yā’ of wakefulness and certainty, that You make me truthful, veracious, possessing, glorious, renewed by wakefulness, believing with certainty, extended from Your عظیم generosity, and with a truthful one from among Your angels I seek help by him upon the rectification of my worldly and otherworldly affairs, and make for me a help without hindrance by harm forever: He did not beget and was not begotten, and there is none equal to Him. O Allah, suffice me with the Kāf of Your sufficiency so that I do not resort to anyone from among Your creatures, and illuminate me with the light of that نورانية so that I may attain the Fā’ of success and salvation among Your near servants. Indeed, You are powerful over all things and worthy of response, by Your mercy, O Most Merciful of the merciful.
+☆ And this wafq is beneficial for what we mentioned of this noble surah, and we have abbreviated its explanation lest the speech become lengthy, and this is its form as you see, so understand. And Allah تعالى knows best.
+
+Notes:
+[Grid content preserved as-is]
+| قل | هو | الله | أحد | الله | الصمد | لم | يلد | ولم | يولد |
+|---|---|---|---|---|---|---|---|---|---|
+| قل | هو | الله | أحد | الله | الصمد | لم | يلد | ولم | يولد |
+| قل | هو | الله | أحد | الله | الصمد | لم | يلد | ولم | يولد |
+| قل | هو | الله | أحد | الله | الصمد | لم | يلد | ولم | يولد |
+| الله | الصمد | لم | يلد | ولم | يولد | | | | |
+| الله | الصمد | لم | يلد | ولم | يولد | | | | |
+| قل | هو | الله | أحد | | | | | | |
+| لم | يلد | ولم | يولد | | | | | | |
+| قل | هو | الله | أحد | | | | | | |
+| يلد | ولم | يولد | | | | | | | |
+
+---
+## Page 148
+
+**Arabic (original):**
+- ١٤٢ -
+
+| قل | هو | الله | أحد | الله | الصمد | لم | يلد | ولم | يولد |
+|---|---|---|---|---|---|---|---|---|---|
+| قل | هو | الله | أحد | الله | الصمد | لم | يلد | ولم | يولد |
+| قل | هو | الله | أحد | الله | الصمد | لم | يلد | ولم | يولد |
+| قل | هو | الله | أحد | الله | الصمد | لم | يلد | ولم | يولد |
+| الله | الصمد | لم | يلد | ولم | يولد | | | | |
+| الله | الصمد | لم | يلد | ولم | يولد | | | | |
+| قل | هو | الله | أحد | | | | | | |
+| لم | يلد | ولم | يولد | | | | | | |
+| قل | هو | الله | أحد | | | | | | |
+| يلد | ولم | يولد | | | | | | | |
+
+(فصل اذكر هنا فائدة) ورد في الحديث الشريف ان رجلا جاء الى رسول الله صلى الله عليه وسلم
+فقال يا رسول الله تولت الدنيا وقلت ذات يدي فقال رسول الله صلى الله عليه وسلم أين أنت من صلاة
+الملائكة وتسبيح الخلائق وبها يرزقون فقال وما ذاك يا رسول الله قال سبحان الله العظيم سبحان من
+يمن ولا يمن عليه سبحان من يجير ولا يجار عليه سبحان من يبرأ من الحول والقوة الا به سبحان من
+التسبيح منه على من اعتمد عليه سبحان من كل شيء يسبح بحمده سبحانك لا اله الا أنت وبحمدك
+يا من يسبح له الجميع تداركني فاني جزوع ثم استغفر الله تعالى مائة مرة وتفعل ذلك ما بين صلاة
+الفجر الى صلاة الجمعة وعنه صلى الله عليه وسلم انه قال له جبريل عليه السلام قل اللهم استرني
+بالعافية في الدنيا والآخرة وقال عليه الصلاة والسلام من قال في كل يوم مائة مرة
+لا اله الا الله الملك الحق المبين استفتحت أبواب الرزق ونفت عنه الفقر
+واستقرع أبواب الجنة ووقى بها فتنة القبر وأتته الدنيا وهي
+راغمة ويخلق الله تعالى من كل كلمة ملكا
+يسبح الله تعالى وتغفر ذنوبه وهذا
+ما انتهى ايراده والله يقول
+الحق وهو يهدي
+السبيل
+
+تم الجزء الاول من كتاب شمس المعارف الكبرى للامام البوني ويليه الجزء الثاني
+أوله الفصل الخامس عشر في الشروط اللازمة لبعض دون بعض
+
+**English:**
+- 142 -
+
+[Grid content preserved as-is]
+| قل | هو | الله | أحد | الله | الصمد | لم | يلد | ولم | يولد |
+|---|---|---|---|---|---|---|---|---|---|
+| قل | هو | الله | أحد | الله | الصمد | لم | يلد | ولم | يولد |
+| قل | هو | الله | أحد | الله | الصمد | لم | يلد | ولم | يولد |
+| قل | هو | الله | أحد | الله | الصمد | لم | يلد | ولم | يولد |
+| الله | الصمد | لم | يلد | ولم | يولد | | | | |
+| الله | الصمد | لم | يلد | ولم | يولد | | | | |
+| قل | هو | الله | أحد | | | | | | |
+| لم | يلد | ولم | يولد | | | | | | |
+| قل | هو | الله | أحد | | | | | | |
+| يلد | ولم | يولد | | | | | | | |
+
+(Chapter: mention here a benefit) It is related in the noble hadith that a man came to the Messenger of Allah صلى الله عليه وسلم and said: O Messenger of Allah, the world has turned away and my hand has become scant. So the Messenger of Allah صلى الله عليه وسلم said: Where are you from the prayer of the angels and the glorification of the creatures, and by it they are provided for? He said: And what is that, O Messenger of Allah? He said: Glory be to Allah العظيم, glory be to Him who bestows and none bestows upon Him, glory be to Him who grants refuge and none is granted refuge against Him, glory be to Him who is free from might and power except by Him, glory be to Him from whom glorification is from him upon whoever relies upon Him, glory be to Him: everything glorifies Him with His praise, glory be to You, there is no god except You, and with Your praise. O You to whom all glorify, take me in hand, for I am panic-stricken. Then seek forgiveness from Allah تعالى one hundred times, and you do that between the صلاة of dawn and the صلاة of Friday. And from him صلى الله عليه وسلم that Jibril عليه السلام said to him: Say, O Allah, conceal me with well-being in the world and the Hereafter. And he عليه الصلاة والسلام said: Whoever says every day one hundred times لا اله الا الله الملك الحق المبين, the doors of provision are opened for him and poverty is negated from him, and the doors of Paradise are sought, and by it the trial of the grave is warded off, and the world comes to him while it is
+spiteful, and Allah تعالى creates from every word an angel
+glorifying Allah تعالى, and his sins are forgiven. And this
+is the end of what was cited. And Allah says
+the truth, and He guides
+the way.
+
+The first part of the book Shams al-Ma'arif al-Kubra by Imam al-Buni is completed, and after it comes the second part,
+the beginning of which is the fifteenth chapter on the conditions necessary for some and not for others.
+
+---
+## Page 149
+
+**Arabic (original):**
+الجزء الثاني
+من كتاب
+شمس المعارف
+الكبرى
+ولطائف العوارف
+للشيخ أحمد بن علي البوني قدس الله روحه المتوفى سنة ٦٢٢ اثنين وعشرين وستمائة
+قال في كشف الظنون والمقصود من هذا الكتاب أن يعلم بذلك شرف أسماء الله تعالى وما أودع
+في بحرها من أنواع الجواهر الحكميات وكيف التصريف بالأسماء والدعوات وما تابعها
+من حروف السور والآيات ليتصل بها إلى الحضرة الربانية من غير تعب ويتصل بها إلى
+رغائب الدنيا بلا نصب انتهى
+
+ويليه
+رسالة ميزان العدل في مقاصد أحكام الرمل * ورسالة فواتح الرغائب في خصوصيات
+أوقات الكواكب * ورسالة زهر المروج في دلائل البروج * ورسالة لطائف الإشارة
+في خصائص الكواكب السيارة * تأليف العلامة الفاضل السيد عبد القادر الحسيني الأدهمي
+* نفع الله بعلومه المسلمين آمين
+
+تنبيه
+حيث إن كتاب شمس المعارف لشدة احتياج الناس إليه طبع مراراً (بمصر والهند) وقد
+اعتنت المطابع المصرية بتصحيحه لكنه لم يخل من غلط وتحريف لعدم وجود نسخ صحيحة
+وقد طبع هذه المرة مقابلاً على نسخ « مصر والهند » ونسخة أخرى بخط الحاج مرزا حسين
+مع الدقة في التصحيح بمعرفة لجنة من أفاضل علماء مصر وأعاد تصحيحها الأستاذ الكبير الشيخ
+عبد الرحمن الجزيري فجاءت بحمد الله هذه النسخة من أجل النسخ طبعاً وتصحيحاً
+
+طبع بمطبعة
+مصطفى البابي الحلبي وأولاده بمصر
+
+**English:**
+The second part
+of the book
+Shams al-Ma'arif
+al-Kubra
+and Lata'if al-'Awarif
+by the Shaykh Ahmad ibn Ali al-Buni, may Allah sanctify his soul, who died in the year 622, two and twenty and six hundred.
+He said in Kashf al-Zunun: and the purpose of this book is that by it one may know the nobility of the names of Allah تعالى and what has been deposited in their sea of kinds of الحكميات jewels, and how the disposal by the names and the invocations, and what follows them of the letters of the surahs and the verses, so that one may connect by them to the divine presence without fatigue and connect by them to the desires of the world without toil. Ended.
+
+And after it:
+Risalat Mizan al-'Adl fi Maqasid Ahkam al-Raml * and Risalat Fawatih al-Ragha'ib fi Khuṣūṣiyyat
+Awqat al-Kawakib * and Risalat Zahr al-Muruj fi Dala'il al-Buruj * and Risalat Lata'if al-Isharah
+fi Khaṣa'is al-Kawakib al-Sayyarah * authored by the learned scholar Sayyid 'Abd al-Qadir al-Husayni al-Adhami
+* May Allah benefit the Muslims by his sciences, amen.
+
+Notice
+Since the book Shams al-Ma'arif, because of the شدت need of people for it, has been printed repeatedly (in Egypt and India), and the Egyptian presses took care in correcting it, yet it was not free from error and distortion due to the absence of correct copies. This time it was printed collated against copies of “Egypt and India” and another copy in the handwriting of Hajj Mirza Husayn, with precision in correction by the knowledge of a committee from the eminent scholars of Egypt, and it was corrected again by the great professor Shaykh 'Abd al-Rahman al-Jaziri, so this copy came, praise be to Allah, as one of the finest copies in printing and correction.
+
+Printed at the press of
+Mustafa al-Babi al-Halabi and his sons in Egypt
+
+---
+_End of translation — 149 pages._
