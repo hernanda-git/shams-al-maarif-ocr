@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 149 translated pages._
+_Auto-generated from 155 translated pages._
 
 ---
 ## Page 1
@@ -8400,4 +8400,357 @@ Printed at the press of
 Mustafa al-Babi al-Halabi and his sons in Egypt
 
 ---
-_End of translation — 149 pages._
+## Page 150
+
+**Arabic (original):**
+وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَىٰ فَادْعُوهُ بِهَا
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+﴿ الْفَصْلُ الْخَامِسَ عَشَرَ فِي الشُّرُوطِ اللَّازِمَةِ لِبَعْضٍ دُونَ بَعْضٍ فِي الْبِدَايَاتِ وَالنِّهَايَاتِ ﴾
+﴿ بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ ﴾
+اعْلَمْ وَفَّقَنِي اللَّهُ وَإِيَّاكَ لِطَاعَتِهِ وَفَهْمِ أَسْرَارِ أَسْمَائِهِ أَنَّ اللَّهَ تَعَالَى خَلَقَ الْمَلَائِكَةَ الْحَامِلِينَ الْعَرْشَ
+وَالْحَامِلِينَ الْكُرْسِيَّ وَالْمُتَصَرِّفِينَ عَنِ الْقَلَمِ وَالْمُصَحِّفِينَ اللَّوْحَ وَجَعَلَ لَهُمْ أَنْوَاعًا مِنَ الْأَذْكَارِ وَاخْتِلَافِ
+تَعَدَّتْ وَكَذَلِكَ أَهْلُ السَّمَاوَاتِ إِلَّا أَنَّ أَهْلَ الْمَلَإِ الْأَعْلَىٰ ذِكْرُهُمْ قُدُّوسٌ وَأَمَّا أَهْلُ الْكُرْسِيِّ
+فَذِكْرُهُمْ سُبُّوحٌ رَبُّ الْمَلَائِكَةِ وَالرُّوحِ ۞ وَاعْلَمْ أَنَّ مَعَانِيَ اسْمِ اللَّهِ الْقُدُّوسِ يَظْهَرُ اللَّهُ النَّاطِقَ بِهِ
+فِي سُلُوكِ لَطَائِفِ الْجَبَرُوتِ الْأَعْلَىٰ جَلَّتْ أَنْوَارُهُ وَسُرَادِقَاتِ النَّهْيِ وَعَدَمِ الْحُرُوفِ التَّرْكِيبِيَّةِ وَانْتِهَاءِ
+الْحَقَائِقِ فَهَذِهِ فِي الْجَبَرُوتِ الْأَعْلَىٰ جَلَّتْ أَنْوَارُهُ عَنِ الْإِدْرَاكَاتِ الْعُلْوِيَّاتِ ۞ وَمِنْ خَوَاصِّ اسْمِهِ
+الْقُدُّوسِ أَنَّهُ يُضَافُ إِلَيْهِ السُّبُّوحُ فَيُقَالُ سُبُّوحٌ قُدُّوسٌ فَإِنَّهُ يَنْكَشِفُ لَهُ بِهِ ثَمَانِيَةُ الْمَلَكُوتِ الْأَعْلَىٰ
+وَالْعَرْشِ وَالْكُرْسِيِّ وَاللَّوْحِ وَالْقَلَمِ وَالْمَلَإِ الْأَعْلَىٰ وَالْمُسْتَوَىٰ وَالْأَقْلَامِ لِقَوْلِهِ عَلَيْهِ السَّلَامُ بَلَغَتْ إِلَىٰ
+الْمُسْتَوَىٰ حَتَّىٰ سَمِعْتُ صَرِيرَ الْأَقْلَامِ ۞ وَمِنْ خَوَاصِّ اسْمِهِ الْقُدُّوسِ رَبِّ الْمَلَائِكَةِ وَالرُّوحِ أَنْ يَظْهَرَ
+لَهُ الْمَلَكُوتُ وَالْجَبَرُوتُ وَالْمُلْكُ وَالْمَلَكُوتُ الْأَعْلَىٰ وَالْأَدْنَىٰ فِيهِ ٨ الْحَرَارَةُ وَالرُّطُوبَةُ وَالْبُرُودَةُ
+وَالْيُبُوسَةُ وَالْجَمَادُ وَالنَّبَاتُ وَالْحَيَوَانُ وَالْمَعْدِنُ وَهُوَ كُرُّ حَمَلَةِ الْعَرْشِ وَهُوَ كُرُّ رُوحِ الْقُدُسِ عَلَيْهِ
+السَّلَامُ وَهُوَ مَلَكٌ عَظِيمٌ لَمْ يَخْلُقِ اللَّهُ بَعْدَ الْعَرْشِ أَعْظَمَ مِنْهُ وَهُوَ صَاحِبُ الْإِلْهَامِ وَقِيلَ إِنَّهُ جِبْرِيلُ عَلَيْهِ
+السَّلَامُ الَّذِي هُوَ حَقِيقَةُ التَّنْزِيلِ وَالْوَحْيِ لِقَوْلِهِ تَعَالَىٰ نَزَلَ بِهِ الرُّوحُ الْأَمِينُ عَلَىٰ قَلْبِكَ وَهُوَ كُرُّ رُؤَسَاءِ
+الْمَلَائِكَةِ أَهْلِ الْمَلَإِ الْأَعْلَىٰ فَجَمَعَ تَقْدِيسَ لِأَنْوَارِ الْقُدُسِ وَرُوحِ الْقُدُسِ فِي حَضْرَةِ الْقُدُسِ وَهُوَ
+يَتَجَلَّىٰ
+
+**English:**
+And to Allah belong the Most Beautiful Names, so call upon Him by them
+
+In the name of Allah, the Most Merciful, the Most Compassionate
+
+﴿ The fifteenth chapter concerning the conditions necessary for some apart from some in the beginnings and the ends ﴾
+﴿ In the name of Allah, the Most Merciful, the Most Compassionate ﴾
+Know — may Allah grant me and you success in His obedience and the understanding of the secrets of His names — that Allah تعالى created the angels bearing the Throne, and bearing the Kursi, and those disposing from the Pen, and those who page the Tablet, and He made for them kinds of remembrances and differences that have become numerous; and likewise the people of the heavens, except that the people of the Higher Assembly, their remembrance is Quddus, and as for the people of the Kursi, their remembrance is Subbuh, Lord of the angels and the Spirit. ۞ And know that the meanings of the name of Allah, the Quddus, Allah the speaker by it, appear in the traversing of the subtleties of the higher Jabarut, exalted are His lights, and the curtains of prohibition, and the absence of composite letters, and the ending of realities; so these are in the higher Jabarut, exalted are His lights, from the upper apprehensions. ۞ And among the properties of His name, the Quddus, is that Subbuh is added to it, so it is said: Subbuh Quddus; for by it there is disclosed to him the eight of the higher Malakut, and the Throne, and the Kursi, and the Tablet, and the Pen, and the Higher Assembly, and the Istiwa, and the Pens, because of his saying, عليه السلام: “It reached to the Istiwa until I heard the creaking of the pens.” ۞ And among the properties of His name, the Quddus, Lord of the angels and the Spirit, is that the Malakut and the Jabarut and the Mulk and the higher and lower Malakut appear to him; in it are the 8 heat, and moisture, and coldness, and dryness, and the inanimate, and the plant, and the animal, and the mineral. And it is the circle of the bearers of the Throne, and it is the circle of the Holy Spirit, عليه السلام, and it is a mighty angel; Allah did not create after the Throne anything greater than him, and he is the possessor of inspiration. And it was said that he is Gabriel, عليه السلام, who is the reality of the sending down and the revelation, because of His saying تعالى: “The Trustworthy Spirit descended with it upon your heart.” And he is the circle of the chiefs of the angels, the people of the Higher Assembly, so he gathered sanctification for the lights of holiness and the Spirit of Holiness in the Presence of Holiness, and he is manifesting
+
+---
+## Page 151
+
+**Arabic (original):**
+— ١٢ —
+يَتَجَلَّى حَقَائِقُ الْإِيمَانِ فِي الْقُلُوبِ الطَّاهِرَةِ وَهُوَ حَيُّ الْإِلْهَامِ وَهَذِهِ الْحَضْرَةُ الْقُدْسِيَّةُ عِنْدَ سِدْرَةِ
+الْمُنْتَهَى وَالْقُدْسِ وَهُوَ الْمُنَزَّهُ عَنِ الْعُيُوبِ وَالنَّقْصِ لِلْكَمَالِ الَّذِي تَظُنُّهُ الْخَلْقُ كَالَا بِصِفَاتِهِمْ وَالْجَاهِلُ
+وَالْأَعْمَى وَغَيْرُهُ نَاقِصٌ فِي ذَاتِهِ * وَاعْلَمْ أَنَّ كَنْزَ التَّوْحِيدِ الشَّافِي وَمُشِيرَ بِهِ الصَّافِي إِنَّمَا هُوَ فِي سُورَةِ
+الْإِخْلَاصِ وَمَا يُنَاسِبُهَا فَلِذَلِكَ يُقَالُ إِنَّهَا ثُلُثُ الْقُرْآنِ وَالْقُرْآنُ يَحْتَوِي عَلَى قِصَصٍ وَأَحْكَامٍ وَتَوْحِيدٍ
+فَتَأْخُذُ فِي شَرْحِهَا وَمَفْهُومِ سِرِّهَا مِنَ النَّظَرِ وَالْعَقْلِ وَنَحْنُ نَخْتَصِرُ مِنْ مَعَانِيهَا وَعُيُونِ جَوَاهِرِهَا فَنَقُولُ
+وَبِاللَّهِ التَّوْفِيقُ قَوْلُهُ الْحَقُّ (قُلْ هُوَ اللَّهُ أَحَدٌ) وَهُوَ الَّذِي يَكُونُ فِيهِ لِذَاتِهِ وَهُوَ وَاجِبُ الْوُجُودِ وَهُوَ
+الَّذِي لَا إِلَهَ إِلَّا هُوَ وَهُوَ الَّذِي يَكُونُ لِذَاتِهِ هُوَ هُوَ بَلْ هُوَ ذَاتُهُ هُوَ هُوَ لَا غَيْرَ فَتِلْكَ الْهُوِيَّةُ وَالْخُصُوصِيَّةُ
+مَعْنَى الْأَسْمِ وَذَلِكَ هُوَ كَوْنُ تِلْكَ الْأُلُوهِيَّةِ الْهَاهُنَا الْإِلَهُ هُوَ الَّذِي يُنْسَبُ إِلَيْهِ غَيْرُهُ وَلَا يُنْسَبُ هُوَ إِلَى
+غَيْرِهِ وَالْإِلَهُ الْمُطْلَقُ هُوَ الَّذِي يَكُونُ كَذَلِكَ مَعَ جَمِيعِ الْمَوْجُودَاتِ وَكَوْنُهُ يَنْسِبُ إِلَيْهِ غَيْرُهُ وَلَمَّا كَانَتِ
+الْأُلُوهِيَّةُ هُوَ لَهُ مِمَّا يُمْكِنُ أَنْ يُعَبِّرَ عَنْهَا بِلَوَازِمِهَا وَاللَّوَازِمُ مِنْهَا إِضَافِيَّةٌ وَمِنْهَا سَلْبِيَّةٌ وَالْإِضَافَةُ أَشَدُّ تَقَرُّبًا
+مِنَ السَّلْبِيَّةِ وَإِلَّا كُلٌّ فِي التَّصَرُّفِ هُوَ اللَّازِمُ الْجَامِعُ لِنَوْعِ الْإِضَافَةِ وَالسَّلْبِ وَذَلِكَ لِكَوْنِ تِلْكَ
+الْأُلُوهِيَّةِ هَاهُنَا فَلَا جَرَمَ عَقَّبَ قَوْلَهُ تَعَالَى بِاللَّوَازِمِ الْآلِهَةِ عَقِبَ ذَلِكَ بِأَنَّهُ الْأَحَدُ وَهُوَ الْغَايَةُ فِي الْوَحْدَانِيَّةِ
+فَالْأُلُوهِيَّةُ هِيَ الْغَايَةُ فِي الْوَحْدَةِ وَجَلَّ بَسْطُهَا الَّتِي تَقْصُرُ عَنْهُ الْعُقُولُ فِي ابْتِدَائِهَا وَالْوُقُوفِ دُونَ مَبَادِئِ
+إِشْرَاقِ أَنْوَارِهَا الَّذِي سُبْحَانَهُ مَا أَعْظَمَ شَأْنَهُ وَمَا أَقْهَرَ سُلْطَانَهُ هُوَ الَّذِي تَنْتَهِي إِلَيْهِ الْحُجَّةُ وَتَنَالُ
+الْإِرَادَةُ وَلَا يَبْلُغُ أَدْنَى مَا اسْتَثْنَى بِهِ مِنَ الْجَلَالِ وَالْعَظَمَةِ وَالْعَطِيَّةِ أَقْصَى نُعُوتِ النَّاعِتِينَ وَهُوَ أَعْظَمُ
+وَصْفِ الْوَاصِفِينَ بَلْ وَقَضِيَّةُ الْمُكْرِهِ الَّذِي ذَكَرَهُ فِي كِتَابِهِ الْعَزِيزِ وَوَقَفَهُ شُكْرُهُ وَهِيَ صِفَاتُهُ تَعَالَى وَإِنْ
+كَانَ لَا يُمْكِنُ بِغَيْرِهِ مَعْرِفَتُهَا إِلَّا بِوَاسِطَةِ الْإِضَافَةِ لِأَنَّهُ جَلَّ وَعَلَا عِلْمُهَا فَلِذَلِكَ لَمْ يَذْكُرْ تِلْكَ الْمَاهِيَّةَ
+وَاقْتَصَرَ عَلَى تِلْكَ اللَّوَازِمِ فَنَقُولُ لَيْسَ لِلْمَبْدَأِ الْأَوَّلِ شَيْءٌ مِنَ الْمُقَدِّمَاتِ فَإِنَّهُ وَحْدَةٌ مَحْضَةٌ صِرْفَةٌ مُنَزَّهَةٌ
+عَنِ الْكَثْرَةِ عَنْ جَمِيعِ الْمَوْجُودَاتِ وَتِلْكَ الْوُجُوهِ لِلَوَازِمِ فَإِذَا ذُكِرَتِ الْهُوِيَّةُ وَشَرَحَهَا بِاللَّوَازِمِ الْقَرِيبَةِ
+دُونَ الْبَعِيدَةِ يُشْعِرُ بِهَدْمِ الْمُقَدِّمَاتِ إِذَا كَانَ لَهُ مُقَدِّمَاتٌ لَمْ يَكُنْ وَاجِبًا لِذَاتِهِ وَلَكَانَ وُجُودُهُ مَوْقُوفًا
+عَلَيْهِ * وَقَوْلُهُ أَحَدٌ مُبَالَغَةٌ فِي الْوَحْدَةِ وَلَا تَتَحَقَّقُ الْإِفَادَةُ كَانَتِ الْوَحْدَةُ بِحَيْثُ لَا يَكُونُ ابْتِدَاءً وَلَا كَمَلَ
+مِنْهَا فَإِنَّ الْوَاحِدَ مَقُولٌ عَلَى وَحْدَانِيَّتِهِ تَحْتَهُ بِالتَّشْكِيلِ فَالَّذِي لَا يَنْقَسِمُ بِوَجْهٍ أَصْلًا وَبِالْوَحْدَانِيَّةِ مِنَ
+الَّذِي يَنْقَسِمُ مِنْ بَعْضِ الْوُجُوهِ وَبُرْهَانُهُ أَنَّ كُلَّ مَنْ تَحْتَ هُوِيَّتِهِ إِنَّمَا يَحْصُلُ مِنِ اجْتِمَاعِ أَجْزَاءٍ كَانَتْ
+هُوِيَّتُهُ مَوْقُوفَةً عَلَى حُضُورِ تِلْكَ الْأَجْزَاءِ فَلَا يَكُونُ هُوَ لِذَاتِهِ كَأَدِلَّتِهِ عَلَى قَوْلِهِ الصَّمَدُ تَفْسِيرَانِ فِي اللَّفْظِ
+أَحَدُهُمَا الَّذِي لَا جَوْفَ لَهُ وَالثَّانِي السَّيِّدُ فَالْأَوَّلُ يَعْنِي الْإِشَارَةَ إِلَى النَّفْسِ الْإِلَهِيَّةِ فَإِنَّ كُلَّ مَالَهُ مَاهِيَّةٌ
+كَانَ لَهُ جَوْفٌ وَبَاطِنٌ وَهُوَ تِلْكَ الْمَاهِيَّةُ وَمَا لَا بَاطِنَ لَهُ وَهُوَ مَوْجُودٌ فَالْآلِهِ وَالِاعْتِبَارِ فِي الذَّاتِ إِلَى
+الْوُجُودِ وَعَلَى التَّفْسِيرِ الثَّانِي مَعْنَاهُ إِضَافِيٌّ وَهُوَ كَوْنُهُ مَبْدَأَ الْكُلِّ وَيُحْتَمَلُ أَنْ يَكُونَ كَذَلِكَ مُفْتَقِرًا إِلَيْهِ
+وَهُوَ لَا يَفْتَقِرُ إِلَى غَيْرِهِ * وَقَوْلُهُ لَمْ يَلِدْ وَلَمْ يُولَدْ لِلْمَبْدَأِ أَنَّ الْكُلَّ مُسْتَدَالِهِ وَأَنَّ الْمُعْطَى وُجُودُهُ بِجَمِيعِ
+الْمَوْجُودَاتِ وَهُوَ الْفَيْضُ عَلَيْهِمْ بَيْنَ أَنْ لَا تَمْتَنِعَ عَنْهُ أَنْ يَتَوَلَّدَ عَنْهُ مِثْلُهُ فَإِنْ كَانَ كَذَلِكَ كَانَتْ
+مَاهِيَّتُهُ مُشْتَرَكَةً بَيْنَهُ وَبَيْنَ غَيْرِهِ فَإِنَّهُ لَا يَتَشَخَّصُ الْأَوْسَاطُ الْمَادَّةُ وَعَلَاقَتُهَا وَالتَّعْيِينُ وَالتَّقْلِيدُ كُلُّ
+( ١٠ - شمس المعارف - أول )
+
+**English:**
+— 12 —
+the realities of faith are manifested in the pure hearts, and he is the living of inspiration, and this holy Presence is at the Lote Tree of the Utmost Boundary and the Holiness, and he is the One purified from faults and نقص for the perfection which the خلق imagine, like that with their attributes, and the ignorant and the blind and other than them is deficient in his essence. * And know that the treasury of the healing tawhid and the pure one indicated by it is only in Sūrat al-Ikhlāṣ and what corresponds to it; for that reason it is said that it is one third of the Qur’an, and the Qur’an contains stories and rulings and tawhid, so you take in its explanation and the understanding of the secret of it from النظر and العقل. And we abbreviate from its meanings and the eyes of its jewels, so we say — and with Allah is success — His true saying: (Say: He is Allah, One), and He is that in which there is for His essence, and He is Necessary of existence, and He is the One other than whom there is no god, and He is the One who is for His essence, He is He, rather He is His essence, He is He, no other; so that he-ness and specificity are the meaning of the name. And that is the being of that divinity here: the God is the One to whom other than Him is attributed, and He is not attributed to other than Him; and the absolute God is the One who is thus with all existents, and the being of other than Him is attributed to Him. And when the divinity is His, from what it is possible to express by its necessaries, and the necessaries are among them affirmative and among them negative, and the affirmative is more closely approaching than the negative, and otherwise each in the disposition is the necessary comprehensive of the kind of affirmation and negation, and that because of the being of that divinity here. So there is no doubt that He تعالى followed His saying with the necessaries of the gods after that by that He is the One, and He is the utmost in oneness. So divinity is the utmost in unity, and exalted is its extension, which the intellects fall short of at its beginning and in stopping short before the beginnings of the shining of its lights, He, glorified be He, how great is His شأن and how overpowering is His سلطان; He is the One to whom the proof ends and the will attains, and the least of what He excepted by it of majesty and greatness and gift does not reach the utmost of the descriptions of describers, and He is the greatest description of describers, rather the matter of the one compelled whom He mentioned in His mighty Book, and His gratitude stopped him, and they are His attributes تعالى, and even if it is not possible by other than Him to know them except by means of attribution, because His knowledge of them is exalted and high, for that reason He did not mention that quiddity and confined Himself to those necessaries. So we say: there is not for the First Principle anything of the مقدمات, for it is pure unity, sheer, purified from multiplicity, from all existents and those aspects of the necessaries. So when the he-ness is mentioned and its explanation by the near necessaries, not the far, it gives the impression of demolishing the مقدمات; if it had مقدمات, it would not be necessary in its essence, and its existence would be suspended upon them. * And His saying “One” is an exaggeration in unity, and the benefit is not realized if the unity were such that there is no beginning and no completion from it, for the one is predicated upon its oneness beneath it by formation; so that which is not divided in any respect at all, and by oneness, is distinct from that which is divided from some respects. And its proof is that every one under its he-ness is only obtained from the gathering of parts, and its he-ness would be suspended upon the presence of those parts, so it would not be He for His essence. As for His proofs upon His saying “al-Ṣamad,” there are two explanations in the word: one of them, that which has no cavity, and the second, the master. So the first means the indication to the divine self, for everything that has a quiddity has a cavity and an inward, and it is that quiddity; and what has no inward, and it is existent, then the consideration in the essence is to existence. And according to the second explanation, its meaning is relational, and it is His being the principle of the whole, and it is possible that it be thus in need of Him, while He is not in need of other than Him. * And His saying “He begets not, nor is He begotten” for the principle: that the whole is His object of inference, and that the given is its existence with all existents, and it is the effusion upon them, between that it is not impossible from Him that the like of Him be generated from Him; for if it were thus, His quiddity would be shared between Him and other than Him, for the middle terms, matter, and its relation, and determination, and imitation do not individuate. All
+
+---
+## Page 152
+
+**Arabic (original):**
+— ١٢٦ —
+
+ما كان مادياً أو له علاقة بالمادة كان متولداً فيصير تقدير الكلام هكذا لأنه يتولد، فأما إن لم تكن
+ماهيته كذلك باعتبار ما سبق أنه هو، وهذا في ابتداء السورة تذكرة كانت هويته لذاته منه ولا يكون
+متولداً، ولو كانت هويته مستفادة من غيره لم يكن هو هو لذاته، وفيه تنبيه على سر عظيم وهو التهديد
+الوارد في القرآن على القائل بالولد والزوجة، ولتعد هذا السر وهو أن الولد ينفصل ولو كثرت
+ماهيته ولسبب المادة كأبناء، وكل من كان مادياً يكون ماهياً فإذاً لا يتولد عنه غيره وهو متولد
+عن غيره ﷺ، وقوله ولم يكن له كفواً أحد أي ليس مما يساويه في قوة الوجود، فأما أن يكون له ما يساوي
+ماهيته وبينه وبين غيره كان وجوداً مادياً وكان متولداً عن غيره، تعالى الله عن ذلك.
+
+(فصل) في ذكر ترجيح لا إله إلا الله على سائر الكلمات وتبيين مرتبة الصمدية على سائر
+السور والآيات ﷺ وأبين حقيقة الوحدانية وما تهوى وارتباطك للخيام المضروبة على حواشي
+العقيق والحجاز وإلى القباب القريبة من جانب قاب قوسين أو أدنى وذلك بقدرته جل جلاله، فقول
+لا إله إلا الله هو باب صحيح لا يفتح إلا للمشتاقين ويحجب دون طالبه أعين الناظرين
+وأفهامهم، فليس كل سر جاز أن يفشى ولا كل فضل يتمشى، وإفشاء سر الربوبية كفر، فإذا قلنا إفشاء
+سر الربوبية كفر فإفشاء سر المعية والهوية والإيجاد أبلغ في الكفر، ولا يخفى أن منشأ الكفر
+ابتداع، وأشار إليه بقوله عليه السلام: إن من العلم كهيئة المخزون لا يعرفه إلا العلماء بالله تعالى، فاسمع يا سابق
+إنك لو محوت وجودك وحقيقته وذهلت عنك وعن رؤيتك وعما سواه لانكشف لك سر الأسرار
+المشار إليه بالآن في قولك لام وجودك تناقض عقل وكفر عشق، فافهم تصب الإشارة الغريبة، وأما
+الثاني وهو الذي فيه طلوع فجر الألفة والمكاشفة آثار القدم والوجوب من بين شعب حكم أسرار
+الوحدانية لذوي التوحيد والإشارة والأسرار، وأما مبادئ الوادي الأول فسل فيه سبيل التحقيق
+والثاني بنوعين التنقيح، وشارب من الوادي الأول كذي القرنين والشارب من الوادي الثاني كالخضر
+عليه السلام، فالأول أعد للبقاء والإشارة، الثاني إشارة للملكوت، فالأول البيت
+المقدس والثاني الوحدانية المحضة هو إني أنا الله لا إله إلا أنا فاعبدني، وهو يخبر عن أوجه الإله تعالى
+هل أتاك حديث موسى إذ رأى ناراً أثبت له الرؤيا ثم أسبل عليه سر الإخفاء وأسرار المتعاشقين بقوله
+ناراً، وقال يا موسى إني أنا الله لا إله إلا أنا فاعبدني، وجعل مبادئ الوصال إليه التوحيد ونهاية الحتم
+بالطاعة، وسأبينك إلى المعونة أولاً ومعرفة ما سواه ثانية حتى تنال لذة الأسرار من قوله إني أنا
+الله، لأنك إن لم تكن كموسى في الوقت والصفة لم تنل لذة نداء المحبوب ولا طعم وصاله، أعتبر من قول
+موسى حين سئل كيف عرفت أن النداء منه فقال إن لذة النداء قتلتني وأشغلتني فذاق كل جزء مني
+وشعرة حلاوته لأني مخاطب بنداء واصل إلي من جميع الجهات كما خاطب في سرادقات العزة
+وملكوت الهيبة الإلهية، فعرفت أن الخطاب من قبل الله تعالى فقلت أنت الذي لم تزل أنت الذي
+ليس لموسى مقام ولا له حركة القول بالكلام الانتظار إلى نعوت فتكون أنت المخاطب والمخاطب جميعاً،
+وعلى هذا الوجه إخبار النبي عليه السلام بقوله عن الله: عبدي مرضت فلم تعدني أني أنا الله في
+الحالين، عبدي أحب من إذا مرضت عادك وإذا تبت تاب عليك، وعصارة الإشارة أن تقطع نفسك
+سنك
+
+**English:**
+— 126 —
+
+Whatever was material or had a relation to matter was generated, so the estimation of the speech becomes thus because it is generated; but if its quiddity were not thus, in consideration of what preceded, that it is He, and this at the beginning of the surah is a reminder: its he-ness was for its essence from Him, and it would not be generated. And if its he-ness were derived from other than Him, it would not be He He for His essence. And in it is an indication to a عظیم secret, and it is the threat occurring in the Qur’an against the one who says of offspring and wife; and consider this secret, namely that the offspring separates, even if its quiddity is many, and because of matter, like sons, and everyone who is material is quiddity, so then nothing other is generated from Him, while He is generated from other than Him, ﷺ. And His saying “and there is not for Him any equal” means: there is none among what equals Him in the strength of existence; rather, if there were for Him what equals His quiddity, and between Him and other than Him there were a material existence, then it would be generated from other than Him. Exalted is Allah above that.
+
+(Chapter) in mentioning the preference of “There is no god but Allah” over the rest of the words, and clarifying the rank of al-Ṣamadiyyah over the rest of the surahs and verses ﷺ, and I make clear the reality of oneness and what it desires, and your connection to the tents pitched on the edges of ʿAqīq and al-Ḥijāz, and to the domes near the side of two bow-lengths or nearer, and that by His power, exalted is His majesty. So the saying “There is no god but Allah” is a true gate, opened only to the yearning ones, and the eyes of the onlookers and their understandings are veiled from its seeker. Not every secret may be divulged, nor does every virtue go forth; and divulging the secret of lordship is unbelief. So if we say divulging the secret of lordship is unbelief, then divulging the secret of companionship, he-ness, and bringing-into-being is more intense in unbelief. And it is not hidden that the origin of unbelief is innovation, and he indicated it by his saying عليه السلام: “Indeed, among knowledge is that which is like a stored thing; none knows it except the scholars by Allah تعالى.” So listen, O foremost one: if you were to erase your existence and its reality, and be absent from yourself and from your seeing and from what is other than it, the secret of secrets would be disclosed to you, indicated now in your saying: the lām of your existence is contradiction of intellect and unbelief of love. So understand, you will attain the strange indication. As for the second, and it is that in which is the rising of the dawn of intimacy and unveiling, the آثار of pre-eternity and necessity, from among the branches of the judgments of the secrets of oneness for the possessors of tawhid and indication and secrets. As for the beginnings of the first valley, ask in it the way of verification, and the second by two kinds of refinement. And the drinker from the first valley is like Dhū al-Qarnayn, and the drinker from the second valley is like al-Khiḍr, عليه السلام. So the first is prepared for permanence and indication, the second is an indication to the Malakut. So the first is the Holy House, and the second, pure oneness: “Indeed, I am Allah; there is no god but I, so worship Me.” And it informs of the aspects of the God تعالى: “Has there come to you the story of Moses, when he saw a fire?” He established for him the vision, then he let down upon him the secret of concealment and the secrets of the lovers by His saying “a fire,” and He said: “O Moses, indeed I am Allah; there is no god but I, so worship Me.” And He made the beginnings of union to Him tawhid, and the end of determination by obedience. And I shall make you clear to the aid first, and the knowledge of what is other than Him second, until you attain the delight of the secrets from His saying “Indeed, I am Allah,” because if you are not like Moses in time and description, you will not attain the delight of the beloved’s call nor the taste of his union. Take as a lesson from the saying of Moses when he was asked how he knew that the call was from Him, and he said: “The delight of the call killed me and occupied me, so every part of me and hair tasted its sweetness, because I was addressed by a call reaching me from all directions, as He addressed in the curtains of might and the kingdom of divine awe; so I knew that the address was from Allah تعالى, and I said: You are the One who has never ceased to be You, the One for whom Moses has no station nor has he the movement of speech with speech, waiting for attributes, so that You are the addresser and the addressed all together.” And upon this manner is the informing of the Prophet عليه السلام in his saying about Allah: “My servant was ill, and you did not visit Me; indeed I am Allah in the two states. My servant is the one whom I love: if I am ill, he visits you, and if I repent, he repents upon you.” And the
+
+---
+## Page 153
+
+**Arabic (original):**
+— ١٢٧ —
+
+عنك بترك كل ما يقطع عن صفتك واجعل قلبك بيته ووجودك مكة وشهودك الحرم وأدم طوافك
+حول البيت طواف سر لإجلاله كوجود البيت وسر به حياً مشاهدة الحي القيوم فإنه شديد الوجود
+وتكوين الصفات وبسر الحالات وهذه الإشارات تدل على إثبات فردانية إله المقدرة من المبادئ
+والغايات
+
+( فصل ) واعلم أن من خواص القرآن قوله تعالى: {شهد الله أنه لا إله إلا هو والملائكة}
+إلى قوله {الحكيم} وفي هذه الآية ٣ معانٍ: الأول ما بدأ الله به نفسه وهو تصديق واجب الوجود
+في الأزمان وأنار صفات وجود معيته منه صفة لعظمته وكبريائه وصفاته المانعين عن معية من سواه،
+والثاني النظر إلى ما شاء الله بملائكته لتصديقهم حال الوجود له فتلك شهادة وجوده ومعرفة
+عنايته يستحيل فيها الرتب لتقديس الملائكة من غشاوة النفسانية والظلمات الصورية، والثالث
+ما أثبت الله لعباده ووصفهم بالعلم القائمين بالقسط وبالتصديق له، وقال ابن عباس رضي الله عنه: تقدير
+الكلام شهد الله بنفسه وإن لم يكن شهد له أحد غيره بأنه لا إله إلا هو والملائكة يشهدون له بذلك،
+وقوله {وأولو العلم} يعنى النبيين والمؤمنين يشهدون له بذلك قائماً بالقسط أي العدل لأنهم أهل العدل
+ولأن معنى العدل وضع الشيء في موضعه ولا يكون ذلك إلا بالله ولا إله إلا هو العزيز الحكيم، العزيز
+المنعم عمن لا يؤمن به، الحكيم بما شهدوا من أنه لا إله إلا هو وأن لا يعبدوا إلا إياه وأن الدين عند الله
+الإسلام.
+
+( فصل ) واعلم أن حقيقة الشهادة بالتوحيد ما شهد الحق لنفسه لأنه هو شاهد ذاته واستشهد
+من استشهد من خلقه قبل خلقه إلهاماً تنبيهاً لهم بأنه عالم بما يكون من شهادته لنفسه بما شهد شهادة
+صدق وعلم حتى لا يقبل شهادة إلا من الصادقين الموحدين الذين سيأتون ويعرفونه ويوحدونه
+ويشهدون إلهيته وربوبيته لقوله تعالى {شهد الله} الآية، فتلك شهادة اضطرار لما يشهدون
+من كبرياء ملكه وآثاره ظاهرة لأنهم جبلوا على ذلك، ثم قال تعالى {وأولوا العلم} أي العلماء
+الذين هم أرباب الحقائق المخزونة في حقائق التوحيد والمشيرون إلى التقرير المعبرون عن معاني الأحوال
+الذين ينفردون عن الكل بالفرد ويوحدون الأحد الصمد ويعلمون معاني أسماء الحق وحقائق
+صفاتها ويعاينون الغيوب وهم حجة الله في البلاد وإليهم مفزع العباد حطوا رحالهم في الحضرة وعلت
+مراتبهم في تعدد صدق عند مليك مقتدر، وقال ابن عباس رضي الله عنه: شهد الله بهذه الشهادة قبل أن يخلق
+الخلق بألف عام وفي رواية بأثني عشر ألف سنة كل سنة ٣٦٠ يوماً كل يوم ألف سنة مما تعدون، والمأثور
+عن إخوان الصفا عدم الخوض في أبحر الدلالة لأنه موجب التفرقة بل عليهم الخوض في أبحر الفهم
+عند سماعهم قول الله {شهد الله أنه لا إله إلا هو} فإنه موضع السجود لغنى الوجود بالوجود الذي من الأسرار
+فهو هو الأول في الأول والآخر في الآخر، ثم بعد ذلك الخوض في أبحر أسرار {إله إلا هو} فإنها
+ذوقية، واعلم أن القرآن العظيم على ٣ أقسام: قسم يدل على معرفة ذات الله وصفاته وتوحيده وتقديسه،
+وقسم يدل على الأمور الشرعية، وقسم يدل على معرفة أمور الآخرة، ولا خفاء من معرفة دلالات
+آيات ذات الله تعالى وصفاته بنعت الوجود والوحدانية والتقديس يساوي ثلث القرآن الدالّان على
+
+**English:**
+— 127 —
+
+from you by leaving all that cuts you off from your attribute, and make your heart its house, and your existence Mecca, and your witnessing the Sanctuary, and perpetuate your circumambulation
+around the House, a circumambulation of secret, for magnifying it, as the existence of the House, and journey by it alive, witnessing the Living, the Self-Subsisting, for He is شديد الوجود
+and the formation of the attributes and by the secret of states; and these indications point to the affirmation of the singularity of the God of power from the beginnings
+and the ends.
+
+(Section) And know that among the properties of the Qur’an is His تعالى saying: {شهد الله أنه لا إله إلا هو والملائكة}
+to His saying {الحكيم}; and in this verse are 3 meanings: the first is what God began with concerning Himself, and it is the affirmation of the Necessary Existent
+in the times, and He illuminated the attributes of the existence of His accompaniment from Him, an attribute of His عظمت and His الكبرياء and His attributes, the preventers from the accompaniment of other than Him;
+and the second is looking to what God willed by His angels for their affirmation of Him in the state of existence for Him, so that is the شهادة of His existence and the knowledge of
+His care, in which the ranks are impossible, due to the sanctification of the angels from the veil of النفسية and the imaginal darknesses; and the third
+is what God established for His servants and وصفهم with knowledge, standing with equity and with affirmation of Him. And Ibn Abbas, may God be pleased with him, said: the estimation
+of the speech is: God bore witness by Himself, even if no one other than Him bore witness for Him, that there is no god but He, and the angels bear witness to Him بذلك,
+and His saying {وأولو العلم} means the prophets and the believers, they bear witness to Him بذلك, standing with equity, that is, justice, because they are the people of justice
+and because the meaning of justice is placing a thing in its place, and that is only with God, and there is no god but He, the Mighty, the Wise; the Mighty
+the One who bestows favor upon him who does not believe in Him; the Wise by what they bore witness to, that there is no god but He, and that they worship none but Him, and that the religion with God
+is Islam.
+
+(Section) And know that the reality of the شهادة with tawhid is what the Truth bore witness to for Himself, because He is the witness of His own essence, and He summoned as witness
+whom He summoned as witness from His creation before His creation, by inspiration, as an alert to them that He is knowing of what will be from His witnessing to Himself by what He bore witness, a witness
+of truth and knowledge, so that He accepts no witness except from the truthful monotheists who will come and know Him and declare Him one
+and bear witness to His divinity and His lordship, according to His تعالى saying {شهد الله} the verse; so that is a witness of compulsion, because of what they witness
+of the majesty of His dominion and its آثار being manifest, because they were molded upon that. Then He تعالى said {وأولوا العلم}, that is, the scholars
+who are the lords of the realities stored in the realities of tawhid, and the signallers to the affirmation, the expressers of the meanings of states,
+those who are singled out from all by the singular, and declare one the One, the Self-Sufficient, and know the meanings of the names of the Truth and the realities of
+His attributes and behold the unseen, and they are the proof of God in the lands and to them is the refuge of the servants; they have set down their saddles in the Presence and their
+ranks have risen in the multiplicity of truthfulness with a Powerful King. And Ibn Abbas, may God be pleased with him, said: God bore witness with this witness before He created
+creation by a thousand years, and in a narration by twelve thousand years, every year 360 days, every day a thousand years of what you count. And what is transmitted
+from the Brethren of Purity is not to plunge into the seas of indication because it necessitates separation, rather upon them is to plunge into the seas of understanding
+when they hear the saying of God {شهد الله أنه لا إله إلا هو}, for it is the place of prostration for the richness of existence by existence, which is from the secrets;
+so He is He, the First in the first and the Last in the last. Then after that, plunging into the seas of the secrets of {إله إلا هو}, for they are
+taste-based. And know that the عظیم Qur’an is upon 3 divisions: a division indicating the knowledge of the Essence of God and His attributes and His oneness and His sanctification,
+and a division indicating the legal matters, and a division indicating the knowledge of the matters of the Hereafter; and there is no concealment from the knowledge of the indications of
+the verses of the Essence of God تعالى and His attributes with the description of existence and oneness and sanctification, equal to a third of the Qur’an, the two indicating on the
+
+---
+
+---
+## Page 154
+
+**Arabic (original):**
+- ١٤٨ -
+
+الأمر والنهي والوعد والوعيد
+(فصل) علامة من عرف الله حق معرفته أن لا يطلع على سره فلا يزد عليه أنه فضل الله الرجال
+بعضهم على بعض باستصحاب هذا الحال وعدم استصحابه.
+(فصل) وإذا أردت أن يظهر الله لك لوامع مقامك فصن الجوارح عن الكسل والنفس عن الملل والعقل
+عن الجدل والقلب عن الزلل والروح عن الأمل والسر عن رؤية العمل ونسبة الحال والمحل.
+(فصل) قاعدة التحقيق ليس لك في الإشارة إلا التوفيق فمن يرد الله أن يهديه يشرح صدره
+للإسلام ومع هذا قد جعل الله للعبد أربعة قواعد التوحيد بالضرورة وعمدة الفقر للمصيرة وهي
+الإحاطة والخبر والإرادة والإدراك وهذه الأربعة هي أصل الأصول ومسلك العقول والإحاطة عليها
+بناء التحقيق فقد حصل له من الكمال الإنساني والخلاص الروحاني والخلق الرحماني وبها يتصرف
+إلى ما يجده من نفسه.
+(فصل) أخل بنفسك كثيرا واخلع بذلك خاليا وسر مكانك مجردا من الخواص الطبيعية تر من
+لواحق الاسم بالسكينة فيكون داخلا في ذاتك خارجا عن الموجود للأشياء مجموع عليك مصروف
+البال إليك فترى في ذاتك من الحسن والبهاء والرفعة والثناء ما تبقى له متعجبا فتعلم أنك جزء من
+الجبروت الأعلى وحياة نافذة وخيرات ثابتة فمن هنا تشعر بالإحاطة وتتعلق بالجهة وترى في ذاتك نورا
+وبهاء لا يطاق شهوده ولا تستطيع التوجه بوجوده فيرجع عاجزا والذهن كليلا إلى علم الفكر
+والرؤية فتحتجب عن ذلك ثم تستعد لمن ذلك حتى تألف المقام ولا يقع معه الانتقاص وترفع المنازعة.
+(فصل) روي عن مقاتل بن سليمان أنه قال: من أهمه أمر فليتوضأ ليلا ويدخل إلى أقصى محل في منزله
+ويصلي ركعتين يتم ركوعهما وسجودهما ثم يسجد لله تعالى ويصلي على نبيه عليه السلام ثم يقول: اللهم
+إنك مليك مقتدر وإنك على ما تشاء قدير، اللهم إن كانت ذنوبي سلفت واختلفت وجفت وعظمت
+خطيئتي وحالت بيني وبين قضاء حاجتي فإني أسألك بجلال وجهك وعظيم عفوك وأتوجه إليك بنبيك
+محمد صلى الله عليه وسلم أن تغفر لي وترحمني وتفرج عني، ثم ينادي بأعلى صوته: يا أحمد يا أبا القاسم
+إني أتوسل وأتوجه بك إلى الله تعالى ليغفر لي ويرحمني ويقضي حاجتي وحوائجي ويفرج كربي وهمي
+وغمي، فإن حضر لك البكاء فهو علامة الإجابة فسل حاجتك تقض ولا أعد العمل أولا وثانيا.
+(فصل) وروي عنه دعاء مجرب كان عيسى عليه السلام يحيي به الموتى، فإذا أردت أن تدعو به صلِّ
+الصبح وقل وأنت جالس ١٠٠ مرة: بسم الله الرحمن الرحيم ولا حول ولا قوة إلا بالله العظيم،
+اللهم إني أسألك يا قديم يا فرد يا وتر يا أحد يا صمد يا حي يا قيوم يا ذا الجلال والإكرام، فإن
+لولو [~] فقل: حسبي الله لا إله إلا هو عليه توكلت وهو رب العرش العظيم، واسأل ما شئت فإن لم يستجب
+لك فسل عن مقاتل.
+(فصل) ومن أهمه أمر أو نزل به كرب يظهر ليلة الجمعة عند الغروب ثم يعتكف ولا يكلم أحدا
+حتى يصلي العشاء فإذا أوتر يقول في آخر سجدة من وتره: يا الله يا رب يا حي يا قيوم بك أستغيث يا الله
+مائة مرة ويسأل حاجته تقضى. وروي عن الإمام أبي عيسى الترمذي عن أنس بن مالك أن
+النبي
+
+**English:**
+- 148 -
+
+the command and the prohibition and the promise and the threat.
+(Section) The sign of one who has known God with true knowledge is that he does not become aware of His secret; so let him not increase upon it that God has فضل the men
+some of them over some by maintaining this state and not maintaining it.
+(Section) And if you desire that God show you the gleams of your station, then guard the limbs from laziness, and the النفس from boredom, and the intellect
+from disputation, and the heart from slipping, and the spirit from hope, and the secret from seeing the work and the attribution of the state and the place.
+(Section) The rule of verification is that you have nothing in the indication except success; so whomever God desires to guide, He expands his breast
+to Islam. And with this, God has made for the servant four foundations of tawhid by necessity and the pillar of poverty for the destination, and they are
+encompassment, report, will, and perception; and these four are the root of roots and the path of intellects, and encompassing them is
+the building of verification. Thus he has obtained from human perfection, spiritual deliverance, and merciful character, and by them he disposes
+to what he finds from himself.
+(Section) Empty yourself often, and thereby strip yourself while empty, and journey in your place stripped of natural properties; you will see
+the adjuncts of the name with tranquility, so it will be entering into your essence, outside of the existent for things, gathered upon you, your attention turned to you. Then you will see in your essence of beauty and splendor and loftiness and praise what remains for you, amazed, so you know that you are a part of
+the highest might, and an effective life, and fixed good things; from here you feel encompassment and تعلق to the direction, and you see in your essence a light
+and splendor whose witnessing is unbearable and whose existence you are unable to direct toward, so it returns helpless and the mind, weary, to the knowledge of thought
+and vision, so you are veiled from that; then prepare yourself for that until you become accustomed to the station and diminution does not occur with it, and contention is lifted.
+(Section) It is narrated from Muqatil ibn Sulayman that he said: whoever is concerned by a matter, let him perform ablution at night and enter to the farthest place in his house
+and pray two rak‘ahs, completing their bowing and their prostration, then prostrate to God تعالى and send prayers upon His Prophet عليه السلام, then say: O God,
+You are a powerful King, and You are able over what You will. O God, if my sins have preceded and multiplied and dried up and my
+offense has عظمت and stood between me and the fulfillment of my need, then I ask You by the majesty of Your Face and the عظیم forgiveness of Yours, and I turn to You by Your Prophet
+Muhammad صلى الله عليه وسلم that You forgive me and have mercy on me and relieve me. Then he calls out with the loudest of his voice: O Ahmad, O Abu al-Qasim,
+I seek intercession and turn by you to God تعالى that He forgive me and have mercy on me and fulfill my need and my needs and relieve my distress and my worry
+and my grief. If weeping comes to you, then it is a sign of response, so ask your need; it will be fulfilled, and do not repeat the work first and second.
+(Section) And it is narrated from him a tried supplication by which Jesus عليه السلام used to bring the dead to life. So if you wish to supplicate with it, pray
+the morning prayer and say while seated 100 times: In the name of God, the Merciful, the Compassionate, and there is no might and no power except by God the عظیم,
+O God, I ask You, O Ancient, O Unique, O Odd, O One, O Self-Sufficient, O Living, O Self-Subsisting, O Possessor of majesty and honor. Then
+لولو [~] say: God is sufficient for me; there is no god but He; upon Him I rely, and He is the Lord of the Mighty Throne. And ask whatever you wish; if it is not answered
+for you, then ask about Muqatil.
+(Section) And whoever is concerned by a matter or distress has descended upon him, let him appear on Friday night at sunset, then seclude himself and speak to no one
+until he prays the night prayer. Then when he performs witr, he says in the last prostration of his witr: O God, O Lord, O Living, O Self-Subsisting, by You I seek help, O God,
+one hundred times, and he asks that his need be fulfilled. And it is narrated from Imam Abu Isa al-Tirmidhi, from Anas ibn Malik, that
+the Prophet
+
+---
+
+---
+## Page 155
+
+**Arabic (original):**
+— ١٤٩ —
+النبي عليه السلام قال: من كانت له حاجة إلى الله تعالى أو أحد من الناس فليصل ركعتين ويدع بهذا
+الدعاء العظيم وهو هذا تقوله: لا إله إلا الله الحليم الكريم، لا إله إلا الله سبحان رب العرش العظيم، لا إله
+إلا الله سبحان رب السموات والأرض ورب العرش الكريم، اللهم إني أسألك موجبات رحمتك وعزائم
+مغفرتك والغنيمة من كل بر والسلامة من كل ذنب، لا تدع لي اللهم ذنباً إلا غفرته ولا هماً إلا كشفته
+ولا كرباً إلا فرجته ولا حاجة إلا قضيتها برحمتك يا أرحم الراحمين.
+(وهذا الدعاء العظيم لقضاء الحوائج) تدعو به بعد صلاة ركعتين وإخلاص نية وحمد الله تعالى والاستغفار
+والصلاة والسلام على النبي عليه السلام، ثم تقول: اللهم يا جامع الشتات، ويا مخرج النبات، ويا محيي العظام الرفات،
+ويا مجيب الدعوات، ويا قاضي الحاجات، ويا مفرج الكربات من فوق سبع سموات، ويا فاتح خزائن الكرامات،
+ويا مالك حوائج العالمين، سمع سمعك الأصوات وأحاط علمك بكل شيء، أسألك اللهم بقدرتك على
+كل شيء وباستغنائك عن جميع خلقك وبحمدك ومجدك أن تجود علي بحاجتي وتسميها ثم تقضى.
+(فصل) وأخبر الحسن بن سالم قال: كانت لي جدة عمياء فأتاها آت فقال لها: ألا أعلمك شيئاً من أسماء
+الله تدعين بها يرد الله عليك بصرك؟ فقالت له: غفر الله لك، فقل: ارفعي يديك إلى السماء وادعي وامسحي
+وجهك وعينك، ففعلت ما أمرها به فرد الله عليها بصرها، فرأت بين يديها شيخاً قائماً ثم ذهب عنها وما
+أخبرت به إلا عند موتها، فأداؤه أول سورة الحديد إلى قوله: عليم بذات الصدور، وآخر الحشر. وسئل
+الإمام علي رضي الله عنه عن أحسن ما خصه به عليه السلام من الدعاء فقال: ما ظننت أن أحداً يسألني
+عن هذا، ثم قال: إذا أردت أن تسأل حاجة فاقرأ آيات: أن أول الحديد إلى الصدور، وآخر سورة
+الحشر: لو أنزلنا هذا القرآن، إلخ، ثم قل: اللهم هكذا هكذا افعل لي كذا وكذا، فإنه يكون ذلك.
+(فصل) ومن دعاء الشيخ أبي الحسن الشاذلي رضي الله عنه قال: بت ليلة في غم عظيم فألهمت أن أقول:
+إلهي مننت علي بالتوحيد والطاعات، وأحاطت بي الشهوة والغفلة والمعصية، وطرحتني النفس في بحر الهوى
+والظلمة، فهي مظلمة وعبدك مظلوم محزون مغموم، قد التقمه الهوى وهو يناديك نداء المعصوم
+المحبوس عبدك يونس ويقول: لا إله إلا أنت سبحانك إني كنت من الظالمين، فاستجب لي كما استجبت له،
+واهدني بعز المحبة في محل التفريد والتوحيد والوحدة، وأنت اللطيف الحنان المنان، وليس لي إلا أنت وحدك
+لا شريك لك ولا تخلف وعدك لمن آمن بك، فإنك قلت وقولك الحق: فاستجبنا له ونجيناه من الغم، وكذلك
+ننجي المؤمنين، وصلى الله على سيدنا محمد وعلى آله وصحبه وسلم.
+(فصل) وهذا الدعاء المبارك للإمام محمد بن إدريس الخوارزمي رحمه الله وهو الذي تزعزعت الملائكة
+منه، تقول: اللهم يا ودود (٣)، يا ذا العرش المجيد، يا مبدئ يا معيد، يا فعالاً لما يريد، يا ذا العزة التي لا ترام
+والملك الذي لا يضام، يا من ملأ نوره أركان عرشه، يا مغيث أغثني (٣)، إنك على كل شيء قدير. وفي رواية
+أخرى (٣): يا ذا العرش المجيد، يا مبدئ يا معيد، يا فعالاً لما يريد، يا أسألك بنور وجهك الذي ملأ أركان
+عرشك، وبقدرتك التي قدرت بها على جميع خلقك، وبرحمتك التي وسعت كل شيء، لا إله إلا أنت
+يا غياث المستغيثين أغثني (٣). قال: فدعا بها ملهوف فسمع في السماء فقعة، وإذ بفارس قد نزل عن
+فرسه وبيده حربة فأقبل على الكردي وهو اللص الذي أراد الملهوف فقتله وقال: يا زيد لما دعوت
+
+**English:**
+— 149 —
+The Prophet عليه السلام said: Whoever has a need with God تعالى or with one of the people, let him pray two rak‘ahs and supplicate with this
+great supplication, and it is this, you say: There is no god but God, the Forbearing, the Generous; there is no god but God, glory be to the Lord of the Mighty Throne; there is no god
+but God, glory be to the Lord of the heavens and the earth and the Lord of the Noble Throne. O God, I ask You for the necessitating causes of Your mercy and the determinations
+of Your forgiveness, and the spoils from every righteousness and safety from every sin. O God, do not leave for me a sin except that You forgive it, nor a worry except that You remove it,
+nor a distress except that You relieve it, nor a need except that You fulfill it by Your mercy, O Most Merciful of the merciful.
+
+(And this great supplication for the fulfillment of needs) you supplicate with it after praying two rak‘ahs and making sincere intention and praising God تعالى and seeking forgiveness
+and sending prayers and peace upon the Prophet عليه السلام, then you say: O God, O Gatherer of the scattered, and O Bringer forth of the plants, and O Bringer to life of the decayed bones,
+and O Answerer of supplications, and O Fulfillor of needs, and O Reliever of distresses from above seven heavens, and O Opener of the treasuries of honors,
+and O Owner of the needs of the worlds, Your hearing has heard the voices and Your knowledge has encompassed everything. I ask You, O God, by Your power over
+everything and by Your self-sufficiency from all Your creation and by Your praise and Your glory, that You bestow upon me my need and name it, then it is fulfilled.
+
+(Section) And al-Hasan ibn Salim informed, he said: I had a blind grandmother, and a comer came to her and said to her: Shall I not teach you something from the names of
+God by which you may supplicate and God will return your sight to you? She said to him: May God forgive you, then say: Raise your hands to the sky and supplicate and wipe
+your face and your eye. So she did what he commanded her, and God returned her sight to her, and she saw before her a standing الشيخ, then he went away from her, and she did not inform
+of it except at her death. And its performance is the first of Surat al-Hadid to His saying: Knowing of what is within the breasts, and the end of al-Hashr. And
+Imam Ali, may God be pleased with him, was asked about the best of what he عليه السلام had singled him out with of supplication, and he said: I did not think that anyone would ask me
+about this. Then he said: If you wish to ask a need, then recite the verses: from the beginning of al-Hadid to the breasts, and the end of Surat
+al-Hashr: Had We sent down this Qur’an, etc., then say: O God, thus, thus do for me such and such, for it will be so.
+
+(Section) And from the supplication of Shaykh Abu al-Hasan al-Shadhili, may God be pleased with him, he said: I spent a night in great grief, and it was inspired to me that I say:
+My God, You have favored me with tawhid and acts of obedience, and desire and heedlessness and disobedience have encompassed me, and the النفس has cast me into the sea of passion
+and darkness, so it is dark, and Your servant is wronged, sorrowful, distressed; passion has swallowed him, and he calls You with the call of the infallible
+imprisoned, Your servant Yunus, and says: There is no god but You, glory be to You; indeed I was among the wrongdoers. So answer me as You answered him,
+and guide me by the might of love in the place of singling out, tawhid, and unity. And You are the Gentle, the Compassionate, the Bestower, and I have none but You alone;
+no partner have You, and You do not break Your promise to one who believes in You, for You said, and Your saying is the truth: So We answered him and delivered him from grief, and thus
+do We deliver the believers. And may God bless our master Muhammad and his family and his Companions and grant them peace.
+
+(Section) And this blessed supplication is for Imam Muhammad ibn Idris al-Khwarizmi, may God have mercy on him, and it is that by which the angels were shaken
+from it. You say: O God, O Loving (3), O Possessor of the glorious Throne, O Originator, O Restorer, O Doer of what He wills, O Possessor of the might that is not assailed
+and the kingdom that is not wronged, O He whose light has filled the corners of His Throne, O Helper, help me (3), indeed You are over everything powerful. And in another narration
+(3): O Possessor of the glorious Throne, O Originator, O Restorer, O Doer of what He wills, O I ask You by the light of Your Face that has filled the corners
+of Your Throne, and by Your power by which You have قدرت over all Your creation, and by Your mercy that has encompassed everything, there is no god but You,
+O Aid of those who seek aid, aid me (3). He said: So a distressed one supplicated with it, and a burst was heard in the sky, and behold, a horseman had dismounted from
+his horse and in his hand was a spear, and he advanced upon the Kurd, who was the thief who had intended the distressed one, and killed him, and said: O Zayd, when you called
+
+---
+_End of translation — 155 pages._
