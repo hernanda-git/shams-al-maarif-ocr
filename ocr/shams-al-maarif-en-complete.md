@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 137 translated pages._
+_Auto-generated from 143 translated pages._
 
 ---
 ## Page 1
@@ -7737,4 +7737,364 @@ Yāsa then you begin reciting the mentioned surah for fourteen days, and if you 
 Know, may Allah تعالى guide me and you to His obedience and the understanding of the secrets of His names, that if you desire to recite it for a matter among matters, then pray two rak‘ahs with al-Fatihah and Alam nashrah laka sadrak, and when you finish the prayer you say Latif sixteen thousand and six hundred and forty-one times, and it is the great number. So if you recite it for the removal of worry or grief or the like, you say it to the mentioned number for that which you want, for it will be answered for you, if Allah تعالى wills. And if you want it for the destruction of the wrongdoer, then you recite the name Latif the mentioned number, after that you invoke with this cry for help, you say: “O Allah, You are the King, the قادر, the قاهر, Possessor of subjugation and severe assault. My God, a servant from among Your servants has transgressed against me and acted arrogantly, and You are the Judge, the Just, and I have litigated him before You, and I have entrusted in uncovering”
 
 ---
-_End of translation — 137 pages._
+## Page 138
+
+**Arabic (original):**
+— ١٣٤ —
+ظلامتي منه عليك أنزل به بلاء يعجز عن دفعه أهل السموات والأرض حتى يعرف قدر نعمتك
+وعافيتك عليه وارسخ على هامته رسوخ السجيل على أصحاب الفيل واركس والبس وأقصه
+ودمره ونكسه وخذ فأخذهم الله بذنوبهم وما كان لهم من الله من واق وتبعه هذا الشعر
+صحو بأشيط محبوب السجود له * من بقطع الليل تسبيحا وقرآنا
+لتسمع ضجيجا في ديارهم * الله أكبر إغارات عيانا
+والناجيات عليه دمر الله عليهم وللكافرين أمثالها فأصبحوا لا ترى إلا مساكنهم الله
+عليهم ألم تر كيف فعل ربك بأصحاب الفيل ألم يجعل كيدهم في تضليل وأرسل عليهم طيرا أبابيل
+ترميهم بحجارة من سجيل فجعلهم كعصف مأكول تقول الله لطيف بعباده يرزق من يشاء وهو
+القوي العزيز تقرأ مائة وتسعة وعشرين مرة وتقول يا لطيف بياء النداء مائة مرة وتقول أيضا
+يا لطيف تسعة وعشرين مرة على نفس واحد وأنت تكون متوضئا من أول العمل إلى آخره ولا
+تكلم أحدا وقت عملك وقراءتك حتى تفرغ وإذا تكلمت تعيد العمل أولا على التدريج وإياك أن تقول
+لا ترى هل يصح أم لا فإن قلت لم تنتفع به أبدا وتكون نيتك طيبة موقنا من الله تعالى بسرعة الإجابة
+فإذا فعلت ذلك نجحت حاجتك وقضيت بإذن الله تعالى وإن زدت إليه الدعاء المبارك كان أجود وهو
+هذا تقول * اللهم إني أسألك باللطيف فوق كل لطيف يا من عم لطفه أهل السموات والأرض اللهم إني
+أسألك أن تلطف بي من خفي لطفك الخفي الذي إذا لطفت به لأحد من خلقك كفى فإنك قلت ألا يعلم
+من خلق وهو اللطيف الخبير اللهم باللطيف بعباده يرزق من يشاء وهو القوي العزيز وأقول هذا الدعاء
+مائة وتسعة وعشرين مرة وهذا صفة الوفق كما ترى
+* ذكر دعوة سبحان الله والحمد لله ولا إله إلا الله والله أكبر ولا حول ولا قوة إلا بالله
+العلي العظيم * وصفة إضاتها يا أخي وفقني الله تعالى وإياك لطاعته تقرأ عقب كل
+صلاة خمسمائة مرة وأربع وأربعين مرة إلا في صلاة العشاء يكون العدد
+المذكور خمسمائة وسبعة وأربعين مرة فتكون تتمة العدد عن الخمس الصلوات ألفين وسبعمائة
+وثلاثة وعشرين مرة ثم تقرأ بعد فراغ الورد من بعد صلاة العشاء هذا الدعاء الآتي ذكره في
+ثلاث مرات مع ملازمة الجمعة وهو هذا الدعاء المبارك * بسم الله الرحمن الرحيم * بها تخلص لساني
+وتثبت بها جناني بأرزاق الهوام ومرسى الجبال ومسرى الرياح ومجرى البحار يا نور النور
+تعلم كل نور بفضلك العظيم ساطع كل نور واحد أحد صمد دائم أبدا علام غيب والشدة لم تتخذ
+ولدا دعوتك باسمك السريع قريب الشكر لله إعثائيل بطريق الهدى والعادة لله رب العالمين
+الأول الآخر الظاهر الباطن كل نفس هداها يا عثائيل أنت من الملائكة الكرام وأنا من الإنس
+الأفضل بفضلك والسجود له أقسمت عليك بيمين العرش وسدرة المنتهى ووجه عزرائيل قاض
+خلق السموات والأرضين أقسم عليك ببطن البحر وما فيه من الريح وما يسر به والغمام ما يبكيه
+ونزلت الرحمات وسائر القدرات تسخر لي خادما من بين يديك يطيع أمري من سرهن غصون
+الأرض
+
+| الله | لطيف | بعباده |
+| :--- | :--- | :--- |
+| ٨٤ | ١٢٩ | ٦٦ |
+| ٦٧ | ٨٥ | ١٢٩ |
+| ١٢٨ | ٦٥ | ٨٦ |
+
+**English:**
+— 134 —
+My wrong against him, upon you I send down by it a calamity which the people of the heavens and the earth are unable to repel, until he knows the measure of your favor and your well-being upon him, and I firmly set upon his head a firmness like the firmness of sijjil upon the companions of the elephant, and I overturn, and I clothe, and I cut him off, and I destroy him, and I cast him down, and take; so Allah took them for their sins, and there was not for them from Allah any protector. And this poetry follows it:
+Awake with a beloved of the most ardent prostration to Him * from the cutting of the night, glorification and Qur’an
+That a clamor be heard in their dwellings * Allah is greater, raids openly
+And the saved ones upon him, Allah destroyed them, and for the disbelievers the like of them; so they became such that nothing is seen except their dwellings. Allah upon them. Have you not seen how your Lord did with the companions of the elephant? Did He not make their plot go astray, and send against them birds in flocks, throwing them with stones of sijjil, and He made them like eaten straw. You say: Allah is gentle with His servants; He provides for whom He wills, and He is the Strong, the Mighty. You recite one hundred and twenty-nine times, and you say “O Gentle” with the vocative yā’ one hundred times, and you also say “O Gentle” twenty-nine times in one breath, and you are in a state of ablution from the beginning of the work to its end, and you do not speak to anyone at the time of your work and your recitation until you finish; and if you speak, you repeat the work first, gradually. And beware that you say: “Do you not see whether it is valid or not?” For if you say it, you will never benefit by it. And let your intention be good, certain of Allah تعالى of the speed of response. So if you do that, your need will succeed and be fulfilled, by permission of Allah تعالى. And if you add to it the blessed supplication, it is better, and it is this: you say: * O Allah, I ask You by the Gentle above every gentle one, O You whose gentleness has encompassed the people of the heavens and the earth. O Allah, I ask You to be gentle with me by Your hidden hidden gentleness, which, if You are gentle by it toward one of Your creatures, it suffices, for You said: Does He not know, He who created? And He is the Gentle, the Aware. O Allah, by the Gentle with His servants He provides for whom He wills, and He is the Strong, the Mighty. And I say this supplication one hundred and twenty-nine times, and this is the form of the wafq as you see.
+* Mention of the invocation: Glory be to Allah, and praise be to Allah, and there is no god but Allah, and Allah is greater, and there is no power and no strength except by Allah, the High, the Great * And the manner of its addition, my brother—may Allah تعالى grant me and you success in obedience to Him—you recite after every prayer five hundred and forty-four times, except in the prayer of night, the mentioned number is five hundred and forty-seven times, so that the completion of the number over the five prayers is two thousand seven hundred and twenty-three times. Then you recite, after finishing the wird after the prayer of night, this supplication mentioned below, three times, with adherence to Friday, and it is this blessed supplication: * In the name of Allah, the Merciful, the Compassionate * by it my tongue is made pure, and by it my heart is made firm, by the provisions of the crawling things, the anchorage of the mountains, the course of the winds, and the course of the seas, O Light of light, You teach every light by Your عظیم favor; every light is radiant, One, Unique, Absolute, everlasting forever, Knower of the unseen and the hardship; He has not taken a son. I call You by Your swift name, near, the thanks to Allah, Itha’il, by the path of guidance and the custom of Allah, Lord of the worlds, the First, the Last, the Manifest, the Hidden, every soul He guided. O Itha’il, you are among the noble angels, and I am among mankind, the best by Your favor and the prostration to Him. I adjure you by the right hand of the Throne and Sidrat al-Muntaha and the face of Azra’il, the judge, creator of the heavens and the earths. I adjure you by the belly of the sea and what is in it of wind and what it rejoices in and the clouds, what it makes weep, and the mercies descended and the rest of the powers, that you subdue for me a servant from before you who obeys my command from the secrets of their branches, the earth.
+
+| Allah | Gentle | with His servants |
+| :--- | :--- | :--- |
+| ٨٤ | ١٢٩ | ٦٦ |
+| ٦٧ | ٨٥ | ١٢٩ |
+| ١٢٨ | ٦٥ | ٨٦ |
+
+---
+## Page 139
+
+**Arabic (original):**
+- ١٣٣ -
+
+الأرض أطرحهم طمعاً وأحسنهم خطاً يخاطبون لا يعبدون الإله وأنا متوكل عليك واحد أحد
+لا شريك له في ملكه يا خدام الشجرة أولها أربعون غصناً متفرقة من أربعة أغصان ثمارها
+التسبيح والتقديس والتهليل تسبيحاً سبحان الله والحمد لله ولا إله إلا الله أكبر ولا حول ولا قوة
+إلا بالله العلي العظيم تلازمه ٢١ يوماً فإن أبت ٤٠ يوماً إلا يحصل المراد وأيضاً ذكر بعد هذه الدعوة
+يا حي يا قيوم إذا أردت العمل بها تقرأ الاسمين الشريفين ألف مرة وبعد ذلك تقرأ الدعاء المبارك تقول
+وتدعو بما تريد من تيسير رزق وفهم سر وغير ذلك مما لله فيه الرضا وهو هذا الدعاء المبارك تقول
+اللهم يا حي يا من نسبت له الحياة ولا منسوب غيره مما نسبه لنفسه تعظمت سبحانك أسماؤك وتنزهت
+عن المسميات ذاتك عن المثال والشريك والنظير والصاحبة والوزير فأنت الحي أبداً والصمد في
+حياتك الأبدية فانبسطت الحياة في حياتك أنت الباقي فلك البقاء الدائم بعد فناء المخلوقين وكما لك
+البقاء وعبادك الفناء فأمرك إلهي نافذ وحكمك ليس له معاند فقد ذهبت الأفراد وانهزمت الأضداد
+وانقمع الملحدون بوجود بقائك وديمومة حياتك يا حي يا قيوم أسألك بهذه الحياة الأبدية أن تحييني
+حياة موصولة بالنعم وأحي نفسي من العالم حياة يكون لي بها مدد وسعد وأسعدني بتوفيق من دقائق
+اسمك الله الحي القيوم وحقق لي رقيقة من دقائق اسمك الله الحي حتى تمحو عني الشقاء وتدخلني دائرة
+السعد يمحو الله ما يشاء ويثبت وعنده أم الكتاب يا حي يا قيوم يا من قامت السموات والأرض في
+الطول والعرض بما نعلمه وما لا نعلمه وبما أنت به أعلم برحمتك يا أرحم الراحمين فإن زدت عليه تقول
+اللهم إن كان رزقي في السماء فأنزله وإن كان في الأرض فأخرجه وإن كان قريباً فيسره وإن كان كثيراً
+فبارك لي فيه وانقله لي حيث كنت ولا تنقلني إلى حيث كان وأتني به من فضلك وكرمك برحمتك
+يا أرحم الراحمين وصلى الله على سيدنا محمد وعلى آله وصحبه وسلم
+(ذكر دعاء لطيف أيضاً) تقرأ اللطيف ١٢٩ وتقول هذا الدعاء ويقرأ بعد صلاة الصبح بسم
+الله الرحمن الرحيم تقولها مراراً وتقول الله لطيف ٧ اللهم مسخر السموات والأرضين السبع
+ومن فيهن وعليهن سخر لي كل شيء من عبادك مما في برك وبحرك حتى لا يكون في الكون شيء
+متحرك ولا ساكن صامت أو ناطق إلا سخرته باسمك اللطيف المكنون يا الله يا حي يا قيوم أمره
+إذا أراد شيئاً أن يقول له كن فيكون إلهي جودك دني عليك وإحسانك قربي إليك أشكو إليك ما لا
+يخفى عليك وأسألك ما لا يعسر عليك إذ علمك بحالي يغني عن سؤالي يا مفرج عن المكروب كربه
+فرج عني ما أنا فيه يا من ليس بغائب فأنتظره ولا بنافل فأذكره ولا بعاجز فأمهله
+يا عالماً بالجملة التفصيل كفي علمك عن المقال وكفي كرمك عن السؤال انقطع الرجاء إلا منك
+وخابت الآمال إلا فيك وصدت الطرق إلا إليك يا سميع يا بصير يا مجيب اغفر لي وارحمني
+برحمتك يا أرحم الراحمين ويسر لي رزقي وسخر لي جميع خلقك إنك على كل شيء قدير وصلى الله على
+سيدنا محمد وعلى آله وصحبه وسلم * واعلم أنها تنفع المكروب ومن به خوف من حاكم وغيره
+(فصل) اذكر بعدها سورة الملك وقسمها حكاية * اعلم أن هذه الكيفية تقرأ سورة تبارك
+بوضوء وطهارة وتطيب والبخور عمال وهو كل ذي رائحة طيبة وتقرأ أقسم السورة فإن فيها
+
+**English:**
+- 133 -
+
+the earth. I cast them down in greed, and the best of them in line; they speak, they do not worship the God, and I am relying upon You, One, Unique, there is no partner to Him in His kingdom. O servants of the tree, its beginning is forty branches, separated from four branches; its fruits are glorification, sanctification, and declaration of oneness, glorification: Glory be to Allah, and praise be to Allah, and there is no god but Allah, Allah is greater, and there is no power and no strength except by Allah, the High, the Great. You keep to it for 21 days; if it refuses, 40 days, except that the desired thing is obtained. And also mention after this invocation: O Living, O Self-Subsisting. If you wish to work with it, you recite the two noble names one thousand times, and after that you recite the blessed supplication; you say and you supplicate with whatever you want of easing of provision, understanding of secret, and other than that of what there is in it Allah’s approval, and it is this blessed supplication: you say, O Allah, O Living, O You to whom life is attributed and no other is attributed among what He attributed to Himself, Your names are magnified, glory be to You, and Your Essence is exalted above the named things, above likeness, partner, peer, consort, and minister. So You are the Living forever, and the Absolute in Your eternal life; life has spread out in Your life. You are the Remaining; so for You is the everlasting remaining after the annihilation of the created beings. And as for You is remaining and Your servants are annihilation, so Your command, my God, is effective and Your judgment has no opponent. The individuals have gone and the opposites have fled, and the atheists have been subdued by the existence of Your remaining and the دوام of Your life. O Living, O Self-Subsisting, I ask You by this eternal life that You give me life, a life connected with blessings, and bring my soul to life from the world, a life by which there will be for me مدد and good fortune, and make me happy by a success from the subtleties of the name of Allah, the Living, the Self-Subsisting, and realize for me a subtlety from the subtleties of the name of Allah, the Living, until You erase from me misery and bring me into the circle of good fortune. Allah erases what He wills and confirms, and with Him is the Mother of the Book. O Living, O Self-Subsisting, O You in whom the heavens and the earth have stood in length and breadth, by what we know and what we do not know, and by what You know better, by Your mercy, O Most Merciful of the merciful. If you add to it, you say: O Allah, if my provision is in the heaven, then send it down; and if it is in the earth, then bring it out; and if it is near, then make it easy; and if it is abundant, then bless me in it, and transfer it to me wherever I am, and do not transfer me to where it is, and bring it to me from Your bounty and Your generosity, by Your mercy, O Most Merciful of the merciful. And may Allah bless our master Muhammad and his family and his companions and grant peace.
+(ذكر دعاء لطيف أيضاً) You recite al-Latif 129 and say this supplication, and it is recited after the dawn prayer: In the name of Allah, the Merciful, the Compassionate. You say it repeatedly, and you say Allah Latif 7. O Allah, Subduer of the seven heavens and earths and whoever is in them and upon them, subdue for me every thing from Your servants, from what is in Your land and Your sea, so that there is not in the cosmos a thing moving nor still, silent or speaking, except that You have subdued it by Your hidden gentle name. O Allah, O Living, O Self-Subsisting, His command—when He wills a thing—is only that He says to it, “Be,” and it is. My God, Your generosity is near to me, and Your beneficence is close to me; I complain to You of what is not hidden from You, and I ask You for what is not difficult for You, since Your knowledge of my state suffices me from my asking. O Reliever of the distressed, relieve from me what I am in. O You who are not absent, so I wait for Him, nor superfluous, so I remember Him, nor incapable, so I give Him respite. O Knower of the total and the detailed, let Your knowledge suffice from speech, and let Your generosity suffice from asking. Hope has been cut off except from You, and hopes have failed except in You, and the roads have been blocked except to You. O Hearing, O Seeing, O Answerer, forgive me and have mercy on me by Your mercy, O Most Merciful of the merciful, and make easy for me my provision, and subdue for me all Your creation. Indeed, You are over all things powerful. And may Allah bless our master Muhammad and his family and his companions and grant peace. * And know that it benefits the distressed and whoever has fear of a ruler and others.
+(Chapter) Mention after it Surat al-Mulk and its division as a narration * Know that this manner: recite Surat Tabarak with ablution and purity and perfume and incense, and it is effective, and it is every thing of pleasant scent, and recite the oath of the surah, for in it there is
+
+---
+## Page 140
+
+**Arabic (original):**
+١١٠
+
+عظيماً وهو هذا القسم المبارك تقول بسم الله الرحمن الرحيم يا جبال أوبي معه والطير وألنا له الحديد أن
+اعمل سابغات وقدر في السرد واعملوا صالحاً إني بما تعملون بصير كذلك يا مولى الموالي تلين لي قلوب
+الخلائق أجمعين من الإنس والجن بحق هذه الأسماء ملكى كوندى سجاعت بكام أنولسان بنديدا
+انست مارا من كسير مركبتي رزقاً انست ذبانا كل من عليها فان أسألك اللهم أن تسخر لي الملك
+والملكوت حتى يصيروا إلي خاضعين بالذل والهيبة والمحبة ويحبونهم كحب الله والذين آمنوا أشد
+حباً لله لو أنفقت ما في الأرض جميعاً ما ألفت بين قلوبهم ولكن الله ألف بينهم إنه عزيز حكيم وأسألك
+اللهم أن تجري بمرادي القضاء والقدر والفلك الدوار وأن تجري هيبتي ومحبتي في قلوب الثقلين
+الإنس والجن أجمعين صرت بهزم العساكر في أنرا كب كتب الله لأغلبن أنا ورسلي إن الله قوي
+عزيز وقال الملك ائتوني به أستخلصه لنفسي فلما كلمه قال إنك اليوم لدينا مكين أمين إلى قوله والله
+غالب على أمره وآتيناه من كل شيء سبباً طسوم وإياك نعبد وإياك نستعين السماء العجل نصر من
+الله وفتح قريب وبشر المؤمنين ولا حول ولا قوة إلا بالله العلي العظيم وهذا القسم والسورة ينفعان
+للأمور المهمات وهزم الجيش وكسر الأعداء والنصر على الحساد والمبغضين وقراءتها تنفع وتشفع
+وتسمى المنجية وهي ثلاثون آية فاعرف قدرها فهي من أعظم الفوائد وقد أشرنا إلى بعض خواصها
+فافهم والله أعلم
+
+(فصل في ذكر دعوة ألم نشرح لك صدرك)
+اعلم وفقني الله تعالى وإياك إلى طاعته أن قراءة هذه السورة لها خواص عجيبة فإذا أردت العمل بها
+تصوم لله تعالى ثلاثة أيام وتدعو بالدعاء سبعين مرة وتقول يا محمد سبعين مرة فإنه يأتيك الخادم بالغنى
+عن الخلق وإن أذنته أوصلك إلى مكة في وقت سريع إن شاء الله تعالى ومهما طلبت منه أجابك وقضى
+في أسرع وقت سر يا عم الخادم دردائيل وهذا الدعاء تقول أسألك يا نور الأنوار اللاهوتية قبل
+الدهور والأزمان الفانية الجوهر الفعال بالأمثال القدوس الظاهر العلي القاهر الذي لا يحطه مكان
+ولا يشتبه عليه زمان مكون الأمكنة والأزمان والأوقات تباركت عن جوهرة الأنوار اللاهوتية
+الأزلية الصمدية يارب ألبسني منك حياة الأرواح الروحانية المتصفة بالقوة العلية الصفة التي لها
+يا خالق يا من يرى ولا يرى من عظيم قدرتك فلا تطيق الكروبيون ترفع وجوههم من حجب نورك
+اللهم يا عظيم بحق لو أنزلنا هذا القرآن على جبل إلى قوله يتفكرون ترفع ذكري وأسألك بأول
+الديمومة بعظيم قدرة الألوهية وسطوة الربوبية أن تخلصني من هذه الخليقة الفانية وتعلمني
+على الأسرار الخفية عن البرية المتفضل بها على عبادك المرضية الطالبين دار البقاء التاركين دار الفناء
+الجانبين للأرواح الطاهرة اللهم اصرف عني الأمراض الفانية بديع قدرتك وعظيم شأنك ونور
+وجهي في قدوس أنوارك وأفردني مع الأفراد واعصمني من مقارنة الأفراد ومشاركة الأضداد
+وأطلعني على اللطائف الخفية يا من تردى بالبقاء والكبرياء يا عالي يا متعالي يا أول الأولين إنك على
+كل شيء قدير هو الله الخالق البارئ المصور إلخ السورة ثم بعد ذلك تأخذ مشطاً تبخره وتمشط لحيتك
+فكل من رآك يحبك حباً شديداً والبخور لبان وجاوي فاتق الله تعالى واعرف قدر ما وصل إليك
+
+**English:**
+110
+
+a great one, and it is this blessed oath: you say, In the name of Allah, the Merciful, the Compassionate, O mountains, repeat with him, and the birds, and We made iron soft for him, that: “Make full coats of mail, and measure well the links, and do righteous deeds; indeed I am Seeing of what you do.” Likewise, O Master of masters, the hearts of all creatures, from mankind and jinn, become soft for me, by the right of these names: ملكى كوندى سجاعت بكام أنولسان بنديدا انست مارا من كسير مركبتي رزقاً انست ذبانا كل من عليها فان. I ask You, O Allah, to subdue for me the dominion and the kingdom, so that they become toward me submissive with humiliation, awe, and love, and they love them as the love of Allah and those who believe are stronger in love for Allah. If you spent all that is in the earth, you would not have united their hearts, but Allah united between them; indeed He is Mighty, Wise. And I ask You, O Allah, that You cause to run by my desire the decree and the destiny and the revolving sphere, and that You cause my awe and my love to run in the hearts of the two weighty ones, mankind and jinn, all of them. I became by it the defeat of armies in أنرا كب. Allah has written: I shall surely overcome, I and My messengers; indeed Allah is Strong, Mighty. And the king said, “Bring him to me; I will make him exclusively for myself.” Then when he spoke to him, he said, “Indeed today you are with us established, trustworthy,” to His saying, “And Allah is غالب over His affair,” and We gave him from everything a cause. طسوم And You alone we worship, and You alone we ask for help. The sky, the calf, a victory from Allah and an imminent conquest, and give good tidings to the believers. And there is no power and no strength except by Allah, the High, the Great. And this oath and the surah benefit for important matters, the defeat of the army, the breaking of enemies, and victory over the envious and the hateful, and its recitation benefits and intercedes, and it is called “the saving one,” and it is thirty verses, so know its value, for it is among the greatest benefits, and we have indicated some of its properties, so understand, and Allah knows best.
+
+(Chapter in mention of the invocation “Did We not expand for you your breast”)
+Know—may Allah تعالى grant me and you success in obedience to Him—that the recitation of this surah has wondrous properties. So if you wish to work with it, fast for Allah تعالى three days, and invoke with the supplication seventy times, and say “O Muhammad” seventy times, for the servant will come to you with richness from creation, and if you authorize him, he will convey you to Mecca in a swift time, if Allah تعالى wills. And whatever you ask of him, he answers you and fulfills it in the quickest time. Secret, O uncle, the servant Dardā’īl. And this supplication you say: I ask You, O Light of the lights of divinity, before the ages and the perishing times, the effective essence by the examples, the Holy, the Manifest, the High, the Subduer, whom no place lowers and no time is confused for Him, the Maker of places and times and moments, blessed are You above the essence of the lights of divinity, the eternal, the Absolute. My Lord, clothe me from You with the life of the spiritual souls characterized by the high power, the attribute that belongs to it. O Creator, O You who sees and is not seen, from Your عظیم power, so the cherubim are not able to raise their faces from the veils of Your light. O Allah, O عظیم, by the right of “If We had sent down this Qur’an upon a mountain” to His saying “they reflect,” raise my mention, and I ask You by the first of perpetuity, by the عظیم power of divinity and the might of lordship, that You deliver me from this perishing creation and teach me the hidden secrets from the creatures, bestowed upon Your approved servants, the seekers of the abode of permanence, the abandoners of the abode of annihilation, the side-taking of the pure spirits. O Allah, turn away from me the perishing diseases by the wonder of Your power and the عظیمness of Your شأن, and illumine my face in the holy lights of Your lights, and single me out with the singled-out ones, and protect me from the company of the singled-out ones and the participation of the opposites, and make me aware of the hidden subtleties, O You who is adorned with permanence and majesty, O High, O Most High, O First of the first, indeed You are over all things powerful. He is Allah, the Creator, the Maker, the Fashioner, etc. of the surah. Then after that you take a comb, fumigate it, and comb your beard, and everyone who sees you will love you with intense love, and the incense is frankincense and javī. So fear Allah تعالى and know the value of what has reached you.
+
+---
+## Page 141
+
+**Arabic (original):**
+— ١٣٥ —
+
+مِن خَيرِ الدُّنيا وَالآخِرَةِ فَافْتَحنا البابَ فَتَدبَّرِ وَاكتُم سِرَّهُ تَنَل أَمرَكَ وَالسَّلامُ ۞ وَاعلَم وَفَّقَكَ اللهُ
+تَعالى وَإِيَّاكَ إِلى طاعَتِهِ إِذا أَرادَ أَحَدٌ مِن وُلاةِ الأُمورِ أَن يُقاتِلَ قَوماً وَإِن وَقتَ دُخولِهِ فِي الحَربِ
+وَقَصدِهِ الظَّفَرَ عَلَيهِ بِمَعونَةِ اللهِ تَعالى فَليَتَوَضَّأ وَيُصَلِّ رَكعَتَينِ ثُمَّ يَلتَقِط مِنَ الأَرضِ ٧ حَصياتٍ بِقَدرِ
+الحُمُصِ كُلَّ حَصاةٍ يَلتَقِطُها بِحَرفٍ مِن حُروفِ فَجَجٍ مُخَمَّتٍ ثُمَّ يَضَعُها فِي راحَةِ كَفِّهِ الأَيسَرِ يَأخُذُ مِنها
+حَصاةً واحِدَةً بِيَدِهِ اليُمنى فَيَتلو عَلَيها الآيَةَ الشَّريفَةَ الأُولى ١٠ مَرَّاتٍ ثُمَّ يَرْمِيها بِاليُمنى بِالحَصاةِ الَّتي
+قَرَأَ عَلَيها فَيَقولُ صُمٌّ بُكْمٌ عُمْيٌ فَهُم لا [يُبْصِرُونَ] وَيَحذِفُها أَمامَهُ ثُمَّ يَأخُذُ بِيَدِهِ اليُمنى حَصاةً أُخرى فَيَتلو عَلَيها الآيَةَ
+الثَّانِيَةَ ١٠ مَرَّاتٍ ثُمَّ يَرفَعُ يَدَهُ وَيَقولُ أَفَحَسِبتُم أَنَّما خَلَقناكُم عَبَثاً وَإِنَّكُم إِلَينا لا [تُرْجَعُونَ] وَيَحذِفُها خَلفَهُ ثُمَّ يَأخُذُ
+حَصاةً بِيَدِهِ اليُمنى فَيَتلو عَلَيها الآيَةَ الثَّالِثَةَ ١٠ مَرَّاتٍ وَيَرفَعُ يَدَهُ وَيَقولُ وَجَعَلنا مِن بَينِ أَيْدِيهِم سَدّاً
+وَمِن خَلفِهِم سَدّاً فَأَغشَيناهُم فَهُم لا [يُبْصِرُونَ] وَيَحذِفُ الحَصاةَ عَن يَمِينِهِ ثُمَّ يَأخُذُ بِيَمِينِهِ مِن يَسارِهِ حَصاةً فَيَتلو
+عَلَيها الآيَةَ الرَّابِعَةَ ١٠ مَرَّاتٍ وَيَرفَعُ يَدَهُ وَيَقولُ يا مَعشَرَ الجِنِّ وَالإِنسِ إِنِ استَطَعتُم أَن تَنفُذوا مِن
+أَقطارِ السَّمَواتِ وَالأَرضِ فَانفُذوا لا تَنفُذونَ إِلَّا بِسُلطانٍ وَيَحذِفُها عَن يَسارِهِ فَيَتَأَخَّرُ عَن يَسارِهِ ٣ حَصَياتٍ يَضَعُها فِي
+رَأسِهِ وَيَدخُلُ المَعرَكَةَ فَيَخرُجُ مِنها وَلا يَنالُهُ سوءٌ أَبَداً مُطلَقاً بِإِذنِ اللهِ تَعالى ۞ وَمِن خَواصِّها أَيضاً إِذا
+خِفتَ مِن عَدُوِّكَ أَو كُنتَ فِي مَكانٍ مَخوفٍ فَتَأخُذُ مِنَ الأَرضِ سَبعَ حَصَياتٍ وَتَقولُ عِندَ أَخذِهِم
+فَجَجٍ مُخَمَّتٍ ثُمَّ تَرمِي الحَصاةَ وَيَقولُ ما قالَهُ سابِقاً وَيَرمِيهِم عَن يَمِينِهِ وَيَسارِهِ وَمِن وَرائِهِ وَمِن قُدامِهِ كَما
+ذَكَرنا وَيَجلِسُ عَلى الأَرضِ وَيَقولُ كَهيعَص عَلى أَصابِعِهِ اليُمنى وَيُطبِقُ يَدَهُ وَيَقولُ حمعسق عَلى
+أَصابِعِ يَدِهِ اليُسرى وَيُطبِقُ يَدَهُ ثُمَّ يَسكُتُ وَلا يَتَكَلَّمُ فَلَو دَخَلَ عَلَيهِ أُمَّةُ الثَّقَلَينِ لَم يَنظُروهُ وَيُخفِيهِ اللهُ
+تَعالى عَنهُم وَعَن أَعيُنِهِم وَلا يَنظُرُهُ أَحَدٌ لِإِهابِهِ وَعَظَمِهِ وَاللهُ أَعلَم (وَهَذِهِ صِفَةُ الوَقتِ كَما تَرى هَكَذا
+
+**English:**
+— 135 —
+
+of the good of the الدنيا and the آخِرة, so open the door, then reflect, and conceal its secret; you will attain your affair, and peace. ۞ And know—may God تعالى grant you success and you to His obedience—if one of the rulers of affairs intends to fight a people, and at the time of his entering into war and his intending victory over them with the help of God تعالى, let him perform ablution and pray two rak‘ahs, then pick up from the earth 7 pebbles, the size of chickpeas, each pebble he picks up with a letter from the letters of فججٍ مُخَمَّتٍ, then place them in the palm of his left hand; he takes from them one pebble with his right hand, then recites upon it the noble first verse 10 times, then throws it with the right hand with the pebble upon which he read, and he says: “Deaf, dumb, blind, so they do not [see],” and he casts it before him. Then he takes with his right hand another pebble and recites upon it the second verse 10 times, then raises his hand and says: “Did you think that We created you in vain, and that to Us you will not [be returned]?” and he casts it behind him. Then he takes a pebble with his right hand and recites upon it the third verse 10 times, and raises his hand and says: “And We placed before them a barrier and behind them a barrier, and We covered them, so they do not [see],” and he casts the pebble to his right. Then he takes with his right hand from his left a pebble and recites upon it the fourth verse 10 times, and raises his hand and says: “O company of jinn and men, if you are able to pass through the regions of the heavens and the earth, then pass through; you will not pass through except with authority,” and he casts it to his left, and there remain behind him on his left 3 pebbles; he places them in his head and enters the battle, and he comes out of it and no evil whatsoever ever befalls him, by the permission of God تعالى. ۞ And among its properties also: if you fear your enemy or are in a fearful place, then take from the earth seven pebbles and say when taking them: “فَجَجٍ مُخَمَّتٍ,” then throw the pebble, and he says what he said previously, and he throws them to his right and his left and from behind him and from before him, as we mentioned, and he sits upon the earth and says “كهيعص” upon the fingers of his right hand and folds his hand, and says “حمعسق” upon the fingers of his left hand and folds his hand, then he is silent and does not speak. For if the community of the two burdens were to enter upon him, they would not see him, and God تعالى hides him from them and from their eyes, and no one sees him because of his awe and greatness, and God knows best. (And this is the description of the time as you see, thus
+
+---
+## Page 142
+
+**Arabic (original):**
+- ١٢٦ -
+
+[Grid content]
+مُحَمَّدٌ رَسُولُ اللَّهِ
+الرَّحْمَنُ الرَّحِيمُ
+وَاللَّهُ الْبَاقِي دَائِمٌ
+مَعَ اللَّهِ السَّمِيعُ
+أَشَاكِضُ لَامٌ
+ضَوْنَا سِي
+الْكَمَالُ
+الدَّلِيلُ
+الْمَجِيدُ
+الرَّفِيعُ
+الْمُقِيتُ
+الْمُتَعَالِي
+الْمُحِيطُ
+الْمُبِينُ
+الْمُتَكَبِّرُ
+الْمُتَعَالِي
+[...truncated...]
+
+**English:**
+[Grid content preserved as-is]
+مُحَمَّدٌ رَسُولُ اللَّهِ
+الرَّحْمَنُ الرَّحِيمُ
+وَاللَّهُ الْبَاقِي دَائِمٌ
+مَعَ اللَّهِ السَّمِيعُ
+أَشَاكِضُ لَامٌ
+ضَوْنَا سِي
+الْكَمَالُ
+الدَّلِيلُ
+الْمَجِيدُ
+الرَّفِيعُ
+الْمُقِيتُ
+الْمُتَعَالِي
+الْمُحِيطُ
+الْمُبِينُ
+الْمُتَكَبِّرُ
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+الْمُتَعَالِي
+[...truncated...]
+
+---
+## Page 143
+
+**Arabic (original):**
+- ١٣٧ -
+
+جَهِلَتِ العُقُولُ وَحَسَرَتِ الأَوْهَامُ وَضَاعَتِ الأَفْهَامُ وَتَغَيَّرَتِ الظُّنُونُ وَحَارَتِ الأَفْكَارُ وَقَصُرَتِ الخَوَاطِرُ
+عَنْ إِدْرَاكِ كَيْفِيَّةِ مَا ظَهَرَ مِنْ نَوَادِرِ وَأَنْوَارِ عَجَائِبِ قُدْرَتِكَ دُونَ البُلُوغِ لِتَآلِي لَمَعَاتِ طَاعَتِكَ أَنَّهُم
+مُحَرِّكُ الحَرَكَاتِ وَمَبْدَأُ الغَايَاتِ وَمُشَقِّقُ صُمِّ الصُّخُورِ الرَّاسِيَاتِ وَالمُنْعِمُ فِيهَا بِمَا مَعِينًا لِلْمَخْلُوقَاتِ
+وَالمُحْيِي سَائِرَ الحَيَوَانَاتِ وَالشَّتَاتِ وَالعَالِمُ بِمَا اخْتَلَجَ مِنْ سِرِّهِمْ بِنُطْقِ إِشَارَاتِ خَفِيَّاتِ لُغَاتِ النَّمْلِ السَّاذِجَاتِ
+وَمِنْ عَظَمِ وَمَجْدِ وَقُدْسِ وَهَلَلِ وَكِبَرِ مَجَالِ جَلَالِ عَرْشِ مَلَائِكَةِ سَبْعِ سَمَوَاتٍ اجْعَلْنَا فِي هَذِهِ السَّاعَةِ
+المُبَارَكَةِ مِمَّنْ دَعَاكَ فَأَجَبْتَهُ وَسَأَلَكَ فَأَعْطَيْتَهُ وَتَضَرَّعَ إِلَيْكَ فَرَحِمْتَهُ وَاسْتَقَالَكَ مِنْ ذَنْبِهِ فَأَقَلْتَهُ بِفَضْلِكَ
+وَإِحْسَانِكَ القَدِيمِ ثُمَّ تَقُولُ سَبْعَ مَرَّاتٍ اللَّهُمَّ عَامِلْنَا بِمَا أَنْتَ أَهْلُهُ وَلَا تُعَامِلْنَا بِمَا نَحْنُ أَهْلُهُ إِنَّكَ أَهْلُ
+التَّقْوَى وَأَهْلُ المَغْفِرَةِ سُبْحَانَكَ لَا تُحْصِي ثَنَاءً عَلَيْكَ أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ جَلَّ وَجْهُكَ وَعَزَّ جَاهُكَ وَجَلَّ
+ثَنَاؤُكَ يَفْعَلُ اللَّهُ مَا يَشَاءُ بِقُدْرَتِهِ وَيَحْكُمُ مَا يُرِيدُ بِعِزَّتِهِ يَا حَيُّ يَا قَيُّومُ يَا بَدِيعَ السَّمَوَاتِ وَالأَرْضِ يَا ذَا الجَلَالِ
+وَالإِكْرَامِ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ العَلِيِّ العَظِيمِ وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ تَسْلِيمًا كَثِيرًا
+( ذِكْرُ هَذِهِ الدَّائِرَةِ الكَرِيمَةِ وَمَالَهَا وَمَا فِيهَا مِنَ الأَسْرَارِ العَظِيمَةِ )
+اعْلَمْ وَفَّقَكَ اللَّهُ وَإِيَّاكَ لِطَاعَتِهِ أَنَّ هَذِهِ الدَّائِرَةَ الشَّرِيفَةَ تُسَمَّى دَائِرَةَ الأَنْوَارِ وَهِيَ سِرٌّ عَجِيبٌ فَانْظُرْهُ
+بِعَيْنِ البَصِيرَةِ فَإِذَا أَرَدْتَ إِحْضَارَ مَنْ شِئْتَ إِلَى مَنْزِلِكَ فَارْسُمْ هَذِهِ الدَّائِرَةَ كَمَا أُبَيِّنُهُ فِي كَاغَدٍ وَارْسُمْ فِيهِ
+اسْمَ المَطْلُوبِ وَاسْمَ أُمِّهِ فِي الدَّائِرَةِ الصَّغِيرَةِ ثُمَّ تَجْعَلُ الوَرَقَةَ فِي حَائِطٍ شَرْقِيٍّ ثُمَّ دُقَّ فِي حَرْفِ الأَلِفِ مِسْمَارًا
+حَدِيدًا نَظِيفًا وَاتْلُ العَزِيمَةَ سَبْعَ مَرَّاتٍ وَأَنْتَ تَبَخَّرُ بِجَاوِي لُبَانِ ذَكَرٍ وَزَعْفَرَانَ شَعْرٍ وَحَبِّ حَرَمَلٍ
+وَسُكِّ وَلُبَانٍ جَاوِي فَإِنْ أَبْطَأَ عَلَيْكَ المَطْلُوبُ فَانْقُلِ المِسْمَارَ إِلَى حَرْفِ البَاءِ وَلَمْ تَزَلْ تَنْقُلُ مِنْ حَرْفٍ
+إِلَى حَرْفٍ وَأَنْتَ تَبَخَّرُ وَتَعْزِمُ حَتَّى يَحْضُرَ لَكَ المَطْلُوبُ عِنْدَ حَرْفٍ مِنْ تِلْكَ الحُرُوفِ الَّذِي أَحْضَرَهُ
+خَادِمُهُ فَتَدْعُوهُ بِذَلِكَ الحَرْفِ وَالخَادِمُ فِي كُلِّ وَقْتٍ أَرَدْتَ إِحْضَارَهُ إِلَيْكَ فَإِنْ كَانَ المَطْلُوبُ مُسَافِرًا
+فَسَمِّ فِي كُلِّ حَرْفٍ مِسْمَارًا لَطِيفًا وَاقْرَأِ العَزِيمَةَ سَبْعَ مَرَّاتٍ وَعَدَّ مَسَافَةَ الطَّرِيقِ فَإِنَّهُ يَحْضُرُ وَاعْلَمْ أَنَّ
+هَذِهِ الدَّائِرَةَ لَا تَحْتَاجُ إِلَى وَقْتٍ وَلَا إِلَى سَاعَةٍ وَهُوَ خَالِي القَلْبِ فَارْسُمْهُ وَادْعُ مُرَادَكَ فِي القُطْبِ فَإِنَّهُ
+يَحْضُرُ وَقُلْ بَعْدَ العَزِيمَةِ فِي كُلِّ مَرَّةٍ يَا مَلِكُ يَا قَدِيمُ مِائَتَيْنِ وَسِتِّينَ مَرَّةً يَحْصُلُ لَكَ مُرَادُكَ إِنْ شَاءَ اللَّهُ تَعَالَى
+وَهَذِهِ صِفَةُ الدَّائِرَةِ كَمَا تَرَى
+
+**English:**
+Intellects have been ignorant, imaginations have been baffled, understandings have been lost, suppositions have changed, thoughts have been bewildered, and notions have fallen short
+of comprehending the manner of what has appeared of the rarities and lights of the wonders of Your power, without attaining to the reaching of the gleams of Your obedience, that they are
+the mover of motions and the beginning of ends, and the splitter of the solid, steadfast rocks, and the bestower therein of what is a support for the creatures,
+and the giver of life to all animals and dispersal, and the knower of what has stirred in their secret by the utterance of hidden indications of the languages of the simple ants.
+And by the greatness and glory and sanctity and majesty and the vastness of the field of the majesty of the Throne of the angels of seven heavens, make us in this blessed hour
+among those who called upon You, and You answered him, and asked You, and You gave him, and implored You, and You had mercy on him, and sought Your pardon for his sin, and You pardoned him by Your فضل and
+Your ancient beneficence. Then you say seven times: O God, deal with us according to what You are worthy of, and do not deal with us according to what we are worthy of; indeed You are the One worthy of
+piety and worthy of forgiveness. Glory be to You; no praise of You can be counted. You are as You have praised Yourself. Glorious is Your Face and mighty is Your rank, and glorious
+is Your praise. God does what He wills by His power and judges what He intends by His might. O Living, O Self-Subsisting, O Originator of the heavens and the earth, O Possessor of majesty
+and honor, and there is no power and no strength except by God the High, the عظیم. And God blessed our master Muhammad and his family and his companions, and granted abundant peace.
+( Mention of this noble circle and its property and what is in it of the great secrets )
+Know—may God grant you success and you to His obedience—that this noble circle is called the Circle of Lights, and it is a wondrous secret, so look upon it
+with the eye of insight. If you desire to bring whomsoever you wish to your dwelling, then draw this circle as I explain it on paper, and draw in it
+the name of the sought one and the name of his mother in the small circle, then you place the sheet in an eastern wall, then drive into the letter alif a nail
+of clean iron, and recite the conjuration seven times while you fumigate with Jawi, male frankincense, saffron of hair, and seeds of harmal,
+and musk and Jawi frankincense. If the sought one is slow to come to you, then transfer the nail to the letter bā’, and you continue transferring from letter
+to letter while you fumigate and conjure until the sought one comes to you at one of those letters at which his servant brought him, and you summon him by that letter; and the servant is at every time you desire to bring him to you. If the sought one is traveling,
+then name in every letter a delicate nail and recite the conjuration seven times and count the distance of the road, for he will come. And know that
+this circle does not need a time nor an hour, and he is empty of heart, so draw it and call your desire in the pole, for he
+will come. And say after the conjuration each time: O King, O Ancient, two hundred and sixty times, your desire will be obtained for you, if God تعالى wills.
+And this is the description of the circle as you see.
+
+---
+_End of translation — 143 pages._
