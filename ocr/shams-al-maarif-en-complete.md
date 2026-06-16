@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 277 translated pages._
+_Auto-generated from 281 translated pages._
 
 ---
 ## Page 1
@@ -15725,4 +15725,265 @@ Your paradise, complete in its essence, attained by its act, universal in its es
 and glorification. O Gentle, O Gentle, O Possessor of the vast mercy upon the strong and the weak, I ask You by every name that is Yours, by which You named Yourself.
 
 ---
-_End of translation — 277 pages._
+## Page 278
+
+**Arabic (original):**
+- ٢٧٢ -
+
+نفسك وأنزلتَه في كتابك أو علمتَه لأحد من خلقك أو استأثرتَ به في علم الغيب عندك أن تدفع عني
+البلايا وأن تخرج في وجودي المبسوطات من دائرتي هو هو في البأساء والضراء وأنت المتفضل بالمنح
+الأسنى يارب العالمين وأما اسمه تعالى الملك فهو اسم عظيم وخادمه فصيل وهو ملك عظيم من ملائكة
+الرحمة والحضرة لباسهم وتحت يده أربع قواد تحت يد كل قائد ١٣١ صفا كل صف ١٣١ ملك فإذا أذن له
+الذاكر ينزل عليه الملك ويقضي حاجته خصوصا إذا كان في فعل خير وأما في الشر فلم يجبه
+ويحصل له الضرر في نفسه وماله فافهم ذلك والله الفتاح العليم وأما الدعاء بهذا الاسم الشريف تقول
+يا ملك أنت الذي ملكت رقاب الجبابرة بالقوة الغالبة والقدرة القاهرة وأنت قهار الملوك والأملاك
+ذو المعارج والأفلاك تعطي برك لمن التجأ إليك أسألك بمناسبة في ملكوتك وجبروتك وبما
+بثثته في جبروت ملكوتك وبما استأثرت به في عوالم قدس لاهوتك وبما غيبته عن إدراك العقول
+في سر بهموت رحمتك وبما أدرجت في سر سرك في طي الكروية الموزونة وبما فصلت من الرموز
+والإيماء في أنواع الكيفية المخزونة في باطن بطون الزلة أن تحفظني من ظات المنيع من أصوات
+الشيطان ونفثاته وهمزاته ومن هو أجسر أنى الحارث الذي جعل الخير شرا والشر برا والنفع ضرا
+وطفطفة طاقته وشؤم مكره وكيده يامن كان عرشه على الماء على ما علمه وكرسي فعله على حسب
+إرادته ارزقني بلطفك العميم وكرَمك الجسيم نسبة مالك أنوار المعارف وأكرمني بكلماتك التامات
+في المحيا والممات لأنال عز مناهج المعارف والعوارف وارزقني مناك العرفان في نفس الوحدة وملكا
+لا يزول وصفا من أوصافك القديمة وصفا لا يحول وكلاما من علمك الأزلي بذلك لا يقصر ولا يطول
+على الجملة والتفصيل يا كريم يا جليل وحسبنا الله ونعم الوكيل أسألك سؤال عبد خاشع مسكين خاضع
+وطالب طماح إخراج الكثير من القليل والصحيح من العليل والرفيع من الجليل والوجيز من
+الطويل والكرارة والنظارة بأن له الخلق والأمر بدئه وعوده بعلمك والكشف والعلم فيها وشهادة
+يارب العالمين وأما اسمه تعالى القدوس هو مناسب لاسمه الملك وهو مشتق منه لقرب الروحانية
+وخادمه انيائيل عليه السلام فإذا تلاه الذاكر نزل عليه الخادم وقضى حاجته واعلم أن جميع الأذكار
+والأسماء والدعوات متوقف صحتها على أكل الحلال ونظافة الظاهر والباطن والرياضة الطويلة
+وحسن النية وطيب الخلق ورصد الأوقات المباركة فإذا فعلت ذلك صح عملك وحصل لك خير عظيم
+وصارت مفاتيح الدنيا والآخرة بيديك والمطلب واسع فاحذر أن تكون طالبا غير الآخرة فآل تعالى
+والآخرة خير وأبقى ومن فهم فقد علم وأما الدعاء بهذا الاسم الشريف تقول يا قدوس أنت المقدس
+على الإطلاق وأنت الظاهر بفضلك في الآفاق وأنت الموجد لدقائق المعرفة على صحائف الأوراق بك
+تقدست البواطن والظواهر ومنك تنورت البصائر والنواظر وفيك انجلت أسرار أرواح السرائر
+والضمائر عن حركات الخواطر أسألك مقدمات التذلل والافتقار واقفا على قدمي التخضع والافتقار
+وبسر ما أدرجته في سرادقات قدسك وبنور ما أودعته في مقاعد عز أنسك وبما كتبته تحت إزار
+عظمتك ورداء كبريائك وبما أخفيته في لباس مجدك وبما عرفته لأوليائك وتقول أنبيائك
+يا من فطر بعامه القديم سموك السموات ويامن نصب بسره القويم بنيت الجهات اجعلني بفضلك
+العميم
+
+**English:**
+yourself and You sent it down in Your Book or taught it to one of Your creatures or kept it to Yourself in the knowledge of the unseen with You, that You repel from me
+the afflictions and that You bring forth in my existence the expanded things from my circle, هو هو, in adversity and hardship, and You are the One who bestows the most sublime gifts,
+Lord of the worlds. And as for His تعالى name, al-Malik, it is a عظیم name, and its servant is Fasil, and he is a great angel from the angels of
+mercy, and the presence, their clothing; and under his hand are four commanders, under the hand of each commander 131 rows, each row 131 angels. So if the one who remembers
+gives him permission, the angel descends upon him and fulfills his need, especially if it is in doing good; but as for evil, he does not answer him
+and harm befalls him in his self and his wealth, so understand that. And Allah is the Opener, the Knowing. And as for the supplication with this noble name, you say:
+O King, You are the One who has possessed the necks of the tyrants by the overpowering force and the subduing power, and You are the Subduer of kings and possessions,
+possessor of the ascents and the spheres; You give Your blessing to whoever takes refuge in You. I ask You by a correspondence in Your ملكوت and Your جبروت, and by what
+You have spread in the جبروت of Your ملكوت, and by what You have kept to Yourself in the worlds of the sanctity of Your لاهوت, and by what You have hidden from the perception of the intellects
+in the secret of the بهموت of Your mercy, and by what You have inserted in the secret of Your secret in the folding of the weighted sphericity, and by what You have distinguished from the symbols
+and the hints in the kinds of the hidden modality in the inward of the inward of the slip, that You preserve me from the ظات of the impregnable from the voices
+of Satan and his puffings and his whisperings, and from the one who is bolder, namely al-Harith, who made good evil and evil good, and benefit harm,
+and the trifling of his energy and the ill omen of his scheming and his guile, O You whose Throne was upon the water according to what He knew, and the Chair of His act according to
+His will, provide for me by Your all-encompassing gentleness and Your immense generosity the relation of the possessor of the lights of knowledges, and honor me with Your perfect words
+in life and death, that I may attain the glory of the paths of knowledges and recognitions, and provide for me from You the gnosis in the نفس of unity and a kingdom
+that does not vanish, a description from Your ancient attributes, a description that does not change, and speech from Your eternal knowledge of that which does not fall short nor lengthen
+in general and in detail, O Generous, O Majestic, and Allah is sufficient for us, and excellent is the Trustee. I ask You the asking of a servant humble, wretched, submissive
+and a seeker, aspiring, the bringing forth of much from little, and the sound from the sick, and the elevated from the sublime, and the concise from
+the lengthy, and the repetition and the contemplation, that to Him belong creation and command, its beginning and its return, by Your knowledge, and the unveiling and the knowledge therein, and testimony.
+Lord of the worlds. And as for His تعالى name, al-Quddus, it is appropriate to His name al-Malik, and it is derived from it due to the nearness of the روحانية.
+And its servant is Inyā'īl, عليه السلام. So when the one who remembers recites it, the servant descends upon him and fulfills his need. And know that all the remembrances
+and names and supplications, their validity is dependent upon eating the lawful, and the cleanliness of the outward and the inward, and long spiritual discipline,
+and good intention, and good character, and observing the blessed times. So if you do that, your work is valid and great good is obtained for you,
+and the keys of this world and the Hereafter become in your hands, and the objective is vast. So beware that you be a seeker of other than the Hereafter, for the outcome of تعالى
+and the Hereafter is better and more lasting. And whoever understands has known. And as for the supplication with this noble name, you say: O Quddus, You are the sanctified
+absolutely, and You are the manifest by Your grace in the horizons, and You are the bringer forth of the subtleties of knowledge upon the pages of the sheets. By You
+the inward things and the outward things are sanctified, and from You the inner sights and the outer sights are illuminated, and in You the secrets of the spirits of the innermost secrets
+and the consciences are unveiled from the movements of the thoughts. I ask You for the مقدمات of humility and poverty, standing upon the two feet of submissiveness and poverty,
+and by the secret of what You have inserted in the pavilions of Your sanctity, and by the light of what You have deposited in the seats of the عز of Your intimacy, and by what You have written beneath the waist-wrapper
+of Your greatness and the cloak of Your pride, and by what You have hidden in the garment of Your glory, and by what You have made known to Your saints and Your prophets say:
+O You who by His ancient generality originated the heights of the heavens, and O You who by His upright secret established the directions, make me, by Your all-encompassing grace
+
+---
+## Page 279
+
+**Arabic (original):**
+— ٢٧٣ —
+
+اللهم يا من يطوف حول أمرك بحولك وقوتك، إلهي أنت السرمدي الأبدي المنزه عن أن يقرب إليك
+أحد فيدرك بالحس، ويبعد منه فيغيب عن الحس، فارزقني حياة ذاتك ونور تنزيه صفاتك من
+العلوم الشريفة الكلية الإلهية المتعلقة بالمعلومات الأزلية، وأبدها بنورك في باطن بطون المشخصات
+غير المستحيلة. اللهم أنت المدعو بكل لسان، وأدنى المحجوب في كل أوان، أسألك أن تعزني وتظهرني
+بتأييدك وقوة شدتك عن المخالفات واتباع الشهوات، واقلبني بيمين تمجيدك عن الرغبة في الدنيا،
+واجذبني إليك عما سوى جنابك الأسنى، وأخرج بفضلك الجامع ونورك اللامع من كتاب أنسك
+آية كاملة أتكمل بها ذاتا وصفات، وأنتشر في الكائنات نظرا ووضعا، واكشف عن وجه روحي وسر
+غطاء لو، وأزل عن نظري حجاب إذ، وظهر على بعد زوال ها خفاء الحروف وشواهد المعروف، أعني
+كن علم موصوف بجودك وإحسانك، يا فالق الحب والنوى وفاطر الذرات في السموات العلى، أنت
+الظاهر اللطيف القادر يا قدوس. ﮊ وأما اسمه تعالى السلام فهو اسم عظيم، وذكره الله تعالى ذاكره في البر
+والبحر، وخادمه درعائيل عليه السلام، وتحت يده أربع قواد، تحت يد كل قائد ١٣١ صفا، كل صف
+١٣١، وهو من عوالم جبريل عليه السلام، وذاكره هذا الاسم ينزل عليه الملك ويجد ما وجد في غيره
+من الأسماء. وأما الدعاء بهذا الاسم الشريف تقول: يا سلام أنت السلام وإليك يعود السلام، سلامك التام،
+رأفتك على الأولياء والأنبياء والأتقياء، وأنت المحيط بعالمك القديم وبصفائح الصفا للقلوب الأصفياء،
+أسألك بسكينتك النازلة على السر الموسوي، وبعزتك الظاهرة على الجناب العيسوي، وبما جمعت في
+باطن دائرة الهواء وظاهر معلم المعنى، أن تجعل قلبي قابلا لتوارد الواحدية، فارغا من شواغل الوحدية،
+عائذا بك إليك في جميع الأوقات السرمدية، وارزقني بلطفك العميم وإحسانك القديم حسن الظن
+بكافة المسلمين لأنال سر سبوحيتك التي جعلتهم في مقام اليقين، واجعلني متبركا بقرائح نفائس الأولين
+والآخرين، وارزقني الرضا بما قدرته لي بأمرك، وبسرته لي بأمرك، يا من زين سماء قلوب الأولياء
+بمصابيح الخواطر، افتح لي أبواب المشاهدة بمصابيح الصابر بالسلام يا سلام. ﮊ وأما اسمه تعالى المؤمن فهو
+اسم عظيم، وخادمه هقائيل عليه السلام، تحت يده أربع قواد، تحت يد كل قائد ١٣٦ صفا، كل صف ١٣٦،
+فمن تلاه هذا العدد حضرت له هذه الأرواح، وفتح له الطريق من عالم الغيب والشهادة، ونقله من الشقاوة
+إلى السعادة، ومن الذل إلى السيادة، فإن الخير بيده لا مانع لما أعطى ولا معطي لما منع. وأما الدعاء بهذا
+الاسم الشريف تقول: اللهم أنت المؤمن الذي أثبت الإيمان في قلوب أهل العرفان، وأظهرت الإيمان
+عند ظهور الأمن والأمان، ورزقت الاستقامة لمن صحت له الاستقامة في دار الرضوان، وأعطيتهم الأمانة
+من تغيرات الحدثان، وأحرزتهم من غوائل الشيطان الذي يقدح في صحة الإيمان بما منحت لهم
+بجودك من الإيمان والبرهان، وطهرتهم من هواجس دواعي الزلات، ورفعتهم عن قبول عوارض
+السلبيات، أسألك اللهم جميع ما في غيبك من الحقائق العلمية والدقائق الإرادية، أن تجعلني آمنا من
+خوف النظر الصوري في مقام النفع والضر، حتى أقبل إليك فارغ القلب طيب النفس، واثقا بموعود
+الرب، أسألك اللهم أن تجعل لي شيئا أمسك به لا من الخلق، واجذبني إليك بالهداية طريق الحياة
+والإرشاد لسبيل النجاة، يا من يهب الكثير ويقبل القليل، وتحب الإحسان وتجود بالتفضل على أهل
+
+**English:**
+O Allah, O You around whose command revolve by Your might and Your power, my God, You are the eternal, the everlasting, sanctified from that anyone should draw near to You
+and perceive by sense, and be far from Him and be absent from sense. So provide me with the life of Your Essence and the light of the sanctification of Your attributes from
+the noble universal divine sciences related to the eternal known things, and perpetuate them by Your light in the inward of the inward of the non-impossible particulars. O Allah, You are the One invoked by every tongue,
+and the nearest veiled One in every time. I ask You to honor me and make me manifest
+by Your support and the force of Your severity against مخالفة and following desires, and turn me by the right hand of Your glorification away from desire for the world,
+and draw me to You away from other than Your most sublime presence, and bring forth by Your all-comprehensive grace and Your shining light from the Book of Your intimacy
+a complete verse by which I may complete essences and attributes, and spread in the beings in regard and placement, and uncover from the face of my spirit the secret
+of the covering of لو, and remove from my sight the veil of إذ, and there appeared, after the disappearance of ها, the hiddenness of the letters and the witnesses of the known, I mean
+كن, a knowledge described by Your generosity and Your beneficence, O Splitter of the seed and the date-stone and Creator of the atoms in the highest heavens, You are
+the Manifest, the Gentle, the Powerful, O Quddus. And as for His تعالى name, al-Salam, it is a great name, and Allah تعالى mentioned it, the one who remembers it, in land
+and sea, and its servant is Dura'īl, عليه السلام, and under his hand are four commanders, under the hand of each commander 131 rows, each row
+131, and he is from the worlds of Jibrīl, عليه السلام, and the one who remembers this name, the angel descends upon him and finds what he found in other
+names. And as for the supplication with this noble name, you say: O Salam, You are Peace and to You returns peace, Your perfect peace,
+Your compassion upon the saints and the prophets and the pious, and You are the encompassing One of Your ancient world and of the pages of purity for the hearts of the purified,
+I ask You by Your tranquility descending upon the Mosaic secret, and by Your might manifest upon the Jesusly presence, and by what You gathered in the
+inward of the circle of air and the outward of the sign of meaning, that You make my heart receptive to the succession of oneness, empty from the preoccupations of unicity,
+taking refuge in You to You in all the eternal times, and provide for me by Your all-encompassing gentleness and Your ancient beneficence good opinion
+of all Muslims, that I may attain the secret of Your sanctity by which You made them in the station of certainty, and make me blessed by the innate dispositions of the precious things of the first
+and the last, and provide for me contentment with what You have decreed for me by Your command, and have made secret for me by Your command, O You who adorned the heaven of the hearts of the saints
+with the lamps of thoughts, open for me the doors of witnessing with the lamps of the patient by peace, O Salam. And as for His تعالى name, al-Mu'min, it is
+a great name, and its servant is Haqā'īl, عليه السلام, under his hand are four commanders, under the hand of each commander 136 rows, each row 136,
+so whoever recites it this number, these spirits are present for him, and the path is opened for him from the world of the unseen and the witnessed, and he is transferred from wretchedness
+to happiness, and from humiliation to sovereignty, for good is in His hand; none can withhold what He gives, and none can give what He withholds. And as for the supplication with this
+noble name, you say: O Allah, You are the Mu'min who established faith in the hearts of the people of gnosis, and manifested faith
+at the ظهور of security and safety, and provided uprightness for whoever uprightness was sound for in the Abode of Pleasure, and You gave them trust
+from the changes of events, and safeguarded them from the calamities of Satan who impugns the soundness of faith by what You bestowed upon them
+by Your generosity of faith and proof, and purified them from the obsessions of the motives of slips, and raised them above accepting the contingencies
+of negativities. I ask You, O Allah, for all that is in Your unseen of the scientific realities and the volitional subtleties, that You make me safe from
+the fear of imaginal looking in the station of benefit and harm, until I come to You empty of heart, good of soul, confident in the promise
+of the Lord. I ask You, O Allah, that You make for me something to hold on to, not from creation, and draw me to You by guidance, the path of life
+and direction to the way of salvation, O You who gives much and accepts little, and loves beneficence and is generous with favor to the people of
+
+---
+## Page 280
+
+**Arabic (original):**
+- ٢٧٤ -
+
+الإيمان والإحسان أسألك اللهم بسيد البشر وشفيعك يوم المحشر وحبيبك الذي بعثه لعبادك يوم
+الآزفة تبسط النفع وتدفع الضرر وأعذني من كل بلية وأكرمني بخير العطية وأزل عني برأفتك شر
+البلية فأنت المحسن لكل إنسان المتفضل بالجود والإحسان يا مؤمن * وأما اسمه تعالى المهيمن فهو اسم
+عظيم وخادمه قطائيل عليه السلام تحت يده خمس قواد تحت يد كل قائد ١٤٥ صفا كل صف ١٤٥
+وهو من عوالم جبرائيل عليه السلام وفيه سر من أسرار القدرة وفهم لمن ألهم طريق الحق فإذا ذكره
+الذاكر هذا العدد حصلت له الزيادة ويرفع إلى مراتب السعادة ولا يبقى له عدو ولا لعدو الله تعالى
+عليه سبيل وأما الدعاء بهذا الاسم الشريف اللهم أنت المهيمن على خلقك تبسط آجالهم وتصل
+وتبين أحوالهم وتقلبهم في سائر الأحوال كاشفا لأسرارهم في صفائح العالم توصل سرائرهم إليك وتلحق
+ضمائرهم الأسرار وترفع أهل القرب إلى الأنوار أسألك بحق سر اطلاعك على قلوب الأخيار وبجهر
+استيلاءك على نفس كل جبار واحفظك لمن شئت أن تزيل عني الشماتة والعار وأن تجعلني مستحييا
+لك في محل اطلاعك راغبا في المعاملة في اصطناعك واجعلني مشرفا على أعوان الكشف والمشاهدة
+وعلى أسرار الوعد والمواعدة العليم بذات الصدور وقادر على بعث من في القبور * وأما اسمه تعالى
+العزيز فهو اسم فيه حرف من حروف الاسم الأعظم ومن واظب على ذكره أعزه الله تعالى بين
+خلقه وخادمه منجائيل عليه السلام تحت يده أربع قواد تحت يد كل قائد ٩٤ صفا كل صف ٩٤ من
+ملائكة العز وهم تحت أمر جبرائيل عليه السلام ولذاكر ينزل عليه الملك ويقضي حاجته ويحصل له
+العز الأكبر من الله والله واسع عليم وأما الدعاء بهذا الاسم الشريف يا عزيز أنت الثابت في عزك
+الدائم المحبة في حقك القة ثم عز قدرتك لأهل المعرفة والعرفان وتذل بقهرك وسلطانك أهل المذلة
+والطغيان أهل القوى بإظهار كل مكنون في كون كلما أسألك بعز عزك وجلال مجدك
+وبسط جنابلك وسرك وسر آياتك ومثلك الذي ليس له شبيه ولا مثيل ولا نظير وبنورك الجامع المنيع
+الخطير أن تجعلني إليك خطيرا وبطاعتك لكل نظيرا بمرافقة أوليائك مشرفا مكرما بتعلمك يامن
+حارت العقول عن إدراك جلال عظمته وكلت الألسن عن استيفاء مدح نوره ورحمته وذهبت
+الأوهام عن قصور ذاته وجوده واضطرت القلوب عن تجليات جماله وجلاله ارزقني رؤية السر الذي
+أودعته في مشارق الأرض ومغاربها وأطلعني على جواهر حقائقها وكنوز معارفها وخصصني بك
+لديك بقبول نورك وجلال مجدك إنك أنت الله القوي الفعال الكبير المتعال العزيز * وأما اسمه تعالى
+الجبار فهو اسم عظيم لا يقدر أحد يتجرأ على ذكره ولا يؤذيه أبدا وهو يصلح للملوك فإن الملك إذا
+أكثر من ذكره لا يسطو عليه ملك غيره ولو كان أقوى منه وخادمه صدقائيل عليه السلام تحت يده
+أربع قواد تحت يد كل قائد ٢٠٦ صفا كل صف ٢٠٦ وهم من عوالم إسرافيل عليه السلام وذاكر
+هذا الاسم ينزل عليه الملك ويقضي حاجته فالسعد لمن ألهم رشده في ذلك الوقت وطلب ما نفعه في الدنيا
+والآخرة وأما الدعاء بهذا الاسم الشريف يا جبار أنت الجبار في الآخرة جبار ومؤنس
+الأبرار وبار الصغار والكبار ومصحح أمور الخلائق ومظهر سر الحقائق وسامع الرقائق والدقائق
+أسألك
+
+**English:**
+the people of faith and beneficence. I ask You, O Allah, by the master of mankind and Your intercessor on the Day of Gathering and Your beloved whom You sent to Your servants on the
+approaching hour, that You spread benefit and repel harm, and protect me from every affliction and honor me with the best of gifts, and remove from me by Your compassion the evil of
+affliction, for You are the doer of good to every human being, the one who bestows generosity and beneficence, O Mu'min. And as for His تعالى name, al-Muhaymin, it is a name
+great, and its servant is Qutā'īl, عليه السلام, under his hand are five commanders, under the hand of each commander 145 rows, each row 145,
+and he is from the worlds of Jibrā'īl, عليه السلام, and in it is a secret from the secrets of power and understanding for whoever is inspired with the path of truth. So if the one who remembers it
+recites this number, increase is obtained for him and he is raised to the ranks of happiness, and no enemy remains for him, nor for the enemy of Allah تعالى is there
+a way against him. And as for the supplication with this noble name, O Allah, You are the Muhaymin over Your creation; You spread their terms, and connect
+and make clear their states, and turn them in all states, uncovering their secrets in the pages of the world; You convey their innermost secrets to You and attach
+their consciences to the secrets and raise the people of nearness to the lights. I ask You by the right of the secret of Your اطلاع upon the hearts of the chosen, and by the open
+dominion of Your overpowering over the soul of every tyrant, and preserve You for whom You will, that You remove from me gloating and shame, and that You make me ashamed
+before You in the place of Your اطلاع, desiring dealings in Your making, and make me overseeing the helpers of unveiling and witnessing
+and over the secrets of promise and appointment, the Knower of the essences of the breasts and قادر to raise those in the graves. And as for His تعالى name,
+al-‘Azīz, it is a name in which is a letter from the letters of the Greatest Name, and whoever persists in its remembrance, Allah تعالى honors him among
+His creation. And its servant is Munjā'īl, عليه السلام, under his hand are four commanders, under the hand of each commander 94 rows, each row 94,
+from the angels of might, and they are under the command of Jibrā'īl, عليه السلام, and for the one who remembers, the angel descends upon him and fulfills his need, and the greatest might is obtained for him
+from Allah, and Allah is vast, knowing. And as for the supplication with this noble name, O Aziz, You are the steadfast in Your might,
+the ever-loving in Your right, then the might of Your power for the people of knowledge and gnosis, and You humble by Your subduing and Your authority the people of humiliation
+and tyranny, the people of powers, by manifesting every hidden thing in every being. Whenever I ask You by the might of Your might and the majesty of Your glory
+and the expanse of Your presence and Your secret and the secret of Your signs and Your likeness, which has no resemblance and no equal and no peer,
+and by Your all-comprehensive, impregnable, formidable light, that You make me toward You formidable and by Your obedience to every peer, by accompanying Your saints, honored and ennobled by Your teaching, O You
+whose intellects are bewildered from perceiving the majesty of His عظمت, and whose tongues are weary from fulfilling the praise of His light and mercy, and whose
+imaginations have gone from the inadequacy of His Essence and His existence, and whose hearts are compelled by the manifestations of His beauty and majesty, provide for me the vision of the secret that
+You deposited in the easts of the earth and its wests, and make me aware of the jewels of its realities and the treasures of its knowledges, and single me out by You
+with the acceptance of Your light and the majesty of Your glory. Indeed You are Allah, the strong, the effective, the great, the exalted, the mighty. And as for His تعالى name,
+al-Jabbār, it is a great name, no one is able to dare to mention it, and it never harms him, and it is suitable for kings, for if the king
+increases in its remembrance, no other king will assault him, even if he were stronger than him. And its servant is Ṣidqā'īl, عليه السلام, under his hand
+are four commanders, under the hand of each commander 206 rows, each row 206, and they are from the worlds of Isrāfīl, عليه السلام, and the one who remembers
+this name, the angel descends upon him and fulfills his need, so blessed is the one for whom his right guidance is inspired at that time and he seeks what benefits him in the world
+and the Hereafter. And as for the supplication with this noble name, O Jabbār, You are the Jabbār in the Hereafter, Jabbār and the intimate companion
+of the righteous, and the doer of good to the small and the great, and the rectifier of the affairs of creation, and the manifester of the secret of realities, and the hearer of the subtleties and the دقائق.
+I ask You
+
+---
+## Page 281
+
+**Arabic (original):**
+— ٢٧٥ —
+أسألك يا جابر كل كسير وناصره الأولياء بلا وزر ورافع كل صغير وحقير بما أودعته في جبل رحمتك
+من جليل قوتك وعظيم مغفرتك ومواد محبتك أن تجعلني متوكلاً عليك في جميع أموري ناظراً إليك
+في جميع بؤسي وأقوالي وأجعل ذمامي بيدك وإسلامي عليك والتجائي ومعاذي إليك يا من عز
+جنابه عن الفهم والإدراك وتعالى كبرياؤه على الإطلاق والإمساك أسألك بزوائد فضلك وفوائد تواتر
+نعمك أن ترزقني سعادة كل سعيد في دار السرور وتجنبني شقاوة كل شقي في دار الغرور وخصني
+بشهادة الشهداء وكل شهيد عند انبساط أنوارك يوم الوعيد إنك أنت الله أرحم الراحمين مقرب كل
+بعيد وأنت أقرب إليه من حبل الوريد
+( الفصل الثاني والعشرون في النمط الثاني من الأسماء الوهبيات )
+اعلم وفقني الله وإياك لطاعته وفهم أسرار أسمائه أن من أسماء الله تعالى الحسنى هذه الأسماء الغفار الغفور
+الشكور الغافر التواب الحميد السميع البصير الودود الشاكر هذه الأسماء الشريفة سلك واحد وفي
+هذا النمط الجليل سر الصفح والتجاوز وسر التسبيح وإظهار الجميل وإصلاح الأمور الفاسدة وتغطية
+كل عيب وتيسير كل عسير وترقيق القلوب ويصلح لمن ارتبك في الشهوات وتمادى في المخالفات
+والغفلات يبدل الله تعالى سيئاته حسنات ويصفح برحمته عما وقع منه من الزلات ويغفر بكرمه
+ما اجترمه من المحرمات ولا يسمع موعظة إلا قرعت أذن قلبه ولا ينظر في عبرة إلا وقد انطبعت في
+مرآة فهمه وهو مقام فإما أسماؤه تعالى الغفار الشكور الغافر فذكر جليل يصلح لمن هو في
+المعاصي والأفعال القبيحة فداوم على هذه الأسماء نقله الله تعالى منها إلى حالة حسنة جسيمة كريمة
+وأما أسماؤه تعالى التواب الحميد فمما تقار من النسق فمن لازم على ذكرها جعل الله تعالى
+أمره يسراً وأما أسماؤه تعالى السميع البصير فذكر جليل من لازم ذكرها وسع الله تعالى فهمه
+ووفر عقله وأورثه الحشمة واسمه لطيف السر وأراه حقائق الأشياء كلها جليها وخفيها ومن كان به
+ضعف في بصره أو سمعه وأكثر من ذكرها قوي سمعه وبصره وقد أمرت بذكرها الشيخ
+محمداً الخراساني لما ذهب سمعه من هجمة الفرس على خراسان وحرق غلتها فما مضى مدة يسيرة
+حتى عاد سمعه كما كان ولازم صحبتي بعد ذلك إلى أن وفاه الله تعالى وأما أسماؤه تعالى الودود والشاكر
+فاسمان جليلان وذاكرهما يلقي الله تعالى محبته في قلوب الخلق ولا يراه أحد إلا أحبه ولا يعزم على
+أمر من الأمور إلا نجح فيه وقس عليه ما يناسبه من سائر الأفعال كلها وأما اسمه تعالى المتكبر
+فهو اسم عظيم مكتوب على حجاب الهيبة وذاكره لم يزل مهاباً في أعين الناس وخادمه خطايليل
+وهو قائم تحت حجاب الهيبة وتحت يده خمس قواد تحت يد كل قائد ٦٦٣ صفا كل صف ٦٦٣ وكلهم
+يصلون ولباسهم أصفر مثل لون الشمس البهية وذاكر هذا الاسم ينزل عليه الملك ويقضى حاجته وكل ما
+طلبه ناله فاعرف قدر ما صار إليك ومن تقدم للسيادة حاز السعادة وذاكره بهذا الاسم الشريف يقول
+اللهم أنت المتكبر الكبير المحيط علمه قد أوجدت الأشياء واخترعت صدورها مبسط الأسماء وأنت
+الجامع لحقيقة ظهوري الأرض والسماء أسألك اللهم بجلال نعمك ولطائف كرمك وأسرار حقك
+بواسطة جريان قلمك أنت الكبير على الإطلاق الموصوف بجلائل الأخلاق المنعم بالعطية السرمدية
+
+**English:**
+— 275 —
+I ask You, O Bringer back of every broken one and its helper, the saints without burden, and the raiser of every small and despicable one, by that which You deposited in the mountain of Your mercy of the majesty of Your power and the عظیم of Your forgiveness and the materials of Your love, that You make me reliant upon You in all my affairs, looking toward You in all my misery and my sayings, and I make my protection in Your hand, and my submission upon You, and my refuge and my shelter to You, O He whose side is exalted beyond understanding and perception, and whose majesty is exalted above all and holding. I ask You by the additions of Your bounty and the benefits of the succession of Your favors that You provide me with the happiness of every happy one in the abode of joy, and keep me away from the wretchedness of every wretched one in the abode of delusion, and single me out with the testimony of the witnesses and every martyr at the spreading forth of Your lights on the Day of the Threat. Indeed, You are Allah, the Most Merciful of the merciful, the bringer near of every far one, and You are nearer to him than the jugular vein.
+
+(Chapter Twenty-Two in the Second Pattern of the Bestowed Names)
+
+Know, may Allah grant me and you success in obedience to Him and understanding the secrets of His names, that among the beautiful names of Allah Most High are these names: al-Ghaffar, al-Ghafur, al-Shakur, al-Ghafir, al-Tawwab, al-Hamid, al-Sami', al-Basir, al-Wadud, al-Shakir. These noble names are one thread, and in this majestic pattern is the secret of pardon and overlooking, and the secret of glorification and manifesting the beautiful, and the reform of corrupt matters, and the covering of every defect, and the easing of every difficult thing, and the softening of hearts. It is suitable for one who has become entangled in desires and has persisted in oppositions and heedlessnesses. Allah Most High changes his evil deeds into good deeds, and pardons by His mercy what has occurred from him of slips, and forgives by His generosity what he has committed of forbidden things. He does not hear an admonition except that it strikes the ear of his heart, and he does not look upon a lesson except that it has been imprinted in the mirror of his understanding. And it is a station. As for His names, Most High, al-Ghaffar, al-Shakur, al-Ghafir, then it is a majestic remembrance suitable for one who is in sins and ugly acts; so persist upon these names, Allah Most High will transfer him from them to a good, immense, noble state. As for His names, Most High, al-Tawwab, al-Hamid, then from what is close in the arrangement; whoever persists in their remembrance, Allah Most High will make his affair easy. As for His names, Most High, al-Sami', al-Basir, then it is a majestic remembrance; whoever persists in their remembrance, Allah Most High will expand his understanding, increase his intellect, and bequeath to him dignity, and His name is subtle of secret, and He shows him the realities of all things, their manifest and their hidden. And whoever has weakness in his sight or hearing and increases in their remembrance, his hearing and his sight become strong. And I was commanded to mention them to the shaykh Muhammad al-Khurasani when his hearing went away from the onslaught of the Persians upon Khurasan and the burning of its grain; and not much time passed until his hearing returned as it had been, and he remained in my companionship after that until Allah Most High took him. As for His names, Most High, al-Wadud and al-Shakir, then they are two majestic names, and the one who remembers them, Allah Most High casts His love into the hearts of creation, and no one sees him except that he loves him, and he does not resolve upon any matter among matters except that he succeeds in it. And analogize upon it what is suitable to it from the rest of all actions. As for His name, Most High, al-Mutakabbir, then it is a عظیم name written upon the veil of awe, and its rememberer has not ceased to be feared in the eyes of people, and its servant is Khataylil, and he is standing beneath the veil of awe, and beneath his hand are five commanders; under the hand of each commander are 663 ranks, each rank 663, and all of them are praying, and their clothing is yellow like the color of the radiant sun. And the rememberer of this name, the angel descends upon him and his need is fulfilled, and whatever he asks he attains. So know the value of what has come to you, and whoever advances to leadership attains happiness. And its rememberer with this noble name says:
+
+O Allah, You are the Most Proud, the Great, whose knowledge encompasses; You have brought things into existence and invented their origins, the expander of names, and You are the gatherer of the reality of my appearing, the earth and the heaven. I ask You, O Allah, by the majesty of Your favors and the subtleties of Your generosity and the secrets of Your right, by means of the flowing of Your قلم, You are the Great in the absolute, described by the majestic qualities of character, the One favored with the everlasting gift.
+
+---
+_End of translation — 281 pages._
