@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 269 translated pages._
+_Auto-generated from 273 translated pages._
 
 ---
 ## Page 1
@@ -15266,4 +15266,200 @@ In the name of Allah, the Merciful, the Compassionate. O Allah, O mover of the N
 You say: And strike for them a parable, the people of the town, to His saying: the clear conveyance. Then you say: the Merciful, the Compassionate, O Merciful, O Compassionate, O Allah, O Kind, O Affectionate, O Restorer, O Compeller, O Compeller, O Compeller, O Restorer, O Litu, O once, hearing, obedient, by the right of the Merciful, the Compassionate, and by the right of the Kind, the Affectionate, and by the right of the King, the Prevailing over whom is His command, Huzuj Mahtil, and We advanced to what they did of deed, and We made it scattered dust. O Allah, subdue for me the king Hatayail and command him to fulfill my need. Then you say: glory be to the Reliever of every indebted one, glory be to the Deliverer of every imprisoned one, glory be to the Dispeller of every sorrowed one, glory be to Him who caused the water to flow in the seas and springs, glory be to Him whose خزائن are between the Kaf and the Nun, glory be to Him who, when He wills a thing,
 
 ---
-_End of translation — 269 pages._
+## Page 270
+
+**Arabic (original):**
+- ٢٦٤ -
+شيئاً أن يقول له كن فيكون إلى آخرها اللهم ألقِ محبتي في قلب عبدك خادم السورة وسخره لي كما
+سخرت البحر لموسى والنار لإبراهيم والجبال والحديد لداود والجن والإنس والريح والشياطين لسليمان
+صلوات الله وسلامه عليهم أجمعين وكما سخرت الشمس والقمر والنجوم وجميع الأشياء لمحمد صلى
+الله عليه وسلم أسألك أن تسخره لي يقضي حاجتي خاضعاً مطيعاً بحق اسمك الأعظم وبحق أسمائك
+الحسنى يا الله يا سريع يا قريب يا مجيب يا باسط يا ودود ٣ يا ذا العرش المجيد يا مبدئ يا معيد
+يا فعال لما يريد أسألك بنور وجهك الذي ملأ أركان عرشك وبقدرتك التي قدرت بها على جميع
+خلقك وبرحمتك التي وسعت كل شيء لا إله إلا أنت يا غياث المستغيثين أغثني ٣ وأعنّي على عملي في
+هذه الساعة واقضِ حاجتي يا الله يا هو يا أرحم الراحمين اللهم ألقِ محبتي في قلب خادم السورة
+يحبونهم كحب الله والذين آمنوا أشد حباً لله يحبهم ويحبونه كلا لا تطعه واسجد واقترب
+(( ورد يوم الثلاثاء ))
+تقول قالوا إنا تطيرنا بكم إلى قوله وجعلني من المكرمين ثم تقول يا مالك يوم الدين يا مقلب القلوب أجب
+يا حرز سامعاً مطيعاً بحق مقلب القلوب والأبصار وبحق الملك الغالب عليه أمره طيشكل وبحق
+فهطيل فإذا جاء وعد ربي جعله دكاء وكان وعد ربي حقاً أقسمت عليك بحق الملك الغالب عليك
+أمره أبي بحر الأحمر وبحق كـ ٤ جيوس سبحان المفرج عن كل محزون سبحان من أجرى البحار
+والعيون سبحان من خزائنه بين الكاف والنون سبحان من إذا أراد شيئاً أن يقول له كن فيكون إلى
+آخرها اللهم سخر لي خادم هذه السورة كما سخرت البحر لموسى والنار لإبراهيم والجبال والحديد لداود
+والجن والإنس والشياطين لسليمان عليهم الصلاة والسلام والشمس والقمر والنجوم وجميع الأشياء
+لمحمد صلى الله عليه وسلم سخر لي خادم هذا اليوم يأتي إليّ ويقضي حاجتي وبحق اسمك العظيم الأعظم
+وبحق أسمائك الحسنى يا سريع يا قريب يا باسط يا ودود ٣ يا ذا العرش المجيد يا مبدئ يا معيد
+يا فعال لما يريد أسألك بنور وجهك الذي ملأ أركان عرشك وبقدرتك التي قدرت بها على جميع
+خلقك وبرحمتك التي وسعت كل شيء يا غياث المستغيثين أغثني ٣ وارحمني برحمتك يا أرحم الراحمين
+اللهم ألقِ محبتي في قلب خادم هذه السورة قد شغفها حباً يحبونهم كحب الله والذين آمنوا أشد حباً
+لله يحبهم ويحبونه كلا لا تطعه واسجد واقترب
+(( ورد يوم الأربعاء ))
+تقول إني آمنت بربكم فاسمعون إلى قوله إن أنتم إلا في ضلال مبين إياك نعبد وإياك نستعين أجب بحق
+السريع المعبود وبحق الملك الغالب أمره سعفص وبحق فهطيل قال موسى ما جئتم به السحر
+الآية وبحق الله العظيم أقسمت عليك يا سيدع وسمسميائيل وبرقان بحق الملك المعبود سبحان المنفس
+عن كل مديون سبحان المفرج عن كل محزون سبحان من أجرى الماء في البحار والعيون سبحان
+من جعل خزائنه بين الكاف والنون سبحان من إذا أراد شيئاً أن يقول له كن فيكون إلى آخرها
+اللهم سخر لي خادم هذه السورة كما سخرت البحر لموسى والنار لإبراهيم والجبال والحديد لداود
+والجن والإنس والريح والشياطين لسليمان عليهم الصلاة والسلام والشمس والقمر والنجوم وجميع
+الأشياء
+
+**English:**
+- 264 -
+something, that He says to it, “Be,” and it is, to its end. O Allah, cast my love into the heart of Your servant, the servant of the surah, and subdue him for me as You subdued the sea for Moses, and the fire for Abraham, and the mountains and the iron for David, and the jinn and mankind and the wind and the devils for Solomon, may the prayers of Allah and His peace be upon them all, and as You subdued the sun and the moon and the stars and all things for Muhammad, may Allah bless him and grant him peace. I ask You to subdue him for me, that he fulfill my need, humbled, obedient, by the right of Your greatest Name and by the right of Your beautiful Names: O Allah, O Swift, O Near, O Responsive, O Expander, O Loving, 3 O Possessor of the Glorious Throne, O Originator, O Restorer, O Doer of what He wills. I ask You by the light of Your Face which filled the corners of Your Throne, and by Your power by which You قدرت over all Your creation, and by Your mercy which encompasses everything. There is no god but You. O succorer of those who seek succor, succor me 3 and help me in my work in this hour and fulfill my need, O Allah, O He, O Most Merciful of the merciful. O Allah, cast my love into the heart of the servant of the surah. They love them as the love of Allah, and those who believe are stronger in love for Allah; He loves them and they love Him. Nay, do not obey him, and prostrate and draw near.
+(( ورد يوم الثلاثاء ))
+You say: They said, “We have taken ill omen from you,” to His saying, “and He made me among the honored.” Then you say: O Owner of the Day of Judgment, O Turner of the hearts, answer. O talisman, hearing, obedient, by the right of the Turner of the hearts and the sights, and by the right of the king over whom His command prevails, Tayshkal, and by the right of Fahtil. “So when the promise of my Lord came, He made it level, and the promise of my Lord was true.” I have sworn upon you by the right of the king over whom your command prevails, Abi Bahr al-Ahmar, and by the right of Kـ ٤ Jiyus. Glory be to the Reliever of every sorrowful one, glory be to the One who brings forth the seas and the springs, glory be to the One whose treasuries are between Kaf and Nun, glory be to the One who, when He wills a thing, says to it, “Be,” and it is, to its end. O Allah, subdue for me the servant of this surah as You subdued the sea for Moses, and the fire for Abraham, and the mountains and the iron for David, and the jinn and mankind and the devils for Solomon, upon them be prayers and peace, and the sun and the moon and the stars and all things for Muhammad, may Allah bless him and grant him peace. Subdue for me the servant of this day; let him come to me and fulfill my need, and by the right of Your great, greatest Name and by the right of Your beautiful Names: O Swift, O Near, O Expander, O Loving, 3 O Possessor of the Glorious Throne, O Originator, O Restorer, O Doer of what He wills. I ask You by the light of Your Face which filled the corners of Your Throne, and by Your power by which You قدرت over all Your creation, and by Your mercy which encompasses everything. O succorer of those who seek succor, succor me 3 and have mercy on me by Your mercy, O Most Merciful of the merciful. O Allah, cast my love into the heart of the servant of this surah. They have become passionately enamored with it in love; they love them as the love of Allah, and those who believe are stronger in love for Allah; they love them. Nay, do not obey him, and prostrate and draw near.
+(( ورد يوم الأربعاء ))
+You say: “Indeed I have believed in your Lord, so hear me,” to His saying, “You are only in clear error.” “You alone we worship, and You alone we ask for help.” Answer by the right of the Swift, the Worshipped, and by the right of the king over whose command prevails, Sa‘fas, and by the right of Fahtil. Moses said, “What you have brought is sorcery,” the verse, and by the right of Allah العظيم I have sworn upon you, O Sid‘a and Samsamiyail and Barqan, by the right of the worshipped king. Glory be to the Reliever of every indebted one, glory be to the Deliverer of every imprisoned one, glory be to the Reliever of every sorrowful one, glory be to the One who brought forth water in the seas and the springs, glory be to the One who made His treasuries between Kaf and Nun, glory be to the One who, when He wills a thing, says to it, “Be,” and it is, to its end. O Allah, subdue for me the servant of this surah as You subdued the sea for Moses, and the fire for Abraham, and the mountains and the iron for David, and the jinn and mankind and the wind and the devils for Solomon, upon them be prayers and peace, and the sun and the moon and the stars and all
+
+---
+## Page 271
+
+**Arabic (original):**
+- ٢٦٥ -
+
+الأشياء لمحمد صلى الله عليه وسلم أن تسخر لي خادم هذه السورة يقضى حاجتي بحق اسمك العظم
+الأعظم يا الله يا سريع يا مجيب يا محب يا ودود يا ذا العرش المجيد يا مبدئ يا معيد يا فعال لما
+يريد أسألك بنور وجهك الذي ملأ أركان عرشك وبقدرتك التي قدرت بها على جميع خلقك وبرحمتك
+التي وسعت كل شيء لا إله إلا أنت يا مغيث أغثني واقض حاجتي في هذه الساعة برحمتك يا أرحم الراحمين
+اللهم ألق محبتي في قلب خادم هذه السورة يحبونهم كحب الله والذين آمنوا أشد حبا لله يحبونهم
+كلا لا تطعه واسجد واقترب
+
+( ورد يوم الخميس )
+قوله تعالى: ويقولون متى هذا الوعد إن كنتم صادقين إلى قوله عدو مبين اللهم إني أسألك يا قادر يا مقتدر
+يا لطيف يا خالق يا هادي أجب يا إسرافيل وأنت يا مشهورش سامعاً مطيعاً بحق هذه الأسماء اهدنا
+الصراط المستقيم وبحق هطيل وإنه لكتاب عزيز لا يأتيه الباطل من بين يديه ولا من خلفه تنزيل
+من حكيم حميد أجب يا خادم هذه السورة بحق فرشط واقض حاجتي سبحان المنفس عن كل مديون
+سبحان المخلص لكل مسجون سبحان المفرج عن كل محزون سبحان من أجرى الماء في البحار
+والعيون سبحان من جعل خزائنه بين الكاف والنون سبحان من إذا أراد شيئاً أن يقول له كن
+فيكون إلى آخرها اللهم سخر لي خادم هذه السورة كما سخرت البحر لموسى والنار لإبراهيم والجبال
+والحديد لداود والجن والإنس والريح والشياطين لسليمان والشمس والقمر والنجوم وجميع الأشياء
+لمحمد صلى الله عليه وسلم أسألك أن تسخر لي خادم هذه السورة بحق أسمائك الحسنى يا الله يا سريع يا مجيب
+يا مجيب يا ودود ٣ يا ذا العرش المجيد يا مبدئ يا معيد يا فعال لما يريد أسألك بنور وجهك
+الذي ملأ أركان عرشك وبقدرتك التي قدرت بها على جميع خلقك وبرحمتك التي وسعت كل شيء
+لا إله إلا أنت يا غياث المستغيثين أغثني ٣ واقض حاجتي يا الله يا رحمن يا رحيم يا أرحم الراحمين
+اللهم ألق محبتي في قلب خادم هذه السورة قد شغفها حباً يحبونهم كحب الله والذين آمنوا أشد حباً لله يحبونهم
+كلا لا تطعه واسجد واقترب
+
+( ورد يوم الجمعة )
+قوله وأن اعبدوني هذا صراط مستقيم إلى قوله مبين صراط الذين أنعمت عليهم اللهم إني
+أسألك يا حليم يا عليم يا علام الغيوب يا نور يا علي يا لطيف يا هادي أن تسخر لي خادم هذه السورة أجب
+يا أبيض سامعاً مطيعاً بحق الملك الغالب عليك أمره شخذ وبحق جهلططيل إليه يصعد الكلم الطيب
+والعمل الصالح يرفعه أقسمت عليك يا جهبطائيل وأنت يا أبيض سبحان المنفس عن كل مديون
+سبحان المخلص لكل مسجون سبحان المفرج عن كل محزون سبحان من أجرى الماء في البحار
+والعيون سبحان من جعل خزائنه بين الكاف والنون سبحان من إذا أراد شيئاً أن يقول له كن
+فيكون إلى آخرها اللهم سخر لي خادم هذه السورة كما سخرت البحر لموسى والنار لإبراهيم والجبال
+والحديد لداود والجن والإنس والريح والشياطين لسليمان والشمس والقمر والنجوم وجميع الأشياء
+لمحمد صلى الله عليه وسلم أسألك أن تسخر لي خادم هذه السورة الشريفة بحق اسمك العظم الأعظم
+
+**English:**
+- 265 -
+
+things for Muhammad, may Allah bless him and grant him peace, that You subdue for me the servant of this surah, that he fulfill my need, by the right of Your greatest Name, O Allah, O Swift, O Responsive, O Loving, O Loving, O Possessor of the Glorious Throne, O Originator, O Restorer, O Doer of what He wills. I ask You by the light of Your Face which filled the corners of Your Throne, and by Your power by which You قدرت over all Your creation, and by Your mercy which encompasses everything. There is no god but You. O succorer, succor me and fulfill my need in this hour by Your mercy, O Most Merciful of the merciful. O Allah, cast my love into the heart of the servant of this surah. They love them as the love of Allah, and those who believe are stronger in love for Allah; they love them. Nay, do not obey him, and prostrate and draw near.
+
+( ورد يوم الخميس )
+His saying, the Exalted: “And they say, ‘When is this promise, if you are truthful?’” to His saying, “an evident enemy.” O Allah, I ask You, O Powerful, O Omnipotent, O Gentle, O Creator, O Guide, answer. O Israfil, and you, O Mashursh, hearing, obedient, by the right of these names, guide us to the straight path, and by the right of Haṭil. “And indeed it is a mighty Book; falsehood does not come to it from before it nor from behind it; a revelation from One Wise, Praiseworthy.” Answer, O servant of this surah, by the right of Farshṭ, and fulfill my need. Glory be to the Reliever of every indebted one, glory be to the Deliverer of every imprisoned one, glory be to the Reliever of every sorrowful one, glory be to the One who brought forth water in the seas and the springs, glory be to the One who made His treasuries between Kaf and Nun, glory be to the One who, when He wills a thing, says to it, “Be,” and it is, to its end. O Allah, subdue for me the servant of this surah as You subdued the sea for Moses, and the fire for Abraham, and the mountains and the iron for David, and the jinn and mankind and the wind and the devils for Solomon, and the sun and the moon and the stars and all things for Muhammad, may Allah bless him and grant him peace. I ask You to subdue for me the servant of this surah by the right of Your beautiful Names: O Allah, O Swift, O Responsive, O Responsive, O Loving, 3 O Possessor of the Glorious Throne, O Originator, O Restorer, O Doer of what He wills. I ask You by the light of Your Face which filled the corners of Your Throne, and by Your power by which You قدرت over all Your creation, and by Your mercy which encompasses everything. There is no god but You. O succorer of those who seek succor, succor me 3 and fulfill my need, O Allah, O Merciful, O Compassionate, O Most Merciful of the merciful. O Allah, cast my love into the heart of the servant of this surah; he has become passionately enamored with it in love. They love them as the love of Allah, and those who believe are stronger in love for Allah; they love them. Nay, do not obey him, and prostrate and draw near.
+
+( ورد يوم الجمعة )
+His saying, “And worship Me; this is a straight path,” to His saying, “evident, the path of those upon whom You have bestowed favor.” O Allah, I ask You, O Forbearing, O Knowing, O Knower of the unseen, O Light, O Most High, O Gentle, O Guide, that You subdue for me the servant of this surah. Answer, O White, hearing, obedient, by the right of the king over whose command prevails, Shakhd, and by the right of Jahlatṭil. “To Him ascend the goodly words, and the righteous deed He raises.” I have sworn upon you, O Jahbatṭa’il, and you, O White. Glory be to the Reliever of every indebted one, glory be to the Deliverer of every imprisoned one, glory be to the Reliever of every sorrowful one, glory be to the One who brought forth water in the seas and the springs, glory be to the One who made His treasuries between Kaf and Nun, glory be to the One who, when He wills a thing, says to it, “Be,” and it is, to its end. O Allah, subdue for me the servant of this surah as You subdued the sea for Moses, and the fire for Abraham, and the mountains and the iron for David, and the jinn and mankind and the wind and the devils for Solomon, and the sun and the moon and the stars and all things for Muhammad, may Allah bless him and grant him peace. I ask You to subdue for me the noble servant of this surah by the right of Your greatest Name
+
+---
+## Page 272
+
+**Arabic (original):**
+— ٢٦٦ —
+
+وبحق أسمائك الحسنى يا الله يا سريع يا مجيب يا باسط يا ودود ٣ يا ذا العرش المجيد يا مبدئ
+يا معيد يا فعال لما يريد أسألك بنور وجهك الذي ملأ أركان عرشك وبقدرتك التي قدرت بها على
+جميع خلقك وبرحمتك التي وسعت كل شيء لا إله إلا أنت يا غياث المستغيثين أغثني واقض حاجتي في
+هذه الساعة يا أرحم الراحمين اللهم ألقِ محبتي في قلب خادم هذه السورة قد شغفها حبا يحبونهم
+كحب الله والذين آمنوا أشد حبا لله يحبونه كلا لا تطعه واسجد واقترب
+
+( ورد يوم السبت )
+
+تقول لينذر من كان حيا إلى آخره، وتقول غير المغضوب عليهم ولا الضالين آمين يا ظاهر يا عزيز
+يا ملك يا مؤمن يا مهيمن يا قادر يا كبير أجب يا كسفائيل وأنت يا ميمون بحق غير المغضوب عليهم
+ولا الضالين آمين وبحق القاهر فوق عباده الكبير المتعال وبحق الملك الغالب أمره صطع وبحق
+لهمططيل فموقع الحق وبطل ما كانوا يعملون أجب يا خادم هذه السورة وتقول سبحان
+المنفس عن كل مديون سبحان المخلص لكل مسجون سبحان من أجرى الماء في البحار والعيون
+سبحان المفرج عن كل محزون سبحان من جعل خزائنه بين الكاف والنون سبحان من إذا أراد شيئاً
+أن يقول له كن فيكون إلى آخره اللهم سخر لي خادم هذه السورة كما سخرت البحر لموسى والنار
+لإبراهيم والحديد لداود والجن والإنس والشياطين والريح لسليمان والشمس والقمر والنجوم
+وجميع الأشياء لمحمد صلى الله عليه وسلم وعليهم أجمعين اللهم سخر لي كسفائيل وميمون بحق
+اسمك العظيم الأعظم وبحق أسمائك الحسنى يا الله يا سريع يا مجيب يا باسط يا ودود ٣
+يا ذا العرش المجيد يا مبدئ يا معيد يا فعال لما يريد أسألك بنور وجهك الذي ملأ أركان عرشك
+وبقدرتك التي قدرت بها على جميع خلقك وبرحمتك التي وسعت كل شيء لا إله إلا
+أنت يا غياث المستغيثين أغثني ٣ يا الله يا أرحم الراحمين اللهم سخر لي خادم
+هذه السورة قد شغفها حبا يحبونهم كحب الله والذين آمنوا أشد حبا لله
+يحبونه كلا لا تطعه واسجد واقترب اللهم أجب دعوتي
+بحق سورة يس إنك على كل شيء قدير لا حول ولا قوة
+إلا بالله العلي العظيم تمت الأوراد السبعة فاعرف
+قدر ما صار إليك والله يقول الحق وهو
+يهدي السبيل (هذا آخر ما انتهى
+إليه الجزء الثاني ويليه الجزء
+الثالث والحمد لله
+أولاً وآخراً
+
+**English:**
+— 266 —
+
+and by the right of Your beautiful Names: O Allah, O Swift, O Responsive, O Expander, O Loving, 3 O Possessor of the Glorious Throne, O Originator, O Restorer, O Doer of what He wills. I ask You by the light of Your Face which filled the corners of Your Throne, and by Your power by which You قدرت over all Your creation, and by Your mercy which encompasses everything. There is no god but You. O succorer of those who seek succor, succor me and fulfill my need in this hour, O Most Merciful of the merciful. O Allah, cast my love into the heart of the servant of this surah; he has become passionately enamored with it in love. They love them as the love of Allah, and those who believe are stronger in love for Allah; he loves them. Nay, do not obey him, and prostrate and draw near.
+
+( ورد يوم السبت )
+
+You say: “that he may warn whoever is alive,” to its end, and you say: “not of those who have incurred wrath, nor of those who go astray. Amen.” O Manifest, O Mighty, O King, O Believer, O Guardian, O Powerful, O Great, answer, O Kasfā’īl, and you, O Maimun, by the right of “not of those who have incurred wrath, nor of those who go astray. Amen,” and by the right of “the Subduer above His servants, the Great, the Exalted,” and by the right of the king over whose command prevails, ṣaṭa‘, and by the right of لهمططيل, “then the truth is established, and false was what they used to do.” Answer, O servant of this surah. And you say: Glory be to the Reliever of every indebted one, glory be to the Deliverer of every imprisoned one, glory be to the Reliever of every sorrowful one, glory be to the One who brought forth water in the seas and the springs, glory be to the One who made His treasuries between Kaf and Nun, glory be to the One who, when He wills a thing, says to it, “Be,” and it is, to its end. O Allah, subdue for me the servant of this surah as You subdued the sea for Moses, and the fire for Abraham, and the iron for David, and the jinn and mankind and the devils and the wind for Solomon, and the sun and the moon and the stars and all things for Muhammad, may Allah bless him and grant him peace, and upon them all. O Allah, subdue for me Kasfā’īl and Maimun by the right of Your greatest, greatest Name and by the right of Your beautiful Names: O Allah, O Swift, O Responsive, O Expander, O Loving, 3 O Possessor of the Glorious Throne, O Originator, O Restorer, O Doer of what He wills. I ask You by the light of Your Face which filled the corners of Your Throne, and by Your power by which You قدرت over all Your creation, and by Your mercy which encompasses everything. There is no god but You. O succorer of those who seek succor, succor me 3 O Allah, O Most Merciful of the merciful. O Allah, subdue for me the servant of this surah; he has become passionately enamored with it in love. They love them as the love of Allah, and those who believe are stronger in love for Allah; he loves them. Nay, do not obey him, and prostrate and draw near. O Allah, answer my supplication by the right of Sūrat Yā Sīn. Indeed, You are over all things powerful. There is no might and no power except by Allah, the Most High, the Most Great. The seven litanies are completed, so know the measure of what has come to you. And Allah says the truth, and He guides the way. (This is the end of what the second part has reached; and after it is the third part, and praise be to Allah, first and last.)
+
+---
+## Page 273
+
+**Arabic (original):**
+الجزء الثالث
+من كتاب
+شمس المعارف
+الكبرى
+ولطائف العوارف
+للشيخ أحمد بن علي البوني قدس الله روحه المتوفى سنة ٦٢٢ اثنين وعشرين وستمائة
+قال في كشف الظنون والمقصود من هذا الكتاب أن يعلم بذلك شرف أسماء الله تعالى وما أودع
+في بحرها من أنواع الجواهر الحكميات وكيف التصريف بالأسماء والدعوات وما تابعها
+من حروف السور والآيات ليصل بها إلى الحضرة الربانية من غير تعب ويتصل بها إلى
+رغائب الدنيا بلا نصب انتهى
+۝ ويليه ۝
+رسالة ميزان العدل في مقاصد الرمل ۝ ورسالة فواتح الرغائب في خصوصيات
+أوقات الكواكب ۝ ورسالة زهر المروج في دلائل البروج ۝ ورسالة لطائف الإشارة
+في خصائص الكواكب السيارة ۝ تأليف العلامة الفاضل السيد عبد القادر الحسيني الأدهمي
+۝ نفع الله بعلومه المسلمين آمين
+۝ تنبيه ۝
+حيث إن كتاب شمس المعارف لشدة احتياج الناس إليه طبع مراراً (بمصر والهند) وقد
+اعتنت المطابع المصرية بتصحيحه لكنه لم يخل من غلط وتحريف لعدم وجود نسخ صحيحة
+وقد طبع هذه المرة مقابلاً على نسخ «مصر والهند» ونسخة أخرى بخط الحاج مرزا حسين
+مع الدقة في التصحيح بمعرفة لجنة من أفاضل علماء مصر وأعاد تصحيحها الأستاذ الكبير الشيخ
+عبد الرحمن الجزيري فجاءت بحمد الله هذه النسخة من أجل النسخ طبعاً وتصحيحاً
+طبع بمطبعة
+مُصْطَفَى الْبَابِي الْحَلَبِي وَأَوْلَادُهُ بِمِصْرَ
+
+**English:**
+The third part
+from the book
+Shams al-Ma'arif
+al-Kubra
+and Lata'if al-'Awarif
+by the Shaykh Ahmad ibn Ali al-Buni, may God sanctify his soul, deceased in the year 622, twenty-two and six hundred
+He said in Kashf al-Zunun: and the intended purpose of this book is that by it one may know the nobility of the Names of God تعالى and what has been deposited
+in its sea of kinds of the wisdom-jewels, and how the disposition by the names and the invocations, and what follows them
+of the letters of the surahs and the verses, so that one may reach by them to the Divine Presence without toil, and connect by them to
+the desires of the world without fatigue, انتهى
+۝ And following it ۝
+Risalat Mizan al-'Adl in the purposes of Raml ۝ and Risalat Fawatih al-Ragha'ib in the particularities of
+the times of the planets ۝ and Risalat Zahr al-Muruj in the indications of the zodiacal signs ۝ and Risalat Lata'if al-Isharah
+in the properties of the moving planets ۝ composition of the learned, the virtuous السيد عبد القادر الحسيني الأدهمي
+۝ May God benefit the Muslims by his sciences, amen
+۝ Notice ۝
+Since the book Shams al-Ma'arif, because of the شدت need of people for it, has been printed repeatedly (in Egypt and India), and the Egyptian presses have
+taken care in correcting it, yet it has not been free of error and distortion due to the absence of correct copies
+and this time it has been printed collated against copies of «Egypt and India» and another copy in the handwriting of Hajj Mirza Husayn
+with precision in correction by the knowledge of a committee from the virtuous scholars of Egypt, and it was corrected again by the great professor the Shaykh
+Abd al-Rahman al-Jaziri, so this copy has come, praise be to God, as one of the finest copies in printing and correction
+Printed at the press of
+MUSTAFA AL-BABI AL-HALABI AND HIS SONS IN EGYPT
+
+---
+_End of translation — 273 pages._
