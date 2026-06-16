@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 273 translated pages._
+_Auto-generated from 277 translated pages._
 
 ---
 ## Page 1
@@ -15462,4 +15462,267 @@ Printed at the press of
 MUSTAFA AL-BABI AL-HALABI AND HIS SONS IN EGYPT
 
 ---
-_End of translation — 273 pages._
+## Page 274
+
+**Arabic (original):**
+وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَىٰ فَادْعُوهُ بِهَا
+
+بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
+
+( الْفَصْلُ الْحَادِي وَالْعِشْرُونَ فِي أَسْمَاءِ اللَّهِ الْحُسْنَىٰ وَإِمَاطَتِهَا وَمَا لِكُلِّ نَمَطٍ مِنَ الدَّعَوَاتِ )
+اعْلَمْ أَنَّ الْحَقَّ سُبْحَانَهُ وَتَعَالَىٰ أَوْدَعَ أَسْمَاءَهُ الْعَظِيمَةَ أَسْرَارَ فَضْلِهِ وَجُودِهِ وَعَدْلِهِ وَقَهْرِهِ وَرَحْمَتِهِ وَمَغْفِرَتِهِ
+فَهِيَ مَظَاهِرُ لِكُلِّ شَيْءٍ فَإِذَا صَانَ سِرَّهَا كَمَنَ فِيهَا فَلَا يُظْهِرُهُ إِلَّا اللَّهُ كَرَّمَ وَقَدْ تَقَدَّمَ لَنَا فِي مُصَنَّفَاتِ
+هَذَا الْفَنِّ خَمْسِينَ مُجَلَّدًا لَا يَعْرِفُهَا إِلَّا أَهْلُ الِاعْتِبَارِ مِنْ كُلِّ فَنِّ ذَكَرْتُهُ سَابِقًا وَلَاحِقًا ذَكَرْتُ مِنْهُ
+طُرُفًا لَوْحَتْ بِهِ لِأَهْلِ الذَّوْقِ وَالْعِرْفَانِ حَتَّىٰ لَا يَفْهَمَهُ إِلَّا أَهْلُهُ وَقَدْ ذَكَرْتُ فِي هَذِهِ أَنْمَاطًا وَإِشَارَاتٍ
+وَعِبَارَاتٍ تُوصِلُ الطَّالِبَ إِلَىٰ مَطْلُوبِهِ وَقَدْ جَعَلْتُ هَذِهِ الْأَنْمَاطَ مَوْصُولَةً بِكِتَابِي هَذَا لِمَا فِيهَا مِنْ
+الدَّعَوَاتِ وَالْأَذْكَارِ وَإِلَىٰ اللَّهِ أَرْغَبُ فِي السُّؤَالِ أَنْ يَحْجُبَ أَسْرَارَهُ عَنِ الْجُهَّالِ إِنَّهُ الْكَبِيرُ الْمُتَعَالِ
+وَالْمُوَفِّقُ لِلْإِفْضَالِ ( النَّمَطُ الْأَوَّلُ مِنْ أَسْمَاءِ اللَّهِ الْحُسْنَىٰ ) اللَّهُ الْإِلَهُ الرَّبُّ الرَّحْمَنُ الرَّحِيمُ الْمَلِكُ
+الْقُدُّوسُ السَّلَامُ إِلَىٰ آخِرِ السُّورَةِ فِيهِ أَسْرَارُ التَّوْحِيدِ وَالْإِخْلَاصِ وَزِيَادَةِ الْإِيمَانِ وَاسْتِطَاعَةِ نُورِ
+الْيَقِينِ وَالِانْتِقَالِ فِي الْمَقَامَاتِ وَإِحْيَاءِ الْقُلُوبِ وَالنَّهْضَةِ فِي الطَّاعَاتِ وَأَمْرَارِ الْأَرْوَاحِ وَإِلْحَاقِ الذَّاكِرِ
+لِوَاهِبِ الرَّحْمَانِيَّةِ وَكَثْرَةِ الرَّجَاءِ فَأَمَّا أَسْمَاؤُهُ تَعَالَىٰ اللَّهُ وَالرَّبُّ فَذِكْرٌ جَلِيلٌ وَهُوَ ذِكْرُ الْأَكَابِرِ
+مِنَ الْمُتَوَكِّلِينَ وَيَصْلُحُ لِلْمُرْتَاضِينَ فِي الْخَلَوَاتِ يَسْتَأْنِسُونَ بِهِ فِي خَلَوَاتِهِمْ وَيَمُدُّهُمْ اللَّهُ بِأَنْوَارِ اللَّاهُوتِيَّةِ
+وَعَظَمَةِ الرُّبُوبِيَّةِ فَيُورِثُهُمْ ذَلِكَ ذَوَاقَةً أَرْوَاحِيَّةً كَسَارٍ أَوْ اضْطِرَارًا إِلَىٰ مَوْلَاهُمُ الْأَعْظَمِ لَا إِلَهَ إِلَّا هُوَ هَذَا
+لِأَهْلِ السُّلُوكِ وَأَمَّا الْعَامَّةُ فَلَا يَسْتَدِيمُ هَذَا الذِّكْرَ لِأَحَدٍ إِلَّا تَالَتْ عَلَيْهِ الْبَرَكَةُ وَأَخَذَ اللَّهُ بِنَاصِيَتِهِ إِلَىٰ
+كُلِّ خَيْرٍ وَحَجَبَ عَنْهُ كُلَّ شَرٍّ وَلَا يَذْكُرُهُ مِنْ عِظَمِ جَسَدِهِ وَكَسَلٍ عَنِ الْحَرَكَاتِ الْأَلْطَفِ جَسَدَهُ وَوَجَدَ
+خِفَّةً مِنْ حِينِهِ وَمَنْ كَتَبَ الْأَسْمَاءَ الثَّلَاثَةَ فِي مَرْبَعِ ١٠ فِي مِثْلِهَا عِنْدَ حُلُولِ الشَّمْسِ بِبُرْجِ الْحَمَلِ وَحَمَلَهُ
+أَعْطَاهُ
+
+**English:**
+And to Allah belong the Most Beautiful Names, so call upon Him by them
+
+In the name of Allah, the Merciful, the Compassionate
+
+( The twenty-first chapter concerning the Most Beautiful Names of Allah and their effacement, and what belongs to each pattern of invocations )
+Know that the Truth, glory and exalted is He, has deposited in His عظيمة names the secrets of His favor, His generosity, His justice, His subduing, His mercy, and His forgiveness.
+So they are manifestations for everything; so when one preserves their secret, that which is within them is concealed, and none reveals it except Allah, may He be honored. And there has preceded for us in the compositions
+of this art fifty volumes, none knows them except the people of consideration, from every art. I mentioned it previously and subsequently I mentioned from it
+aspects that flashed by it to the people of taste and gnosis, so that none understands it except its people. And I have mentioned in this
+patterns and indications
+and expressions that convey the seeker to his sought object. And I have made these patterns connected to this my book because of what is in them of
+invocations and remembrances. And to Allah I incline in asking that He veil His secrets from the ignorant. Verily He is the Great, the Most High,
+and the One who grants success to beneficence. ( The first pattern from the Most Beautiful Names of Allah ) Allah, the God, the Lord, the Merciful, the Compassionate, the King,
+the Holy, the Peace, to the end of the surah. In it are the secrets of tawhid and sincerity, and increase of faith, and the attainment of the light of
+certainty, and transition in the stations, and the reviving of hearts, and the rising in acts of obedience, and the bitterness of spirits, and the joining of the rememberer
+to the Bestower of Rahmaniyyah, and abundance of hope. As for His names, exalted is Allah, Allah and the Lord, then it is a majestic remembrance, and it is the remembrance of the great ones
+among the trustful, and it is suitable for those who exercise themselves in seclusions; they find intimacy with it in their seclusions, and Allah extends them with lights of the Divine
+and the majesty of Lordship, so that that bequeaths to them a spiritual savoring, as a journey, or compulsion toward their greatest Master, there is no god except Him. This
+is for the people of suluk. As for the العامة, this remembrance does not continue for anyone except that blessing descends upon him and Allah takes hold of his forelock to
+every good and veils from him every evil. And he does not remember it because of the greatness of his body and laziness from the gentlest movements; his body and he finds
+lightness from his time. And whoever writes the three names in a square of 10 in its like, at the setting of the sun in the sign of Aries, and carries it
+it gives him
+
+---
+## Page 275
+
+**Arabic (original):**
+- ٢٦٩ -
+
+أعطاه الله تعالى قوة يقينية وزيادة في إيمانه وإخلاصه في أعماله ولا يحملها مصاب الحرق عارضه
+في الوقت ولا وضعت على صاحب حمى إلا وبرئ وإن كان في لوح نحاس في الوجه الأول شكله ويدلى
+في ماء مصنوع أذهبه في الوقت ومن ناجى ربه بهذه الأسماء الثلاثة بعد صلاة ركعتين يقول يا الله يا الله
+يا رب ساعة زمانية ظهر له نور عظيم وكشف له الله عن بصيرة قلبه ويستجاب دعاؤه من أمر الدنيا
+والآخرة ومن نزل أعدادهم ٤ في ٤ على خاتم من ذهب مثقالا وختم به أورثه الله تعالى هيبة وجلالة
+وعظمة وخوفا ورهبة من الله تعالى في باطنه ومن لازم على ذكر اسمه الله تعالى جمع طويل وسهر
+أطلعه الله تعالى على مكنونات الغيب وجعله من المقربين ولكل اسم من أسماء الله تعالى مراتب في
+الذكر والوضع فالأول من المراتب ذكر الأعداد والوضع المعتاد وهو ذكر الاسم الشريف وأعداده
+الواقعة عليه ووضعها مضروبة في الحروف والثاني ذكر الاسم الشريف يضرب أعداده في نفسها
+ووضعها كذلك والثالث ذكر الاسم الشريف والجملة من أسماء الله تعالى ساعة زمانية وأحسن
+المراتب في المواضع أعداد الحروف من غير تضاعف فإن الزيادة إسراف والنقص خلل وأما أسماؤه
+تعالى الرحمن الرحيم فإسمان جليلان يصلحان من أعدادها نشر الرحمة في القلوب يصلحان ذكر لمن
+غلبت عليه القسوة والحسارة وعدم الرأفة يبدل الله تعالى هذه الخصال ضدها وتطاع له سائر العوالم
+وتنقاد نفسه إلى الطاعات ومن ذكرها وهو داخل على جبار ألقى الله تعالى الرأفة في قلبه وكفاه شره
+وأعطاه خيره ومن وضع حروفهما مكسرة في مربع ٨ في ٨ يوم الجمعة ساعة الزهرة وحمله معه فكل
+من رآه أحبه وأطاعه ومن نزل أعدادها في مربع على خاتم من فضة ومحه سبع ليال وهو يذكر
+الاسمين الشريفين عليه كل ليلة خمسمائة وخمسة وثلاثين وتمت به القوالة محبة في قلوب الناظرين
+إليه وأما أسماؤه تعالى الملك القدوس فإسمان جليلان يصلحان لمن خامل الذكر وضيع
+القدر فينشر الله ذكره ويرفع قدره ويطهر باطنه من الأدناس ومن نزل أعداد اسمه الملك في مربع
+٤ في ٤ على خاتم من عقيق يوم الاثنين والقمر خال من النحوس وتختم به دامت عليه حالته الحسنة وإن
+كان ملكا دام ملكه وأطاعه الجند ومن داوم على ذكر اسمه القدوس أذهب الله تعالى عنه وسواس
+الصدور وطهر باطنه وظاهره وأنفذه الله تعالى من كل ورطة وعصمه من كل فتنة وأما أسماؤه تعالى
+السلام المؤمن فإسمان عظيمان يصلحان لمن غلب عليه الرعب والخوف خصوص المسافر ومن في القفار
+المخوفة فذاكرها يؤمنه الله من جميع المخاوف ويسلمه في سفره وحضره من جميع الآفات الظاهرة
+والباطنة ومن وضع حروفهما في مربع ٨ في ٨ وحمله أو وضعه في مال التجارة فإنهما آمن من اللصوص
+والغرق والحرق وإذا وضع هذا أوفق في حاصل الحبوب المقتات منها بارك الله تعالى فيها وأمنت من
+التلف وأما اسمه تعالى العزيز جليل يصلح ذكر لمن آذته أعداؤه ومن كان من أعيان الناس
+وأزيلت نعمته فإن الله تعالى يعزه ويرد له ما زال عنه ولا يصل إليه أحد بمكروه ومن داوم على ذكره
+شرفت نفسه وعلا قدره ومنعت الأعداء من الوصول إليه واعلم أن الأعداء على قسمين حسية ومعنوية
+فمنها ما بارزك بالعداوة طمعا كالسبع الضاري وأرذل الهوام ومنها ما أظهر لك حبا وأخفى ضده وهم أبناء
+جنسك من الحساد وغيرهم والمعنوية نفسك وحدها فالازم العبد على هذا الاسم الشريف كفاه
+
+**English:**
+Allah, the Exalted, gave him certainty of power and increase in his faith and his sincerity in his deeds, and the afflicted one with burning does not carry it; its accident
+at the time, nor is it placed upon the one with fever except that he is cured, even if it is on a copper tablet, in the first face, its form, and it is dipped
+in manufactured water, it removes it at the time. And whoever communes with his Lord by these three names after the prayer of two rak‘ahs says: O Allah, O Allah,
+O Lord, a temporal hour, a great light appeared to him, and Allah uncovered for him the insight of his heart, and his supplication is answered in matters of the world
+and the Hereafter. And whoever descends their numbers 4 by 4 upon a ring of gold, a mithqal, and seals with it, Allah, the Exalted, bequeaths to him awe and majesty
+and greatness and fear and dread of Allah, Exalted is He, in his inward. And whoever persists upon the remembrance of His name, Allah, Exalted is He, for a long gathering and vigil,
+Allah, Exalted is He, informs him of the hidden things of the unseen and makes him among the near ones. And for every name from the names of Allah, Exalted is He, there are ranks in
+remembrance and placement. So the first of the ranks is the remembrance of the numbers and the customary placement, and it is the remembrance of the noble name and its numbers
+falling upon it and placing them multiplied in the letters. And the second is the remembrance of the noble name, its numbers being multiplied in themselves
+and its placement likewise. And the third is the remembrance of the noble name and the totality of the names of Allah, Exalted is He, a temporal hour. And the best
+of the ranks in placements is the numbers of the letters without doubling, for increase is excess and decrease is defect. And as for His names,
+Exalted is He, the Merciful, the Compassionate, they are two majestic names; it is suitable, from their numbers, the spreading of mercy in the hearts. They are suitable as a remembrance for one upon whom harshness and loss and lack of compassion have prevailed; Allah, Exalted is He, changes these qualities to their opposite, and all the worlds become obedient to Him
+and his soul becomes led to acts of obedience. And whoever remembers them while entering upon a tyrant, Allah, Exalted is He, casts compassion into his heart and suffices him against his evil
+and gives him his good. And whoever places their letters broken up in a square of 8 by 8 on Friday, the hour of Venus, and carries it with him, then every
+one who sees him loves him and obeys him. And whoever descends their numbers in a square upon a ring of silver and erases it for seven nights while he is remembering
+the two noble names upon it every night five hundred and thirty-five, and by it the saying is completed, love in the hearts of those looking
+at him. And as for His names, Exalted is He, the King, the Holy, they are two majestic names; they are suitable for one whose remembrance is obscure and whose
+rank is low, so Allah spreads his remembrance and raises his rank and purifies his inward from impurities. And whoever descends the numbers of His name, the King, in a square
+4 by 4 upon a ring of carnelian on Monday, and the moon is free of inauspiciousness, and seals with it, his good state remains upon him. And if
+he is a king, his kingship remains and the troops obey him. And whoever persists upon the remembrance of His name, the Holy, Allah, Exalted is He, removes from him the whisperings
+of breasts and purifies his inward and his outward, and Allah, Exalted is He, carries him through every predicament and preserves him from every trial. And as for His names, Exalted is He,
+the Peace, the Believer, they are two great names; they are suitable for one upon whom terror and fear have prevailed, especially the traveler and one in
+the fearsome deserts. So the one remembering them, Allah secures him from all fears and delivers him in his travel and his presence from all outward
+and inward afflictions. And whoever places their letters in a square 8 by 8 and carries it or places it in trade wealth, then they are safe from thieves,
+drowning, and burning. And if this is placed, more fitting, in the yield of grains from which food is taken, Allah, Exalted is He, blesses it and it is secured from
+destruction. And as for His name, Exalted is He, the Mighty, it is majestic; the remembrance is suitable for one whom his enemies have harmed and for one who was among the notables of people
+and whose blessing has been removed, for Allah, Exalted is He, honors him and returns to him what has departed from him, and no one reaches him with harm. And whoever persists upon remembering it
+his soul is ennobled and his rank is elevated and the enemies are prevented from reaching him. And know that enemies are of two kinds, sensory and spiritual.
+Among them are those who confront you with enmity out of greed, like the ravening beast and the vilest vermin, and among them are those who show you love and conceal its opposite, and they are the sons of
+your kind, from the envious and others. And the spiritual is your own self alone. So the servant’s persistence upon this noble name suffices him
+
+---
+## Page 276
+
+**Arabic (original):**
+— ٢٧٠ —
+الدهر هؤلاء الأعداء من وضع أعداده وحروفه في مربع ٤ في ٤ في لوح من بلور وحمله إنسان أو
+حيوان أطال الله عمره وبارك فيه وأما اسمه تعالى الجبار الشكور فاسمان جليلان لا يذكرهما أحد
+إلا ذل الله له الجبابرة وحفظه من جناح المتكبرين ومن نزل أعدادها في لوح من حديد والمريخ سالم
+من النحوس متصل بالقمر اتصال مودة وحمله معه لا يراه جبار إلا ذل له ولا متكبر إلا خضع له
+بإذن الله تعالى ومن ذكرها في جوف الليل بعد صلاة ركعتين أو أكثر إلى أن يغلب عليه منه حال
+ودعا على ظالم أخذ لوقته بشرط أن يكون ظالمه ومن عفا وأصلح فأجره على الله وأما اسمه تعالى
+الخالق الباري المصور فذكر جليل لكل ما يريد فإذا أضيف اسمه تعالى القدوس إلى اسمه تعالى
+الخالق حصل منها تأثير عظيم في دفع الوسواس وقس على هذا النمط ما يناسبه من سائر الخواص
+يحصل المطلوب والله الموفق
+( فصل ) في شرح الأسماء الحسنى بعد كل نمط أقول وبالله التوفيق اعلم أن اسمه تعالى
+الله هو اسم الله الأعظم وهو من الأذكار المفردة العظيمة فمن ذكره ٦٦ مرة بعد صلاة ركعتين
+في جوف الليل بعد صوم ورياضة طويلة فإنه ينزل عليه سيد الروحانيين الملك كمط عليه السلام
+وهو من الملائكة التي تجاه العرش وهو حاكم على ٦٦ صفا من الملائكة وتحت كرامته أربع
+قواد تحت كل قائد ٦٦ ملكا فإذا ذكر الذاكر عدده في خلوته فإن الحاكم يحضر ويخر
+ساجدا لله تعالى ويقول في سجوده أسماء عظيمة سريعة الإجابة وهي اللهم إني أسألك يا الله يا أحد
+يا الله الأحد يا الله الدائم يا الله الباقي يا الله يا قديم يا الله يا قدير يا الله يا رب يا الله يا شكور يا الله يا حي يا الله
+يا قيوم أسألك بأحديتك وصمديتك ونعوت ربوبيتك إن عبدا من عبيدك قد شاركنا في التسبيح
+والتقديس والأمر أمرك فإن أمرتنا بالنزول إليه فبإرادتك فيقول الله تعالى انزلوا إليه واقضوا
+حاجته فإنه دعا باسمي الأعظم فينزل ومعه إلى الذاكر ويقول له أيها العبد الصالح ذكرت الله
+تعالى فيذكر فترى الأنوار تخرج من فيه ويحصل له خشية وسكينة فيقول له الملك أيها العبد الصالح
+قد ناجيت الله تعالى باسمه العظيم ونحن خدام هذا الاسم فما الذي تريد فيقول أريد الطاعة لله تعالى
+ولأسمائه فيقول لك طهر ثيابك وبدنك وتصوم ثلاثة أيام من كل شهر وهي الثالث عشر والرابع عشر والخامس عشر
+وأفطر على الحلال واقرأ الاسم عدده فإن فعلت ذلك تصير أخانا وصاحبنا وبعهدك ويقضى حاجتك
+وما تريد ثم اصرف به ينصرف بخير وأما اسماه تعالى الله الرحمن فاسمان عظيمان قال تعالى قل ادعوا الله
+أو ادعوا الرحمن أيا ما تدعوا فله الأسماء الحسنى واسمه الرحمن خادمه زرال وهو رئيس على أربع
+قواد تحت كل قائد ٣٩٨ صفا كل صف ٣٩٨ من الملائكة الموكلين بالرحمة فإذا تلاه الذاكر هذا العدد
+فإن الروح ينزع التاج ويخر ساجدا لله تعالى ويقول يا من له ما هو إلا هو إن العبد شاركنا في
+التسبيح باسمه ثم ينزل ومن معه من الملائكة ويفتح له باب الإجابة ويلقي محبته في القلوب وفيه
+من الأسرار ما لا يمكن شرحها والله الموفق وأما بهذين الاسمين الشريفين تقول اللهم إني أسألك يا الله
+يا رحمن رحمت الموجودات بالحياة الأزلية وأظهرت أسرارها في قلوب أشخاصها باللطائف السرمدية
+وأثبت ذراها في أطوارها بالإرادة الأبدية لكي تظهر بواسطتها سر الإرادة وأنت الرحمن لتربية
+الرحماء
+
+**English:**
+the age, these enemies, by placing its numbers and letters in a square 4 by 4 in a tablet of crystal, and a human or
+animal carrying it, Allah prolongs his life and blesses him. And as for His name, Exalted is He, the Compeller, the Thankful, they are two majestic names; no one remembers them
+except that Allah humbles the tyrants to him and preserves him from the wing of the arrogant. And whoever descends their numbers in a tablet of iron, and Mars is safe
+from inauspiciousness, connected to the moon with a connection of affection, and carries it with him, no tyrant sees him except that he is humbled to him, and no arrogant one except that he submits to him,
+by permission of Allah, Exalted is He. And whoever remembers them in the depth of the night after the prayer of two rak‘ahs or more until a state overcomes him from it
+and supplicates against an oppressor, he takes him at his time, on the condition that his oppressor be. And whoever pardons and makes right, then his reward is upon Allah. And as for His name, Exalted is He,
+the Creator, the Originator, the Fashioner, then it is a majestic remembrance for whatever he desires. So if His name, Exalted is He, the Holy, is added to His name, Exalted is He,
+the Creator, there results from it a great effect in repelling whispering. And measure upon this pattern what is suitable to it from the rest of the properties;
+the sought object is obtained, and Allah is the One who grants success.
+( Chapter ) in the explanation of the Most Beautiful Names after each pattern. I say, and with Allah is success: know that His name, Exalted is He,
+Allah, is the Greatest Name of Allah, and it is among the great singular remembrances. So whoever remembers it 66 times after the prayer of two rak‘ahs
+in the depth of the night after a long fast and discipline, then the master of the spiritual beings, the king Kamat, peace be upon him, descends upon him,
+and he is among the angels who are opposite the Throne, and he is ruler over 66 ranks of angels, and under his nobility are four
+leaders, under each leader 66 angels. So when the rememberer remembers its number in his seclusion, then the ruler is present and falls
+prostrating to Allah, Exalted is He, and says in his prostration great names quick in response, namely: O Allah, I ask You, O Allah, O One,
+O Allah, the One, O Allah, the Everlasting, O Allah, the Remaining, O Allah, O Ancient, O Allah, O Powerful, O Allah, O Lord, O Allah, O Thankful, O Allah, O Living, O Allah,
+O Self-Subsisting, I ask You by Your oneness and Your self-sufficiency and the attributes of Your lordship that a servant from among Your servants has shared with us in glorification
+and sanctification, and the command is Your command. So if You command us to descend to him, then by Your will. So Allah, Exalted is He, says: Descend to him and fulfill
+his need, for he has called upon My Greatest Name. So he descends, along with the rememberer, and says to him: O righteous servant, you have remembered Allah,
+Exalted is He. So he remembers, and you see lights coming out from his mouth, and fear and tranquility occur to him. So the angel says to him: O righteous servant,
+you have communed with Allah, Exalted is He, by His عظيمة name, and we are the servants of this name, so what do you want? So he says: I want obedience to Allah, Exalted is He,
+and to His names. So he says to you: Purify your clothes and your body, and fast three days of every month, and they are the thirteenth, the fourteenth, and the fifteenth,
+and break the fast on what is lawful, and recite the name its number. For if you do that, you become our brother and our companion, and by your covenant, and your need is fulfilled
+and what you want. Then dismiss by it; it departs with good. And as for His names, Exalted is He, Allah, the Merciful, they are two great names. The Exalted said: Say, call upon Allah
+or call upon the Merciful; whichever you call upon, to Him belong the Most Beautiful Names. And His name, the Merciful, his servant is Zural, and he is chief over four
+leaders, under each leader 398 ranks, each rank 398 of the angels entrusted with mercy. So when the rememberer recites this number,
+then the spirit removes the crown and falls prostrating to Allah, Exalted is He, and says: O One to whom belongs what is none but He, the servant has shared with us in
+glorification by His name. Then he descends, and with him are the angels, and the door of response is opened for him, and his love is cast into the hearts. And in it
+are secrets that cannot be explained. And Allah is the One who grants success. And as for by these two noble names, you say: O Allah, I ask You, O Allah,
+O Merciful, You have shown mercy to beings with the eternal life and manifested their secrets in the hearts of their persons by the everlasting subtleties
+and fixed their summits in their states by the eternal will, so that through them the secret of the will may appear. And You are the Merciful for the التربية
+of the merciful.
+
+---
+## Page 277
+
+**Arabic (original):**
+— ۲۷۱ —
+الرحماء وأنت المتولي أمر من في الأرض ومن في السماء وأنت الكاشف ضر من تمسك بك في البأساء
+والضراء المجيب لمن دعاك من صميم قلبه وأنيبه في الليلة الظلماء وأنت القائم القادر على قضاء حوائج
+الذاهبين إليك القاصدين إليك في الشدة والرخاء أسألك بنورك الأعلى وعزك الأسنى وبـتأييدك لأهل
+الإحاطة والاجتلاء وصوت الناقوس الأعظم الأكبر الذي هو أمينك في مقام الانجلاء أن تزيل عن
+قلبي آثار صوب إبليس وأن تبدل لروحي وقلبي عرش بلقيس التي هي سر الطبع الخسيس وأن تجذبني
+بنورك التام وفضلك العام لأخلص من بين الأنام وأنجذب إليك من أثر شهوة الطبع ومن ظلمات
+شؤمه المضمر يامن له العظمة والكبرياء والجلال والبهاء أسألك بعزك المنيع وأثر علمك البديع
+عصمة تتجلى من سرادقات حرزك وحفظ الأنحاء من حماية حصنك ورعاية شاملة من حريم
+حرمك وكشف حماك ورحمة نازلة من عالم قدسك وعز مهابتك أن تغنيني عمن سواك وأرحني برحمة
+نازلة تحييني وتطهر بها الأشباح وتوصلها في كل صباح بخير الصلاح والنجاح وتزيل بلطائف لطفك
+ومناح فضلك عن وجهي ظلمة حجاب لن عند نزول آية لن وجميع آية لن في السموات في
+لب تجليك ممن ثبت في المناجاة وأجعلني بفيض فضلك وروح عطفك إليك ناظرا وبفضلك قادرا
+وفي سبيل وجهك مصورا وناصرا يامن له العز والبهاء والثناء والعطاء يارب العالمين مامن عبد ناجى
+بهذا الدعاء في جوف الليل إلا استجيب له في الوقت وقضيت حوائجه كلها بإذن الله تعالى وأما اسمه
+تعالى الرحيم فهو اسم عظيم فيه أسرار عظيمة والملك المخلوق من عدمه عزما ئيل عليه السلام وهو
+رئيس على أربع قواد تحت يد كل قائد ٦٥٨ صفا كل صف ٦٥٨ ألف ملك وهو من عوالم ميكائيل
+عليه السلام الموكل بانبساط الرحمة وهو سريع الإجابة والتالي لهذا الاسم ينزل عليه الملك ويطوف
+عليه القلوب واعلم أن الأرواح من عوالم ميكائيل عليه السلام فاعرف قدر ما وصل إليك من أمور
+الآخرة فإن الدنيا فانية بما عليها والدنيا بالنسبة للآخرة كثلث قيراط من أربعة وعشرين
+قيراطا فإن عملت بهذه الأسماء فتكون قد ضربت بثلث جزء من أربعة وعشرين جزء أو اعرف قدر
+أسماء الله تعالى واعلم أنها عزيزة الوجود وليس كل أحد يتصرف بها بل أولياء الله الصالحون وإنهم
+يأخذون العهد على الطالب إن وثقوا به وعلموا أنه يصون الأسماء عن غير أهلها والله الهادي المانع
+وأما الدعاء بهذا الاسم الشريف تقول يارحيم أنت راحم الأكوان وأنت السلطان في كل يوم هو في
+شأن وأنت المفيض بعنايتك على أهل الدنيا والآخرة وأنت النصير بنصرتك الأحد لمن تأهل إلى
+الذهاب إليك في العقبى والساهرة وأنت الرحيم الرؤوف الديان ذو القوة والامتنان ذو القوة الغالبة
+والقدرة القاهرة بسرك الخفي المنبسط في البر والبحر وبعنايتك السارية في أسرار السر والجهر
+وبما أودعته من الألطاف الإلهية في النصر والدهر وبما خصصت به أولياءك من فنون الحكم
+ومعاني الأصوات وبما أودعته من فصول الأوقات أن تخلصني من تأثير غوائل الشيطان واصرف
+قرينه وقني شدائد حجابه ومن بسط كليته وتلقني برحمة أزالة من وحدتك مؤدية إلى
+جنتك كاملة في ذاتها حاصلة بفعلها عامة بذاتها ووجودها الذي ينزل منها التوحيد بخصائص التحميد
+والتمجيد يا لطيف يا لطيف يا ذا الرحمة الواسعة على القوي والضعيف أسألك بكل اسم هو لك سميت به
+
+**English:**
+— 271 —
+the merciful, and You are the one who undertakes the affair of whoever is in the earth and whoever is in the heaven, and You are the remover of harm from whoever holds fast to You in adversity
+and affliction, the responder to whoever calls upon You from the core of his heart and turns to You in the dark night, and You are the قائم, the قادر, upon fulfilling the needs of
+those who go to You, who قصد to You in hardship and ease. I ask You by Your highest light and Your most sublime might, and by Your strengthening of the people of
+encompassment and manifestation, and the sound of the greatest, the greatest bell, which is Your trustee in the مقام of disclosure, that You remove from
+my heart the آثار of the downpour of Iblis, and that You بدل for my soul and my heart the throne of Bilqis, which is the secret of the base nature, and that You draw me
+by Your complete light and Your general bounty, so that I may beخلص from among mankind and be drawn to You from the effect of the desire of nature
+and from the darkness of its hidden ill-omen. O You who has greatness and pride and majesty and splendor, I ask You by Your impregnable might and the effect of Your wondrous knowledge
+a protection that becomes manifest from the pavilions of Your amulet, and the preservation of the directions from the protection of Your fortress, and all-encompassing care from the sanctuary of
+Your sanctuary, and the unveiling of Your protected place, and a mercy descending from the world of Your sanctity and the might of Your awe, that You enrich me from whoever is other than You, and give me rest by a mercy
+descending that gives me life and by which the forms are purified, and brings them in every morning with the good of righteousness and success, and removes by the subtleties of Your gentleness
+and the grants of Your bounty from my face the darkness of a veil for not عند the descent of the verse لن and all the verse لن in the heavens in
+the core of Your manifestation, from whoever has been established in supplication; and make me, by the overflow of Your bounty and the spirit of Your tenderness, toward You looking, and by Your bounty capable
+and in the path of Your face depicted and a helper. O You who has might and splendor and praise and giving, O Lord of the worlds, there is no servant who supplicated
+with this supplication in the depth of the night except that it was answered for him at the time, and all his needs were fulfilled, by permission of God تعالى. And as for His
+تعالى name, al-Rahim, it is a عظیم name in which are عظیم اسرار, and the king created from his nonexistence, Azma'il عليه السلام, and he
+is chief over four commanders; under the hand of each commander are 658 ranks, each rank 658 thousand angels, and he is from the worlds of Michael
+عليه السلام, who is entrusted with the spreading of mercy, and he is swift in response, and the one who recites this name, the king descends upon him and the hearts circle
+around him. And know that the spirits are from the worlds of Michael عليه السلام, so know the measure of what has reached you from the affairs of
+the Hereafter, for the world is perishing with whatever is upon it, and the world in relation to the Hereafter is like one-third of a qirat out of twenty-four
+qirats. If you act by these names, then you will have struck with one-third part out of twenty-four parts, or know the measure of
+the names of God تعالى, and know that they are rare in existence, and not everyone disposes by them, but rather the righteous friends of God, and they
+take the covenant from the seeker if they trust him and know that he preserves the names from those not entitled to them, and God is the guide, the preventer.
+And as for the supplication by this noble name, you say: O Merciful, You are the merciful of the cosmos, and You are the sovereign in every day, He is in
+an affair, and You are the one who pours forth by Your care upon the people of the world and the Hereafter, and You are the helper by Your singular help for whoever is qualified to
+go to You in the Hereafter and the night, and You are the Merciful, the Compassionate, the Judge, possessor of power and beneficence, possessor of the prevailing power
+and the overpowering القدرة, by Your hidden secret spread out in land and sea, and by Your care flowing in the secrets of the secret and the manifest,
+and by what You have deposited of the divine subtleties in victory and time, and by what You have singled out Your friends with of the arts of judgments
+and the meanings of sounds, and by what You have deposited in the divisions of times, that You deliver me from the effect of the calamities of Satan and turn away
+his companion and protect me from the شدت of his veil and from the extension of his entirety, and meet me with a mercy, a removal from Your oneness leading to
+Your paradise, complete in its essence, attained by its act, universal in its essence and its existence, from which descends monotheism with the special qualities of praise
+and glorification. O Gentle, O Gentle, O Possessor of the vast mercy upon the strong and the weak, I ask You by every name that is Yours, by which You named Yourself.
+
+---
+_End of translation — 277 pages._
