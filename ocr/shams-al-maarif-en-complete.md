@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 309 translated pages._
+_Auto-generated from 312 translated pages._
 
 ---
 ## Page 1
@@ -17565,4 +17565,228 @@ the proof, O Great in rank and beneficence, Lord of the worlds. * And as for His
 and one beholds the lights of beauty, the wonder of the dominion, and the stations of the angels ﵇ And as for His تعالى name al-Nafi‘, it is a name in which is a letter from the letters of the Greatest Name, and its king is Tahṭā’īl, and he is chief over 4 commanders, under the hand of each commander 201 rows, each row 201, and the one who remembers, the king descends upon him, and his supplication: you say, O Nafi‘, You are the One who has prevented the doubts from the hearts and the innovations from the creeds, the preventing from perceiving the secret of the unseen; from You issued forth good and evil, and benefit and harm, and advantages and returns, and hardships, in the being of what harms people. I ask You for the prevention of affliction and abundant giving and the vastness of provision, and I seek refuge in You from slips and مخالفةs and impediments and afflictions. I ask You for Your good without intermediary, and make for me an outlet from every distress, so that I may live, by Your praise, in comforts, and by that dies whoever opposes Your choosing in afflictions. Surely You are Allah, the eraser of السيئات ﵇ And as for His تعالى name al-Nūr, it is a great name; its king is Hahṭā’īl, and he is chief over four commanders, under the hand of each commander 256 rows, each row 256, and the one who remembers, the king descends upon him, and his supplication: O Nūr, You are the manifest Light by which every manifestation has appeared, and You are the ruler by Your light over every light; You know the inward parts of creation and their outward parts by what You have clothed them with of Your generosity, and by what You have encompassed them with of Your witnessing, and by what You have sprinkled upon them of the light of Your guardianship. And there is not a thing except that with Us are its خزائنه, and every majesty has humbled itself to Your majesty and the might of Your praise, and admit me into the sea of Your protection and Your مدد, and I ask You, O Nūr, O Light of the light and Healer of the breasts and Resurrector of those in the graves, that You illuminate me with Your highest, most splendid light, my secret and my public, my inward and my outward, and my spirit and my soul and my heart and my tongue and my inner heart and my skin and my end and my beginning. Surely You are Allah in hardship and ease ﵇ And as for His name al-Bāqī, it is a name in which is a letter from the letters of the Greatest Name, and its king is Ṭaṭā’īl, and he is chief over four commanders, under the hand of each commander 113 rows, each row 113, and the one who remembers, the king descends upon him, and his supplication: O Bāqī, You are the One who remains and every created thing perishes, and You are the One who gave life, by Your فضل, to every provisioned one, and You are the One who brought out from their sides from disbelief and hypocrisy and فسوق. I ask You by the secret of Your remaining in Your creation that You provide me with a remaining that has no end ever, and a life after which there is no death, and do not entrust me to anyone for the blink of an eye, nor to anyone other than You, and provide me with the subjugation of hearts and spirits and the seizure of the reins of bodies and spirits. Surely You are Allah, the One, the Opener ﵇ And as for His تعالى name al-Wārith, it is a great name, and its king is Hahdāyīl, chief over four commanders, under the hand of each commander 707 rows, each row 707, and the one who remembers, the king descends upon him, and his supplication: O Wārith, You are the One who remains after the annihilation of all creation, and the Creator for Allah, the One, the Subduer. I ask You by Your enduring remaining and Your standing might that You make me an inheritor of Your knowledge and Your forbearance, and an inheritor of the sciences of Your prophets and Your saints, and provide me with their benefits and bring me to their ends, Lord of the worlds ﵇ And as for His تعالى name al-Rashīd, it is a great name in which is a letter from the letters of the Greatest Name, and the king created from its number is Suhā’īl, and he is chief over four commanders, under the hand of each commander 514 rows, each row 514, and the one who remembers, the king descends upon him as has preceded, and his supplication: O Rashīd, You are the One who guided Your saints to the path of salvation and brought Your beloved ones to the sea of life and the spring of life and joined between the saints and the prophets in the most perfect states. I ask You, O Guardian of good deeds, that You guide me to You and give me life with a good life so that I may be turning toward You, Lord of the worlds ﵇ And as for His تعالى name al-Ṣabūr
 
 ---
-_End of translation — 309 pages._
+## Page 310
+
+**Arabic (original):**
+-- ٣٠٢ --
+
+فاسم عظيم فيه حرف من حروف الاسم الأعظم والملك المخلوق منه هو أيل وهو رئيس على أربع
+قواد تحت يد كل قائد ٢٩٨ صفا كل صف ٢٩٨ ملكا ولذا كان ينزل عليه الملك ودعاؤه تقول
+يا صبور أنت الذي أعطيت كل شيء خلقه ثم هديته وأنت الذي أحييت قلبك بنور الوحدة
+والتوحيد ثم علمته أول كل ظاهر وآخر كل ساتر ترجع إليك الأمور والأملاك بعد فناء الأملاك
+وتدبر الأمور إلى غايتها على الرشاد والسداد من غير إرشاد وصحيح الاستعداد لتحصل الصرح إلى
+دار المعاد الذي لا تحملك العجلة على بلوغ المنى قبل أوانه ولا ترقب أمراً أقبل زمانه ومكانه أسألك
+بعز مملكتك وتجليل كلمك وبما في خزائن مخزون فوقيتك وسبحات وجهك وظل عرشك
+وسرادقات قدسك أن تجعل دعائي مقبولا وندائي مستجابا وجوابي مبذولا وأن تجعلني هاديا
+مهديا وعلى صراطك مستويا يارب العالمين
+﴿ الفصل الحادي والثلاثون في الحروف وما لها من الخواص ﴾
+اعلم رحمك الله أن سر كل أمة في كتابها وسر كتاب الله في الحروف والحروف مختلفة الأشكال ولما
+ظهر نبينا محمد عليه السلام أنزل عليه القرآن وكان سر هذه الأمة ونسخت شريعة جميع الشرائع
+وحروف هذا الكتاب العزيز العربية ولما سئل صلى الله عليه وسلم عن حروف المعجم فقال هي
+حروف أ ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن هـ و لا ى وهي
+عربية فسماها عربية وفيها أسرار جميع الكتب والصحف المنزلة وزيادة عليها وأما أجد فأنها
+سريانية نزلت على آدم وإدريس ونوح وموسى وعيسى صلوات الله وسلامه عليهم أجمعين وأما
+ما اصطلح الحكماء عليه من ترتيب أبجد هوز حطي كلمن الخ فاصطلاح سمسارا الحكيم وأما اصطلاح
+أهل عصرنا من قلب حروف الهجاء وجعل آخرها أولها فهو خطأ إذ يزعمهم أن هذا رمز غميض
+وفيه من الوبال ما لا يخفى لأنه عكس الحروف المنزلة وبدلها خصوصا إن كتب بها أسماء الله سواء
+كانت الأسماء عربية أم أعجمية قال تعالى ومن يبدل نعمة الله من بعد ما جاءته فإن الله شديد
+العقاب ولولا أن هذا العلم العربي سر مصان ما أنزل الله القرآن بألفاظه وحروفه فانظر لقوله تعالى
+الم المص وللقلم فأقسم بهذه الحروف لتعرف قدرها وها أنا قد فتحت لك أنموذجا لمعنى خواص
+الحروف يتشعب منها فقلت
+﴿ فصل فيما ذكرناه من الحروف العربية وما لها من الخواص وأربعت
+الخدام والأملاك ولايم ﴾
+(حرف الألف) هو أول الحروف وهو حرف نوراني وأول العدد وهو أول مرتبة في تقسيم
+الحروف على العناصر وقد سموا ذلك وصفوه في مجلدات وجداول مختلفة وكلهم على الحق
+من مذهب الآخذ عنهم وكلهم أجمعوا على أن حرف الألف ناري وله بسط صغير وكبير فبسطه الصغير
+هكذا ألف والكبير هكذا ألف لام فان بسطه العددي موافق لبسطه الحرفي لأنه ألف والعددي
+واحد وهذين العددين بسطين ولا يخفى ذلك على من له أدنى تأمل وأكمل بسط من هذه الأربعة
+وخواص
+
+**English:**
+-- 302 --
+
+So a great name in which is a letter from the letters of the Greatest Name, and the king created from it is Ayl, and he is chief over four
+leaders, under the hand of each leader 298 ranks, each rank 298 kings; and for that the king used to descend upon him, and his supplication: you say
+O Patient, You are the One who gave everything its creation, then guided it, and You are the One who gave life to Your heart with the light of unity
+and tawhid, then taught it the first of every manifest and the last of every concealing; the affairs and the kingdoms return to You after the annihilation of the kingdoms
+and the management of affairs to their end upon right guidance and rightness without guidance and sound preparedness, so that the edifice may attain to
+the Abode of Return, which haste does not carry you to the attaining of desires before its time, nor do you await a matter whose time and place have arrived. I ask You
+by the might of Your kingdom and the magnification of Your word, and by what is in the treasuries of Your stored sublimity, and the glories of Your face, and the shade of Your Throne
+and the sanctuaries of Your holiness, that You make my supplication accepted, and my call answered, and my response bestowed, and that You make me a guide
+guided, and upon Your path upright, O Lord of the worlds.
+﴿ The thirty-first chapter concerning the letters and what properties they have ﴾
+Know, may God have mercy on you, that the secret of every الأمة is in its book, and the secret of the Book of God is in the letters, and the letters are of differing forms, and when
+our Prophet Muhammad, upon him السلام, appeared, the Qur’an was sent down upon him, and it was the secret of this الأمة and the abrogation of the law of all laws,
+and the letters of this noble book are the Arabic ones. And when he, صلى الله عليه وسلم, was asked about the letters of the alphabet, he said: they are
+the letters A B T Th J H Kh D Dh R Z S Sh Ṣ Ḍ Ṭ Ẓ ‘ Gh F Q K L M N H W Lā ى, and they are
+Arabic, so he named them Arabic. In them are the secrets of all the books and revealed scriptures, and more besides. As for Abjad, it is
+Syriac, sent down upon Adam, Idris, Noah, Moses, and Jesus, may the prayers of God and His peace be upon them all. As for
+what the sages have agreed upon of the ترتيب of Abjad hawwaz ḥuṭṭī kalaman etc., it is the convention of the wise Samsara. As for the convention
+of the people of our time in reversing the letters of the alphabet and making their last their first, it is an error, since they claim that this is an obscure symbol
+and in it is of calamity what is not hidden, because it is the reversal of the revealed letters and their substitution, especially if the names of God are written with it, whether
+the names are Arabic or foreign. He تعالى said: “And whoever changes the favor of God after it has come to him, then indeed God is severe
+in punishment.” And were it not that this Arabic science is a protected secret, God would not have sent down the Qur’an with its words and its letters. So look at His تعالى saying:
+Alif Lam Mim Ṣad, and by the Pen; He swore by these letters so that you may know their قدر. And now I have opened for you a model for the meaning of the properties
+of the letters, from which branches out, so I said:
+﴿ A chapter concerning what we have mentioned of the Arabic letters and what properties they have, and the fourfolding of
+the servants and the kings and Laym ﴾
+(The letter Alif) is the first of the letters, and it is a luminous letter, and the first of number, and it is the first rank in the division
+of the letters upon the elements. They have named that and described it in various volumes and tables, and all of them are upon the truth
+according to the doctrine of those who take from them. And all of them unanimously agreed that the letter Alif is fiery, and it has a small and a large extension; its small extension
+is thus: ألف, and the large thus: ألف لام. Its numerical extension is in agreement with its letter extension, because it is ألف and the numerical
+is one, and these two numbers are two extensions, and that is not hidden from one who has the least contemplation. And the most complete extension of these four
+and properties
+
+---
+## Page 311
+
+**Arabic (original):**
+— ٣٠٥ —
+
+خواص وأسرار هذا الحرف لما كان أول الاختراع وأول العدد وأول عنصر النار جعلت له
+القوة الأزلية أن يكون له أول الأيام الأحد موافقة ومناسبة للطبع والشرف وهذا الحرف شكلان
+لا يختلفان وشكله العربي كشكله الهندي وهو مبدأ العقل والسر في كونه نارياً هو أن القلم
+لما أمره الله أن يكتب ما هو كائن إلى يوم القيامة وضع رأسه على اللوح فساح منه نقطة من النور ثم
+ساح منها الألف فلهذا السر كان نارياً وأول عنصر النار وابتداؤه الاسم الشريف الذي هو الله
+الإجماع ومن كتبه على صحيفة من ذهب أو كاغد مصنوع بالزعفران يوم الأحد في شرف الشمس
+وضعه في الغالبة وحمله معه أذهب الله عنه الحمى وهابه كل من رآه وكان محفوظاً من كل مكروه
+مأموناً من كل فتنة موقتاً للخيرات وهذه صفته | | | وإذا نظرت إليه امرأة وقت الطلق
+وضعت ومن وضع بسطه الأول مكسراً في مثلث في إناء من نحاس ومحاه بماء ورد وسقاه لمن به
+روع سكن ومن به خفقان يسقى على أيام متوالية يسكن خفقانه وينفع للطفل الذي يحصل منه
+رجيف وهو حجاب للجان والهوام وغيرها وهو هذا ا ل ف ومن كان به برودة أو عارض في
+صلبه يمنعه من الحركة يكتب المثلث في كفه الأيمن ل ف بدهن غار يوم الأحد عند طلوع
+الشمس في يوم صحو يفعل ذلك على ٣ حدود ف ا ل ويكتب شكل الألف المتقدم على
+حريرة حمراء بزعفران محلول بماء ورد ويشده على وسطه فإن الله يسهل عليه الحركة ويذهب
+عنه البرودة * ومن كتب بسطه الثاني ٣ مرات بدائر الرأس الذي به الصداع البليغ زال لوقته
+* ومن وفقه مكسراً في مثمن والقمر في العقرب سالماً من النحوس في لوح من النحاس الأحمر
+داخل دائرة تحيط به ونقش حولها ا ا ا ألفاً وبخره بقسط ولادن بخط إبر يسم في بئر فيه
+ماء ذهب ماؤه وكذلك كل ماء مصنوع في إناء أو غيره * ومن كتب الألف المتقدم على جبين مصاب
+احترق عارضه وهذا الحرف أسماء يدعى بها وهي اللهم إني أسألك بالله باسمك الأعظم الذي
+قامت به السموات والأرض يا أول يا آخر يا ظاهر يا باطن يا أولى يا أبدى يا أمان أسألك بما
+أودعته حرف الألف من الأسرار المخزونة والأنوار المكنونة يا الله يا أحد أن تسخر لي ملائكتك
+الكرام خدام هذا الحرف الشريف الشكل النوراني بالطاعة فيما أمرهم به مما فيه رضا وأنزل
+عليّ ملائكة من ملائكتك المطيعين والروحانية المرضيين يتصرفون بأمرك في طاعتي ولا
+يعصون لك أمراً إنك على كل شيء قدير ( حرف الباء ) هو حرف صامت بارد يابس وهو أول
+مراتب عنصر الأرض لا يليق به غير يوم السبت لما فيه من المناسبة وزحل كوكبه والرصاص
+معدنه وله شكلان العربي هكذا ب والهندي ٢ والباء سطيح الألف كما أن الألف قائم
+بالباء والأصل في تشكيل الحروف كلها هي النقطة وهذا الحرف لم يدغم مع لام التعريف وله
+خواص فمن كتبه في معدنه ويومه رحل مقابل المشتري من تثليث أو تسديس هكذا ب ب
+وحمله أمن من الأمراض الدموية ومن علقه على صلبه ماتت شهواته وإذا كتب شكله ب ب
+الهندي مرتين على الثآليل أذهبها وله بسط صغير وبسط كبير فبسطه الصغير هكذا ب وبسطه
+الكبير ب ا ا ل ف وله بسط عددي وحرفي وبسط نهاية الحروف من جعل هذا
+
+( ٢٠ - شمس المعارف - ثالث )
+
+**English:**
+— 305 —
+
+The properties and secrets of this letter: since it was the first of invention, and the first of number, and the first element of fire, the
+eternal power was assigned to it, that its first of days be Sunday, in agreement and correspondence with nature and nobility. This letter has two forms
+that do not differ, and its Arabic form is like its Indian form, and it is the beginning of intellect. And the secret of its being fiery is that the pen,
+when God commanded it to write what is to be until the Day of Resurrection, placed its head upon the tablet, and there flowed from it a point of light, then
+from it flowed the Alif; for this secret it was fiery, and the first element of fire, and its beginning is the noble name which is Allah,
+consensus. And whoever writes it on a sheet of gold or paper made with saffron on Sunday in the exaltation of the sun,
+and places it in the الغالبة and carries it with him, God removes fever from him, and everyone who sees him fears him, and he is preserved from every harm,
+secure from every trial, appointed for good things. And this is its description: | | | And if a woman looks at it at the time of labor,
+she gives birth. And whoever writes its first extension broken up in a triangle in a vessel of brass and erases it with rose water and gives it to one who has
+terror, he becomes calm; and one who has palpitations is given to drink over successive days, and his palpitations become calm, and it is beneficial for the child from whom
+trembling occurs, and it is a veil for the jinn and vermin and others, and it is this ا ل ف. And whoever has coldness or an ailment in
+his loins that prevents him from movement, writes the triangle in his right palm ل ف with laurel oil on Sunday at sunrise
+on a clear day; he does that upon 3 حدود ف ا ل, and writes the form of the Alif mentioned before on
+red silk with saffron dissolved in rose water, and binds it upon his waist, for God will make movement easy for him and remove
+the coldness from him. * And whoever writes its second extension 3 times around the head of one afflicted with severe headache, it departs at once.
+* And whoever arranges it broken up in an octagon, and the moon is in Scorpio, safe from ill-omens, on a tablet of red brass
+inside a circle surrounding it, and engraves around it ا ا ا ألفاً, and fumigates it with qist and ladanum with the line of needles marked in a well in which
+water has gone, and likewise every water made in a vessel or otherwise. * And whoever writes the aforementioned Alif on the forehead of one afflicted,
+his ailment is burned away. And this letter has names by which it is invoked, and they are: O God, I ask You by God, by Your Greatest Name by which
+the heavens and the earth were established, O First, O Last, O Manifest, O Hidden, O Former, O Everlasting, O Security, I ask You by what
+You deposited in the letter Alif of the stored secrets and the hidden lights, O God, O One, that You subdue for me Your
+noble angels, servants of this noble luminous letter, by obedience in what He commanded them with, in what فيه رضا, and send down
+upon me angels from among Your obedient angels and the approved spiritual beings, who act by Your command in obedience to me and do not
+disobey You in any command. Indeed, You are powerful over everything. (The letter Bā’) is a silent, cold, dry letter, and it is the first
+rank of the element of earth; nothing befits it except Saturday, because of the correspondence therein, and Saturn is its planet and lead
+its mine. It has two forms, the Arabic thus: ب, and the Indian: ٢. And the Bā’ is the flattening of the Alif, just as the Alif is قائم
+with the Bā’; and the أصل in the formation of all the letters is the point. And this letter was not assimilated with the lām of the definite article, and it has
+properties: so whoever writes it in its mine and its day, a journey opposite Jupiter from trine or sextile, thus: ب ب,
+and carries it, is safe from blood diseases; and whoever hangs it upon his loins, his desires die. And if its form ب ب
+Indian is written twice upon warts, it removes them. And it has a small extension and a large extension; its small extension is thus: ب, and its
+large extension: ب ا ا ل ف. And it has a numerical extension and a letter extension, and the extension of the end of the letters. Whoever makes this
+
+( 20 - Shams al-Ma‘ārif - Third )
+
+---
+## Page 312
+
+**Arabic (original):**
+- ٣٠٦ -
+
+الحرف صامتاً لا ينطق فلا يزاد على شكله وهو مذهبهم في كل حرف صامت كالفاء والباء والثاء
+والتاء والحاء والراء والطاء والظاء والهاء والياء فلا يزيدون على شكلها لأنه إذا زيد حرف من هذه
+الحروف أُلف شكله على شكله خرج من معنى النطق به * وأما طبعه فقد تقدم أنه حرف بارد
+يابس إذ هو مرتبة حروف الأرض * وأما من جعله حاراً رطباً هو أي جعل له يوم الاثنين ولكوكبه
+القمر ومعدنه الفضة * وأما من جعله رطباً فأقام له يوم الخميس وكوكبه المشتري ومعدنه
+القصدير والذي عليه الحكماء والمنجمون أن هذا الحرف بارد يابس طبع الأرض * وقال بقراط
+الحكيم حروفنا سبعة مربعة حار يابس وبارد يابس وحار رطب وبارد رطب ولم يكن في زمن
+بقراط غير أبجد ومراده بالسبعة المرتبة الدرجة والدقيقة والثانية والثالثة والرابعة والخامسة
+وبالتربيع ما ذكر من الحار اليابس والحار الرطب والاختلاف بين هذا المشرق والمغرب إنما
+هو السين والشين فنحن نقول سعفص قرشت غضش وهم يقولون سعفص قرشت شخضظغ
+وهذا الحرف إذا بسط بمركبه المدى ثم أخذ أعداد ذلك المركب وهو أخذ بسطه ونزله في مثلث
+على قليل من طين لم تمسه النار ثم استخرج منها مستنطقاتها وأقسم على ذلك الملك على ٧ ورماها
+في بئر ذهب ماؤه ومن كسر مركبه الصدى في خميس يوم الاثنين في زيادة القمر وحملها لعروسة
+ازدادت بهجة وألفها بعلها ومن نقش الحروف الهندية على ٥ مرات يوم السبت في صحيفة من
+رصاص ووضعها في باب السجن فإنه مخلص كل من فيه ولهذا الحرف أسماء يدعى بها أعماله
+المخصوصة به تقول اللهم إني أسألك يارب يابديع ياباقي ياباعث يابرما أودعته حرف الباء من
+الأسرار المكنونة والأنوار المخزونة أن تسخر لي ملائكتك خدام هذا الحرف فيما آمرهم به مما
+لك فيه رضا إنك على كل شيء قدير * (حرف التاء) وهو حرف صامت بارد يابس كالباء إلا أن
+حرف التاء أرطب منه لكونه من مرتبته وحرف الباء أربعة وجميع ٤٠٠ هو من قسم الباء وله
+شكلان عربي وهندي العربي ت والهندي ٤٠٠ فمن كتب التاء على أربعة شقفات ووضعها
+في أربع جهات الزرع فإنه ينمو ولا يلحقه ضرر وإذا وضعت الشقف في الحب المقتات منه
+لا يقرب به سوء * ومن كتب شكلاً ٤٠٠ مرة على صحيفة نحاس أحمر أو أصفر وسمرها في سفينة
+لا تغرق وإذا كان النقش على خاتم من نحاس أصفر وتختم به فإنه يسلم من الغرق وإن كان على
+متاع لم يسرق وهذه صورته
+والقياس يقتضي أن كل حرف بأعداده فيكون الألف تكتب مرة والباء مرتين
+والتاء ٤٠٠ وهكذا إلى آخر الحروف ولكن الأمر ليس للقياس فيها مدخل *
+ومن وفق أعداده الواقعة عليه وهي ٤٠٠ على حجر المغناطيس وحمله لا يراه أحد إلا أحبه
+وانجذب إليه بلمحة العظيمة ولهذا الحرف اسمان منه يدعى به وهي اللهم إني
+أسألك ياتواب ياتواب أودعته حرف التاء من الأسرار المخزونة والأنوار المكنونة أن تسخر لي
+ملائكتك الكرام خدام هذا الحرف إنك على كل شيء قدير * (حرف الثاء) وهو حرف
+صامت أيضاً طبع الحياة حار رطب هوائي وهو من تقارب من حرف التاء مخرجاً ولهذا
+يبدل
+
+**English:**
+- 306 -
+
+The letter, being silent, is not pronounced, so nothing is added to its form; and this is their doctrine in every silent letter, such as fā’, bā’, thā’, 
+tā’, ḥā’, rā’, ṭā’, ẓā’, hā’, and yā’; they do not add to its form, because if a letter from these
+letters is added, its form is made to conform to its form, it departs from the meaning of being pronounced. * As for its nature, it has already been mentioned that it is a cold
+dry letter, since it is the rank of the letters of earth. * As for one who makes it hot and moist, that is, assigns to it Monday and its planet
+the moon and its mine silver. * As for one who makes it moist, he assigns to it Thursday and its planet Jupiter and its mine
+tin. And what the sages and astrologers hold is that this letter is cold, dry, the nature of earth. * And Hippocrates the sage said: our letters are seven, fourfolded: hot dry, and cold dry, and hot moist, and cold moist; and there was not in the time
+of Hippocrates other than Abjad. And by the seven he meant the rank, the degree, the minute, the second, the third, the fourth, and the fifth;
+and by the fourfolding what was mentioned of the hot dry and the hot moist. And the difference between this east and west is only
+the sīn and the shīn; so we say sa‘fṣ qarašt ghaḍsh, and they say sa‘fṣ qarašt shkhḍẓgh.
+And this letter, if its compound is extended by the span, then the numbers of that compound are taken, which is taking its extension and descending it in a triangle
+upon a little clay that the fire has not touched, then extracting from it its utterances, and swearing over that king upon 7, and throwing it
+into a well whose water has gone. And whoever breaks its compound, the echo, on a Thursday of Monday in the increase of the moon, and carries it for a bride,
+her joy increases and her husband becomes fond of her. And whoever engraves the Indian letters 5 times on Saturday on a sheet of
+lead and places it in the door of the prison, he is the deliverer of everyone in it. And for this letter there are names by which its
+particular works are invoked; you say: O God, I ask You, O Lord, O Inventive One, O Everlasting, O Resurrector, O Brma, You deposited in the letter Bā’ of
+the hidden secrets and the stored lights that You subdue for me Your angels, servants of this letter, in what
+I command them with, in what is pleasing to You therein. Indeed, You are powerful over everything. * (The letter Tā’) is a silent, cold, dry letter like the Bā’, except that
+the letter Tā’ is moister than it because it is from its rank, and the letter Bā’ is four, and all 400 is from the division of the Bā’; and it has
+two forms, Arabic and Indian: the Arabic tā’, and the Indian 400. So whoever writes the tā’ on four shards and places them
+in the four directions of the crop, it grows and no harm befalls it; and if the shards are placed in the grain from which food is taken,
+no evil approaches it. * And whoever writes a form 400 times on a sheet of red or yellow brass and nails it in a ship,
+it does not sink. And if the engraving is on a ring of yellow brass and he seals with it, he is safe from drowning; and if it is on
+goods, they are not stolen. And this is its image.
+And analogy requires that every letter be with its numbers, so the Alif is written once, the Bā’ twice,
+and the Tā’ 400, and so on to the end of the letters; but the matter is not for analogy to have any place in it. *
+And whoever is made successful with its numbers that fall upon him, which are 400, on a magnet stone and carries it, no one sees him except that he loves him
+and is drawn to him with a great glance. And for this letter there are two names by which it is invoked; they are: O God, I
+ask You, O Tawwāb, O Tawwāb, You deposited in the letter Tā’ of the hidden secrets and the stored lights that You subdue for me
+Your noble angels, servants of this letter. Indeed, You are powerful over everything. * (The letter Thā’) is a
+silent letter also; the nature of life, hot, moist, airy; and it is from being close to the letter Tā’ in articulation, and for this
+it is substituted
+
+---
+_End of translation — 312 pages._
