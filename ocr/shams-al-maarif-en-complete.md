@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 301 translated pages._
+_Auto-generated from 305 translated pages._
 
 ---
 ## Page 1
@@ -17251,4 +17251,145 @@ al-Wājid, it is a عظیم name in which there is a letter from the letters of 
 chief over four commanders, under the hand of each commander 14 ranks, each rank 14, and the one who remembers, the angel descends upon him, and its supplication
 
 ---
-_End of translation — 301 pages._
+## Page 302
+
+--- PAGE 302 TRANSLATION ---
+
+---
+## Page 303
+
+**Arabic (original):**
+— ٢٩٦ —
+تقول يا واجد أنت الذي أوجدت نور محبتك في قلوب الأصفياء وأودعت سر محبتك في سرائر أسرار
+الأنبياء وأنت الذي أظهرت ضياء جمالك في مرآة أهل المحبة والوصال بمكان البهاء ومقام الثناء أن
+ترزقني وجدان روح نفسك في الأول والآخر والانجذاب إليك في الباطن والظاهر ولا تحوجني
+لأحد من خلقك إنك أنت الله القوي القادر ﵊ وأسماءه تعالى الماجد فهو اسم فيه حرف من الاسم
+الأعظم وملكه رقيائيل وهو رئيس على ٤ قواد تحت يد كل قائد ٤٨ صفا كل صف ٤٨ والذاكر
+ينزل عليه الملك ودعاؤه تقول يا ماجد أنت الذي أوجدت الناس من العدم إلى الوجود وأوجدت
+كل شيء بقدرتك وأنت الرب الماجد المعبود وأنت القادر القاهر وأنت الباطن الظاهر وأنت الواجب
+الوجود إلى منتهى الغايات وأنت العالم بما في الأرض والسموات عالم قادر وحكيم بصير أسألك بعظيم
+سلطانك وأجل أقسامك الخروج من هذه الدار على خير وأيدني بتأييدك يا رب العالمين ﵊ وأما
+اسمه تعالى الواحد ففيه حرف من حروف الاسم الأعظم وملكه لطيايئل وهو رئيس على ٤ قواد
+تحت يد كل قائد ١٥ صفا كل صف ١٥ والذاكر ينزل عليه الملك ودعاؤه يا واحد أنت الواحد في أحديتك
+وأنت الذي وحدت نفسك في مواطن الأسماء وأنت العالم بما تحت الثرى وبما فوق السموات
+العلى المستوي بقدرتك على عرشك الذي كان على الماء أسألك بنور وحدانيتك وضياء أحديتك
+في ضوء سنا برقك أن تجعلني مقبولا موفقا بين عبادك يا رب العالمين
+﵊ الفصل الثامن والعشرون في النمط الثامن من أسماء الله الحسنى وأسرارها النافعات ﵊
+﵊ اعلم أيها الابن الموفق أن من أسماء الله الحسنى المذل المنتقم المقيم القائم القوي القادر
+ذو البطش الشديد المقتدر هذه الأسماء العشرة من أذكار عزرائيل ﵊ ومن مدد سرها قهر
+الخصوم ونصر الذاكر على الأعداء وخراب بيت الظالمين وتبديد شملهم وتفريق كلمتهم وهلاك
+المفسدين والاستيلاء على الباغين وإذا كررها المحق يكسوه الله الهيبة الجليلة والقوة الشديدة ﵊ فأما
+أسماء تعالى القهار الشديد فإذا كررها غالب على كل أموره أنها توجه شديد البأس عظيم المودة
+ومن وفقها مكسرين في مربع ٤ على أديم طاهر وحمله على عضده لا يخاصمه أحد
+إلا كان مغلوبا مقهورا ﵊ ومن وفق أعدادها في مخمس وحمله على رأسه ألقى الله محبته
+في قلوب الناظرين ﵊ وأما أسماء تعالى المنتقم المذل فإسمان عظيمان لخراب ديار الظالمين ووقوع
+القتال بينهم والوبال عليهم ومن ذكرها بعد الشروق يوم السبت بالأعداد الواقعة عليهما ودعا
+على ظالم أخذ لوقته وإن تصوره حال الذكر فإن الله ينتقم منه ﵊ ومن كتب حروفهما مقطعة على
+باب دار الظالم الجائر يوم السبت في احتراق الشهر فإن الظالم تزول نعمته ﵊ وأما اسمه المميت
+﵊ فإذا كرره تموت شهواته من نفسه ويزول عنه الكبر والعجب ﵊ ومن ذكره على ٥٢١ نواة
+من التمر كل واحدة ٦ مرات وصور ذلك النوى صورة شخص وهو يقول هذا فلان ويصلى عليه
+صلاة الجنازة فإن الشخص يموت وبهذا السر قتل صاحب القسطنطينية لما خرج على صاحب
+صنهاجة ﵊ ولا يكتبه أحد موفتا مكسرا على شب أزرق ويحمله صاحب الطحال الأبرئ ﵊ أما أسماء
+تعالى القوي القادر فإذا كررها تقوى جوارحه ويعطى قوة خصوصا من يعاني حمل الأثقال
+والحرف
+
+**English:**
+— 296 —
+You say: O Wājid, You who brought into existence the light of Your love in the hearts of the chosen ones, and deposited the secret of Your love in the innermost secrets of the prophets, and You who manifested the radiance of Your beauty in the mirror of the people of love and union, in the place of splendor and the station of praise, that You may provide me with the finding of the spirit of Your self in the first and the last, and attraction to You in the inward and the outward, and not make me in need of anyone from Your creation. Verily You are Allah, the Strong, the Powerful. ﵊ And His تعالى name, al-Mājid: it is a name in which is a letter from the Greatest Name, and its king is Raqiyā’īl, and he is chief over 4 commanders; under the hand of every commander are 48 ranks, every rank 48, and the reciter, the king descends upon him, and his supplication: you say, O Mājid, You who brought people into existence from nonexistence into existence, and brought everything into existence by Your power, and You are the Lord, the Glorious, the Worshipped, and You are the Powerful, the Subduer, and You are the Inward, the Outward, and You are the Necessary Existent unto the utmost of ends, and You are the Knower of what is in the earth and the heavens, Knowing, Powerful, Wise, Seeing. I ask You by Your عظیم authority and Your most exalted divisions to depart from this abode upon good, and support me with Your support, O Lord of the worlds. ﵊ And as for His تعالى name, al-Wāḥid: in it is a letter from the letters of the Greatest Name, and its king is Luṭyā’īl, and he is chief over 4 commanders; under the hand of every commander are 15 ranks, every rank 15, and the reciter, the king descends upon him, and his supplication: O One, You are the One in Your oneness, and You are the One who unified Your self in the stations of the names, and You are the Knower of what is beneath the earth and what is above the highest heavens, established by Your power upon Your Throne which was upon the water. I ask You by the light of Your oneness and the radiance of Your oneness, in the light of the brilliance of Your lightning, that You make me accepted, granted success, among Your servants, O Lord of the worlds.
+
+﵊ Chapter twenty-eight, in the eighth pattern of the Beautiful Names of Allah and their beneficial secrets ﵊
+
+﵊ Know, O successful son, that among the Beautiful Names of Allah are: al-Mudhill, al-Muntaqim, al-Muqīm, al-Qā’im, al-Qawī, al-Qādir, Dhū al-Baṭsh al-Shadīd, al-Muqtadir. These ten names are from the remembrances of ʿAzrā’īl. ﵊ And from the support of their secret: subduing adversaries, and the victory of the reciter over enemies, and the ruin of the house of the wrongdoers, and the scattering of their assembly, and the dispersal of their word, and the destruction of the corrupters, and gaining mastery over the insolent; and if the one who is in the right repeats them, Allah clothes him with majestic awe and intense strength. ﵊ As for His تعالى names al-Qahhār, al-Shadīd: if a victor over all his affairs repeats them, it is that he is directed with severe might, great affection. And whoever arranges them broken up in a square of 4 upon a pure skin and carries it upon his upper arm, no one disputes with him except that he is vanquished, subdued. ﵊ And whoever arranges their numbers in a pentagon and carries it upon his head, Allah casts his love into the hearts of the beholders. ﵊ And as for His تعالى names al-Muntaqim, al-Mudhill: they are two great names for the ruin of the abodes of the wrongdoers and the وقوع of fighting among them and the calamity upon them; and whoever remembers them after sunrise on Saturday with the numbers falling upon them and supplicates against a wrongdoer, he is taken at his time; and if he imagines him during the remembrance, then Allah takes vengeance upon him. ﵊ And whoever writes their letters separated on the door of the house of the tyrannical wrongdoer on Saturday in the burning of the month, then the wrongdoer’s favor will depart. ﵊ And as for His name al-Mumīt: ﵊ if he repeats it, his desires die from his self, and arrogance and self-admiration depart from him. ﵊ And whoever remembers it upon 521 date-stones, each one 6 times, and depicts that stone in the form of a person while he says: this is so-and-so, and prays over him the funeral prayer, then the person dies; and by this secret the صاحب of Constantinople was killed when he went out against the صاحب of Ṣanhāja. ﵊ And let no one write it muwaffatan broken up upon blue mesh and carry it; the owner of the spleen al-abra’... ﵊ As for His تعالى names al-Qawī, al-Qādir: if he repeats them, his limbs grow strong and he is given strength, especially one who suffers carrying heavy loads and the letters
+
+--- PAGE 303 TRANSLATION ---
+
+---
+## Page 304
+
+**Arabic (original):**
+— ٢٩٧ —
+والحرف الشديدة فإنه لا يحس بتعب ولا نصب * ومن وفق أعدادها في خاتم فضة وتختم به أعانه
+الله على حمل الأثقال * وأما أسماؤه تعالى ذو البطش الشديد المقتدر فلا يدعو بها مظلوم إلا أخذ
+الله ظلامه أخذ عزيز مقتدر * وأما اسمه تعالى الأحد ففيه حرف من الاسم الأعظم وملكه حنيائيل
+وهو رئيس على ٤ قواد تحت يد كل قائد ١٣ صفا كل صف ١٣ * والذاكر ينزل عليه الملك
+ودعاؤه تقول يا أحد أنت الذي وحدت نفسك في مواطن الأشياء وأنت الذي لا يعزب
+عنك مثقال ذرة في الأرض ولا في السماء وأنت العالم بما تحت الثرى وما في السموات العلى الرحمن
+على العرش استوى أسألك بنور وحدانيتك وضياء أحديتك أن تجعلني واحد الشهود منفصلا بالعلم
+والعرفان إنك أنت الله الواحد الديان * وأما اسمه تعالى الفرد فهو اسم عظيم وملكه جهطائيل
+وهو رئيس على ٤ قواد تحت يد كل قائد ٢٨٤ صفا كل صف ٢٨٤ والذاكر ينزل عليه كما تقدم
+ودعاؤه تقول يا فرد أنت الذي تفردت في ملكك بالوحدانية وأنت الدائم الباقي بالصمدانية إليك
+وجهت وبك اعتصمت وعلى فضلك اعتمدت ليس لك في ملكك شريك ولا وزير
+ولا مدير ولا مشير وأنت على كل شيء قدير أسألك أن تجري على يدي ولساني قضاء الحوائج للخلق
+وأن تعصمني عن الموبقات والعثرات إنك ولي الخيرات ودافع الشبهات * وأما اسمه تعالى
+الصمد فهو اسم عظيم وملكه نوريائيل وهو رئيس على ٤ قواد تحت يد كل قائد ١٣٤ صفا كل
+صف ١٣٤ والذاكر ينزل عليه الملك ودعاؤه يا صمد أنت الذي صمد إليك في الحوائج والملجأ
+إليك في الكروب والشدائد وأنت الذي تعطي وتمنع من فضلك عوائد العوائد أسألك باستغنائك
+عن خلقك وافتقارهم إليك أن تجعلني مقصدا للعباد في المهمات وأن تجري على لساني ويدي قضاء
+الحاجات وتعصمني من الموبقات إنك أنت دليل الخيرات * وأما اسمه تعالى القادر ففيه حرف من
+الاسم الأعظم وملكه هطائيل وهو رئيس على ٤ قواد تحت يد كل قائد ٣٠٥ صفا كل صف
+٣٠٥ والروح ينزل على الذاكر ودعاؤه يا قادر أنت الذي أنفذت قدرتك في كون الذوات وأنت
+الذي أظهرت مرادك بتبديل السيئات بالحسنات وأنت الجامع للمتفرقات أسألك اللهم بعظيم الآيات
+أن تجعلني قادرا على دفع الزلات إنك المنزه عن التحيز والحجاب * وأما اسمه تعالى المقتدر فهو اسم
+عظيم وخادمه حفيائيل وهو رئيس على ٤ قواد تحت يد كل قائد ٤٤ صفا كل صف ٤٤
+والروح ينزل على الذاكر ودعاؤه تقول يا مقتدر أنت الذي جمعت بين أحبابك في دار الرضوان
+وأنت الذي أحللت مرآة من توجه إليك لظهور سر الأمن والأمان أسألك بعظيم قدرتك أن ترزقني
+الوصول إلى سنابك والثبات * تقيد رؤيتك واحني ذا لا كون بوفاء حقك لك قائما
+يارب العالمين * وأما اسمه تعالى المقدم فهو اسم عظيم فيه حرفان من الاسم الأعظم وملكه
+قيعائيل وهو رئيس على ٤ قواد تحت يد كل قائد ١٨٤ صفا كل صف ١٨٤ والذاكر
+ينزل عليه الملك * ودعاؤه تقول يا مقدم أنت الذي قدمت أهل الولاية إلى دار الخلود وفهمتهم
+أسرار مراتب الكشف والشهود ونورت بصائرهم لرؤية آثار تجليات الملك المعبود * أسألك
+بقدرتك التي قدرت بها على جميع خلقك وبرحمتك المنبثة على أهل برك وبحرك أن تجعلني مقدما
+
+**English:**
+— 297 —
+and the severe letters, for he feels no fatigue nor weariness. * And whoever arranges their numbers in a silver ring and seals with it, Allah aids him in carrying heavy loads. * And as for His تعالى names Dhū al-Baṭsh al-Shadīd, al-Muqtadir: no oppressed one calls upon them except that Allah takes his wrongs, the taking of the Mighty, the Powerful. * And as for His تعالى name al-Aḥad: in it is a letter from the Greatest Name, and its king is Ḥuniyā’īl, and he is chief over 4 commanders; under the hand of every commander are 13 ranks, every rank 13. * And the reciter, the king descends upon him, and his supplication: you say, O Aḥad, You who unified Your self in the stations of things, and You from whom there is not absent the weight of an atom in the earth nor in the heaven, and You are the Knower of what is beneath the earth and what is in the highest heavens, the Merciful, upon the Throne established. I ask You by the light of Your oneness and the radiance of Your oneness that You make me one of witnessing, separated by knowledge and gnosis. Verily You are Allah, the One, the Requiter. * And as for His تعالى name al-Fard: it is a great name, and its king is Jahṭā’īl, and he is chief over 4 commanders; under the hand of every commander are 284 ranks, every rank 284, and the reciter, the king descends upon him as has preceded, and his supplication: you say, O Fard, You who singled out Your kingdom with oneness, and You are the enduring, the remaining, by the Samadāniyyah. To You I have turned, and by You I have held fast, and upon Your bounty I have relied. There is not for You in Your kingdom a partner, nor a vizier, nor a director, nor a counselor, and You are over everything powerful. I ask You that You cause to flow upon my hand and my tongue the fulfillment of the needs of creation, and that You protect me from the ruinous things and slips. Verily You are the guardian of good things and the repeller of doubts. * And as for His تعالى name al-Ṣamad: it is a great name, and its king is Nūriyā’īl, and he is chief over 4 commanders; under the hand of every commander are 134 ranks, every rank 134, and the reciter, the king descends upon him, and his supplication: O Ṣamad, You to whom needs are directed, and refuge is sought in tribulations and hardships, and You who give and withhold from Your bounty the customary of customs. I ask You by Your being free of need from Your creation and their neediness toward You that You make me a مقصد for the servants in important matters, and that You cause to flow upon my tongue and my hand the fulfillment of needs, and protect me from the ruinous things. Verily You are the guide of good things. * And as for His تعالى name al-Qādir: in it is a letter from the Greatest Name, and its king is Haṭā’īl, and he is chief over 4 commanders; under the hand of every commander are 305 ranks, every rank 305, and the spirit descends upon the reciter, and his supplication: O Qādir, You who have carried out Your power in the being of essences, and You who manifested Your will by changing evil deeds into good deeds, and You are the gatherer of the scattered. I ask You, O Allah, by the great signs, that You make me able to دفع slips. Verily You are exalted above localization and veiling. * And as for His تعالى name al-Muqtadir: it is a great name, and its servant is Ḥafiyā’īl, and he is chief over 4 commanders; under the hand of every commander are 44 ranks, every rank 44, and the spirit descends upon the reciter, and his supplication: you say, O Muqtadir, You who gathered Your beloved ones in the Abode of Pleasure, and You who placed the mirror of whoever turned toward You for the ظهور of the secret of security and safety. I ask You by Your great power that You provide me with reaching the peaks and steadfastness. * Tie your vision and bend this, so that I may be standing in fulfillment of Your right to You, O Lord of the worlds. * And as for His تعالى name al-Muqaddim: it is a great name in which are two letters from the Greatest Name, and its king is Qiyā’īl, and he is chief over 4 commanders; under the hand of every commander are 184 ranks, every rank 184, and the reciter, the king descends upon him. * And his supplication: you say, O Muqaddim, You who advanced the people of wilayah to the Abode of Eternity and made them understand the secrets of the degrees of unveiling and witnessing, and illuminated their inner sights for seeing the آثار of the manifestations of the King, the Worshipped. * I ask You by Your power by which You had power over all Your creation, and by Your mercy spread over the people of Your kindness and Your sea, that You make me advanced
+
+---
+## Page 305
+
+**Arabic (original):**
+- ٢٩٩ -
+
+وأسرارهم أجراً غير ممنون المكنت المظهر أنواع الكائنات الكاف والنون * وأما اسمه تعالى
+أوان فاسم عظيم فيه حرف من الاسم الأعظم وملكه إيسائيل وهو رئيس على ٤ قواد تحت يد كل
+قائد ٤٧ صفاً كل صف ٤٧ والروح ينزل على الذاكر ودعاؤه تقول يا ولي أنت الذي توليت أمر
+البرية وكلمت ذواتهم برفع البينية وأوصلت كل مخلوق لما خلقته له من المواهب السنية أسألك اللهم الولاية
+الكبرى والحكمة العليا والنور الأبهى والوصول إلى المسجد الأقصى وارزقني رؤية حقائق
+الأشياء بكشف منازل الأنبياء إنك جزيل الخير والنعماء * وأما اسمه تعالى المهيمن فهو اسم
+عظيم والملك المخلوق من عدده معيائيل وهو رئيس على ٤ قواد تحت يد كل قائد ٥٤١ صفاً كل صف
+٥٤١ والروح ينزل على الذاكر ودعاؤه تقول اللهم أنت الذي فتحت طرق الهداية وعرفت
+أولياءك أسرار الكشف والفتح والدراية ونورت بصائر أهل العرفان وخلصتهم من الضلالة
+والغواية أسألك بعلو شأنك وقوة سلطانك واستيلاء أمرك وبرهانك أن ترفعني من حضيض
+الانسفال إلى فتق الجمع والكمال وأيدني بأحسن النوال وحقق مناهج بواطن الوصال إنك أنت
+الله المحسن الفعال * وأما اسمه تعالى البر ففيه حرف من الاسم الأعظم وملكه فيائيل وهو رئيس
+على ٤ قواد تحت يد كل قائد ٢٠٢ صفاً كل صف ٢٠٢ والروح ينزل على الذاكر ودعاؤه تقول
+يا بر أنت الذي أحسنت لكل مخلوق بقدرتك وأنت الذي أخفيت كل ناقص وأخفيت أمره في
+أمرك وأنت المحسن المتفضل على من أقبل عليك بجلوس الإيمان راجعاً إليك بقلب ولسان
+وأنت الذي تقصم الطغاة وتشدد العقاب على الطغاة وتعفو عن المذنبين وتبدل سيئاتهم حسنات ذو
+الرأفة في حق الراضين والرحمة في حق الصالحين والعزة والكبرياء في حق الآيبين إليك والراحمين
+إلى يوم الدين
+
+( الفصل التاسع والعشرون في النمط التاسع وما فيه من التصريفات الخفيات )
+* اعلم وفقك الله أن من أسماء الله تعالى المنعم المتفضل المحسن الجواد الرافع الباسط الغافر المجيب
+السميع هذه الأسماء من مدد سرها انغماس الذاكر في نعم مولاه واغتباطه فيها بجزيل فضله
+ودوام إحسانه في الدنيا والآخرة وسماحة النفس وحسن الخلق ورفع الهمة وبسط رزقه وعلمه
+وستر عيوبه وإجابة دعائه وإسراع قضاء حوائجه وزيادة عقله وقوة إيمانه وجودة فهمه وحفظ النعم
+ورد شاردها وإلهام الشكر عليها * فأما أسماءه تعالى المنعم المتفضل عظيمان لا يسأل الله تعالى
+ذاكرها في شيء من الإنعام والفضل إلا أعطاه فوق ما سأل * وأما أسماءه تعالى المحسن الجواد
+فذاكرها يمده الله من جوده وإحسانه مما لا نهاية له من كثرة الخيرات وتواصل الأسرار ومن
+وفقها مكسرين في كاغد نقي وحمله معه حسنت أخلاقه ورقت طبائعه وجادت نفسه ويصلح
+ذكره لمن كان في نفسه شح وبخل فإنه نفسه تزكو ويرزقه الله مكارم الأخلاق * وأما أسماءه تعالى
+الرافع الباسط عظيمان وهما من أذكار ملائكة العرش ذاكرها يمده الله بمدده ويزيده
+بسطة في العلم والجسم والمال ويرفع قدره وذكره * ومن وفقهما في مربع على خاتم ذهب وتختم به
+لا يزال فرحاً مسروراً * وأما اسمه تعالى المجيب السميع فاسمان عظيمان ذاكرها لا يدعو الله في
+
+**English:**
+- 299 -
+
+And their secrets, a reward unfailing. Al-Mukannat, Al-Muzhir, the kinds of beings, al-Kaf and al-Nun. And as for His, Exalted is He, name, Awan, it is a عظیم name in which is a letter from the Greatest Name, and its king is Isā’īl, and he is chief over 4 commanders; under the hand of each commander are 47 ranks, each rank 47. And the spirit descends upon the one who remembers, and its supplication: you say, O Walī, You who have undertaken the affair of the wilderness and have spoken to their essences by the raising of the between-ness, and have conveyed every creature to that for which You created it of the lofty gifts, I ask You, O Allah, the greater guardianship, the highest wisdom, the most splendid light, and arrival to al-Masjid al-Aqsa, and provide me with the vision of the realities of things by the unveiling of the stations of the prophets; surely You are abundant in good and bounties. * And as for His, Exalted is He, name, al-Muhaymin, it is a عظیم name, and the angel created from its number is Mīyā’īl, and he is chief over 4 commanders; under the hand of each commander are 541 ranks, each rank 541. And the spirit descends upon the one who remembers, and its supplication: you say, O Allah, You who have opened the paths of guidance and made known to Your saints the secrets of unveiling, opening, and knowledge, and have illuminated the insights of the people of gnosis and delivered them from misguidance and error, I ask You by the loftiness of Your شأن, the strength of Your authority, the predominance of Your command and Your proof, that You raise me from the lowliness of decline to the rending of gathering and perfection, and support me with the best of grants, and realize the paths of the inward aspects of union; surely You are Allah, the beneficent doer. * And as for His, Exalted is He, name, al-Barr, in it is a letter from the Greatest Name, and its king is Fīyā’īl, and he is chief over 4 commanders; under the hand of each commander are 202 ranks, each rank 202. And the spirit descends upon the one who remembers, and its supplication: you say, O Barr, You who have done good to every creature by Your power, and You who have hidden every deficient one and hidden his affair in Your command, and You are the beneficent, the bountiful toward him who turns to You with the sitting of faith, returning to You with heart and tongue, and You who crush the tyrants and intensify punishment upon the tyrants and pardon the sinners and change their evil deeds into good deeds, possessing compassion in the right of the contented, and mercy in the right of the righteous, and might and pride in the right of those returning to You, and the merciful ones, until the Day of Religion.
+
+(Chapter twenty-ninth on the ninth pattern and what is in it of the hidden transformations)
+* Know, may Allah grant you success, that among the names of Allah, Exalted is He, are al-Mun‘im, al-Mutafaddil, al-Muhsin, al-Jawad, al-Rafi‘, al-Basit, al-Ghafir, al-Mujib, al-Sami‘. These names, from the support of their secret, are the immersion of the rememberer in the favors of his Master and his rejoicing in them by the abundant bounty of His grace and the دوام of His beneficence in this world and the Hereafter, and the generosity of the soul, and good character, and the raising of aspiration, and the expansion of his provision and his knowledge, and the covering of his faults, and the answering of his supplication, and the hastening of the fulfillment of his needs, and the increase of his intellect, and the strength of his faith, and the excellence of his understanding, and the preservation of blessings, and the return of its stray one, and the inspiration of gratitude for them. * As for His, Exalted is He, names al-Mun‘im al-Mutafaddil, they are two عظیم names; Allah, Exalted is He, does not ask the rememberer of them in anything of beneficence and فضل except that He gives him above what he asked. * And as for His, Exalted is He, names al-Muhsin al-Jawad, then the one who remembers them, Allah supports him from His generosity and His beneficence with that which has no end of abundance of good things and continuous secrets, and whoever is granted them, crushed in pure paper and carried with him, his character becomes good, his natures become gentle, and his soul becomes generous, and its remembrance is suitable for one in whose soul is stinginess and avarice, for his soul becomes purified and Allah provides him with noble character. * And as for His, Exalted is He, names al-Rafi‘ al-Basit, they are two عظیم names, and they are among the remembrances of the angels of the Throne; the one who remembers them, Allah supports him with His support and increases him in expansion in knowledge, body, and wealth, and raises his rank and his mention. * And whoever is granted them in a square upon a gold ring and seals with it, he remains ever joyful, delighted. * And as for His, Exalted is He, name al-Mujib al-Sami‘, they are two عظیم names; the one who remembers them does not call upon Allah in
+
+---
+_End of translation — 305 pages._
