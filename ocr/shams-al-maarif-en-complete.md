@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 305 translated pages._
+_Auto-generated from 309 translated pages._
 
 ---
 ## Page 1
@@ -17392,4 +17392,177 @@ And their secrets, a reward unfailing. Al-Mukannat, Al-Muzhir, the kinds of bein
 * Know, may Allah grant you success, that among the names of Allah, Exalted is He, are al-Mun‘im, al-Mutafaddil, al-Muhsin, al-Jawad, al-Rafi‘, al-Basit, al-Ghafir, al-Mujib, al-Sami‘. These names, from the support of their secret, are the immersion of the rememberer in the favors of his Master and his rejoicing in them by the abundant bounty of His grace and the دوام of His beneficence in this world and the Hereafter, and the generosity of the soul, and good character, and the raising of aspiration, and the expansion of his provision and his knowledge, and the covering of his faults, and the answering of his supplication, and the hastening of the fulfillment of his needs, and the increase of his intellect, and the strength of his faith, and the excellence of his understanding, and the preservation of blessings, and the return of its stray one, and the inspiration of gratitude for them. * As for His, Exalted is He, names al-Mun‘im al-Mutafaddil, they are two عظیم names; Allah, Exalted is He, does not ask the rememberer of them in anything of beneficence and فضل except that He gives him above what he asked. * And as for His, Exalted is He, names al-Muhsin al-Jawad, then the one who remembers them, Allah supports him from His generosity and His beneficence with that which has no end of abundance of good things and continuous secrets, and whoever is granted them, crushed in pure paper and carried with him, his character becomes good, his natures become gentle, and his soul becomes generous, and its remembrance is suitable for one in whose soul is stinginess and avarice, for his soul becomes purified and Allah provides him with noble character. * And as for His, Exalted is He, names al-Rafi‘ al-Basit, they are two عظیم names, and they are among the remembrances of the angels of the Throne; the one who remembers them, Allah supports him with His support and increases him in expansion in knowledge, body, and wealth, and raises his rank and his mention. * And whoever is granted them in a square upon a gold ring and seals with it, he remains ever joyful, delighted. * And as for His, Exalted is He, name al-Mujib al-Sami‘, they are two عظیم names; the one who remembers them does not call upon Allah in
 
 ---
-_End of translation — 305 pages._
+## Page 306
+
+**Arabic (original):**
+--- ٣٠٠ ---
+شيء إلا أجابه في الوقت ومن كتب في يده اليسرى المجيب وفي اليمنى السميع ورفعهما إلى السماء
+ودعا الله بما شاء استجيب له وهذا السر سر السر * وأما اسمه تعالى التواب فهو اسم عظيم
+خادمه ميكائيل وهو رئيس على ٤ قواد تحت يد كل قائد ٤٠٩ صفا كل صف ٤٠٩ والروح
+ينزل على الذاكر ودعاؤه تقول يا تواب أنت التواب على من تاب والمقرب لمن أناب وأنت الذي
+بثت نور كرمك على قلوب الطلاب وأنت الذي أحييت أرواح أهل الروح والمآب حتى رجعوا
+إليك بهداوا إليك بسرائرهم وتابوا إليك بقلوبهم ومالوا إليك بظواهرهم منك الخوف والتأييد
+وإليك مال القريب والبعيد أسألك اللهم بنور التوبة وضياء الأوبة وكمال الرأفة والرحمة وأن ترتقي
+الإياب إليك سرا وجهرا والوقوف لديك حكما وأمرا واحفظني بكرمك حتى لا أنقهر إن محال
+التفرقة عيا وجهرا واجبرني بنظرة منك لأنال سر قولك سيجعل الله بعد عسر يسرا * وأما اسمه
+المنتقم فهو اسم عظيم فيه حرف من الاسم الأعظم وخادمه عنائيل وهو رئيس على أربع قواد تحت
+يد كل قائد ٢٣٠ صفا كل صف ٢٣٠ والذاكر ينزل عليه الروح ودعاؤه تقول يا منتقم أنت
+الذي قهرت الجبابرة وكسرت الفراعنة بالفناء والزوال أسألك بأسرار أنوار الوصال في مقام
+الامتثال أن تقضي حاجتي وتعصمني من نظرة الانتقام وأن تجعلني من أهل الكرم والإنعام وأن
+تتولى عندي قابلا مر السلام إنك أنت الله ذو الجلال والإكرام * وأما اسمه تعالى العفو فهو اسم
+عظيم وملكه هضائيل وهو رئيس على أربع قواد تحت يد كل قائد ١٥٦ صفا كل صف ١٥٦
+والذاكر ينزل عليه الملك ودعاؤه تقول يا عفو أنت الذي كشفت عن أحبابك الكثرة وأنت الذي
+أزلت عن طلاب جنابك الموبقات والعثرة وأنت الذي نورت بصائرهم من حين إخراج الذرة لك
+الحمد والثناء والجود والبقاء أسألك اللهم بجلال نعمك وجريان قلمك مكنونات دقائق رقك أن
+تمحوني بك ولا تحوجني لأحد غيرك في برك وبحرك وأن ترزقني بقاء عاجلا
+وفكرا عالما وعالما نافعا إنك أنت العزيز الحكيم * وأما اسمه تعالى الرؤوف فهو اسم عظيم
+فيه حرف من حروف الاسم الأعظم والملك المخلوق منه جهايل عليه السلام وهو رئيس على
+أربع قواد تحت يد كل قائد ٢٨٦ صفا كل صف ٢٨٦ والذاكر ينزل عليه الملك كما تقدم
+وأما الدعاء بهذا الاسم الشريف فتقول يا رؤوف أنت الذي مننت على أحبابك بحياة العلم
+والعبادة ومنحتهم جلائل أنواع الخير والسيادة وأدخلتهم بتأييدك دار السعادة وكمّلت ذواتهم
+بالمعرفة والشهادة أسألك بدقيق علمك وجليل حلمك أن تجعلني رؤوفا بالعباد واحد الأفراد مقبلا
+عليك يوم التناد ولا تحوجني لأحد من خلقك سوى نبيك بالانفراد وأن ترزقني المقام والقرار
+في أقدس البلاد إنك أنت الله الداعي للعباد يوم التناد * وأما اسمه تعالى الملك ذو الجلال
+والإكرام فهو اسم عظيم والملك المخلوق منه رومائيل وهو رئيس على أربع قواد تحت يد كل قائد
+٢١٢ صفا كل صف ٢١٢ ودعاؤه تقول يا مالك الملك أنت الذي ملكت أزمة رقاب الخلائق
+وأنت الذي أوجدتهم من العدم وقيدتهم بالعلائق وأنت الذي نثرت عليهم من خزائنك وإحسانك
+علوما فعرفوا بها كشف الطريق وحقائق لك نفوذ المشيئة والإرادة والإحاطة بما هو المراد في
+عوالى
+
+**English:**
+--- 300 ---
+Anything, except that He answered him in the time. And whoever writes in his left hand “the Answerer” and in his right hand “the Hearer,” and raises them to the sky, and calls upon God with whatever he wills, it will be answered for him. And this secret is the secret of the secret. * And as for His تعالى name, التواب, it is a عظیم name; its servant is ميكائيل, and he is chief over 4 commanders, under the hand of each commander 409 ranks, each rank 409, and the spirit descends upon the one who remembers. And its invocation: you say, O Tawwab, You are the Tawwab upon him who repented, and the One who brings near him who turns in repentance, and You are the One who spread the light of Your generosity upon the hearts of the seekers, and You are the One who gave life to the spirits of the people of spirit and return, until they returned to You, guided to You by their innermost secrets, and repented to You with their hearts, and inclined to You with their outward forms; from You is fear and support, and to You inclined the near and the far. I ask You, O God, by the light of repentance and the radiance of return and the perfection of tenderness and mercy, and that You raise the return to You secretly and openly, and standing before You as judgment and command, and preserve me by Your generosity so that I am not overpowered, if the impossibility of separation is openly and publicly, and mend me with a glance from You so that I may attain the secret of Your saying: “God will make after hardship ease.” * And as for His name, المنتقم, it is a عظیم name in which is a letter from the الاسم الأعظم, and its servant is عنائيل, and he is chief over four commanders, under the hand of each commander 230 ranks, each rank 230, and the spirit descends upon the one who remembers. And its invocation: you say, O Avenger, You are the One who subdued the tyrants and broke the pharaohs by annihilation and disappearance. I ask You by the secrets of the lights of union in the station of compliance that You fulfill my need and protect me from the glance of vengeance, and that You make me among the people of generosity and beneficence, and that You take charge with me, a coming, the bitter of peace. Indeed, You are God, Possessor of majesty and honor. * And as for His تعالى name, العفو, it is a عظیم name; its king is هضائيل, and he is chief over four commanders, under the hand of each commander 156 ranks, each rank 156, and the one who remembers, the king descends upon him. And its invocation: you say, O Pardoner, You are the One who removed from Your beloved ones the multitude, and You are the One who removed from the seekers of Your presence the destructive sins and the stumble, and You are the One who illuminated their inner sights from the time of the bringing forth of the atom. To You is praise and laudation and generosity and permanence. I ask You, O God, by the majesty of Your favors and the running of Your pen, the hidden subtleties of Your gentleness, that You erase me by You and do not make me in need of anyone other than You in Your land and Your sea, and that You provide me with an immediate permanence and a knowing thought and a beneficial world. Indeed, You are the Mighty, the Wise. * And as for His تعالى name, الرؤوف, it is a عظیم name in which is a letter from the letters of the الاسم الأعظم, and the created king from it is جهايل, peace be upon him, and he is chief over four commanders, under the hand of each commander 286 ranks, each rank 286, and the one who remembers, the king descends upon him as has preceded. And as for the invocation by this noble name, you say: O Ra’uf, You are the One who bestowed upon Your beloved ones the life of knowledge and worship, and granted them the great kinds of good and sovereignty, and admitted them by Your support into the abode of happiness, and perfected their essences with knowledge and testimony. I ask You by Your subtle knowledge and Your great forbearance that You make me compassionate toward the servants, one of the individuals, turning toward You on the Day of Calling, and do not make me in need of anyone from Your creation except Your Prophet, by singularity, and that You provide me with station and abode in the most sacred lands. Indeed, You are God, the Caller of the servants on the Day of Calling. * And as for His تعالى name, الملك ذو الجلال والإكرام, it is a عظیم name, and the created king from it is رومائيل, and he is chief over four commanders, under the hand of each commander 212 ranks, each rank 212, and its invocation: you say, O Possessor of the Kingdom, You are the One who possessed the reins of the necks of the creatures, and You are the One who brought them into existence from nonexistence and bound them with ties, and You are the One who scattered upon them from Your treasuries and Your beneficence sciences, so they knew by them the unveiling of the path and realities. To You is the نفوذ of will and desire and encompassing of what is intended in the highest
+
+---
+## Page 307
+
+**Arabic (original):**
+— ٣٠١ —
+
+عوالم نعمك بنور العبادة ونزاهة تنزهت في ذاتك وتكرمت في صفاتك أسألك اللهم بملكك الدائم
+وجلالك القائم أن تجعلني نفاذاً لأمرك في المهالك قادراً على حفظ نفسي وحفظ حقك في الممالك
+وانصرني على الأعداء وقوني بتواتر الآلاء لأنال منك حقائق الأسرار إنك أنت الله الواحد القهار
+۝ وأما اسمه تعالى المقسط فهو اسم عظيم فيه حرف من حروف الاسم الأعظم والملك المخلوق من
+عدده جلهاييل وهو رئيس على ٤ قواد تحت يد كل قائد ٢٠٩ صفا كل صف ٢٠٩ والذاكر
+ينزل عليه الملك وأما دعاؤه فتقول يا مقسط أنت الذي عدلت بين البرايا في خلقهم ذاتاً وصفات
+وأنت الذي وصل فضلك إلى كل مخلوق ونال حظه بالكمال والوقار أسألك أن ترزقني العدل في
+الأقوال والأفعال عند العارفين والجهال إنك أنت الله الكبير المتعال ۝ وأما اسمه تعالى الجامع فهو
+اسم عظيم فيه حرف من حروف الاسم الأعظم والملك المخلوق من عدده رقبائيل وهو رئيس
+على ٤ قواد تحت يد كل قائد ١١٤ صفا كل صف ١١٤ وأما الدعاء به فتقول يا جامع أنت الذي جمعت
+بين الذرات على ظهور خلقتك يوم الميثاق ثم ثبتهم بالأخذ عليهم بالأزل والإطلاق وأنت الذي
+أخرجتهم من الوجود العلمي كائن بالقبر والشقاق أسألك سر ما أودعته من حقائق الصفات
+والأخلاق أن تجمع شملي بك يوم التلاق وأن تظهر لي على فوائد حكم قولك والتفت الساق بالساق
+ولا تخيب رجاي بإقبالي عليك ووقوفي لديك إنك أنت العزيز الخالق ۝ وأما اسمه تعالى الغني
+فهو اسم عظيم فيه حرف من الاسم الأعظم وملكه رمائيل رئيس على ٤ قواد تحت يد كل قائد
+١٠٦٠ صفا كل صف ١٠٦٠ والذاكر ينزل عليه الملك ودعاؤه يا غني أنت المغني وأنت القادر
+على ما تشاء قادر على قهر كل شيء وكل قوى وأنت الآخذ بناصية كل عالٍ والمعطي جلائل نعمك
+لكل مخلوق أسألك بما فيه فتح ونصر وأن تقويني بحياتك الأزلية حتى أقف لديك على قدم التوكل
+والافتقار وانصرني على دفع ما يمنعني عنك إنك أنت الله العزيز الغفار ۝ وأما اسمه المغني ففيه
+حرف من الاسم الأعظم وملكه ههائيل وهو رئيس على أربع قواد تحت يد كل قائد ١١٠٠ صفا
+كل صف ١١٠٠ والذاكر ينزل عليه الملك ودعاؤه يا مغني أنت المدير لأمور الخلائق ومتوليها وأنت
+المخرج ذواتهم من اليم العدم وموليها بمد تدبيرك وجمعت بينهم في البرزخ الأدنى بأفعالهم وصفاتهم
+نصرت المظلوم وأضفت إلى رضا المظلوم وألفت بين المتقابلات والمتباينات والمضادات
+التي لا تعلق له بغيره لا في ذاته ولا في صفاته ولا في أفعاله وأنت المغني بعنايتك من طلب قضاء الحاجات
+يا مقلب القلوب والنيات ومصرف الأمور إلى النواحي والجهات أسألك أن ترزقني حسن التدبير
+والمعاملات وأن تجعلني عدلاً في الإنصاف جامعاً بين المضاف إليه والمضاف يارب العالمين ۝ وأما
+اسمه تعالى المانع ففيه حرف من الاسم الأعظم وملكه رمائيل وهو رئيس على أربع قواد
+تحت يد كل قائد ١٦١ صفا كل صف ١٦١ والذاكر ينزل عليه الملك وأما الدعاء بهذا الاسم فتقول
+يا مانع أنت الذي منعت حماك القلوب الفجرة وأنت الذي أعميت الفئة الكفرة وأنت الذي حجبت
+الأعداء عن رؤية منازل الكرام البررة أسألك بحياتك القائم وظهور فضلك الدائم أن تمنع
+عني كيد الشيطان وأن تدخلني دار الأمن والأمان وتجعلني راضياً بحظي منك في الجنان ياقوي
+
+**English:**
+— 301 —
+
+worlds of Your favors, by the light of worship and purity; You are purified in Your Essence and ennobled in Your Attributes. I ask You, O God, by Your enduring kingdom and Your abiding majesty, that You make me effective for Your command in the perils, able to preserve my self and preserve Your right in the kingdoms, and support me against the enemies and strengthen me by the succession of favors, so that I may attain from You the realities of the secrets. Indeed, You are God, the One, the Subduer. ۝ And as for His تعالى name, المقسط, it is a عظیم name in which is a letter from the letters of the الاسم الأعظم, and the created king from its number is جلهاييل, and he is chief over 4 commanders, under the hand of each commander 209 ranks, each rank 209, and the one who remembers, the king descends upon him. And as for its invocation, you say: O Equitable One, You are the One who made just between the creatures in their creation, essence and attributes, and You are the One whose bounty reached every creature and whose share attained perfection and dignity. I ask You to provide me with justice in sayings and deeds among the knowers and the ignorant. Indeed, You are God, the Great, the Most High. ۝ And as for His تعالى name, الجامع, it is a عظیم name in which is a letter from the letters of the الاسم الأعظم, and the created king from its number is رقبائيل, and he is chief over 4 commanders, under the hand of each commander 114 ranks, each rank 114. And as for the invocation by it, you say: O Gatherer, You are the One who gathered between the atoms upon the appearance of Your creation on the Day of the Covenant, then established them by taking upon them from pre-eternity and absoluteness, and You are the One who brought them out from the scientific existence, being in the grave and the splitting. I ask You, the secret of what You deposited of the realities of attributes and morals, that You gather my whole with You on the Day of Meeting, and that You show me the benefits of the wisdom of Your saying, “and the shin will be joined to the shin,” and do not disappoint my hope by my turning toward You and my standing before You. Indeed, You are the Mighty, the Creator. ۝ And as for His تعالى name, الغني, it is a عظیم name in which is a letter from the الاسم الأعظم, and its king is رمائيل chief over 4 commanders, under the hand of each commander 1060 ranks, each rank 1060, and the one who remembers, the king descends upon him. And its invocation: O Rich One, You are the Enricher, and You are the قادر over what You will, قادر over subduing every thing and every power, and You are the One taking by the forelock of every lofty one and giving the great favors to every creature. I ask You by that in which is opening and victory, and that You strengthen me by Your pre-eternal life until I stand before You on the foot of trust and neediness, and support me in دفع what prevents me from You. Indeed, You are God, the Mighty, the Forgiving. ۝ And as for His name, المغني, in it is a letter from the الاسم الأعظم, and its king is ههائيل, and he is chief over four commanders, under the hand of each commander 1100 ranks, each rank 1100, and the one who remembers, the king descends upon him. And its invocation: O Enricher, You are the manager of the affairs of the creatures and their undertaker, and You are the One bringing out their essences from the sea of nonexistence and undertaking them by the extension of Your management, and You gathered between them in the lower barzakh by their deeds and attributes. You supported the oppressed and added to the satisfaction of the oppressed and united between the opposites and the disparate and the contraries, which have no تعلق to other than Him, neither in His Essence nor in His Attributes nor in His Acts. And You are the Enricher by Your care of whoever seeks the fulfillment of needs. O Turner of hearts and intentions and Disposer of affairs to the sides and directions, I ask You to provide me with good management and dealings, and that You make me just in fairness, gathering between the annexed-to and the annexed, Lord of the worlds. ۝ And as for His تعالى name, المانع, in it is a letter from the الاسم الأعظم, and its king is رمائيل, and he is chief over four commanders, under the hand of each commander 161 ranks, each rank 161, and the one who remembers, the king descends upon him. And as for the invocation by this name, you say: O Preventer, You are the One who prevented Your sanctuary from the wicked hearts, and You are the One who blinded the unbelieving faction, and You are the One who veiled the enemies from seeing the stations of the noble, the pious. I ask You by Your abiding life and the manifestation of Your enduring bounty that You prevent from me the plotting of Satan, and that You admit me into the abode of security and safety, and make me content with my portion from You in the gardens. O Strong One
+
+---
+## Page 308
+
+**Arabic (original):**
+- ٣٠٣ -
+
+البرهان ياعظيم الشأن والإحسان يارب العالمين * وأما اسمه تعالى الضار فهو اسم عظيم وملكه
+هاسطائيل وهو رئيس على أربع قواعد تحت يد كل قائد ١٠٠١ صفا كل صف ١٠٠١ ودعاؤه
+تقول ياضار أنت انتقم من أهل الجحود والكنود وأنت القاهر لمن تمرد ونقض العهود وأنت المذل
+لمن دلس في دينك أسألك بعظيم رأفتك وبقيوم سطوتك أن تدفع عني ضير الوقوف مع من سواك
+وترزقني مشاهدة وجهك وأن لا أرى إلا إياك وارزقني الإياب التام منك لأفوز بستر مرضاتك
+والفوز بسريحاتك يارب العالمين
+( الفصل الثلاثون في النمط العاشر من أسماء الله الحسنى وأسرارها النافعات )
+* اعلم وفقني الله وإياك أن من أسماء الله الحسنى الحق المبين الخبير الهادي الحي القيوم الأول الآخر
+الظاهر الباطن هذه الأسماء العشرة من خواصها اللطف بالأخلاق وتودد القلوب وتزكية النفوس
+وإحياء القلوب وإلهام العلوم والحكم والاطلاع على المغيبات ومشاهدة الملكوت الأعلى والتوفيق
+إلى الطاعات والنطق بالصواب والقيام بحق الربوبية وطهارة الظاهر والباطن والكشف
+الواضح ونمو الأرزاق وتنزيل البركات وقهر الخصوم وكيد الأعداء ودمار الظالمين * وفي هذا النمط
+الاسم المشار إليه وذاكره يشار إليه في زمانه بأنوار السر الذي عليه ولا يسأل عن شيء إلا ألهمه
+الله الجواب بالحق ويتسع رزقه وتتبع الحكمة من عين قلبه ويرى المغيبات مشاهدة عيانا ويستر
+الله خطاياه عن الكرام الكاتبين ويتلألأ قلبه نورا سريا لا يرى به ملكوت السموات والأرض
+وعجائب المخلوقات والبر والبحر * وأما اسمه الحق فهو اسم عظيم موافق لما يريد ويجعله تابعا للحق
+في أفعاله ومن وفق أعداده وهي ١٣٩ في مربع أربعة وحمله معه فلا يدخل على حاكم أو
+ملك إلا هابه وكان منصورا على خصمه * وأما اسمه تعالى الخبير الهادي لا يذكرها أحد
+ألف مرة عند نومه وهو ناو كشفها من الأسماء الفعلية إلا أراه الله ذلك في منامه على يد
+ملك من الملائكة ويقول عقب كل مرة يامبين خبرني ياخبير اهدني ياهادي ويعود إلى قراءة
+الأسماء إلى أن يغلب عليه النوم فإنه يرى ما يريد في منامه وإن لم ير فليكرر العمل أولا وثانيا * ومن
+كتبها في إناء طاهر ومحاها بعسل وماء ولعق ثلاث لعقات كل يوم على الريق سبعة أيام متوالية
+فإن الله يؤتيه الحكمة ويعطيه من العلوم اللدنية ما لا يصل إليه أهل زمانه * وأما أسماء تعالى
+الحي القيوم ذاكرها يرى النور المتصل من أسرارها عيانا ويحيا قلبه وينعش روحه وبدنه
+من حضرته ويجيب دعاءه * ومن وفقها عدد في مربعه المعروف وهو هـ ٥ وأربعة في أربعة
+وجعله معه أحب الله قلبه وكثر رزقه وأقامه في الطاعات وأيده بالإخلاص وظهر النور على باطنه وظاهره
+* وأما أسماؤه تعالى الأول الآخر الظاهر الباطن من سرمدها حفظ الجوارح للذاكر والأمان
+من الوبال والنفاق والكبر والعجب * ومن نقش الأسماء الأربعة على صحيفة من قصدير في
+شرف الشمس ومسحها بمسك وسمغ وطرحها في البحر اجتمع عليها السمك من كل جانب حتى
+يمسك باليد ومن ذكرها هذا النمط ليلا ونهارا مدة ٤٠ يوما دبر كل صلاة صار فردا من الأفراد
+ويقيض الله له الخضر عليه السلام يعلمه ما يشاء ويصير روحانيا موصلا إلى الحضرة القدسية
+ويشاهد
+
+**English:**
+- 303 -
+
+the proof, O Great in rank and beneficence, Lord of the worlds. * And as for His تعالى name, الضار, it is a عظیم name, and its king is هاسطائيل, and he is chief over four bases, under the hand of each commander 1001 ranks, each rank 1001, and its invocation: you say, O Harmful One, You take vengeance upon the people of denial and ingratitude, and You are the Subduer of whoever rebels and breaks the covenants, and You are the Humiliator of whoever falsifies in Your religion. I ask You by Your great tenderness and by the Ever-Subsisting of Your might that You avert from me the harm of standing with other than You, and provide me with the witnessing of Your Face, and that I see none but You, and provide me with the complete return from You so that I may attain the covering of Your good pleasure and the attainment of Your releases, Lord of the worlds.
+
+(Chapter Thirty in the Tenth Pattern of the Most Beautiful Names of God and Their Beneficial Secrets)
+
+* Know, may God grant success to me and to you, that among the Most Beautiful Names of God are: الحق المبين, الخبير, الهادي, الحي, القيوم, الأول, الآخر, الظاهر, الباطن. These ten names, among their properties, are gentleness with morals, affection of hearts, purification of souls, and the enlivening of hearts, inspiration of sciences and wisdoms, awareness of the unseen, witnessing the highest kingdom, success toward acts of obedience, speaking rightly, standing by the right of lordship, purity of the outward and the inward, clear unveiling, growth of provisions, sending down of blessings, subduing of adversaries, plotting against enemies, and destruction of wrongdoers. * And in this pattern, the indicated name, and its rememberer, is indicated in his time by the lights of the secret that is upon it, and he is not asked about anything except that God inspires him with the answer in truth, and his provision expands, and wisdom follows from the eye of his heart, and he sees the unseen as a witnessed sight, and God conceals his sins from the noble scribes, and his heart shines with a secret light by which he sees the kingdom of the heavens and the earth and the wonders of creatures and land and sea. * And as for His name, الحق, it is a عظیم name corresponding to what he wants, and it makes him a follower of the truth in his actions. And whoever is granted success in its numbers, and they are 139 in a square of four, and carries it with him, he does not enter upon a ruler or king except that he fears him, and he is aided against his opponent. * And as for His تعالى name, الخبير الهادي, no one mentions them a thousand times when he sleeps while intending to disclose them from the فعلي names except that God shows him that in his dream by the hand of an angel from the angels, and he says after each time: O Manifest, inform me; O Knower, guide me; O Guide, and he returns to reciting the names until sleep overcomes him, for he sees what he wants in his dream. And if he does not see, then let him repeat the work first and second. * And whoever writes them in a pure vessel and erases them with honey and water and licks three licks each day on an empty stomach for seven consecutive days, then God will grant him wisdom and give him from the لدني sciences what the people of his time do not attain. * And as for the names of His تعالى, الحي القيوم, whoever remembers them sees the connected light from their secrets openly, and his heart lives and his spirit and body are refreshed from His presence, and He answers his supplication. * And whoever is granted success in their number in its known square, which is هـ 5 and four in four, and makes it with him, God loves his heart, increases his provision, establishes him in acts of obedience, supports him with sincerity, and the light appears upon his inward and outward. * And as for His تعالى names, الأول الآخر الظاهر الباطن, from their eternity are the preservation of the limbs for the rememberer and safety from ruin, hypocrisy, arrogance, and self-admiration. * And whoever engraves the four names on a sheet of tin in the exaltation of the sun, and wipes it with musk and gum, and throws it into the sea, the fish gather upon it from every side until it is grasped by the hand. And whoever remembers them in this pattern night and day for a period of 40 days after every prayer becomes one of the individuals, and God appoints for him al-Khidr, peace be upon him, teaching him what He wills, and he becomes روحانيًا, connected to the holy presence, and he witnesses
+
+---
+## Page 309
+
+**Arabic (original):**
+- ٣٠٣ -
+ويشاهد أنوار الجمال وعجب الملكوت ومقامات الملائكة ﵇ وأما اسمه تعالى النافع فهو اسم
+فيه حرف من حروف الاسم الأعظم وملكه طهطائيل وهو رئيس على ٤ قواد تحت يد كل
+قائد ٢٠١ صفا كل صف ٢٠١ والذاكر ينزل عليه الملك ودعاؤه تقول يانافع أنت الذي منعت
+الشبهات من القلوب والبدع عن العقائد المانعة عن إدراك سر الغيوب صدر عنك الخير والشر
+والنفع والضر والفوائد والعوائد والشدائد في كون ضائر الناس أسألك منع البلاء وجزيل العطاء
+وسعة الرزق وأعوذ بك من الزلل والمخالفات والموانع والآفات أسألك خيرك بغير واسطة واجعل
+لي من كل ضيق مخرجا حتى أعيش بحمدك في الراحات ويموت بذاك من نابذ اختيارك في الآفات
+إنك أنت الله ماحي السيئات ﵇ وأما اسمه تعالى النور فهو اسم عظيم ملكه ههطائيل وهو
+رئيس على أربع قواد تحت يد كل قائد ٢٥٦ صفا كل صف ٢٥٦ والذاكر ينزل عليه الملك
+ودعاؤه يانور أنت النور الظاهر الذي ظهر بك كل الظهور وأنت الحاكم بنورك على كل نور تعرف
+بواطن الخلق وظاهرهم بما ألبستهم من كرامتك وبما أحطتهم من شهادتك وبما رششت
+عليهم من نور ولايتك وإن من شيء إلا عندنا خزائنه وخضع كل جلال لجلالك وجبروت حمدك
+وأدخلني بحر حرزك ومددك وأسألك يانور النور وشافي الصدور وباعث من في القبور
+أن تنورني بنورك الأعلى الأبهى سري وجهري وباطني وظاهري وروحي ونفسي وقلبي
+ولساني وفؤادي وجلدي ونهاييتي وبدايتي إنك أنت الله في الشدة والرخاء ﵇ وأما اسمه الباقي
+فهو اسم فيه حرف من حروف الاسم الأعظم وملكه ططائيل وهو رئيس على أربع قواد تحت يد كل
+قائد ١١٣ صفا كل صف ١١٣ والذاكر ينزل عليه الملك ودعاؤه ياباقي أنت الذي تبقى
+وتفنى كل مخلوق وأنت الذي أحييت بفضلك كل مرزوق وأنت الذي أخرجت من أجنبتهم
+من الكفر والنفاق والفسوق أسألك بسر بقائك في خلقك أن ترزقني بقاء لا نفاد له أبداً وحياة
+لا موت بعدها ولا تكلني إلى أحد طرفة عين ولا إلى أحد سواك وأرزقني تسخير القلوب
+والأرواح والاستيلاء على أزمة الأجساد والأرواح إنك أنت الله الواحد الفتاح ﵇ وأما اسمه تعالى
+الوارث فهو اسم عظيم وملكه ههداييل رئيس على أربع قواد تحت يد كل قائد ٧٠٧ صفا كل
+صف ٧٠٧ والذاكر ينزل عليه الملك ودعاؤه ياوارث أنت الباقي بعد فناء الخلق أجمعين والبارئ
+لله الواحد القهار أسألك بقائك الدائم وعزك القائم أن تجعلني وارثاً لعلمك وحلمك ووارث علوم
+أنبيائك وأوليائك وأرزقني فوائدها وأوصلني إلى غاياتها يارب العالمين ﵇ وأما اسمه تعالى الرشيد
+فهو اسم عظيم فيه حرف من حروف الاسم الأعظم والملك المخلوق من عدده سهائيل وهو
+رئيس على أربع قواد تحت يد كل قائد ٥١٤ صفا كل صف ٥١٤ والذاكر ينزل عليه الملك كما
+تقدم ودعاؤه يارشيد أنت الذي أرشدت أولياءك إلى سبيل النجاة وأوصلت أحبابك إلى بحر
+الحياة وعين الحياة وجمعت بين الأولياء والأنبياء على أكمل الحالات أسألك ياولي الحسنات أن
+ترشدني إليك وأحييني حياة طيبة لأكون مقبلاً عليك يارب العالمين ﵇ وأما اسمه تعالى الصبور
+
+**English:**
+- 303 -
+and one beholds the lights of beauty, the wonder of the dominion, and the stations of the angels ﵇ And as for His تعالى name al-Nafi‘, it is a name in which is a letter from the letters of the Greatest Name, and its king is Tahṭā’īl, and he is chief over 4 commanders, under the hand of each commander 201 rows, each row 201, and the one who remembers, the king descends upon him, and his supplication: you say, O Nafi‘, You are the One who has prevented the doubts from the hearts and the innovations from the creeds, the preventing from perceiving the secret of the unseen; from You issued forth good and evil, and benefit and harm, and advantages and returns, and hardships, in the being of what harms people. I ask You for the prevention of affliction and abundant giving and the vastness of provision, and I seek refuge in You from slips and مخالفةs and impediments and afflictions. I ask You for Your good without intermediary, and make for me an outlet from every distress, so that I may live, by Your praise, in comforts, and by that dies whoever opposes Your choosing in afflictions. Surely You are Allah, the eraser of السيئات ﵇ And as for His تعالى name al-Nūr, it is a great name; its king is Hahṭā’īl, and he is chief over four commanders, under the hand of each commander 256 rows, each row 256, and the one who remembers, the king descends upon him, and his supplication: O Nūr, You are the manifest Light by which every manifestation has appeared, and You are the ruler by Your light over every light; You know the inward parts of creation and their outward parts by what You have clothed them with of Your generosity, and by what You have encompassed them with of Your witnessing, and by what You have sprinkled upon them of the light of Your guardianship. And there is not a thing except that with Us are its خزائنه, and every majesty has humbled itself to Your majesty and the might of Your praise, and admit me into the sea of Your protection and Your مدد, and I ask You, O Nūr, O Light of the light and Healer of the breasts and Resurrector of those in the graves, that You illuminate me with Your highest, most splendid light, my secret and my public, my inward and my outward, and my spirit and my soul and my heart and my tongue and my inner heart and my skin and my end and my beginning. Surely You are Allah in hardship and ease ﵇ And as for His name al-Bāqī, it is a name in which is a letter from the letters of the Greatest Name, and its king is Ṭaṭā’īl, and he is chief over four commanders, under the hand of each commander 113 rows, each row 113, and the one who remembers, the king descends upon him, and his supplication: O Bāqī, You are the One who remains and every created thing perishes, and You are the One who gave life, by Your فضل, to every provisioned one, and You are the One who brought out from their sides from disbelief and hypocrisy and فسوق. I ask You by the secret of Your remaining in Your creation that You provide me with a remaining that has no end ever, and a life after which there is no death, and do not entrust me to anyone for the blink of an eye, nor to anyone other than You, and provide me with the subjugation of hearts and spirits and the seizure of the reins of bodies and spirits. Surely You are Allah, the One, the Opener ﵇ And as for His تعالى name al-Wārith, it is a great name, and its king is Hahdāyīl, chief over four commanders, under the hand of each commander 707 rows, each row 707, and the one who remembers, the king descends upon him, and his supplication: O Wārith, You are the One who remains after the annihilation of all creation, and the Creator for Allah, the One, the Subduer. I ask You by Your enduring remaining and Your standing might that You make me an inheritor of Your knowledge and Your forbearance, and an inheritor of the sciences of Your prophets and Your saints, and provide me with their benefits and bring me to their ends, Lord of the worlds ﵇ And as for His تعالى name al-Rashīd, it is a great name in which is a letter from the letters of the Greatest Name, and the king created from its number is Suhā’īl, and he is chief over four commanders, under the hand of each commander 514 rows, each row 514, and the one who remembers, the king descends upon him as has preceded, and his supplication: O Rashīd, You are the One who guided Your saints to the path of salvation and brought Your beloved ones to the sea of life and the spring of life and joined between the saints and the prophets in the most perfect states. I ask You, O Guardian of good deeds, that You guide me to You and give me life with a good life so that I may be turning toward You, Lord of the worlds ﵇ And as for His تعالى name al-Ṣabūr
+
+---
+_End of translation — 309 pages._
