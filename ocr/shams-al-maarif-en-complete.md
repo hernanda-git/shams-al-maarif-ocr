@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 289 translated pages._
+_Auto-generated from 291 translated pages._
 
 ---
 ## Page 1
@@ -16365,4 +16365,150 @@ Notes:
 [Grid content preserved as-is]
 
 ---
-_End of translation — 289 pages._
+## Page 290
+
+**Arabic (original):**
+- ٢٨٤ -
+
+قُلْ فَأَنَا عَبْدُكَ الضَّعِيفُ الْفَانِي وَأَنْتَ الْبَاقِي، تَعْلَمُ مَا فِي نَفْسِي وَلَا أَعْلَمُ مَا فِي نَفْسِكَ، رَبِّ زِدْنِي عِلْمًا وَعَمَلًا،
+وَتَقَبَّلْ مِنِّي مَا أَخْرَجْتُهُ فِي خَلَاءٍ وَمَلَاءٍ وَغُدُوٍّ وَإِبْكَارٍ، وَارْحَمْ ذُلِّي وَفَاقَتِي وَابْسُطْ كَفِّي بَيْنَ يَدَيْكَ،
+فَأَنْتَ مَلَاذُ اللَّائِذِينَ وَجَابِرُ قُلُوبِ الضُّعَفَاءِ وَالْمَسَاكِينِ، لَا مَلْجَأَ مِنْكَ إِلَّا إِلَيْكَ وَلَا أَتَوَكَّلُ إِلَّا عَلَيْكَ، إِلَهِي
+شَدِّدْنِي وَثَبِّتْ قَدَمِي عَلَى طَاعَتِكَ حَتَّى لَا أَزِلَّ عَنِ الصِّرَاطِ، وَنَوِّرْ قَلْبِي بِمَعْرِفَتِكَ وَاشْغَلْنِي بِتِلَاوَةِ
+كِتَابِكَ، وَبَصِّرْنِي كَمَا بَصَّرْتَ أَوْلِيَاءَكَ حَتَّى أَنَالَ مَا نَالُوهُ مِنْ دَرَجِ الْكَمَالِ وَالرِّفْعَةِ وَالْجَمَالِ، فَأَنْتَ الرَّبُّ
+الْقَدِيمُ الْمُفَضَّلُ ذُو الْعَدْلِ وَالْكَمَالِ، يَا عَدْلُ أَنْتَ الْحَكَمُ الْعَدْلُ الْعَادِلُ يَوْمَ النُّشُورِ، وَأَنْتَ التَّوَّابُ عَنْ
+مَنْ تَابَ وَكَاشِفُ ظُلْمَةِ الْحِجَابِ، تَعْلَمُ خَائِنَةَ الْأَعْيُنِ وَمَا تُخْفِي الصُّدُورُ وَأَنْتَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، إِلَيْكَ
+تُدْفَعُ الْأُمُورُ وَبِكَ تُدْفَعُ الشُّرُورُ، اللَّهُمَّ إِنِّي أَسْأَلُكَ سِرًّا مِنْ سِرِّكَ وَنُورًا مِنْ نُورِكَ،
+وَتَوَلَّنِي السِّرَّ بِمَقْدُورِكَ، وَهَبْ لِي مِنْ قَيُّومِيَّتِكَ نَصْرًا أَسْتَمِرُّ بِهِ عَلَى مَنْ ظَلَمَنِي، وَأَسْأَلُكَ تَوْفِيقًا مِنْكَ
+يُوقِظُ غَافِلِي حَتَّى يَعْلَمَ جَاهِلِي، وَتُوَضِّحَ لِي طَرِيقِي وَيَكُونَ فِي الرَّجْعَةِ رَفِيقِي، مِنْكَ أَجْدَى وَعَلَيْكَ
+اعْتِمَادِي وَإِلَيْكَ مَرْحَمِي وَبَيْنَ يَدَيْكَ مَصْرَعِي، تَعْلَمُ حَقِيقَةَ أَمْرِي وَمَكْنُونَ سِرِّي، تَعَالَيْتَ عَنْ سِمَاتِ
+الْمُحْدَثَاتِ وَتَنَزَّهْتَ عَنِ النَّقَائِصِ وَالزَّلَّاتِ، إِلَهِي أَسْأَلُكَ تَوْبَةً يَمْحُو بِهَا زَلَلِي وَتَقْبَلُ بِهَا عَمَلِي وَتُصْلِحُ
+ظَاهِرِي، فَأَنْتَ نُورُ الْأَنْوَارِ وَكَاشِفُ الْأَسْرَارِ وَكُلُّ شَيْءٍ عِنْدَكَ بِمِقْدَارٍ، يَا ذَا الْجَلَالِ وَالْإِكْرَامِ.
+{ الْفَصْلُ الرَّابِعُ وَالْعِشْرُونَ فِي النَّمَطِ الرَّابِعِ وَمَا فِيهِ مِنَ الْأَسْرَارِ الرَّبَّانِيَّاتِ }
+اعْلَمْ أَنَّ مِنْ أَسْمَاءِ اللَّهِ الْحُسْنَى: الدَّائِمُ، الْقَدِيمُ، الْأَزَلِيُّ، الْوَاحِدُ، الْأَحَدُ، الصَّمَدُ، الْمَجِيدُ، الْمُبْدِئُ، الْمُعِيدُ.
+هَذِهِ الْأَسْمَاءُ الْعَشَرَةُ خَوَاصُّهَا مَنْظُومَةٌ فِي سِلْكِ التَّوْحِيدِ الْخَاصِّ، وَدَوَامُ الْحَالَاتِ الْمَرْضِيَّةِ لِلْحَقِّ
+الْخَاصِّ بِهِ، وَتَنْزِيهُ الْمَوْلَى جَلَّ جَلَالُهُ عَنْ كُلِّ عَيْبٍ بِقَوْلِهِ الْكَافِرُونَ وَتَعَمَّدَهُ الْجَاحِدُونَ، وَذَاكِرُهُ
+لَا يَزَالُ مَحْفُوظًا مَعْصُومًا، فَأَمَّا أَسْمَاؤُهُ تَعَالَى الدَّائِمُ الْقَدِيمُ الْأَزَلِيُّ فَذَاكِرُهُمْ يُرْضِيهِ اللَّهُ بِمَا فِيهِ عُسْرٌ
+وَيُسْرٌ، وَيُعْطِيهِ حَظًّا مِنَ الْقَنَاعَةِ وَيَنَالُ مَرْتَبَةَ الزُّهْدِ، وَمَنْ كَانَ وَلِيَّ أَمْرٍ وَدَاوَمَ عَلَى اسْمِهِ الدَّائِمِ دَامَ
+مُلْكُهُ وَلَمْ يَعْصِهِ أَحَدٌ مِنْ جُنْدِهِ، وَكَذَلِكَ إِنْ وَفَّقَهُ حَرْفِيًّا أَوْ عَدَّهُ آيًا فِي مُرَبَّعَيْنِ خَلْفًا إِلَى آخِرِهِ
+عَلَى فَصِّ خَاتَمٍ مِنْ فِضَّةٍ وَحَمَلَهُ فَإِنَّهُ يُعْطَى هَذَا السِّرَّ، وَمَنْ ذَكَرَ هَذِهِ الْأَسْمَاءَ دَهْرَ الصَّلَوَاتِ الْخَمْسِ وَدَاوَمَ
+عَلَيْهَا أَمَّنَهُ اللَّهُ فِي ذُرِّيَّتِهِ إِلَى يَوْمِ الْقِيَامَةِ، وَهَذَا سِرٌّ مُتَّحِدٌ إِلَى مَا لَا نِهَايَةَ لَهُ، وَأَمَّا أَسْمَاؤُهُ تَعَالَى الْوَاحِدُ
+الْأَحَدُ فَتَوْحِيدٌ عَظِيمٌ، ذَاكِرُهَا يُحَبِّبُ اللَّهُ لَهُ الْإِيمَانَ وَيُؤَيِّدُهُ بِرُوحٍ مِنْهُ، وَإِنْ كَانَ فِي ضِيقٍ مِنْ ظَالِمٍ
+أَوْ سِجْنٍ وَلَازَمَ ذِكْرَهَا نَجَّاهُ اللَّهُ مِنْهُ، وَأَمَّا اسْمُهُ تَعَالَى الصَّمَدُ فَتَنَزُّهٌ جَلِيلٌ لِلْمُرِيدِينَ إِذَا دَاوَمُوا
+عَلَيْهِ أَغْنَاهُمْ عَنِ الْأَكْلِ وَالشُّرْبِ، إِذَا ذَكَرَهُ أَحَدٌ لَا يُحِسُّ بِأَلَمِ الْجُوعِ مَا لَمْ يَدْخُلْ عَلَيْهِ غَيْرُهُ مِنَ
+الْأَسْمَاءِ، وَإِنْ ذَكَرَتْهُ امْرَأَةٌ لَمْ تَحْمِلْ مَا دَامَتْ تَذْكُرُهُ، وَأَمَّا أَسْمَاؤُهُ تَعَالَى الْفَرْدُ الْمَجِيدُ فَذَاكِرُهَا
+يَرْفَعُ اللَّهُ قَدْرَهُ وَيَنْشُرُ عِلْمَهُ، وَأَمَّا اسْمُهُ تَعَالَى الْمُبْدِئُ الْمُعِيدُ فَمَنْ ذَكَرَهَا قَبْلَ خُرُوجِهِ إِلَى
+السَّفَرِ مِنْ مَنْزِلِهِ رَدَّهُ اللَّهُ سَالِمًا، وَمَنْ سُرِقَ لَهُ مَتَاعٌ أَوْ ضَاعَ لَهُ شَيْءٌ أَوْ ضَلَّتْ لَهُ ضَالَّةٌ وَلَازَمَ عَلَى
+ذِكْرِهَا رَدَّ اللَّهُ عَلَيْهِ مَا ضَاعَ، وَمَنْ وَفَّقَ أَعْدَادَهَا عَلَى كَاغِدٍ نَقِيٍّ وَوَضَعَهُ فِي دَارِهِ أَوْ فِي حَاصِلِهِ وَسَافَرَ
+لَمْ يُصِبْ ذَلِكَ الْمَكَانَ سُوءٌ، وَأَسْرَارُ هَذِهِ الْأَسْمَاءِ لَا تُحْصَى، وَأَمَّا اسْمُهُ تَعَالَى اللَّطِيفُ فَلَهُ تَصْرِيفٌ
+فِي جَرِّ اللُّطْفِ لَا سِيَّمَا فِي الْوَقَائِعِ وَتَفْرِيجِ الْكُرَبِ وَالشَّدَائِدِ، وَلَا يُضَافُ لَهُ غَيْرُهُ إِلَّا وَظَهَرَ لَهُ
+
+**English:**
+- 284 -
+
+Say: then I am Your weak, perishing servant, and You are the Remaining; You know what is in my soul and I do not know what is in Your soul. My Lord, increase me in knowledge and action,
+and accept from me what I have brought forth in solitude and in company, and in morning and in early dawn, and have mercy on my humiliation and my neediness and spread out my palm before You,
+for You are the refuge of those who seek refuge and the mender of the hearts of the weak and the poor; there is no refuge from You except to You, and I do not rely except upon You. My God,
+strengthen me and make my foot firm upon Your obedience until I do not slip from the path, and illumine my heart with Your knowledge and occupy me with the recitation of
+Your Book, and make me see as You made Your friends see, until I attain what they attained of degrees of perfection and elevation and beauty, for You are the Lord
+the ancient, the preferred, Possessor of justice and perfection. O Just One, You are the Judge, the Just, the Equitable on the Day of Resurrection, and You are the Accepter of repentance from
+whoever repents and the Unveiler of the darkness of the veil. You know the treacherous glance of the eyes and what the breasts conceal, and You are over everything powerful. To You
+are matters referred, and by You evils are repelled. O Allah, I ask You for a secret from Your secret and a light from Your light,
+and take me over by the secret with Your power, and grant me from Your self-subsistence a victory by which I continue against him who ظلم me, and I ask You for success from You
+that awakens my heedless one until my ignorant one knows, and that You make clear for me my path and that there be in the return my companion. From You is my gain and upon You
+is my reliance and to You is my mercy-place and before You is my falling-place. You know the reality of my affair and the hidden of my secret. You are exalted above the attributes of
+the originated things and are sanctified from deficiencies and slips. My God, I ask You for a repentance by which You erase my slips and by which You accept my action and rectify
+my outward, for You are the Light of lights and the Unveiler of secrets, and everything with You is by measure, O Possessor of Majesty and Honor.
+{ The twenty-fourth chapter in the fourth pattern and what is in it of the divine secrets }
+Know that among the beautiful names of Allah are: the Permanent, the Ancient, the Eternal, the One, the Unique, the Self-Sufficient, the Glorious, the Originator, the Restorer.
+These ten names, their properties are arranged in the string of the special unification, and the دوام of the pleasing states of the truth
+specific to Him, and the sanctification of the Master, glorious is His glory, from every defect by His saying the disbelievers and the deniers intentionally made it. And its rememberer
+remains preserved, protected. As for His names, exalted is He, the Permanent, the Ancient, the Eternal, then their rememberer Allah is pleased with him with what فيه hardship
+and ease, and He gives him a share of contentment and he attains the rank of asceticism. And whoever is a ruler of an affair and persists upon His name, the Permanent, his
+kingdom endures and none of his soldiers disobeys him. Likewise, if he arranges it alphabetically or counts it as verses in two squares backward to its end
+upon the bezel of a ring of silver and carries it, then this secret is given to him. And whoever mentions these names throughout the five prayers and persists
+upon them, Allah secures him in his offspring until the Day of Resurrection, and this is a united secret to that which has no end. And as for His names, exalted is He, the One
+the Unique, then it is a great unification; its rememberer, Allah makes faith beloved to him and supports him with a spirit from Him. And if he is in distress from a wrongdoer
+or prison and he ملازم their remembrance, Allah saves him from it. And as for His name, exalted is He, the Self-Sufficient, then it is a sublime transcendence for the aspirants; if they persist
+upon it, it enriches them from eating and drinking. If one mentions it, he does not feel the pain of hunger so long as other names do not enter upon him from
+the names, and if a woman mentions it, she will not become pregnant so long as she keeps mentioning it. And as for His names, exalted is He, the Unique, the Glorious, then its rememberer
+Allah raises his rank and spreads his knowledge. And as for His name, exalted is He, the Originator, the Restorer, then whoever mentions them before his خروج to
+travel from his dwelling, Allah returns him safe. And whoever has goods stolen from him or something lost for him or a lost thing goes astray for him and persists upon
+their remembrance, Allah returns to him what was lost. And whoever arranges their numbers on pure paper and places it in his house or in his storehouse and travels,
+that place will not be afflicted by evil. And the secrets of these names are not counted. And as for His name, exalted is He, the Gentle, then there is for it a disposition
+in drawing forth gentleness, especially in calamities and the relief of distresses and hardships, and nothing else is added to it except that there appears to him
+
+---
+## Page 291
+
+**Arabic (original):**
+— ٢٨٥ —
+
+له الحجب وملكه عطفائيل وهو رئيس على أربع قواد تحت يد كل قائد ١٢٩ صفا كل صف
+١٢٩ من ملائكة اللطف الجارية بين الخلق بلطف القضاء والقدر يستعين من ملائكة الرحمة
+وبينهما نسبة لطيفة وذاكره ينزل عليه الملك ويخلع عليه خلعتين ظاهرة وباطنة فأما الباطنة فهي
+من لطيف خبير والظاهرة لتيسير كل عسير ودعاؤه تقول يالطيف أنت الذي تلطف بعبادك
+وتوصلهم إلى أنواع النعم وتفرق بأهل الحجاب فتخرجهم من غوائل النقم وترحم من التجأ إليك
+برحمتك العميمة وتجذبه إلى الأنوار من الظلم تعلم خفيات الأشياء ودقائقها وتجود بإحسانك على
+عبادك بأنواع البر وكشف حقائقها أسألك اللهم بلطف لطفك وفيض فضلك ودرة بحر جودك
+وقوة سلطان عسكرك وجنودك أن تجعلني لطيفا في الأقوال والأفعال رفيقا في الحال والمآل
+وارزقني من بركة لطفك حظا وافرا وأعني على قبول آثار فضلك واجعل لي منه قسما وافرا ظاهرا
+وأيدني بتدبيرك لأنال من بحر جودك فيضا زاخرا إنك أنت الرؤوف الرحيم ﷺ وأما اسمه تعالى
+الخبير ففيه حرف من حروف الاسم الأعظم وما أسرعه في تفريج الكروب والشدائد وكشف ما
+أبهم وملكه عسمائيل وهو رئيس ٤ قواد تحت يد كل قائد ٨١٢ صفا كل صف ٨١٢ ملكا
+موكلين بالقطر والنبات وحياة العالم الأكبر وذاكره ينزل عليه الملك ويخلع عليه خلعتين
+ظاهرة وباطنة فأما الظاهرة فتخبره عما في ظاهر الأرض والباطنة تخبره عما في ضميره ودعاؤه
+تقول ياخبير أنت الذي أخبرت أولياءك بما أسررت في أسرار عقول أنبيائك فلا تعزب عنك
+الأخبار الباطنة ولا الآثار الكامنة ولا الأحوال المصونة ولا يجرى في ملكوت ملكك شيء خفي
+عنك أقداره ولا تتحرك ذرة في سكينة ساكن ولا تسكن خردلة في سفينة متحرك إلا وأنت
+عالم بظواهره ومره وجبره وأوله وآخره لك خيره ولمن تريد بذلك أمره أسألك اللهم بسر
+جبروتك النازلة في قلوب الأبرار والأخيار وبخطير قوتك الظاهرة في عقول أهل الأسرار
+والأنوار أن تجعلني بجميل اختيارك عالما بما يجرى في قلبي وروحي من فنون أسرارك ومقتبسا
+بجوهري من مشكاة أنوارك يامن إليه معادي ومنك كشف مراتب الأنبياء يارب العالمين ياخبير ﷺ
+وأما اسمه الحليم فهو اسم فيه حرف من الاسم الأعظم وفيه تدبير عظيم لمن أراد معرفة الحجر
+المكرم وملكه جهطائيل وهو رئيس ٤ قواد تحت يد كل قائد ١٧٨ صفا كل صف ١٧٨
+من الملائكة الموفقة لتدبير العالم وذاكره ينزل عليه الملك ويخلع عليه خلعتين الباطنة يصير بها حكما
+ناطقا بالحكمة ﷺ وأما الظاهرة فيتسامح الناس بجوده وكرمه تقول ياحليم أنت الذي عفوت
+عمن أناب إليك هفواته وزلاته وغفرت لمن ادعى إليك قلبا وقالبا مثلا ته وأجلت لمن أشرك في
+ملكك عفو باته وقبلت ممن تاب إليك بكلماته وسيئاته وجليت المنحرف عن طرق الحق الصواب بمنك
+لطرق الهداية ورفعت من تمسك بحبلك المتين في البداية والنهاية وفتحت لمن قرع بابك ونجيته من
+الضلال والغواية أسألك بنورك الواصل إلى قلوب الأشراف الذين أوقفوا نفوسهم على العدل
+والإنصاف أن تجعل لي علما ممزوجا بالحكم وأن تدخلني رحمتك مداخل السلام وأن تيسر لي
+بالعلم إعلاما بما في ضمائر العالمين ياحليم على من ارتكب المناهي بتأخير العقوبة إلى يوم الدين ﷺ وأما
+
+**English:**
+— 285 —
+
+for it are the veils, and its king is ʿAṭfāʾīl, and he is chief over four commanders, under the hand of each commander 129 ranks, each rank
+129 of the angels of gentleness, الجاري among creation by the gentleness of decree and destiny, seeking aid from the angels of mercy,
+and between them is a subtle proportion. And its rememberer, the angel descends upon him and clothes him with two robes, outward and inward. As for the inward, it is
+from Gentle, Knowing; and the outward is for the facilitation of every difficult thing. And its supplication: you say, O Gentle, You are the One who is gentle with Your servants
+and conveys them to kinds of blessings and separates by means of the people of the veil, so You bring them out from the perils of afflictions and have mercy upon whoever has sought refuge in You
+by Your all-encompassing mercy and draw him to the lights from the darknesses. You know the hidden things of things and their subtleties, and You bestow generously with Your beneficence upon
+Your servants with kinds of righteousness and the unveiling of their realities. I ask You, O Allah, by the gentleness of Your gentleness and the overflowing of Your bounty and the pearl of the sea of Your generosity
+and the strength of the authority of Your host and Your soldiers, that You make me gentle in sayings and actions, kind in state and end,
+and provide me from the blessing of Your gentleness a plentiful share, and aid me in accepting the آثار of Your bounty, and make for me from it a plentiful, manifest portion,
+and support me by Your management so that I may attain from the sea of Your generosity a surging overflow. Indeed, You are the Compassionate, the Merciful, ﷺ. And as for His name, exalted is He,
+the Knowing, in it is a letter from the letters of the Greatest Name, and how swift it is in the relief of griefs and hardships and the unveiling of what
+is obscure. And its king is ʿAsmāʾīl, and he is chief of 4 commanders, under the hand of each commander 812 ranks, each rank
+812 angels entrusted with rain and vegetation and the life of the greater world. And its rememberer, the angel descends upon him and clothes him with two robes,
+outward and inward. As for the outward, it informs him of what is in the ظاهر of the earth, and the inward informs him of what is in his inner self. And its supplication:
+you say, O Knowing, You are the One who informed Your friends of what I concealed in the secrets of the intellects of Your prophets, so the inward reports do not be absent from You,
+nor the hidden traces, nor the safeguarded states, nor does anything hidden run in the dominion of Your kingdom from You; its decrees
+and not a particle moves in the stillness of a still one, nor does a mustard seed settle in the ship of a moving one, except that You are
+knowing of its outward aspects and its command and its compulsion and its beginning and its end; its good is Yours, and for whom You wish thereby is its affair. I ask You, O Allah, by the secret
+of Your overpowering majesty descending in the hearts of the pious and the good, and by the grave force of Your power manifest in the intellects of the people of secrets
+and lights, that You make me, by Your beautiful choosing, knowing of what goes on in my heart and my spirit of the varieties of Your secrets, and drawing
+with my essence from the niche of Your lights, O You to whom is my return, and from You is the unveiling of the ranks of the prophets, Lord of the worlds, O Knowing, ﷺ.
+And as for His name, the Forbearing, it is a name in which is a letter from the Greatest Name, and in it is a great management for whoever desires knowledge of the honored
+stone. And its king is Jahṭāʾīl, and he is chief of 4 commanders, under the hand of each commander 178 ranks, each rank 178
+of the angels enabled for the management of the world. And its rememberer, the angel descends upon him and clothes him with two robes; the inward one becomes by it a speaking judge
+with wisdom, ﷺ. And as for the outward, people become tolerant through his generosity and nobility. You say, O Forbearing, You are the One who pardoned
+the slips and stumbles of whoever turned to You, and forgave whoever claimed to You heart and form, example and likeness, and You delayed for whoever associated in
+Your kingdom a complete pardon, and accepted from whoever repented to You with his words and his evils, and You made clear the one deviating from the paths of the right truth by Your grace
+to the paths of guidance, and raised whoever held fast to Your firm rope in the beginning and the end, and opened for whoever knocked at Your door and saved him from
+misguidance and error. I ask You by Your light reaching the hearts of the nobles who have stationed their souls upon justice
+and fairness that You make for me knowledge mixed with judgment, and that You cause me to enter Your mercy the entrances of peace, and that You make easy for me
+by knowledge an informing of what is in the inner selves of the worlds, O Forbearing toward whoever committed the prohibitions by delaying punishment until the Day of Judgment, ﷺ. And as for
+
+---
+_End of translation — 291 pages._
