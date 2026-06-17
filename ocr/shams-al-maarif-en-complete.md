@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 331 translated pages._
+_Auto-generated from 335 translated pages._
 
 ---
 ## Page 1
@@ -18875,4 +18875,191 @@ answer
 Answer, O Kasfiyā’īl. Its meaning in Arabic: I am the Living, the Remaining, whom neither slumber nor sleep takes hold of; to Him belongs what is in the heavens and what is in the earth, Forgiver of sins. This name is written on the palm of Raqiyā’īl, peace be upon him. Yāhū yā ajib yānū yā’īl. Its meaning in Arabic: I am He who gives life and causes death and has mercy on the believers. So whoever calls upon it is secure from terror and is healed from every disease and ailment. And its humiliation on an arrow and throwing it at the one who errs: Shalīkhūtā Yashmū’īl. Answer, O Yamurba’īl. Its meaning in Arabic: I am He who raised the heaven without pillars. And this name, if you recite it upon your riding beast, then you will walk and never tire, and God will make your affairs easy, and you will go out from distress into spaciousness. And whoever recites this name, God relieves his worries, and by it the angels of the Throne are strengthened to bear it, and by it God makes easy for the servants the agonies of death. Yānūrshiyā ajib yāmīkā’īl. Its meaning: I am He to whom nothing is higher; I revive souls after their death. So whoever recites it in hardships, God saves him. Yājihatī ajib Balsamā’īl. Its meaning in Arabic: I am He who is alive, and by this name Jesus used to bring the dead to life. Shamā’iq ajib yā Karmiyā’īl. Its meaning: “Honor by it.” I am God who shows me the children in the bellies of their mothers, and by it God makes every difficult thing easy by His power. So whoever writes it and carries it, affairs are made easy for him, by permission of God. Yā Samī‘ al-Nūr ajib yā Rūhiyā’īl. Its meaning: I am He from whom is not hidden what is in the east and the west, and whoever asks by it for what he wants obtains it. Sa‘hamā yaftaḥ Ghanīj ajib yā Shurṭiyā’īl. Its meaning in Arabic: I am the Possessor of kingdoms and the Deliverer from perils. So whoever writes it on the grip of a bow and throws it, his forearm does not tire and he overcomes his enemies. Yāṭī‘ū ‘īj ajib yā Karfiyā’īl. Its meaning: I forgive sinners and offenders, and by it God saved Noah from the Flood. So whoever has these names with him while he is in a ship is saved from drowning. Yāsir Mutkafāl ajib yā Laṭīfiyā’īl. Its meaning: I am the One aware of secrets, and I do not disclose them except to one I have chosen from My creation. So whoever has these names with him, God saves him from perils, and they extinguish fire. And whoever recites them and wipes over the back of the angry one, his anger subsides. So if it is drawn in the trace of one you want to bring, he will come. Yā Bāqī yā Wadūd, Adāwī Aṣāwāt al-Shadāy ajib yā Ṭūṭiyā’īl. Its meaning in Arabic: I am the Strong, the Firm. Whoever recites it and persists upon it, God gives him of strength that he overcomes his enemies with. And in war: O Helper of him who has no helper, O Family of Shadāy, O He like whom there is nothing, O Originator, O One, O Self-Sufficient, O God, O Everlasting, O Eternal of eternals. Its meaning in Arabic: I am God, the security of the fearful. And this name: God saved Abraham from the fire and made it coolness and peace upon him. So whoever recites it over one with fever, the fever goes away from him. * And these are the names of the angels, and they are 12 angels; for every name an angel. You say: Ajib yā Karṭiyā’īl, and yā ‘Asriyā’īl, and yā ‘Aṣfar Yā’īl, and Adr Ḥiyā’īl, and yādam Yā’īl, and yā Qas‘a Yā’īl, and yā Ṭaḥṭā’īl, and yā ‘Azrā’īl, and yā Mu‘far Yā’īl. And these names are recited for entering upon kings and frightening roads and repelling thieves and corrupters. And whoever travels in the wilderness and recites them, God repels from him the evil of enemies and poverty. Bin Bāṭim Mā’il and yā Ṭaḥṭā’īl and yā Ma‘d Yā’īl and yā ‘Azrā’īl and yā Maghfar Yā’īl. These names are recited for entering upon rulers, and by it God turned to Adam in repentance. And whoever calls by them while he is doing acts of disobedience, God turns to him in repentance. And if it is written on basil paper and you smell it to whomever you want, he will love you. Amshīṭā ajib yā Harqiyā’īl. Its meaning: I am He who spreads mercy to the servants. This name is written on the wing of Gabriel, peace be upon him. By its secret he goes from the east to the east in the blink of an eye. So if it is recited over the possessed, he recovers at once. Yā al-Hūj and Ṭayr Hūj.
 
 ---
-_End of translation — 331 pages._
+## Page 332
+
+**Arabic (original):**
+— ٣٢٦ —
+
+أجب ياردقائيل معناه أنا الله الظاهر الباطن في كل شيء وهو مكتوب على كف إسرافيل عليه السلام وحامله وقارئه يسهل الله عليه كل صعب وتطوى له الأرض وإذا تروحن وسأل روحانيته في أي شيء أجابوه عنه بسائر الأخبار من جميع الأرض من المدن والقرى * ومن أراد أن ينظر في منامه شيئاً يكتب الاسم على إبهام يده ويضعها تحت رأسه وينام بعد أن يقول أجب يا خدام هذا الاسم وأخبرني عن كذا ثم يقرأ الاسم إلى أن ينام فإنه آت في منامه ويقول له الأمر كذا ولم ينظر في أول ليلة يكرر العمل أولاً وثانياً * وذكر بعضهم أنه قام يطلب من الله حاجة فمكث ٣٠ سنة ولم يضجر فلما علم الله صدق نيته قضاها له باغييج أجب يا سمسمائيل معناه بالعربية أنا الذي أبصر العميق فمن قرأه على زرعه لم يفسد ويأمن الإنسان من الغرق وهو مكتوب في كف كسفيائيل يامليطا ياطرديائيل وبهذا الاسم رد الله تعالى على سليمان ملكه وخاتمه إسمعوني ياقلا أجب ياطوطيائيل معناه أنا الحي العظام وهي رمم وهذه الأسماء ترى * إلا كله إذ كتبت حروفها فرقة وتطرد الرياح الردية ووجع الضرس إذا كتبت وحملت وإذا كتبت على لقمة ومضغها صاحب الألم سكن وجعه في الوقت وإذا عمل ختماً وختم به على طين من أرض مزروعة ودفن في زرع لم يأكله الجراد ولا يصيبه شيء ياسطيح يابطيائيل ياصغير أجب به عليها ييل ياهو يامن لا يعلم ماهو إلا هو وهذا شرح الاسم الأول وهو الذي معناه بالعربية أنا الله الواحد القهار وبهذا الاسم نصر الله المؤمنين على الكفار والمنافقين ياسميعنا يانور يائيل ياعلمنا معناه بالعربية أنا السميع العليم الذي يقاب الشمس من المشرق إلى المغرب فمن تلاه على كف تراب ورمى به في وجوه الأعداء تفرقوا ويقول شاهت الوجوه ثلاثاً فإنهم * يهزمون يامن يفني الأكوان والملكوت ويبقى هو يامن لا إله إلا هو الأول والآخر والظاهر والباطن فمن تلاها نجاه الله من كل شدة ياسطيح بالكوشيا أجب ياصرفائيل معناه أنا المستطيع لكل شدة ومنزل الصحف والأسرار على قلوب الأنبياء والصالحين والأخيار فمن دعا به أعطاه الله الحفظ لكل ما يسمع ومن حمله كان مقبولاً ياليوهب ياه واه * وفي رواية و يه ويه والتعمير مثل الأول ثمود ياصالح هيلو حم أجب ياخفيائيل اسعفائيل معناه أنا الله رب العالمين الملك الجبار المتعال وبهذا الاسم خلق الله العرش والكرسي فمن كان معه هذه الأسماء كان محفوظاً من الجن والإنس والشياطين ياشمخينا يارب يينج حنيثا معناه أنا الذي أقول للشيء كن فيكون لا قوة لأحد من المخلوقين فمن كان معه هذه الأسماء كان في حرز الله ونجاه الله مما يكره * ومن تلاه على ماء وسقاه للخائف سكن روعه ياهيطلو يا يارود اطلما شوما معناه بالعربية أنا القاهر للعباد ومحاسبهم بما كانوا يعملون فإذا كتبت على حجر قد أخرج من فرن ورمى به كف ورسم عليه الأسماء بطرف مسمار حديد ورمى الحجر بين قوم مجتمعين على المعاصي ويقول عند رميه وألقينا بينهم العداوة والبغضاء إلى يوم القيامة كلما أوقدوا ناراً للحرب أشعلها بينهم الشيطان يومئذ يتفرقون فإنهم يتفرقون بافرشيا رابيا يهو يامعناه بالعربية أنا الذي أخفى المظلومين عن أعين الظالمين إذا كتبت على رمل وجلس عليه إنسان وقرأ عليه قوله تعالى وجعلنا من بين أيديهم سداً إلى قوله فهم لا يبصرون شاهت الوجوه وتقول خذوا أعينهم وأبصارهم
+واجعلهم
+
+**English:**
+— 326 —
+
+Answer, Yardaqā’īl, its meaning: I am God, the manifest, the hidden, in every thing; and it is written on the palm of Isrāfīl, peace be upon him, and its bearer and its reader, God makes easy for him every difficult thing, and the earth is folded for him; and if he becomes spiritualized and asks its spirituality about any thing, they answer him concerning it with all الأخبار from all the earth, from the cities and the villages. * And whoever wishes to see in his sleep something, let him write the name on the thumb of his hand and place it under his head and sleep after saying: Answer, O servants of this name, and inform me about such-and-such; then he reads the name until he sleeps, for it will come in his sleep and say to him: the matter is such-and-such; and if he does not see in the first night, he repeats the work first and second. * And some of them mentioned that he stood seeking from God a need, and he remained 30 years and did not become weary; and when God knew the sincerity of his intention, He fulfilled it for him, bāghīīj. Answer, O Samsamā’īl, its meaning in Arabic: I am the one who sees the deep; whoever reads it over his crop, it will not فساد, and man is safe from drowning; and it is written in the palm of Kasfiyā’īl, Yāmilīṭā, Yāṭardiyā’īl; and by this name God تعالى returned to Solomon his kingdom and his ring. Listen to me, Yāqilā. Answer, O Ṭūṭiyā’īl, its meaning: I am the living, the bones, and they are decayed remains; and these names are seen * except all of it, when its letters are written separately, and it drives away the evil winds and toothache if written and carried; and if it is written on a morsel and the one with the pain chews it, his pain is calmed at the time; and if he makes a seal and seals with it on clay from cultivated land and buries it in a crop, the locust does not eat it and nothing befalls it. Yā Sṭīḥ, Yā Bṭiyā’īl, Yā Ṣaghīr, answer by it upon her, Yīl, Yāhū, O you of whom none knows what he is except He; and this is the explanation of the first name, and it is that whose meaning in Arabic is: I am God, the One, the Subduer; and by this name God gave victory to the believers over the disbelievers and the hypocrites. Yā Samī‘unā, Yā Nūr, Yā’īl, Yā ‘Ilmunā, its meaning in Arabic: I am the Hearing, the Knowing, who faces the sun from the east to the west; so whoever recites it over a handful of dust and throws it in the faces of the enemies, they disperse, and he says: “Ugly are the faces” three times, for they * are defeated. O you who annihilates the worlds and the ملكوت and remains He; O you besides whom there is no god, the First and the Last, the Manifest and the Hidden; whoever recites it, God saves him from every hardship. Yā Sṭīḥ, with al-Kūshiyā, answer, Yā Ṣarfā’īl, its meaning: I am the one able for every hardship and the one who brings down the scrolls and the secrets upon the hearts of the prophets and the righteous and the good; whoever calls upon it, God gives him preservation for everything he hears, and whoever carries it is accepted. Yā Liyūhab, Yāh Wāh * and in another narration: Wīh Wīh, and the العمران like the first. Thamūd, O Ṣāliḥ, Hīlū Ḥam, answer, O Khafiyā’īl, Is‘āfiyā’īl, its meaning: I am God, Lord of the worlds, the king, the compelling, the exalted; and by this name God created the Throne and the Chair; so whoever has these names with him is محفوظ from the jinn and mankind and the devils. Yā Shamakhīnā, Yā Rabb, Yīnīj Ḥanīthā, its meaning: I am the one who says to a thing, “Be,” and it is; there is no power for anyone among the created beings; so whoever has these names with him is in the protection of God, and God saves him from what he dislikes. * And whoever recites it over water and gives it to the fearful, his terror is calmed. Yā Hīṭlū, Yā Yārūd, Aṭlamā Shūmā, its meaning in Arabic: I am the subduer of the servants and their reckoner for what they used to do; so if it is written on a stone that has been taken out of a furnace and thrown by a handful, and the names are drawn upon it with the tip of an iron nail, and the stone is thrown among a people gathered upon sins, and he says when throwing it: “And We cast between them enmity and hatred until the Day of Resurrection; whenever they kindle a fire for war, the devil kindles it among them; on that day they will disperse,” for they disperse. Bafrshiyā Rābiyā, Yahu, Yā, its meaning in Arabic: I am the one who concealed the oppressed from the eyes of the oppressors. If it is written on sand and a person sits upon it and the saying of the Exalted is recited over it: “And We placed before them a barrier” to His saying “so they do not see,” “Ugly are the faces,” and you say: take their eyes and their sight
+and make them
+
+Notes:
+[Grid content preserved as-is]
+
+---
+## Page 333
+
+**Arabic (original):**
+- ٣٢٧ -
+
+واجعلـوهم يا خدام هذه الاسماء في بحر من الظلمات حتى لا يرون صم بكم عمي فهم لا يبصرون
+ثم يسكت ولا يتكلم فانه يخفى عنهم ثم تقول اللهم اني اسألك باللطف الخفي أخفني بلطفك الخفي
+فان من أخفيته بخفي لطفك فقد خفي فانه يخفى ثم اذهب حيث شئت فان تكلمت ظهرت لكل
+أحد وذهب السر الخفي والاسم انصى يا شمخياذ لا يخلو حاج لنا معناه بالعربية أنا الذي يعطي كل
+شيء وكل من في السموات والارض هذه الاسماء تطيعها الارواح الويجا واساخا خالدين و يا مطيا
+سليطا لموثا معناه بالعربية اما الذي أعنت الى العباد ورحمتم اذا وقعوا في الشدائد فمن كتبها على
+مرآة ووضعها تحت رأسه وسأل الروحانية ان يخبروه بما يريد من سرقة أو غائب أو غير ذلك
+فانه يرى ذلك سيمحوه لورثا ايه و يه معناه أنا الذي انفردت بوحدتي على كل شيء أنا أبد الآبدين
+ودهر الداهرين وأرحم الراحمين من تلا هذه الاسماء قضى الله حاجته ويسر أموره * ومن أضاف
+له الاسم الاول ونقشه على خاتم كان له قبول عظيم عند كل أحد ومن توجه به اليه أجابه * وأما تصريف
+الاسماء فصوم ثلاثة أيام تكون طاهرا فاذا أردت هلاك أحد من الظالمين فاكتبها في ورق الاترج
+وادفنها في جانب الدار باسم من تريد وأمه واطلب ما تريد من الامراض والعلل فانه يكون ذلك
+والكتابة يوم الاثنين ضحوة النهار والبخور ميعة وصندل واذكر ما تريد من سقم أو مرض
+أو نزيف أو صداع أو نفخ ومهما أردت فافعل ولا تتركه أكثر من سبعة أيام فانه يهلك وأنت
+المطالب به * ومن كتبها في صحيفة من فضة ساعة الزهرة وحملها توجه لاي حاجة قضيت * ومن كتبها في
+رق غزال وشدها تحت جناح نسر وأمر الخدام نقلوه الى أي موضع أرادوه أن أردت القبول والجاه فاكتبها
+في اناء نظيف وامحها بماء الزيت وادهن به صفائي قاروره فاذا توجهت في حاجة فخذ من المذكور
+وادهن به وجهك واذهب الى حاجتك تقض وكل من رآك أحبك حبا شديدا * ومن كتبها على جلد ثعلب في
+ساعة سعيدة وحملها ومشى بين الاعداء فلا يراه أحد مادام ساكنا * واذا اردت ان ترى الجن
+وتسمع حديثهم ويطيعونك فجاءوا اليك ويخبرونك عما تسأل فاكتب الاسماء في جلد تيس ثم احرقه في
+شقفة واكتحل به فانك ترى الجن وتسمع حديثهم * فاذا أردت أن تسأل عن شيء فتكلم بالاسماء من
+أولها الى آخرها وقل بحق هذه الاسماء عليكم الا ما اجبتم طاعتي فانك ترى علماءهم بين يديك فسلهم
+عما تريد واذا كان لك حاجة اجلس في مكان نظيف واتلها دبر كل صلاة ٧ مرات مدة ثلاثة أيام
+تحضر الروحانية كل واحد منهم مقدم على جماعة كثيرة من الجن فاسجد شكر الله وسل عما تريد
+وتقول يا مغيث أغثني ٣ مرات ثم ارفع رأسك وقل حسبي الله لا اله الا هو عليه توكلت وهو رب العرش
+العظيم * وهذه الاسماء مجردة مجموعة تقول أجب يا كسفائيل و يا رقيائيل و يا مرقيائيل و يا مديائيل
+و يا ميكائيل و يا منائيل و يا رويائيل و يا دهريائيل و يا مطريائيل و يا لومرقبائيل و يا الياثيل و يا طوطائيل
+و يا هعقيائيل و يا قوطيائيل و يا عسقريائيل و يا دحائيل و يا قليا ئيل و يا درهائيل و يا مرقدائيل و يا دقيائيل
+و يا مرقيائيل و يا جبريائيل و يا سمسما ئيل و يا سعيا ئيل وهذه الاسماء أكثر سريان وهي الاسماء الشمخونية
+وتسمى أسماء الخلوة والشمخونية تقول اشمخيثا ميثا شخونيا و يا مدهوخا و يا سيد خونا يا شمرسيا
+و يا مرموطيف نار ستو يا جلطف و يا سيطع النور فاقطع بهما تفتح بالطف عنجي و يا مس هكيفال يا باقي
+
+**English:**
+and make them, O servants of these names, in a sea of darkness so that they do not see, deaf, dumb, blind, for they do not perceive.
+Then he is silent and does not speak, for he is hidden from them. Then you say: O God, I ask You by the hidden gentleness, hide me by Your hidden gentleness,
+for whoever You have hidden by the hiddenness of Your gentleness has indeed been hidden, for he is hidden. Then go wherever you wish, for if you speak you will appear to everyone,
+and the hidden secret will depart. And the name: Anṣī, O Shamakhyādh, there is no حاج لنا; its meaning in Arabic: I am the one who gives every
+thing, and everyone in the heavens and the earth. These names the spirits obey: al-Wījā and Asākhā, Khālidīn, and Yā Maṭiyā
+Salīṭā Lamūthā, its meaning in Arabic: rather, the one who aided the servants and had mercy on them when they fell into hardships. So whoever writes them on
+a mirror and places it under his head and asks the spirituality to inform him of what he wants, whether theft or an absent one or other than that,
+he will see that. Simḥūhu Līwarthā, Āh, and Wīh, its meaning: I am the one who singled out myself in my oneness over every thing; I am the Everlasting of eternities
+and the Age of ages and the Most Merciful of the merciful. Whoever recites these names, God fulfills his need and makes his affairs easy. * And whoever adds
+to it the first name and engraves it on a ring will have great acceptance with everyone, and whoever turns toward him by it, he answers him. * As for the disposal
+of the names: fasting three days, being pure. If you wish the destruction of one of the wrongdoers, write them on citron leaves
+and bury them in the side of the house, with the name of whom you want and his mother, and request whatever you want of diseases and ailments, for that will happen.
+And the writing is on Monday, in the forenoon, and the incense is mī‘a and sandalwood, and mention what you want of sickness or disease
+or bleeding or headache or swelling, and whatever you wish, do it, and do not leave it for more than seven days, for he will perish and you
+are the one demanded for it. * And whoever writes them in a sheet of silver at the hour of Venus and carries it, turns toward any need, it is fulfilled. * And whoever writes them in
+deer parchment and ties it under the wing of an eagle and commands the servants, they carry it to any place they wish. If you desire acceptance and rank, write it
+in a clean vessel and erase it with olive water and anoint my clear bottle with it; then if you turn toward a need, take from the mentioned
+and anoint your face with it and go to your need, it is fulfilled, and everyone who sees you will love you with intense love. * And whoever writes it on fox skin in
+an auspicious hour and carries it and walks among enemies, no one sees him as long as he is still. * And if you wish to see the jinn
+and hear their speech and they obey you, then they come to you and inform you of what you ask, write the names on a goat skin, then burn it in
+a shard and apply it as kohl, for you will see the jinn and hear their speech. * Then if you wish to ask about a thing, speak the names from
+their beginning to their end and say: by the right of these names upon you, except that you answer my obedience; for you will see their scholars before you, so ask them
+about what you want. And if you have a need, sit in a clean place and recite them after every prayer 7 times for three days.
+The spirituality will attend; each one of them is a leader over a large group of jinn. So prostrate in thanks to God and ask about what you want,
+and say: O Helper, help me 3 times, then raise your head and say: God is sufficient for me; there is no god except He; upon Him I rely, and He is the Lord of the Mighty Throne. * And these names, stripped and gathered, you say: Answer, O Kasfā’īl, and O Ruqiyā’īl, and O Marqiyā’īl, and O Madiyā’īl
+and O Mīkā’īl, and O Manā’īl, and O Rūyā’īl, and O Dahriyā’īl, and O Maṭriyā’īl, and O Lūmarqabā’īl, and O Ilyāthīl, and O Ṭūṭā’īl
+and O Ha‘qiyā’īl, and O Qūṭiyā’īl, and O ‘Asqarīyā’īl, and O Dāḥā’īl, and O Qaliyā’īl, and O Darahā’īl, and O Marqadā’īl, and O Daqiyā’īl
+and O Marqiyā’īl, and O Jibrā’īl, and O Samsamā’īl, and O Sa‘yā’īl. And these names are more flowing, and they are the Shamakhūni names.
+And they are called the names of seclusion and the Shamakhūni. You say: Ashmakhīthā Mīthā Shakhūniyā, and O Madhūkhā, and O Sayyid Khūnā, Yā Shamarsiyā
+and O Marmūṭīf Nār Stū, Yā Jalaṭf, and O Siṭa‘ al-Nūr, so cut by them, open by gentleness, ‘Anjī, and O Mas Hekifāl, Yā Bāqī
+
+Notes:
+[Grid content preserved as-is]
+
+---
+## Page 334
+
+**Arabic (original):**
+- ٣٢٨ -
+
+يَا اللهُ يَا صَاوُتُ يَا آلَ شَدَاي يَا طَهُوخٍ يَا مَهْلِيجِ القَوِيِّ المَتِينِ إِغَاثَتُكَ يَا دَائِمُ الأَبَدِ يَا طَهُوبَةٍ يَا غَلِيظُ طَبَايَا عَطُويَتْ عَطِيتُنَا طُلُوعٍ مِنْ قِبَلَا مَرْقُودًا وَدَهُورًا يَا شَلْطِيخٍ يَا طَهْرِطَفَا مَقْرِ يَلْهُوِيَةٍ وَ هـ وَ اِشْمَغِيثَا وَصَلَّى اللهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ.
+( فَصْلٌ الثَّالِثُ وَاِمْلَاؤُنَ فِيهِ شَرْحُ أَسْرَارِ دَائِرَةِ الْإِحَاطَةِ الْمَعْرُوفِ بِالدَّرِّ الْمُنَظَّمِ فِي
+شَرْحِ أَسْرَارِ الِاسْمِ الْأَعْظَمِ وَمَا ظَهَرَ عَنْهَا مِنَ التَّأْصِيلَاتِ وَالتَّفْرِيعَاتِ )
+* اِعْلَمْ وَفَّقَكَ اللهُ وَإِيَّاكَ أَنَّ الْكَشْفَ الْإِلَهِيَّ أَعْطَى أَنَّ هَذِهِ الدَّائِرَةَ الْمَصُونَةَ هِيَ دَائِرَةُ الْوُجُودِ وَفِيهَا
+أَسْرَارُ الْمَوْجُودَاتِ وَقَدْ جَمَعَتْ أَنْوَاعَ الْعُلُوِيَّاتِ وَلَا يَخْفَى أَثَرُهَا لِصَاحِبِ الذَّوْقِ السَّلِيمِ وَلِمَنْ عَلِمَ وَتَدَبَّرَ
+أَنَّ إِحَاطَةَ الْأَلِفِ تَمْثِيلُهَا الْمُسْتَحْسَنُ فِيهَا بِأُمِّ الْكِتَابِ وَالْحَقَائِقِ الْمُجَمَّعَةِ مِنْ أَنْوَاعِهَا الْمُمَثَّلَةِ وَهَذَا
+التَّصْوِيرُ نُورُ أَسْرَارٍ تَمُرُّ بِلِفَاتٍ لِلْعُقُولِ وَتَفْرِيعَاتٍ لِأَنْوَاعِ الْمَعْلُومَاتِ وَأَصْلِ الْمَعْلُومَاتِ إِمَّا وَاجِبٌ وَإِمَّا
+مُمْكِنٌ أَوْ مُمْتَنِعٌ وَأَنْوَاعُ الْوُجُودِ حَقٌّ وَأَصْرَحُ وَأَنْوَاعُ لَاهِيَاتٍ ذَاتِ صِفَاتِ أَفْعَالٍ وَأَنْوَاعِ الصِّفَاتِ
+جَلَالٍ وَجَمَالٍ وَأَنْوَاعِ الْإِنَابَاتِ أَنَابَةِ الْخُضُوعِ أَنَابَةِ الرَّفْعِ أَنَابَةِ الِاسْتِوَاءِ وَأَنْوَاعِ الدَّيْمُومَةِ أَزَلٌ وَأَنْوَاعِ
+أَبَدٍ وَأَنْوَاعِ الْعَالَمِ جَبَرُوتٍ وَمَلَكُوتٍ وَمُلْكٍ وَأَنْوَاعِ الزَّمَانِ مَاضٍ وَحَالٍ وَمُسْتَقْبَلٍ وَأَنْوَاعِ النَّشْأَةِ
+دُنْيَا بَرْزَخٍ أُخْرَى وَأَنْوَاعِ الْمَعَادِ جِهَةِ أَعْرَافٍ نَارٍ وَأَنْوَاعِ عَالَمِ الْحَقَائِقِ الْآتِي رُوحِ قَلْبٍ جَسَدٍ وَأَنْوَاعِ
+الصُّوَرِ الْإِنْسَانِيَّةِ نُطْفَةٍ عَلَقَةٍ مُضْغَةٍ وَأَنْوَاعِ الْآلَاتِ الَّتِي أَتَتْ بِأُصُولِ الْحُرُوفِ مُطْلَقًا وَهِيَ أَلِفُ الْمَيْلِ
+الْأَيْمَنِ أَلِفُ الِاسْتِوَاءِ أَلِفُ الْمَيْلِ الْأَيْسَرِ وَأَنْوَاعِ مُقَطَّعَاتِ نَقْطِ الْأَصْلِ نَقْطِ الْفَصْلِ نَقْطِ الْوَصْلِ وَالْغَايَةِ
+وَأَنْوَاعِ الْحَرَكَاتِ الرَّفْعِ وَالنَّصْبِ وَالْخَفْضِ وَالْجَزْمِ وَأَنْوَاعِ الْحُرُوفِ الْمَنْقُولَةِ اِعْتِ مِئَاتٍ لَامِيَاتٍ
+وَأَنْوَاعِ جَوَامِعِ الْكَلِمِ إِلَى النُّورِ الْمَرْقُومِ الْمَسْطُورِ وَأَنْوَاعِ الشَّرِيعَةِ الْإِيمَانِ وَالْإِحْسَانِ وَالْأَشْخَاصِ
+الْأَصْلِيَّةِ فِي الدَّوْرِ الْعَامِ آدَمَ إِبْرَاهِيمَ اِسْمَعِيلَ عِيسَى عَلَيْهِمُ الْأَشْخَاصُ الْأَصْلِيَّةُ فِي الدَّوْرِ الْبَادِي وَخَاتَمِ النُّبُوَّةِ
+الرَّابِطَةِ الْأُولِيَةِ آدَمَ الْوِلَايَةِ مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ ثُمَّ مَنْ بَعْدَهُ الْأَقْطَابِ الْأَرْبَعَةِ الْمُسْلِمُونَ بِدَلِيلٍ لِكُلِّ
+وَاحِدٍ مِنْهُمْ إِقْلِيمٌ يَحْكُمُ فِيهِ وَيَمُدُّ رُوحَانِيَّتَهُ وَلَا يَفْعَلُونَ أَمْرًا إِلَّا بِهِ لِأَنَّهُ إِحَاطَةُ الْكِتَابِ الْمَصْدَرِ بِهَا بِكُلِّ
+خِطَابِ الْكَوْنِ وَجَامِعِهِ لِكُلِّ الْجَوَامِعِ وَتَحْقِيقِ الْإِحَاطَةِ الْحَقِيقِيَّةِ السِّيَادِيَّةِ بِكُلِّ الْحَقَائِقِ لِكُلِّ الْحَقَائِقِ
+وَقَلْبِ الْأَكْوَانِ وَمَظْهَرِ فَلَكِ ظُهُورِ الْحَقِّ وَوُجُودِ الْهِلَالِ بِحَقِيقَةِ إِشَارَةِ لَا بَوَارِ * وَلَمَّا كَانَ ظُهُورُ
+ذَلِكَ فِي حَرْفِ اللَّامِ وَرَسْمِ ذَلِكَ فِي لَوْحٍ خَاصٍ وَظَهَرَ فِي مَرِّ الْكِتَابِ الْكَرِيمِ فِي قَوْلِهِ تَعَالَى مَا فَرَّطْنَا
+فِي الْكِتَابِ مِنْ شَيْءٍ بِإِحَاطَةٍ كَوْنِيَّةٍ مِنْ حَيْثُ الْحَقَائِقِ مِنْ كَوْنِهَا الْحَقَائِقَ وَقَلْبِ الْكَوْنِ وَمَدَارِ فَلَكِ
+ظُهُورِ الْحَقِّ وَوُجُودِ الْعَالَمِ وَلِذَلِكَ أُنْزِلَ عَلَيْهِ الْكِتَابُ الْعَزِيزُ وَكَانَتْ هَذِهِ الدَّرَّةُ هِيَ دَائِرَةَ مَدَارِ الْعِلْمِ
+وَنَبْذَةً لَطِيفَةً * وَسَيَأْتِي فِيمَا بَعْدُ فِي تَفْصِيلِهِ الْكَسْرِ وَالْبَسْطِ وَقَدْ ذَكَرْنَاهُ فِي كِتَابِنَا الْمُسَمَّى بِلَطَائِفِ
+الْإِشَارَاتِ وَكِتَابِنَا الْمُسَمَّى بِذَاتِ الدَّوَائِرِ وَإِنَّمَا ذَكَرْنَا هَذِهِ الدَّائِرَةَ لِشَرَفِ اطِّلَاعِكَ عَلَى أُصُولِ
+التَّنْوِيعَاتِ لِتَعْلَمَ ذَلِكَ وَلَوْ شَرَحْنَا الْعِبَارَةَ لَطَالَ عَلَيْكَ الْمَقَالُ وَيَكْفِي مَا ذَكَرْنَاهُ مِنَ التَّفْصِيلِ عَلَى طَرِيقِ
+الْإِجْمَالِ لِأَنَّ هَذِهِ الدَّائِرَةَ لَهَا قَدْرٌ عَظِيمٌ عِنْدَ سَائِرِ الْعُلَمَاءِ وَيَعْرِفُونَ مَرَاتِبَهَا عَلَى التَّفْصِيلِ * وَاعْلَمْ
+أَنَّهَا هَاجَرَتْ إِلَى زِيَارَةِ بَيْتِ الْمَقْدِسِ خَطَرَ بِبَالِي أَنْ أَزُورَهَا وَحَلَّ بِي أَنَّهَا كَذَلِكَ إِذَا بِرَجُلٍ تَعَرَّضَ لِي
+مِنَ الْأَبْدَالِ وَسَلَّمَ عَلَيَّ وَقَالَ يَا أَحْمَدُ أَرِيدُ أَنْ أَتْحَفَكَ بِفَائِدَةٍ جَلِيلَةِ الْقَدْرِ فَقُلْتُ لَهُ وَمَا هِيَ يَا سَيِّدِي فَقَالَ
+لِي
+
+**English:**
+- 328 -
+
+O God, O Ṣāwut, O Āl Shadāy, O Ṭahūkh, O Mahlīj, the strong, the firm, Your succor, O Everlasting of eternity, O Ṭahūbah, O thick Ṭabāyā, عطويت عطيتنا طلوع من قبلا مرقودا ودهورا, O Shalṭīkh, O Ṭahrṭafā, Maqr Yalhūyah, and H and W, Ashmaghīthā. And God blessed our master Muḥammad and his family and his companions and granted them peace.
+(Third chapter, and in it our filling: the explanation of the secrets of the Circle of Encompassment, known as the Well-Ordered Pearl, in the explanation of the secrets of the Greatest Name and what has appeared from it of the derivations and the branches.)
+* Know, may God grant success to you and to you, that the divine unveiling gave that this protected circle is the circle of existence, and in it are the secrets of beings, and it has gathered the kinds of the supernal things, and its effect is not hidden to the possessor of sound taste and to whoever knows and reflects
+that the encompassing of the alif, its commendable representation therein is by the Mother of the Book and the realities gathered from its represented kinds, and this
+depiction is a light of secrets that passes by indications to the intellects and branches to the kinds of the known things, and the أصل of the known things is either necessary or
+possible or impossible, and the kinds of existence are truth and more explicit, and kinds of non-divine entities possessing attributes of acts, and kinds of the attributes:
+majesty and beauty, and kinds of the turnings: the turning of submission, the turning of elevation, the turning of equilibrium, and kinds of perpetuity: eternity, and kinds of
+everlastingness, and kinds of the world: Jabarūt and Malakūt and Mulk, and kinds of time: past and present and future, and kinds of arising:
+worldly, barzakh, other, and kinds of the return: the direction of A‘rāf, Fire, and kinds of the world of realities: the coming spirit, heart, body, and kinds of
+the human forms: sperm-drop, clot, morsel, and kinds of the instruments that came with the roots of the letters absolutely, and they are the alif of the right inclination,
+the alif of equilibrium, the alif of the left inclination, and kinds of the cuttings: point of the أصل, point of separation, point of connection, and the end,
+and kinds of the movements: raising, نصب, lowering, and jussive, and kinds of the transferred letters: ‘it, hundreds, lāmiyyāt,
+and kinds of the comprehensives of speech to the inscribed, written light, and kinds of the law: faith and excellence, and the original persons
+in the general cycle: Adam, Abraham, Ismā‘īl, Jesus, upon them be the original persons in the beginning cycle and the seal of prophethood
+the first bond, Adam of sainthood, Muḥammad, may God bless him and grant him peace, then after him the four poles, the Muslims, by indication for each
+one of them a region in which he rules and extends his spirituality, and they do not do any matter except by it, because it is the encompassing of the source-book by it with every
+address of the cosmos and its comprehensive for every comprehensive, and the realization of the true sovereign encompassing with every realities
+
+---
+## Page 335
+
+**Arabic (original):**
+- ٣٢٩ -
+
+بينما أنا جالس في بعض خلواتي مشتغلاً بوردى وصلاتي إذ كشف لى عن لوح أشاهده وأرى هو
+مكتوب فيه فوجدت فيه خطوطاً ودائرة وحروفاً وأسماء ثم تمثل لى روحانياً نورانياً فناولني إياه
+فأخذته وقد زاد قلقي ولم أعرفه فبينما أنا كذلك إذ غلبني النوم فرأيت أمير المؤمنين علي بن أبي طالب
+كرم الله وجهه وهو واقف سلم علي فرددت عليه السلام فقال لى أين اللوح فقلت له ها هو فأخذه فقبله
+وقال لى اعلم أن هذا اللوح فيه سر الحقيقة ومعرفة الأسرار الإلهية * وقد جمع الجفر الذي ألفته وسميته
+بلوح القضاء والقدر فإن فيه سر الألف ومبدأ الاسم الأعظم ودورة الأقطاب والخلفاء ثم ناولني
+الدائرة ووضع يده الشريفة على اسم الذات وقال لى يا هذا هذا مبدأ الاسم الأعظم ثم ذهب وتركني
+وها أنا قد جئت إليك فقبلتها وأخذتها منه وقد ذكرتها في أول الكتاب إجمالاً وههنا تفصيلاً
+وأذكر ما فيها من الأسرار الخفية وما تضمنت من الأنوار الحرفية وذلك بإذن من النبي صلى الله عليه
+وسلم وهو أن رأيته في المحراب والإمام علي يذكر هذه الدائرة واللوح فقال لى هكذا رأيتها في
+اللوح المحفوظ وقد أراني سرها جبريل عليه السلام هذه الصورة فقلت له أريد أن أشرحها فقال لى
+لا بأس وقد انتبهت من النوم فتأملتها فرأيتها دائرة قد حوت جميع الأسرار فحروفها شفع ووتر
+وأسماؤها مفرقة وجمع وقد ذكرت حرف الألف ونسبته من هذا المعنى وبهذا الشرح وأتوسل
+إلى الله أن يلهمني رشدي ويعطيني الجزيل إنه كريم وهاب وأن ينفع بها كل طالب بمنه
+وهذه صورتها
+
+[Image of the diagram]
+
+* واعلم أن هذه الدائرة قد احتوت على ما يظهر في الكون من الملوك وأرباب الدول وما يحدث
+من الحوادث وما يقع فيها من الحروب ودولة ومن يحكمها من الأمراء وأسماء ملوكها وهو لمن
+عرف التكسير وبسط الحروف وضرب كل أصل بأصوله لأن كل حرف إذا بسط عدده وتحققته
+من أي مرتبة ومن أي دولة فتعلم ما يكون من تلك الدولة فإن فيها جميع ما وضع في الجفر المسمى
+
+**English:**
+- 329 -
+
+While I was sitting in some of my seclusions, occupied with my wird and my prayers, behold, there was disclosed to me a tablet which I was observing and seeing; it was written in, and I found in it lines, and a circle, and letters, and names. Then a spiritual, luminous being appeared to me and handed it to me, so I took it, and my anxiety increased, and I did not know it. While I was thus, sleep overcame me, and I saw the Commander of the Faithful, ʿAli ibn Abi Talib, may God ennoble his face, standing; he greeted me, and I returned the greeting to him. He said to me, “Where is the tablet?” I said to him, “Here it is.” So he took it, kissed it, and said to me, “Know that this tablet contains the secret of the Reality and the knowledge of the divine secrets * and the jafr which I composed and named the Tablet of Decree and Destiny, for in it is the secret of the alif and the beginning of the Greatest Name and the cycle of the poles and the caliphs.” Then he handed me the circle and placed his noble hand upon the Name of the Essence and said to me, “O this one, this is the beginning of the Greatest Name.” Then he went away and left me. And here I have come to you, so I kissed it and took it from him. I mentioned it in the beginning of the book in summary, and here in detail. And I mention what is in it of the hidden secrets and what it comprises of the literal lights, and that by permission from the Prophet, may God bless him and grant him peace, and that is that I saw him in the mihrab, and Imam ʿAli mentioning this circle and the tablet, and he said to me, “Thus I saw it in the Preserved Tablet, and Gabriel, peace be upon him, showed me its secret, this form.” So I said to him, “I wish to explain it.” He said to me, “There is no harm.” And I awoke from sleep, so I contemplated it and saw it to be a circle that had encompassed all the secrets, for its letters are even and odd, and its names are separated and gathered. And I have mentioned the letter alif and its relation from this meaning, and with this explanation I beseech God to inspire me with my right guidance and give me the abundant, for He is Generous, Bestower, and that He benefit by it every seeker by His grace. And this is its form
+
+[Image of the diagram]
+
+* And know that this circle has contained what appears in the cosmos of kings and lords of states, and what occurs of events, and what takes place in it of wars and state, and who rules it from among the princes, and the names of its kings; and it is for one who knows the breaking apart and the spreading out of letters and the striking of every root by its roots, because every letter, when its number is spread out and you ascertain it, from which rank and from which state, then you learn what will be of that state, for in it is all that was placed in the jafr called
+
+---
+_End of translation — 335 pages._
