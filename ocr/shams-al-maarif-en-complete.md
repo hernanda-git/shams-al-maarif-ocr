@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 321 translated pages._
+_Auto-generated from 327 translated pages._
 
 ---
 ## Page 1
@@ -18251,4 +18251,374 @@ is the Throne of
 The Throne of the All-Mercifulness * He, تعالى, said: {The All-Merciful sat upon the Throne} and this is a reality of the existence by which the heavens and the earth were established. It rose without pillars, so the heights are levels held by elevation, and the secret of taking for origination. And to this Throne is attention. So the hand is the heavens and the earth, and the reality of length and width, and the ظهور of expansion and contraction, and the utmost of raising and lowering; its course is معنوية, and its ascent روحانية, and its witnessing is الفكرية, and its elevation is heavenly, and its contraction is thronely; it is not perceived by one of body, nor possessor of form, nor formed, by the concealment of the reality of the secret of numbers without numbering. So this is the reality of this Throne, and to it is the end of the Trustworthy Spirit, and at it the reality of Gabriel, عليه السلام, stood, and it is the beginnings of the Higher Assembly, and in it is heard the creaking of the pens while they write down what does not accept alteration and is not imagined in the pages of formation. So blessed is he who understood these thronely indications and the holy subtlety. (And the third Throne) the Throne of the Glorious; He, تعالى, said: {Possessor of the Glorious Throne} and it is the end of exaltation, rather the spirits glorify it. As for the first Throne, there is no veil nor covering by it; God عزّ الله the prophets and the chosen ones, the tamarisk, then the hope, and at it the reality of the intellects stood in the upper world, the abode of spirits. And the Glorious Throne, by it the spirits went and wandered in the structures of their phantoms and were disposed in the manufactured things of their trace and were formed in the molds of spirits, with the witnessing of the difference of forms in the molds of composition. And to this Throne is the end of the worlds of spirits and the drawing of the overflow of lights in the molds of letters in the circularity of the isthmuses, for the ظهور of the seal upon the circle with the witnessing of beauty and the emergence of judgment and the ظهور of knowledge. So this is the reality of the veils: its outward is the outward of power and its inward is the inward of command. So whoever reaches the two ends gathers the two upper matters, and whoever does not reach a presence that loosens his bond from the absolute and the going of the talisman [~] by its destruction with the fire of longings, then he is from speech in a pit and from abandonment in the existence of association, forsaken by the storms of beauty in the low ground of the contest. He, تعالى, said: {If they had heard, they would not have answered you} the verse. So whoever knew his aim did not wear the robe of deception and did not mix with the garments of Iblis. And this, after the pure washing and the hidden holding, necessarily obliged him to ways for promotion and the rolling up of the human form, with standing upon His, تعالى, saying: {O my regret over what I neglected in the side of God, and indeed I was among the mockers} so we seek refuge in God from abandonment and the turning of essences. (And the fourth Throne) the Noble Throne, and to it is the end of the numbers and the attribution of deeds in the greatest movement, and it is the secret of support for the acceptance of the courses of disposal, and by it is known the reality of the Real by which every thing stood, which in the right of the prophets is protection, and in the right of the saints preservation, and in the right of the repentant mercy, and in the right of the deniers vengeance * So whoever suspended in the balance of the Throne the balance of his deed, the subtleties of its lights outweighed, and the precision of its آثار extended * And know that the counterpart to forms by the counterpart of the Throne, and every upper Throne is for every lower one, so by the heights the secret of the lower things appeared, so the secret of the two worlds. The Throne contains the manifestation of its insight, and it has no insight; the monastery of the تصور of its deeds, nor forms nor manifestations, until it cuts off the attribution of forms to it and its lower aspect, in state and knowledge and witnessing and ورود. (And the fifth Throne) the Throne of عظمت. He, تعالى, said: {God, there is no god except Him, Lord of the Mighty Throne} and it is the witnessing of the command by the realities of the light of the eyes as they were before their existence and after they revolved in the sphere of their limits, so it witnessed the wondrous making and enters among those whom the Real called from a near place, and it is the Mighty Throne, and to it the قالبية deeds and the الفكرية glorifications ended. To it ascend the good word, the remembrances, and the hidden lights in the secrets, without a drawn letter nor a marked sign nor a limit
 
 ---
-_End of translation — 321 pages._
+## Page 322
+
+**Arabic (original):**
+- ٣١٦ -
+
+معلوم بل ذلك يتلاشى في الحضرة العظيمة ويضمحل في حساب اللاهوت منور النور وكاشف الصور
+يشاهد أهل التعظيم حقائق النور وهذا العرش سر باني وبرق روحاني يكسى ظاهره حلة الربوبية
+وباطنه أنوار الرحموتية فيوسين ومرسيرين وكون كونين وتنزيل أمرين وتقليب أصبعين باطنه
+عدم منه الكيف وظاهره يقطع عنه الابن شموس الطلاب إليها انتهاء أولها وعلوم الدقائق عند
+ورود الموجودات منه أمهاؤها وشهود الأحوال اللاهوتية وعنه صدور البوارق الكثيفة ومنه
+انبعاثات الشعاعات البرزخية حاوي القطبين والميزان أعني حقيقة ميكائيل المكملة الأولية وفيه الثمانية
+المختصة بالجنان لثمانية ودائرة النعيم وجنة الخلد وجنة البقاء وجنة الكرامة وجنة التجلي وجنة
+النظر وجنة السماع وجنة الحمام ومن عصم من الزيغ فاتبع الأمهات الراسخات ولم يقع في المشابهات
+الفانيات المتعلقات بأقصى الدرجات السفليات ومنعه بإشراقه النفسية والآنية العطرية وقصر
+الرمز عن رق كنزها صرفاً غير ممتزجة بالأكوان فقد تعلق بالعرش العظيم وسار على الصراط
+المستقيم وحينئذ يأتي الله بقطب سليم من العالمين وانفطر في سلوك الطالبين وانتقل من فضل الطالبين
+إلى حقيقة المطلوبين قال تعالى أو من كان ميتاً فأحييناه وجعلنا له نوراً يمشي به في الناس وقال
+تعالى ذلك فضل الله يؤتيه من يشاء الله ذو الفضل العظيم (والعرش السادس) عرش التدبير وهو
+عبارة عن تحقيق العرش الرباني وهو ذو المعارف اللطيفة والتلويحات الشريفة بطور الأطوار ومقام
+الأبرار وفيه إجابة الدعوات وتجليات الخلوات وتشكيل النورانيات هو حقيقة إخلاص الأنفس
+فيه سر ستره العلي وحكمه اللدني منه أسرار التدبير وفيه يتصل التقدير روح النفوس المعنوية
+والأرواح المتصافية المائية من الصحف المنزلة الأول حقائق التجليات العلويات صحف ٦ معلومة
+٣ من نسبة العقول و ٣ من نسبة الأرواح وأما الثلاثة الروحانية التي نزلت على الأرواح
+فهي العلميات والعمليات والرسوم العليات المنقوشة المكنونة التي أشرقت منها شموس الأرواح
+فصحيفة فيها قوة الفيض وحمل القبول فيه يقع تصرف المعاني المعلومات بالتلويحات
+الخارجة من كشف العبارات ويعبر من هذه الحقيقة على حقائق النزول الأدنى الأول محيط
+النتائج ومظهر العجائب وترقى للذاكرين على كثائف الركون إلى عالم المركبات والثاني فيه
+تصرف قوة الحروف الروحانيات وتشكيل التجليات وتقييد العلميات وصحف العمليات وزيادة
+قوة قلبه تصدر عنها القوة الفكرية تأثيراً حسناً في ذوات الأجرام وهو المعبر عنه بلسان التصوف
+الهمة المؤثرة فافهم ذلك والثالث هو تيار الاستنباطات العلوية في الترتيبات السفلية وموافقة المثل
+بالمثل وبه حكمة أو تدبر أو موضع وهو استواء الكمال في التشرف حتى يكون له حركة الباطن
+وهي حركة الظاهر وهذا هو الاعتدال وهو أول طور من أطوار المقربين بحضرة رب العالمين أنوار
+البرزخين وأقطاب الدائرتين ومصابيح الظاعنين فهذه حقيقة ما تقيدت به أنوار القلوب والأرواح
+من الأسباب الباطنة المطلقة قال تعالى إخباراً عما رسمناه وأنباء عن حقيقة ما أظهرناه إن هذا لفي
+الصحف
+
+**English:**
+Known, rather that vanishes in the great Presence and is effaced in the reckoning of the Godhead, the illuminator of light and the revealer of forms. The people of magnification behold the realities of light, and this Throne is the secret of a builder and a spiritual lightning; its outward is clothed with the robe of lordship, and its inward with the lights of mercy. Fuyusin and Marsirin and Kun Kunayn and the sending down of two matters and the turning of two fingers; its inward is nonexistence from it of how-ness, and its outward cuts off from it the son. The suns of the seekers, to it is the end of its first, and the sciences of the subtleties عند the arrival of existents from it, their mothers, and the witnessing of the divine states, and from it the issuing of the dense flashes, and from it the outpourings of the isthmian radiances, containing the two poles and the balance, I mean the reality of Michael, the first completion. And in it are the eight, specific to the gardens, for eight, and the circle of bliss, and the Garden of Eternity, and the Garden of Abiding, and the Garden of Honor, and the Garden of Manifestation, and the Garden of Vision, and the Garden of Hearing, and the Garden of Hammam. And whoever is protected from deviation followed the firmly rooted mothers and did not fall into the perishing similitudes attached to the utmost of the lower degrees, and was prevented by his psychic and momentary fragrant illumination, and the symbol was shortened from the veil of its treasure, purely, not mixed with the worlds, then he has تعلق to the عظیم Throne and has walked upon the straight path. And then God brings a sound pole from among the worlds, and it split in the conduct of the seekers, and moved from the فضل of the seekers to the reality of the sought ones. He, تعالى, said: “Or he who was dead, then We gave him life and made for him a light by which he walks among the people.” And He, تعالى, said: “That is the فضل of God; He gives it to whom He wills. God is Possessor of the عظیم فضل.” (And the sixth Throne) is the Throne of governance, and it is an expression for the realization of the divine Throne, and it is possessed of subtle knowledges and noble intimations in the mode of modes and station of the pious. And in it are the answering of prayers, the manifestations of seclusions, and the forming of the luminous things. It is the reality of the sincerity of souls. In it is the secret hidden by the Most High and His inner judgment; from it are the secrets of governance. And in it destiny is connected, the spirit of the معنوي souls and the purified watery spirits, from the revealed sheets, the first, the realities of the celestial manifestations, sheets 6 known: 3 from the relation of the intellects and 3 from the relation of the spirits. As for the three spiritual ones that descended upon the spirits, they are the sciences, the practices, and the highest inscribed, hidden forms from which the suns of the spirits shone. So a sheet in which is the power of effusion and the bearing of acceptance; in it occurs the disposition of the known meanings by the intimations issuing from the unveiling of expressions. And from this reality one passes to the realities of the lower descent, the first encompassing of results and the manifestation of wonders, and it ascends for the rememberers over the densities of reliance upon the world of composites. And the second: in it is the disposition of the power of the spiritual letters, the forming of manifestations, the restriction of the sciences, and the sheets of practices; and the increase of the power of his heart, from which issues the intellectual power, a good effect in bodies. And this is what is expressed in the tongue of Sufism: the effective aspiration—so understand that. And the third is the flow of the higher deductions in the lower arrangements and the correspondence of like with like; and by it is wisdom or deliberation or a place, and it is the equality of perfection in elevation, so that there may be for it the movement of the inward, and it is the movement of the outward. And this is moderation, and it is the first mode among the modes of the near ones in the presence of the Lord of the worlds: the lights of the two isthmuses, and the poles of the two circles, and the lamps of the travelers. So this is the reality of that by which the lights of hearts and spirits have been bound from the absolute inward causes. He, تعالى, said, informing of what We have drawn and announcing the reality of what We have manifested: “Indeed this is in the sheets...”
+
+---
+## Page 323
+
+**Arabic (original):**
+— ٣١٧ —
+الصُّحفُ الأولى صُحفُ إبراهيمَ وموسى فمن انعكس عن تفرقةِ الظاهرِ إلى جمعِ الباطنِ ووفَّى بالصورِ
+الحسيةِ كمالاً وبالكثائفِ إجمالاً وبالملكوتيةِ أحوالاً فأنبأنا الحقُ سبحانه وتعالى بقوله وإبراهيمَ
+الذي وفَّى بحقيقتها فهو في الحقيقةِ نارٌ بل نورها قرَّ في البرزخيةِ اللطيفةِ رب النورِ المتصلِ بالحركةِ
+العلويةِ نغماتُه للفناءِ للموتاتِ بتحريكه آلةَ البقاءِ باختلافِ الأنواعِ وهي من أعظمِ الآياتِ
+الشاهداتِ والمعجزاتِ الباهراتِ قل تعالى واختلافِ ألسنتكم وألوانكم فمن حقيقةِ هذا العالمِ
+العرشِ الملكوتِ نطق له سر الجماداتِ والنباتاتِ والحيوانِ من أصلِ وضعه على الحقيقةِ المعبرِ عنها
+والتوحيدِ المودعِ فيه فهذه غاياتُ الكمالِ في الظهورِ القلبي وأما نسبةُ الصحفِ الروحانيةِ القلبيةِ
+لحقيقةِ كشفها أن يكون ناسوتُه متصلاً بسرائرِ وحكمٍ باهراتٍ وقد نطقتِ العباراتُ ودقَّ نموذجُ
+الإشارةِ فإن زيد عليها لطيفةُ لمعٍ برقٍ خفُّ منه إلى الحقِ المحضِ الذي لا يعقلُ معناه ولا يدركُ منتهاه
+فهذه عدةُ العرشِ (والعرشُ السابعُ) عرشُ النزولِ نبه على ذلك النبي صلى الله عليه وسلم في
+قوله ينزلُ ربنا إلى سماءِ الدنيا آخر كل ليلةٍ بطوله وهو بيتُ العزةِ التي تدورها على البيتِ المعمورِ
+ولذلك نسبةُ العروشِ فهذه العروشُ حقيقةُ السترِ وإليه انتهاءُ عالمِ السترِ والحقيقةِ المستورةِ ولذلك
+كان في نسبةِ السترِ من الليلِ والنهارِ عبارةً عن السترِ فمن فهم أسرارَ الأستارِ فهم سر الإجابةِ في الدعاءِ
+والأستارِ السبعةِ سترُ الملكِ وسترُ التكويرِ وسترُ الدوائرِ وهو الحركةُ المعنويةِ وسترُ الغيبِ الأولِ هو
+الشوقُ وسترُ الجبروتِ الأوسطِ وهو البرزخُ وسترُ النفسِ وهو الخطُ الخيالي والتصرفِ وسترُ القلبِ
+وهو سرُّ المزجةِ الأولى والمزجةِ الثانيةِ وسترُ العقلِ وهو اتصالُ الشفيعةِ في الوتريةِ والحروفِ في
+الأعدادِ فهذه الأستارُ كلها حجبٌ بين الصانعِ والصنعةِ وبين الحقِ والحقيقةِ وبين اللطائفِ
+والكثائفِ وبين العلومِ والمعارفِ فمن رفع هذه الأستارِ شاهدَ حقيقةَ تلك الدارِ واللطائفِ الروحانيةِ
+فيدعو بما أراد ويشهدُ حقيقةَ الازديادِ وإلى هذا العرشِ المخصوصِ انتهاءُ الأنفاسِ البشريةِ والقوى
+الملكيةِ والتجلياتِ النبويةِ والدعواتِ الرساليةِ منها شهودُ المعجزاتِ وظهورُ الكراماتِ
+الخارقةِ للعاداتِ ومنه يتغلغلُ في بحارِ النهاياتِ من سواحلِ البداياتِ فاصبح إن كنتَ سابحاً
+واسرح إن كنتَ سارحاً فهذه دررُ الإشاراتِ بدت في أصدافِ العباراتِ وحقائقُ العلوياتِ نزلت في
+ربوعِ السفلياتِ فاشترها بثمنٍ يسيرٍ وابذل حقيقةَ ادخارك مهراً لعروسها قبل شربِ كؤسِ
+الحسرةِ من دنان ربنا فارجعنا له صالحاً غير الذي كنا نعملُ أعاذنا الله وإياكم من خذلانِ الطردِ
+إنه مجيبُ دعوةِ المضطرِ إذا دعاه ﱞ وأما حقيقةُ هذه العروشِ المتقدمةِ فهي ظرفُ الاستقرارِ
+العددي قال تعالى إخباراً عن ذلك لكل نبأ مستقرٌ وسوف تعلمون فمن كشف عن نظرهِ
+وعمى عن البصيرةِ خوطبَ بالعقلِ الخالصِ للاستعمالِ فمعنى من النقلةِ البرزخيةِ فمن كان ذلك حاضر
+وعقل في المقدماتِ عكسَ المستقبلِ وشاهد فيه مهابةَ الآمالِ وحقائقَ الأفعالِ فهذه هي
+العروشُ علوه والله الموفقُ
+
+**English:**
+The first sheets: the sheets of Abraham and Moses. So whoever is reversed from the separation of the outward to the gathering of the inward, and fulfills the sensory forms in perfection, and the dense things in summary, and the الملكوتية in states, then the Truth, سبحانه وتعالى, informed us by His saying: “And Abraham, who fulfilled.” In its reality, he is in truth fire, rather its light settled in the subtle isthmianity, the Lord of light connected with the higher movement; its tones are for annihilation, for the deaths, by its moving the instrument of abiding through the differing of the kinds, and they are among the greatest of the witnessing signs and the dazzling miracles. Say, تعالى, and the differing of your tongues and your colors. So from the reality of this world, the Throne of the ملكوت spoke to it the secret of the inanimate things and the plants and the animal, from the أصل of its placement upon the reality expressed by it and the oneness deposited in it. So these are the utmost ends of perfection in the heartly manifestation. As for the relation of the spiritual heartly sheets to the reality of their unveiling, it is that its nasut be connected with secrets and with dazzling judgments. And the expressions have spoken, and the model of the indication has become subtle; if there is added to it the subtlety of a flash of lightning, it is lightened from it to the pure truth whose meaning is not understood and whose end is not reached. So these are the equipment of the Throne. (And the seventh Throne) is the Throne of descent. The Prophet, صلى الله عليه وسلم, drew attention to that in his saying: “Our Lord descends to the lowest heaven at the end of every night,” in its length, and it is the House of Might that revolves upon the Inhabited House; and for that is the relation of the thrones. So these thrones are the reality of veiling, and to it is the end of the world of veiling and the veiled reality. And therefore, in the relation of veiling from night and day, there was an expression for veiling. So whoever understands the secrets of the veils understands the secret of the answering in supplication. And the seven veils: the veil of the kingdom, and the veil of folding up, and the veil of the circles, and it is the معنوي movement, and the veil of the first unseen, which is longing, and the veil of the middle جبروت, and it is the isthmus, and the veil of the soul, and it is the imaginal line and disposition, and the veil of the heart, and it is the secret of the first mixture and the second mixture, and the veil of the intellect, and it is the connection of the intercessor in oddness and the letters in numbers. So all these veils are curtains between the Maker and the made, and between the Truth and the reality, and between the subtleties and the dense things, and between the sciences and the knowledges. So whoever lifts these veils witnesses the reality of that abode and the spiritual subtleties, and he supplicates with whatever he wills and witnesses the reality of increase. And to this specific Throne is the end of the human breaths and the الملكية powers and the prophetic manifestations and the apostolic supplications; from it are the witnessing of miracles and the ظهور of the extraordinary karāmāt. And from it one penetrates into the seas of the ends from the shores of the beginnings. So arise, if you are a swimmer, and roam, if you are a roamer. So these are the pearls of the indications, appearing in the shells of the expressions, and the realities of the higher things descended into the quarters of the lower things. So buy them for a small price, and expend the reality of your ذخار as a dowry for its bride before drinking the cups of regret from the jars of our Lord. So return us to Him righteous, other than what we used to do. May God protect us and you from the disappointment of expulsion. Indeed, He is the One who answers the supplication of the distressed when he calls upon Him. And as for the reality of these preceding thrones, it is the ظرف of numerical stability. He, تعالى, said, informing of that: “For every tidings is a settled term, and you shall know.” So whoever has uncovered his sight and is blind to insight is addressed by the pure intellect for use, in the meaning of the isthmian transfer. So whoever was present in that and reasoned in the مقدمات reversed the future and witnessed in it the awe of hopes and the realities of deeds. So these are the thrones, its loftiness, and God is the One who grants success.
+
+---
+## Page 324
+
+**Arabic (original):**
+- ٣١٨ -
+
+( فصل في تقسيم الحروف على الملوك العلويات والسفليات والبرزخ المشيد )
+في السماء اثنا عشر برجاً انقسمت فيها الطبائع الأربع فبها الحارة واليابسة والنارية ثلاثة وكذا
+الترابية والهوائية والمائية وهذه البروج يتفرع منها كل فن في قسمة الحروف على البروج
+والأعضاء فالحارة اليابسة ثلاثة الحمل والأسد والقوس والترابية ثلاثة الثور والسنبلة والجدي
+والهوائية ثلاثة الميزان والدلو والجوزاء والمائية ثلاثة السرطان والعقرب والحوت وما ذاكرناه من العلويات
+والسفليات فتدبره فإنه نافع مهم لكل ما تريد والله الموفق للصواب وهذه صورة الدائرة كما ترى
+
+[داخل الدائرة]
+دائرة
+العالم الإنساني
+بسر الحروف
+فتأمل
+ترشد
+
+[التقسيمات داخل الدائرة]
+له من الحروف
+ا ه ط م ف ش ذ
+الناريات
+الحمل
+الأسد
+القوس
+
+له من الحروف
+ب و ي ن ص ت ض
+الترابيات
+الثور
+السنبلة
+الجدي
+
+له من الحروف
+ج ز ك س ق ث ظ
+الهوائيات
+الجوزاء
+الميزان
+الدلو
+
+له من الحروف
+د ح ل ع ر خ غ
+المائيات
+السرطان
+العقرب
+الحوت
+
+(فصل)
+
+**English:**
+(Chapter on the division of the letters upon the upper kings and the lower kings and the constructed isthmus)
+In the heaven are twelve zodiacal signs, in which the four natures are divided. Among them are the hot, the dry, and the fiery, three; likewise the earthy, the airy, and the watery. And these signs branch out from them every art in the division of the letters upon the signs and the members. So the hot dry are three: Aries, Leo, and Sagittarius; and the earthy are three: Taurus, Virgo, and Capricorn; and the airy are three: Libra, Aquarius, and Gemini; and the watery are three: Cancer, Scorpio, and Pisces. And what we have mentioned of the upper and the lower, reflect upon it, for it is useful, important for everything you want, and God is the One who grants success to what is right. And this is the form of the circle as you see.
+
+[Grid content preserved as-is]
+دائرة
+العالم الإنساني
+بسر الحروف
+فتأمل
+ترشد
+
+[Grid content preserved as-is]
+له من الحروف
+ا ه ط م ف ش ذ
+الناريات
+الحمل
+الأسد
+القوس
+
+له من الحروف
+ب و ي ن ص ت ض
+الترابيات
+الثور
+السنبلة
+الجدي
+
+له من الحروف
+ج ز ك س ق ث ظ
+الهوائيات
+الجوزاء
+الميزان
+الدلو
+
+له من الحروف
+د ح ل ع ر خ غ
+المائيات
+السرطان
+العقرب
+الحوت
+
+(Chapter)
+
+---
+## Page 325
+
+**Arabic (original):**
+- ٣١٩ -
+
+( فصل في معرفة هذا الجدول الذي اشتمل على قواعد كلية ) وفيه من بواطن الحروف وموازينها ومعرفة الطبائع والأرواح والأملاك العلوية والسفلية وقسمتها على الأيام والليالي والأعداد في الطول والعرض وهذه صورته كآتي:
+
+| زحل | مشتري | مريخ | شمس | زهرة | عطارد | قمر |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| ا | ه | ط | ف | ش | ذ | |
+| ب | و | ي | ن | ت | ص | |
+| ج | ز | ك | س | ث | ظ | |
+| د | ح | ل | ع | ر | خ | غ |
+| بارد يابس | معدنه | حار يابس | حار رطب | | بارد رطب | |
+| جدي دالي | القلع | | رطوبة | رطوبة | الحروف | له |
+| السبت | الأبيض | رطوبة | رطوبة | الحروف | سرطان | |
+| الأسود | درجة | الأسد | كثرة | الأربعة | الاثنين | |
+| ملكه | بارد | الأحد | الأحد | الزيج | معدنه | |
+| بارد يابس | بارد رطب | ذهب | ذهب | الميزان | علوية | العلم |
+| ميمون | الكوكب | ملكه | ملكه | عزرائيل | علوية | |
+| الحوت | إسرافيل | الجهة | الجهة | برقان | ميكائيل | |
+| | | | | الأحد | | الأربعاء |
+
+(الأملاك) نارية حار يابس (الكواكب ٢٠٤٩) وأما العمل به فهو أن تحسب عدد أي اسم كان عدده أكثر فهو الغالب، مثاله وجدنا اسم يعقوب الغالب عليه الهواء لأننا وجدنا القاف عدده ١٠٠ وما كان أعلى فهو النار ثم التراب ثم الهواء ثم الماء، فهذه الطبائع التي حلت فيها جميع الموجودات كلها * واعلم أنه لا يقوم الهيولي إلا من هذه العناصر وهي المبادئ * واعلم أن حروف النار والهواء والتراب والماء هو الموجود في الجدول ثم مجموع العناصر يشتمل على ما في الموجودات من خير وشر وحق وباطل وهدى وضلال وكلما يخطر في الأوهام وهذا باب يطول شرحه * فإذا أردت التصريف في العالم بما تريد من خير أو شر ( مثاله ) إذا اضطررت إلى دفع عدو أو جلب غائب أو رزق من صديق أو غيره فاعرف اسم ذلك الشخص الذي تقصده وابسط حروف اسمه كما علمت ثم انظر إلى أي شيء كان الغالب عليه من العناصر الأربعة فتضيف إليه ذلك العنصر، مثاله كان حروف اسمه تلائم حروف النار فتضيف إليها ذلك العنصر ناري، ثم بعد حرف الاسم إذا كانت مزدوجة فيكون العمل فيها بالبسط ٤ مرات وإن كانت منفردة كان البسط ٥ ثم انظم الأسماء المزدوجة ٤ باعة والمفردة خماسية فإنه يخرج لك من ذلك الأسماء أعز لها في ناحية فإذا فضل بعد نظم الأشياء شيء من الحروف فابسطه كالبسط
+
+**English:**
+- 319 -
+
+(Chapter on the knowledge of this table which has comprised universal rules) and in it are the inner aspects of the letters and their balances, and the knowledge of the natures, and the spirits, and the upper and lower angels, and their division upon the days and the nights and the numbers in length and width, and this is its form as follows:
+
+[Grid content preserved as-is]
+| زحل | مشتري | مريخ | شمس | زهرة | عطارد | قمر |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| ا | ه | ط | ف | ش | ذ | |
+| ب | و | ي | ن | ت | ص | |
+| ج | ز | ك | س | ث | ظ | |
+| د | ح | ل | ع | ر | خ | غ |
+| بارد يابس | معدنه | حار يابس | حار رطب | | بارد رطب | |
+| جدي دالي | القلع | | رطوبة | رطوبة | الحروف | له |
+| السبت | الأبيض | رطوبة | رطوبة | الحروف | سرطان | |
+| الأسود | درجة | الأسد | كثرة | الأربعة | الاثنين | |
+| ملكه | بارد | الأحد | الأحد | الزيج | معدنه | |
+| بارد يابس | بارد رطب | ذهب | ذهب | الميزان | علوية | العلم |
+| ميمون | الكوكب | ملكه | ملكه | عزرائيل | علوية | |
+| الحوت | إسرافيل | الجهة | الجهة | برقان | ميكائيل | |
+| | | | | الأحد | | الأربعاء |
+
+(the angels) fiery, hot, dry (the planets 2049) and as for working with it, it is that you count the number of any name; whichever of its number is greater, that is the dominant. Its example: we found the name Ya‘qub, the air dominant over it because we found the qaf its number is 100, and what is higher is fire, then earth, then air, then water; so these are the natures in which all existents have all settled. * And know that the hyle does not stand except from these elements, and they are the principles * And know that the letters of fire and air and earth and water are what is present in the table, then the total of the elements comprises what is in the existents of good and evil, truth and falsehood, guidance and misguidance, and whatever occurs in imaginations, and this is a chapter whose explanation is lengthy * فإذا أردت التصريف في العالم بما تريد من خير أو شر ( مثاله ) if you desire to dispose in the world according to what you want of good or evil (its example): if you are compelled to دفع an enemy or bring an absent one or provision from a friend or other than him, then know the name of that person whom you intend and spread out the letters of his name as you have learned, then look to what thing among the four elements was dominant over it, and you add to it that element. Its example: the letters of his name were in accord with the letters of fire, so you add to it that fiery element. Then after the letter of the name, if they are doubled, then the working in it is by spreading 4 times, and if they are single, the spreading is 5; then arrange the doubled names 4 ba‘ah and the single ones fivefold, for there will come out to you from that the names, more honored for them in a direction. If after arranging the things there remains something of the letters, then spread it as the spreading
+
+---
+## Page 326
+
+**Arabic (original):**
+— ٣٢٠ —
+
+في الأول ثم اعتبر هل هو زوج أم فرد فاعمل مثل الأول من الأسماء فإنه يخرج لك من ذلك أسماء
+القسم الذي تقسم به على الأعوان الثلاثة وصرفهم فيما تريد مثال ذلك عدد حروف الأسماء وعدد
+حروف النار جار على عدد الطبيعة وحروف النار كأقد منا فيكون العدد اهـ ط م فش ذ وسطه
+عدد ا ا ح دخ م س هـ ت س ع هـ ا ر ب ع و ن ث م ا ن و ل و ث ل ث م اى وس بع م اى هـ
+وأعداد الطبع الظاهر مفهوم لمن طلبه ومثال حرف الهوى ب و ي ن ص ت ض بسطها عددا
+اف ن ي ث ب ع هـ ش رهـ جملتها ٣٧ وأعداده ظاهرة وحروف الماء ج ز ك س ق ظ
+وبسطها عددا وجملتها ٣٩ حرفا وأعدادها معلومة والترابية د ح ل ع د خ خ وبسطها عددا وأعدادها
+معلومة لمن طلبها وأما معرفة حروف الأيام السبعة فقسمة إذا قسمت على سبعة تقسم على
+الكواكب فإذا أردت عملا من الأعمال في أى وقت خذ حروفه وأعداد الكواكب أعنى عدد
+حروفه وابسط الجميع كما تقدم وخذ عدد حروف الساعات التي بدأت فيها بالعمل وابسط الجميع
+كما تقدم وضف إلى ما معك من حروف الأسماء ثم استعمل الجميع وأما عدد حروف الأيام فحروف
+(يوم الأحد) بسطه عددا هـ ك ا ح د ن ا ح د ثم ا ن ى ا ربع هـ جملتها ٢٣ وبسطها
+وأعدادها ٥٥١ وهي معلومة حروف (يوم الاثنين) بسطها ا ح د ث ل ا ث و ر ا ح د خ م اى هـ
+خ م س ون ع ش ر هـ خ س ون جملتها ٣٤٣ بسطها (يوم الثلاثاء) ٣٥ حرفا (يوم الأربعاء) بسطها ٢١
+حرفا وأعدادها معلومة (يوم الخميس) بسطها ٣٦ وأعدادها معلومة (يوم الجمعة) كذلك يوم السبت
+بسطها ٣٦ حرفا فهذه حروف الأيام السبعة للكواكب السبعة أولها زحل وهو في الفلك السابع
+وبسطه س ب ع ث ٥ م ا ن ى هـ ث ل ث و ن وجملتها ١٦ حرفا المشتري بسطه وعدده ٤١ حرفا
+المريخ بسطه وعدده ٣١ حرفا الشمس بسطه ٦٧ حرفا الزهرة ٦٧ حرفا وأعدادها معلومة
+عطارد بسطه ٢٣ القمر بسطه ٢٥ وأعداده معلومة (حروف الساعات) الأولى بسطها
+عددا تبلغ ٥ حروف الثانية ٣٣ الثالثة ٢٧ الرابعة ٣٢ الخامسة ٣٣ السادسة ٢٩ السابعة ٣٢
+الثامنة ٢٤ التاسعة ٢٤ العاشرة ٥١ الحادية عشر ٢٥ الثانية عشر بسطها ٢٧ حرفا وأعدادها
+معلومة (حروف النهار) تبسط عددا ٢٧ (حروف الليل) ٢٠ وأعدادها معلومة * وأما
+ساعات الليل فمثل ساعات النهار فإذا أردت عملا بالليل وقد نفيت حروف الليل وأعداد حروفه
+٣٨٦١ وهذا يدخل في جميع أعمال الليل مثل ما يدخل بالنهار وسأبين لك كيفية التصريف الحروف
+في جميع مخلوقات الله والحيوان الناطق والصامت من خير أو شر أو جلب أو طرد أو مرض أو صحة
+(إذا أردت ذلك) اعرف اسم المعمول له وانظر عدد حروفه وواسطهم واعرف الموازين الأربعة وتصرف
+في الجلب والطرد والصحة والمرض مثال ذلك إذا كان اسم المطلوب محمد ابسط حروفه ٢٣ وأعداد الحروف
+تبسط عددا أرب ع ون ث م اى هـ أربع ون أربع هـ وأعداده ٥٠٠ ثم اعرف أن هذه موازين
+أربعة ميزان الجلب وهو أن تحسب عدد حروفه وأعداده كأعلم وجد أن ميزان الطرد والجلب ميزان
+الصحة والسقم وفي وقت العمل تضيف إليها بضبطها كما تقدم أول الكتاب من الساعات والعناصر وغير
+ذلك فإذا تم ذلك فقد عرفت السر المكنون * واعلم أنه كلما كان دينك أطهر كانت طاعة المخلوقات
+لك
+
+**English:**
+— 320 —
+
+in the first, then consider whether it is even or odd, and act like the first of the names, for there will come out to you from that names
+of the division by which you divide upon the three helpers and their disposal in what you want. An example of that: the number of the letters of the names and the number of
+the letters of fire proceed according to the number of nature, and the letters of fire are as we have mentioned, so the number is اهـ ط م فش ذ, its middle:
+number ا ا ح دخ م س هـ ت س ع هـ ا ر ب ع و ن ث م ا ن و ل و ث ل ث م اى وس بع م اى هـ
+and the numbers of the apparent nature are understood by whoever seeks it. And an example of the letter of air: ب و ي ن ص ت ض, spread it out in number:
+اف ن ي ث ب ع هـ ش رهـ, its total is 37, and its numbers are manifest. And the letters of water: ج ز ك س ق ظ
+and spread it out in number, and its total is 39 letters, and its numbers are known. And the earthy: د ح ل ع د خ خ, and spread it out in number, and its numbers are
+known to whoever seeks them. And as for the knowledge of the letters of the seven days: a division, if you divide it by seven, it is divided upon the
+planets. So if you desire a work from the works at any time, take its letters and the numbers of the planets, meaning the number of
+its letters, and spread all as has preceded, and take the number of the letters of the hours in which you began the work and spread all
+as has preceded, and add to what you have of the letters of the names, then use all. And as for the number of the letters of the days, the letters of
+(the day of Sunday) its spread in number: هـ ك ا ح د ن ا ح د ثم ا ن ى ا ربع هـ, its total is 23, and its spread
+and its numbers are 551, and they are known. The letters of (the day of Monday) its spread: ا ح د ث ل ا ث و ر ا ح د خ م اى هـ
+خ م س ون ع ش ر هـ خ س ون, its total is 343, its spread (the day of Tuesday) 35 letters, (the day of Wednesday) its spread 21
+letters, and its numbers are known, (the day of Thursday) its spread 36, and its numbers are known, (the day of Friday) likewise, the day of Saturday
+its spread 36 letters. So these are the letters of the seven days for the seven planets: its first is Saturn, and it is in the seventh sphere,
+and its spread: س ب ع ث ٥ م ا ن ى هـ ث ل ث و ن, and its total is 16 letters. Jupiter, its spread and its number 41 letters.
+Mars, its spread and its number 31 letters. The sun, its spread 67 letters. Venus 67 letters, and its numbers are known.
+Mercury, its spread 23. The moon, its spread 25, and its numbers are known. (The letters of the hours) the first, its spread
+in number reaches 5 letters; the second 33; the third 27; the fourth 32; the fifth 33; the sixth 29; the seventh 32;
+the eighth 24; the ninth 24; the tenth 51; the eleventh 25; the twelfth, its spread 27 letters, and its numbers are
+known. (The letters of the day) are spread in number 27. (The letters of the night) 20, and their numbers are known. * And as for
+the hours of the night, they are like the hours of the day. So if you desire a work at night and you have negated the letters of the night and the numbers of its letters
+3861, and this enters into all works of the night just as it enters by day. And I shall make clear to you the manner of disposing the letters
+in all the creatures of God, the speaking and the silent animal, of good or evil, or bringing or driving away, or sickness or health.
+(If you desire that) know the name of the one for whom it is worked, and look at the number of its letters and their middle, and know the four balances and dispose
+in bringing, driving away, health, and sickness. An example of that: if the name of the sought one is Muhammad, spread out its letters 23, and the numbers of the letters
+are spread in number أرب ع ون ث م اى هـ أربع ون أربع هـ, and its numbers are 500. Then know that these are four balances:
+the balance of bringing, which is that you count the number of its letters and its numbers as you know; it was found that the balance of driving away and bringing is the balance
+of health and sickness. And at the time of the work you add to them by ضبطها as has preceded at the beginning of the book, from the hours and the elements and other
+than that. So if that is completed, then you have known the hidden secret. * And know that whenever your religion is purer, the obedience of the creatures
+to you
+
+---
+## Page 327
+
+**Arabic (original):**
+- ٣٢١ -
+
+لك حسن وقامت لك المحبة في قلوب المخلوقات حتى الحجرة والحجيرة وأما اختلاف الأمطار ومنعها
+واختلاف الرياح ومنعها فإن لها موازين تختص بها إذا عرفتها فقد ملكك الباري الدنيا بأسرها ثم
+الآخرة إن كنت من أرباب العقول واحرص إذا علمك الله من أن توقفه على مخلوق فهو مطبوع
+فيه بخلاف الذهب والفضة واليواقيت والجواهر وهذا ميزان الطرد فإذا عرفته تزوله في
+أي وقت كان وحروفه ا ر ب ع و ن ت س ع م هـ ا ت ن عددها ١٦ حرفا وأعدادها ١٢٧٩
+ويضاف لها ميزان الحاب المتقدم وأما الرياح الأربعة فهذا ميزانها م ا ت ى ن ع ش ر هـ اح د ث م ان
+ى هـ عددها ١٩ ويضاف له ميزان الجب (وأما إحضار الوحوش) فتضيف إليها ميزان الطرد وميزان
+الهوام تصور الميزان وتأخذ عدد حروفه تصنع به ما تقدم هكذا خ م س هـ س ت ا ح د ا ر ب ع و ن
+جملتها ١٦ وأعدادها ١٠١٦ وإحضارها كما تقدم (وأما ميزان دواب البحر) فهو ا ر ب ع هـ س ت ١٠
+ح د ث ل ا ث ون ث م ا ن ى هـ م ات ى ن عدده ٤٢ وأول أعداد الحروف مفهومة وميزان
+الطيور تضيف إليه ما شئت من خير وشر وتخرج من الأعداد التي ذكرناها مخرجها مثاله مخرج
+العشر من عشرة والتسع من تسعة وهكذا وإذا أردت أن تعلم مخرج العنصر الناري الذي هو من
+١١٢٥ إذا أردت العمل به لأي أمر تأخذ مخارجها وأضف إلى ميزان أي عمل كان وهكذا
+جميع الأعداد في جميع الأعمال وأما العناصر الأربعة فإن كل عنصر منها له أربع درج وكل
+درجة منها لها ميزان فأما عنصر الماء فهو من خمس درج وهذه موازينها * الأول هواء النار (الدرجة
+الأولى) نار مستوقد أبسط حروفها ٢٨ حرفا وأعداد الحروف ٣٩٦٩ (الدرجة الثانية) نار
+تأكل وتشرب وحروفها ٦٦ وأعدادها ٥٣٥ (وأما موازين الهواء) فهو أنواع هواء يهب مما
+ينفع الناس في البر والبحر وبسطه معلوم وحروفه ١٣٨ (الدرجة الثالثة) هواء العشق والمحبة
+وبسطه معلوم وحروفه ٦٦ (الدرجة الرابعة) هو جمع الطيور وبسط العدد معلوم وحروفه
+٤٣٦ (الدرجة الخامسة) هواء بارد مفسد ٠٠٠ وأعدادها معلومة لمن يستخرج الأعداد وإنما
+قلت لم يضع الأعداد ليحوز الطالب استخراج عددها وفك رموزها (موازين الماء) وهي خمس
+درج (الدرجة الأولى) الماء العذب الفرات يبسط عدد ا وعدد الحروف ٩٤٤٠٩ (الدرجة الثانية) الماء المر
+المتين يبسط عدد ا وحروفه ٧٣ (الدرجة الثالثة) الماء الزعاق يبسط عدد ا وحروفه ٤١٩٧٢ (الدرجة
+الرابعة) الماء الودق الذي لا طعم له يبسط عددا وحروفه ٩٤ (الدرجة الخامسة) الماء الثقيل على
+الإنسان وبسطه ٩٣ وأعداده مفهومة وأما موازين التراب فهي هذه (الدرجة الأولى) تراب الحب والزرع
+وبسطه عدد ا ٢٩ وأعدادها ٣١٢٤ (الدرجة الثانية) تراب المعادن وبسطه ٤٥ أعدادها ٣١٤ (الدرجة الثالثة)
+التراب المستعمل وبسطه ١١٨ (الدرجة الرابعة) تراب السياح الذي لا يطلع فيه نبات وبسطه ١٩١٤١ فهذه
+موازين مهمة فإذا أردت أن تتصرف في جميع الموجودات كلها من خير أو شر أو طرد أو
+تسليط حيوان أو زجر أمطار أو غير ذلك فابسط حروف ذلك النوع وانظر ما غلب عليه من
+الطبائع فأضف إليه طبيعة ذلك العنصر ثم إذا كان الوقت الذي بدأت فيه ليلا أو نهارا أضف إليه
+ميزان ذلك ثم ميزان الساعة من أي ميزان من هؤلاء ومن الكواكب فإذا اجتمعت معك هذه الموازين
+( ٢١ - شمس المعارف - ٥ )
+
+**English:**
+- 321 -
+
+to you is good, and affection will arise for you in the hearts of the creatures, even the stone and the little stone. And as for the difference of the rains and their prevention,
+and the difference of the winds and their prevention, then they have balances peculiar to them; if you know them, then the Creator has made you possess the world in its entirety, then
+the Hereafter, if you are among the possessors of intellect. And be keen, if God teaches you, not to make Him stand upon a creature, for it is stamped
+in it, unlike gold and silver and rubies and jewels. And this is the balance of driving away; if you know it, you drive it away in
+any time that it may be. And its letters are ا ر ب ع و ن ت س ع م هـ ا ت ن, their number 16 letters,
+and their numbers 1279. And there is added to it the previously mentioned balance of attraction. And as for the four winds, this is their balance: م ا ت ى ن ع ش ر هـ اح د ث م ان
+ى هـ, their number is 19, and to it is added the balance of the pit. (And as for bringing wild beasts) you add to it the balance of driving away and the balance of
+vermin. You picture the balance and take the number of its letters; you do with it what has preceded thus: خ م س هـ س ت ا ح د ا ر ب ع و ن,
+its total is 16, and its numbers are 1016, and bringing them as has preceded. (And as for the balance of sea beasts) it is ا ر ب ع هـ س ت ١٠
+ح د ث ل ا ث ون ث م ا ن ى هـ م ات ى ن, its number is 42, and the first of the numbers of the letters is understood. And the balance of
+birds: you add to it whatever you wish of good and evil, and you extract from the numbers that we have mentioned their extraction, its example: the extraction
+of ten from ten and nine from nine, and thus. And if you desire to know the extraction of the fiery element, which is from
+1125, if you desire to work with it for any matter, you take its extractions and add to the balance of any work that may be, and thus
+all the numbers in all the works. And as for the four elements, then each element among them has four degrees, and each
+degree among them has a balance. As for the element of water, it is of five degrees, and these are its balances: * the first is air of fire (the degree
+the first) a blazing fire, its letters spread out are 28 letters, and the numbers of the letters are 3969. (The second degree) fire
+that eats and drinks, and its letters are 66 and their numbers are 535. (And as for the balances of air) it is kinds of air that blow from what
+benefits people on land and sea, and its spread is known, and its letters are 138. (The third degree) the air of passion and love,
+and its spread is known, and its letters are 66. (The fourth degree) is the gathering of birds, and the spread of the number is known, and its letters are
+436. (The fifth degree) is a cold corrupting air 000, and their numbers are known to whoever extracts the numbers. I only
+said I did not place the numbers so that the student may attain the extraction of their number and the unraveling of their symbols. (Balances of water) and they are five
+degrees: (the first degree) sweet, fresh water, its number is spread out, and the number of the letters is 94409. (The second degree) bitter
+water, firm, its number is spread out, and its letters are 73. (The third degree) briny water, its number is spread out, and its letters are 41972. (The
+fourth degree) the dew-water that has no taste, its number is spread out, and its letters are 94. (The fifth degree) water heavy upon
+man, and its spread is 93, and its numbers are understood. And as for the balances of earth, they are these: (the first degree) earth of love and planting,
+and its spread is number 29, and its numbers are 3124. (The second degree) earth of minerals, and its spread is 45, its numbers are 314. (The third degree)
+the used earth, and its spread is 118. (The fourth degree) the earth of travelers in which no plant emerges, and its spread is 19141. So these
+are important balances. If you desire to dispose in all existents altogether, of good or evil, or driving away, or
+setting an animal upon one, or restraining rains, or other than that, then spread out the letters of that kind and look at what of
+the natures predominated over it, then add to it the nature of that element. Then if the time in which you began was night or day, add to it
+the balance of that, then the balance of the hour from whichever balance of these and from the planets. So if these balances are gathered with you
+
+---
+_End of translation — 327 pages._
