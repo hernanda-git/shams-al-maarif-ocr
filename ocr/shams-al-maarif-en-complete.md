@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 327 translated pages._
+_Auto-generated from 331 translated pages._
 
 ---
 ## Page 1
@@ -18621,4 +18621,258 @@ the natures predominated over it, then add to it the nature of that element. The
 the balance of that, then the balance of the hour from whichever balance of these and from the planets. So if these balances are gathered with you
 
 ---
-_End of translation — 327 pages._
+## Page 328
+
+**Arabic (original):**
+- ٣٢٢ -
+
+مع بسط الاسم الذي أردته، فإن كان عدده مزدوجاً فانظم الأمهات رباعية، وإن كان مفرداً انظمها خماسية كما عرفت. والأمثال لذلك إذا أردت عملاً لإنسان لغرض من الأمور وكان اسمه يعقوب، فابسطه هكذا: ع ي ن، ش ي ن، ر ا ء، ع ي ن، س ي ن، ب ا ء، و ا و، ن و ن، م ي م، ا ل ف، ي ا ء، هـ ا ء، س ي ن، ت ا ء، هـ ا ء، ا ل ف، ث ا ء، ن و ن، ي ا ء، ن و ن، جملتها ٢١ حرفاً وأعدادها ١٨٦٦، ثم أضف إليها الموازين التي ذكرت، ثم انظر الغالب عليها من الطبائع، فإن كان النار فمن النار، وإن كان الماء فمن الماء، وإن كان الهواء فالهواء، وإن كان التراب فمن التراب. مثال ذلك النار فيكون العمل بلوح أو شقف أو فتيلة أو بيضة أو قارورة، وأعمال الهواء تعلق في الهواء أو تحمل، وأعمال الماء تسقى الماء وتدفن أو ترمى فيها، وأعمال التراب شيء يدفن فيه أو في قبر أو تحت عتبة الدار أو في مفرق الطريق. والبخور للخير كل شيء عرفه طيب، وللشر الخبيث. وإذا أردت أن تعلم صحة الأسماء من سقمها فزنها بميزان صاحب اليوم الذي له الأسماء، مثاله يوم الأحد للشمس وله من الأرض الذهب، وإذا بسطت حروفه وحروف الأعداد وأسقطتها ٧٧ على عدد الأيام يأتي فاضلها ١ فكانت الشمس ليوم الأحد، وإذا أخذت اسم الذهب وبسطه حروفاً كانت ٧٧ فإذا أسقطتها مثل الأول ٧٧ يبقى واحد، وإذا أخذت الاسم الذي خلق الله الملك منه كانت حروفه ١٩ فإذا أسقطتها مثل الأول ٧٧ يبقى واحد، وإذا أخذت الاسم الذي خلق الله ذلك الملك منه كان على عدد الكواكب والجواهر، وكذلك جميع أقسامه وعزائمه بما يوافق وتوزن على هذه الصفة، فما وافق فهو صحيح، وما خالف فارجع إلى الميزان ورد كل حرف إلى موضعه، فما كان زائداً فاحذفه، وكذلك النقط على هذه الصفة بقية سائر الحروف.
+
+فصل في معرفة السر الخفي والعلم المضيء في ذكر الأمهات الجامعة للحروف الثمانية ومراتبها وأيامها وأملاكها وما لها من الأسماء الحسنى وهي تسع مراتب:
+وهو أن هذه الأمهات اللازمة بالحروف ٩ مراتب، لكل مرتبة يوم وكوكب يتحرك به وأسماء شريفة من أسماء الله الحسنى ويوم يشكل يرصده وهي هذه كآت:
+أ ي ق ع | ب ك ر | ج ل ش | د م ت | هـ ن ث | و س خ | ز ع د | ح ف ض | ط ص ظ
+١١١١ | ٢٢٢ | ٣٣٣ | ٤٤٤ | ٥٥٥ | ٦٦٦ | ٧٧٧ | ٨٨٨ | ٩٩٩
+
+ومجموع المراتب تعلمه بعد تخليصه وتجريبه ومحضه لعلم الحروف، فإذا أردت عملاً خذ مرتبة من هذه المراتب وأخرج أعدادها مجملاً ومفصلاً ومبسوطاً وأضف لها عدد الحروف جميعاً وعدد الاسمين، فإذا أكمل جملته فضع وفقاً يوافق ذلك اليوم الذي قصدت فيه العمل واكتبه في رق ظبي بمسك وزعفران وماء ورد، ويكون عملك في زيادة القمر من أول الشهر إلى نصفه، ثم اكتب الحروف مفردة جميعها دائرة حول الوفق، وله رياضة ٧ أيام تستخدم بها الروحانية العلوية والسفلية فاجعله وقرب العمل واستدل بالحاضر على الغائب ترشد. (أ ي ق ع ١١١١) يومها الأحد ومن الكواكب الشمس ومن الأوفاق المسدس ومن الأسماء الحسنى حي قيوم عدد الظاهر والمفصل والمبسوط. (ب ك ر ٢٢٢) يومه الاثنين وكوكبه القمر ووفقه الثلاثي ومن أسماء الله رحمن رحيم.
+(ج ل ش
+
+**English:**
+- 322 -
+
+With the expansion of the name which you intended, if its number is even, then arrange the mothers as a quaternary, and if it is odd, arrange them as a quinary as you have known. And examples of that: if you want an عمل for a person for a purpose among matters, and his name was Ya‘qub, then expand it thus: ع ي ن, ش ي ن, ر ا ء, ع ي ن, س ي ن, ب ا ء, و ا و, ن و ن, م ي م, ا ل ف, ي ا ء, هـ ا ء, س ي ن, ت ا ء, هـ ا ء, ا ل ف, ث ا ء, ن و ن, ي ا ء, ن و ن, its total is 21 letters and its numbers are 1866, then add to it the balances which were mentioned, then look at what predominates over it from the natures; if it is fire, then from fire, and if it is water, then from water, and if it is air, then air, and if it is earth, then from earth. An example of that: fire, so the work will be on a tablet or a shard or a wick or an egg or a bottle, and the works of air are hung in the air or carried, and the works of water are watered with water and buried or thrown into it, and the works of earth are something in which it is buried, or in a grave, or under the threshold of the house, or at the fork of the road. And incense for good: every thing whose scent is known is good, and for evil: the foul. And if you want to know the soundness of the names from their sickness, then weigh them by the balance of the master of the day to which the names belong. Its example: Sunday for the sun, and from the earth for it is gold; and if you expand its letters and the letters of the numbers and drop them 77 upon the number of days that comes, its remainder is 1, so the sun was for Sunday. And if you take the name of gold and expand it as letters, it was 77; then if you drop it like the first, 77, one remains. And if you take the name from which God created the angel, its letters were 19; then if you drop it like the first, 77, one remains. And if you take the name from which God created that angel, it was upon the number of the planets and jewels, and likewise all its divisions and its azāʾim, with what accords and is weighed upon this description; so what accords is sound, and what differs, then return to the balance and return every letter to its place; what was زائد, then delete it, and likewise the dots upon this description, the remainder of the rest of the letters.
+
+Chapter on the knowledge of the hidden secret and the luminous science in mentioning the comprehensive mothers of the eight letters and their ranks and their days and their angels and what of the beautiful names belongs to them, and they are nine ranks:
+And it is that these mothers bound with the letters are 9 ranks; for every rank a day and a planet by which it moves, and noble names from the beautiful names of God, and a day that is formed, it observes it, and they are these as follows:
+أ ي ق ع | ب ك ر | ج ل ش | د م ت | هـ ن ث | و س خ | ز ع د | ح ف ض | ط ص ظ
+1111 | 222 | 333 | 444 | 555 | 666 | 777 | 888 | 999
+
+And the total of the ranks you know after its purification and its trial and its pure extraction for the science of letters. So if you want an عمل, take a rank from these ranks and extract its numbers in total, in detail, and in expansion, and add to it the number of all the letters and the number of the two names; then when its total is completed, place a wafq corresponding to that day in which you intended the work, and write it on gazelle parchment with musk and saffron and rose water, and let your work be in the increase of the moon from the beginning of the month to its half, then write the letters separately, all of them, in a circle around the wafq, and it has a 7-day riyāḍa by which you use the upper and lower spiritual beings, so make it and bring the work near and infer the present from the absent, you will be guided. (أ ي ق ع ١١١١) its day is Sunday, and from the planets the sun, and from the awfāq the hexagon, and from the beautiful names حي قيوم, the number of the apparent and the detailed and the expanded. (ب ك ر ٢٢٢) its day is Monday and its planet the moon and its wafq the triangular, and from the names of God رحمن رحيم.
+(ج ل ش
+
+---
+
+---
+## Page 329
+
+**Arabic (original):**
+— ٣٢٣ —
+
+( جَلَشَ ٣٣٣ ) يَوْمُهُ الثَّلَاثَاءُ كَوْكَبُهُ الْمِرِّيخُ وَفْقُهُ سَبَاعِي وَمِنْ أَسْمَاءِ اللَّهِ مَلِكُ قُدُّوسٍ ( دَمَتَ ٤٤٤ )
+يَوْمُهُ الْأَرْبِعَاءُ كَوْكَبُهُ عُطَارِدُ وَفْقُهُ الرُّبَاعِي أَسْمَاؤُهُ كَبِيرٌ مُتَعَالٍ ( هَنَثَ ٥٠٠ ) يَوْمُهُ الْخَمِيسُ وَفْقُهُ
+مُثَمَّنٌ وَأَسْمَاؤُهُ شَدِيدٌ ذُو الْقُوَّةِ ( وَسَخَ ٦٦٦ ) يَوْمُهُ الْجُمُعَةُ كَوْكَبُهُ الزُّهَرَةُ وَفْقُهُ خُمَاسِي أَسْمَاؤُهُ فَتَّاحٌ رَزَّاقٌ
+( زَعَدَ ٧٧٧ ) يَوْمُهُ السَّبْتُ كَوْكَبُهُ زُحَلُ وَفْقُهُ السَّبْعِي أَسْمَاؤُهُ قَوِيٌّ قَادِرٌ ( حَفَضَ ٨٨٨ ) يَوْمُهُ الْأَحَدُ
+كَوْكَبُهُ الشَّمْسُ وَفْقُهُ سُدَاسِي أَسْمَاؤُهُ قَوِيٌّ قَهَّارٌ بِشَرْطِ أَنْ تَكُونَ طَاهِرَ الثَّوْبِ وَالْبَدَنِ مُعْتَكِفًا
+وَنِظَامُ الرِّيَاضَةِ وَرِيَاضَةُ كُلِّ مَرْتَبَةٍ ٧ أَيَّامٍ ابْتِدَاؤُهَا مِنَ الْيَوْمِ الْمَنْسُوبِ إِلَيْهَا وَيَكُونُ صَائِمًا قَائِمًا
+وَنَجْمُ الْوَفْقِ كُلَّ لَيْلَةٍ وَتَبَخَّرُهُ بِبَخُورِ كَوْكَبِهِ بُكْرَةً وَعَشِيَّةً وَاتْلُ الْاسْمَيْنِ عَدَدَ الْوَفْقِ وَأَنْتَ تَبْخُرُ فِي
+النَّهَارِ ٤ مَرَّاتٍ بَعْدَ صَلَاةِ الصُّبْحِ وَوَقْتِ الزَّوَالِ بَعْدَ الْعَصْرِ وَفِي جَوْفِ اللَّيْلِ وَكَرِّرِ الْعَمَلَ ٧ أَيَّامٍ *
+وَاعْلَمْ أَنَّ الْأَسْمَاءَ وَالْكَوَاكِبَ وَالسَّاعَاتِ وَالْمَعَادِنَ وَالْبَخُورَ وَالصَّبْرَ عَلَى الرِّيَاضَةِ وَالصَّوْمِ وَالصَّلَاةِ
+شَرْطٌ يَنْتَظِمُ مِنَ الْفِعْلِ كَمَا أَنَّ أَصْلَهُ صِيغَةَ الْكِتْمَانِ وَمَنْ نَقَصَ مِنْ شُرُوطِهِمْ بَطَلَ عَمَلُهُ وَكَذَا سِرُّ
+الْحُرُوفِ وَالْأَوْفَاقِ إِذَا نَقَصَ شَيْءٌ مِنْ شُرُوطِهَا فَسَدَتْ وَلَابُدَّ أَنْ أُوضِحَ لَكَ هَذَا لَا تَحْتَاجُ إِلَى
+تَبْيِينٍ وَأُبَيِّنُ لَكَ الْمَرَاتِبَ وَالْأَسْمَاءَ وَحَرَكَاتِهَا وَمَجْهُولَاتِهَا وَمَبْسُوطَاتِهَا وَمَفْصَلَاتِهَا بِالِاخْتِصَارِ فَأَقُولُ
+( الْمَرْتَبَةُ الْأُولَى ) إِيقَعْ هَكَذَا أَلِفَ ٨٣١ ياء ١١ قَافَ ١٨١ غَيْن ١٠٦٠ مَبْسُوطًا عَدَدًا أَحَدٍ ثَلَاثٍ وَ
+ن ل ف ع ش ر ه خ م س وَمِنْ جُمْلَتِهَا ١١١١ تَضُمُّ إِلَى عَدَدِ الْحُرُوفِ الثَّمَانِيَةِ يَصِيرُ الْجَمِيعُ ١٢٩٧٨ تَخْرُجُ
+الْأَسْمَاءُ حَتَّى قَيُّومٍ مُجْمَلًا ١٧٤ وَمَفْصَلًا حَيَا قَافَ يَا وَاو مِيم مَبْسُوطًا ا ي ت ح د ع ش ر ة أَرْبَعٍ وَن
+عَدَدَ الْحُرُوفِ ١٦ حَرْفًا فَصَارَ عَدَدُ الْاسْمَيْنِ الشَّرِيفَيْنِ ١٧٤ وَعَدَدُ تَفْصِيلِهِ ٣١٥ وَبَسْطِهِمْ ٤٦٩٩ جُمْلَةُ
+الْكُلِّ مِنَ الْأَسْمَاءِ كُلِّهَا ٥١٨٨ جُمْلَةُ مَا خَرَجَ مِنَ الْمَرْتَبَةِ وَالْأَسْمَاءِ ٨١٦٦ وَوَفْقُهُ سُدَاسِي لِيَوْمِ الْأَحَدِ وَهَذِهِ صِفَتُهُ
+( الْمَرْتَبَةُ الثَّانِيَةُ بَكْرٍ ) ٢٢٢ وَعَدَدُ حُرُوفِ التَّفْصِيلِ ٤٠١
+وَأَعْدَادِهِمْ ٣٠ وَالْجَمَلُ ٣ وَأَعْدَادِ حُرُوفِهِ ٢٢٢
+وَجُمْلَةُ الْجَمِيعِ ٢٩٦ تُضَافُ إِلَى هَذِهِ وَالْحُرُوفِ الثَّمَانِيَةِ
+وَعِشْرِينَ ٥٩٩٥ يَصِيرُ الْجَمِيعُ ٨٩٥٥ تَخْرُجُ الْأَسْمَاءُ
+رَحْمَنُ رَحِيمٌ ٥٥٦ تَفْصِيلُ ذَلِكَ رَا ٢٠١ حَا ٩ مِيم
+٩٠ نُون ١٠٦ وَبَسْطُهُ عَدَدَ ١٢ مَات ي ن ح د ث م ان
+وَن ع ش ر ه أَرْبَعٍ وَن س ت خ م س وَن مَات ي ن أَحَدٍ ثَم ان ي ه دَارَب ع وَن مُجْمَلًا ٥٦٥
+وَمَفْصَلًا ٢٧ وَمَبْسُوطًا ٧٣٤١ يَصِيرُ مَجْمُوعُ أَسْمَاءِ ٨٦١٤ يَصِحُّ مَجْمُوعُ تَخْرُجُ الْمَرْتَبَةِ وَتَخْرُجُ
+الْأَسْمَاءِ ١١٧٥ أَنْقَصَ مِنَ الْعَدَدِ ١ حَتَّى يَدْخُلَ فِي الثَّلَاثِ لِأَنَّهُ لَا يَحْتَمِلُ الْكَسْرَ وَهَذِهِ صُورَتُهُ
+( الْمَرْتَبَةُ الثَّالِثَةُ ) جَلَشَ مُفَصَّلًا وَمُجْمَلًا جِيم لَام شَن وَمَبْسُوطًا هَكَذَا
+ثَلَاثٍ مَاي ه ن ع س ر ه أَرْبَعٍ وَن ثَلَاثٍ وَن
+مَاي ه ع س ر وَن خَمْسُونَ مُفَصَّلًا وَمُجْمَلًا ٤٨٤٣٣٣ وَمَبْسُوطًا ٥٧٩٣
+وَيُضَافُ لِذَلِكَ عِدَّةُ الْحُرُوفِ الثَّمَانِيَةِ وَعِشْرِينَ يُخْرِجُ لَكَ الْأَسْمَاءَ مَلِكُ قُدُّوسٍ مُجْمَلًا ١٣٦١٥
+
+| ٤٠١ | ٣٣٢ | ٣٣٢ | ١٣٦٠ |
+| ٣٤٢ | ٣٦٤ | ٢١٢ | ٤٥ |
+| ٣٤٢ | ٣٠٧ | ٣٢٢ | ٣١٩ | ٣١٥ |
+| ٢٣١ | ٢١٤ | ٣٤١ | ٢٣٠ | ٣٣١ | ٢٠١١ | ٢٠٢٩ |
+| ٢٣٥ | ٣٣٢ | ٣٢١ | ٢١٦ | ١٣٧ | ٢٤٤ | ٢٣٤ |
+| ٣٣٢ | ١٤٣ | ٣١٨ |
+
+| ٥٨٥٧ | ٥٨٥٩ | ٥٨٥ |
+| ٥٥٨ | ٥٨٦ | ٥٨٥٤ |
+| ٥٨٥٢ | ١١٦ | ٥٨٥٥ |
+
+**English:**
+— 323 —
+
+( JALASH 333 ) its day is Tuesday, its planet Mars, its wafq septenary, and from the names of God Malik Quddūs. ( DAMAT 444 )
+its day is Wednesday, its planet Mercury, its wafq quaternary, its names Kabīr, Muta‘ālī. ( HANTH 500 ) its day is Thursday, its wafq
+octagonal, and its names Shadīd, Dhū al-Quwwah. ( WASAKH 666 ) its day is Friday, its planet Venus, its wafq quinary, its names Fattāḥ, Razzāq.
+( ZA‘AD 777 ) its day is Saturday, its planet Saturn, its wafq septenary, its names Qawī, Qādir. ( HAFAD 888 ) its day is Sunday,
+its planet the sun, its wafq hexagonal, its names Qawī, Qahhār, on the condition that you be pure of garment and body, in retreat.
+And the system of the riyāḍa, and the riyāḍa of every rank is 7 days, its beginning from the day ascribed to it, and he is fasting, standing
+and the star of the wafq every night, and you fumigate it with the incense of its planet morning and evening, and recite the two names, the number of the wafq, while you fumigate in
+the day 4 times after the صلاة of dawn and at the time of the zenith after the afternoon prayer and in the depth of the night, and repeat the work 7 days *
+And know that the names and the planets and the hours and the minerals and the incense and patience upon the riyāḍa and fasting and prayer
+are a condition that is arranged from the act, just as its أصل is the formula of concealment; and whoever نقص from their conditions, his work is invalidated, and likewise the secret
+of the letters and the awfāq: if something from their conditions is lacking, they are corrupted. And it is necessary that I make this clear to you; you do not need
+clarification. And I explain to you the ranks and the names and their movements and their unknowns and their expansions and their details briefly, so I say:
+( THE FIRST RANK ) Iqā‘ thus: ألف 831 yā’ 11 qāf 181 ghayn 1060 expanded in number one three and
+n l f ‘ sh r h kh m s and from their total 1111, added to the number of the eight letters, the whole becomes 12978. The names come out
+up to Qayyūm in total 174 and in detail حيَا قَافَ يَا وَاو مِيم expanded ا ي ت ح د ع ش ر ة أَرْبَعٍ وَن
+the number of the letters 16 letters, so the number of the two noble names became 174, and the number of its detail 315, and their expansion 4699. The total
+of all the names altogether 5188. The total of what came out from the rank and the names 8166, and its wafq is hexagonal for Sunday, and this is its description.
+( THE SECOND RANK BAKR ) 222 and the number of the letters of the detail 401
+and their numbers 30 and the total 3 and the numbers of its letters 222
+and the total of the whole 296 is added to this and the twenty-eight letters 5995, the whole becomes 8955. The names come out
+Raḥmān Raḥīm 556. The detail of that: rā 201, ḥā 9, mīm
+90, nūn 106, and its expansion the number 12 مات ي ن ح د ث م ان
+وَن ع ش ر ه أَرْبَعٍ وَن س ت خ م س وَن مَات ي ن أَحَدٍ ثَم ان ي ه دَارَب ع وَن in total 565
+and in detail 27 and in expansion 7341, the total of the names becomes 8614. The total of the خروج of the rank and the خروج of
+the names is 1175, less than the number 1, until it enters into three, because it does not bear fraction, and this is its form.
+( THE THIRD RANK ) JALASH in detail and in total: jīm lām shīn, and expanded thus:
+ثلاثٍ مَاي ه ن ع س ر ه أَرْبَعٍ وَن ثَلَاثٍ وَن
+مَاي ه ع س ر وَن خَمْسُونَ in detail and in total 484333 and in expansion 5793.
+And to that is added the number of the twenty-eight letters; it brings out for you the names Malik Quddūs in total 13615.
+
+| 401 | 332 | 332 | 1360 |
+| 342 | 364 | 212 | 45 |
+| 342 | 307 | 322 | 319 | 315 |
+| 231 | 214 | 341 | 230 | 331 | 2011 | 2029 |
+| 235 | 332 | 321 | 216 | 137 | 244 | 234 |
+| 332 | 143 | 318 |
+
+| 5857 | 5859 | 585 |
+| 558 | 586 | 5854 |
+| 5852 | 116 | 5855 |
+
+---
+
+---
+## Page 330
+
+**Arabic (original):**
+- ٣٢٤ -
+
+ومفصلا ٢٢ ميم لام قاف كاف دال واو سين عدد حروف التفصيل ٢٢ حرفا ومبسوط
+كالمتقدم فعدده حروف المبسط ٩٣ حرفا صح العدد مجملا ٣٦٠ ومفصلا ١١١ ومبسوط ٨٨٧٣
+الجملة ٩٧٤٣ ويضاف لذلك عدد المرتبة وما يخرج منها وما ينسب اليها تكون الجملة ٣٣٣٣٤٧
+اجعله وفقا سباعا وهذه صورته
+المرتبة الرابعة دمت ٤٤٤ ليوم الاربعاء
+وكوكبه عطارد مجملا دال ميم تاء ثمانية
+أو حرف وعددهم ٥٢٦ وبسطهم أربع
+أحد ثلاثون أربع وعشرون أربعون أربعمائة الجملة ٤٤٤ صار مجملا
+٥٥٦ ومفصلا ٣٩٦٥ وجملة ذلك ١٩٣٥
+٤٢٤٧ ٢٢٤٣٢١٦٣٦٠ ٤٤٤٣٢٢١٤٣١١
+٤٢٤٣٤٣٤١ ٤٦١ ٤٤٥٢٣١٣٣٠٤٨٤٢٥
+٤٢٢٩٢١٣٤٢٤٢ ٢٤٦ ٣٥٦٢٣٤٢ ٦٦٣
+٤٢١٤ ٤٣٥ ٣٣٧ ٣٢٤٢٤٥٩٢٣٤٠٤٣٥١
+٢٨٤٣٤٤١٨ ٤٢٧ ٤٤١٤٢٥٧٤٣١٥٤٣١٩
+٤٤٣٥٨٤٣٤٣٤٢ ٤٢٣٩٤٣١٦ ٢٣٤٢٣١٨
+٤٣٢٠ ٣١٧٢٣٤٩ ٤٢٣٤٤٢٠٥٣٥٤ ١٣٤٢
+
+ويضاف له عدد الحروف الثمانية والعشرون حرفا يصير ٥٩٩٥ ويصير الجميع ٩٩٣ تخرج الاسماء كبير
+متعال ٧٧٣ مجملا ومفصلا كاف باء ياء راء تاء عين ألف لام وجملة ذلك ١١١٩ وبسطه عشرون أحد
+ثمانون اثنين أحد عشرة أحد ثمانون أحد أعون عشرة أربعون وأربعمائة أحد سبعون عشرة
+خمسون أحد ثلاثون ثمان ثلاثون أحد أربعون جملة ذلك ٧٧٥ ومفصلا ١١٩ ومبسوطا ٩٢٢٣ فالجملة
+١١٢١٥ والله اعلم المرتبة الخامسة ٥٥٥ هاثانون مبسوط أحد خمسون ست خمسون خمس مائة
+جملته ٢٤٧٣ يصير الجميع ١٠٢٣٥ تخرج الاسماء فتاح رزاق ٧٩٦ مفصلا ٧١٣ فاتا ألف حا را زاي ألف
+قاف م ت اى أه داربع مائة أحد ثلاثون ثمانون مائة هـ ذلك ٩١٤ وخرج من مرتبة الاسماء
+١٨٧٤٩ ووفقه مثمن ويوم الخميس كوكبه المشترى مدخله ثمانى ٢٢٩٩ والله أعلم المرتبة السادسة
+وسخ ليوم الجمعة كوكبه الزهرة وفقه خماسى بسطه ست أهـ ست ونعشرة
+خمسون ست مائة أحد صار مجملا ٦٦٦ ومفصلا ٢٣٤ ومبسوطا ٤٧٧٧١ يضاف الى
+عدد الحروف الثمانية وعشرين يصير الجميع ٤٢٧٢٧ تخرج الاسماء كافي غنى مجملا ١١٧١
+ومفصلا كاف ألف فاء ياء غين نون الجملة التفصيل ٧١٧١ وبسطه عشرون أحد ثمانون
+أحد عشرون أحد سبعون عشرة خمسون وسط الاسماء ٨٢٧ تخرج الاسماء
+مجملا ومفصلا ومبسوطا ٩٨٢ فإذا جمعت عدد ما يخرج من الاسماء وجملة ما خرج من المرتبة
+كان الجميع ١٩٣٤ ومدخله في الوفق الخمس ٤٣٧٤ وتضح لك الشكل اذا دخلت من هذا
+العدد وابتدأت بأول بيت منه يحصل ذلك المرتبة السابعة زعد وله من الايام يوم السبت ومن
+الكواكب زحل مجملا ٧٧٧ ومفصلا زاى ع ى ن ذ ال ٨٧٩ وبسطه سبعة أحد عشرة
+سبعون عشرة خمسون ستون سبع مائة أحد ثلاثون الجملة ٣٥٠٤
+فصل في معرفة الاسماء الشمخية وما لها من التصريف والاسماء الربانية
+اعلم أن الاسماء لا يعلم أسرارهم الا الله تعالى والراسخون في العلم ياشمخيثا وشمخوثيا
+اجب
+
+**English:**
+- 324 -
+
+And in detail 22: mīm lām qāf kāf dāl wāw sīn. The number of the letters of the detail is 22 letters, and expanded
+as above, so the number of its expanded letters is 93 letters. The number in total is correct: 360, and in detail 111, and expanded 8873.
+The total 9743. And to that is added the number of the rank and what comes out from it and what is ascribed to it; the total becomes 333347.
+Make it a septenary wafq, and this is its form.
+The fourth rank, Damat 444, for Wednesday,
+and its planet Mercury. In total: dāl mīm tā’ eight
+or letters, and their number is 526, and their expansion four
+one thirty, four twenty-four, forty, four hundred; the total 444 became in total
+556 and in detail 3965, and the total of that 1935.
+4247 2243216360 44432214311
+42434341 461 44523133048425
+42292134242 246 3562342 663
+4214 435 337 324245923404351
+28434418 427 441425743154319
+44358434342 42394316 2342318
+4320 3172349 42344205354 1342
+
+And to it is added the number of the twenty-eight letters; it becomes 5995, and the whole becomes 993. The names come out Kabīr
+Muta‘ālī 773 in total and in detail: kāf bā’ yā’ rā’ tā’ ‘ayn alif lām, and the total of that 1119, and its expansion twenty one
+eighty, two, eleven, one eighty-one, one, ‘awn ten, forty and four hundred, one seventy ten
+fifty, one thirty, eight thirty, one forty; the total of that 775, and in detail 119, and expanded 9223. So the total
+11215. And God knows best. The fifth rank 555, Hāthānūn, expanded: one fifty, six fifty, five hundred.
+Its total 2473; the whole becomes 10235. The names come out Fattāḥ Razzāq 796, in detail 713: fā’ tā’ alif ḥā’ rā’ zāy alif
+qāf m t āy ah dārba‘ hundred one thirty eighty hundred h. That 914, and there came out from the rank of the names
+18749, and its wafq is octagonal, and Thursday, its planet Jupiter, its entrance is eight 2299. And God knows best. The sixth rank
+Wasakh for Friday, its planet Venus, its wafq quinary, its expansion six ah six and sixteen
+fifty, six hundred, one; it became in total 666, and in detail 234, and expanded 47771. Added to
+the number of the twenty-eight letters, the whole becomes 42727. The names come out Kāfī Ghaniyy in total 1171
+and in detail: kāf alif fā’ yā’ ghayn nūn; the detail-total 7171, and its expansion twenty one eighty
+one twenty one seventy ten fifty, middle of the names 827. The names come out
+in total and in detail and expanded 982. So if you جمع the number of what comes out from the names and the total of what came out from the rank,
+the whole was 1934, and its entrance into the five is 4374, and the form becomes clear to you if you enter from this
+number and begin with the first house of it; that rank is obtained. The seventh rank Za‘ad, and for it from the days Saturday, and from
+the planets Saturn, in total 777, and in detail zāy ‘ayn ى n dh l 879, and its expansion seven one eleven
+seventy ten fifty sixty seven hundred one thirty; the total 3504.
+Chapter on the knowledge of the lofty names and what belongs to them of inflection and the lordly names
+Know that the names, none knows their secrets except God تعالى and the firmly rooted in knowledge yāshmakhīthā and shmukhūthiyā
+answer
+
+---
+## Page 331
+
+**Arabic (original):**
+- ٣٢٥ -
+
+أجب يا كسفيائيل معناه بالعربية أنا الحي الباقي الذي لا تأخذه سنة ولا نوم له ما في السموات
+وما في الأرض غفار الذنوب هذا الاسم مكتوب على كف رقيائيل عليه السلام ياهو يا أجب
+يانو يائيل معناه بالعربية أنا الذي أحيي وأميت وأرحم المؤمنين فمن دعا به أمن من الفزع وشفى من
+كل داء وعلة وإذلاله على سهم ورمى به للمخطي شليخوتا ياشموئيل أجب يامربعائيل معناه بالعربية
+أنا الذي رفعت السماء بلا عمد وهذا الاسم إذا تلوته على ركابك فإنك تمشى ولا تعيا أبدا ويسهل الله
+أمورك وتخرج من الضيق إلى الفضاء ومن تلا هذا الاسم فرج الله همومه وبه تقوى ملائكة
+العرش على حمله وبه يسهل الله على العباد سكرات الموت يانورشيا أجب ياميكائيل معناه أنا الذي
+لا شيء أرفع في أحيي الأنفس بعد موتها فمن تلاه في الشدائد نجاه الله ياجهتى أجب بلسمايئل
+معناه بالعربية أنا الذي حي وبهذا الاسم كان عيسى يحيي الموتى شمائق أجب يا كرميائيل معناه
+أعز بيه أنا الله الذي أرنى الأطفال في بطون أمهاتهم وبه يسهل الله كل عسير بقدرته فمن كتبه
+وحمله سهلت عليه الأمور بإذن الله ياسميع النور أجب يارو هيائيل معناه أنا الذي لا يخفى علي
+ما في المشرق والمغرب ومن سأل به عما يريد ناله سعهما يفتح غنيج أجب ياشرطيائيل معناه
+بالعربية أنا مالك الممالك ومنجي من المهالك فمن كتبه على قبضة قوس ورمى به لم يكل ساعده
+ويغلب أعداءه ياطيعو عيج أجب يا كرفيائيل معناه أنا أغفر للخاطئين والمذنبين وبه نجى الله
+نوحا من الطوفان فمن كانت معه هذه الأسماء وهو في سفينة نجا من الغرق ياسر متكفال أجب
+يالطيفائيل معناه أنا المطلع على الأسرار ولا أكشفها إلا لمن اجتبيته من خلقي فمن كانت معه هذه
+الأسماء نجاه الله من المهالك وهي تطفئ النار ومن تلاها ومسح على ظهر الغضبان سكن غضبه فإذا
+رسمت في أثر من تريد حضاره حضر ياباقي ياودود أداوى أصاوت ألشداى أجب ياطوطيائيل
+معناه بالعربية أنا القوي المتين من تلاه وداوم عليه أعطاه الله من القوة ما يقهر به أعداءه
+وفي الحرب يا غياث من لا غياث له يا آل شدای يامن ليس كمثله شيء يا بارئ يا واحد يا صمد
+يا الله ياقيوم يادائم يا أبد الأبد معناه بالعربية أنا الله أمن الخائفين وهذا الاسم نجى الله إبراهيم
+من النار وجعلها عليه بردا وسلاما فمن تلاه على محموم ذهبت عنه الحمى * وهذه أسماء الملائكة وهم
+١٢ ملكا لكل اسم ملك تقول أجب يا كرطيائيل و يا عسريائيل و يا عصفر يائيل و ادر حيائيل
+و يادم يائيل و ياقسع يائيل و يا طحطائيل و يا عزرائيل و يا معفر يائيل و هذه الأسماء
+تقرأ للدخول على الملوك والطرق المخيفة ودفع اللصوص والمفسدين ومن سافر في البر وتلاها دفع
+الله عنه شر الأعداء والفقر بن باطم مائل و يا طحطائيل و يا معد يائيل و يا عزرا ئيل
+و يا مغفر يائيل هذه الأسماء تقرأ للدخول على الحكام وبه تاب الله على آدم ومن دعا بها وهو فعل
+المعاصي تاب الله عليه وإذا كتب في ورق ريحان وأشممته لمن تريد أحبك امشيطا أجب ياهرقيائيل
+معناه أنا الذي أبسط الرحمة للعباد هذا الاسم مكتوب على جناح جبريل عليه السلام بسره يذهب
+من المشرق إلى المشرق في طرفة عين فإذا قرئ على المصروع أفاق لوقته يالهوج وطير هوج
+
+**English:**
+- 325 -
+
+Answer, O Kasfiyā’īl. Its meaning in Arabic: I am the Living, the Remaining, whom neither slumber nor sleep takes hold of; to Him belongs what is in the heavens and what is in the earth, Forgiver of sins. This name is written on the palm of Raqiyā’īl, peace be upon him. Yāhū yā ajib yānū yā’īl. Its meaning in Arabic: I am He who gives life and causes death and has mercy on the believers. So whoever calls upon it is secure from terror and is healed from every disease and ailment. And its humiliation on an arrow and throwing it at the one who errs: Shalīkhūtā Yashmū’īl. Answer, O Yamurba’īl. Its meaning in Arabic: I am He who raised the heaven without pillars. And this name, if you recite it upon your riding beast, then you will walk and never tire, and God will make your affairs easy, and you will go out from distress into spaciousness. And whoever recites this name, God relieves his worries, and by it the angels of the Throne are strengthened to bear it, and by it God makes easy for the servants the agonies of death. Yānūrshiyā ajib yāmīkā’īl. Its meaning: I am He to whom nothing is higher; I revive souls after their death. So whoever recites it in hardships, God saves him. Yājihatī ajib Balsamā’īl. Its meaning in Arabic: I am He who is alive, and by this name Jesus used to bring the dead to life. Shamā’iq ajib yā Karmiyā’īl. Its meaning: “Honor by it.” I am God who shows me the children in the bellies of their mothers, and by it God makes every difficult thing easy by His power. So whoever writes it and carries it, affairs are made easy for him, by permission of God. Yā Samī‘ al-Nūr ajib yā Rūhiyā’īl. Its meaning: I am He from whom is not hidden what is in the east and the west, and whoever asks by it for what he wants obtains it. Sa‘hamā yaftaḥ Ghanīj ajib yā Shurṭiyā’īl. Its meaning in Arabic: I am the Possessor of kingdoms and the Deliverer from perils. So whoever writes it on the grip of a bow and throws it, his forearm does not tire and he overcomes his enemies. Yāṭī‘ū ‘īj ajib yā Karfiyā’īl. Its meaning: I forgive sinners and offenders, and by it God saved Noah from the Flood. So whoever has these names with him while he is in a ship is saved from drowning. Yāsir Mutkafāl ajib yā Laṭīfiyā’īl. Its meaning: I am the One aware of secrets, and I do not disclose them except to one I have chosen from My creation. So whoever has these names with him, God saves him from perils, and they extinguish fire. And whoever recites them and wipes over the back of the angry one, his anger subsides. So if it is drawn in the trace of one you want to bring, he will come. Yā Bāqī yā Wadūd, Adāwī Aṣāwāt al-Shadāy ajib yā Ṭūṭiyā’īl. Its meaning in Arabic: I am the Strong, the Firm. Whoever recites it and persists upon it, God gives him of strength that he overcomes his enemies with. And in war: O Helper of him who has no helper, O Family of Shadāy, O He like whom there is nothing, O Originator, O One, O Self-Sufficient, O God, O Everlasting, O Eternal of eternals. Its meaning in Arabic: I am God, the security of the fearful. And this name: God saved Abraham from the fire and made it coolness and peace upon him. So whoever recites it over one with fever, the fever goes away from him. * And these are the names of the angels, and they are 12 angels; for every name an angel. You say: Ajib yā Karṭiyā’īl, and yā ‘Asriyā’īl, and yā ‘Aṣfar Yā’īl, and Adr Ḥiyā’īl, and yādam Yā’īl, and yā Qas‘a Yā’īl, and yā Ṭaḥṭā’īl, and yā ‘Azrā’īl, and yā Mu‘far Yā’īl. And these names are recited for entering upon kings and frightening roads and repelling thieves and corrupters. And whoever travels in the wilderness and recites them, God repels from him the evil of enemies and poverty. Bin Bāṭim Mā’il and yā Ṭaḥṭā’īl and yā Ma‘d Yā’īl and yā ‘Azrā’īl and yā Maghfar Yā’īl. These names are recited for entering upon rulers, and by it God turned to Adam in repentance. And whoever calls by them while he is doing acts of disobedience, God turns to him in repentance. And if it is written on basil paper and you smell it to whomever you want, he will love you. Amshīṭā ajib yā Harqiyā’īl. Its meaning: I am He who spreads mercy to the servants. This name is written on the wing of Gabriel, peace be upon him. By its secret he goes from the east to the east in the blink of an eye. So if it is recited over the possessed, he recovers at once. Yā al-Hūj and Ṭayr Hūj.
+
+---
+_End of translation — 331 pages._
