@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 317 translated pages._
+_Auto-generated from 321 translated pages._
 
 ---
 ## Page 1
@@ -17976,4 +17976,279 @@ And it has one name by which it is invoked, namely: O God, I ask You, O Zaki, by
 كتب هذا ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ ظ
 
 ---
-_End of translation — 317 pages._
+## Page 318
+
+**Arabic (original):**
+— ٣١٢ —
+
+الرجال وشكله العربي والهندي واحد وهذه صورته ع ع ع ع ع ع ع وله أسماء يدعى بها وهي
+الأسماء المتقدمة ادع بها كما تقدم ﴿ حرف الغين ﴾ ع ع ع ع ع ع ع وهو حرف ناطق رطب
+آخر مراتب الماء ومن أسمائه الغني والغفار المشتقة منه وهو حرف السعادة والمسرة والفرح
+ومن كتب شكله العربي على لوح من قصدير ١٧ وحمله إنسان رزقه الله من حيث لا يحتسب
+وبورك له فيما يعيش به ولانت له قلوب الخلائق ﴿ ومن سر هذا الحرف لا يكتب إلا عربيا وذكر
+بعضهم أن من أسمائه تعالى الغيب واستدل بقوله الذين يؤمنون بالغيب يؤيد هذا القول أن من
+نزل أعداده في مربع ١٠ في ١٠ وكتب حوله ١٩ غينا عربية متساوية الأبعاد مقسومة على
+المربع وفي زواياه من خارج أسماؤه غني غار غفار غفور في كاغد نقي بمداد وبخره بعنبر وعود
+قماري وحمله وذكر الاسم ألف مرة وهو مستقبل القبلة مجموع الهمة علمه الله من مكنون علمه
+وأطلعه على عجائب مخلوقاته وأسرار أسمائه وكلماته ﴿ ومن كسر العددي هكذا غ ع ن في مثلث على
+خاتم فضة يوم الاثنين في إبادة القمر وتختم به قبض الله عنه ألسنة الخلق ولا يتكلمون فيه إلا بخير ولا
+يتحركون إلا بما فيه نفع وخير وهذه صورته
+ولهذا الحرف أسماء يدعى بها على أعماله تقول اللهم إني أسألك يا غني يا غفار
+يا غفور بما أودعته حرف الغين من الأسرار ﴿ حرف الفاء ﴾ وهو حرف صامت بارد
+يابس ويسمى حرف تعطيل لما فيه من تسيير الأمور ووقفها وإلقاء الفتن بين الفرقة الباغية ويبوسته
+زائدة على حرارته وله شكل عربي وهندي ومن كتبه أحد يوم الثلاثاء على لوح من حديد والقمر في
+المحاق ودفنه في مجمع الباغين فتنوا وقتل بعضهم بعضا ﴿ ومن وضع هذا الحرف داخل دار في
+ساعة نحسة خربت ﴿ ومن كتبه ٢٠ مرة على صحيفة من رصاص وصور تحته صفة تنين أو عقرب
+ودفن في وسط الدار لا يدخلها حية ولا عقرب ﴿ ومن السر أن تطلى هذه الصحيفة أو السيف أو أي
+آلة بدهن البيلسان وتدفن في الأرض فلا تصدأ وبه كانت الحكماء تطلى الطلاسم ﴿ ومن مزج
+اسم من أراد بهذا الحرف ووضعه في متاعه أو داره تعطلت أسبابه ﴿ ومن كتب ٢٠ فاء على باب
+داره تسكن ﴿ ومن نزل أعداده الواقعة عليه في مربع ٤ في ٤ في لوح من كتف شاة وكتب حوله
+عشرين ف مع اسم من أراد تعويقه عن السفر أو غيره يكون وهذه صفته
+ولهذا الحرف أسماء وطلاسم يدعى بها تقول اللهم إني أسألك يا فاتح يا فاطر
+يا فالق الحب أن تسخر لي ملائكتك الكرام إنك على كل شيء قدير
+﴿ حرف القاف ﴾ وهو حرف ناطق حار رطب يابس له خواص في مدد القوى ولذا ابتدأ به
+أسماؤه تعالى قادر قوي قائم قد رقد فم قن كنه ٢١ مرة على لوح حديد وحمله على عضده
+قوي على حمل الأثقال والحرف وقد جعله الله رأس القوى كما جعل الضاد رأس الضعف والعين
+للعلم والغين للغنى ﴿ ومن نزل أعداده الواقعة عليه في مربع ٤ في ٤ يوم الأحد أول ساعة على جلد
+أسد مدبوغ وحمله على عضده هابته الوحوش وملوك الإنس والجن وإذا كتب في نصف دائرة كما
+ترى جلوس المرتاض وجلس المرتاض في وسطه فلا يقدر عليه أحد من الجن الطيارة والغواصة
+وغيرهم
+
+**English:**
+— 312 —
+
+The men, and its Arabic and Indian form are one, and this is its form: ع ع ع ع ع ع ع, and it has names by which it is invoked, and they are the
+aforementioned names; invoke by them as has preceded. ﴿ Letter ghayn ﴾ ع ع ع ع ع ع ع and it is a speaking, moist letter,
+the last of the ranks of water. Among its names are al-Ghani and al-Ghaffar, derived from it, and it is the letter of happiness, delight, and joy.
+And whoever writes its Arabic form on a tablet of tin, 17, and a person carries it, God provides for him from where he does not reckon,
+and blessing is placed in what he lives by, and the hearts of creatures become gentle to him. ﴿ And from the secret of this letter, it is not written except in Arabic, and some
+mentioned that among His تعالى names is al-ghayb, and he inferred from His saying: those who believe in the unseen; this القول is supported by that of one who
+descends its numbers in a square of 10 by 10 and writes around it 19 Arabic ghayns equally spaced, divided upon
+the square, and in its corners from outside its names: Ghani, Ghar, Ghaffar, Ghafur, on clean paper with ink, and fumigate it with ambergris and Indian oud,
+and carry it and mention the name a thousand times while facing the qiblah, with gathered resolve; God teaches him from His hidden knowledge
+and acquaints him with the wonders of His creatures and the secrets of His names and His words. ﴿ And whoever breaks the numerical form thus: غ ع ن in a triangle on
+a silver ring on Monday at the waning of the moon and seals with it, God restrains from him the tongues of creation, and they do not speak of him except with good, and do not
+move except with what فيه benefit and good. And this is its form
+And for this letter there are names by which it is invoked upon its workings; you say: O God, I ask You, O غني, O غفار,
+O غفور, by what You have deposited in the letter ghayn of secrets. ﴿ Letter fa ﴾ and it is a silent, cold,
+dry letter, and it is called the letter of تعطيل because of what is in it of the steering of affairs and their stopping and the casting of seditions between the rebellious faction, and its dryness
+is greater than its heat. It has an Arabic and Indian form. Whoever writes it one day Tuesday on a tablet of iron, and the moon is in
+conjunction, and buries it in the gathering of the rebels, they become seduced and kill one another. ﴿ And whoever places this letter inside a house in
+an inauspicious hour, it is ruined. ﴿ And whoever writes it 20 times on a sheet of lead and draws beneath it the form of a dragon or scorpion
+and buries it in the middle of the house, no snake or scorpion enters it. ﴿ And from the secret is that this sheet, or the sword, or any
+instrument, is anointed with oil of bālisān and buried in the earth, and it does not rust; and by it the sages used to anoint talismans. ﴿ And whoever mixes
+the name of whom he intends with this letter and places it in his goods or his house, his means are disabled. ﴿ And whoever writes 20 fa’s on the door
+of his house, it becomes tranquil. ﴿ And whoever descends its numbers falling upon it in a square of 4 by 4 on a tablet of sheep’s shoulder-blade and writes around it
+twenty fa’s with the name of whom he intends to hinder from travel or other than it, it is so, and this is its description.
+And for this letter there are names and talismans by which it is invoked; you say: O God, I ask You, O Fattah, O Fattir,
+O Splitter of the grain, that You subdue for me Your noble angels; indeed You are powerful over everything.
+﴿ Letter qaf ﴾ and it is a speaking, hot, moist, dry letter; it has properties in the extension of powers, and therefore His تعالى names began with it:
+Qadir, Qawi, Qaim, Qad, Raqad, Fam, Qan, Kunh, 21 times on a tablet of iron, and he carries it on his upper arm;
+he becomes strong in carrying heavy loads and the letter, and God has made it the head of powers just as He made the dad the head of weakness and the ayn
+for knowledge and the ghayn for wealth. ﴿ And whoever descends its numbers falling upon it in a square of 4 by 4 on Sunday, the first hour, on tanned
+lion skin, and carries it on his upper arm, beasts and the kings of men and jinn fear him. And if it is written in a half-circle as
+you see the seated riyāḍ and the riyāḍ sits in its middle, none of the flying and diving jinn and
+others can overpower him.
+
+---
+## Page 319
+
+**Arabic (original):**
+— ٣١٣ —
+
+وغيرهم وهذه صورته ق ق ق ق ق ومن وضع الأسماء اشتقة منه في مربع ٤ في ٤ في خاتم من
+الفضة وتختم به من ق ق ق ق ق يمانى حمل الأثقال أدرك سره لوقته (حرف الكاف) وهو
+حرف حار رطب ناطق ك ك ك ك ك سعيد ما كتب ٤ مرات في إناء ووضع على الطحال إلا
+احترق وذهب ومن كتبه ٢١ في إناء من نحاس أحمر والقمر سالم من النحوس يوم الجمعة ساعة
+الزهرة والقمر متصل بالمشتري وحمله معه أسكن الله محبته في قلوب خلقه * وإذا علق على حانوت كثر
+زبونه ورزق صاحبه من حيث لا يحتسب وهذه صورته
+وله أسماء يدعى بها تقول اللهم إني أسألك يا كيد يا كافي يا كريم يا كريم يا أودعته
+حرف الكاف من الأسرار المخزونة والأنوار المكنونة أن تسخر لي
+خدام هذا الحرف فيما أمرهم به إنك على كل شيء قدير (حرف اللام) وهو حرف بارد ناطق سعيد
+ومن سر مدده اللطف الخفي واشتقاقه من اسم لطيف وخواصه من كتبه ٢٣ مرة على صحيفة من قصدير
+يوم الخميس ١٤ الشهر وإذا كان في رمضان كان أجود وحمله على رأسه نفاه الله كل مكروه ونجاه
+من كل شدة وآمنه من كل خوف وفتنة وهذه صورته
+ويكتب حول الوفق اللطيف بعباده الآية ويكون على فص خاتم من ذهب
+ويكون النقاش صائماً فلا تختم به أحد إلا أتحفه الله بخفي لطفه وآمنه من
+كل مكروه ونجاه من كل شدة وآمنه من الغش ودعاؤه لطيف (حرف الميم) وهو حرف ناطق
+حار يابس فيه بعض رطوبة وله خواص في النفع والضر وله شكل يكتب عربياً وهندياً يكتب ٢٤
+مرة في مربع كل سطر هكذا
+وإذا كتب على لوح من خشب الأترج وعلق من به قولنج فأنه يبرأ * ومن
+نزل أعداده الواقعة عليه في مربع في كاغد نقي يوم الاثنين ساعة القمر باسم
+عزيز يد محبته فإنه لا يطيق الصبر عنه ساعة وهذه صورته كما ترى
+وله أسماء يدعى بها تقول اللهم إني أسألك يامليك يامليك يامؤمن يامؤمن يامهيمن
+يامتكبر إلخ الحروف التي أولها الميم وهي ٤٠ اسماً أسألك بما أودعته حرف
+الميم من الأسرار المخزونة والأنوار المكنونة أن تسخر لي ملائكتك الكرام
+إنك على كل شيء قدير (حرف النون) وهو حرف ناطق بارد يابس فيه بعض رطوبة وهو
+كليم في عنصر الهواء والعين في عنصر الماء * وإذا كتب على جبين المصاب احترق طارده
+* واعلم أن في حروف الهجاء ٣ من سر مدد الله واسمه الأعظم الذي يقرأ طرداً ورداً كقوله
+تعالى ورب فكبير وقوله تعالى كل في فلك فإذا كتب حروفاً مقطعة قرئ طرداً ورداً
+وكذلك الميم والنون والواو فإنهم يقرؤون كذلك لكثرة أسرارهم وله أسماء يدعى بها
+
+جبرائيل ميكائيل
+إسرافيل عزرائيل
+
+٢٨ ٢٢
+٢٦ ٢٤
+١٦٥ ٢ ٢٧
+
+٢ ٢ ١٧ ١٢ ٩
+١٣ ١٠ ١٩ ١٦
+٧ ١٨ ١١ ٤
+٨ ٦ ٥ ١١
+
+**English:**
+— 313 —
+
+and others, and this is its form: ق ق ق ق ق. And whoever places the names derived from it in a square of 4 by 4 in a silver ring and seals with it, from ق ق ق ق ق, a Yemeni carrier of heavy loads, he attains its secret at once. (Letter kaf) and it is a hot, moist, speaking letter: ك ك ك ك ك. سعيد What is written 4 times in a vessel and placed upon the spleen except that it burns and goes away. And whoever writes it 21 in a vessel of red copper, and the moon is safe from inauspiciousness on Friday, the hour of Venus, and the moon is connected with Jupiter, and carries it with him, God settles its love in the hearts of His creatures. * And if it is hung on a shop, its customers increase and its owner is provided for from where he does not reckon. And this is its form.
+And it has names by which it is invoked; you say: O God, I ask You, O Kayd, O Kafi, O Karim, O Karim, O what You have deposited in
+the letter kaf of the stored secrets and hidden lights, that You subdue for me
+the servants of this letter in what You have commanded them. Indeed You are powerful over everything. (Letter lam) and it is a cold, speaking, happy
+letter. And from the secret of its extension is the hidden gentleness and its derivation from the name Latif, and among its properties is that whoever writes it 23 times on a sheet of tin
+on Thursday, the 14th of the month, and if it is in Ramadan it is better, and carries it on his head, God removes from him every disliked thing and saves him
+from every hardship and secures him from every fear and trial. And this is its form.
+And around the latif with His servants the verse is written, and it is on a bezel of a gold ring,
+and the engraver is fasting, so no one is sealed with it except that God gifts him with His hidden gentleness and secures him from
+every disliked thing and saves him from every hardship and secures him from deceit, and its invocation is لطيف. (Letter mim) and it is a speaking
+letter, hot, dry, in it is some moisture, and it has properties in benefit and harm, and it has a form written in Arabic and Indian; it is written 24
+times in a square, each line thus:
+And if it is written on a tablet of citron wood and hung upon one afflicted with colic, then he is cured. * And whoever
+descends its numbers falling upon it in a square on clean paper on Monday, the hour of the moon, by the name
+Aziz, the hand of its love, then he is unable to be patient away from it for an hour. And this is its form as you see.
+And it has names by which it is invoked; you say: O God, I ask You, O Malik, O Malik, O Mu’min, O Mu’min, O Muhaymin,
+O Mutakabbir, etc., the letters whose beginning is mim, and they are 40 names. I ask You by what You have deposited in the letter
+mim of stored secrets and hidden lights that You subdue for me Your noble angels.
+Indeed You are powerful over everything. (Letter nun) and it is a speaking, cold, dry letter, in it is some moisture, and it is
+Kalim in the element of air and the ayn in the element of water. * And if it is written on the forehead of the afflicted one, its pursuer burns
+* And know that in the letters of the alphabet there are 3 of the secret of the مدد of God and His greatest name, which is recited in expulsion and return, as His
+saying تعالى: and Lord, so great, and His saying تعالى: each in an orbit. So if separated letters are written, they are recited in expulsion and return.
+Likewise mim, nun, and waw, for they are recited thus because of the abundance of their secrets. And it has names by which it is invoked:
+
+Jibril  Mikail
+Israfil  Azrail
+
+28 22
+26 24
+165 2 27
+
+2 2 17 12 9
+13 10 19 16
+7 18 11 4
+8 6 5 11
+
+---
+## Page 320
+
+**Arabic (original):**
+- ٣١٤ -
+
+تَقُولُ اللَّهُمَّ إِنِّي أَسْأَلُكَ بِنُورِ يَا نَافِعُ بِمَا أَوْدَعَهُ حَرْفُ النُّونِ إِلَخْ * (حَرْفُ الْهَاءِ) وَهُوَ حَرْفٌ هَوَائِيٌّ
+تَرَانِي فِيهِ بَعْضُ يُبُوسَةٍ * وَمِنْ خَوَاصِّهِ إِذَا كَتَبْتَ مَعَ قَوْلِهِ تَعَالَى اللَّهُ لَا إِلَهَ إِلَّا هُوَ عَالِمُ الْغَيْبِ
+وَالشَّهَادَةِ إِلَخْ وَعَلَّقَ عَلَى مَنْ يَخَافُ بِاللَّيْلِ فَلَا يَخَافُ * وَمِنْ رَسْمِهَا فِي مَرْبَعٍ ٤ فِي ٤ وَحَمَلَهَا طِفْلٌ
+صَغِيرٌ أَمِنَ مِنَ الْأَعْرَاضِ وَالْأَمْرَاضِ وَلَا يَنَالُهُ مَكْرُوهٌ * وَمَنْ كَتَبَهُ فِي كَاغَدٍ نَقِيٍّ ٧١ مَرَّةً وَحَمَلَهُ فَإِنَّ
+اللَّهَ يَهْدِيهِ لِمَا يُرِيدُ وَلَمْ يَكُنْ مِنْ اشْتِقَاقِهِ غَيْرُ اسْمِهِ تَعَالَى هَادِي هُوَ اللَّهُ لَا إِلَهَ إِلَّا هُوَ فَلْيَدْعُ بِهِمَا
+كَمَا تَقَدَّمَ (حَرْفُ الْوَاوِ) وَهُوَ يَابِسٌ وَفِيهِ بَعْضُ رُطُوبَةٍ وَأَعْمَالُهُ مِثْلُ أَعْمَالِ الرَّاءِ فَقَسْ عَلَيْهَا
+وَأَمَّا الْأَسْمَاءُ الَّتِي يُدْعَى بِهَا فَتَقُولُ اللَّهُمَّ إِنِّي أَسْأَلُكَ يَا وَهَّابُ يَا وَلِيُّ يَا وَارِثُ يَا وَدُودُ يَا وَاحِدُ أَنْ
+تُسَخِّرَ لِي مَلَائِكَتَكَ يَمْتَثِلُونَ أَمْرِي مِمَّا لَكَ فِيهِ رِضَا إِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ (حَرْفُ لَا) وَهُوَ
+حَرْفٌ هَوَائِيٌّ فِيهِ بَعْضُ يُبُوسَةٍ فَمَنْ كَتَبَهُ ٧١ مَرَّةً عَلَى لَوْحٍ مِنْ نُحَاسٍ أَوْ وَرَقٍ وَعَلَّقَهُ عَلَى أَيِّ دَابَّةٍ تَأْمَنُ
+مِنَ الْعَيْنِ وَسَائِرِ الْآفَاتِ * وَمَنْ كَتَبَهَا عَلَى شَيْءٍ يَخَافُ عَلَيْهِ وَقَالَ بَعْدَهَا وَلَا يَؤُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ
+الْعَظِيمُ حَفِظَ ذَلِكَ الشَّيْءَ وَمِنْ أَسْرَارِ هَذَا الْحَرْفِ لَا يَكْتُبُ الْأَعْرَابِيَا لِأَنَّهُ صَدَفَ لَهُ لَا لَفْ فَيَدْعُو عَلَى
+أَعْمَالِهِ بِدُعَاءِ الْأَلِفِ (حَرْفُ الْيَاءِ) وَأَعْمَالُهُ كَالتَّاءِ فَقَسْ عَلَيْهِ لِأَنَّهُ لَيْسَ لَهُ دُعَاءٌ إِلَّا أَنَّهُ حَرْفُ نِدَاءٍ كَمَا
+تَقُولُ يَا اللَّهُ يَا رَحْمَنُ يَا رَحِيمُ تَمَّ وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
+(الْفَصْلُ الثَّانِي وَالثَّلَاثُونَ فِي كَشْفِ الْعُرُوشِ الْمَعْنَوِيَّاتِ)
+اعْلَمْ وَفَّقَنِي اللَّهُ وَإِيَّاكَ أَنَّ الْبَارِيَ جَلَّ جَلَالُهُ وَصَفَ نَفْسَهُ بِالِاسْتِوَاءِ عَلَى الْعَرْشِ لِتَعْلَمَ أَنَّ الْعَرْشَ هُوَ
+انْتِهَاءُ الْحُدُودِ الْمَعْلُومَةِ وَالْفِكْرِ الْمَرْسُومَةِ وَالْأَمْرَارِ الْمَكْنُونَةِ إِلَيْهِ انْتِهَاءِ الْغَايَاتِ وَعِنْدَهُ تَتَنَاهِي
+الْحُدُودُ * وَاعْلَمْ أَنَّ السَّمَوَاتِ السَّبْعَ وَالْأَرَضِينَ عَلَى الْمِثَالِ الَّذِي اقْتَضَاهُ شُهُودُ التَّرْتِيبِ وَحَكَمَ بِهِ وُجُودُ
+التَّرْكِيبِ وَذَلِكَ أَنَّ الْعَالَمَ الْعَرْشِيَّ هُوَ أَوَّلُ حَقِيقَةِ مَرَاتِبِ الِاخْتِرَاعِ وَالْكُرْسِيَّ أَوَّلُ حَقِيقَةِ عَالَمِ الْإِبْدَاعِ
+وَكَذَلِكَ حُكْمُ الْأَعْلَى وَهَذَا حُكْمُ الْفَرْعِيِّ وَالْعَرْشُ رُتْبَةُ الِاخْتِرَاعِ وَالْكُرْسِيُّ مُسْتَدِيرُ الْإِبْدَاعِ وَكَمَا أَنَّ
+النُّقْطَةَ هِيَ أَوَّلُ الْخُطُوطِ كَذَلِكَ نِسْبَةُ الْمُخْتَرَعَاتِ مِنَ الْمَسْمُوعَاتِ وَلَمَّا كَانَ الْعَرْشُ هُوَ أَوَّلُ مَبْدَأِ
+الِاخْتِرَاعَاتِ الْأَهْلِيَّاتِ الدَّلَوِيَّاتِ وَإِلَيْهِ غَايَةُ النِّهَايَاتِ جَعَلَ الْعَرْشَ مُحِيطًا بَعِيدًا وَلَيْسَ
+بَعْدَ نُورِهِ بِفَرْقٍ بَلِ الِاخْتِرَاعُ بَاطِنُ الْإِبْدَاعِ وَالْإِبْدَاعُ ذَاتُ الِاخْتِرَاعِ فَإِنَّهَا دَاخِلَةٌ تَحْتَ فَلَكِ الرَّحْمَةِ أَعْنِي
+الْحِجَابَ الْإِلَهِيَّ عَنِ الْكُرْسِيِّ الْقَابِلِ لِلتَّصَوُّرَاتِ أَعْنِي مَرَّ الْقَدَرِ الثَّانِي فَإِنَّ لَهُ فِي كُلِّ سَمَاءٍ عَرْشًا مِثْلَ
+مَالَهُ فِي سِجِلِّهِ عَالَمِ الِاخْتِرَاعِ حِكْمَةُ دَيْرِهَا وَمَشِيئَتُهُ قَدَّرَهَا فَلَهُ فِي كُلِّ سَمَاءٍ عَرْشٌ وَكَمَا أَنَّ لِكُلِّ
+إِبْدَاعِ اخْتِرَاعًا مُتَقَارِبًا كَذَلِكَ لِكُلِّ عَرْشٍ كُرْسِيٌّ فَفِي السَّبْعَةِ الطِّبَاقِ الْعُلْوِيَّاتِ سَبْعُ عُرُوشٍ وَسَبْعُ
+كَرَاسِيَّ فَالْعَرْشُ الْأَوَّلُ عَرْشُ الْإِطْلَاقِ * قَالَ تَعَالَى ثُمَّ اسْتَوَى عَلَى الْعَرْشِ يَعْلَمُ مَا يَلِجُ فِي الْأَرْضِ
+وَمَا يَخْرُجُ مِنْهَا مِنْ نَتَائِجِ التَّكَوُّنَاتِ عَلَى الْحَرَكَةِ الْوَاحِدَةِ وَالْبَرْزَةِ الْإِلَهِيَّةِ وَمَا يَنْزِلُ مِنَ السَّمَاءِ مِنْ رَحْمَةِ
+الْأَمْرِ الْمُظْهَرِ فَيَبْرُزُ التَّصْرِيفُ بِمَا بَطَنَ فَيَظْهَرُ مَا يَعْرُجُ فِيهَا أَيَّ مِنْ مُسْتَدِيرِهَا أَعْنِي دَوْرًا فِي
+الْأَفْلَاكِ أَطْوَارًا وَانْتِهَاءً * وَأَمَّا السِّرُّ الْخَفِيُّ فَإِنَّهُ يَعْلَمُ مَا فِي الْأَجْسَادِ مِنْ لَطَائِفِ دَقَائِقِ أَسْرَارِ الْأَرْوَاحِ وَمَا
+يَخْرُجُ مِنْهَا مِنْ حَقَائِقِ الْحُكْمِ وَمَا يَنْزِلُ مِنْ سَمَاءِ الْعَقْلِ وَتَعَاقُبِ حَرَكَاتِ الْأَفْلَاكِ وَالْعَرْشُ الثَّانِي
+عَرْشُ
+
+**English:**
+O God, I ask You by the light of O Nafi‘ by what the letter nun has deposited, etc. * (Letter ha) and it is an airy letter;
+there is in it some dryness. * And among its properties is that if you write it together with His تعالى saying: God, there is no god except Him, Knower of the unseen
+and the witnessed, etc., and hang it upon one who fears by night, then he does not fear. * And from its drawing in a square of 4 by 4, and a small child carries it,
+he is secure from ailments and diseases, and no disliked thing reaches him. * And whoever writes it on clean paper 71 times and carries it, then
+God guides him to what He wills. And there was not from its derivation other than His تعالى name Hadi; He is God, there is no god except Him; so let him invoke by them
+as has preceded. (Letter waw) and it is dry, and in it is some moisture, and its workings are like the workings of the ra, so measure upon them.
+As for the names by which it is invoked, you say: O God, I ask You, O Wahhab, O Wali, O Warith, O Wadud, O Wahid, that
+You subdue for me Your angels; they comply with my command in what is pleasing to You therein. Indeed You are powerful over everything. (Letter la) and it is
+an airy letter, in it is some dryness. So whoever writes it 71 times on a tablet of copper or paper and hangs it upon any beast, he is secure
+from the evil eye and the rest of afflictions. * And whoever writes it upon something he fears for, and says after it: and their preservation does not burden Him, and He is the Most High,
+the Great, He has preserved that thing. And from the secrets of this letter: it is not written al-‘Arabiyā because it happened to it la laf, so he invokes upon
+its workings with the invocation of alif. (Letter ya) and its workings are like those of ta, so measure upon it, because it has no invocation except that it is a letter of calling, as
+you say: O God, O Merciful, O Compassionate. Finished, and praise be to God, Lord of the worlds.
+(Chapter thirty-two in the unveiling of the معنويات of the thrones)
+Know, may God grant success to me and to you, that the Creator, glorious is His majesty, described Himself with rising over the Throne so that you may know that the Throne is
+the end of the known limits and the drawn thought and the hidden matters; to Him is the end of the goals, and with Him the limits come to an end.
+And know that the seven heavens and the earths are upon the example which the witnessing of arrangement necessitated and the existence of
+composition judged by it, and that is because the world of the Throne is the first reality of the ranks of invention, and the Kursi is the first reality of the world of origination.
+And likewise is the ruling of the higher, and this is the ruling of the derivative. And the Throne is the rank of invention, and the Kursi is the circle of origination. And just as
+the point is the first of lines, likewise is the relation of the invented things from the heard things. And when the Throne was the first beginning of
+the inventions of the essential, the bucket-like, and to it is the end of the ends, He made the Throne encompassing, distant, and there is
+after its light no distinction; rather, invention is the inwardness of origination, and origination is the very essence of invention, for they are included under the sphere of mercy, I mean
+the divine veil from the Kursi receptive of imaginations, I mean the second decree’s passage. For it has in every heaven a Throne like
+what it has in its register; the world of invention, the wisdom of its turning, and His will determined it. So it has in every heaven a Throne. And just as for every
+origination there is a corresponding invention, likewise for every Throne there is a Kursi. So in the seven layered upper spheres there are seven thrones and seven
+seats. Thus the first Throne is the Throne of absoluteness. * He تعالى said: then He rose over the Throne; He knows what enters into the earth
+and what comes out of it from the results of formations upon the single motion and the divine barzakh, and what descends from the heaven of mercy of
+the manifested command, so the disposal emerges by what is hidden, and what ascends in it appears, any of its circle, I mean a cycle in
+the spheres, stages, and ending. * As for the hidden secret, it knows what is in bodies of the subtleties of the fine points of the secrets of spirits, and what
+comes out of them of the realities of judgment, and what descends from the heaven of intellect and the succession of the motions of the spheres. And the second Throne
+is the Throne of
+
+---
+## Page 321
+
+**Arabic (original):**
+— ٣١٥ —
+
+عرش الرحمانية * قال تعالى: {الرَّحْمَنُ عَلَى الْعَرْشِ اسْتَوَى} فهذه حقيقة لوجود الذي قامت به
+السموات والأرض. استعلت بغير عمد فالعلوات مستويات ممسوكة بالارتفاع وسر الاتخاذ للإبداع
+وإلى هذا العرش انتباه. فاليد السموات والأرض وحقيقة الطول والعرض وظهور البسط والقبض
+وغاية الرفع والخفض سلوكه معنوية وعروجه روحانية وشهوده فكرية وارتفاعه علوياً
+وقبضه عرشياً لا يدركه ذو جسم ولا صاحب رسم ولا مرسوم بكتم حقيق سر الأعداد من غير تعداد
+فهذه حقيقة هذا العرش وإليه انتهاء الروح الأمين وعنده وقفت حقيقة جبريل عليه السلام وهو
+مبادئ الملأ الأعلى وفيه يسمع صرير الأقلام وهي تستكتب ما لا يقبل التبديل ولا يتصور في صفحات
+التشكيل فطوبى لمن فهم هذه الإشارات العرشية واللطيفة القدسية. (والعرش الثالث) عرش
+المجيد قال تعالى: {ذُو الْعَرْشِ الْمَجِيدُ} وهو انتهاء الرفعة بل تعززه الأرواح، فأما العرش الأول فلا حجاب
+ولا ستر به أعز الله الأنبياء والأصفياء الأثل فالأمل وعنده وقفت حقيقة العقول في العالم العلوي
+مثوى الأرواح، والعرش المجيد به ذهبت الأرواح وتاهت في هياكل أشباحها وتصرفت في مصنوعات
+أثرها وتشكلت في قوالب الأرواح بشهود اختلاف الصور في قوالب التركيب وإلى هذا
+العرش انتهاء عوالم الأرواح واستمداد فيض الأنوار في قوالب الحروف في مستدير البرازخ
+لظهور الختم على الدائرة بشهود الحسن وبروز الحكم وظهور العلم، فهذه حقيقة الحجب ظاهرها
+ظاهر القدرة وباطنها باطن الأمر، فمن وصل إلى الطرفين جمع الأمرين العلويين ومن لم يصل إلى
+حضرة يفك قيده عن الإطلاق وذهاب طلسم [~] بته بنار الأشواق فهو من القول في درك ومن
+الخذلان في وجود الشرك مخذول بعواصف الجمال في حضيض المعترك، قال تعالى: {لَوْ سَمِعُوا
+مَا اسْتَجَابُوا لَكُمْ} الآية، فمن عرف بغيته لم يلبس رداء التدليس ولم يمتزج بملابس إبليس، وهذا بعد
+الغسل النقي والإمساك الخفي لزم إياه حتماً طرقاً للترقية وكرى الصورة البشرية مع الوقوف على
+قوله تعالى: {يَا حَسْرَتَى عَلَى مَا فَرَّطْتُ فِي جَنْبِ اللَّهِ وَإِنْ كُنْتُ لَمِنَ السَّاخِرِينَ} فنعوذ بالله من الخذلان
+وقلب الأعيان. (والعرش الرابع) العرش الكريم وإليه انتهاء الأعداد ونسبة الأعمال في
+الحركة العظمى وهو سر التأييد لقبول مجاري التصريف وتعلم به حقيقة الحق التي بها قام كل شيء
+الذي هو في حق الأنبياء عصمة وفي حق الأولياء حفظ وفي حق التائبين رحمة وفي حق الجاحدين
+نقمة * فمن علق في ميزان العرش ميزان عمله رجحت لطائف أنواره ومد بدقة آثاره * واعلم أن
+المقابل للصور بمقابلة العرش وكل علوي عرش لكل سفلي فظهر بالعلوات سر السفليات فسر
+العالمين، فالعرش يتضمن تجلي بصيرته ولا بصير له دير تصور أعماله ولا صور ولا تجليات حتى
+يقطع نسبة الصور عليها وسفليها حالاً وعلماً وشهوداً ووروداً. (والعرش الخامس) عرش العظمة
+قال تعالى: {اللَّهُ لَا إِلَهَ إِلَّا هُوَ رَبُّ الْعَرْشِ الْعَظِيمِ} وهو شهود الأمر بحقائق نور الأبصار كما كانت قبل
+وجودها وبعد ما استدارت في فلك حدودها فشاهد الصنع العجيب وتدخل فيمن ناداهم الحق
+من مكان قريب وهو العرش العظيم وإليه انتهت الأعمال القالبية والسبحات الفكرية، إليه يصعد
+الكلم الطيب الأذكار وخفي الأنوار في الأسرار من غير حرف مرسوم ولا علم موسوم ولا حد
+
+**English:**
+— 315 —
+
+The Throne of the All-Mercifulness * He, تعالى, said: {The All-Merciful sat upon the Throne} and this is a reality of the existence by which the heavens and the earth were established. It rose without pillars, so the heights are levels held by elevation, and the secret of taking for origination. And to this Throne is attention. So the hand is the heavens and the earth, and the reality of length and width, and the ظهور of expansion and contraction, and the utmost of raising and lowering; its course is معنوية, and its ascent روحانية, and its witnessing is الفكرية, and its elevation is heavenly, and its contraction is thronely; it is not perceived by one of body, nor possessor of form, nor formed, by the concealment of the reality of the secret of numbers without numbering. So this is the reality of this Throne, and to it is the end of the Trustworthy Spirit, and at it the reality of Gabriel, عليه السلام, stood, and it is the beginnings of the Higher Assembly, and in it is heard the creaking of the pens while they write down what does not accept alteration and is not imagined in the pages of formation. So blessed is he who understood these thronely indications and the holy subtlety. (And the third Throne) the Throne of the Glorious; He, تعالى, said: {Possessor of the Glorious Throne} and it is the end of exaltation, rather the spirits glorify it. As for the first Throne, there is no veil nor covering by it; God عزّ الله the prophets and the chosen ones, the tamarisk, then the hope, and at it the reality of the intellects stood in the upper world, the abode of spirits. And the Glorious Throne, by it the spirits went and wandered in the structures of their phantoms and were disposed in the manufactured things of their trace and were formed in the molds of spirits, with the witnessing of the difference of forms in the molds of composition. And to this Throne is the end of the worlds of spirits and the drawing of the overflow of lights in the molds of letters in the circularity of the isthmuses, for the ظهور of the seal upon the circle with the witnessing of beauty and the emergence of judgment and the ظهور of knowledge. So this is the reality of the veils: its outward is the outward of power and its inward is the inward of command. So whoever reaches the two ends gathers the two upper matters, and whoever does not reach a presence that loosens his bond from the absolute and the going of the talisman [~] by its destruction with the fire of longings, then he is from speech in a pit and from abandonment in the existence of association, forsaken by the storms of beauty in the low ground of the contest. He, تعالى, said: {If they had heard, they would not have answered you} the verse. So whoever knew his aim did not wear the robe of deception and did not mix with the garments of Iblis. And this, after the pure washing and the hidden holding, necessarily obliged him to ways for promotion and the rolling up of the human form, with standing upon His, تعالى, saying: {O my regret over what I neglected in the side of God, and indeed I was among the mockers} so we seek refuge in God from abandonment and the turning of essences. (And the fourth Throne) the Noble Throne, and to it is the end of the numbers and the attribution of deeds in the greatest movement, and it is the secret of support for the acceptance of the courses of disposal, and by it is known the reality of the Real by which every thing stood, which in the right of the prophets is protection, and in the right of the saints preservation, and in the right of the repentant mercy, and in the right of the deniers vengeance * So whoever suspended in the balance of the Throne the balance of his deed, the subtleties of its lights outweighed, and the precision of its آثار extended * And know that the counterpart to forms by the counterpart of the Throne, and every upper Throne is for every lower one, so by the heights the secret of the lower things appeared, so the secret of the two worlds. The Throne contains the manifestation of its insight, and it has no insight; the monastery of the تصور of its deeds, nor forms nor manifestations, until it cuts off the attribution of forms to it and its lower aspect, in state and knowledge and witnessing and ورود. (And the fifth Throne) the Throne of عظمت. He, تعالى, said: {God, there is no god except Him, Lord of the Mighty Throne} and it is the witnessing of the command by the realities of the light of the eyes as they were before their existence and after they revolved in the sphere of their limits, so it witnessed the wondrous making and enters among those whom the Real called from a near place, and it is the Mighty Throne, and to it the قالبية deeds and the الفكرية glorifications ended. To it ascend the good word, the remembrances, and the hidden lights in the secrets, without a drawn letter nor a marked sign nor a limit
+
+---
+_End of translation — 321 pages._
