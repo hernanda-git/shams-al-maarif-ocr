@@ -25,7 +25,7 @@ if os.path.isdir(_SCRIPTS_DIR):
     sys.path.insert(0, _SCRIPTS_DIR)
 
 # Import rotator — handles 8 keys with persistent state
-from gemini_rotate import GeminiKeyManager, KEY_COUNT
+from gemini_rotate import GeminiKeyManager, KEY_COUNT, ALL_KEYS_EXHAUSTED
 
 KEY_MGR = GeminiKeyManager()
 
@@ -75,10 +75,23 @@ def _sleep_with_backoff(attempt, max_delay=60):
     time.sleep(total)
 
 
-def ocr_page(page_num, api_key):
+def _post_to_gemini(api_key, payload):
+    """Single HTTP call to Gemini. Raises urllib.error.HTTPError on failure."""
+    headers = {
+        "Content-Type": "application/json",
+        "X-goog-api-key": api_key,
+    }
+    data = json.dumps(payload).encode("utf-8")
+    req = urllib.request.Request(API_URL, data=data, headers=headers, method="POST")
+    with urllib.request.urlopen(req, timeout=45) as resp:
+        return json.loads(resp.read().decode("utf-8"))
+
+
+def ocr_page(page_num):
     """
     Send one page PDF to Gemini OCR.
-    Returns the raw text response, or None on failure.
+    Tries every available key in sequence; returns raw text on first success,
+    None on quota exhaustion or persistent failure.
     """
     pdf_path = os.path.join(PAGES_DIR_SRC, f"page_{page_num:03d}.pdf")
     if not os.path.exists(pdf_path):
@@ -130,60 +143,34 @@ def ocr_page(page_num, api_key):
         }
     }
 
-    max_retries = 5
-    for attempt in range(1, max_retries + 1):
-        try:
-            headers = {
-                "Content-Type": "application/json",
-                "X-goog-api-key": api_key
-            }
+    result = KEY_MGR.call_with_key_rotation(_post_to_gemini, payload)
 
-            data = json.dumps(payload).encode("utf-8")
-            req = urllib.request.Request(API_URL, data=data, headers=headers, method="POST")
+    if result is ALL_KEYS_EXHAUSTED:
+        print(f"  [FAIL] All {KEY_COUNT} keys exhausted for page {page_num} — top up credits", flush=True)
+        return None
 
-            with urllib.request.urlopen(req, timeout=300) as resp:
-                result = json.loads(resp.read().decode("utf-8"))
+    if not isinstance(result, dict):
+        return None
 
-            candidates = result.get("candidates", [])
-            if not candidates:
-                block_reason = result.get("promptFeedback", {}).get("blockReason", "unknown")
-                print(f"  [WARN] No candidates (blocked: {block_reason})", flush=True)
-                return None
+    candidates = result.get("candidates", [])
+    if not candidates:
+        block_reason = result.get("promptFeedback", {}).get("blockReason", "unknown")
+        print(f"  [WARN] No candidates (blocked: {block_reason})", flush=True)
+        return None
 
-            text_parts = []
-            for part in candidates[0].get("content", {}).get("parts", []):
-                if "text" in part:
-                    text_parts.append(part["text"])
+    text_parts = []
+    for part in candidates[0].get("content", {}).get("parts", []):
+        if "text" in part:
+            text_parts.append(part["text"])
 
-            raw_text = "\n".join(text_parts).strip()
+    raw_text = "\n".join(text_parts).strip()
 
-            if len(raw_text) < 5:
-                print(f"  [WARN] Very short response ({len(raw_text)} chars) — may be blank page", flush=True)
-                return raw_text if raw_text else ""
+    if len(raw_text) < 5:
+        print(f"  [WARN] Very short response ({len(raw_text)} chars) — may be blank page", flush=True)
+        return raw_text if raw_text else ""
 
-            print(f"  [OK] {len(raw_text)} characters extracted", flush=True)
-            return raw_text
-
-        except urllib.error.HTTPError as e:
-            error_body = e.read().decode("utf-8", errors="replace")
-            print(f"  [RETRY {attempt}/{max_retries}] HTTP {e.code}: {error_body[:200]}", flush=True)
-            if e.code == 429:
-                # Rate limited — rotate to next key!
-                old_idx, _ = KEY_MGR.get_key()
-                new_idx, new_key = KEY_MGR.rotate_key()
-                api_key = new_key
-                print(f"  [ROTATE] Key {old_idx} → key {new_idx} (429 rate limit)", flush=True)
-                _sleep_with_backoff(attempt, max_delay=60)
-            elif e.code >= 500:
-                _sleep_with_backoff(attempt, max_delay=60)
-            else:
-                time.sleep(10)
-        except Exception as e:
-            print(f"  [RETRY {attempt}/{max_retries}] {type(e).__name__}: {e}", flush=True)
-            _sleep_with_backoff(attempt, max_delay=60)
-
-    print(f"  [FAIL] All {max_retries} attempts exhausted", flush=True)
-    return None
+    print(f"  [OK] {len(raw_text)} characters extracted", flush=True)
+    return raw_text
 
 
 def save_raw(page_num, text):
@@ -197,15 +184,16 @@ def save_raw(page_num, text):
 
 
 def process_batch(page_numbers):
-    """Process a list of page numbers sequentially, rotating Gemini key each call."""
-    results = {"success": [], "failed": [], "empty": []}
+    """Process a list of page numbers sequentially. Rotates through ALL keys per page."""
+    results = {"success": [], "failed": [], "empty": [], "exhausted": False}
     for i, p in enumerate(page_numbers):
-        # Rotate to a fresh key before every API call
-        idx, api_key = KEY_MGR.rotate_key()
-        print(f"\n[{i+1}/{len(page_numbers)}] Processing page {p} with key [{idx}]...", flush=True)
-        text = ocr_page(p, api_key)
+        print(f"\n[{i+1}/{len(page_numbers)}] Processing page {p}...", flush=True)
+        text = ocr_page(p)
 
         if text is None:
+            # ocr_page returns None for both single-key failure and ALL_KEYS_EXHAUSTED.
+            # We can't easily distinguish them here without extra plumbing, but if
+            # the helper printed "All N keys exhausted" the operator should see it.
             results["failed"].append(p)
         else:
             save_raw(p, text)

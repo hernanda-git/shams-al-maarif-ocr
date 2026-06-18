@@ -26,7 +26,7 @@ _SCRIPTS_DIR = os.path.expanduser("~/.hermes/scripts")
 if os.path.isdir(_SCRIPTS_DIR):
     sys.path.insert(0, _SCRIPTS_DIR)
 
-from gemini_rotate import GeminiKeyManager, KEY_COUNT
+from gemini_rotate import GeminiKeyManager, KEY_COUNT, ALL_KEYS_EXHAUSTED
 
 KEY_MGR = GeminiKeyManager()
 
@@ -57,10 +57,23 @@ def _sleep_with_backoff(attempt, max_delay=60):
     time.sleep(total)
 
 
-def enrich_page_text(page_num, raw_text, api_key):
+def _post_to_gemini(api_key, payload):
+    """Single HTTP call to Gemini. Raises urllib.error.HTTPError on failure."""
+    headers = {
+        "Content-Type": "application/json",
+        "X-goog-api-key": api_key,
+    }
+    data = json.dumps(payload).encode("utf-8")
+    req = urllib.request.Request(API_URL, data=data, headers=headers, method="POST")
+    with urllib.request.urlopen(req, timeout=45) as resp:
+        return json.loads(resp.read().decode("utf-8"))
+
+
+def enrich_page_text(page_num, raw_text):
     """
     Send raw OCR text to Gemini for conservative correction.
-    Returns the enriched text.
+    Tries every available key in sequence; returns enriched text on first success,
+    or raw_text fallback if all keys exhausted.
     """
     prompt_text = (
         "You are a Classical Arabic text restoration expert. Your task is to "
@@ -101,69 +114,43 @@ def enrich_page_text(page_num, raw_text, api_key):
         }
     }
 
-    max_retries = 5
-    for attempt in range(1, max_retries + 1):
-        try:
-            headers = {
-                "Content-Type": "application/json",
-                "X-goog-api-key": api_key
-            }
+    result = KEY_MGR.call_with_key_rotation(_post_to_gemini, payload)
 
-            data = json.dumps(payload).encode("utf-8")
-            req = urllib.request.Request(API_URL, data=data, headers=headers, method="POST")
+    if result is ALL_KEYS_EXHAUSTED:
+        print(f"  [FAIL] All {KEY_COUNT} keys exhausted for page {page_num} — top up credits; falling back to raw", flush=True)
+        return raw_text
 
-            with urllib.request.urlopen(req, timeout=300) as resp:
-                result = json.loads(resp.read().decode("utf-8"))
+    if not isinstance(result, dict):
+        return raw_text
 
-            candidates = result.get("candidates", [])
-            if not candidates:
-                print(f"  [WARN] No candidates for enrichment", flush=True)
-                return raw_text  # Fallback: return raw
+    candidates = result.get("candidates", [])
+    if not candidates:
+        print(f"  [WARN] No candidates for enrichment", flush=True)
+        return raw_text  # Fallback: return raw
 
-            text_parts = []
-            for part in candidates[0].get("content", {}).get("parts", []):
-                if "text" in part:
-                    text_parts.append(part["text"])
+    text_parts = []
+    for part in candidates[0].get("content", {}).get("parts", []):
+        if "text" in part:
+            text_parts.append(part["text"])
 
-            enriched = "\n".join(text_parts).strip()
+    enriched = "\n".join(text_parts).strip()
 
-            # Safety check: enriched should not be dramatically shorter than raw
-            if len(enriched) < len(raw_text) * 0.5:
-                print(f"  [WARN] Enriched text is <50% of raw length ({len(enriched)} vs {len(raw_text)}) — using raw", flush=True)
-                return raw_text
+    # Safety check: enriched should not be dramatically shorter than raw
+    if len(enriched) < len(raw_text) * 0.5:
+        print(f"  [WARN] Enriched text is <50% of raw length ({len(enriched)} vs {len(raw_text)}) — using raw", flush=True)
+        return raw_text
 
-            # Safety check: enriched should not be dramatically longer (avoid hallucination)
-            if len(enriched) > len(raw_text) * 3:
-                print(f"  [WARN] Enriched >3x raw length ({len(enriched)} vs {len(raw_text)}) — using raw", flush=True)
-                return raw_text
+    # Safety check: enriched should not be dramatically longer (avoid hallucination)
+    if len(enriched) > len(raw_text) * 3:
+        print(f"  [WARN] Enriched >3x raw length ({len(enriched)} vs {len(raw_text)}) — using raw", flush=True)
+        return raw_text
 
-            print(f"  [ENRICHED] {len(raw_text)} → {len(enriched)} chars", flush=True)
-            return enriched
-
-        except urllib.error.HTTPError as e:
-            error_body = e.read().decode("utf-8", errors="replace")
-            print(f"  [RETRY {attempt}/{max_retries}] HTTP {e.code}: {error_body[:200]}", flush=True)
-            if e.code == 429:
-                # Rate limited — rotate to next key!
-                old_idx, _ = KEY_MGR.get_key()
-                new_idx, new_key = KEY_MGR.rotate_key()
-                api_key = new_key
-                print(f"  [ROTATE] Key {old_idx} → key {new_idx} (429 rate limit)", flush=True)
-                _sleep_with_backoff(attempt, max_delay=60)
-            elif e.code >= 500:
-                _sleep_with_backoff(attempt, max_delay=60)
-            else:
-                time.sleep(10)
-        except Exception as e:
-            print(f"  [RETRY {attempt}/{max_retries}] {type(e).__name__}: {e}", flush=True)
-            _sleep_with_backoff(attempt, max_delay=60)
-
-    print(f"  [FAIL] Enrichment failed — falling back to raw text", flush=True)
-    return raw_text
+    print(f"  [ENRICHED] {len(raw_text)} → {len(enriched)} chars", flush=True)
+    return enriched
 
 
 def process_batch(page_numbers):
-    """Enrich a batch of pages from their raw OCR files, rotating Gemini key each call."""
+    """Enrich a batch of pages from their raw OCR files. Rotates through ALL keys per page."""
     results = {"enriched": [], "failed": [], "fallback_raw": []}
 
     for i, p in enumerate(page_numbers):
@@ -185,10 +172,8 @@ def process_batch(page_numbers):
             results["enriched"].append(p)
             continue
 
-        # Rotate to a fresh key before every API call
-        idx, api_key = KEY_MGR.rotate_key()
-        print(f"\n[{i+1}/{len(page_numbers)}] Enriching page {p} ({len(raw_text)} chars) with key [{idx}]...", flush=True)
-        enriched = enrich_page_text(p, raw_text, api_key)
+        print(f"\n[{i+1}/{len(page_numbers)}] Enriching page {p} ({len(raw_text)} chars)...", flush=True)
+        enriched = enrich_page_text(p, raw_text)
 
         os.makedirs(ENR_DIR, exist_ok=True)
         enr_path = os.path.join(ENR_DIR, f"page_{p:03d}.txt")
