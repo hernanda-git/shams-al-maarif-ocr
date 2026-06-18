@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 353 translated pages._
+_Auto-generated from 357 translated pages._
 
 ---
 ## Page 1
@@ -20340,4 +20340,247 @@ A great question, the truth, a letter Ṣ N if * strange, doubt, its ضبطه, a
 And as for the manner of the work, it is that you place the letters of the Watad, that is, neither increase nor decrease, and add to it four
 
 ---
-_End of translation — 353 pages._
+## Page 354
+
+**Arabic (original):**
+— ٣٤٨ —
+
+وثالث ثم ضع سؤال السائل أربعة وأربعين حرفا لا تزيد ولا تنقص ثم امزج الحروف مع بعضها
+وهي حروف السؤال والقطب وتنزلهما في جدول بقسمة صحيحة حتى يخرج لك الزمام ثم انظر في
+حروف الجدول وانظر النارية والهوائية والمائية والترابية فاذا عزمت هلك فأسقط كل حرف
+بإسقاطها وركب منه أحرفا على الترتيب ثم انظر إلى أقل عدد والحروف بذلك القانون يظهر
+لك الجواب ان شاء الله تعالى * ووجه آخر وهو أن تأخذ حروف السائل وتحذف منها المكرر ثم
+اثبت مابقي وكذلك تفعل في حروف القطب واجمعهم جميعا حتى يصيروا جميعا معك ٤٣٠ حرفا
+ثم خذ أعداد سطر المزج سوى الالفات وهي أحاد القطب وهي هذه العشرة أحرف ب ث ف
+ذ ر هـ و ح ط ثم خذ أوتار هؤلاء الحروف فيكون ٦٢ فاطرحها أدوارا اثني عشرية حتى تبقى ستة احفظها
+وانظر [~] في تحصيل الوتر ان ترفع الحرف على حرف يخرج الوتر لذلك الحروف ثم خذ قوى هـ . ا
+الحرف وذلك سرها عين سكنها من القطب ثم ضم باقي القوى بعد الطرح ادوارا ستة ( تنبيه )
+هذه الستة المحفوظة من الأوتار ثابتة أبدا والقوى تتبدل بحسب قعر الأسئلة ثم اضرب المجموع أو
+الباقي في عشرة ابدا واصلها أن تضرب الاول وهو اثنان في اصطلاح أهل هذا الفن في البعد الثالثة
+وهو اربعة فيبقى ثمانية عشر تبق العشرة المذكورة وهي ثلثان من أثلاث من نغمات الثوابت
+ثم الاول اطرحه بأول الخمسات المغمورة وهي اثنا عشر فان بقي من الطرح أكثر من اثني عشر
+فيكون ذلك أول المرات فاطرحها الى بقي مثلها أو أقل منها وهو الثلاثة وأول الاعداد وهو
+الاثنان أو أقل العدد وهو الواحد فأيهما كان فهو الدليل فان كان واحدا فناري أو اثنين فترابي
+أو ثلاثة فهو هوائي أو أربعة فمائي فما بقي فانظر في شرح المزج من تلك السكرة فهو المفتاح رابعة الشاهد
+فان وافقا التمام فقد آلت على الاصطلاح الضلع مستقيما والأخذ رابع الشاهد فان توافقت
+الشواهد الثلاثة من كرة واحدة فاكتب بل بنوع واحد وألا بأن كانوا من كرتين فبنوعين ومن
+ثلاث فثلاث وهو نهاية التنزيل ثم اجمع أس الدليل وأس الشاهد واخرج من الحاصل ادوارا اثني
+عشرية فاقل في النوع الاول واضرب الحاصل في الاثنين واخرج من الحاصل واحدا ان كان الدليل
+على حاله في النوعين فان زاد الحاصل على أربعة وخمسين فاحفظ الزائد عليها ثم ادخل في
+جدول التنزيل بكل نوع بنتيجته رهـ الحاصل والباقي المحفوظ وشخص النوع الثالث جدول فان
+دخل في الاول ان كانت للقوة الجسمانية للدليل القوة فاعلم ذلك وحققه
+( ووجه آخر ذكرته نظما وهو هذا )
+سألت هداك الله يا خل عالما * بمعرفة العلم المصون الذي علا
+على الجوهر المكنون في أحرف المجـا * وسر عليه الستر مادام مسبلا
+وأظهر مافيه خفى وكـامنا * من العلم الغيب وانفع الملا
+أحثك أرجو الاجر من علم الهدى * فكن صابرا على الامر اذا نجلا
+للسؤال فاكتب معرفة كذاطوا * لع وقت تم عسكره الذي تلا
+واحذف المكرر منه وما بقى * لفصل سؤال فأثبت الغز مجملا
+
+و بالجمل
+
+**English:**
+— 348 —
+
+And a third: then place the question of the questioner, forty-four letters, neither increasing nor decreasing, then mix the letters with one another, and they are the letters of the question and the pole, and bring them down into a table with a correct division until the bridle comes out for you; then look into the letters of the table and look at the fiery, airy, watery, and earthy. So if you resolve, it perishes, then drop every letter by its dropping, and compose from it letters in sequence, then look to the least number, and by those letters of that law the answer will appear to you, if God تعالى wills. * And another aspect, which is that you take the letters of the questioner and delete from them the repeated, then establish what remains; likewise do in the letters of the pole, and gather them all until they all become with you 430 letters. Then take the numbers of the line of mixing except the alifs, and they are the ones of the pole, and they are these ten letters: ب ث ف ذ ر هـ و ح ط. Then take the strings of these letters, and they will be 62, so cast them off in twelvefold cycles until six remain; preserve them, and look [~] in the obtaining of the string, that you raise the letter upon a letter, the string for those letters comes out; then take the powers of هـ . ا the letter, and that is its secret, the eye of its stillness from the pole; then join the remaining powers after the subtraction, six cycles. (Note) These six preserved from the strings are fixed forever, and the powers change according to the depths of the questions. Then strike the total or the remainder by ten always, and its origin is that you strike the first, which is two in the terminology of the people of this art, in the third distance, which is four, so eighteen remains; the ten mentioned remain, and they are two-thirds of thirds of the tones of the fixed ones. Then the first, cast it by the first of the submerged fives, and they are twelve; if from the subtraction there remains more than twelve, then that will be the first of the times, so cast it until there remains like it or less than it, and it is three, and the first of the numbers, which is two, or the least number, which is one; whichever of them it is, it is the indicator. If it is one, then fiery; or two, then earthy; or three, then airy; or four, then watery. Whatever remains, then look in the explanation of the mixing from that intoxication, for it is the key, the fourth of the witness. If they agree in completion, then according to the convention the side has become straight, and the taking is the fourth of the witness. If the three witnesses agree from one sphere, then write, rather, with one kind; otherwise, if they are from two spheres, then with two kinds; and from three, then three, and that is the end of the descent. Then gather the exponent of the indicator and the exponent of the witness and bring out from the total twelvefold cycles, so say in the first kind, and strike the total by two and bring out from the total one if the indicator remains in its state in the two kinds. If the total exceeds fifty-four, then preserve what exceeds it; then enter into the table of descent, with each kind, its result, the total, and the preserved remainder. And depict the third kind as a table; then if it enters into the first, if there is for the bodily power of the indicator the power, then know that and verify it.
+
+(And another aspect, which I mentioned in verse, and it is this)
+I asked—may God guide you—O friend, a scholar * in the knowledge of the preserved science that has risen
+upon the concealed essence in the letters of the majā * and the secret upon it, the veil as long as it is let down.
+And manifest what is in it, hidden and concealed, * of the unseen science, and benefit the people.
+I urge you, I hope for reward from the science of guidance, * so be patient concerning the matter when it is revealed.
+For the question, then write the knowledge thus, طوا * لع وقت تم عسكره الذي تلا
+And delete the repeated from it and what remains * for the separation of a question, so establish the riddle in summary.
+
+And by the total
+
+---
+## Page 355
+
+**Arabic (original):**
+- ٣٤٩ -
+
+وَبِالْجُمَلِ الْمَوْضُوعِ فَالْجُمَلِ بَعْدَهَا * وَسُلْطَانِ طَالِعًا أَصْفِهِ مُكَمَّلَا
+وَكَوْكَبِهِ أَثْبِتْ اسْمَهُ وَأَضِفْهِمَا * لِفَضْلِ سُؤَالٍ رَاجِعِ الْمُتَحَصِّلَا
+فَإِنْ كَانَ نَارًا أَوْ هُوَ بُرْجُ طَالِعٍ * فَلِلْجَوْزَاءِ اقْصِدْ وَكُنْ مُتَأَمِّلَا
+وَخُذْ أُسَّهُ ضَمًّا لِمَا قَدْ جَمَعْتَهُ * وَإِنْ كَانَ نَارًا أَوْ تُرَابًا أَصْلَا
+فَعَنْ ضَمِّ أُسِّ الثَّوْرِ فَلَا تَجِدْ * سَاعَاتِ وَسِطِهِ إِنْ جَمَعْتَ لِتَفْضُلَا
+فَمَا دَوْرِهِ سَبْعٌ احْتَفِظْ بِهِ يَا فَتَى * تَرَى الْعَدَدَ الْبَاقِيَ يَنْتِجُ قَدْ دَخَلَا
+فَعُدَّ بِمَا يَبْقَى مِنَ الْجَدْوَلِ الَّذِي * يُجَانِسُ بُرْجَ الطَّالِعِ إِنْ كَانَ مَثَلَا
+فَجَدْوَلُهُ ذَاكَ الشِّمَالِ وَإِنْ يَكُنْ * جَنُوبًا فَإِثْبَاتُ الْجَنُوبِ تَجَلَّلَا
+فَمِنْ أَحَدِ الْآتَيْنِ عَدَّ لِمَا بَقِي * وَحَرْفٌ إِلَيْهِ يَنْتَهِي خُذْهُ أَوَّلَا
+فَذَاكَ أَوَّلُ نَاطِقٍ سِرَّ * جَوَابٍ صِرْفَ ذَاكَ يَجْتَلَا
+وَثَامِنُهُ حَذْفُهُ فَمِنْهُ إِذَا * دَخَلْتَ بِهِ فِي الْعَدِّ تَظْفَرُ بِالْعُلَا
+وَإِنْ تَكُ أَدْخَلْتَهُ فَاعْتَمِدْ إِذَا * عَلَى سَابِعٍ مِنْ بَعْدِ سَابِعٍ عَلَا
+كَذَا الْأَلِمُ تَلْتَحِفُ لَكُوا كَسَارًا * فَأَبْرَاجُهَا وَالْعَقْدِ تَيْنِ تَكَمَّلَا
+إِلَى أَنْ تَرَى فِيكَ الْأَلِفَ الَّتِي * آخِرُ اللَّفْظِ وَآخِرُ مَا انْجَلَا
+فَأَلِّفْ حُرُوفَ اللَّفْظِ جَمِيعَهَا * فَتَنْطِقُ بِسِرِّ اللَّهِ أَمْرًا مُفَصَّلَا
+فَيَظْهَرُ عِلْمُ الْغَيْبِ وَاللَّهُ مَدَّهُمْ * وَيَطْلُعُ سِرُّ الْحَرْفِ بَدْرًا مُكَمَّلَا
+طَوَالِعُ أَفْلَاكٍ قَوَانِينَ حِكْمَةٍ * تَدَاخُلُ أَعْدَادٍ عُلُومٍ لَهَا عَلَا
+وَرَمْزًا تَرَاهَا لِلْكُنُوزِ مَوَانِعًا * دَاخِلَهَا الطَّالِبُ تَظْفَرُ بِأَعْلَا
+جَلَوْتُ عَلَى أَقْصَارِ وَجْهِ جَمَالِهَا * بِغَيْرِ حِجَابٍ مُصْفَرٍ مُتَبَلِّلَا
+فَمَنْ كَانَ ذَا ذَوْقٍ تَمَلَّى بِوَصْلِهَا * وَمَنْ لَا لَهُ فَوْقَ فَرْمِهِ بِالْقِلَا
+فَهَذَا مِنَ الْوَهَّابِ فَضْلًا وَمِنَّةً * أَتَانِي بِهِ الْمَوْلَى لِيَعْرِفَهُ الْمَلَا
+وَصَلَّى إِلَهُ الْعَرْشِ خَالِقَنَا عَلَى * مُحَمَّدٍ خَيْرِ الْخَلْقِ أَشْرَفِ الْمَلَا
+
+* وَاعْلَمْ أَيُّهَا الطَّالِبُ أَنَّكَ إِذَا أَرَدْتَ أَنْ تَعْرِفَ الْحُرُوفَ الَّتِي تَصْلُحُ الْعَدَدَ وَالتَّلَقُّفَ مِنْ هَذِهِ
+الْأَبْيَاتِ فَالْحَرْفُ الَّذِي يَنْبَغِي لَكَ أَنْ تَثْبُتَهُ أَوْ تَتْرُكَهُ تَكُنْ مِنْ حُرُوفِ الْفَضْلَةِ وَهَا هَذَيْنِ الْبَيْتَيْنِ
+كَمَا تَرَى
+اللَّهُ يَقْضِي بِكُلِّ يُسْرٍ * وَيَرْزُقُ الضَّيْفَ حَيْثُ كَانَا * فَمَا كَانَ مَهْمَلًا فَفِي اللَّفْظِ جَاوِيَا
+٦٦ ٢٢٢ ٢١١ ١٥١ ٢١٨ ١٢١ ٨٢٥ ٢٩٢ * وَمَا كَانَ مَنْقُوطًا فَلْتَتْرُكْ كَائِنَا
+فَهَذَا الْحِسَابُ بِهِ فِي مِنْهُ الضَّابِطُ فَإِنَّ حُرُوفَ الْخَلَالَةِ سِتُّ حُرُوفٍ يُحْفَظُ لِأَنَّ الْحَرْفَ الْمُشَدَّدَ
+بِحَرْفَيْنِ وَكَذَا بَقِيَّةُ الْحُرُوفِ عَلَى هَذَا التَّرْتِيبِ وَاسْتَعِنْ بِحِفْظِ الْحُرُوفِ وَاجْمَعْ هِمَّتَكَ عِنْدَ تَلَفُّظِكَ
+وَاصْغَ لِذَلِكَ وَهَذَا آخِرُ مَا تَيَسَّرَ مِنْ هَذَا الْفَصْلِ مِنَ عِلْمِ التَّكْسِيرِ وَجَمِيعِ مَا ذَكَرْنَا نَوْعٌ مِنْ أَنْوَاعِ
+الزَّايِرْجَةِ وَهُوَ مُشْتَقٌّ مِنْ عِلْمِ الْكَسْرِ وَلَوْ ذَكَرْنَا الْأَمْثَالَ الَّتِي ذَكَرْنَاهَا لَطَالَ عَلَيْنَا الْمَقَالُ وَلَكِنْ
+
+**English:**
+And by the composed totals, then the totals after them, * and the lord of the ascendant, purify it, complete.
+And its planet, establish its name and add them both * for the surplus of a question, returning the obtained.
+If it is fire, or it is the sign of the ascendant, * then to Jupiter intend, and be contemplative.
+And take its exponent, joined, for what you have gathered; * and if it is fire or earth, originally.
+Then from the joining of the exponent of Taurus you will not find * the hours of its middle if you gather, so as to exceed.
+So its cycle is seven; preserve it, O youth, * you will see the remaining number producing, it has entered.
+Then count by what remains of the table which * corresponds to the sign of the ascendant if it is similar.
+So its table is that north, and if it is * south, then the establishing of the south is made manifest.
+Then from one of the two comings count for what remains, * and a letter to which it ends, take it first.
+So that is the first of a speaker, the secret of * a pure answer, that is unveiled.
+And its eighth is its deletion; from it, if * you enter by it into the counting, you will triumph with loftiness.
+And if you have entered it, then rely, if * upon a seventh after a seventh has risen.
+Thus the painful one envelops for you as a broken one, * so its signs and the knot of two are completed.
+Until you see in you the alif which is * the end of the utterance and the end of what has become clear.
+So join all the letters of the utterance * and you will speak with the secret of God, a detailed matter.
+Then the knowledge of the unseen appears, and God extended them, * and the secret of the letter rises, a full moon completed.
+Ascendants of spheres, laws of wisdom, * the intermingling of numbers, sciences for which there is loftiness.
+And as a symbol you see them as barriers to treasures; * within them the seeker, you triumph with the highest.
+I have unveiled upon the shortnesses of the face of their beauty * without a veil, yellowed, wet.
+So whoever is possessed of taste is filled by their union, * and whoever has not, above his grinding, with pebbles.
+So this is from the Bestower, as فضلًا and favor; * the Lord brought it to me so that the assembly may know it.
+And the God of the Throne, our Creator, prayed upon * Muhammad, the best of creation, the noblest of the assembly.
+
+* And know, O seeker, that if you wish to know the letters which are suitable for the number and the catching from these
+verses, then the letter which it befits you to establish or leave is among the surplus letters, and these two verses are:
+as you see
+God decrees with every ease * and provides the guest wherever he may be * so whatever was neglected, then in the utterance it is coming.
+٦٦ ٢٢٢ ٢١١ ١٥١ ٢١٨ ١٢١ ٨٢٥ ٢٩٢ * and whatever was dotted, then leave it as being.
+So this calculation, by it, in it is the regulator; for the letters of deficiency are six letters, preserved, because the doubled letter
+is by two letters, and likewise the rest of the letters according to this arrangement. And seek help by preserving the letters, and gather your resolve when you pronounce,
+and listen to that. And this is the last of what has been facilitated from this chapter of the science of Taksir, and all that we have mentioned is a type among the types of
+the Zairajah, and it is derived from the science of breaking. And if we were to mention the examples that we have mentioned, the discourse would be prolonged for us, but
+
+---
+## Page 356
+
+**Arabic (original):**
+— ٣٥٠ —
+ذَكَرْنَا أَحْسَنَ الطُّرُقِ وَأَلْطَفَهَا وَأَسْرَعَهَا مَأْخَذَا وَاللَّهُ الْمُوَفِّقُ
+﴿فَصْلٌ فِي اسْتِنْطَاقِ الْحُرُوفِ وَالْإِرْفَاقِ وَخَوَاصِّ ذَاكَ عَلَى التَّفْصِيلِ فَنَقُولُ﴾
+﴿بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ﴾ اعْلَمْ وَفَّقَكَ اللَّهُ لِطَاعَتِهِ أَنَّ أَوَّلَ الْابْتِدَاءِ بِاسْتِنْطَاقِ الْحُرُوفِ وَبَعْدَهَا
+الْكَوَاكِبِ وَالْمَنَازِلِ وَالْأَوْفَاقِ وَخَوَاصِّ الْحُرُوفِ مَعَ اسْتِخْدَامَاتِهِمْ عَلَى التَّفْصِيلِ * وَاعْلَمْ
+أَنَّ أَوَّلَ الْأَشْكَالِ الْأَلِفُ وَهِيَ نُقْطَةُ الْمَرْكَزِ إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئاً أَنْ يَقُولَ لَهُ كُنْ فَيَكُونُ وَأَنَّ اللَّهَ
+تَعَالَى نَظَرَ إِلَى النُّقْطَةِ فَسَالَتْ فَامْتَدَّتِ الْأَلِفُ بِقَدْرٍ * وَلِأَجْلِ ذَلِكَ كَانَتِ الْأَلِفُ مِنْ أُمَّهَاتِ الْحُرُوفِ
+وَمِنْهَا كَانَتْ وَقَدْ ذَكَرْنَا مَا رَأَيْنَاهُ مِنْ طَرِيقِ التَّحْقِيقِ فِي كِتَابِنَا الْمُسَمَّى بِلَطَائِفِ الْإِشَارَاتِ
+﴿فَصْلٌ فِي حَرْفِ الْأَلِفِ﴾ اعْلَمْ أَنَّ الْأَلِفَ سِرُّ اللَّهِ تَعَالَى فِي الْمَوْجُودَاتِ وَالْكَلَامُ عَلَى حَقَائِقِهَا يَطُولُ
+بَلْ نَذْكُرُ مَا نَحْنُ بِصَدَدِهِ فَنَقُولُ الْأَلِفُ هُوَ أَصْلُ الْأَشْكَالِ وَأَوَّلُ الْحُرُوفِ وَأَوَّلُ الْأَعْدَادِ فَعَلَى الْجُمْلَةِ
+أَنَّهُ حَرْفٌ صَادِرٌ مِنَ اللَّهِ تَعَالَى الْوَاحِدِ الْأَحَدِ وَلَهُ قُوَّةٌ فِي بَاطِنِ الْعُلْوِيَّاتِ وَعَدَدُهُ عَلَى تَفْصِيلِ أَلِفٍ
+وَالْعَدَدُ مِنْ ذَلِكَ ١١١ فَنَطَقَ بِهَا مِنَ الْحُرُوفِ أَيِّ قٍ وَنَاسِبٍ مِنْ أَسْمَاءِ اللَّهِ تَعَالَى كَافٍ وَهُوَ تَمَامُ
+الْمِائَةِ فَصَارَ بِنَاهُ فِي عَدَدِ حُرُوفِ الْقَصْرِ يَفِ فَبَلَغَ عَدَدُهَا ٣٣٣ فَهَذِهِ عَدَدُ قُوَاهَا فِي ظَاهِرِ
+السُّفْلِيَّاتِ بِالتَّأْثِيرَاتِ الْحَرْفِيَّاتِ فَاعْلَمْ سِرَّ الْمُسَمَّى وَالْمُسَمَّيَاتِ وَلِذَلِكَ مَرَّ الْأَلِفَاتُ الثَّلَاثُ لِيُبَيَّانَ
+أَوْصَافَهَا وَلَوْ أَضَفْتَ حُرُوفَ الْجُمْلَةِ عَلَى عَدَدِ التَّفْصِيلِ بَرَزَ عَنِ الْعَدَدِ ٤٤٤ وَإِنْ سَلَكْتَ مَسَالِكَ
+الْحُرُوفِ بَلَغَتِ الرُّتْبَةَ الْعَالِيَةَ وَفِيهِ سِرُّ التَّكْسِيرِ * فَنَقُولُ أَلِفٌ ثُمَّ كَسَرْنَاهَا أَلِ ف ل م فَاهَا كَسَرْنَاهَا
+فَكَانَتِ الْحُرُوفُ أَح د ث لَا ث و ن هـ وَنَادَحَ جَمَعْنَا هَؤُلَاءِ الْحُرُوفِ فَكَانَ عَدَدُهَا ٢٩١ حَرْفًا
+فَضَرَبْنَاهَا فِي نَفْسِهَا فَكَانَ الْعَدَدُ الْخَارِجُ ٣٨١ فَكَانَ الِاسْتِنْطَاقُ بِعَدَاسَةِ أَلِفٍ لَاس ٣٣٠
+فَكَانَ الطَّرْقُ الْمُسَمَّى بِالْكَعْبِ لَيْسَ لِسَائِلِ فَهَذَا الِاسْتِنْطَاقُ عَلَى التَّفْصِيلِ وَأَمَّا الِاسْتِنْطَاقُ عَلَى
+الْوَجْهِ الْجَلِيِّ الَّذِي هَذَا عَدَدُهُ مِنْ غَيْرِ طَرْحِ ١١١ كَانَ مِيكَائِيلُ وَالْوَجْهُ الثَّالِثُ وَهُوَ أَنْ تُرِيدَ فِي لَفْظِ
+أَيْلٍ يَبْقَ مَلَكًا رُوحَانِيًّا اسْمُهُ أَيْلٍ فَهَذِهِ الطَّرِيقَةُ عَلَى الْأَوْجِهِ السَّابِقَةِ
+﴿فَصْلٌ فِي حَرْفِ الْبَاءِ﴾ فَمِنْ حَيْثُ الْجُمْلَةِ حَرْفُ ب عَدَدُهُ ٢ فَكَسَرْتَ هَذَا ب ا ل ف م ثُمَّ كَسَرْتَ ا
+ح د ث ن ي ن ثَلَاثِ * ن ثُمَّ أَن و ن فَكَانَ عَدَدُ الْحُرُوفِ ٢٣ ضَرَبْنَاهَا فِي نَفْسِهَا ١٤٩ فَكَانَ
+كَعْبًا طَمَقَائِلَ طَرَحْنَا الْأَسْبَقِي ١٩ فَكَانَ الْكَعْبُ طَس قَرَدَ أَيْلٍ فَسَكَانَ طَسَائِلَ ثُمَّ أَضَفْنَا إِلَى
+حَرْفِ الْيَاءِ مِنْ حَيْثُ السُّفْلِيَّاتِ يَبْلِلْ فَهَذِهِ الطَّرِيقَةُ عَلَى ثَلَاثَةِ أَوْجُهٍ
+﴿فَصْلٌ فِي حَرْفِ الْجِيمِ﴾ وَهُوَ مِنْ حَيْثُ الْعَدَدِ ٣ وَتَفْصِيلِ الْإِسْقَاطِ ج ي م فَإِذَا كَسَرْتَ ج ي م
+ي ا م ي م ثُمَّ بَسَطَ ذَلِكَ ث ل ث ع ش ر هـ أَرْبَعَ وَن ع ش ر هـ أَرْبَعَ وَن عَدَدًا الْحُرُوفِ فَكَانَ
+جُمْلَتُهَا ٣٨ حَرْفًا ضَرَبْتَ فِي مِثْلِهَا خَرَجَ ٢٦٤ فَأَسْقَطْنَاهَا وَالَاس وَهُوَ ٥ فَبَقِيَ ٣١٣ فَبَلَغَ
+الْكَعْبُ جَلْشَ فَأَضَفْنَا إِلَيْهِ أَيْلٍ فَكَانَ جَاشَائِلَ فَكَانَ فِي بَاطِنِ الْعَدَدِ فِي الْعُلْوِيَّاتِ ثُمَّ أَثْبَتْنَاهُ
+وَقُلْنَا الْجِيمُ ٣ ضَرَبْتَ فِي مِثْلِهَا فَكَانَت ٩ ضَمَمْنَا حَرْفِ الْجِيمِ وَالطَّاءِ فَكُنْتَ حَطَّ فَنَطَقْنَاهَا
+فَكَانَ الْمَلَكُ حَطَيَائِلَ ثُمَّ نَطَقْنَا بِالْعَدَدِ الْأَوَّلِ فَكَانَ الْمَلَكُ دِسَائِلَ
+﴿فَصْلٌ فِي حَرْفِ الدَّالِ﴾ وَعَدَدُهَا ٤ وَتَفْصِيلُ الِاسْتِنْطَاقِ دَالٌ فَإِذَا كَسَرْتَ دَالُ أَلِفَ لَامَ وَبَسَطَهَا
+أَوْ
+
+**English:**
+— 350 —
+
+We mentioned the best of the ways, and the gentlest of them, and the quickest in taking, and God is the Giver of success.
+
+[Chapter on the uttering of the letters and the gentling, and the properties of that in detail, so we say]
+
+In the name of God, the Merciful, the Compassionate. Know—may God grant you success in His obedience—that the first beginning is with the uttering of the letters, and after them the planets, the mansions, the squares, and the properties of the letters, together with their uses in detail. * And know that the first of the forms is the alif, and it is the point of the center. “His command, when He intends a thing, is only that He says to it, Be, and it is.” And that God تعالى looked to the point, and it flowed, so the alif extended by measure. * And for that reason the alif was among the mothers of the letters, and from it they were. And we have mentioned what we saw by way of verification in our book called Latā’if al-Ishārāt.
+
+[Chapter on the letter alif] Know that the alif is the secret of God تعالى in existents, and discourse on their realities would be lengthy. Rather, we mention what we are concerned with, and say: the alif is the أصل of the forms and the first of the letters and the first of the numbers. So, in sum, it is a letter proceeding from God تعالى, the One, the Unique, and it has power in the inward of the supernal things, and its number, in the detail of a thousand, and the number from that is 111. So it was uttered by means of the letters of any q and a suitable one from the names of God تعالى, kāf, and it is the completion of the hundred. So its structure in the number of the letters of the enclosure is sufficient, and their number reached 333. So these are the number of its powers in the ظاهر of the lower things by the letteral influences. So know the secret of the named and the names; and for that the three alifs passed in order to clarify their descriptions. And if you add the letters of the total upon the number of the detail, it emerges from the number 444. And if you traverse the paths of the letters, you reach the lofty rank, and in it is the secret of Taksir. * So we say: alif, then we broke it: alif l m; then we broke it, and the letters were أ ح د ث ل ا ث و ن هـ and nādah. We gathered these letters, and their number was 291 letters. Then we multiplied it by itself, and the resulting number was 381. So the utterance was by the counting of an alif, lās 330. So the path called by the heel was not for the questioner. So this utterance is in detail. As for the utterance on the clear aspect, whose number is this without subtraction of 111, it was Mīkā’īl. And the third aspect is that you intend, in the utterance of Āyl, that there remain a spiritual angel whose name is Āyl. So this method is upon the previous aspects.
+
+[Chapter on the letter bā’] So, from the standpoint of the total, the letter ب, its number is 2. So you broke this ب ا ل ف م, then you broke ا ح د ث ن ي ن ثَلَاثِ * ن then أ ن و ن, and the number of the letters was 23. We multiplied it by itself, and 149 resulted. So it was a heel, ṭamqā’il. We subtracted the preceding 19, so the heel was ṭas qarad āyl, so it became ṭasā’il. Then we added to the letter yā’ from the standpoint of the lower things, yablil. So this method is upon three aspects.
+
+[Chapter on the letter jīm] And it is from the standpoint of the number 3 and the detail of the dropping: ج ي م. So when you broke ج ي م, ي ا م ي م, then that was expanded: ث ل ث ع ش ر هـ أَرْبَعَ وَن ع ش ر هـ أَرْبَعَ وَن and the number of the letters. So their total was 38 letters. You multiplied by its like, and 264 came out. So we dropped it, and alif, and it is 5, remained 313. So the heel reached jlash. Then we added to it Āyl, and it became jāshā’il. So it was in the inward of the number in the supernal things. Then we established it and said: jīm 3; you multiplied by its like, and it became 9. We joined the letter jīm and ṭā’, so you were ḥaṭṭ; then we uttered it, and the angel became ḥaṭayā’il. Then we uttered the first number, and the angel became disā’il.
+
+[Chapter on the letter dāl] And its number is 4, and the detail of the utterance is dāl. So if you broke dāl, alif, lām, and expanded it, or
+
+---
+## Page 357
+
+**Arabic (original):**
+- ٣٥١ -
+
+أربعة أحاد ثلاثون إحدى وأربعون جمعنا هذه الحروف فكان عددها ٤٢ ضربناها فبلغ
+الكعب ٤٠٩ أسقطنا منها الأس بقي منها ١٥٩ فنطق الكعب طسائيل بالاستنطاق الثاني فكان
+حرف الدال أربعة ضربت في مثلها بلغت ١٦ ضربناها على قدر التكسير فبلغ العدد ٤٨ فنطقها
+فكان الملك المستخرج ظائيل فاعلم ذلك
+(فصل في حرف الهاء) وعدده ٥ وتفصيل الاستنطاق فإذا كسرت هـ ا ل ف فكان بسطها
+خمسة أحاد ثلاثون فجمعت الحروف فكانت ٢٢ حرفا ضربت في نفسها خرج ٤٨٤
+أسقطنا الأس فكان ١٥٤ فكان الكعب الحرفي دلو الملك العلوي رقمائيل فكان هذا ظهرا
+وأما الباطن فكان العدد ٥ فنطقناه فكان ميكائيل ٤ وكان هذا باطن الاستنطاق بالعلويات
+والاستنطاق بغير أس درمائيل فاعلم ذلك
+(فصل في حرف الواو) وعدده ٦ وتفصيل الاستنطاق وتكسيره واو ا ل ف واو تكسيره س
+تة أحاد ثلاثون ثمانون ستة أ د س ت هـ جملتها ٤٣ ضربت فخرج ١٨٤٩
+طرحنا الأس بقي ٢٥ فبلغ الكعب طفرائيل فكان ظهر العدد في العلويات والوجه الثاني
+ضربناه فكان ٣٦ فنطقناه فكان الملك الموكل المستخرج من باطن العدد وليائيل ثم رجعنا إلى
+الأول فكان طسائيل فهذا ما في القوة الكلية فافهم ذلك
+(فصل في حرف الزاي) وعدده ٧ وبسطه زاي وتكسيره زاي ا ل ف بسطاها سبعة أ
+حاد ثلاثون ثمانون جمعناها فكانت ١٩ ضربناها في مثلها خرج ٣٦١ طرحنا الأس
+فكان الفائيل فكان نطقها في ظاهر العلويات وأما نطقها في باطن التكسير فقلنا الرابعة وضربناها
+في نفسها ٦٢ فكان ذاك حسائيل ثم أضفنا وضممنا العدد الأول فصار عيائيل فاعلم ذلك
+(فصل في حرف الحاء) وعدده ٨ وبسطها ح ا كسرناها ح ا ل ف وبسطت فبلغت ٣٤ نطقنا
+ذلك فخرج ٢١٦ وأسقطنا أسها فكان ١٦٦ فنطقنا وسق فكان الملك وسقائيل فكان
+ظاهرها في العلويات وأما باطن ذلك فعدد الحاء ثمانية فضربت مرتين فقلنا ١٦ فضربناها في
+نفسها فكانت ولقيائيل ثم رجعنا إلى الأول فكانت وترائيل فهذه الثلاث بطاقات
+(فصل في حرف الطاء) وعدده ٩ وبسطه طا وتكسيره ٢٢ ضربت فخرج ٤٨٤ نطقناها بعد
+طرح الأس فكان تقائيل وهو ظاهر الاستنطاق في العلويات وأما باطنه في السفليات فقلنا تسعة في مثلها
+كان ٨١ نطقنا افتيائيل ثم رجعنا إلى الأصل فكان العدد الخارج وردبائيل * واعلم أن كل حرف
+من هؤلاء الحروف له عوالم تخدمه وله جسم نوراني يجتمع به السالك في خلوته فاعلم ذلك وحققه
+(فصل في حرف الياء) وعدده ١٠ وبسطه وتكسيره ي ا ل ف ضربناها في نفسها خرج
+٤٨٤ فنطقت بعد الأس فكان داقيائيل وهذا ظاهر في الاستنطاق في العلويات وأما باطن ذلك فقلنا
+١٠ في ١٠ بمائة وأضفنا اليها ولق فكان ولقيائيل جئنا على ظاهر العدد من غير إسقاط فكان
+افقيائيل ثم جئنا إلى ظاهره فكان درديائيل
+(فصل في حرف الكاف) وعدده ٢٠ وبسطه ك اف وتكسيره ك اف ا ل ف بسطها
+
+**English:**
+- 351 -
+
+Four ones, thirty, one, and forty; we gathered these letters, and their number was 42. We multiplied them, and the cube reached 409. We dropped from it the alif, and 159 remained. Then the cube uttered Tsa'ila'il by the second utterance, and the letter dal was four; multiplied by its like, it reached 16. We multiplied it according to the measure of the breaking, and the number reached 48. Then it uttered it, and the extracted king was Zha'il. So know that.
+
+(Chapter on the letter ha) And its number is 5, and the detail of the utterance: if you break it, h a l f, then its expansion was five ones, thirty. So the letters were gathered, and they were 22 letters. It was multiplied by itself, and 484 came out. We dropped the alif, and 154 remained. So the literal cube was the bucket of the upper king, Raqma'il, and this was the outward. As for the inward, the number was 5, so we uttered it, and it was Mika'il 4. And this was the inward of the utterance by the upper ones, and the utterance without alif, Drama'il. So know that.
+
+(Chapter on the letter waw) And its number is 6, and the detail of the utterance and its breaking: waw a l f; and the breaking of waw: s. Six ones, thirty, eighty, six, a d s t h; their total is 43. It was multiplied, and 1849 came out. We subtracted the alif, and 25 remained. So the cube reached Tafr'a'il, and it was the outward of the number in the upper ones. And the second aspect, we multiplied it, and it was 36. Then we uttered it, and it was the appointed king extracted from the inward of the number, Waliya'il. Then we returned to the first, and it was Tsa'il. So this is what is in the total power; understand that.
+
+(Chapter on the letter zay) And its number is 7, and its expansion is zay, and its breaking: zay a l f. Its expansion: seven ones, thirty, eighty. We gathered them, and they were 19. We multiplied them by their like, and 361 came out. We subtracted the alif, and it was Fa'il. So its utterance was in the outward of the upper ones. As for its utterance in the inward of the breaking, we said the fourth, and we multiplied it by itself: 62. So that was Hasa'il. Then we added and joined the first number, and it became Ayi'il. So know that.
+
+(Chapter on the letter ha) And its number is 8, and its expansion is h a. We broke it: h a l f, and it expanded and reached 34. We uttered that, and 216 came out. We dropped its alif, and it was 166. Then we uttered Wasaq, and it was the king Wasaqa'il. So its outward was in the upper ones. As for the inward of that, the number of ha is eight, so it was multiplied twice, and we said 16. Then we multiplied it by itself, and it became Walaqi'il. Then we returned to the first, and it became Watra'il. So these three are cards.
+
+(Chapter on the letter ta) And its number is 9, and its expansion is ta, and its breaking: 22. It was multiplied, and 484 came out. We uttered it after subtracting the alif, and it was Taqa'il, and it is the outward of the utterance in the upper ones. As for its inward in the lower ones, we said nine by its like, and it was 81. We uttered Aftiya'il, then we returned to the أصل, and the outgoing number was Wardba'il * And know that every letter among these letters has worlds serving it, and it has a luminous body by which the wayfarer meets in his seclusion; so know that and verify it.
+
+(Chapter on the letter ya) And its number is 10, and its expansion and breaking: y a l f. We multiplied it by itself, and 484 came out. Then I uttered after the alif, and it was Daqiya'il, and this is outward in the utterance in the upper ones. As for the inward of that, we said 10 by 10 is one hundred, and we added to it and luq, and it was Walaqi'il. We came upon the outward of the number without subtraction, and it was Afqiya'il. Then we came to its outward, and it was Dardiya'il.
+
+(Chapter on the letter kaf) And its number is 20, and its expansion is k af, and its breaking: k af a l f. Its expansion
+
+Notes:
+[Grid content preserved as-is]
+
+---
+_End of translation — 357 pages._
