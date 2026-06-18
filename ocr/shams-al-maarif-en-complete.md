@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 349 translated pages._
+_Auto-generated from 353 translated pages._
 
 ---
 ## Page 1
@@ -20066,4 +20066,278 @@ ghayns, upon an arrangement from which there result four squares in every side o
 the jafr are seven hundred and eighty-four pages, and the number of its lines is 31902, and the number of its bayts is 21456, and the number of
 
 ---
-_End of translation — 349 pages._
+## Page 350
+
+**Arabic (original):**
+- ٣٤٤ -
+
+حروفه الحاصلة في جميع الصفحات ٢١٤٥٦٣٤ والسر المقصود بالإشارة إن كان راجعاً
+مسطوراً بعينه فالضابط في الإشارة تبين له إحاطة على المراتب الأربع فتدبره فهو عظيم الشأن
+فقد فتحت لك الباب وألهمت الرحمن المكتوم لمن أراد الوصول إلى حديقة أسرار الغيوب وروضة أنوار
+القلوب وهذا جدول يلهم منه أسماء الملوك كما ترى فافهم
+ومن ذلك تعلم منه أنامل سر ما كان وما يكون وأصل كل ملك
+تولى من ابتداء دعوة النبي صلى الله عليه وسلم إلى قيام الساعة وأسماء
+الملوك وما يجرى على ذلك الشخص وما يكون لبقية زوال الدول
+دولة بعد دولة أرشدك الله لفهم ذلك وسلك بنا وبك أشرف
+المسالك والله الموفق وهذه قاعدة مهمة حررتها من أصول الجفر
+فوجدتها صحيحة لا تخطئ أبداً وهو إذا أردت أن تعرف ولاية
+الملوك وأرباب الولايات وأعمارهم فخذ عدد حروف اسم المطلوب
+بالجمل الكبير ثم إن كانت حروفه مفردة وهي التي لم تتكرر فابسط حروفه من أوله إلى آخره إلى أن
+يتكرر فيه الحروف ويصح العمل وإن كانت حروفه فيها مكرر مثل حقق و برقوق أو بعضها مكرر
+مرتين أو ثلاث فلا تحتاج إلى بسط وتكسير بل الحكم فيه به لا يخطئ أبداً وإن كان فيه حرف واحد
+مكرر يؤخذ من متى فانظر في أول الاسم فإن كان مبيناً فأضف إليه مثل عدده فيصير جملتين أسقط
+منهما ما مضى من القرون ومهما فضل كان مدة ذلك الملك والحياة وكذلك تعين الثلاثين من الثلاث فصاعداً
+فإذا تعدد الحد المعلوم أسقطه أدواراً وبه الحكم لا يختلف أبداً والله أعلم * ووجه آخر إذا أردت أن
+تعلم مدة ولاية صاحب المنصب من سلطان أو حاكم أو غيره وكم يلبث في ولايته فخذ عدد
+حروف اسمه بالجمل الكبير ثم انظر في حروف الاسم المذكور فإن كان راجعاً في أوله لف
+فاطرح من العدد ٢ وما بقى اضرب به في نفسه فابلغ اطرح منه ما مضى من القرون مرة واحدة ثم انظر ما
+بقى بعد الطرح فإن كان فيه ألوف فاطرح التاريخ الذي معك وإن تأخر من الألوف مائة فضعها
+بالقهقرة إلى مرتبة المئات التي قبلها وإن بلغت مثل سنين التاريخ فاطرح منها مثله فإن تأخر منها شيء فأضفه
+القهقرة إلى المرتبة التي قبلها فما بلغ فالحكم عليها وعلى التي قبلها بأن المدة المطلوبة مثال ذلك
+أحمد بن دانيال خذ عدد حروف اسمه ٤ فكانت ٥٣ اطرح منها اثنين يبقى ٥١ اضربها
+في نفسها تبلغ ٢٦٠١ فكانت مدة ولايته يوم الأربعاء جمادى الآخرة سنة ٦٦٥ اطرح هذا
+التاريخ من خارج الضرب يبق سنة ثم طرحنا من ألف ستمائة ق أربعة أضفناها إلى ٦٠١
+بلغت ١٠٠١ طرحنا منها سنين التاريخ أيضاً يبقى ٣٢٦ من العدد أضفناه إلى المرتبة
+التي قبله وهي ٣ بلغت ٤ وقبلها ٦٠ فيكون ٤٦ تكون على هذه الصورة هل هي سنين أو
+شهور وغير ذلك فالذي كان بالمشاهدة إن كان مدته أربعين وسنة أشهر ولذلك قاعدة وهو
+إن كان الواقع أولاً أياماً فإن انقضت فشهور فإن انقضت فسنين وبين كل عددين إما قطع أو حركة
+فإن
+
+**English:**
+- 344 -
+
+Its letters obtained in all the pages are 2145634, and the secret intended by the indication, if it is returning
+written in its very self, then the regulator in the indication: there becomes apparent to him an encompassing over the four ranks, so reflect upon it, for it is of great شأن.
+Indeed I have opened for you the door and inspired the concealed al-Rahman for whoever desires to reach the garden of the secrets of the unseen and the meadow of the lights of
+the hearts. And this is a table from which the names of kings are inspired, as you see, so understand.
+And from that you learn from it the fingertips of the secret of what has been and what will be, and the أصل of every king
+who has taken office from the beginning of the call of the Prophet, may Allah bless him and grant him peace, until the قيام الساعة, and the names
+of kings, and what occurs to that person, and what will be for the remainder of the disappearance of states,
+state after state. May Allah guide you to understanding that and lead us and you by the noblest
+paths, and Allah is the One who grants success. And this is an important rule I have تحريرها from the اصول of الجفر,
+and I found it correct, never erring at all. It is that if you want to know the governorship
+of kings and the lords of offices and their ages, then take the number of the letters of the name of the sought one
+by al-jummal al-kabir. Then if its letters are single, and they are those that have not repeated, then spread out its letters from its beginning to its end until
+the letters repeat in it and the operation is correct. And if its letters contain repetition, such as حقق and برقوق, or some of them repeated
+twice or three times, then you do not need spreading out and breaking up, rather the ruling in it by it never errs at all. And if there is in it one letter
+repeated, it is taken from متى; so look at the beginning of the name. If it is explicit, then add to it the like of its number, so it becomes two jummals; subtract
+from them what has passed of the centuries, and whatever remains is the duration of that king and life. Likewise the thirty is determined from the three and upward.
+So if the known limit is multiple, subtract it in cycles, and by it the ruling never differs at all, and Allah knows best. * And another aspect: if you want to
+know the duration of the governorship of the holder of the office, whether sultan or ruler or other, and how long he remains in his governorship, then take the number of
+the letters of his name by al-jummal al-kabir, then look at the letters of the mentioned name. If it is returning in its beginning, a lām,
+then subtract from the number 2, and what remains multiply by itself; then subtract from it what has passed of the centuries once, then look at what
+remains after the subtraction. If there are thousands in it, then subtract the date that is with you, and if one hundred remains behind from the thousands, then place it
+backwards to the rank of the hundreds before it. And if it reaches the like of the years of the date, then subtract from it its like. If something remains from it, then add it
+backwards to the rank before it. So whatever is reached, the ruling upon it and upon the one before it is that the sought duration is such as that. Example of that:
+Aḥmad ibn Dāniyāl. Take the number of the letters of his name, 4, so it was 53. Subtract two from it; 51 remains. Multiply it
+by itself; it reaches 2601. So the duration of his governorship was on Wednesday, Jumādā al-Ākhirah, year 665. Subtract this
+date from the product of the multiplication; one year remains. Then we subtracted from one thousand six hundred q four, and added it to 601;
+it reached 1001. We subtracted from it also the years of the date; 326 remains. From the number we added it to the rank
+before it, which is 3; it reached 4, and before it 60, so it becomes 46. It is on this form: are they years or
+months and other than that? So that which was by observation, if its duration was forty and a year months, and therefore a rule, and it is
+that if the occurrence at first is days, then if they elapse, months; then if they elapse, years. And between every two numbers either a break or a movement.
+For
+
+---
+
+---
+## Page 351
+
+**Arabic (original):**
+- ٣٤٥ -
+
+فإن سلم وصل إلى المدة الأخيرة وكذلك الحكم والله تعالى أعلم وإن كان الاسم خماسياً وتكرر فيه
+حرف واحد مثل مكارم فافعل به ما تقدم وهو طرح اثنين من العدد وما بقي اضرب به في نفسه وزد
+على الخارج من الضرب مثله وهي جملة ثانية وكذا إذا تكرر فيه الحرف كل ثلاث مرات فزده
+جملة ثالثة وافعل به ما تقدم يحصل المطلوب وإن كان الاسم ثلاثياً وليس فيه حروف مفردة ولا
+مثناة فاضرب عدد حروف الاسم في نفسه وما يخرج من الضرب فاطرح منه ثلثمائة التاريخ الذي
+معك حتى يبقى أقل من سنين التاريخ فما صنعه بالقهقرة الباقي من مئات خارج الضرب
+إن كان فما بلغ فإن كان أكثر من مئات التاريخ فاطرح منها مئات التاريخ حتى يبقى أقل منها
+فأرجعه إلى ما في مرتبة الآحاد والعشرات يحصل المطلوب مثال ذلك عدد اسم طفف ١٨٩
+طرحنا منه ٢ وضربنا ١١٤ في نفسها بلغت ١٢٩٦٦ طرحنا منه التاريخ وهو ستمائة وأحد
+وعشرين مرة فبقي بعد الطرح من الألوف ٦٥٥٦ وخذ القهقرة يصير ٨٥٦ ويصير بعد الطرح
+٣٥٦ ويصير الجميع ١٣ أيام الولاية والسنة والخمسة شهورها فتكون مدة ولايته ٨ أشهر
+وعشرين يوماً وإن كان في أول اسمه حرف مثناة وحرف مكرر فاضرب الحروف في نفسها كما
+تقدم وزد عليها مثلها وزد على الجملة مثل عدد الاسم وما اجتمع اطرح منه ما مضى من القرون
+الكاملة وما بقي دون قرن أو مثله بقهقرة من هناك إلى ما قبله من العدد مثال ذلك رقوق جملة اسمه
+٤٠٨ ومثناه ٨١٦ وأضفنا له مثل عدد الاسم ٤٠٨ فصار ٨١٦ ثم طرحنا من الألف
+الماضي من القرون وهو ٧٠٠ بقي ١٠٠ وهي أقل من التاريخ فأضفناه بالقهقرة إلى ما في المرتبة
+التي قبلها فصار ٧ وهي سنين وقبلها أربعة أشهر وهي شهور وإن طرحت من التاريخ عدد أيام
+الشهور العربي الذي فيه مع بعض الشهور الماضية خرج بقية أيام المدة المطلوبة من ٤ فما بقي من
+الشهور وهي ١٠١ الباقي ١٩ وبعض الشهور أربعة أيام من ١٩ بقي ١٥ وهي أيام المدة فكانت
+ولايته ٧ سنين و ١٥ يوماً وقس على ذلك والله أعلم واعلم بأن الحكم في الاسم الرباعي مثل
+أحمد وقا يتجلى لا يخطئ أبداً وكل هذه قواعد كلية صحيحة مأخوذة من أصول الجفر جم جاء أستاذ
+سنيه وحلها ١٢ وتراً من الجفر فاستخرج بها المجهولات والعلماء بعد ذلك أخذوا منه بحسب
+استعدادهم فلأجل ذلك سميت الزايرجة بالشيخ السبتي وهذا العلم مأخوذ من علم الكسر
+والبسط وهو على وجوه شتى أرشدك الله إلى غاياتها وحقائقها وهداك إلى رموز دقائقها إنه على
+ما يشاء قدير وصلى الله على سيدنا محمد وعلى آله وصحبه وسلم
+الفصل الرابع والثلاثون في معرفة علم الزايرجة وكيفيتها ومعرفة استنطاق
+نسب الحروف والبروج والمنازل والموازين المشهودات
+اعلم وفقني الله وإياك لطاعته وفهم معرفة علومه وحفظ ما في رسومه من علم الزايرجة علم
+شريف لمن علمه وعمل به وهو على ثلاثة أقسام قسم يسمى الموضوع المستعار وقسم يسمى الموضوع
+البسطي وقسم يسمى الموضوع الرجزي قائم بنفسه فالقسم الأول مثل الفأل ويسمى المركز
+والثاني يؤخذ من الأوفاق المربعة والمسدسة الدورية وهو أقرب الطرق ويخرج مثل الرجز أو
+النثر
+
+**English:**
+If it is sound, it reaches the final duration; likewise the ruling, and Allah تعالى knows best. And if the name is five-lettered and one
+letter is repeated in it, such as مكارم, then do with it what has preceded, which is subtracting two from the number, and what remains multiply it by itself, and add
+to the product of the multiplication its like, and that is a second total. Likewise, if the letter is repeated in it every three times, then add to it
+a third total, and do with it what has preceded; the desired result is obtained. And if the name is three-lettered and there are in it no single letters nor
+paired ones, then multiply the number of the letters of the name by itself, and what comes out of the multiplication, subtract from it three hundred, the date that
+is with you, until there remains less than the years of the date. So what it has done backwards, the remainder from the hundreds of the product
+if there is any, then whatever it reaches. If it is more than the hundreds of the date, then subtract from it the hundreds of the date until there remains less than them.
+Then return it to what is in the rank of the ones and tens; the desired result is obtained. Example of that: the number of the name طفف is 189.
+We subtracted 2 from it and multiplied 114 by itself; it reached 12966. We subtracted from it the date, which is six hundred and one
+and twenty times; so after the subtraction from the thousands 6556 remained. And take backwards it becomes 856, and after the subtraction it becomes
+356, and the whole becomes 13 days of governorship and the year and its five months, so the duration of his governorship is 8 months
+and twenty days. And if in the beginning of his name there is a paired letter and a repeated letter, then multiply the letters by themselves as
+has preceded, and add to it its like, and add to the total the like of the number of the name, and what is gathered subtract from it what has passed of the complete centuries,
+and what remains, less than a century or its like, backwards from there to what is before it of the number. Example of that: رقوق, the total of its name
+408, and its paired one 816, and we added to it the like of the number of the name, 408, so it became 816. Then we subtracted from the thousand
+that has passed of the centuries, which is 700; 100 remained, and it is less than the date, so we added it backwards to what is in the rank
+before it, so it became 7, which is years, and before it four months, which are months. And if you subtract from the date the number of days of the Arabic
+months in which, together with some of the past months, the remainder of the days of the sought duration comes out from 4, so what remains of
+the months, which is 101, the remainder 19, and some months four days from 19 remained 15, which are the days of the duration, so it was
+his governorship 7 years and 15 days. And measure upon that, and Allah knows best. And know that the ruling in the four-lettered name, such as
+Aḥmad and Qā, becomes manifest, never erring at all. And all these are correct universal rules taken from the اصول of الجفر. جم جاء, the master
+of his age, solved them, 12 strings from الجفر, and extracted by them the unknowns, and the scholars after that took from him according to
+their preparedness. For that reason the Zāyirjah was named by al-Shaykh al-Sabtī. And this science is taken from the science of breaking
+and spreading, and it is upon various aspects; may Allah guide you to its ends and its realities and lead you to the symbols of its subtleties. Indeed He is, upon
+what He wills, Powerful. And may Allah bless our master Muḥammad and his family and his companions and grant peace.
+
+Chapter Thirty-Four: Concerning the knowledge of the science of the Zāyirjah, and its manner, and the knowledge of eliciting
+the proportions of letters, the zodiacal signs, the lunar mansions, the weights, the witnessed things.
+
+Know—may Allah grant me and you success in obedience to Him and in understanding the knowledge of His sciences and preserving what is in His forms—of the science of the Zāyirjah: a science
+noble for whoever knows it and acts by it. It is in three divisions: a division called the borrowed subject, and a division called the
+spread subject, and a division called the rajaz subject, قائم بنفسه. So the first division is like the omen and is called
+the center. And the second is taken from the square and hexagonal circular correspondences, and it is the nearest of ways, and it comes out like rajaz or
+prose
+
+---
+
+---
+## Page 352
+
+**Arabic (original):**
+- ٢٤٦ -
+
+النثر المقفى والثالث قائم على قوانين شتى وذلك أن يظهر لك نظم على ميزان الشعر المسمى بالرجز
+فالقانون الأول المسمى بالمركز وهو أن تأخذ اسم الطالب وكسره كبيناه لك سابقا في معرفة التكسير
+ثم امزجهم بالحروف وهي حروف السؤال المسماة بالوتر الثابت الآتي ذكره ثم بعد ذلك انظر
+الحروف وامزجها وعد جميع الحروف بالرقم وأسقط ذلك على الموازين والأربع طبائع الآتي
+ذكرها ومهما فضل معك من العدد تلقطه واجعله مفتاحا فإن فضل معك ميزان الهواء قعد عليه
+وكذلك بقية الحروف إلى أن ينفذ العدد واجمع الحروف كلاما وإن نقص كلمة تردها من عندك
+ولحن ذلك وهذه أقل المراتب وقد جمل من هذا القانون أكثر العلماء مثل الإمام محمد المرموي
+والخطابي في زمن المأمون وألفوا كتبا كثيرة للفنون وهي سهلة لمن تأملها * والقانون الثاني وهو
+أن تأخذ اسم الحاجة وكسره وامزج حروفه مع حروف القطب واجمع ذلك بالجمل واقسم العدد
+ونزله في مربع أو مسدس إلى العشرة إلى أن يبلغ عددا كثيرا ثم اطرح العدد على الموازين الأربعة
+التي هي موضوعة على الطبائع ثم أسقط ذلك ومهما بقي معك أثبته حروفا واجعله مفتاحا ثم القطب
+بعد ذلك العدد وهكذا تفعل في سائر الأعمال من جميع الأوفاق * وفيه قانون آخر وهو أن تأخذ الحاجة
+واسم الشخص وكسره وامزج الحروف مع حروف اسم القطب امتزاجا تاما ثم نزل تلك
+الحروف على تنزيل حروف الطبائع ففي أي ميزان انتهى العدد فهو المفتاح لذلك فافهم ثم بعد
+ذلك تعد الميزان على توالي الدرج والقطب الحروف فإنه يخرج لك بحسب استعدادك قانون نظما
+ونثرا ورجزا وستأتي صورة العمل به إن شاء الله تعالى * وصورة العمل أن تأخذ اسم الحاجة
+واسم صاحب الحاجة واليوم والساعة والطالع والقارن والمتوسط والوتر وما بينها من البروج وميزان
+الشعر وميزان الموسيقى واجمع هذه الحروف وكسرها تكسيرا حرفيا على القانون الآتي ثم
+اعرف الحروف وخذ الحرف الذي لا يتكرر وأثبته في مكان على حدة ويسمى حرف الفضلة
+ثم ابتدئ بمزج الحروف التي ليست مكررة واجمع مع حروفها ما في نفسها وما زاد
+من العدد سقطه على ترتيب الأربع طبائع فأخرج من الحروف يكون مفتاح ذلك الحرف
+فانظم ذلك والقطبه فيخرج نظما من أي قافية أردت وأقربها بحر الطويل وإن احتجت حرفا
+من الحروف فخذ التكملة من الحروف واجمع ذاك بحسب استعدادك * وهذه القوانين التي
+ذكرت على ثلاثة أقسام * وأما أوتار البروج الآتي ذكرها فإذا أردت عملا فأول ذلك ( وتر
+الجمل ) أ ب ج د هـ و ز ح ط ي ك ل م ن س ع ف ص ق ر ش ت ث خ ذ ض ظ غ ( وتر الثور )
+س ع ط و ت ن ت س ر د ط ف ع س ي ر و هـ د ب ج أحرف (وتر الجوزاء) ط ع ح ث
+ن س ق ض ب ع ل ك ر و هـ د ب أ (وتر السرطان) و ق ش ب ح د ص ع س أ ب ج د هـ و ز ط ي
+ك ل م ن ر ع ص (حروف وتر الأسد) ل م ط أ ب ج د هـ و ي ق ع ص م هـ و ر ح ي ك ل م ن
+س ف ص (وتر السنبلة) ق ح ن س د هـ ش أ ب خ د هـ و ز ط ي ل ك ل م ص ق ت و ل ا ر ب و ك ل
+ع ف و ل م (حروف وتر الميزان) ك س و ح ف ق ف ط ح س ش أ و ك ل م ن ص ق س ت
+ولا
+
+**English:**
+The rhymed prose, and the third is based on various laws, namely that a نظم appears to you on the meter of poetry called rajaz.
+So the first law, called the center, is that you take the name of the seeker and its breaking up, as we have explained to you previously in the knowledge of breaking up,
+then mix them with the letters, which are the letters of the question, called the fixed string, mentioned below. Then after that look at
+the letters and mix them, and count all the letters by number, and cast that upon the balances and the four natures mentioned
+below. Whatever remains with you of the number, pick it up and make it a key; if the balance of air remains with you, sit upon it,
+and likewise the rest of the letters until the number is exhausted. And gather the letters as speech; if a word is lacking, return it from yourself
+and tune that. And this is the least of the ranks. Many of the scholars have beautified themselves with this law, such as Imam Muḥammad al-Marwī
+and al-Khaṭṭābī in the time of al-Maʾmūn, and they composed many books for the arts, and they are easy for whoever contemplates them. * And the second law is
+that you take the name of the need and its breaking up, and mix its letters with the letters of the pole, and gather that by the jummal, and divide the number
+and bring it down in a square or hexagon to ten until it reaches a great number. Then cast the number upon the four balances
+which are placed upon the natures, then drop that. Whatever remains with you, establish it as letters and make it a key, then the pole
+after that number, and thus you do in the rest of the works from all the correspondences. * And in it is another law, which is that you take the need
+and the name of the person and its breaking up, and mix the letters with the letters of the name of the pole in a complete mixing, then bring down those
+letters upon the bringing down of the letters of the natures. So in whichever balance the number ends, that is the key to that; so understand. Then after
+that you count the balance according to the succession of the degrees and the pole of the letters, for it will bring out for you according to your preparedness a law in نظم
+and prose and rajaz, and the form of working by it will come, if Allah تعالى wills. * And the form of the work is that you take the name of the need,
+and the name of the صاحب الحاجة, and the day and the hour and the rising sign and the companion and the middle and the string and what is between them of the zodiacal signs and the balance
+of poetry and the balance of music, and gather these letters and break them up with a literal breaking up according to the law that follows, then
+know the letters and take the letter that does not repeat and establish it in a place by itself, and it is called the letter of surplus.
+Then begin by mixing the letters that are not repeated and gather with their letters what is in themselves and what is increased
+from the number; cast it upon the arrangement of the four natures, so the letters come out, and that letter becomes its key.
+Then نظم that and pole it, and it will come out as نظم from whichever rhyme you wish, and its nearest is the بحر الطويل. And if you need a letter
+from the letters, then take the completion from the letters and gather that according to your preparedness. * And these laws that
+I mentioned are upon three divisions. * As for the strings of the zodiacal signs mentioned below, if you desire a work, then the first of that is (the string
+of al-jummal): أ ب ج د هـ و ز ح ط ي ك ل م ن س ع ف ص ق ر ش ت ث خ ذ ض ظ غ (the string of Taurus)
+س ع ط و ت ن ت س ر د ط ف ع س ي ر و هـ د ب ج letters (the string of Gemini) ط ع ح ث
+ن س ق ض ب ع ل ك ر و هـ د ب أ (the string of Cancer) و ق ش ب ح د ص ع س أ ب ج د هـ و ز ط ي
+ك ل م ن ر ع ص (letters of the string of Leo) ل م ط أ ب ج د هـ و ي ق ع ص م هـ و ر ح ي ك ل م ن
+س ف ص (the string of Virgo) ق ح ن س د هـ ش أ ب خ د هـ و ز ط ي ل ك ل م ص ق ت و ل ا ر ب و ك ل
+ع ف و ل م (letters of the string of Libra) ك س و ح ف ق ف ط ح س ش أ و ك ل م ن ص ق س ت
+and
+
+---
+## Page 353
+
+**Arabic (original):**
+— ٣٤٧ —
+
+و ل ر ت ث ق ل ع ف ق ل م (وتر العقرب) س ص ر ط ع ه ل ل م ن س ع ف ص ق ر ش ت
+ب ج د ط ع س اب ج د و ر (وتر القوس) ص ق ر ش ت ث خ ظ غ ش اب ج د ه و ز (وتر
+الجدي) اب ج د ه وز ي ل ك ل م ن س ع ف ص ق ر ش ت ث خ ذ ص ع ش (وتر الدلو)
+ض د س غ ف ش ق ل ك ل م ن س ع ف ص ق ر ش ت ث خ ذ ص غ ش ام ج د ه وز ك ل
+( حروف وتر الحوت ) اب ج د ه و ز ط ى ل ك ل م ن س ع ف ص ق ر ش ت ث خ ذ ص ض س
+فهذه أوتار البروج الاثني عشر فاذا أردت العمل بها فخذ اسم الحاجة وابسط حروفها ثم اجمع
+عددها الرقمي واطرحه عن عدد البروج فان فضل واحد خذ الحروف وامزجها ببرج الحمل وزن
+ذلك بميزان الطبائع والقط الحروف وهذه الأوتار الى جميع ما في العالم من خير أو شر وجميع
+ما تريد ( تنبيه ) اذا أتاك سائل عن علم من العلوم فخذ وتر برج الشمس وامزجه بحرف
+السؤال والقطه فان كان عن عشق أو محبة أو طب أو علم أو اسم من الأمور فاقصد وتر الدالي وقس
+على ذلك تصب ان شاء الله تعالى ( قاعدة عظيمة ) هو ان لكل برج من البروج أسياق ومقام
+الحروف وهو اذا أردت عملا من الأعمال وعرفت حقيقة طالعه فخذ أس ذلك الطالع وضعه على
+العدد وأول ذلك من البروج * وأما أس برج الحمل وله من الحروف ب ومن العدد ٢١ ومن
+الأوفاق كهيعص وأما أس برج الثور فله من الحروف ط ومن العدد ٨٩ ومن الأوفاق
+المثلث * وأما أس برج الجوزاء فلها من الحروف ى ومن العدد ٣٢ ومن الأوفاق المربع
+وأما أس برج السرطان فله من الحروف ط ومن العدد ٢٥ ومن الأوفاق المسدس * وأما أس
+برج الأسد فله من الحروف ح ومن الأوفاق المسبع * وأما أس برج الميزان فله من الحروف و
+ومن العدد ١٤ ومن الأوفاق المثمن * وأما أس برج العقرب فله من الحروف ه ومن العدد
+٩٠ ومن الأوفاق المتسع * وأما أس برج القوس فله من الحروف ج ومن العدد ٢ ومن الأوفاق
+المثلث * وأما أس برج الجدي فله من الحروف ح ومن العدد ١٢ ومن الأوفاق المربع * وأما أس
+برج الدالي فله من الحروف ب ومن العدد ٢ ومن الأوفاق المسبع * وأما أس برج الحوت فله من
+الحروف ا ومن العدد ٢٠ ومن الأوفاق المسبع وسبب هذا الأس انك اذا أردت عملا من
+الأعمال على قانون هذا المعنى فتأخذ اسم السؤال وتزنه مع حروف الاسم وضع تلك الأعداد
+الرقمية وتقطها على حسب تلك البروج وقدم وأخر في أول تلك الحروف المستنطقة حتى يظهر
+المراد وتفعل ذلك بحسب الأعمال وهذه أقرب الطرق في هذا المعنى * وأما صفة اسقاط الأربع
+عناصر فاسقط النار ٩٩ والحروف الهوائية ١٣١٣ والمائية ١٥١٥ والترابية ١٦١٦ واذا
+أردت اسقاط ذلك فأجمع الحروف وبعد جمعها تفعل ما ذكرنا * وأما حروف القطب ٤٤
+فيجمعها هذا البيت وهو الوتر وهو هذا
+سؤال عظيم الحق حرف ص ن اذا * غرائب شك ضبطه الجدى مثلا
+واما كيفية العمل فهو ان تضع حروف الوتر أعنى الغير زيادة ولا نقص وزد عليه أربع
+
+**English:**
+— 347 —
+
+W L R T Th Q L ʿ F Q L M (Watad al-ʿAqrab) S Ṣ R Ṭ ʿ H L L M N S ʿ F Ṣ Q R Sh T
+B J D Ṭ ʿ S AB J D W R (Watad al-Qaws) Ṣ Q R Sh T Th Kh Ẓ Gh Sh AB J D H W Z (Watad
+al-Jady) AB J D H W Z Y L K L M N S ʿ F Ṣ Q R Sh T Th Kh Dh Ṣ ʿ Sh (Watad al-Dalw)
+Ḍ D S Gh F Sh Q L K L M N S ʿ F Ṣ Q R Sh T Th Kh Dh Ṣ Gh Sh AM J D H W Z K L
+(Ḥurūf Watad al-Ḥūt) AB J D H W Z Ṭ ى L K L M N S ʿ F Ṣ Q R Sh T Th Kh Dh Ṣ Ḍ S
+
+These are the Watads of the twelve signs of the zodiac; so if you desire to work with them, take the name of the need and spread out its letters, then gather its numerical value and subtract it from the number of the zodiac signs; if one remains, take the letters and mix them with the sign of Aries, and weigh that with the balance of natures, and cast the letters. And these Watads are for all that is in the world, of good or evil, and all that you desire. (Warning) If there comes to you a questioner about a science from the sciences, then take the Watad of the sign of the sun and mix it with the letter of the question and cast it; if it be about love or affection or medicine or science or the name of one of the matters, then قصد the Watad of al-Dalī and measure upon that; you will be correct, if God تعالى wills. (Great rule) It is that for every sign of the signs there are Asyāq and the station of the letters, and it is that if you desire an action from the actions and know the reality of its Taliʿ, then take the As of that Taliʿ and place it upon the number, and the first of that is from the zodiac signs. * As for the As of the sign of Aries, there is for it from the letters B and from the number 21 and from the awfāq KHYʿṢ. And as for the As of the sign of Taurus, there is for it from the letters Ṭ and from the number 89 and from the awfāq the triangle. * And as for the As of the sign of Gemini, there is for it from the letters ى and from the number 32 and from the awfāq the square. And as for the As of the sign of Cancer, there is for it from the letters Ṭ and from the number 25 and from the awfāq the hexagon. * And as for the As of the sign of Leo, there is for it from the letters Ḥ and from the awfāq the septagon. * And as for the As of the sign of Libra, there is for it from the letters W and from the number 14 and from the awfāq the octagon. * And as for the As of the sign of Scorpio, there is for it from the letters H and from the number 90 and from the awfāq the nonagon. * And as for the As of the sign of Sagittarius, there is for it from the letters J and from the number 2 and from the awfāq the triangle. * And as for the As of the sign of Capricorn, there is for it from the letters Ḥ and from the number 12 and from the awfāq the square. * And as for the As of the sign of al-Dalī, there is for it from the letters B and from the number 2 and from the awfāq the septagon. * And as for the As of the sign of Pisces, there is for it from the letters A and from the number 20 and from the awfāq the septagon. And the cause of this As is that if you desire an action from the actions according to the law of this meaning, then you take the name of the question and weigh it with the letters of the name and place those numerical numbers and divide them according to those signs, and advance and delay in the beginning of those uttered letters until the intended meaning appears, and you do that according to the actions; and these are the nearest الطرق in this meaning. * And as for the description of casting off the four elements, then cast off the fire 99 and the airy letters 1313 and the watery 1515 and the earthy 1616; and if you desire to cast that off, then gather the letters, and after gathering them do what we mentioned. * And as for the letters of the Pole 44, this verse gathers them, and it is the Watad, and it is this:
+A great question, the truth, a letter Ṣ N if * strange, doubt, its ضبطه, al-Jady, for example
+
+And as for the manner of the work, it is that you place the letters of the Watad, that is, neither increase nor decrease, and add to it four
+
+---
+_End of translation — 353 pages._
