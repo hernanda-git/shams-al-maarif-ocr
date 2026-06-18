@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 357 translated pages._
+_Auto-generated from 362 translated pages._
 
 ---
 ## Page 1
@@ -20583,4 +20583,320 @@ Notes:
 [Grid content preserved as-is]
 
 ---
-_End of translation — 357 pages._
+## Page 358
+
+**Arabic (original):**
+- ٣٥٢ -
+
+حروفاً بلغت ٣٤ ضربت في مثلها خرج ٣٠٦ فنطقتاه فكان وترائيل وهو ظاهر في العلويات
+وأما باطن ذلك فقلنا أصل العدد ٢٠ ضربناه فخرج ٦٠ فنطقتاه فكان لسائيل رجعنا إلى الاصل
+من غير استنطاق وجدنا رسائيل فاعلم ذلك
+(فصل في حرف اللام) وعدده ٣٠ وبسطه لام وتكسيره ل ا م ا ل ف م ى م و بسطهم ١٨١
+حرفاً طرحنا الاس فكان المستنطق القائيل ثم نظرنا إلى باطن ذلك فكان الظاهر ص فنطقتا
+ذلك الملك صيائيل ثم رجعنا إلى الاصل فكان اقنيائيل فاعلم ذلك
+(فصل في حرف الميم) وعدده ٤٠ وبسطها م ي م بسطناها وكسرناها بلغت ٣٩ حرفاً ضربت
+في مثلها خرج ٣٨١ طرحنا الاس ونطقنا الكعب بلغ ٣٤١ فنطقتاها اليا ئيل وهذا ظاهر في العلويات
+ثم جئنا إلى باطن ذلك وضربناه في باطن العدد خرج فكى فزدناه ايل فكان فكيائيل رجعنا
+إلى أصل العدد فكان طيفائيل وهذا ظاهر في الاستنطاق
+(فصل في حرف النون) وعدده ٥٠ وبسطها نون فبسطناها وكسرناها بلغت ٥٣ ضربت في
+مثلها خرج ٤٢٥ طرحنا الاس بقي ٣٧٥ نطقت هقائيل فكان هذا ظاهر في الاستنطاق في العلويات
+تضرب في باطن الحروف الاصلية تبلغ ١٠٠ فنطقتاها فكانت تقيائيل رجعنا إلى العدد الاول
+فكان ميكائيل وهذا ظاهر في العلويات
+(فصل في حرف السين) وعدده ٦٠ وبسطه س ي ن وتكسيره ٣٩ حرفاً ضربت في نفسها
+بلغت ٣٠٩ طرحنا الاس ١٥٨ ونطقتاه فكان طيسائيل وهذا ظاهر في العلويات واما باطن
+ذلك فضربناه في أصل العدد فخرج ققيائيل فكان ظاهرا في العلويات وهذا العدد الاصلي والملك
+الموكل به ضيائيل
+(فصل في حرف العين) وعدده ٧٠ ؛ بسطه ع ي ن وتكسيره ٣٤ ضربناه طرحنا الاس
+فكان الملك ومرائيل خادم هذا الحرف في ظاهر العلويات وأما باطن ذلك فعدد العين سبعون
+ضربت في أعداد حروفها الاصلية وهي ثلاثة خرج ٣٧٠ فنطقت عريائيل رجعنا إلى العدد الاول
+فكان اسم الملك ولسائل
+(فصل في حرف الهاء) وعدده ٨٠ وبسطها وتكسيرها ف ا ل ف بلغت ٣٦ فنطقتاها بعد
+الاس فكان وقعيائيل وهذا ظاهر الاستنطاق في العلويات وأما باطن ذلك جئنا إلى اصل العدد
+وضربناه في ثلاثة خرج وسق فنطقتاه وسقيائيل ثم جئنا بالعدد الاول فنطقتاه فخرج ولرائيل
+فكان كل ملك من هؤلاء له قوة قهرية وأسماء عجيبة فافهم ذلك
+(فصل في حرف الصاد) وعدده ٩٠ وبسطه وتكسيره ٤٢ ضربناها في مثلها خرج ٤٠٤
+فكان الكعب الحرفي دست طرحنا الاس فكان دسا ئيل وهو الملك المتصرف في ظاهر الحروف
+في العلويات والتصرف في باطن العلويات المستخرج من أصل الحرف وهو اذا ضربت في أصل العدد
+الحروف الخارجة كان ٢٦ فنطقت عرميائيل والثالث المأخوذ من الاصل الاول دميائيل فكان لكل
+عالم من هذه العوالم قوة قهرية
+
+(فصل
+
+**English:**
+- 352 -
+
+Letters whose total reached 34, multiplied by the like of it, there came out 306; so we pronounced them, and it was Watrā’īl, and this is apparent in the upper worlds.
+As for the inward of that, we said: the root of the number is 20; we multiplied it, and there came out 60; so we pronounced them, and it was Lasā’īl. We returned to the root without pronunciation and found Rasā’īl; so know that.
+(Chapter on the letter Lām) Its number is 30, and its expansion is Lām, and its breaking-up is l a m a l f m ى m w; their expansion is 181 letters. We removed the root, and the pronounced one was al-Qā’il. Then we looked into the inward of that, and the apparent was Ṣ; so we pronounced that king, Ṣiyā’īl. Then we returned to the root, and it was Aqniyā’īl; so know that.
+(Chapter on the letter Mīm) Its number is 40, and its expansion is m y m. We expanded it and broke it up; it reached 39 letters. Multiplied by the like of it, there came out 381. We removed the root and pronounced the heel; it reached 341; so we pronounced them, aliyā’īl, and this is apparent in the upper worlds.
+Then we came to the inward of that and multiplied it by the inward of the number; there came out Faky. So we added “īl,” and it was Fakiyā’īl. We returned to the root of the number, and it was Ṭayfā’īl, and this is apparent in pronunciation.
+(Chapter on the letter Nūn) Its number is 50, and its expansion is Nūn. So we expanded it and broke it up; it reached 53. Multiplied by the like of it, there came out 425. We removed the root; 375 remained. It pronounced Haqā’īl, and this is apparent in pronunciation in the upper worlds.
+It is multiplied by the inward of the original letters; it reaches 100, so we pronounced them, and it was Taqiyā’īl. We returned to the first number, and it was Mīkā’īl, and this is apparent in the upper worlds.
+(Chapter on the letter Sīn) Its number is 60, and its expansion is s y n, and its breaking-up is 39 letters. Multiplied by itself, it reached 309. We removed the root, 158, and pronounced them, and it was Ṭaysā’īl, and this is apparent in the upper worlds. As for the inward of that, we multiplied it by the root of the number, and Qaqiyā’īl came out; it was apparent in the upper worlds. And this original number and the king appointed over it is Ḍiyā’īl.
+(Chapter on the letter ʿAyn) Its number is 70; its expansion is ʿ y n, and its breaking-up is 34. We multiplied it; we removed the root, and the king was Wamrā’īl, servant of this letter in the ظاهر of the upper worlds. As for the inward of that, the number of ʿAyn is seventy; multiplied by the numbers of its original letters, which are three, there came out 370, and we pronounced ʿAryā’īl. We returned to the first number, and it was the name of the king, Wilsā’īl.
+(Chapter on the letter Hā’) Its number is 80, and its expansion and breaking-up is f a l f; it reached 36. We pronounced them after the root, and it was Waqiyā’īl, and this is the apparent pronunciation in the upper worlds. As for the inward of that, we came to the root of the number and multiplied it by three; Wasaq came out, so we pronounced them, Wasaqiyā’īl. Then we came with the first number and pronounced them, and Wulrā’īl came out. So every king among these has a coercive power and wondrous names; understand that.
+(Chapter on the letter Ṣād) Its number is 90, and its expansion and breaking-up is 42. We multiplied it by the like of it, and 404 came out. So the letter-heel was Dust. We removed the root, and it was Dasā’īl, and he is the king who տնօրposes in the ظاهر of the letters in the upper worlds, and the disposition in the inward of the upper worlds extracted from the root of the letter; and if you multiply the letters that come out by the root of the number, it was 26, so we pronounced ʿArmiyā’īl; and the third taken from the first root, Damiyā’īl. So for every world of these worlds there is a coercive power.
+
+(Chapter
+
+Notes:
+[Grid content preserved as-is]
+
+---
+## Page 359
+
+**Arabic (original):**
+— ٣٥٣ —
+
+(فصل في حرف القاف) وعدده ١٠٠ وبسطه قاف وحروفها ضربت في مثلها بلغت ٢٦٤
+طرحنا الأس بق الرائيل وهو ظاهر في العلويات ثم رجعنا إلى أصل العدد وضربناه في حروفه
+الأصلية خرج ٢٠٠ نطقناه فكان باطن الاستنطاق وأما ظاهره في الأوليات فافريائيل
+فاعلم ذلك
+(فصل في حرف الراء) وعدده ٢٠٠ وبسطه راء وتكسيرها ٢٦ ضربت في مثلها خرجت
+٢٣٦ طرحنا الأس فكان النطق وقف الملك وقفائيل فكان هذا ظاهرا في العلويات وإذا نظرنا
+إلى باطن التكسير فكان العدد ٢٠٠ ضربناه مرتين فنطقنا اطبانائيل فكان هذا الخارج
+من باطن العلويات وظاهره للرائيل وكان هذا الاستنطاق الثالث فاعلم ذلك
+(فصل في حرف الشين) * وعددها ٣٠٠ وبسطها ش ي ن وتكسيرها ش ي ا ن و ن وجملتها
+٤١ حرفا ضربت في مثلها بلغت ٤٠٤ طرحنا الأس ونطقنا سياييل وهذا ظاهر الاستنطاق في
+العلويات وأما باطن ذلك فضربنا أصل العدد في الأحرف الخارجة خرج ٩٠٠ نطقت طناييل
+ثم رجعنا إلى الأول فكان د يائيل فاعلم ذلك
+(فصل في حرف التاء) وعددها ٤٠٠ وبسطها ت ا وبسط الحروف ٢٦ ضربت في نفسها بلغت
+٦٢١ طرحنا الأس ونطقنا ولقائيل وهذا ظاهر الاستنطاق في العلويات وأما باطن ذلك فضربنا
+أصل العدد في الأحرف الخارجة خرج ٨٠٠ ونطقها رطاييل ثم رجعنا إلى الأول وهو لورائيل
+فاعلم ذلك
+(فصل في حرف الثاء) وعددها ٥٠٠ وبسطها ث ا وبسطها ث ا ا ل ف وبسطها ٣١٦ حرفا
+ضربت في مثلها بلغت ٣١٦ طرحنا الأس خرج من الكعب ٣١٦ فكان وسقائيل فكان هذا
+ظاهرا في العلويات * وأما باطن العلويات فأخذنا العدد وضربناه في البسط خرج ١٠٠ فنطقناه
+رعقيائيل أخذنا العدد الأصلي ونطقناه وت يائيل فاعلم ذلك
+(فصل في حرف الحاء) وعددها ٦٠٠ ضربت في مثلها وخرج الاستنطاق ٢١٦ فكان هذا ظاهرا
+في العلويات * وأما باطنه فأخذنا العدد الأصلي وضربناه في البسط الأول فخرج ١٠٠ فنطقنا دير يائيل
+فاعلم ذلك
+(فصل في حرف الذال) وعددها ٧٠٠ وبسطه ٦٦ وتكسيره ذ ا ل ا ل ف ل ا م وحروفه ضربت في
+نفسها خرجت ٤٢٥ طرحنا الأس ونطقنا طمياييل ثم أخذنا الأصلي وضربناه في أصل الحروف بلغ
+٤٤ نطقناها تفعياييل فاعلم ذلك
+(فصل في حرف الضاد) وهو حرف ظلماني وعدده ٨٠٠ وتكسيره ض ا د وبسطه ض ا د ا ل ف
+دال ثم بسطناهم ث م ا ن ا ي ا هـ د ا ر ب ع هـ ا ح د ث ل ا ث ى ن ث م ا ن ا ر ب ع ا ح د ث ل ا ث ى ن
+فعددهم ٤٠ حرفا فضربناها في مثلها فكان ٤٢٥ فأسقطنا الأس فكان الخارج في صنقائيل
+ثم أخذنا العدد الأصلي فضربناه في أصل الحروف فكان العدد ٢٤ فنطقناها ثقفاييل ثم أخذنا
+العدد الأصلي فنطقناه فكان اطر يائيل فاعلم ذلك
+
+( ٢٣ — شمس المعارف — ثالث )
+
+**English:**
+— 353 —
+
+(Chapter on the letter Qāf) Its number is 100, and its expansion is Qāf, and its letters were multiplied by the like of it; they reached 264. We removed the root; the pronounced one was Bq al-Rā’īl, and this is apparent in the upper worlds. Then we returned to the root of the number and multiplied it by its original letters; 200 came out, and we pronounced it, and it was the inward of pronunciation. As for its outward in the primaries, it is Afriyā’īl; so know that.
+(Chapter on the letter Rā’) Its number is 200, and its expansion is Rā’, and its breaking-up is 26. Multiplied by the like of it, there came out 236. We removed the root, and the pronunciation was Waqf al-Malik Waqfā’īl, and this was apparent in the upper worlds. And if we look to the inward of the breaking-up, the number was 200; we multiplied it twice and pronounced Iṭbānā’īl, and this output was from the inward of the upper worlds, and its outward is for Rā’īl, and this was the third pronunciation; so know that.
+(Chapter on the letter Shīn) * Its number is 300, and its expansion is sh y n, and its breaking-up is sh y a n w n, and their total is 41 letters. Multiplied by the like of it, it reached 404. We removed the root and pronounced Siyāyīl, and this is the apparent pronunciation in the upper worlds. As for the inward of that, we multiplied the root of the number by the outgoing letters; 900 came out, and we pronounced Ṭnāyīl. Then we returned to the first, and it was D yā’īl; so know that.
+(Chapter on the letter Tā’) Its number is 400, and its expansion is t a, and the expansion of the letters is 26. Multiplied by itself, it reached 621. We removed the root and pronounced Walqā’īl, and this is the apparent pronunciation in the upper worlds. As for the inward of that, we multiplied the root of the number by the outgoing letters; 800 came out, and we pronounced it, Rṭāyīl. Then we returned to the first, which is Lurā’īl; so know that.
+(Chapter on the letter Thā’) Its number is 500, and its expansion is th a, and its expansion is th a a l f, and its expansion is 316 letters. Multiplied by the like of it, it reached 316. We removed the root; 316 came out from the heel, and it was Wasaqā’īl, and this was apparent in the upper worlds. * As for the inward of the upper worlds, we took the number and multiplied it by the expansion; 100 came out, so we pronounced it, Raʿqiyā’īl. We took the original number and pronounced it, and Tiyā’īl came out; so know that.
+(Chapter on the letter Ḥā’) Its number is 600. Multiplied by the like of it, and the pronunciation came out 216, and this was apparent in the upper worlds. * As for its inward, we took the original number and multiplied it by the first expansion; 100 came out, so we pronounced Diryā’īl; so know that.
+(Chapter on the letter Dhāl) Its number is 700, and its expansion is 66, and its breaking-up is dh a l a l f l a m, and its letters were multiplied by itself; 425 came out. We removed the root and pronounced Ṭamyāyīl. Then we took the original and multiplied it by the root of the letters; it reached 44, and we pronounced it Tafʿiyāyīl; so know that.
+(Chapter on the letter Ḍād) وهو حرف ظلماني and its number is 800, and its breaking-up is ḍ a d, and its expansion is ḍ a d a l f dāl. Then we expanded them: th m a n a y a h d a r b a ʿ h a a h d th l a th ى n th m a n a r b a ʿ a h d th l a th ى n. So their number is 40 letters; we multiplied it by the like of it, and it was 425. So we dropped the root, and the output was in Ṣunqā’īl. Then we took the original number and multiplied it by the root of the letters, and the number was 24, so we pronounced it Thaqfāyīl. Then we took the original number and pronounced it, and it was Iṭriyā’īl; so know that.
+
+( 23 — Shams al-Maʿārif — Third )
+
+Notes:
+[Grid content preserved as-is]
+
+---
+## Page 360
+
+**Arabic (original):**
+— ٣٥٤ —
+
+(فصل في حرف الظاء) وهو حرف عظيم ظلماني وعدده ٩٠٠ وبسطه ٢٥ ضربناها في مثلها خرج
+٢٢٥ طرحنا الأس طيائيل فكان هذا الروحاني ظاهراً في العلويات وأما باطن ذلك فكان العدد
+المذكور ٩٠٠ ضربناه في الحروف خرج ٨٠٠ نقضناه صفائيل وأما العدد الأول فكان طعطائيل
+فاعلم ذلك
+(فصل في حرف الغين) وعددها ١٠٠٠ وبسطها غ ي ن ي ا ن و ن بسطها ٢٢ حرفاً ضربت في
+مثلها خرج ٣٠٤ نطقه درائيل وهذا ظاهر في العلويات وأما باطن ذلك فأخذنا الحروف وضربناها
+في المبادئ فكان ثلاثة آلاف نطقناه على مذهب أفلاطون فكان عقائيل ومذهب عجيب قيل وباطن
+ذلك في العلويات فاعلم ذلك وحققه تصب إن شاء الله تعالى وقد ذكرنا في أول استنطاق آلاف في
+العدد الخارج من الحرف ومن أسماء الله الحسنى اسم كافي فيكون هذا الاسم الشريف هو الآخذ
+بناصية هذا الملك وإنك تأخذ كل عدد وتنظر أي اسم يوافق ذلك العدد فيكون هو الاسم الأعظم
+الذي يتلوه على ذلك الحرف فقد أوضحنا لك غاية الإيضاح والله الملهم لمن يشاء كيف شاء
+(فصل في تكسير البروج) (برج الحمل) وهو على وجهين وجه معروف ووجه منكر ومشى على
+هذا أكثر العلماء والحكماء مثل أفلاطون وغيرهم ح م ل تكسيره ث م ا ي أربعون ث ف فكان
+عدد الكعب ثمانية عشر ضربناها في مثلها خرج مائة أربع وستون وخرج الأس عقائيل ثم
+نظرنا ذلك من غير ألف ولام تعريف ومن غير إسقاط لأس خرج ذكر يأئيل فافهم ذلك (برج الثور)
+وبسطه ث و ر وتكسيره خ م ت م ا هـ س ت م ا ت ن جملتهم ١٥ وكعبها ٢٥ ونطقها هلقيائيل هذا
+مذهب بعض العلماء وأما مذهب أفلاطون فهو معرف بالألف واللام فتقول الثور بسيط ومركب
+فالبسيط اسم الرقي والمركب اسم الحرفي ألف لام أو أعدادها ١٣ حرفاً والمركب أحدث ل
+اث ون خ م س ون م اى س ت م ا ت ى ن جملتها ٢٣ وكعبها ونطقتها ٥٧٦ طرحنا ونطقتا وغفتائيل
+فاصرفه فيما ينسب إليه (برج الجوزاء) بسيط ومركب ا ل ف ل ا م ج ى م و ا ز ا ي ألف عددها ١٨
+حرفاً وعليه العمل وأما المركب الحرفي ثلاث مائة أربعون ارجع هـ ثلاثون وكعبها ١٤٩ ونطقها
+أقنايئل (برج السرطان) بسيط ومركب ا ل ف ل ا م س ى ن ر ا ط ا ن و ن ١٤ وعليه العمل
+وأما الرقي بسطه عدد ٣٠ حرفاً وكعبها ٩٠٠ نطقه طنيائيل فاصرفه فيما ينسب إليه (برج الأسد)
+بسيط ومركب فالبسيط ا ل ف ل ا م س ى ن دال والحرفي بسطه عدداً ٢١١ وجملته ٤١ حرفاً ونطقه
+انيائيل (برج السنبلة) بسيط ومركب فالبسيط ا ل ف ل ا م س ى ن ن و ن ب ا ل ا م ١٥ جملتها ٢٢
+حرفاً وبسطها ٤٣ ونطقها انطايئل فاصرفه فيما ينسب إليه (برج الميزان) بسيط ومركب وهو
+ألف لام ميم زاى نون وجملتها ١٦ وعليه العمل الرقي بسطه عدداً ٩٦ ونطقه صفائيل
+(برج العقرب) بسيط ومركب فالمركب ا ل ف ل ا م ى ى ن ق ا ف ر ا ب ا جملتها ٨ والرقي بسطه
+وعدده ٤٧ وكعبه ٧٤٧ ونطقه هوائيل فما ينسب إليه (برج القوس) وجملته ١٥ وبسطه ٢٠
+حرفاً وكعبه ٢٠ ونطقه سقائيل فاصرفه فيما ينسب إليه (برج الجدي) بسيط ومركب فالبسيط
+ا ل ف ل ا م ج ى م د ا ل ي ا وعليه عمل وبسطه العددي ٢٣ وكعبها ٤٤١ ونطقها قيعائيل فاصرفه
+فيما
+
+**English:**
+— 354 —
+
+(Chapter on the letter Ẓā’) It is a great dark letter, and its number is 900, and its expansion is 25. We multiplied it by the like of it, and 225 came out. We removed the root, Ṭiyā’īl, and this spiritual one was apparent in the upper worlds. As for the inward of that, the mentioned number was 900; we multiplied it by the letters, and 800 came out; we reversed it, Ṣafā’īl. As for the first number, it was Ṭaṭā’īl; so know that.
+(Chapter on the letter Ghayn) Its number is 1000, and its expansion is gh y n y a n w n; its expansion is 22 letters. Multiplied by the like of it, there came out 304; it was pronounced Daryā’īl, and this is apparent in the upper worlds. As for the inward of that, we took the letters and multiplied them by the beginnings, and it was three thousand; we pronounced it according to the doctrine of Plato, and it was ʿAqā’īl, and a wondrous doctrine was said, and the inward of that in the upper worlds; so know that and verify it, you will attain, if God Most High wills. We have mentioned at the beginning the pronunciation of thousands in the number coming out from the letter, and from the Beautiful Names of God the name Kāfī, so this noble name is the one taking hold of the forelock of this king. And you take every number and look which name accords with that number, and it will be the Greatest Name that is recited upon that letter. We have made this clear to you with the utmost clarity, and God is the One who inspires whom He wills, however He wills.
+(Chapter on the breaking-up of the zodiacal signs) (The sign of Aries) It is in two aspects: a known aspect and an unknown aspect, and most of the scholars and sages, such as Plato and others, have proceeded upon this. ḥ m l, its breaking-up is th m a y; forty th f f. So the number of the heel was eighteen; we multiplied it by the like of it, and one hundred sixty-four came out, and the root came out, ʿAqā’īl. Then we considered that without the alif-lām of definition and without dropping the root, and ذكر came out, Yā’īl; so understand that. (The sign of Taurus) And its expansion is th w r, and its breaking-up is kh m t m a h s t m a t n; their total is 15, and its heel is 25, and its pronunciation is Ḥalqiyā’īl. This is the doctrine of some scholars. As for the doctrine of Plato, it is defined with alif and lām, so you say: al-Thawr, simple and composite. The simple is the name of the celestial sphere, and the composite is the name of the lettered one, alif lām, or its numbers, 13 letters. And the composite is أحدث ل اث ون kh m s ون m a y s t m a t ى n; their total is 23, and its heel and its pronunciation are 576. We removed and pronounced, and Ghafā’īl. So dispose of it in that to which it is attributed. (The sign of Gemini) Simple and composite: a l f l a m j ى m w a z a y. Alif, its number is 18 letters, and the practice is upon it. As for the composite lettered one, three hundred forty, return h, thirty, and its heel is 149, and its pronunciation is Aqnāyīl. (The sign of Cancer) Simple and composite: a l f l a m s ى n r a ṭ a n w n, 14, and the practice is upon it. As for the celestial sphere, its expansion is the number of 30 letters, and its heel is 900; its pronunciation is Ṭunyā’īl. So dispose of it in that to which it is attributed. (The sign of Leo) Simple and composite: the simple is a l f l a m s ى n dāl, and the lettered one, its expansion as a number is 211, and its total is 41 letters, and its pronunciation is Aniyā’īl. (The sign of Virgo) Simple and composite: the simple is a l f l a m s ى n n w n b a l a m, 15; its total is 22 letters, and its expansion is 43, and its pronunciation is Anṭāyīl. So dispose of it in that to which it is attributed. (The sign of Libra) Simple and composite, and it is alif lām mīm zāy nūn, and its total is 16, and the practice is upon it. The celestial sphere, its expansion as a number is 96, and its pronunciation is Ṣafā’īl. (The sign of Scorpio) Simple and composite: the composite is a l f l a m ى ى n q a f r a b a; its total is 8. And the celestial sphere, its expansion and its number is 47, and its heel is 747, and its pronunciation is Huwā’īl, so that to which it is attributed. (The sign of Sagittarius) And its total is 15, and its expansion is 20 letters, and its heel is 20, and its pronunciation is Saqā’īl; so dispose of it in that to which it is attributed. (The sign of Capricorn) Simple and composite: the simple is a l f l a m j ى m d a l y a, and the practice is upon it. Its numerical expansion is 23, and its heel is 441, and its pronunciation is Qiyā’īl; so dispose of it in that to which
+
+Notes:
+[Grid content preserved as-is]
+
+---
+## Page 361
+
+**Arabic (original):**
+- ٣٥٥ -
+
+فيما ينسب إليه (برج الدالي) رقى مركب وتكسيره على ٣ أوجه الح وت ٤٥ فعلى الوجه الأول
+هايل والثاني ال ف ل م ت جملتها ١٣ ونطقها حنائيل والوجه الثالث التكسير الرقى عددها ٢٦
+وكعبها ٤٣٥ ونطقها هليائيل فاصرفه فيما ينسب إليه (برج الحوت) فهذه كيفية استنطاقات البروج
+على أقوال العلماء وقد ذكرت ذلك على أوجه شتى فأيهما أردت فافعل وتصرف وافهم نعم وأقبل
+النصح تفلح بعون الله تعالى
+
+(فصل في كيفية استنطاقات الكواكب والساعات)
+اعلم أن الكواكب السبعة تدور على اثني عشر ساعة وتم ذلك أول الكتاب وأول ما خلق
+الله تعالى من الأيام يوم الأحد وله من الكواكب الشمس وهي أكبر الكواكب وتكسيره
+ال ف ل ام حاد وعدده ١١ وعدد الحرفي ٢٠ ونطقه تقائيل وأما الساعة التي هي الشمس فتكسيرها
+ال ف ل ام ش ي ن م ي م س ي ن جملتها ٤٩ وفاروالرقى ٢٢ وكعبها ٤٦٩ ونطقها مطيع ذل فاصرفه
+كيف شئت * يوم الاثنين له من الكواكب القمر وهو بسيط ومركب فالبسيط الف لام الفات
+ن ي ان ون ١٦ حرفا وعليه العمل فتدبره والقمر بسيط ومركب. فالبسيط الف لام قاف ي
+م را جملتها ١٤ حرفا وعليه عمل وأما الحرفي الرقى جملتها ٢٤ حرفها وكعبها ٣١٦ ونطقها دسيائيل
+وهو على أحد الأقوال * يوم الثلاثاء بسطه ٢٢ وكميه ٣٠٤ ونطقه لحمائيل وكوكبه المريخ * يوم
+الأربعاء حروفه ٢٩ وكعبها ٨١ ونطقها افسائيل وكوكبه عطارد * يوم الخميس بسطه عددا ٣٤
+وكعبه ٣١٦ ونطقه وليائيل وكوكبه المشتري * يوم الجمعة وبسطه عدد ٣٤١ وكعبه ٣١٦
+ونطقه حصيائيل وكوكبه الزهرة * يوم السبت بسطه عددا ٢٩ وكعبه ٣٣٠ نطقه وكميائيل
+وكوكبه زحل * واعلم أن الإسقاط على أوجه شتى وقد ذكرنا غالبا فإن شئت ذلك فاطرح
+الأس من أصل العدد وإن شئت خذ العدد اللفظي وأسقطه وإن شئت فامض على ما بينه لك والكل
+صحيح بحسب استعدادك وهذا مثال فيما نحن بصدده فقس عليه وهو مظهر العقل جملته ٢١١ اطرح
+الأس من أصل العدد ٥١ يبقى ١٦٠ فنطقها حرف أو سق ضم له الأس يبقى اسقائيل ووجه آخر
+في تكسير المركب الألف لام ع ف ف فاف ل م حروفه ١٥ فضربت ١١٥ وهذا من أصل العدد فنطقنا
+العدد لأول فكان حصيائيل وهذا من وجه أن وأما الثالث فقلنا أحد ثلاث ن س سبعين ماي
+ه ثلاثين ٢٤ حرفا فضربناها في مثلها فكان الخارج من ذلك ٢١٦ فنطقت فكان الخارج
+منها هائل ثم رجعنا إلى أصل العدد فنطقناه فكان الخارج ما قدم فقس على ذلك سائر الأعمال
+(فصل في استنطاق المنازل) وهي ٢٨ منزلة * أولها (الشرطين) وهو بسيط ومركب فالبسيط اسم
+الحرفي وهو ل ش ر ط ي ن والمركب الحرفي ألف لام شين ر ط ا يانون ١٦ وعليه العمل وتكسيرها ٣٥
+وكعبها ٦٢٦ ونطقها هم أيل فاصرفه فيما ينسب إليه (البطين) بسيط ومركب فالبسيط الرقى ال ب ط
+ي ن والحرفي ال ف ل ام ب ا ط ا ي ن ون ١٥ حرف وعليه العمل لمن تدبره والرقى أحد ثلاثون ثني
+ن ت سع عشره خمسون الجملة ٤٧ حرفا وكعبها ٢٤٩ ونطقها ومحياييل فاصرفه كيف شئت
+(الثريا) بسيط ومركب فالبسيط ال ثرى والمركب ال ف لام ث ا ر ا ي ال ف ١٥ وعليه عمل
+
+**English:**
+- 355 -
+
+In that which is attributed to it (the sign of Aquarius), a compound incantation and its breaking into 3 aspects: al-hut and 45; so on the first aspect
+Ha'il, and the second al f l m t, its total is 13, and its pronunciation is Hana'il, and the third aspect, the breaking, the incantation, its number is 26
+and its cube is 435, and its pronunciation is Haliyail; so dispose it in that which is attributed to it (the sign of Pisces). Thus is the manner of the interrogations of the signs
+according to the sayings of the scholars, and I have mentioned that in various aspects; so whichever of them you desire, then do, and act, and understand. Yes, and accept
+advice; you will prosper, by the help of God تعالى.
+
+(Chapter on the manner of the interrogations of the planets and the hours)
+Know that the seven planets revolve over twelve hours, and that was completed at the beginning of the book. And the first of what was created
+by God تعالى of the days was Sunday, and its planet is the sun, and it is the greatest of the planets, and its breaking is
+al f l am had, and its number is 11, and the number of the letters is 20, and its pronunciation is Taqa'il. As for the hour which is the sun, its breaking is
+al f l am sh y n m y m s y n, its total is 49, and the incantation of the incantations is 22, and its cube is 469, and its pronunciation is Muti' Dhall; so dispose it
+as you wish. * Monday, its planet is the moon, and it is simple and compound; so the simple is al f l am al-fat
+n y an and 16 letters, and the work is upon it, so reflect upon it. And the moon is simple and compound. So the simple is al f l am qaf y
+m ra, its total is 14 letters, and the work is upon it. As for the lettered incantation, its total is 24 letters, and its cube is 316, and its pronunciation is Dasiya'il,
+and it is according to one of the sayings. * Tuesday, its simple is 22 and its quantity is 304, and its pronunciation is Lahma'il, and its planet is Mars. * Wednesday,
+its letters are 29 and its cube is 81, and its pronunciation is Afsa'il, and its planet is Mercury. * Thursday, its simple by number is 34
+and its cube is 316, and its pronunciation is Waliya'il, and its planet is Jupiter. * Friday, and its simple by number is 341 and its cube is 316
+and its pronunciation is Hasiya'il, and its planet is Venus. * Saturday, its simple by number is 29 and its cube is 330, its pronunciation is Wakamiyail,
+and its planet is Saturn. * And know that the casting down is in various aspects, and we have mentioned most of it. So if you wish that, then cast
+the exponent from the root of the number; and if you wish, take the verbal number and cast it down; and if you wish, proceed upon what he has made clear to you, and all
+is correct according to your preparedness. And this is an example concerning what we are engaged in; so measure upon it. It is the manifestation of the intellect, its total is 211; cast
+the exponent from the root of the number, 51, there remains 160, so its pronunciation is harf, or cast, add the exponent to it, there remains Isqa'il, and another aspect
+in the breaking of the compound: alif lam ' f f faf l m, its letters are 15, so 115 was multiplied, and this is from the root of the number, so we pronounced the
+number first, and it was Hasiya'il. This was from one aspect. As for the third, we said: one of three n s seventy may
+h thirty, 24 letters; so we multiplied them by their like, and the result of that was 216, so it was pronounced, and the result
+from it was Ha'il. Then we returned to the root of the number and pronounced it, and the result was what preceded. So measure upon that the rest of the works.
+(Chapter on the interrogations of the mansions) and they are 28 mansions. * The first of them (al-Shartayn), and it is simple and compound; so the simple is the name
+lettered, and it is l sh r t y n, and the compound lettered is alif lam shin r t a yanon 16, and the work is upon it, and its breaking is 35
+and its cube is 626, and its pronunciation is Hum A'il; so dispose it in that which is attributed to it. (al-Butin) simple and compound; so the simple is the incantation al b t
+y n, and the lettered is al f l am b a t a y n w n, 15 letters, and the work is upon it for whoever reflects upon it, and the incantation is one thirty, two
+n t, nineteen, fifty; the total is 47 letters, and its cube is 249, and its pronunciation is Wamhiya'il; so dispose it as you wish.
+(al-Thurayya) simple and compound; so the simple is al thurayya, and the compound is al f l am th a r a y al f, 15, and upon it is work.
+
+---
+## Page 362
+
+**Arabic (original):**
+- ٣٥٦ -
+
+والبسيط الرقي أحد ثلثون خمسا مائة ينعره أحد ٢٥ حرفا وكعبها ٢٢٥
+ونطقها الرائيل فصرفه فيما ينسب إليه (الدبران) بسيط ومركب فالبسيط الرقي الوب زان وعليه
+عمل والمركب الحرفي ألف لام دال با را ألف نون جملتها ٩١٩ وعليه العمل والبسيط
+الرقي ٣٢ حرفا ونطقها دلعائيل فصرفه فيما ينسب إليه (الهقعة) أم بسيط ومركب فالبسيط
+الحرفي ال ق ع ه وعليه العمل وبسطها ألف لام ألف ف ع ى ن ١٥ والبسيط الرقي ٣٧٢ حرفا
+وكعبها ٤٤٩ ونطقها مسكائيل فصرفه كيف شئت (الهنعة) لها أم بسيط ومركب البسيط اله ن ع
+وعليه العمل والمركب ألف لام ا ه ن ون ع ى ن ٣٥ والحرفي الرقي ٣٥ حرفا ونطقها ومحيا ئيل
+فصرفه فيما ينسب إليه (الذراع) بسيط ومركب فالبسيط الذراع والمركب الحرفي ألف لام ذال را
+ألف ع ى ن ١٧ والرقي الحرفي ٢٨ حرفا وكعبها ٢٩٨ ونطقها امضائيل فصرفه كيف شئت
+(النثرة) اسم بسيط ومركب فالبسيط ال ن ث ر ة وعدده ٦ حروف والمركب ألف نون ث ا را ١٥
+بسيط ومركب فالبسيط ٢٣ حرفا وكعبها ٩٠٠ ونطقها وقحائيل فصرفه كيف شئت (الاكليل)
+بسيط ومركب فالبسيط ٢٣ وكعبها ٣١٩ ونطقها بلعائيل فصرفه كيف شئت (القلب) بسيط
+ومركب وحرفي ٣٣ كعبها ٢٩ ونطقها ولعائيل فصرفه كيف شئت (النعائم) بسيط ومركب وهو
+٢٢ وكعبها ٤٠٣ ونطقها حسيعائيل (الذابح) بسيط ومركب وهو ٢٢ وكعبها ٢٣٦ ونطقها وصرائيل
+فصرفه كيف شئت (السعود) بسيط ومركب والحرفي ٢٥ وكعبها ٢٢٥ ونطقها و يعائيل فصرفه
+كيف شئت (المقدم) بسيط ومركب وهو ١٦ حرفا وكعبها ٢٨١ ونطقها حتدبائيل (الرشا) بسيط
+ومركب فالبسيط ال ر ش ا والمركب ألف لام شين ألف ١٤ حرفا وكعبها ٢٢٥ ونطقها
+رقيائيل والله أعلم * فهذه طريقة استنطاق المنازل وفيه دقيقة لطيفة فإذا أردت ذلك فخذ
+العدد الأول واضربه في بعضه وانطقه وإن شئت فخذ أحرف المركبة غير المستنطقة وانطقه وهذا
+من الأسماء الحسنى فإذا أخذت العدد الأصلي وجمعته ونطقته بعد تسقط منه الأس يحصل المطلوب
+(تنبيه) إذا عمت العمل في ساء الأولى ٤ كتب الأولى وأسقط ذلك كأبناه وضمه إلى أصل العدد
+وتنطقه وقد ذكرنا أولا أن المظاهر التي وضعها أفلاطون آلات من خافيته وسماها المظاهر ولذلك
+وأقاها باسم الظاهر مثل الحيوان وأسماء المظاهرة وذاتتمم فتقول (مظهر الأمر) بسيط ومركب
+فالبسيط ١٤ حرفا والرقي ٢٣ فإذا انطقناها كانت طسائيل (مظهر النفس) بسيط ومركب ومعلوم
+والحرفي ٢٤ وكعبها ٢١٦ ونطقها وعشائيل فصرفه كيف شئت (مظهر الهدول) بسيط وهو
+معلوم والحرفي ٢٩ ركمبها ٢٨١ ونطقها قيا ئيل فصرفه كيف شئت (مظهر المحدود) والمعدل اسم بسيط
+ومركب فالبسيط الاسم العددي والمركب الحرفي كما بيناه
+(فصل) واعلم أن نوع من الحيوانات يتصرف فيه العنصر القائم به * مثال ذلك حيوانا لما يتصرف
+فيه عنصر الماء فمن ذلك جميع الحيتان النهرية والبحرية لها من الحروف د والتمساح
+وما شاكله في الرتبة له من الحروف ح وكذلك تقسيم بقية الحروف
+(فصل) إذا أردت أن تتصرف في جلب حيوان فتأخذ أول حرف من ذلك الحيوان فكسره
+
+مع
+
+**English:**
+and the simple incantation is one thirty, five hundred, its one is 25 letters, and its cube is 225
+and its pronunciation is al-ra'il; so dispose it in that which is attributed to it. (al-Dabaran) simple and compound; so the simple incantation is al-wab zan, and upon it
+is work, and the compound lettered is alif lam dal ba ra alif nun, its total is 919, and upon it is the work, and the simple
+incantation is 32 letters, and its pronunciation is Dalya'il; so dispose it in that which is attributed to it. (al-Haq'ah) أم simple and compound; so the simple
+lettered is al q a h, and upon it is the work, and its expansion is alif lam alif f ع ى n, 15, and the simple incantation is 372 letters
+and its cube is 449, and its pronunciation is Miska'il; so dispose it as you wish. (al-Han'ah) لها أم simple and compound; the simple is اله ن ع
+and upon it is the work, and the compound is alif lam a h n w n ع ى n, 35, and the lettered incantation is 35 letters, and its pronunciation is Wamhiya'il;
+so dispose it in that which is attributed to it. (al-Dira') simple and compound; so the simple is al-dira', and the compound lettered is alif lam dhal ra
+alif ع ى n, 17, and the lettered incantation is 28 letters, and its cube is 298, and its pronunciation is Amdya'il; so dispose it as you wish.
+(al-Nathrah) a simple and compound name; so the simple is al n th r ة, and its number is 6 letters, and the compound is alif nun th a ra, 15
+simple and compound; so the simple is 23 letters, and its cube is 900, and its pronunciation is Waqha'il; so dispose it as you wish. (al-Iklil)
+simple and compound; so the simple is 23 and its cube is 319, and its pronunciation is Balya'il; so dispose it as you wish. (al-Qalb) simple
+and compound and lettered 33, its cube is 29, and its pronunciation is Walya'il; so dispose it as you wish. (al-Na'a'im) simple and compound, and it is
+22 and its cube is 403, and its pronunciation is Hasiya'il. (al-Dhabih) simple and compound, and it is 22 and its cube is 236, and its pronunciation is Wasra'il;
+so dispose it as you wish. (al-Su'ud) simple and compound, and the lettered is 25, and its cube is 225, and its pronunciation is Wa ya'il; so dispose it
+as you wish. (al-Muqaddam) simple and compound, and it is 16 letters, and its cube is 281, and its pronunciation is Hatdiba'il. (al-Risha) simple
+and compound; so the simple is al r sh a, and the compound is alif lam shin alif, 14 letters, and its cube is 225, and its pronunciation is
+Raqiya'il. And God knows best. * Thus is the method of interrogating the mansions, and in it is a subtle delicate point. So if you desire that, take
+the first number and multiply it by part of itself and pronounce it; and if you wish, take the letters of the compound, not the interrogated one, and pronounce it. And this
+is from the beautiful names. So if you take the original number and collect it and pronounce it after subtracting the exponent from it, the desired result is obtained.
+(Note) If you generalize the work in the first hour 4, write the first and subtract that as its fathers and add it to the root of the number
+and pronounce it. And we mentioned first that the manifestations which Plato set down are instruments from his hiddenness, and he called them the manifestations; therefore
+he named them by the name of the manifest, like the animal and the names of the manifestations, and complete yourself, so you say: (Manifestation of the matter) simple and compound
+so the simple is 14 letters and the incantation is 23; so if we pronounce them, they were Tasa'il. (Manifestation of the soul) simple and compound and known,
+and the lettered is 24 and its cube is 216, and its pronunciation is Wa'sha'il; so dispose it as you wish. (Manifestation of the intellect) simple, and it is
+known, and the lettered is 29, its compound is 281, and its pronunciation is Qiya'il; so dispose it as you wish. (Manifestation of the limited) and the adjusted is a simple name
+and compound; so the simple is the numerical name and the compound is the lettered, as we have explained.
+(Chapter) Know that a kind of animals is disposed in by the element subsisting in it. * An example of that is an animal in which the element of water is disposed;
+from that are all the river and sea fish, for them from the letters is d, and the crocodile
+and what is like it in rank, for it from the letters is h; and likewise the division of the rest of the letters.
+(Chapter) If you wish to dispose in the bringing of an animal, then take the first letter of that animal and break it
+
+with
+
+---
+_End of translation — 362 pages._
