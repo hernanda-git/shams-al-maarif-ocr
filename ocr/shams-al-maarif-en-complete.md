@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 341 translated pages._
+_Auto-generated from 345 translated pages._
 
 ---
 ## Page 1
@@ -19493,4 +19493,312 @@ And praise be to God, the عظیم, possessor of الوفا * and thanks be to G
 And Imam Ja‘far al-Sadiq, may God be pleased with him, said: from us is the red Jafr, and from us is the white Jafr, and from us is the comprehensive Jafr. So the red Jafr: O you who strove against the disbelievers and the hypocrites and was severe against them. And the white Jafr: We shall draw them on from where they do not know. And the comprehensive Jafr: God erases what He wills and confirms, and with Him is the Mother of the Book. And the imams, the firmly rooted from his children, used to know the secrets of this عظیم matter. * And when some of the caliphs wrote to Ali ibn Musa al-Rida to pledge allegiance to him, he said: Indeed, the Jafr, I have known from our rights what you know by it, that the Jafr does not indicate your pledge of allegiance, and God has concealed its knowledge from most of the scholars because of what is in it of divine wisdom and lordly interests. And the Imam mentioned the ministers of the seven climes and what befalls them until the Hour rises, and these seven divisions are not natural divisions, but rather imaginary lines placed by the first of the kings who traversed the world, such as Afridun the Nabataean, Tubba‘ the Himyarite, Solomon son of David, Alexander the Greek, and Ardashir son of Babak the Persian, and others, so that they might know the boundaries of the lands and the routes. And every clime among them is as though it were a spread carpet, its length from the east to the west and its width from the north to the south. * And know that the earth, with all that is upon it of mountains and sands and seas, in relation to the seven spheres, is nothing but like the point in the circle. And that is because in the sphere there are one thousand and twenty-nine stars; every star is thirteen times the measure of the world, and the largest of them is a star of the measure of the earth one hundred and seventeen times. * And this is a result from the beautiful names and the lofty attributes, and also you spread the noble verse in the simple expanse of the circle of the sphere, and God is, from behind them, encompassing, and a glorious Qur’an in a preserved tablet. Therein the symbolized letters are also in singles and pairs, and the letters of the Greatest Name in the four elements, and the remainder of the letters in the circle, so consider them as proofs for you from the consideration of the breaking of the apparent letters from the beginnings. As for its indication to the body, then its two ألفs are of triangular quality.
 
 ---
-_End of translation — 341 pages._
+## Page 342
+
+**Arabic (original):**
+— ٣٣٦ —
+
+والعدد ثم ذكرنا الزاي ثم الطاء ثم الياء وجميع ذلك في الدائرة وهي الحروف التسعة التي هي أصل
+الإمداد ويتفرع منها جميع المصادر الجفرية كما بيناه ثم رفعت الأسماء الثلاثة التي هي صمد
+وأحرفها ثم اجتمعت الأسماء الأخر لها وهي رحمن رحيم غفور وإن جميع الحروف الموضوعة في
+دائرة الفلك إنما هي حروف الرحمن وقد جمعت بين الانتهاء والابتداء * واعلم أن الموضوعة فيها
+مثل محمود ومحمد وإبراهيم ونوح سيأتي أيضاً تفصيلهم وتفصيل حروف الرموز وأيضاً كل اسم
+من هذه الأسماء الموضوعة في دائرة الفلك إذا رأيت مبادئ الحروف فكانت عشرة ولأجل ذلك
+وضعنا الياء من تمام الحروف التي لها الرمز والاستدلال والمبادئ هي حروف * واعلم أن
+تحتها حروف الاسم الأعظم الذي هو اسم الذات وإذا تحققت الآيات تجدها نتيجة الاسم الأعظم
+المقدس من قبل علم الحروف * وأما حروف الاسم المحيط أيضاً مع المبادئ فهي حروف الأسماء
+الداخلة الموقوفة خارجاً وداخلاً لمبادئ الأسماء والجميع مرتبط بعضها ببعض لكل اسم وضع
+من طريق علم الحروف * واعلم طريق الرحمن وحروفه فأول ذلك الم غلبت الروم في أدنى
+الأرض وهم من بعد غلبهم سيغلبون في بضع سنين لله الأمر من قبل ومن بعد الآية والله أعلم * وقد
+ذكرنا للإمام جعفر الصادق وزيرا الأقاليم السبعة وما يتفق لهم إلى أن تقوم السماء وهذه الأقسام
+السبعة ليست أقساماً أيضاً طبيعية ولكنها خطوط وهمية وضعها الأولون من الملوك الذين طافوا
+الأرض مثل أفريدون النبطي وتبع الحميري وسليمان بن داود وإسكندر اليوناني وأردشير بن بابك
+الفارسي وغيرهم ليعلموا حدود البلدان والمسالك وكل إقليم منها كأنه بساط مفروش طوله من
+المشرق إلى المغرب وعرضه من الجنوب إلى الشمال * واعلم أن الأرض بجميع ما عليها من
+جبال وبحور أيضاً النسبة إلى السبعة كالنقطة في الدائرة وذلك أن الفلك ألف
+تسعة وعشرون كوكباً كل كوكب منها قدر الأرض مائة عشر مرة وأكبرها كوكب مثل
+الأرض مائة وتسعة عشر مرة * واعلم وفقني الله وإياك لطاعته وهدانا وإياك إلى طريق محبته
+أن استدارة الفلك في موضع خط الاستواء ثلاثمائة وستون درجة والدرجة خمسة وعشرون فرسخاً
+ثم الفرسخ ثلاثة أميال والميل ألف باع والباع أربعة أذرع والذراع أربعة وعشرون إصبعاً
+والإصبع ستة شعيرات توضع بطن لظهر تلك والشعيرة ست شعرات من ذنب البغل * ثم إن
+الإقليم الأول إقليم الفؤاد وهو إقليم زحل وأبوابه المشايخ * الثاني إقليم السوداوي وهو إقليم المشتري
+وأبوابه العلماء * الثالث إقليم الشفاف وهو إقليم المريخ وأبوابه الأمراء * الرابع إقليم المحبة وهو
+إقليم الشمس وأبوابه الملوك * الخامس إقليم مصر وهو إقليم الزهرة وأبوابه الشعراء * السادس
+إقليم العقل وهو إقليم عطارد وأبوابه الحكماء والكتاب * السابع إقليم القلب وهو إقليم القمر
+وأبوابه الوزراء * ثم إن لكل إقليم من هذه الأقاليم باباً فباب الإقليم الأول سر الحياة وهو باب
+إبراهيم عليه السلام * والباب الثاني سر العلم وهو باب هارون عليه السلام * والثالث سر القدرة
+وهو باب موسى عليه السلام * والباب الخامس سر الرحمة وهو باب يوسف عليه السلام * والباب
+السادس سر الحكم وهو باب عيسى عليه السلام * والباب السابع سر العمل وهو باب آدم عليه
+السلام
+
+**English:**
+— 336 —
+
+and the number, then we mentioned the zay, then the ṭā’, then the yā’, and all of that in the circle, and they are the nine letters which are the أصل of
+the supply, and from them branch forth all the jafr sources as we have explained. Then the three names were raised, which are Ṣamad
+and its letters, then the other names for it were gathered, and they are Raḥmān, Raḥīm, Ghafūr. And indeed all the letters placed in
+the circle of the sphere are only the letters of the Raḥmān, and they have combined between the end and the beginning. * And know that the ones placed in it
+such as Maḥmūd, Muḥammad, Ibrāhīm, and Nūḥ, their detailed explanation will also come, and the explanation of the letters of the symbols, and also every name
+from these names placed in the circle of the sphere, if you see the beginnings of the letters, they were ten, and for that reason
+we placed the yā’ as the completion of the letters that have the symbol and the inference, and the beginnings are letters. * And know that
+beneath them are the letters of the Greatest Name, which is the Name of the Essence, and if you verify the verses you will find them the result of the Greatest Name
+the sanctified by the science of letters. * As for the letters of the Encompassing Name also, together with the beginnings, they are the letters of the names
+the inward, suspended outwardly and inwardly to the beginnings of the names, and all are connected some of them to some, for every name there is a placement
+by way of the science of letters. * And know the way of the Raḥmān and its letters, so the first of that is Alif Lām Mīm: The Romans were overcome in the lowest
+of the earth, and they, after their being overcome, will overcome in a few years. To Allah belongs the command before and after. The verse, and Allah knows best. * And
+we have mentioned for Imam Jaʿfar al-Ṣādiq the ministers of the seven climes and what befalls them until the heaven rises, and these seven divisions
+are not divisions also natural, but they are imaginary lines placed by the ancients from the kings who traversed
+the earth, such as Afrīdūn the Nabatean, Tubbaʿ al-Ḥimyarī, Sulaymān ibn Dāwūd, Iskandar the Greek, and Ardashīr ibn Bābak
+the Persian, and others, so that they may know the boundaries of the lands and the routes, and every clime from them is as though a carpet spread out, its length from
+the east to the west and its width from the south to the north. * And know that the earth, with all that is upon it of
+mountains and seas, also in relation to the seven is like the point in the circle, and that is because the sphere is one thousand
+twenty-nine stars, every star from them is the amount of the earth one hundred ten times, and the greatest of them is a star like
+the earth one hundred and nineteen times. * And know, may Allah grant me and you success in His obedience and guide us and you to the path of His love,
+that the rotation of the sphere at the place of the equator is three hundred and sixty degrees, and the degree is twenty-five farsakhs,
+then the farsakh is three miles, and the mile is one thousand baʿs, and the baʿ is four cubits, and the cubit is twenty-four fingers,
+and the finger is six hairs placed belly to back of that, and the hair is six hairs from the tail of the mule. * Then indeed
+the first clime is the clime of the fu’ād, and it is the clime of Saturn, and its gates are the shaykhs. * The second is the clime of the blackness, and it is the clime of Jupiter,
+and its gates are the scholars. * The third is the clime of the transparent ones, and it is the clime of Mars, and its gates are the princes. * The fourth is the clime of love, and it is
+the clime of the sun, and its gates are the kings. * The fifth is the clime of Egypt, and it is the clime of Venus, and its gates are the poets. * The sixth
+is the clime of intellect, and it is the clime of Mercury, and its gates are the sages and the writers. * The seventh is the clime of the heart, and it is the clime of the moon,
+and its gates are the viziers. * Then indeed for every clime from these climes there is a gate, so the gate of the first clime is the secret of life, and it is the gate of
+Ibrāhīm, عليه السلام. * And the second gate is the secret of knowledge, and it is the gate of Hārūn, عليه السلام. * And the third is the secret of power,
+and it is the gate of Mūsā, عليه السلام. * And the fifth gate is the secret of mercy, and it is the gate of Yūsuf, عليه السلام. * And the gate
+the sixth is the secret of judgment, and it is the gate of ʿĪsā, عليه السلام. * And the seventh gate is the secret of action, and it is the gate of Ādam عليه
+السلام
+
+---
+## Page 343
+
+**Arabic (original):**
+— ۳۲۷ —
+
+السلام، مفتاحه الشكل المثلث، والباب الثاني مفتاحه المربع، والباب الثالث
+مفتاحه المسبع، والباب السادس مفتاحه المثمن، والباب السابع مفتاحه التسع، فافهم هذه
+الأبواب التي لا يفهمها إلا من فهم مر الخطاب من أولي الألباب، واعلم يا حاذق أن فالق الأكوان
+صادق فيما يفهمك الأسرار ويوضح لك الأنوار، فمن خطاب الليل والنهار يعلمك بلسان التصريح بل
+بصريح المقال وجود هذه المداخل وقطع المنازل للنقلة البرزخية وفناء الأيام العمرية، فناطق يخبرك
+بالسر ظاهره وأحواله ظاهرة جلية، وظاهر البيان للمنازل يناديك كل منزلة: يا من أتى ذهبت
+بما ادخرت، وكذاك بيان الساعة وبيان الروح وبيان الدقائق وبيان الليل والساعات بداية
+الأجسام المحسوسة، ونداء البرزخ نداء القلوب، ونداء الدقائق نداء النفوس، ونداء الثواني نداء الأرواح،
+ونداء الثواني نداء القلوب والعقول، ونداء الروائح الأسرار ﷺ، وأما النهار فهو بداية بما يناديك
+جملاً وتفصيلاً من حيث الساعات والدرج والدقائق والعوافي والثوالث والروابع إلى ما لا
+نهاية له، ثم جريان إياه قوى كل نقطة: أنا ذاهب إلى مستقري، وكذاك مهاب الريح واللطف من
+ذلك الأنفاس، كل نفس يناديك تلويحاً وتصريحاً علوها وسفلها ومليكها وملكونها، وهذا سمع من
+بواطن هذه الأسرار خصوصة إلهية ولطيفة إلهامية، كما قال تعالى: إن الله يسمع من يشاء وما أنت
+بمسمع من في القبور. شعر:
+لقد أسمعت لو ناديت حياً * ولكن لا حياة لمن تنادي
+وقال العلماء: إذا أراد الله بأمة خيراً جعل الملك في علمائها والعلم في ملوكها، قيل لبعض الحكماء: من
+الملوك؟ فقال: من ملك هواه واتبع رضا مولاه.
+فكن كاتماً إن نلت العلم مربعاً * فكلمتها عند الحكيم من الفرض
+الله الله الله الله الله الله الله سبحانه وتعالى، محمد محمد محمد محمد محمد محمد المهدي. واعلم
+وفقني الله وإياك لطاعته أن دورة سلطنة العين دورة شمسية، قال تعالى: عالم الغيب والشهادة، قال بعض
+العلماء: لا يحل الكلام في الغيب لأنها سرية الله تعالى اختار به أبا البشر آدم عليه السلام، وقال
+بعض العارفين: بل الله تعالى ينظر إلى ذلك من أسرار الجبروت كما كان آدم أبو البشر والرسل
+عليهم الصلاة والسلام ينظرون لها في أسرار الغيوب أو الحكمة لم تزل، وقد أوتيت بجماعة من
+أرباب العقول لا يحصى عددهم لأعلام الغيوب، وقال تعالى: ومن يؤت الحكمة فقد أوتي خيراً
+كثيراً، وقد بين الله عز وجل في كتابه ما يجري للأولين وما يجري للآخرين، وما من سر من الأسرار
+إلا وفيه خير، قال تعالى: ولا رطب ولا يابس إلا في كتاب مبين، وقال: ما فرطنا في الكتاب
+من شيء، وقال تعالى: ن والقلم وما يسطرون، قال رسول الله صلى الله عليه وسلم: هو السر الأعظم وهو
+المنيب الذي تمتد منه ملكية العلوم للأشياء، وقيل: هو ملك أعطاه الله تعالى سر خلقه وهو ثلاثمائة
+وستون علماً، وقيل: آية الغيب، قال تعالى: أم عندهم الغيب فهم يكتبون، أي يستمدون منه ما شاء الله
+تعالى كما فعل القلم، إن كتاب الله تعالى دال على ما في قوله، وقوله دال على ما في غيبه سبحانه وتعالى،
+فإذا فهم المتأمل هذه الأسرار نطق بالغرائب وأخبر بالعجائب وعد من الحكماء الأجلاء والسادة.
+
+( ۲۲ — شمس المعارف — ثالث )
+
+**English:**
+— 327 —
+
+peace, its key is the triangular form, and the second gate its key is the square, and the third gate
+its key is the seven-sided, and the sixth gate its key is the eight-sided, and the seventh gate its key is the nine-sided, so understand these
+gates which none understands except one who has understood the passing of the discourse from among those of understanding, and know, O skillful one, that the splitter of the cosmos
+is truthful in what he makes you understand of the secrets and makes clear to you the lights, so from the discourse of night and day he teaches you with the tongue of explicitness, rather
+with explicit speech, the existence of these entrances and the cutting of the stations for the isthmian transfer and the passing away of the days of life, so a speaker informs you
+of the secret, its outward aspect and its states are outwardly manifest, and the outward of the explanation of the stations calls to you, every station: O you who came, you have gone
+with what you stored. And likewise the explanation of the hour and the explanation of the spirit and the explanation of the minutes and the explanation of night and the hours, the beginning
+of the محسوس bodies, and the call of the isthmus is the call of the hearts, and the call of the minutes is the call of the souls, and the call of the seconds is the call of the spirits,
+and the call of the seconds is the call of the hearts and the intellects, and the call of the fragrances is the secrets ﷺ. And as for the day, it is a beginning by what calls you
+in detail and in summary in terms of the hours and the degrees and the minutes and the awāfī and the thirds and the fourths to what
+has no end, then its running, the powers of every point: I am going to my resting place. And likewise the awe of the wind and the gentleness from
+that of the breaths, every breath calls you by hint and by explicit statement, its upper and its lower, and its king and its kingdom, and this is hearing from
+the inward aspects of these secrets, a divine particularity and an inspirational subtlety, as He تعالى said: Indeed Allah makes hear whom He wills, and you are not
+one who makes hear those in the graves. Poetry:
+You would have made hear if you had called a living one * but there is no life for one you call
+And the scholars said: if Allah wills good for a community, He makes kingship in its scholars and knowledge in its kings. It was said to some of the sages: who are
+the kings? He said: one who has mastered his desire and followed the pleasure of his master.
+So be concealing if you attain the knowledge, squarely * for its utterance with the sage is among the obligations
+Allah Allah Allah Allah Allah Allah Allah, سبحانه وتعالى, Muḥammad Muḥammad Muḥammad Muḥammad Muḥammad Muḥammad al-Mahdī. And know,
+may Allah grant me and you success in His obedience, that the cycle of the sovereignty of the eye is a solar cycle. He تعالى said: Knower of the unseen and the witnessed. Some
+scholars said: speech about the unseen is not lawful because it is the secret of Allah تعالى by which He chose the father of البشر, Ādam عليه السلام. And some
+of the knowers said: rather Allah تعالى looks to that from the secrets of the dominion, just as Ādam was the father of البشر and the messengers
+عليهم الصلاة والسلام looked to it in the secrets of the unseen, or wisdom has not ceased, and there has been brought to me a group of
+possessors of intellects whose number is not counted for the signs of the unseen. And He تعالى said: And whoever is given wisdom has been given much
+good. And Allah عز وجل has made clear in His Book what occurs to the first and what occurs to the last, and there is no secret from the secrets
+except that in it is good. He تعالى said: And no moist thing nor dry thing except in a clear Book. And He said: We have not neglected in the Book
+anything. And He تعالى said: Nūn, and the pen and what they inscribe. The Messenger of Allah صلى الله عليه وسلم said: It is the greatest secret, and it is
+the one returning, from which the dominion of the sciences extends to things. And it was said: it is a king whom Allah تعالى gave the secret of His creation, and it is three hundred
+and sixty sciences. And it was said: the verse of the unseen. He تعالى said: Or do they have the unseen, so they write? that is, they draw from it whatever Allah
+تعالى wills, as the pen did. Indeed the Book of Allah تعالى indicates what is in His saying, and His saying indicates what is in His unseen سبحانه وتعالى.
+So if the contemplative understands these secrets, he utters marvels and informs of wonders and is counted among the eminent sages and masters.
+
+( 22 — Shams al-Maʿārif — Third )
+
+---
+## Page 344
+
+**Arabic (original):**
+— ٣٣٨ —
+
+الفضلاء فافهم فقد قدمت وأخرت وقربت وبعدت ورمزت وكتمت ولوحت ولما ذكر
+دفعة بعد أخرى في ثلاث ص ح تقدم ميم وتؤخر ميم تلك وتفوت عليها تسعة
+عشر لا تبق ولا تذر الآية سواس عثمان جسم عثمان صالح عثمان يوسف عثمان شيخ عثمان سلمان
+عثمان شاه رخ عثمان محمد عثمان عبد صالح خير من حط لائح بأحد أحدر من الأخ الواقع في الفتح
+سنة ٢٢٩ الأخ والمعم عم مفتاح الخزانة عند صاحب الأمانة وإذا نزل القدر بطل الحذر
+وقد فصلنا الآيات وأظهرنا البينات منها هو حرف النون فافهم ق ن ۞ وهناك نكتة عجيبة
+غريبة فتدبرها فإن علمتها فاكتمها وهي هذه فافهم ترشد وتعم وتطلع طلع وهي أ ب ت ث ج ح
+خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن هـ ولاى فافهم هذه الإشارات في حروف
+اسمك المختار ياسلام سلم من سريع مسمع السامع أخذ عطب البيع ستار معيد
+تعالى بنا نستغفر الله كلنا ۞ لعل الله العرش يكشف ذا البلا
+
+و ص أنه ففي أثر مخفى ليس بالتدبير يبطل أضرار المقادير ياودود قد مكدك واسترح من فتنة
+أمامك حاسين الاسم البسيطين عليه لعنة الله والملائكة والناس أجمعين سمه ناقع وقتله واقع
+يخشى عليه غضب السلطان وسكت الإيمان كان مأمولها بين الأنام يخفى ۞ والثانية يحسبها
+لا تخفى قل لصاحب الأمانة ليس لك تصرف لأنك عن طريق الحق ضعيف اخذل المنصب
+فشكوت وظننت أنك شكرت فكيف بك إذا نزلت وبعد العلو إذا سلفت على له الوزارة
+العظمى مافي فات إنما توعدون لآت أيتها المرأة لا تمادى القدرة إذا ركب التخت أسعده البخت
+وروت رجب من أعجب هدهد سبأ جمال بالنساء
+
+فالعنبر الخام روت في مماة ۞ وفي التقرب محمول على العنق
+شئ شجر ص رح ٩٧٩ خبز اسم شريف ١١٦ يثبت قلت ثبت يثبت الأخ فخ والعم
+عم ملك صادق طاهر فاتح العين ٩٢٣ يملك ٣٤٥ تملك شعر
+
+وللنجم من رهد الغروب استقامة ۞ والشمس من عد الغروب طلوع
+من سنة ثلاث لأنها بداية الحراب يا صالح صالح وسلموا الحكم لله يوسف أعرض عن هذا ياموسى
+أقبل ولا تخف بالسلام سلم ياجهجان كليم يامحمد ارقد اصطف اسجد فإن الأوان يامهدي الزمان
+فرح وريحان وعمر مبنا ۞ وجاه وعز والملوك تكارم
+نبك عن عثمان آل شمخه ۞ سليم تناه في شاخ الجماجم
+أتى عن ولي الله فيها تواتر ۞ بأن لها ملكاً مبيد المعاصم
+يكون له وقت بوقت من آخر ۞ عليه لواء النصر بالنصر قائم
+وبعد تمام العز عز متمم ۞ يليكم زمان النحل قل المطاعم
+محمد المهدي أم كتابه ۞ شريف لا لبيت الكفر قاصم
+صناحقه بالنصر تحقق دائماً ۞ يمد أمام الجيش دوم الصوارم
+يعيش زماناً في الإله نام مؤثراً ۞ وليس عليك البأس يوم النظائم
+
+ودام
+
+**English:**
+— 338 —
+
+the virtuous, so understand: I have advanced and delayed, brought near and distanced, symbolized and concealed and hinted. And when mentioned
+again and again in three ṣ ḥ, a mīm advances and a mīm of that is delayed, and nineteen overtakes it:
+it neither leaves nor spares, the verse: Sawās ʿUthmān, Jism ʿUthmān, Ṣāliḥ ʿUthmān, Yūsuf ʿUthmān, Shaykh ʿUthmān, Salmān
+ʿUthmān, Shāh Rukh ʿUthmān, Muḥammad ʿUthmān, ʿAbd Ṣāliḥ, خير من حط لائح بأحد أحدر من الأخ الواقع في الفتح
+year 229, the brother and the general, ʿamm, the key of the treasury with the possessor of the trust. And when destiny descends, caution is nullified.
+And We have detailed the verses and made clear the proofs; from them is the letter nūn, so understand q n ۞ And there is a wondrous
+strange subtle point, so reflect upon it; if you know it, then conceal it, and it is this: understand, you will be guided and become general and appear, appear, and it is أ ب ت ث ج ح
+خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن هـ ولاى so understand these indications in the letters
+of your chosen name, yā salām salim from swift, the hearer’s hearing, the taking of the sale’s ruin, a veil, a restorer
+come with us, let us all seek forgiveness from Allah ۞ perhaps Allah, the Throne, will uncover this affliction
+
+and ṣ that indeed in a hidden trace, not by planning, the harms of destinies are nullified. O Loving One, your makkad has become weary, and rest from a trial
+before you, ḥāsīn, the two simple names, upon them is the curse of Allah and the angels and all people. Name it, it is biting, and its killing is occurring;
+the غضب of the sultan is feared for it, and faith was silenced. Its hope among mankind was hidden ۞ and the second he counts it
+does not hide. Say to the possessor of the trust: there is no disposal for you, because you are weak on the path of truth; abandon the office.
+So I complained and thought that you thanked, so how would it be with you if you descended, and after the ascent if you had preceded upon it the great ministry?
+What has passed has not passed; indeed what you are promised is to come. O woman, do not prolong the power if he rides the throne, fortune makes him happy
+and Rajab watered from the most wondrous hoopoe of Sheba, beauty with women
+
+So amber the الخام watered in death ۞ and in nearness carried on the neck
+thing tree ṣ rḥ 979 bread noble name 116 it is established I said: it is established, it is established, the brother, the trap, and the uncle
+uncle, a king, truthful, pure, opener of the eye 923, he possesses 345, you possess, poetry
+
+And for the star from the rهد of sunset is straightness ۞ and the sun from the count of sunset is rising
+from the year three because it is the beginning of spears O Ṣāliḥ, Ṣāliḥ, and surrender the judgment to Allah. Yūsuf, turn away from this. O Mūsā,
+come forward and do not fear; with peace, greet. O Jaghjān, O speaker, O Muḥammad, lie down, line up, prostrate, for the time has come, O Mahdī of the age
+joy and basil and ʿUmar built ۞ and prestige and glory, and the kings are honored
+Weep for ʿUthmān Āl Shamkha ۞ sound, complete in the skulls’ old age
+It has come from the friend of Allah therein in succession ۞ that for it is a king destroying the wrists
+There will be for him a time after time ۞ upon him the banner of victory, standing with victory
+And after the completion of glory, a completing glory ۞ the time of the bees follows you, say the foods
+Muḥammad al-Mahdī, the mother of his book ۞ noble, not for the house of disbelief, crushing
+Its making true with victory always ۞ extending before the army, always the swords
+He lives a time in the deity, sleeping, preferring ۞ and there is no بأس upon you on the day of the arrangements
+
+And it endured
+
+---
+## Page 345
+
+**Arabic (original):**
+— ٢٣٩ —
+
+ودام لك التمكين ما دمت قائماً ۞ بحق ما فيه أيضاً للنعائم
+قال رسول الله صلى الله عليه وسلم: الملك في قريش، وقال عليه الصلاة والسلام: لا يزال الإسلام عزيزاً
+إلى اثني عشر خليفة من قريش، صفا لهم الزمان ٥٣٩ وهم تسعة وثلاثون خليفة، وقد سئل الحبر
+الإمام معلم السبطين يحيى بن عقب عما يكون في سائر البلاد وسبب خرابها فأجاب نظماً حيث قال:
+رأيت من الأسرار عجيب حال ۞ وأسباباً سيظهرها مقال
+بما قد أنزل الرحمن حقاً ۞ يكون بحكم ربي ذي الجلال
+ففي بغداد يظهر عن قريب ۞ من الخلفا ملوك ذو فعال
+عددهم تسعة وثلاثون شخصاً ۞ ثم ينقرضون كلاً باحتمال
+يكون مغلقاً عشرين عاماً ۞ وأربعة على سير الليالي
+إذا ما جاءهم العزل حقاً ۞ تهلك البلاد بلا محال
+وجاءت خيل بربر فلا تحصى ۞ لهم عدداً كثيراً كالرمال
+فكم ولت حذاراً للمنايا ۞ فلا حصن منيع ولا تقال
+وكم تلاشى هنا من دار ۞ تقلب نوت رحالاً كالمقال
+وكم من نخرة هبت بحزن ۞ وقد كانت من أرباب المجال
+ودقياس مستقبل بعد هذا ۞ وترجع الهزيمة بالشمال
+فيا أسفى على حلب وحزن ۞ وماذا يذيان من القتال
+وفي ضرباته شيء عجيب ۞ يكون عليهم عظيم اغتلال
+فليس يجمعهم قيد شباب ۞ ولا لحماتهم غير الزوال
+ويظهر في السماء عظيم نجم ۞ له ذنب كمثل الريح عال
+فتلك دلائل الإفرنج حقاً ۞ ستملك للسواحل والقلال
+وعكا سوف يعلوها جيوش ۞ كما تعلو الغيوم على الجبال
+ويلطخ دورها بدماء قوم ۞ أتوها هاربين من القتال
+وتفتح رملة البيضاء حقاً ۞ فويل للسواحل والرمال
+وبعد القدس ذا يوم عظيم ۞ له تبكي الملائك ابتهال
+ويبقى نهر كنعان غيضاً ۞ ولا يقدر على الماء الزلال
+فيا ويل لحران وحمص ۞ وما يلقون من جور النوال
+فويل ثم ويل ثم ويل ۞ لأهل الشام من ملك الضلال
+إذا ملك البلاد طغاة رجس ۞ قليل الأمانة والمقال
+إذا حفوا شواربهم وقصوا ۞ لحاهم صارت كأذناب البغال
+وصنفوا الثياب ووسعوها ۞ وقدموا الحرام من الحلال
+إذا ما جاءهم العرب حقاً ۞ على عجل سيملك لاحمال
+
+**English:**
+— 239 —
+
+And may the enabling endure for you as long as you remain standing ۞ by the truth of what is in it also for the نعائم
+The Messenger of Allah, may Allah bless him and grant him peace, said: The kingship is in Quraysh, and he, upon him الصلاة والسلام, said: Islam will remain mighty
+until twelve caliphs from Quraysh; time became pure for them 539 and they are thirty-nine caliphs. And the scholar
+the imam, teacher of the two grandsons, Yahya ibn ʿUqab, was asked about what will be in the rest of the lands and the cause of their ruin, so he answered in verse, where he said:
+I saw from the secrets a wondrous state ۞ and causes that speech will make manifest
+By what the Merciful has truly sent down ۞ it shall be by the judgment of my Lord, Possessor of majesty
+So in Baghdad there will appear soon ۞ from the caliphs kings of deed
+Their number is thirty-nine persons ۞ then they perish, each with probability
+It will be closed for twenty years ۞ and four upon the course of nights
+When dismissal truly comes to them ۞ the lands perish without fail
+And the Berber horsemen came, and they are not counted ۞ for them a number many like sand
+So how many have passed away, beware of deaths ۞ so there is no impregnable fortress and no reprieve
+And how many a dwelling has vanished here ۞ the turning of a ship, travelers, like the saying
+And how many a snorting one rose in sorrow ۞ and it had been among the lords of the field
+And Daqyās is future after this ۞ and defeat returns with the north
+So alas for Aleppo and sorrow ۞ and what they taste of fighting
+And in its blows there is something wondrous ۞ there will be upon them a great plundering
+So no bond of youth gathers them ۞ nor for their kin is there anything but vanishing
+And there appears in the sky a great star ۞ having a tail like the wind, high
+So those are the signs of the Franks truly ۞ they will possess the coasts and the citadels
+And Acre soon will be overtopped by armies ۞ as clouds rise over the mountains
+And its houses will be stained with the blood of a people ۞ who came to it fleeing from fighting
+And al-Ramla al-Bayda will be opened truly ۞ so woe to the coasts and the sands
+And after Jerusalem, this is a great day ۞ for which the angels weep in supplication
+And the river of Canaan will remain a drought ۞ and will not be able to [reach] the sweet water
+So woe to Harran and Homs ۞ and what they meet of the injustice of allotment
+Then woe, then woe, then woe ۞ to the people of Syria from the king of error
+When the tyrants of filth rule the lands ۞ little of trustworthiness and speech
+When they trim their mustaches and cut ۞ their beards, they become like the tails of mules
+And they tailor the garments and widen them ۞ and they put forward the unlawful over the lawful
+When the Arabs truly come to them ۞ quickly, al-Ahmal will rule
+
+---
+_End of translation — 345 pages._
