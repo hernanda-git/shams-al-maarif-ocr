@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 345 translated pages._
+_Auto-generated from 349 translated pages._
 
 ---
 ## Page 1
@@ -19801,4 +19801,269 @@ And they tailor the garments and widen them ۞ and they put forward the unlawful
 When the Arabs truly come to them ۞ quickly, al-Ahmal will rule
 
 ---
-_End of translation — 345 pages._
+## Page 346
+
+**Arabic (original):**
+— ٣٤٠ —
+
+وَيَفْتَحُونَهَا مِنْ غَيْرِ شَكٍّ * وَكَمْ دَاعٍ يُنَادِي بِابْتِهَالِ
+وَمَحْمُودٌ سَيَظْهَرُ بَعْدَ هَذَا * وَيَمْلِكُ الشَّامَ بِلَا قِتَالِ
+وَتُطِيعُ لَهُ حُصُونُ الشَّامِ جَمْعًا * وَيُنْفِقُ مَالَهُ فِي كُلِّ حَالِ
+وَيَظْهَرُ مِنْ بِلَادِ الرُّومِ جَيْشٌ * إِلَى حَلَبٍ كَأَنَّ مَلَهَاهُ الْكَمَالِ
+بِهِ رُوسٌ وَبُرْغُلَةٌ وَرُومٌ * وَكُلُّ قَاصٍ مِنْ حَدِّ الْمَسَالِ
+وَيَنْزِلُ مِنْ مَغَارِبِهَا وَتُضْحَى * ضِيَاعُ الشَّامِ مُقْفِرَةً خَوَالِ
+وَتَهْدِمُ نُحُورَهُمْ عَرَبٌ وَتَرْكٌ * تُرِيدُ النَّهْبَ مِنْ بَعْدِ الْقِتَالِ
+وَتَرْجِعُ عَسْكَرُ الْأَرْوَامِ عَصْرًا * عَلَى أَعْقَابِهِمْ زَعِيجُ النَّوَالِ
+فَتَعْمُرُ شِيرَزَ بَيْضًا وَسُودًا * وَحِصْنًا ذَا أَبْرَاجٍ طِوَالِ
+وَلَا إِسْلَامَ فِيهَا بَعْدَ هَذَا * مَقَامٌ بَعْدَ أَوْقَاتِ الْمِطَالِ
+وَيَوْمٌ فِي حَمَاةَ أَيَّ يَوْمٍ * يَكُونُ عَلَيْهِمْ مِنْهُ وَبَالِ
+إِذَا رَفَعُوا الْبِنَاءَ وَشَيَّدُوهَا * وَرُفِعَتِ الْقَتَامُ عَلَى الْعَوَالِ
+يَصُبُّ عَلَيْهِمُ الرَّحْمَنُ رِيحًا * فَتَرَى بِالْعُيُونِ وَبِالْقِلَالِ
+وَعِنْدَنَا مِنْهُ يَوْمٌ عَظِيمٌ * سَيُقْتَلُ فِيهِ شُبَّانُ الرِّجَالِ
+بِيضٌ كَالْقَارِبِ مِنْ هِفَاتٍ * مِنَ الْهِنْدِيِّ مُحْكَمَةَ الصِّقَالِ
+وَأَمَّا السَّيْلُ يَظْهَرُ عَنْ قَرِيبٍ * وَيَظْهَرُ فِي الشَّامِ قَبِيحَ حَالِ
+فَكَمْ فِي السَّيْلِ فِي حَدِّ مُرْتَبٍ * وَكَمْ دُورٍ مُزِيلَةِ الْعِيَالِ
+وَمُخْتَلِفَاتُ رَايَاتٍ ثَلَاثٍ * عَنْ كَلْبٍ مَعَادِنُهُ الزَّوَالِ
+فَتَرْكِي وَرُومِي وَمِصْرِي * مُلُوكُ الْأَرْضِ كَاسِرَةٌ فِعَالِ
+يَكُونُ لِقَاهُمْ يَوْمَ الثَّلَاثَا * صَلَاةَ الْفَجْرِ مُلْتَحِمُ الْقِتَالِ
+سَتَظْهَرُ ثُلُوجُ الرُّومِ عَنْهَا * وَيَرْتَفِعُ الصَّلِيبُ عَلَى الْعَوَالِ
+يُنَادِي صَائِحًا بِالْقَوْلِ صَوْنًا * كَذَا الشَّيْطَانُ فِي ذَاكَ الْمَقَالِ
+وَيَرْتَجِعُونَ فِي جَمْعٍ غَضَابًا * عَلَى الْأَرْوَامِ قِيلًا بِابْتِهَالِ
+وَلَا رَجْعٌ لِأَرْضِ الرُّومِ مِنْهُمْ * سِوَى رَجُلٍ وَحِيدٍ بِاحْتِلَالِ
+وَتَرْكِيَا وَمِصْرِيَا جَمِيعًا * فَيَخْتَلِفَانِ فِي قِيلٍ وَقَالِ
+يَظَلُّ السَّيْفُ فِي الْمِصْرِي قَتْلًا * إِلَى أَقْصَى الْخَفَايَا كَالْقِلَالِ
+وَيَلْقَوْا مِنْ هَمَدَانَ شَخْصًا * كَانَ حُسْنُهُ نُورَ الْهِلَالِ
+فَتِلْكَ دَلَائِلُ الْمَهْدِيِّ حَقًّا * سَيَمْلِكُ لِلْبِلَادِ بِلَا مَحَالِ
+وَيَحْصُرُ الْقَضِيبَ بِرَاحَتَيْهِ * وَتَأْنَسُهُ الْوُحُوشُ مِنَ الْجِبَالِ
+تُطِيعُ لَهُ الْبِلَادُ وَمَنْ عَلَيْهَا * وَيُمْحَى الْكُفْرُ مِنْهَا وَالضَّلَالِ
+وَيَأْتِ بِالْبَرَاهِينِ اللَّوَاتِي * تَسْلَمُهَا الْبَرِيَّةُ بِالْكَمَالِ
+
+**English:**
+— 340 —
+
+And they shall open it without doubt * and how many a caller calls with supplication
+And Mahmoud shall appear after this * and shall possess al-Sham without fighting
+And the fortresses of al-Sham shall obey him all together * and he shall spend his wealth in every state
+And there shall appear from the lands of the Romans an army * to Aleppo, as though its amusement were perfection
+With it are Russians and Bulgarians and Romans * and every one far from the limit of the passes
+And he descends from its western parts, and the lands of al-Sham become * barren, desolate, empty
+And Arabs and Turks shall demolish their necks * desiring plunder after the fighting
+And the army of the Byzantines shall return at evening * upon their heels, the cry of bounty
+Then Shiraz shall be inhabited, white and black * and a fortress with tall towers
+And there is no Islam in it after this * a station after times of delay
+And a day in Hama, what a day * there shall be upon them from it ruin
+When they raise the building and fortify it * and the darkness is raised upon the heights
+The Merciful shall pour upon them a wind * then you shall see with the eyes and with the bowls
+And with us from it is a great day * in which the young men of men shall be killed
+White like the boat from chips * of Indian steel, firmly polished
+And as for the flood, it appears soon * and appears in al-Sham in an ugly state
+So many in the flood at the limit of a station * and how many houses removing the dependents
+And the differing of three banners * from Kalb, whose mines are of passing away
+So Turkish and Roman and Egyptian * the kings of the earth, breaking deeds
+Their meeting shall be on Tuesday * at the prayer of dawn, the fighting joined
+The snows of the Romans shall appear from it * and the cross shall be raised upon the heights
+A crier shall call out with the word, as a safeguard * thus the devil in that saying
+And they shall return in an angry gathering * upon the Byzantines, it was said, with supplication
+And there is no return to the land of the Romans from them * except one solitary man by occupation
+And Turkey and Egypt together * then they shall differ in said and said
+The sword shall remain in the Egyptian in killing * to the farthest of hidden things, like bowls
+And they shall meet from Hamadan a person * whose beauty was the light of the crescent
+So those are the signs of the Mahdi truly * he shall surely possess the lands without fail
+And he shall grasp the rod with his two palms * and the beasts from the mountains shall be familiar with him
+The lands shall obey him and whoever is upon them * and unbelief shall be erased from them, and error
+And he shall bring the proofs which * the wilderness delivers to him in perfection
+
+---
+## Page 347
+
+**Arabic (original):**
+— ٣٤١ —
+
+ورومة يفتحها وقسطا * ويقسم مالها كيل مكال
+يكون مقامه عشرين عاما * وعشرون مضاعفة النوال
+هناك الأعور الدجال يأتي * إلى الشامين في ملك ومال
+معه جبل عظيم من ثريد * وصورته حدث لم يسأل
+يكون مقامه في الأرض حتما * شهور سبعة عدد الكمال
+ويقتله المسيح بأرض لد * ويقترح البرية بالدلال
+ويقتل جنده في كل قطر * ولا يبقى لهم فيها مجال
+ويأجوج ومأجوج سيأتوا * كسرب طاق من حد المثال
+فلا نهر الفرات لهم يكفي * ولا سيحان والدجلة الثقال
+ولا نهر الشام ونيل مصر * وبحر سوية من ماء خال
+يرعون النبات فلا نبات * يعود ويجذبوا ورق الجبال
+وأما الشمس تطلع من غروب * يسيل لحرها الصخر الثقال
+تقيم ثلاث أيام تماما * فيحرق حرها شجر الرمال
+وقاع البحر يظهر بلا شك * فتبقى الوحوش والطير لبال
+وتنقطع الغيوم فلا سحاب * ولا عددا يعود ولا نوال
+ولا بر يعود ولا زكاة * ولا فضل يعود ولا نوال
+ولا ولد يبر بوالديه * ولا أب يفرج عن عيال
+دلائل أصعب الأوقات دهرا * وأخبث أمة وأشر حال
+ويشتغل للحراب بكل أرض * كما يبدو الحرق بالاشتعال
+وتخرب مكة وديار صنعا * من الطاعون والعلل الثقال
+وتخرب طيبة وديار وهب * وتبقى دورها قفرا خوال
+ويخرب موصل وديار بكر * ومدن السند بالريح الشمال
+وقال ذا معلم السبطين حقا * يكون بحكم ربي ذي الجلال
+
+وقد جاء جبريل إلى النبي صلى الله عليه وسلم بتفاحتين من تفاح الجنة وكان عنده الحسن والحسين
+فأعطى كل واحد واحدة فأخذاها وأعطاهما لهما فأكلهما فأنطقه الله تعالى بالحكمة
+والمغيبات فبلغ خبره النبي صلى الله عليه وسلم فقال له يا ابن عقب قدم وأخر فإن إفشاء سر الربوبية
+حرام وهذه الحكاية مستفاضة عند العلماء الأعلام وقيل إن لله كنوزا مخفية مفاتيحها ألسنة
+الشعراء وقال عليه الصلاة والسلام إن لله سرا مكنونا يظهره على لسان الشعراء وقال لولا الدنيا
+والآثار لما بدت الأسرار وقد ذكر النبي صلى الله عليه وسلم أمر خروج الملاحم والفتن كلها
+وقال حذيفة والله ما ترك النبي صلى الله عليه وسلم من قائد فتنة إلى أن تنقضي الدنيا وهي تبلغ ثلثمائة
+فصاعدا إلا وقد سمانا باسمه واسم أبيه وقبيلته وفي رواية والله ما ترك رسول الله صلى الله عليه
+
+**English:**
+— 341 —
+
+And Rome he shall open, and Constantinople * and divide its wealth, measure by measure
+His stay shall be twenty years * and twenty multiplied bounty
+There the one-eyed Dajjal shall come * to the two al-Shams in dominion and wealth
+With him is a great mountain of tharid * and his form is an event not asked about
+His stay in the earth shall be, of necessity * seven months, the number of perfection
+And the Messiah shall kill him in the land of Ludd * and shall propose to the wilderness by way of favor
+And his army shall be killed in every region * and there shall remain for them therein no field
+And Gog and Magog shall come * like a flock, a band from the limit of the example
+So the Euphrates River shall not suffice them * nor the Sayhan and the heavy Tigris
+Nor the river of al-Sham and the Nile of Egypt * and the sea of Suyyah, of pure water
+They graze the vegetation, yet no vegetation * returns, and they pull the leaves of the mountains
+And as for the sun, it rises from its setting * the heavy rocks flow from its heat
+It remains three days completely * then its heat burns the trees of the sands
+And the bottom of the sea appears without doubt * then the beasts and the birds remain in affliction
+And the clouds are cut off, so there is no cloud * nor number returns, nor bounty
+And no righteousness returns, nor zakat * nor فضل returns, nor bounty
+And no child is dutiful to his parents * nor does a father relieve his dependents
+Signs of the hardest times of an age * and the most vile nation and worst state
+And spears are employed in every land * as burning appears by ignition
+And Mecca and the dwellings of Sana'a are ruined * by plague and heavy ailments
+And Taybah and the dwellings of Wahb are ruined * and its houses remain barren, empty
+And Mosul and Diyarbakir are ruined * and the cities of Sind by the north wind
+And this, the teacher of the two grandsons, said truly * shall be by the judgment of my Lord, Possessor of Majesty
+
+And Gabriel came to the Prophet, may God bless him and grant him peace, with two apples from the apples of Paradise, and al-Hasan and al-Husayn were with him. So he gave each one one; they took it, and he gave them to them, and they ate them. Then God Most High made him speak with wisdom and the unseen matters, and his report reached the Prophet, may God bless him and grant him peace, and he said to him: O son of ʿUqb, advance and delay, for the divulging of the secret of lordship is forbidden. And this tale is widespread among the eminent scholars. And it was said that God has hidden treasures whose keys are the tongues of the poets. And he, peace be upon him, said: Indeed God has a concealed secret which He manifests upon the tongue of the poets. And he said: Were it not for the world and the آثار, the secrets would not have appeared. And the Prophet, may God bless him and grant him peace, mentioned the matter of the خروج of the malāḥim and all the fitan. And Hudhayfa said: By God, the Prophet, may God bless him and grant him peace, did not leave from a leader of fitna until the world comes to an end, and they reach three hundred and upwards, except that he named us by his name and the name of his father and his tribe. And in a narration: By God, the Messenger of God did not leave from a صاحب جيش until the Hour arises, he is called by the name of his father and his tribe. ۞ And as for the cause of the ruin of the world: then the ruin of the mountains is by the violent wind, and the ruin of the city by the mosques, and the ruin of Balkh by water, and the ruin of Tirmidh by plague, and the ruin of Merv by sand, and the ruin of Yemen by locusts, and the ruin of Samarqand by the sword and the sons of Qaytur, and the ruin of Fars by drought, and the ruin of Egypt by the Nile, and the ruin of al-Andalus by the sword. And in the year of ظف the Romans take it, then the صاحب الزمان Muhammad al-Mahdi takes it, then God opens Rome, the cities, with Constantinople at the hand of Muhammad al-Qa'im by the command of God Most High. And when this Imam comes forth, the earth shall have been filled with injustice and oppression, and he shall cause it to be filled with justice. And if there remains from the world one single day, it is necessary that the son of Fatima, called the صاحب الزمان, who is the Mahdi, whose name is Muhammad, shall rule it. He divides the wealth equally, and deals justly in the subjects, and decides in the القضية, and opens the Roman cities, and under his obedience are seventy thousand from the children of Ishmael and Isaac, and the madhhabs are lifted and there remains the صاحب كشف and شهود, and he attains the remainder that is in the صندوق from the Jordan River which the scholars of verification placed. Then Jesus descends at the white minaret east of Damascus, and the people come to Damascus at the time of afternoon, and he prays with the people, then he commands the breaking of the cross, and he kills the pig and whoever ate it in his time, and he kills al-Sufyani at a tree in the Ghouta of Damascus, and his origin is from a village among its villages, he appears with righteousness and success, and his command is followed. And the Dajjal comes forth, and his خروج is from Tabaristan from the east, and he comes to Isfahan, and seventy thousand turbans from its Jews follow him from it. And he is a middle-aged one-eyed man, written between his eyes: unbeliever, which every one reads. And his stay in the earth is forty days: the first day like a year, the second day like a month, the third day like a Friday, and the rest of his days like these your days. And the Prophet, may God bless him and grant him peace, was asked about that, when he said to him: Would one day’s prayer suffice for him? He said: No, rather estimate for him its measure. And God sends forth Gog and Magog, and they all pass over the Lake of Tiberias and drink what is in it of water and the water of all the seas of the world, then God sends upon them the maggots, and they die, and they become dead all together, and the people are kindled from their arrows and quivers seven years. And the reports concerning that are many, famous; this is not their place. And we have mentioned this excerpt for the completion of the speech, so understand that. ۞ And Ibn ʿAbbas, may God be pleased with them both, related that the العمر of the world is according to the number of the days of the week. And Dahr al-Hindi said: the العمر of the world is according to the number of the seven stars, and in every cycle of these cycles there was a prophet: so in the first thousand was Adam, and in the second Idris, and in the third Noah, and in the fourth Abraham, and in the fifth Moses, and in the sixth Jesus, and in the seventh Muhammad, may God bless him and grant him peace. And it is related from him, may God bless him and grant him peace, that he said: At the head of every hundred years God sends to this community a man who renews for it the matter of its religion, and I have left it white, pure.
+
+(Section on knowing the ḥafr mentioned by Imam Jaʿfar al-Ṣādiq, may God be pleased with him)
+And these are names, and the intent by these names is only their number and the knowledge of their breaking apart, so the beginnings are struck by the roots, and I have not clarified for you more than that. I only mentioned these symbols so that this my book may be completed and surpass the other books, and the way to its unraveling is our cabinna, and these original placed informative symbols: In the name of God, the Merciful, the Compassionate, Shuʿayb, Samiʿ, Shith, Ḥizqil, Qabil, Tus, Damietta, Nablus, Tripoli, Tarsus, Aleppo, Hims, and Damascus, Tafarraqa, Aḥramwād, Muhammad, Ahmad, Musa, Ilyas, Yūmuf, Muhammad al-Mahdi, al-Malik, al-Yaman, Allah, Wakil, Musa, Bilqis, Sulayman, Muhammad.
+
+---
+## Page 348
+
+**Arabic (original):**
+— ٣٤٢ —
+
+وسلم من صاحب جيش إلى أن تقوم الساعة، يُنادى باسم أبيه وقبيلته ۞ وأما سبب خراب الدنيا:
+فخراب الجبال بالريح العاصفة، وخراب المدينة بالجوامع، وخراب بلخ بالماء، وخراب ترمذ بالطاعون،
+وخراب مرو بالرمل، وخراب اليمن بالجراد، وخراب سمرقند بالسيف وبني قيطور، وخراب فارس
+بالقحط، وخراب مصر بالنيل، وخراب الأندلس بالسيف، وفي سنة ظف تأخذها الروم ثم
+يأخذها صاحب الزمان محمد المهدي، ثم يفتح الله رومة المدائن مع القسطنطينية على يد محمد القائم
+بأمر الله تعالى، وإذا خرج هذا الإمام تكون الأرض مُلئت جوراً وظلماً، ويُقدره تملأ عدلاً، ولو بقي
+من الدنيا يوماً واحداً لابد أن يحكمها ولد فاطمة المسمى بصاحب الزمان وهو المهدي واسمه محمد، يقسم
+المال بالسوية، ويعدل في الرعية، ويفصل في القضية، ويفتح المدائن الرومية، وتحت طاعته سبعون
+ألفاً من ولد إسماعيل وإسحاق، وترفع المذاهب ويبقى صاحب كشف وشهود، وينال البقية التي في
+الصندوق من نهر الأردن التي وضعها علماء التحقيق، ثم ينزل عيسى بالمنارة البيضاء شرقي دمشق،
+والناس تأتي إلى دمشق وقت العصر، ويصلي بالناس، ثم يأمر بكسر الصليب، ويقتل الخنزير ومن
+أكله في زمانه، ويقتل السفياني عند شجرة بغوطة دمشق، وأصله من قرية من قراها، يظهر بالصلاح
+والفلاح، ويمتثل أمره، ويخرج الدجال ويكون خروجه من طبرستان من المشرق، ويأتي أصبهان
+فيتبعه منها سبعون ألف طيلسان من يهودها، وهو رجل كهل أعور مكتوب بين عينيه كافر يقرأه كل
+أحد، ولبثه في الأرض أربعون يوماً، أول يوم كسنة، وثاني يوم كشهر، وثالث يوم كجمعة، وباقي أيامه
+كأيامكم هذه، وقد سئل النبي صلى الله عليه وسلم عن ذلك، لما قال له: أيكفي له صلاة يوم واحد؟ قال: لا، بل
+اقدروا له قدره، ويبعث الله يأجوج ومأجوج فيمرون كلهم على بحيرة طبرية ويشربون ما فيها
+من الماء وماء بحار الدنيا كلها، فيرسل الله عليهم النغف فيميتون ويصبحون موتى أجمعين، وتشعل الناس
+من نشابهم وجعبهم سبع سنين، والأخبار في ذلك كثيرة شهيرة ليس هذا محلها، وقد ذكرنا هذه
+النبذة لتمام الكلام فافهم ذلك ۞ وروى ابن عباس رضي الله عنهما أن عمر الدنيا على عدد أيام
+الأسبوع، وقال دهر الهندي عمر الدنيا على عدد الكواكب السبعة، وكان في كل دورة من هذه
+الدورات نبي، فكان في الألف آدم، وفي الثانية إدريس، وفي الثالثة نوح، وفي الرابعة إبراهيم، وفي
+الخامسة موسى، وفي السادسة عيسى، وفي السابعة محمد صلى الله عليه وسلم، وروى عنه صلى الله عليه
+وسلم أنه قال: في رأس كل مائة سنة يبعث الله لهذه الأمة رجلاً يجدد لها أمر دينها، وقد تركتها
+بيضاء نقية.
+
+( فصل في معرفة الحفر الذي ذكره الإمام جعفر الصادق رضي الله عنه )
+وذلك أسماء، والقصد بهذه الأسماء إنما هو عددها ومعرفة تكسيرها، فيضرب المبادئ بالأصول، ولم
+أوضح لك أكثر من ذلك، وإنما ذكرت هذه الرموز ليكمل كتابي هذا ويفوق غيره من الكتب،
+والطريق إلى فكه كابيننا، وهذه الرموز الخبرية الموضوعة الأصلية: بسم الله الرحمن الرحيم، شعيب،
+سميع، شيث، حزقيل، قابيل، طوس، دمياط، نابلس، طرابلس، طرسوس، حلب، حمص، ودمشق، تفارقا،
+احرمواد، محمد، أحمد، موسى، إلياس، يومف، محمد المهدي، الملك، اليمن، الله، وكيل، موسى، بلقيس، سليمان،
+محمد.
+
+**English:**
+— 342 —
+
+And from a leader of an army until the Hour arises, he is called by the name of his father and his tribe. ۞ And as for the cause of the ruin of the world: then the ruin of the mountains is by the violent wind, and the ruin of the city by the mosques, and the ruin of Balkh by water, and the ruin of Tirmidh by plague, and the ruin of Merv by sand, and the ruin of Yemen by locusts, and the ruin of Samarqand by the sword and the sons of Qaytur, and the ruin of Fars by drought, and the ruin of Egypt by the Nile, and the ruin of al-Andalus by the sword. And in the year of ظف the Romans take it, then the صاحب الزمان Muhammad al-Mahdi takes it, then God opens Rome, the cities, with Constantinople at the hand of Muhammad al-Qa'im by the command of God Most High. And when this Imam comes forth, the earth shall have been filled with injustice and oppression, and he shall cause it to be filled with justice. And if there remains from the world one single day, it is necessary that the son of Fatima, called the صاحب الزمان, who is the Mahdi, whose name is Muhammad, shall rule it. He divides the wealth equally, and deals justly in the subjects, and decides in the القضية, and opens the Roman cities, and under his obedience are seventy thousand from the children of Ishmael and Isaac, and the madhhabs are lifted and there remains the صاحب كشف and شهود, and he attains the remainder that is in the صندوق from the Jordan River which the scholars of verification placed. Then Jesus descends at the white minaret east of Damascus, and the people come to Damascus at the time of afternoon, and he prays with the people, then he commands the breaking of the cross, and he kills the pig and whoever ate it in his time, and he kills al-Sufyani at a tree in the Ghouta of Damascus, and his origin is from a village among its villages, he appears with righteousness and success, and his command is followed. And the Dajjal comes forth, and his خروج is from Tabaristan from the east, and he comes to Isfahan, and seventy thousand turbans from its Jews follow him from it. And he is a middle-aged one-eyed man, written between his eyes: unbeliever, which every one reads. And his stay in the earth is forty days: the first day like a year, the second day like a month, the third day like a Friday, and the rest of his days like these your days. And the Prophet, may God bless him and grant him peace, was asked about that, when he said to him: Would one day’s prayer suffice for him? He said: No, rather estimate for him its measure. And God sends forth Gog and Magog, and they all pass over the Lake of Tiberias and drink what is in it of water and the water of all the seas of the world, then God sends upon them the maggots, and they die, and they become dead all together, and the people are kindled from their arrows and quivers seven years. And the reports concerning that are many, famous; this is not their place. And we have mentioned this excerpt for the completion of the speech, so understand that. ۞ And Ibn ʿAbbas, may God be pleased with them both, related that the العمر of the world is according to the number of the days of the week. And Dahr al-Hindi said: the العمر of the world is according to the number of the seven stars, and in every cycle of these cycles there was a prophet: so in the first thousand was Adam, and in the second Idris, and in the third Noah, and in the fourth Abraham, and in the fifth Moses, and in the sixth Jesus, and in the seventh Muhammad, may God bless him and grant him peace. And it is related from him, may God bless him and grant him peace, that he said: At the head of every hundred years God sends to this community a man who renews for it the matter of its religion, and I have left it white, pure.
+
+(Section on knowing the ḥafr mentioned by Imam Jaʿfar al-Ṣādiq, may God be pleased with him)
+And these are names, and the intent by these names is only their number and the knowledge of their breaking apart, so the beginnings are struck by the roots, and I have not clarified for you more than that. I only mentioned these symbols so that this my book may be completed and surpass the other books, and the way to its unraveling is our cabinna, and these original placed informative symbols: In the name of God, the Merciful, the Compassionate, Shuʿayb, Samiʿ, Shith, Ḥizqil, Qabil, Tus, Damietta, Nablus, Tripoli, Tarsus, Aleppo, Hims, and Damascus, Tafarraqa, Aḥramwād, Muhammad, Ahmad, Musa, Ilyas, Yūmuf, Muhammad al-Mahdi, al-Malik, al-Yaman, Allah, Wakil, Musa, Bilqis, Sulayman, Muhammad.
+
+---
+## Page 349
+
+**Arabic (original):**
+- ٣٤٣ -
+
+جليل نجم قابض المص كهيعص طحسم مستحص ن والقلم وما يسطرون مراد انتج منه
+محمد ثمان صالح وطا لملك الأمر لله يعطى النصر لمن يشاء إذ قال ربك للملائكة إني جاعل في الأرض
+خليفة فداودنا جعلناك خليفة في الأرض فاحكم بين الناس بالحق الأمر كله لله يعز من يشاء
+ويذل من يشاء وهو حسبي وكفى * واعلم أيها الطالب أن هذه الأسماء والآيات كلها تؤخذ مما
+ذكرناه وقد جمعت لك الطرق ووجه آخر وهو أن تأخذ اسم صاحب الدولة وصاحب التخت حروفاً
+والعدد الموافق من أسماء الرموز وابسطهم ثم انظر إلى اسم الذات واضرب الجميع وعد ذلك وانظر
+الخارج فهو المراد * واعلم أن أصول الاسم المقدس على أحد عشر حرفاً وهي مقابلة من أول
+الهجرة إلى وفاته والمبادئ مع مواد أصلها اثنا عشر وهي مئة بة قتل عمر رضي الله عنه واضطراب
+الشورى وأصول الاسم من أصول الشورى إلى قتل عثمان رضي الله عنه * ومن الجهة الأخرى
+من مبادئ الاسم كان وقعة الجمل وقيم الفتن وإذا ضربت المبادئ مع أصول الاسم كانت يغ وهو
+قتل ابن الزبير رحمه الله تعالى ثم ضربت المبادئ مع أصول الاسم فكان مائة واثنين وثلاثين ومن
+الحروف قل فكانت آخر دولة بني أمية وانقراض أيامهم وخلافتهم ثم ضربنا أصل حروف الرموز
+في البواقي من مواد الحروف فخرج لنا من الحروف قعر فكانت الزلازل في سنة مائة وسبع
+وثمانين والأراجيف وخراب الحصون والمنازل والقرى من أرض مصر والشام وانقطاع الحبل
+الأخضر بأنطاكية وذلك في خلافة المتوكل بالله تعالى وإذا جمعت حروف الرحمن كان الخارج من
+ذلك ثلثمائة واثني عشر ومن الحروف شيث فكانت في هذه الأيام اختلاف الإنس وظهور
+القرامطة وإذا ضربت جميع الحروف الظاهرة والباطنة خرج من ذلك أربعمائة واثنان وثلاثون
+قبل آخر دولة بني أمية ملوك الأعاجم وابتداء الدولة السلجوقية وإذا ضربت الحروف المجتمعة
+من حروف المبادئ يكون الخارج خمسمائة وسبعين وهو انتهاء الدولة الفاطمية وإذا ضربت
+الحروف من أول المبادئ وقع حرف الاسم المقدس فكان الخارج خمسمائة واثنين وثمانين شجف
+فكان تغير دولة الإفرنج وفتح بيت المقدس وهلاك الإفرنج وإذا ضربت أصول المبادئ مع حروف
+الرحمن كان الحاصل ستمائة وسبعة وعشرين وكان ذلك في عام كسر السلطان جلال الدين خوارزم شاه
+وزوال ملكه وإعلاء التتار على تلك البلاد وقيام الإفرنج في بلاد العرب ونصرنا الله عليهم وكل هذه
+قواعد كلية ولو أبصرت كل فتنة أو واقعة وقعت لوجدتها على هذا الحساب وهذا المعنى لا يختلف أبداً
+والله أعلم
+( فصل في معرفة جفر الإمام جعفر الصادق كما أخذته من صدور العارفين )
+وهو أن تضع حروف أبجد هوز إلى آخرها ٢٨ حرفاً كل صفحة ٢٨ صفحة وكل صفحة ٢٨
+سطراً وكل سطر ٢٨ بيتاً وكل بيت ٢٨ حرفاً ويحفظ الحرف الأول والثاني للصفحة الثانية
+والسطر الرابع مرتبة البيت فيكون مكتوب في البيت من الكنا أربع ألفات وفي الأخير أربع
+غينات على وضع يحصل منه أربع مربعات في كل ضلع من الأضلاع طولاً وعرضاً ومجموع صفحات
+الجفر سبعمائة وأربعة وثمانون صفحة وعدد سطوره ٣١٩٠٢ وعدد بيوته ٢١٤٥٦ وعدد
+
+**English:**
+- 343 -
+
+Jalīl, a star, a seizer, al-Maṣ, Ka-Ha-Ya-‘Ayn-Sad, Ṭaḥsm, Mustaḥṣ, N and the pen and what they inscribe, intended, produced from it
+Muḥammad, eight, righteous, and Ṭa, to the king, the الأمر لله, victory is given to whom He wills, when your Lord said to the angels: “Indeed I am placing in the earth
+a vicegerent”; so David, We made you a vicegerent in the earth, so judge between the people with truth, the الأمر كله لله, He عز whom He wills
+and humiliates whom He wills, and He is my sufficiency and enough. * And know, O seeker, that these names and verses are all taken from what
+we have mentioned, and I have gathered for you the methods, and another aspect, which is that you take the name of the صاحب الدولة and the صاحب التخت letters
+and the corresponding number from the names of the symbols and spread them out, then look at the name of the الذات and multiply all of them and count that and look at
+the result, for it is the intended. * And know that the roots of the sacred name are eleven letters, and they are corresponding from the first
+Hijra to his death, and the beginnings with their materials, their root is twelve, and it is one hundred, ba, the killing of ʿUmar, may God be pleased with him, and the disturbance of
+the shūrā, and the roots of the name from the roots of the shūrā to the killing of ʿUthmān, may God be pleased with him. * And from the other side
+from the beginnings of the name was the Battle of the Camel and the values of the tribulations, and if you multiply the beginnings with the roots of the name, it was ygh, and it is
+the killing of Ibn al-Zubayr, may God تعالى have mercy on him. Then you multiplied the beginnings with the roots of the name, and it was one hundred and thirty-two, and from
+the letters ql, so it was the last state of the Umayyads and the ending of their days and their caliphate. Then we multiplied the root of the letters of the symbols
+in the remainders of the materials of the letters, and there came out for us from the letters qʿr, so the earthquakes were in the year one hundred and seven
+and eighty, and the rumors and the destruction of fortresses and dwellings and villages from the land of Egypt and Syria, and the severing of the green
+rope at Antioch, and that was in the caliphate of al-Mutawakkil billāh تعالى. And if you جمع the letters of al-Raḥmān, the result from
+that was three hundred and twelve, and from the letters shyth, so in these days was the اختلاف of mankind and the ظهور
+of the Qarmaṭians. And if you multiply all the manifest and hidden letters, there came out from that four hundred and thirty-two
+before the last state of the Umayyads, the kings of the non-Arabs, and the beginning of the Seljuk state. And if you multiply the gathered letters
+from the letters of the beginnings, the result will be five hundred and seventy, and it is the ending of the Fatimid state. And if you multiply
+the letters from the first of the beginnings, the letter of the sacred name fell, so the result was five hundred and eighty-two, shjf,
+so it was the change of the state of the Franks and the فتح of Bayt al-Maqdis and the destruction of the Franks. And if you multiply the roots of the beginnings with the letters
+of al-Raḥmān, the حاصل was six hundred and twenty-seven, and that was in the year of the breaking of Sultan Jalāl al-Dīn Khwārazm Shāh
+and the disappearance of his kingdom and the raising of the Tatars over those lands and the قيام of the Franks in the lands of the Arabs, and God gave us victory over them, and all these
+are universal rules, and if you were to behold every tribulation or event that occurred, you would find it upon this reckoning, and this meaning does not differ ever.
+And God knows best.
+(Chapter on the knowledge of the jafr of Imam Jaʿfar al-Ṣādiq as I took it from the breasts of the knowers)
+And it is that you place the letters of Abjad Hawwaz to its end, 28 letters, every page 28 pages, and every page 28
+lines, and every line 28 bayts, and every bayt 28 letters, and the first and second letter are preserved for the second page
+and the fourth line, the rank of the bayt, so there will be written in the bayt from al-kunā four alifs, and at the end four
+ghayns, upon an arrangement from which there result four squares in every side of the sides, lengthwise and widthwise, and the total pages of
+the jafr are seven hundred and eighty-four pages, and the number of its lines is 31902, and the number of its bayts is 21456, and the number of
+
+---
+_End of translation — 349 pages._
