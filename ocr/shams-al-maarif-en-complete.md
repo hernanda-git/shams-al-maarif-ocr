@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 371 translated pages._
+_Auto-generated from 374 translated pages._
 
 ---
 ## Page 1
@@ -21422,4 +21422,230 @@ of the days and the six nights; then isolate the bridles in another book and sep
 of the small gate from the gate of its speech, the standing name, the degree, twenty-two, with the speech of al-‘Afiytush, by gathering the front-parts
 
 ---
-_End of translation — 371 pages._
+## Page 372
+
+**Arabic (original):**
+- ٣٦٦ -
+
+والمؤخرات اثنين وعشرين درجة زمامها في كل زمام ثمان وعشرين درجة وهو الصدر الأول
+من الباب الصغير أول درجة منه تجدها ا وآخرها ب تجدها ثم كسر درجة بعد درجة بعد
+درجة إلى درجة يخرج لك الزمام فإنك تجد أوله ب وآخره ب ثم كسر درجة بعد درجة فولد من
+ذلك اسماً بعد اسم على هذه الصفة إلى تمام أحد عشر اسماً فخرج في الثالث عشر فهو صدر
+الباب الأول من الباب الصغير تجد أوله ا وآخره ب ثم اقلب زمام باب الكلام فيصير آخره أوله
+واعلم أن أوله كان في الابتداء ا وآخره ث فصير زمامه مقلوباً ثم كسر آخره على أوله درجة
+بعد درجة على الصفة على ٢٢ فهو مؤخر باب الصغير تجد أوله ا وآخره ش فإنها متساوية في
+زمام واحد ثم أخرج منها ٤ درج داخلة في مؤخرها وزد عليها ٤ أحرف خارجة ٤ درج
+داخلة في مؤخرها مكررة وزد عليه ٤ أحرف خارجة عنها فإذا جمعت الدرج في زمام واحد
+فاعرضها على زمام باب كلامه الأول فتعرف الخارجة الداخلة من النظر فن فوق كل فن
+من ذلك على حدة واجعل ما اجتمع من كل فن عشرة أبواب زماماً في سطر واحد على ما أصف
+فكسره فإنها تخرج شعايذ أو غيرها فخرج لغاتها واسمع ما يصف لك الكتاب فإنه يخرج من
+هذا الباب في تكسيره إلى ما لانهاية له بإذن الله تعالى ( وهذه صفة ) باب المتصل مثال ذلك قياس
+باب الصغير في نفسه من التكسير فافهم ما وصفت لك وتجل فتقدم
+
+( فصل يشتمل على شرح الأبواب الثلاثة وهي الكبرى والصغرى والمتصل )
+* اعلم أن الهياكل والتيجان والحرب والأعمدة والسيوف والمنابر والمزارق والأحراض
+والكلاليب والكراسي وهي من باب الكبير لولد بن الجان مرزبان شاهنشاه أب الجن فهم
+الملوك والأمراء والهرامسة والفراعنة والقساورة والشعابذة * واعلم أن كتاب عصى موسى
+والحراسة والألوية والنبود وهي من باب الصغير لولد مهبد بن الجان مرزبان شاهنشاه أب الحارث
+السيارة والغاريت والبثارة والطوعة والقطارفة * واعلم أن كتاب الأكل والسحر ولوح
+الذهب وكتاب الكرسي وكرسي سليمان بن داود والقبة هي من باب المتصل لولد حفظش بن
+الحارث بن مرزبان شاهنشاه أب الجن الخدام والكراسي والوساوسة والأخاطفة والأفاطرة
+والمستمعة ومعرفة كتاب المناجاة بكلام الطاهنشاه وهو من باب الكبير المتصل المقرون فاعرفه
+وهو على أحد وجهين من درجة في زمام واحد ثم كسر آخرها على أولها درجة بعد درجة مصوبة
+ومقلوبة وابتدئ الأمم الأول من الصدر ومن المؤخر ثم ذلك واحداً بعد واحد إلى آخر البابين
+اسماً فاسم فإذا تقدم المتصل منهما بعده من الكبير ثم تبعد الباب فاعلم ذلك
+( فصل في معرفة تاج الملك ميطرون) وهو شرائط عبد ربه بكلام الطاهنشاه وهو باب الكبير
+والصغير القوي على صفة المناجاة في التكسير والاجتماع على أحد وخمسين درجة مصوب مقلوب
+قياس المناجاة
+( فصل ) في معرفة تاج ميطرون عبد ربه بكلام الطاهنشاه وهو باب الصغير والمتصل وهو في
+التكسير على صفة ٤٤ درجة اسماً واسماً قياس لوح آدم عليه السلام مصوب ومقلوب تفعل ذلك إلى
+آخر
+
+**English:**
+- 366 -
+
+And the rears are twenty-two degrees; its reins, in every rein, are twenty-eight degrees, and it is the first breast
+of the small gate. Its first degree you find it ا and its last ب you find it. Then break degree after degree after
+degree to degree; the rein will come out for you, for you will find its beginning ب and its end ب. Then break degree after degree, and from
+that a name after a name is generated upon this description until the completion of eleven names, then it came out in
+the thirteenth; so it is the breast
+of the first gate of the small gate. You find its beginning ا and its end ب. Then turn the rein of the gate of speech, and its end becomes its beginning.
+And know that its beginning was in the beginning ا and its end ث, so make its rein inverted. Then break its end upon its beginning degree
+after degree upon the description upon ٢٢; so it is the rear of the small gate. You find its beginning ا and its end ش, for they are equal in
+one rein. Then bring out from it 4 degrees entering into its rear, and add to it 4 letters outside, 4 degrees
+entering into its rear repeated, and add to it 4 letters outside of it. Then when you gather the degrees in one rein,
+display them upon the rein of the first gate of its speech; then you will know the outside and the inside from the النظر فن above every فن
+of that separately, and make what has gathered from every فن ten gates a rein in one line according to what I describe.
+Then break it, for they will come out sha‘aydh or other than it; so its languages came out, and hear what the book describes to you, for it will come out from
+this gate in its breaking to what has no end to it, by permission of God تعالى. (And this is the description) of the gate of the connected. Example of that: the measure
+of the small gate in itself from the breaking. So understand what I have described to you and become manifest, then advance.
+
+(Chapter comprising the explanation of the three gates, namely the great, the small, and the connected)
+* Know that the structures, and the crowns, and the war, and the pillars, and the swords, and the pulpits, and the spears, and the enclosures,
+and the hooks, and the chairs, and they are from the gate of the great, for the offspring of ibn al-jann Marzban Shahanshah, father of the jinn. So understand:
+the kings, and the princes, and the Hermeses, and the pharaohs, and the Qasawirah, and the magicians * And know that the Book of Moses’ staff
+and the guard, and the banners, and the standards, and they are from the gate of the small, for the offspring of Muhbad ibn al-jann Marzban Shahanshah, father of al-Harith:
+the riders, and the gharit, and the batharah, and the taw‘ah, and the qatarifah * And know that the Book of eating and magic, and the Tablet
+of gold, and the Book of the Throne, and the Throne of Solomon son of David, and the dome, they are from the gate of the connected, for the offspring of Hafsh ibn
+al-Harith ibn Marzban Shahanshah, father of the jinn, the servants, and the chairs, and the whisperers, and the snatchers, and the afatirah,
+and the listeners, and the knowledge of the Book of the munajاة with the speech of al-Tahanshah, and it is from the great connected joined gate, so know it.
+And it is upon one of two aspects: from a degree in one rein, then break its end upon its beginning degree after degree, upright
+and inverted, and begin the first nations from the breast and from the rear, then that one after one until the end of the two gates,
+name after name. So when the connected of them advances after it from the great, then distance the gate, so know that.
+(Chapter in the knowledge of the crown of King Miṭrūn) and it is the conditions of ‘Abd Rabbih with the speech of al-Tahanshah, and it is the gate of the great
+and the small, the strong, upon the description of the munajاة in breaking and gathering upon one and fifty degrees, upright inverted,
+measure of the munajاة
+(Chapter) in the knowledge of the crown of Miṭrūn ‘Abd Rabbih with the speech of al-Tahanshah, and it is the gate of the small and the connected, and it is in
+breaking upon the description of 44 degrees, name and name, measure of the Tablet of Adam عليه السلام, upright and inverted; you do that until
+the end
+
+---
+## Page 373
+
+**Arabic (original):**
+- ٣٦٧ -
+
+آخر البابين
+(فصل) في معرفة تاج ما فهم من باب الصغير وكلام الغيب وهي أسماء ملائكة السابعة تحصل بعد
+التكسير على عدد أحرف الدرج من حروف باب الصغير وهي الخارجة من عشرة أبواب إلى
+أربعين درجة في زمام واحد يكسر على ما عرف للزمام بعينه بعد ستة وعشرة أسماء تفعل
+ذلك إلى آخرها الخارجة
+(فصل) في معرفة الأسماء التي هي دوارة القلب من باب الصغير بكلام الغيب من أسماء الملائكة
+الموكلة بالقمر على التكسير من حروف باب الصغير الداخلة على عشرة أبواب وهي أربعون
+درجة في زمام واحد على صفة تاج تكسر ما فهم
+(فصل) في معرفة حربة حنينا الملك وهي حربة ميططرون الملك عبد القاهر من باب الصغير
+بكلام منه عدوه أبواب النظير قياس تاج ما فهم
+(فصل) في معرفة ما فهم من باب المتصل بكلام الغيب وهي أسماء ملائكة السماء الخامسة على
+التكسير من أحرف بابه المتصل وهي الخارجة من عشرة أبواب مصوبة ومقلوبة قياس تاج ما فهم
+من باب الصغير
+(فصل) في معرفة أسماء الملائكة الموكلة بالشمس على التكسير من باب حروف المتصل الداخلة
+قياس تاج ما فهم من عشرة أبواب
+(فصل) في معرفة حربة عزرائيل وهي أسماء ملائكة السماء الرابعة على التكسير من باب حروفه
+المتصل من عشرة أبواب
+(فصل) في معرفة حربة يوشع بن نون وهي حربة ميططرون الملك عبد المولى بكلام السجع
+وهي أسماء ملائكة السماء الثالثة على التكسير من كتاب طوح زوايا تاج الزهرة وهي أربع درجة
+ترجع الزمام في آخرها في ست وعشرين قياس تاج ما فهم من باب الصغير في التكسير
+(فصل) في معرفة لوح آدم من باب الصغير تزيد عليه من الأحرف المقطعة بكلام الرشف على
+تأليفها فيصير الزمام أربعا وأربعين درجة يرجع الزمام في عشرة أسماء تفعل ذلك إلى آخر الباب
+يرجع هذا الباب إلى كلام السرّت وهو سفر آصف بن برخيا
+(فصل) في معرفة ابتداء باب الصغير ابتداء الأول من الدرجة الثالثة فيخرج من باب ثمانية زماماً
+قياس زمام الباب واعرف أسماء أعوانه بأحرف الدعوة وباب المتصل مثل قياس الصغير في التكسير
+بكلام الطاهنشاه والرشف قياس أحمد فإذا أردت اللغة فانصب زمام ابتداء الكلام على زمام الباشم
+ألف الاسم على تأليف حروفه من زمام باب الكلام * واعلم أن اللغة لا تخرج من باب الصغير والمتصل جميعا
+إلا بالتوج فإنك إن أخرجتها جميعا من الابتداء جمعت اللغة في السطر الثاني وإن أضفت الزمام
+في التكسير فإنك تحلى السطر الأخير من الصدر فاحكم اللغة من باب التتوج وهذه السبعة ألسن
+واللغات فيطورش الطاهنشاه الرشف الغيب الأزوار الشجع فإذا أردت معرفة ذلك فصير حرف
+الباب درجة هذه البروج ثم أخرج أسماء أعوانه منه بأحرف الدعوة وهي دعاء الجن والأعوان المسلمين
+
+**English:**
+- 367 -
+
+the end of the two gates
+(Chapter) in the knowledge of the crown of what is understood from the gate of the small and the speech of the unseen, and they are the names of the angels of the seventh; they are obtained after
+breaking according to the number of the letters of the degrees from the letters of the gate of the small, and they are the outgoing from ten gates to
+forty degrees in one rein, broken according to what is known for the rein itself after six and ten names; do
+that until its outgoing end
+(Chapter) in the knowledge of the names which are the revolving of the heart from the gate of the small with the speech of the unseen, from the names of the angels
+appointed over the moon, upon the breaking, from the letters of the gate of the small entering upon ten gates, and they are forty
+degrees in one rein upon the description of a crown; break what is understood
+(Chapter) in the knowledge of the spear of Ḥanīnā the king, and it is the spear of Miṭṭaṭrūn the king, ‘Abd al-Qāhir, from the gate of the small,
+with speech from it; count its gates of the like, measure of the crown of what is understood
+(Chapter) in the knowledge of what is understood from the gate of the connected with the speech of the unseen, and they are the names of the angels of the fifth heaven upon
+breaking from the letters of its connected gate, and they are the outgoing from ten gates, upright and inverted, measure of the crown of what is understood
+from the gate of the small
+(Chapter) in the knowledge of the names of the angels appointed over the sun upon breaking from the gate of the letters of the connected entering,
+measure of the crown of what is understood from ten gates
+(Chapter) in the knowledge of the spear of ‘Azrā’īl, and they are the names of the angels of the fourth heaven upon breaking from the gate of its letters,
+the connected, from ten gates
+(Chapter) in the knowledge of the spear of Yūsha‘ ibn Nūn, and it is the spear of Miṭṭaṭrūn the king, ‘Abd al-Mawlā, with the speech of saj‘,
+and they are the names of the angels of the third heaven upon breaking from the Book of Ṭūḥ, the corners of the crown of Venus, and they are four degrees;
+the rein returns at its end in twenty-six, measure of the crown of what is understood from the gate of the small in breaking
+(Chapter) in the knowledge of the Tablet of Adam from the gate of the small; you add to it from the disconnected letters with the speech of al-rashf upon
+their composition, so the rein becomes forty-four degrees; the rein returns in ten names; do that until the end of the gate.
+This gate returns to the speech of al-Sirrāt, and it is the Book of Āṣaf ibn Barakhyā
+(Chapter) in the knowledge of the beginning of the gate of the small: the beginning of the first from the third degree, so there comes out from the gate eight reins,
+measure of the rein of the gate, and know the names of its helpers with the letters of the invocation, and the gate of the connected, like the measure of the small in breaking,
+with the speech of al-Tahanshah and al-rashf, measure of Aḥmad. So when you desire the language, then set up the rein of the beginning of the speech upon the rein of al-bāshim,
+spell the name according to the composition of its letters from the rein of the gate of speech * And know that the language does not come out from the gate of the small and the connected together
+except by the crown; for if you bring it out together from the beginning, you gather the language in the second line, and if you add the rein
+in breaking, then you adorn the last line of the breast. So judge the language from the gate of crowning. And these seven tongues
+and languages: fīṭūrsh, al-Tahanshah, al-rashf, al-ghayb, al-azwār, al-shaja‘. So when you desire knowledge of that, then make the letter of
+the gate the degree of these zodiacal signs, then bring out the names of its helpers from it with the letters of the invocation, and they are the invocation of the jinn and the Muslim helpers
+
+---
+## Page 374
+
+**Arabic (original):**
+- ٣٦٨ -
+
+من ذرية فهصد وهو الحارث وكلام الطاهنشاه والرشف فيصرف في عرض ستة مصوبات ومقلوبات
+بالعرض خفضا ورفعا فالخفض هو كلام الطاهنشاه والرفع هو كلام الرشف وتصريف الحرف في
+أربع زوايا بيته خفضا ورفعا من آخر درجة من زمام باب كلامه ثم اخرج أسماء أعوانه في باب الدعوة
+وهو لكل ما أردت
+(فصل) في معرفة سفر ذي القرنين وهو كلام يحط بروج درج الباب فيثبت على تاج الزهرة يمتد إلى
+بيوت السرت فنصبها مصوبة تأليف درجة تأخذها من مراوة وتنصبها مسربة قيام زمام ابتداء
+الكلام في كتاب السرت من أول درجة من تاج الزهرة فاخرج أعوان هذه الأبواب بأحرف
+دعواها ثم تأخذ تأييد الحروف وكسرها قياس تاج الزهرة فاخرج أسماء الملائكة بأحرف دعوتها
+واحملها على ما أجبت وهذه أحرف دعوة هذا الباب فافهم اعطوني بوهاهي هوهدهم
+انقل إلى كلام الطست وهو سفر آدم فتنقله عن قياس نقل كلام الرشف واعلم أن من باب الكبير وهو
+باب الهياكل والتيجان والحراب والأعمدة والكلاليب والسيوف والمزاريق والمنابر والأحراش
+والكراسي وهم الملوك والأمراء والفراعنة والهوامسة والقساورة والشعايذة من باب الكبير الثلاثة
+أسباط من ولد بعير عنج وسرهج أولاد نهب المرزبان وهذه أحرف دعواتهم على الولاء وهو هيأها
+ولكل واحد من هؤلاء الخمسة ستة أولاد يقال لهم ملوك الأقطار غير مؤجلة فان أولاده اثنان وعشرون
+ملكا واحد منهم مسكنه الفلك يقال له مطر يخرج من أزمة الباب على تأليف الباب وهم وصفيا
+بليها كل وسبعة منهم على تأليف الباب وهم جران الهياكل ثم اخرج من أزمة الباب على تأليف رأس
+جران المنابر وهم القلول ثم اخرج من أزمة الباب على تأليف رأس خزان المنابر وهو القلة ول ثم اخرج
+من أزمة الباب على التأليف رأس خزان المنابر وهو رماس هو ملك العرب ثم اخرج من أزمة الباب
+على التأليف رأس رأس وهو ملك الفلك الموكل بذلك العمل ثم اخرج أسماء عشرة من الموكلين بالمنابر
+ولد دنط بن سرير الهرماس ثم اخرج أسماء عشرة من وصفاء المنابر من خزان ولد دنط ابن الهرماس
+ثم اخرج أسماء عشرة من خزان المنابر ولد طب القطر ابن وخ الهرماس ثم اخرج أسماء عشرة من
+خزان المنابر من الموكلين بالكراسي ولد يهيق ثم اخرج أسماء عشرة من الموكلين بالكراسي ولد
+حيض بريح الهرماس ثم اخرج أسماء عشرة من الموكلين بالكراسي ولد يخلان أنى ملوك الدبور
+ثم اخرج أسماء عشرة من الموكلين بالكراسي ولد يبخل بن الهرماس ثم اخرج أسماء عشرة من
+وصفاء الكراسي ولد مير بن متوجلة الهرماس ثم اخرج ١٠ من وصفاء الكراسي من ولد ثط بن
+ملك الفلك الأعظم ثم اخرج أسماء ١٠ من وصفاء الكراسي من ولد طيطب ابن ملوك الجن
+فهؤلاء المبسط ومن ولد بعير الهرماس الفهام بن يهب المرزبان ابن الملوك الأفاطرة لهم صدور باب
+الكبير مصوبة ومقلوبة وهم جنس الملوك بكلام فيطورش ثم اخرج القساوة وأسماء الأمراء
+السبعة في سبعة أقاليم الدنيا أولاد جنج اهطام بن يهب المرزبان شاهنشاه هذه أسماؤهم عسج
+وتص دعسيس دح ولع يعطس بالوهم الموكلون بالتيجان والوصفاء والحراب لكل واحد ٣ أولاد
+الملوك التاج الأول والوصف والحازن ولد عص ثلاثة وهم الموكلون بالتاج الرابع والوصف والحازن
+ثم
+
+**English:**
+- 368 -
+
+from the offspring of Fahṣad, and he is al-Ḥārith, and the speech of al-Tahanshah and al-rashf is inflected in breadth, six upright and inverted
+in breadth, lowering and raising; so the lowering is the speech of al-Tahanshah and the raising is the speech of al-rashf, and the inflection of the letter in
+the four corners of its house, lowering and raising, from the last degree of the rein of the gate of its speech; then bring out the names of its helpers in the gate of invocation,
+and it is for everything you desire
+(Chapter) in the knowledge of the journey of Dhū al-Qarnayn, and it is speech that brings down the zodiacal signs of the degrees of the gate, so it is fixed upon the crown of Venus, extending to
+the houses of al-Sirrāt; so set them upright, composition of a degree you take from Marāwah, and set them as a path, standing, the rein of the beginning
+of the speech in the Book of al-Sirrāt from the first degree of the crown of Venus. Then bring out the helpers of these gates with the letters of
+their invocation, then you take the reinforcement of the letters and their breaking, measure of the crown of Venus; then bring out the names of the angels with the letters of their invocation,
+and carry them upon what you answered. And these are the letters of invocation of this gate, so understand: give me buhāhī huwadhim
+Transfer to the speech of the basin, and it is the journey of Adam, so you transfer it from the measure of the transfer of the speech of al-rashf. And know that from the gate of the great, and it is
+the gate of the structures, and the crowns, and the spears, and the pillars, and the hooks, and the swords, and the spears, and the pulpits, and the enclosures,
+and the chairs, and they are the kings, and the princes, and the pharaohs, and the Hermeses, and the Qasawirah, and the magicians, from the gate of the great, the three
+tribes from the offspring of Ba‘īr ‘Anj and Sarhaj, the sons of Nabh al-Marzban. And these are the letters of their invocations in succession, and it is prepared by it.
+And for each one of these five are six sons, called the kings of the regions, not deferred, for his sons are twenty-two
+kings; one of them, his dwelling is the sphere, called Maṭar; he comes out from the reins of the gate upon the composition of the gate, and they are Waṣfiyā
+Bliyāh Kul, and seven of them upon the composition of the gate, and they are Jirān al-Structures. Then bring out from the reins of the gate upon the composition of the head of
+Jirān al-Pulpits, and they are al-Qulūl. Then bring out from the reins of the gate upon the composition of the head of the treasurers of the pulpits, and it is al-Qillah wa-l.
+Then bring out from the reins of the gate upon the composition the head of the treasurers of the pulpits, and it is Ramās; he is the king of the Arabs. Then bring out from the reins of the gate
+upon the composition the head of the head, and he is the king of the sphere appointed over that work. Then bring out the names of ten of those appointed over the pulpits,
+the offspring of Dant ibn Sarīr al-Hirmās. Then bring out the names of ten of the attendants of the pulpits from the treasurers, the offspring of Dant ibn al-Hirmās.
+Then bring out the names of ten of the treasurers of the pulpits, the offspring of Ṭab al-Qaṭr ibn Wakh al-Hirmās. Then bring out the names of ten of
+the treasurers of the pulpits from those appointed over the chairs, the offspring of Yahīq. Then bring out the names of ten of those appointed over the chairs, the offspring of
+Ḥayḍ bi-Rīḥ al-Hirmās. Then bring out the names of ten of those appointed over the chairs, the offspring of Yikhlān, the kings of the west.
+Then bring out the names of ten of those appointed over the chairs, the offspring of Yabkhal ibn al-Hirmās. Then bring out the names of ten of
+the attendants of the chairs, the offspring of Mīr ibn Mutawajjilah al-Hirmās. Then bring out 10 of the attendants of the chairs from the offspring of Ṯaṭ ibn
+the king of the greatest sphere. Then bring out the names of 10 of the attendants of the chairs from the offspring of Ṭayṭab ibn the kings of the jinn.
+So these are the spread, and from the offspring of Ba‘īr al-Hirmās, al-Fahhām ibn Yabh al-Marzban, the sons of the kings, the afāṭirah, for them are the breasts of the gate
+of the great, upright and inverted, and they are the جنس of the kings with the speech of Fīṭūrsh. Then bring out the Qasāwah and the names of the princes
+the seven in the seven regions of the world, the sons of Janj Aḥṭām ibn Yabh al-Marzban Shahanshah; these are their names: ‘Asj
+and Taṣ, Da‘sīs, Daḥ, Wa‘l, Ya‘ṭus, with illusion, those appointed over the crowns, and the attendants, and the spears; for each one, 3 sons
+of the kings, the first crown, and the attendant, and the treasurer, the offspring of ‘Aṣ, three; and they are those appointed over the fourth crown, and the attendant, and the treasurer.
+Then
+
+---
+_End of translation — 374 pages._
