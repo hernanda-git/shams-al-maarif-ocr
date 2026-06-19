@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 389 translated pages._
+_Auto-generated from 392 translated pages._
 
 ---
 ## Page 1
@@ -22356,4 +22356,137 @@ Notes:
 earthly, after their separation from it, become one thing, and each of them inclines to its form. So when they are gathered, they return to one another, and they named the dregs in every earth and wet body, and perhaps they named mercury the first water, and it is the operation of the earth alone. Their earth is taken and burned with fire, and it is the mentioned hyena. If they fear that the fire will consume it, they water it again and again until it whitens and hardens, so they say: the mercury is mixed with ash. And in the sulfur of the people there are three generative powers, and a nourishing power, and a digestive power. And the fires are 7: a fire that calcines the congealed, and a fire that binds the water, and it is mercury, and an elemental fire that is kindled in houses, and the fire of nature, and the fire of binding. And Dhu al-Nun said: the fires have 7 ranks, some needing and blazing, and three lukewarm, to complete the ten. And it was said: it is the natural power that is in sulfur, for in that it has three powers: generative, nourishing, and digestive. For the generative only generates the seed in the belly until it is generated. Likewise the red-born comes out at first like a child, not able to endure the hardness of fire, just as the child is not able to endure the coarse foods; rather he is nourished first by milk gradually until he eats food. Likewise the balance is first made subtle, then tightened a little until it becomes a nature for it, and the nurturing power manages it and increases in its body until it reaches its full strength and begins in decline and diminution. Likewise this offspring that is in the compound that is in the soul, when it is dissolved from its father, there dissolves from it at first a slight vein, then it sweats a little, and perhaps they named it the milk of the kidney. At the beginning of its خروج it is little, and perhaps many parts are nurtured. Likewise this milk that is in the compound at the beginning of the work, but it works in these bodies, and if you return it upon them it works a great work and increases in their digestion and dissolution a little until it becomes abundant and reaches its limit at the utmost of its ascent, then it decreases a little in its sublimation of the earthly and returns to its element from which it came in the body, as its like is like the earth in which plants stand. Likewise spirits do not stand except by bodies, because spirits seek their centers, and they are fire and earth, and their center is below, and the upper is connected to the lower. And food is not digested except by heat and moisture, because digestion is a kind of putrefaction, and putrefaction is a gross letter of the body, then it makes it into a diving spirit after it had been a gross, rough body. And putrefaction is what is used in their work, and upon it is their reliance, and by putrefaction the ascent of the food is distinguished and it descends to the intestines below. Likewise the sages, when they take the pure that is purified from the stone, call it soul, and the pure sulfur water by many names, and they call the dregs remaining in the dung, and they have increased in their books the putrefaction, and they said: the stone is putrefied with moist dung, and it is only this, and they have no dung other than the dregs which they putrefy. Therefore Khalid said: the natures gather in one, which is the أصل, nothing else; it is agreeable, noble, and its origin is in dung, so do not be astonished. For the meaning of their saying “seven fires” is that their stone is like the being, and it is the soul and the spirit and the body, fourfold in quality, which are the four natures: fire, air, earth, and water. Therefore seven upon the composition of man, and the being of the body is a black color like the mouse, and it was black outwardly, while in it is a pure essence. The sage said: let not these natures and their coarseness and the abundance of their filth and blackness alarm you, for that filth and blackness the fire returns to purity, and it returns as one light. And among the sages it is not agreed from its blackness, nor does it whiten by water, and fire binds it, and it is the eastern one. So when some of them are gathered with some, there is born from them a هوه
 
 ---
-_End of translation — 389 pages._
+## Page 390
+
+**Arabic (original):**
+- ٣٨٤ -
+
+حار رطب، وصارت قوية قدرتها تفعل في الأرض الباقية بعد خروجها والنور العنصري به هي التي
+تخدمه والنار الطبيعية هي التي تهدمه وهي النفس وقيل النار التي تهبها النفس والنار الأخرى
+هي الروح التي تأخذ الصبغ من التعفين وامتزاج الأرواح بالأدهان والدهن هو الزيبق
+والأدهان على الكباريت المضادة للزيبق ولا يقوم الزيبق إلا بها ولا تقوم هي إلا بعد التعليق
+بالأجساد ولا يقدر على ذلك إلا بمزاوجة ولا تكون مزاوجة إلا بعد التحليل ولا يكون التحليل إلا
+بالمياه الحارة التي تجعله في حال الكون لا في حال الفساد * واعلم أنهما صفتان إحداهما يقال لها
+الصبغة الحمراء والأخرى الصفة البيضاء الأولى للذهب والثانية للفضة وخلطت مغنيسياهم من
+ثلاثة أحجار روح وجسماني أنثى تحلل بعلان والزيبق الغربي هو الأنثى وطبعها بارد رطب وهي
+تحلل نار الزيبق الشرقي الحارة وهو يضعفها لأنه قد تقدم إذا دخل الزيبق الشرقي الحارة والغربي
+صبغة ومعنى المغنيسيا أم للمركب إذا اجتمع الجسد والروح والنفس وهو الزيبق الذي يعرف
+وعنوانه الخلط وقيل هو الرصاص وأن النفس شكله فيها وهي المرأة الرخيصة ثلاثة أشياء السواد
+والبياض والحمرة وقيل أربعة أشياء الرطوبة وسرعة الإذابة واليبس لأنها كبريت وهي
+تحترق وفيها الرطوبة لأنها تطفئ الحرارة والذكر وتقول أعزل الرطوبة التي في الأرض وهي
+التي ترك فيها بقية الدم الخارج عنها وهي الكباريت المحرقة التي غرض الحكماء إزالتها فإذا
+انعزلت عنها ذهبت بقيت فأمها وما أرادت الحكماء ما شرحت لك أن المعادن كلها
+على اختلاف أجسامها إذا درت بالهواء عادت سموما لا بد أن الحيوان قتالة لاشتعالها وحجرها
+المبارك إذا درت أجزاؤه بالنار كان شفاء لما أتت جزء منها بما يختصه ثم إذا اجتمعت
+الأجزاء المباركة وتم الإكسير منها كان ترياقاً شافياً من كل داء يتصرف به في معان كثيرة
+من الطب حتى قال جابر بن حيان في بعض كتبه أني سقيت منها امرأة أصابها الذبول وهي حمى
+الدق حتى نفذ اليبس والحرارة رطوبة عليها ورد حرارتها وردها إلى الاعتدال فأقبلت عليها
+شهواتها وقبلت الأعضاء رطوبة الغذاء الواصل إليها فلم يمر بها إلا زمن يسير حتى عوفيت
+وسمنت وقبلت وكانت تقصد في كل عام لغير الدم فأقصدت بعد ذلك لأن زيبق المعدن إذا دبر
+بالنار تدبير الإكسير كان وزن القيراط منه يفتح الجبال بخاني منه وأما قولهم سقطوا المركب
+المر حتى يسكر فإنما يعنون به إدخال الصبغ على الأرض البيضاء وربما أدخلوا عليها النار
+والكبريت وماء الكبريت وماء الذهب وماء عود الديك والقروح والذهب والشمس وهم
+يعنون إدخال الصبغ على الأرض فإذا اجتمع هذا الماء بالأرض والصبغ فقد اجتمعت فيها
+الكباريت لا يبق وهو الوجه الثاني من معادنهم وقد يسمون هذه الأجزاء فيه بالكبريت الأحمر
+ويعنون الإكسير والذي يدهش في الطلب أمران أمر المدة وهي مدة التدبير وأمر الإلقاء
+للإكسير على الجسد فأما المدة فأكثروا الاختلاف فيها فهي ثلاثة أشهر يبقى منها أيام البطالة
+ويبقى ماء الملك هو التوفير والنقص وكما قال جابر الطالب المجرب إذا فهم المقصود اختصر العمل
+من غير فساد وإنما قلت ذلك لتعلم أنه مختصر ويقرب صورته كما إذا أخذت لحماً وقطعته قطعاً
+كباراً
+
+**English:**
+- 384 -
+
+Hot and moist, and its power became strong; it acts in the remaining earth after its خروج and the elemental light by it; it is that which serves it, and the natural fire is that which destroys it, and it is the النفس. And it was said: the fire which the النفس bestows, and the other fire is the spirit which takes the dye from the putrefaction, and the mingling of spirits with oils; and the oil is the زيبق, and the oils are upon the opposing الكباريت to the زيبق, and the زيبق does not stand except by them, and they do not stand except after suspension with bodies, and that is not possible except by pairing, and pairing does not occur except after dissolution, and dissolution does not occur except by hot waters which make it in the state of being, not in the state of corruption. * And know that they are two qualities: one of them is called the red dye, and the other the white quality; the first for gold and the second for silver. And their magnesia was mixed from three stones, spirit and corporeal, female, dissolved by declaration, and the western زيبق is the female, and its nature is cold and moist, and it dissolves the fire of the eastern hot زيبق, and it weakens it because it has preceded: if the eastern hot زيبق and the western dye enter. And the meaning of magnesia is the mother of the compound when body, spirit, and النفس come together, and it is the زيبق which is known, and its title is mixing. And it was said: it is lead, and that the النفس is its form within it, and it is the cheap woman. Three things: blackness, whiteness, and redness. And it was said: four things: moisture, quickness of dissolution, and dryness, because it is sulfur, and it burns, and in it is moisture because it extinguishes heat, and the male. And you say: isolate the moisture that is in the earth, and it is that in which the remainder of the blood that came out of it was left, and they are the burning الكباريت which the sages intended to remove. So if it is isolated from them, what remained of it went away, and its mother. And what the sages intended is not what I explained to you: that all metals, with the difference of their bodies, if they are circulated by air, return poisons; it is necessary that the animal is deadly because of their ignition, and its blessed stone, if its parts are circulated by fire, is a cure for what came to it, each part with what is specific to it. Then when the blessed parts come together and the elixir is completed from them, it becomes an antidote healing from every disease, by which many meanings of medicine are managed, until Jābir ibn Ḥayyān said in some of his books: I gave to drink from it to a woman afflicted by emaciation, and it is fever of consumption, until dryness and heat were exhausted, moisture upon her, and its heat returned and returned her to moderation, so her desires turned toward her, and the organs accepted the moisture of the nourishment reaching them, and there did not pass over her except a short time until she was cured and fattened and accepted, and she used to be intended every year for other than blood, so she was intended after that, because the mineral زيبق, if it is managed by fire, the management of the elixir, then the weight of a qīrāṭ of it opens mountains with my smoke from it. And as for their saying: “They dropped the bitter compound until it intoxicates,” they only mean by it the introduction of the dye upon the white earth, and perhaps they introduced upon it fire and sulfur and sulfur water and gold water and water of cockscomb and sores and gold and the sun, and they mean the introduction of the dye upon the earth. So when this water is joined with the earth and the dye, then the الكباريت have come together in it, it does not remain, and it is the second aspect of their minerals. And they may call these parts in it the red sulfur, and they mean the elixir. And what astonishes in the seeking are two matters: the matter of the duration, and it is the duration of the management, and the matter of casting the elixir upon the body. As for the duration, they differed greatly about it; it is three months, from which remain the days of idleness, and the water of the king remains, which is the provision and the deficiency. And as Jābir said: the experienced seeker, if he understands the intended meaning, shortens the work without فساد. I only said that so that you may know that it is abbreviated and its form is brought near, as if you took meat and cut it into large pieces
+
+---
+## Page 391
+
+**Arabic (original):**
+- ٣٨٥ -
+
+كباراً وطبخته نار لينة فإنه لا يستوي في مدة قليلة وإذا أخذت من ذلك اللحم ودققته وأرسلت
+عليه الماء الحار وطبخته بنار شديدة فإنه ينضج في مدة أقل من تلك المدة على أن الأمر ليس في
+المعادن لأنها خشفة صلبة لزجة عسيرة الانفصال للاخلاصة وأما الإلقاء فقد اختلفوا فيه ورموز
+وأقول لك عبارة تقر بها وهو أن طَبْخَكَ إذا صبرت عليه كان فيه السر ويصح طبخه كالمولود الذي
+استكمل أبوه إلقاء منيه في رحم أمه ووافق أمه اعتدال طبع واستكملت مدة حمله حتى كملت
+أعضاؤه وقواه وكمات الرضاعة وكل خلقه كان فعله على أتم ما هو ويسمى إنساناً وكذلك الإكسير إذا
+وفى حقه من جميع تدبيره كان أكمل ما يكون فيكون جزء منه على ألف ألف من الفضة الخالصة
+يقلبها ذهباً إبريزاً وإذا زُوِّج دخل النقص بسبب نقصان ما ينقص منه وتزويجه أصعب من كثير
+من تدبير ولذلك وقع الخطأ مراراً في الاختصار والتزويج ولا يقع في التدبير الطويل
+ولذلك حددته الحكماء هو طريقهم مع ما فيه من كثرة الطرح إذا كان مزوجاً يختلف جداً
+وهو غير محدود ولا يخفى إذا أربت ذلك اجتهد في جميع الأجزاء المباركة فإن جمعها صعب وليس في
+الصنعة أصعب منه ولا يكون ذلك إلا بمجموع خلتين أحدهما الأوزان وقد رموزها والله ما جلاها
+إلا حكيم ما هو مثلهم أو من شاهدها بعينه مراراً والثانية كيف تدخل الأوزان لأنه لا ينبغي أن
+يتقدم جزء ولا يتأخر جزء إلا إذا وقت إدخال الزيبق الذي هو ماؤهم ولا يستقيم إدخال النار
+الذي هو كبريتهم وهو الصبغ وإذا كان وقت إدخال الكبريت وهم أيضاً قد خلطوا في هذا الموضع
+وذلك أنهم يحتاجون من الماء ما يحتاجون من النار في هذا الموضع خاصة فيجعلون ما انحل الصبغ
+فيه من الماء كله مصفى ويستأنفون ماء آخر مثل ماء الوزن الأبيض لوزن ثم يعاودونها على
+أرضهم البيضاء بتدبير [محكم] واعلم أن التدبير الملوكي لا يصح إلا لملوك لسهولته وقوته وسرعة
+علمه وجودة صنعه فلا تحملنَّك سهولته على أن تفشيه لأهلك أو ولدك البار فضلاً عما سواهم
+وبالله العظيم إن خالفتني تندم وها أنا أصف لك مسألة من قال أن الحجر هو البيضة وذكرها وزعم
+صحتها وأما أنا فلم آخذ في تجربتها مع أن قائلها صادق وهو أن تأخذ قشور البيض وتغسلها بالماء
+السخن وتغلي فيه حتى ينقى من الوسخ وتنزع منه القشرة الداخلة في قلبها حتى لا يبقى فيها شيء منها
+ثم جففها وادرسها حتى تصير دقيقاً ثم ضعها في قدرة جديدة وتجعل على فمها غطاء توصله بطين
+الحكمة وصلاحكم وتضعها في فرن الزجاج سبعة أيام حتى تتكلس وتصير في قوام الودك
+فهذا هو كلس البيض وصفة عمله أن تأخذ مائة بيضة أو أقل أو أكثر وتأخذ صفيحة حديد من حفة
+أو حفة مزحجة وتأخذ تلك البيض وتغسله جيداً وتجففه وتوضع في تلك الحفة موقوفة
+على أطرافها واحدة إلى جنب الأخرى حتى يعمل فرشة منها ثم أخرى كذلك عليها حتى يتم البيض
+وأطرافه كلها معكوسة إلى أسفل ثقباً صغيراً ليقطر منه عرق ذلك بعد أن حفر في الأرض حفرة
+وتضع في قلبها قابلة تلقب ما ينزل من ماء البيض وعرقه ثم ضع عليها إناء البيض المذكر وتضع
+على الإناء مقلى فخار وتجعل على المقلى شيئاً من التراب عليها وتوضع على الأتراب بعض
+زبل الغنم أو البقر وتشعل فيه النار يوماً كاملاً فإنك تسمع للبيض تفرقعاً ودوياً ويعرق ويقطر
+
+**English:**
+- 385 -
+
+Large pieces, and if you cook it with a gentle fire it will not be done in a short time; and if you take from that meat and mince it, and pour hot water upon it and cook it with a strong fire, it will mature in a shorter time than that time. Yet the matter is not in the metals, because they are a hard, sticky, difficult-to-separate خشفة for the purification. As for the casting, they differed about it, and there are symbols. And I will say to you an expression by which you may be satisfied, and it is that your cooking, if you are patient over it, therein is the secret, and its cooking is valid like the newborn whose father has completed the casting of his semen into his mother’s womb, and his mother’s temperament agreed in moderation, and the period of his gestation was completed until his organs and powers were completed, and the weaning was completed, and all his creation was upon the most complete state it is, and he is called a human being. Likewise the elixir, if it fulfills its due from all its management, it is the most complete that can be, so that a part of it is upon a million times a million of pure silver, turning it into refined gold. And if it is paired, deficiency enters because of the deficiency of what is diminished from it, and its pairing is more difficult than much of the management; therefore error occurred repeatedly in abbreviation and pairing, and it does not occur in the long management. Therefore the sages limited it; it is their path, along with what is in it of much casting when it is paired, it differs greatly, and it is not limited. And it is not hidden: if you increase that, strive in all the blessed parts, for gathering them is difficult, and there is nothing in the craft more difficult than it, and that does not occur except by a مجموع of two qualities, one of them the weights, and they have been symbolized; by God, none disclosed them except a sage who is not like them, or one who witnessed them with his own eye repeatedly. And the second: how the weights are introduced, because it is not proper that a part precede or a part lag behind except when the time for introducing the زيبق, which is their water, has come, and the introduction of the fire, which is their sulfur, and it is the dye, does not proceed. And when it is the time for introducing the sulfur, they too have mixed in this place, and that is because they need from the water what they need from the fire in this place specifically, so they make all the water in which the dye has dissolved purified, and they begin another water like the white weight-water for weighing, then they return to it upon their white earth with [firm] management. And know that the royal management is valid only for kings, because of its ease, its power, the speed of its knowledge, and the excellence of its making. So let not its ease carry you to divulge it to your family or your righteous child, let alone others besides them. By the عظیم God, if you مخالفتني you will regret. And here I describe to you a question of one who said that the stone is the egg, and mentioned it and claimed its correctness. As for me, I did not take up its trial, although its speaker is truthful, and it is that you take the eggshells and wash them with hot water and boil them in it until it is cleansed of dirt, and remove from it the inner shell in its core so that nothing of it remains in it. Then dry it and grind it until it becomes flour, then put it in a new pot and place upon its mouth a lid which you join with the clay of wisdom and your righteousness, and place it in the glass furnace for seven days until it calcines and becomes in the consistency of tallow. This is the calcination of eggs, and the description of its making is that you take one hundred eggs or fewer or more, and take an iron plate from a ḥafah or a ḥafah مزحجة, and take those eggs and wash them well and dry them and place them in that ḥafah standing on their edges, one beside the other, so that a bed is made from them, then another likewise upon them until the eggs are complete, and all their edges are turned downward, a small hole so that its sweat may drip from it, after a hole has been dug in the earth. And you place in its core a receptacle called the mother, receiving what descends from the egg-water and its sweat. Then place upon it the vessel of the masculine egg, and place upon the vessel a pottery pan, and place upon the pan something of earth upon it, and place upon the earth some sheep or cow dung, and kindle fire in it for a whole day, and you will hear the eggs crackling and a roaring, and it sweats and drips
+
+---
+## Page 392
+
+**Arabic (original):**
+- ٣٨٦ —
+
+في ماء القابلة وقد نزل بها فاقطع النار عن البيض واتركه حتى يبرد ذلك الماء واحفظه من أن يخرج
+بخاره فإن أبخرته هي الروح فتفسده فإذا علمت أنه برد يطول المدة ساعة تأخذ ذلك الماء وضعه في
+زجاجة وتغطيه وتصونه من الريح والشمس والغبار وغير ذلك مما يجففه ثم تأخذ من الكلس
+الأول أوقية أو أكثر على قدر ما تريد ويكون ذلك الكلس من الربع وضعه في زجاجة وتصب
+عليه من الماء المقطر ثلاثة أرباع مثله أعني الكلس وتتركها سبعة أيام حتى تحتم فإذا تم ذلك تأخذ
+خرقة كتان جديدة رقيقة وتصب فيها ما في الزجاجة كذلك ولا يخرج معه شيء من طين الثقل ثم تأخذ أوقية
+من الكلس الأول وتجعل عليه نصف أوقية من ذلك الماء وإن احتمل أكثر فزده ويكون في
+زجاجة عرضها شبر غير ثلث وطولها شبر وثلث وارتفاع عنقها شبر غير ثلث ويكون لها غطاء زجاج
+ينكح في فم الزجاجة على صفة غطاء الحقة ثم تأخذ طين الحكمة وهو شعر مقرض بمقراض وفحم
+مسحوق وزبل الحديد أعني خبثه مثل الكحل وتضيف كل ذلك إلى الطين والشعر وتضرب
+بوزنة أو فهر حتى تختلط بعضه ببعض ويعود طينا لازباً بعد أن ترشه بالماء قدر ما تحتاج إليه ثم
+اصنع منه صفة مرمل ودوره مع فم الغطاء دوراً محكماً وألصقه ثم صفه في فم الزجاجة أعني الغطاء
+والطبق عليه الطين المذكور وزد عليه من خارج طيناً أبيض ثم تحكم لصقه لئلا يخرج منه
+البخار فيبطل عملك ولا تزال تلاحظ ذلك اللصق ومهما رأيت بخاراً يخرج اطمسه بالطين حتى
+ينعقد وينضغط بخاره وتراه يصعد إلى رأس الزجاجة يدور ويرجع إلى أرضه ولا تزال تلصق
+بلعابك فإنه بخار يبل الأصابع واليد والسر إنما هو في البخار فاحفظه من أن يرجع منه شيء ثم
+تأخذ هذه الزجاجة تضعها في قدر أو وعاء مغلقة من فيها أي فم القدرة والقدرة على الأثافي على
+الحديد أو حجر مثل الكانون ويكون في القدر ماء وتجعل الزجاجة المغلقة في ذلك الماء يغرق منها في
+الماء شبر وينزل الثلث من الطول مع العنق ظاهراً وخارجاً عن الماء وتجعل تحت القدر نار الحضان
+من الزبل وقد شعلتها بالنار واحفظ قوة النار لئلا تفسده وتيبسه ولا تزال ترقب خارج الزجاجة
+المغلقة في ذلك الماء وترى البخار يدور فإذا يبس ما في الزجاجة واسود فاقشر البياض وانزع النار
+من تحت واتركها حتى يبرد الماء الذي في القدر وافتح الزجاجة وصب عليها من الماء قدر ثلث
+الكلس وعاوده بالعمل حتى تراه يرجع مثل قوس المطر يتلون وأعد عليه العمل حتى يتلون
+بألوان مختلفة وتزيد عليه كل مرة من ذلك الماء قدر الثلث فإذا تم عملك خذ وزن درهم وألقه على
+ما شئت من الفضة إن أردت فضة أو على ذهب إن أردت ذهباً فإنه يتكلس خذ من الكلس
+ما شئت وألقه على أي معدن شئت بياضاً أو حمرة والمعادن مثل الرصاص والحديد والنحاس
+والقصدير يحصل ما تريد
+(صفة عمل آخر غير الأول دون الحجر يقال لها الحوافي) التي كانت الحكماء يعملونه للملوك ولا
+يصح إلا لهم لسهولته وهو ميزان الشمس كما ترى في الصحيفة الآتية
+
+وصفة
+
+**English:**
+- 386 —
+
+in the water of the midwife, and it has descended upon it. So cut the fire off from the eggs and leave it until that water cools, and guard it from the vapor coming out, for its vapors are the spirit and it corrupts it. So when you know that it has cooled, let the period be prolonged an hour, take that water and put it in a bottle and cover it and protect it from wind and sun and dust and other things that dry it. Then take from the first calcination an ounce or more according to what you want, and that calcination should be from the quarter, and put it in a bottle and pour upon it from distilled water three quarters of its like, I mean the calcination, and leave it seven days until it becomes firm. When that is complete, take a new thin linen cloth and pour into it what is in the bottle likewise, and nothing of the clay of heaviness will come out with it. Then take an ounce from the first calcination and put upon it half an ounce of that water, and if it can bear more then increase it. And it should be in a bottle whose width is a span less a third and whose length is a span and a third and the height of its neck a span less a third, and it should have a glass lid that is fitted into the mouth of the bottle in the manner of the lid of the box. Then take the clay of wisdom, which is hair cut with scissors, powdered charcoal, and iron dung, I mean its slag, like kohl, and add all that to the clay and the hair and pound with a weight or pestle until some of it mixes with some and it becomes a sticky clay after you sprinkle it with water as much as you need. Then make from it the form of a sand-seal and turn it around the mouth of the lid a firm turning and glue it, then set it in the mouth of the bottle, I mean the lid, and plaster over it the mentioned clay, and add to it from outside white clay, then firmly seal its adhesion so that the vapor does not come out of it and your work is ruined. And you continue to observe that sealing, and whenever you see vapor coming out, smother it with clay until it congeals and its vapor is compressed, and you see it rising to the head of the bottle, turning and returning to its earth. And you continue to seal with your saliva, for it is vapor that moistens the fingers and the hand, and the secret is only in the vapor, so guard it from anything returning from it. Then take this bottle and place it in a pot or vessel closed at its mouth, I mean the mouth of the pot, and the pot upon the tripods on iron or stone like the brazier, and there should be water in the pot, and place the closed bottle in that water so that a span of it is submerged in the water and a third descends from the length with the neck visible and outside the water. And place beneath the pot the fire of incubation from dung, and you have kindled it with fire, and guard the strength of the fire lest it corrupt it and dry it out. And you continue to watch the outside of the closed bottle in that water, and you see the vapor turning. So when what is in the bottle has dried and turned black, peel off the white and remove the fire from beneath and leave it until the water in the pot cools. Then open the bottle and pour upon it water equal to a third of the calcination, and repeat the work until you see it returning like a rainbow, changing color. And repeat the work upon it until it changes into different colors, and each time add to it from that water an amount equal to a third. So when your work is complete, take the weight of a dirham and cast it upon whatever silver you wish if you want silver, or upon gold if you want gold, for it calcines. Take from the calcination whatever you wish and cast it upon any metal you wish, whiteness or redness, and the metals such as lead, iron, copper, and tin will yield what you want.
+(Description of another work other than the first, without the stone, called al-Ḥawāfī), which the sages used to make for kings, and it is valid only for them because of its ease, and it is the balance of the sun, as you see in the following page.
+
+And a description
+
+---
+_End of translation — 392 pages._
