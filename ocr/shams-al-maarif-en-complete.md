@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 428 translated pages._
+_Auto-generated from 434 translated pages._
 
 ---
 ## Page 1
@@ -24574,4 +24574,375 @@ Know that هو is the form of the reality of certainty, inward and outward; it w
 and growth is magnified and good deeds are multiplied; this is in general. As for in detail, Allah made from the hidden gentleness of His what He deposited in the management of the world in the day, and He prepared and arranged it upon 12 hours: the secret of the day, and from it the secret of the night. Then He perfected, by His subtle wisdom, and made 3 hours the secret of summer, and 3 the secret of autumn, and 3 the secret of winter, and 3 the secret of spring. And this time is managed by it, and these letters, based upon tawhid, which are the result of the God of the god and the Self-Subsisting: there is no god except the Self-Subsisting. And indeed the human world is composed of movement and stillness, and it is necessary for their implication and the unveiling of their outward aspects. So He made for it the night for the existence of its secret and its return to the world of reality by the secret of action and sending forth and ascent for the spirits and the rising of the intellects and the stagnation of humanity under the kingdom of darkness. So He made the management of the night 12 hours, for every letter an hour. So when he says لا إله إلا الله, tawhid is not completed except by it, and its completion is محمد رسول الله, 12 letters, the completion of the circle of the day, and wisdom has been completed by the completion of mercy. So whoever says لا إله إلا الله محمد رسول الله with the condition we mentioned has been sincere in tawhid, and it is the best of what the prophets said, as in the noble hadith. And know that the 24 letters, in their correspondence, are 24 worlds, for every world a gathering in the alif, and the form of the letters has already preceded, and that this word was the reality of the upper and lower knowledge, and its relation in the possessors of the Throne was from their affair in it by the written form in white and green light, and they are the two lines expressed by the saying لا إله إلا الله محمد رسول الله. So these two lines written in light have faced the Throne and are in it. And it has been transmitted that when the servant says لا إله إلا الله, a pillar of light comes out from his mouth and ascends to beneath the Throne and glorifies until the Day of Resurrection. And this is a witness to infinity in the dominion and an ascent in the ملكوت and an ascent in the جبروت; nothing of the realities closes or stands before it. He تعالى said: To Him ascends the good word, and the righteous deed raises it. And it has been transmitted that whoever says لا إله إلا الله one thousand times every day in complete purity, Allah makes easy for him the means of provision at its cause. Likewise, whoever says it at his sleep one thousand times, his spirit spends the night beneath the Throne. And whoever says it at the morning of midday with the rising of the sun, the devil of his soul is weakened. And whoever says it when seeing the crescent is safe from illnesses and pains. And whoever says it with gathered resolve and sends it to a wrongdoer or tyrant, he perishes. And whoever says it the mentioned number when entering a city is safe from its trial. And whoever says it with the intention of learning to the rank of ascent, that is obtained for him. And it was narrated from him عليه السلام that he said: Whoever says لا إله إلا الله, it is forgiven for him. And from him also: whoever’s last words from the world are لا إله إلا الله. And whoever has an important need, let him adhere to seclusion and gather his heart, then say لا إله إلا الله وحده لا شريك له and seek what he intended of needs; it is fulfilled. And some of them said: whoever remembers it this number has purchased himself from Allah. And some of the verifiers said that the meaning of هل جزاء الإحسان إلا الإحسان is لا إله إلا الله, and that if the intellect is thanked, nothing is better in the remembrances than لا إله إلا الله, and that nearness is the knowledge of لا إله إلا الله. And عثمان بن عفان رضي الله عنه said: while I was sitting with the Prophet صلى الله عليه وسلم, and he had fixed his gaze toward him, behold, جبريل عليه السلام came to him and said: O Muhammad, Allah تعالى commands you with justice and beneficence and the testimony that there is no god except Allah. So whatever I heard him say, faith was planted in my heart, and this is justice. And he asked him about sincerity, and he said: undertaking servitude. And He تعالى said: O you who believe, fear Allah and be with the truthful, meaning the people of لا إله إلا الله. And it has been transmitted that all that Allah created of creation and taught them of all the sciences is لا إله إلا الله, and that the knowledge of the first and the last is folded within the saying لا إله إلا الله, and it has been transmitted that all that Allah created of creation and taught them of
 
 ---
-_End of translation — 428 pages._
+## Page 429
+
+**Arabic (original):**
+— ٤٢٣ —
+
+مِن جَمِيعِ العُلُومِ لَا إِلَهَ إِلَّا اللَّهُ لِأَنَّ عِلْمَ الأَوَّلِينَ وَالآخِرِينَ مَنطَوٍ فِي قَولِ لَا إِلَهَ إِلَّا اللَّهُ وَأَنَّ الأَنبِيَاءَ
+كُلَّهُم قَد حَازُوا إِظهَارَ كَلِمَةِ لَا إِلَهَ إِلَّا اللَّهُ وَقَالَ تَعَالَى لِنَبِيِّهِ فَاعلَم أَنَّهُ لَا إِلَهَ إِلَّا اللَّهُ وَاستَغفِر لِذَنبِكَ وَقَالَ
+عَلَيهِ السَّلَامُ أَفضَلُ الذِّكرِ لَا إِلَهَ إِلَّا اللَّهُ وَالدُّعَاءِ الحَمدُ لِلَّهِ وَأَنَّ جَمِيعَ الأَعمَالِ تَصعَدُ بِهَا المَلَائِكَةُ إِلَّا لَا إِلَهَ
+إِلَّا اللَّهُ فَإِنَّهَا تَصعَدُ بِنَفسِهَا وَقَالَ بَعضُ المُفَسِّرِينَ فِي مَعنَى قَولِهِ إِذَا الشَّمسُ كُوِّرَت وَإِذَا النُّجُومُ
+انكَدَرَت أَي يَومَ القِيَامَةِ تَتَجَلَّى كَلِمَةُ لَا إِلَهَ إِلَّا اللَّهُ عَلَى مَن كَانَت آخِرَ كَلَامِهِ وَمِفتَاحُ الجَنَّةِ لَا إِلَهَ إِلَّا اللَّهُ
+وَاعلَم أَنَّ جَمِيعَ الأَعمَالِ وَالطَّاعَاتِ يَومَ القِيَامَةِ تَتَلَاشَى إِلَّا التَّسبِيحَ وَشَهَادَةَ أَن لَا إِلَهَ إِلَّا اللَّهُ فَإِنَّهَا
+تَصعَدُ بِحَامِلِهَا إِلَى النُّورِ الخَالِصِ حَتَّى تُشرِقَ عَلَيهِ الأَنوارُ فِي المَحشَرِ وَأَنَّ العِبَادَاتِ فِي آخِرِ الزَّمَانِ
+تَصِيرُ عَادَاتٍ وَلَا تُقبَلُ إِلَّا بِقَولِ لَا إِلَهَ إِلَّا اللَّهُ وَكَانَ يُونُسُ عَلَيهِ السَّلَامُ يَذكُرُهَا فِي بَطنِ الحُوتِ وَاعلَم
+أَنَّ كُلَّ طَاعَةٍ لِلعَبدِ تَرِدُ فِيهَا المَلَائِكَةُ إِلَّا كَلِمَةَ لَا إِلَهَ إِلَّا اللَّهُ فَإِنَّهَا تَخرُجُ مِن نَفسِ الشَّخصِ كَأَنَّهَا نُورٌ قَائِمٌ
+وَتَصعَدُ بِنَفسِهَا وَلَهَا زَجَلٌ بِالتَّسبِيحِ وَلَو شَرَعنَا فِي فَضلِهَا وَنَوَائِبِ ذِكرِهَا لَطَالَ عَلَينَا المَقَالُ وَخَرَجَ عَن
+حَدِّ الإِطنَابِ أَقُولُ وَمَن كَانَت لَهُ حَاجَةٌ عِندَ اللَّهِ تَعَالَى فَليَجلِس فِي مَكَانٍ خَالٍ ثُمَّ يَبتَدِئُ بِتِلَاوَةِ الذِّكرِ
+وَهُوَ قَولُ لَا إِلَهَ إِلَّا اللَّهُ سَبعِينَ أَلفَ مَرَّةٍ فَإِنَّهُ مَا يَقُومُ مِن مَقَامِهِ إِلَّا وَحَاجَتُهُ قُضِيَت فَاعلَم ذَلِكَ
+(فَصلٌ) وَلَامُ الجَلَالَةِ تَنقَسِمُ آخِرَ وَهُوَ إِذَا أَتَيتَ بِاسمِ الذَّاتِ وَرَقَّتَهُ فَإِنَّهُ يَنطِقُ بِاسمِ الأُلُوهِيَّةِ مِثَالُ
+ذَلِكَ لَو حَذَفتَ اللَّامَ وَجَمَعتَهُ نَطَقَ بِاسمِ إِلَه وَإِن حَذَفتَ الأَلِفَ وَاللَّامَ نَطَقَ بِاسمِ آه وَإِذَا أَسقَطتَ اللَّامَ وَالهَاءَ
+نَطَقَ بِاسمِ عَظِيمٍ مَرِيَانَ وَهُوَ ال وَإِذَا استَنطَقتَ الأَلِفَ وَاللَّامَينِ وَنَطَقَ حَرفٌ بِاسمِهِ هُوَ وَهُوَ امَم
+نَاطِقٌ مِن اِسمِ الذَّاتِ وَجَامِعٌ إِلَى جَمِيعِ الأَسماءِ مُتَعَلِّقَةٌ بِهِ وَجَمِيعُ الأَسماءِ إِذَا فَكَكتَهَا لَم تَنطِق بِهَذَا
+المَعنَى الأَهوَا إِذَا فَكَكتَهُ نَطَقَ إِذَا كَرَنَاهُ وَسَبَبُ تَسمِيَتِهِ الجَامِعِ أَنَّهُ جَامِعٌ لِلأَسرَارِ فَمَن ذَلِكَ إِذَا قُلتَ
+يَا رَحمَنُ يَا رَحِيمُ يَا اللَّهُ أَعِنِّي وَارحَمنِي اللَّهُ وَإِذَا قُلتَ يَا غَفَّارُ يَا اللَّهُ أَعِنِّي وَاغفِر لِي يَا اللَّهُ وَإِذَا كُنتَ فِي
+ضِيقٍ فَقُل فَرَجٌ عَنِّي يَا اللَّهُ وَلِذَلِكَ نِسبَتُهُ فِي جَمِيعِ الأَسماءِ مَا يَلفِظُ الإِنسَانُ بِاسمٍ مِنَ الأَسماءِ إِلَّا وَهُوَ
+مُتَعَلِّقٌ بِاسمِ الذَّاتِ فِي جَمِيعِ الأَسماءِ وَتَعَلُّقُهَا مِنهُ بِهَذَا المَعنَى فَافْهَم
+(فَصلٌ) وَمِن خَوَاصِّ هَذَا الاِسمِ الشَّرِيفِ لِشِفَاءِ الأَسقَامِ وَالأَمراضِ أَن يَكتُبَ هَذَا الاِسمَ عَدَدَهُ
+وَهُوَ ٦٦ مَرَّةً وَيَمحُوهُ وَيَشرَبُهُ لِلإِعَافَةِ اللَّهِ تَعَالَى وَيُكتَبُ أَيضًا هَذَا الاِسمُ العَظِيمُ لِجَمِيعِ المُصَابِينَ
+وَيُمحَى وَيُشرَبُ وَإِن أَرَدتَ حَبسَ جِنٍّ فَاكتُب حُرُوفَهُ فِي أَصَابِعِهِ فَإِنَّهُ يَنحَبِسُ وَإِن أَرَدتَ حَرقَ
+جِنٍّ فَاكتُبِ اسمَ الجَلَالَةِ حُرُوفًا فِي خِرْقَةٍ زَرقَاءَ وَاحرِق طَرَفَهَا وَشَمِّمهُ فَإِن أَرَدتَ حَرقَهُ وَقَتلَهُ أَو
+نَطَقَهُ فَافعَل وَإِذَا كَتَبَ مَرِيعَ هَذَا الاِسمِ فِي خَاتَمٍ مِن ذَهَبٍ يَومَ الأَحَدِ وَالطَّالِعُ الحَمَلُ وَلَازَمَ عَلَى
+ذِكرِهِ عَدَدَهُ فَإِنَّ اللَّهَ تَعَالَى يَرفَعُ قَدرَهُ بَينَ الخَلَائِقِ أَجمَعِينَ وَإِذَا كَتَبَ يَومَ الاِثنَينِ عَلَى فِضَّةٍ بَيضَاءَ
+وَلَازَمَ عَلَيهِ الشَّخصُ فَإِنَّ اللَّهَ تَعَالَى يَرفَعُ قَدرَهُ وَيُعلَى ذِكرُهُ وَقَد قَالَ صَلَّى اللَّهُ عَلَيهِ وَسَلَّمَ إِذَا قَالَ
+المُؤمِنُ اللَّهُ يَقُولُ اللَّهُ تَعَالَى لَبَّيكَ عَبدِي أَنَا اللَّهُ فَاحَاجَتُكَ وَاللَّهُ أَعلَمُ أَنَّ لَا يَعلَمُ كُنهَ عَظَمَةِ اللَّهِ تَعَالَى الأَهوُ وَهُوَ
+رَبُّ الكُلِّ وَهُوَ بِكُلِّ شَيءٍ عَلِيمٌ حَقِيقَةً لِمَا ثَبَتَ قَدَمُهُ بِلَا ابتِدَاءٍ وَبَقَاؤُهُ بِلَا انقِضَاءِ وَوَحدَانِيَّةٌ لَا عَن
+عَدَدٍ وَصِفَاتِهِ خَارِجَةٌ عَن صِفَاتِ المَخلُوقِينَ وَجَبَ أَن لَا يَبلُغَ كُنهَ وَصفِهِ الوَاصِفُونَ وَلَو كَانَ كَذَلِكَ لَظَهَرَ
+حَدٌّ وَمِثَالٌ وَذَلِكَ مُحَالٌ وَاعلَم أَنَّ الإِمَامَ الخُوَارِزمِيَّ قَالَ قَد هَتَفَ قَلبِي لِمَعرِفَةِ اسمِ اللَّهِ فَسِر بِي طَلَبِهِ
+
+**English:**
+— 423 —
+
+Among all the sciences: there is no god but Allah, because the knowledge of the first and the last is folded within the saying of there is no god but Allah, and that the prophets
+all of them have indeed attained the manifestation of the word there is no god but Allah; and the Exalted said to His Prophet: so know that there is no god but Allah, and seek forgiveness for your sin; and he said,
+peace be upon him, the best of remembrance is there is no god but Allah, and of supplication, praise be to Allah; and that all deeds are raised by the angels except there is no god
+but Allah, for it ascends by itself; and some of the commentators said in the meaning of His saying: When the sun is folded up and when the stars
+are darkened, that is, on the Day of Resurrection the word there is no god but Allah will be manifested upon whoever whose last speech it was, and the key of Paradise is there is no god but Allah.
+And know that all deeds and acts of obedience on the Day of Resurrection vanish except glorification and the testimony that there is no god but Allah, for it
+raises its bearer to the pure light until the lights shine upon him in the gathering-place; and that acts of worship in the end of time
+become customs and are not accepted except by the saying of there is no god but Allah; and Yunus, peace be upon him, used to remember it in the belly of the fish. And know
+that every act of obedience of the servant, the angels descend therein except the word there is no god but Allah, for it comes out from the soul of the person as though it were a standing light
+and ascends by itself, and it has a chant with glorification. And if we were to begin on its virtue and the consequences of its remembrance, the speech would be prolonged for us and would go beyond
+the limit of prolixity. I say: and whoever has a need with Allah, the Exalted, let him sit in an empty place, then begin with the recitation of the remembrance,
+and it is the saying of there is no god but Allah seventy thousand times, for he does not rise from his sitting-place except that his need has been fulfilled, so know that.
+(Section) And the Lam of Majesty is divided into the end, and it is that when you come with the name of the Essence and its subtlety, then it pronounces the name of Divinity. An example
+of that: if you omit the Lam and join it, it pronounces the name Ilah; and if you omit the Alif and the Lam, it pronounces the name Ah; and if you drop the Lam and the Ha,
+it pronounces the name of عظيماً مريان, and it is al; and if you make the Alif and the two Lams speak, and a letter pronounces by its name, it is Hu, and it is أمم
+speaking from the name of the Essence, and gathering to all the names, attached to it; and all the names, if you separate them, do not pronounce with this
+meaning. The هوا, if you separate it, it pronounces if we have honored it. And the reason for its being named the Gatherer is that it gathers the secrets. From that, if you say:
+O Merciful, O Compassionate, O Allah, help me and have mercy on me, Allah; and if you say: O Forgiver, O Allah, help me and forgive me, O Allah; and if you are in
+distress, then say: relief from me, O Allah. And for that reason its relation in all the names: whenever a human utters a name from the names, it is
+connected to the name of the Essence in all the names, and their connection from it is with this meaning, so understand.
+(Section) And among the properties of this noble name for the healing of ailments and diseases is that this name be written its number,
+and it is 66 times, and it be erased and drunk for the recovery of Allah, the Exalted. And this عظیم name is also written for all the afflicted,
+and it is erased and drunk. And if you desire to imprison a jinn, then write its letters on his fingers, for he will be imprisoned. And if you desire to burn
+a jinn, then write the name of Majesty in letters on a blue rag, and burn its edge and fumigate it; and if you desire to burn it and kill it or
+make it speak, then do. And if one writes the splendor of this name in a signet ring of gold on Sunday, and the ascendant is Aries, and persists upon
+its remembrance its number, then Allah, the Exalted, raises his rank among all creatures. And if he writes on Monday on white silver
+and the person persists upon it, then Allah, the Exalted, raises his rank and his mention is exalted. And he, may Allah bless him and grant him peace, said: if the believer says
+Allah, Allah, the Exalted says: Here I am, My servant, I am Allah, so ask your need. And Allah knows best that none knows the essence of the عظمت of Allah, the Exalted, except the هو,
+and He is the Lord of all, and He is, of every thing, Knowing in truth, because His foot is established without beginning, and His remaining without end, and a oneness not from
+number, and His attributes are outside the attributes of the created beings. It is necessary that the describers do not reach the essence of His description, and if it were so, then a
+limit and an example would appear, and that is impossible. And know that Imam al-Khwarizmi said: my heart has cried out for the knowledge of the name of Allah, so lead me in its seeking.
+
+---
+## Page 430
+
+**Arabic (original):**
+— ٤٢٤ —
+
+سنين إلى أن اجتمعت بشيخ كبير قدعي وهو من بلاد الصين وهم لطاف يعرفون علوم الهندسة
+ويشتغلون بالأسماء والرياضات فسألته عنه فقال يابني إن أسماء الله تعالى كلها عظيمة فقلت نعم ياسيدي
+إنما أريد معرفة الاسم الجامع الذي فيه الأربع طبائع فنظر إلي وقال هل اطلعت على الأسماء
+المخزونة مثل أقوفة لعام بن أعور أو أقوفة موسى وبعض الأسماء المسلسلة وهي موضوعة في فصل
+نوع من السيميات فقلت له نعم ياسيدي فقال لي ادن مني فوالله ما قدم على قادم مثلك. قال لي اعلم أن
+الاسم الأعظم المكنون هو الذي ينطق به كل أحد وكان مكتوباً على عصا موسى عليه
+السلام وكان يدعو به وهو اسم الذات وفيه حروف الأربع طبائع وجملة حروفه ١٢ فاعلم ذلك
+وسأريك دائرة هذا الاسم وما خرج معه من الأسماء ثم إن الشيخ أخرج صدفاً فتحه واستخرج
+منه سقطاً مطويّاً وفتحه فإذا مكتوب فيه بقلم الحميري هذه الدائرة وفيها الأسماء فقلت أريد منك
+شرحاً فقال لي يابني أنا أخبرك بمعناها وقسمها المخصوص بها الذي يدعى به في أيام الأسبوع فنظرت
+فيها أشياء كثيرة لم أطلع عليها وكان عبد الله بن جندب أخبرني بها وقال لي يا أخي اعلم أن فضل هذا
+الاسم العظيم على سائر الأسماء كفضل ليلة القدر على سائر الليالي قال الخوارزمي فقبلت يد الشيخ
+ودعا لي وقال لي يابني إن معرفة الأسماء الحسنى سر مخزون من أسرار الله لا يعلمه إلا أهل الله
+والأفراد من الرجال ثم ناولني الدائرة فإذا فيها أمور عجيبة وهي سر من أسرار الله تعالى المخزونة
+فاعلم قدرها وصنها عن غير أهلها (وهذه صورتها)
+
+إسرافيل عزيز
+متكبر
+
+جبريل حي
+قيوم
+
+الدائرة المكنونة
+والجوهرة المصونة
+
+ميكائيل
+جليل جميل
+
+عزرائيل
+شديد منتقم
+
+قال فلما نقلتها سألته عن خواصها فقال لي اعلم أن لهذه الدائرة خواص عظيمة لا تحصى منها للدخول
+على الملوك والسلاطين ومن ولي أمر الأحكام تكتب الدائرة بمسك وزعفران وكافور في خرقة
+حرير أبيض وتبخر وتتلو عليها الأسماء وتحملها وتتوجه إليه فإنه يعطف عليك وسائر المخلوقات
+لا ينظر
+
+**English:**
+— 424 —
+
+years until I met with a great old shaykh, called, and he was from the lands of China, and they are gentle, knowing the sciences of engineering
+and occupied with the names and the Riyadat, so I asked him about it, and he said: O my son, all the names of Allah تعالى are عظيمة. So I said: Yes, my master,
+I only desire knowledge of the جامع name in which are the four natures. So he looked at me and said: Have you come upon the
+stored names, such as Aqwafah of La‘am ibn A‘war, or Aqwafah of Musa, and some of the serial names, and they are placed in the chapter
+of a kind of Simiya? So I said to him: Yes, my master. So he said to me: Come near to me, for by Allah no one like you has come forward to one who comes. He said to me: Know that the
+concealed greatest name is that which everyone pronounces, and it was written on the staff of Musa, peace be
+upon him, and he used to supplicate by it, and it is the name of the Essence, and in it are the letters of the four natures, and the total of its letters is 12, so know that.
+And I will show you the circle of this name and what came out with it of the names. Then the shaykh brought out a shell, opened it, and extracted
+from it a folded slip and opened it, and behold, written in it in the Himyari script was this circle, and in it were the names. So I said: I desire from you
+an explanation. So he said to me: O my son, I will inform you of its meaning and its special division by which it is invoked on the days of the week. So I looked
+in it at many things I had not come upon, and Abdullah ibn Jundab had informed me of them, and he said to me: O my brother, know that the virtue of this
+great name over the rest of the names is like the virtue of Laylat al-Qadr over the rest of the nights. Al-Khwarizmi said: So I kissed the hand of the shaykh
+and he prayed for me and said to me: O my son, the knowledge of the beautiful names is a stored secret from the secrets of Allah, none knows it except the people of Allah
+and the singular ones among men. Then he handed me the circle, and behold, in it were wondrous matters, and it is a secret from the stored secrets of Allah تعالى.
+So know its worth and guard it from other than its people. (And this is its form)
+
+Israfil: Mighty
+Proud
+
+Jibril: Living
+Self-Subsisting
+
+The concealed circle
+and the preserved jewel
+
+Mika'il
+Majestic Beautiful
+
+Azra'il
+Severe Avenger
+
+He said: Then when I copied it, I asked him about its properties, and he said to me: Know that for this circle there are great properties not counted, among them for entering
+upon kings and sultans and whoever is entrusted with the matter of judgments: the circle is written with musk and saffron and camphor in a rag
+of white silk, and it is fumigated, and the names are recited over it, and you carry it and turn toward him, for he will incline toward you, and the rest of the creatures
+do not look
+
+---
+## Page 431
+
+**Arabic (original):**
+— ٤٢٥ —
+لا ينظر إليه أحد إلا هابه واحترمه، ومن حملها على طهارة كاملة ألقى الله محبته في قلوب خلقه، وإذا
+كتب في رق غزال بماء ورد وزعفران وحملتها المرأة وهي تطلق سهل عليها الوضع، وإذا حلها بصرع
+أو مصاب أو ضيف عافاه الله، وإذا علقت على أصحاب الرياح السوداء يبرأ [بها]، وإذا كتب في جام
+زجاج بماء ورد وزعفران ومحاها وشربها صاحب الأسقام عوفي، وتكتب يوم السبت وتحمل للمحبة
+والقبول وإبراء الأسقام والبركة وجلب الزبون، وحجاب للمصاب تكتب في رق غزال في ساعة سعيدة،
+وكان عيسى عليه السلام يحيي بها الموتى، وهذه الدائرة خلوة عظيمة، وهو أن يدخلها ويكتب الدائرة
+ويضعها في صدر المصلى، ثم ابتدئ بالذكر القائم بها حتى يغلب عليك الحال وأنت تتلو الدعوة، فإنه
+يدخل عليك ٧ أشخاص يسلمون عليك وهم خدام الملوك العلوية، ويقولون لك: أيها الرجل الصالح
+نحن ممتثلون أمرك في كل ما تريد، فتقسم على صاحب اليوم ووكله بالعمل، وهذه الأسماء التي تتلوها
+عند الخلوة: بسم الله الرحمن الرحيم، اللهم إني أسألك بما سألك به جبريل عند عرشك العظيم أن تسخر لي
+ملائكتك الكرام خدام هذه الأسماء، اللهم سخر لي كسفيائيل ودردائيل وشمخائيل
+وطوطيائيل وروفياييل وسمعياييل وطغياييل وجبرائيل وميكاييل وسمسائيل وصرفيائيل، أجيبوا
+أيتها الملوك والرؤساء وأعينوني على قضاء حوائجي بحق ما تعلمون من عظيم سر الله، وبحق هذا الاسم
+العظيم الأعظم الله الله الله بعلمك وقدرتك على الخلائق، وباسمك العظيم الكبير المتعال الله الله الله
+الاسم الذي فضلته على سائر الأسماء، أسألك أن تسخر لي هذه الأرواح وأن يأتوني في نومي أو يقظتي،
+إنك على كل شيء قدير يا الله ٣، وتذكر الاسم الجامع بعد اسم كل ملك ٣ مرات، وأما التقرب
+إلى الله بهذا الاسم مفرداً ٦٦ مرة دبر كل صلاة من غير خلوة، وفي الخلوة العدد المذكور مضروباً
+في نفسه تكون الجملة ٤٣٥٦، فإذا تم ذلك جاءك وهو يرعد واسمه كهيال يقضي حاجتك، وهذا خاتمه،
+وصفة الخلوة تدخلها وتتلو الاسم دبر كل صلاة ٦٦ يوماً، ومدة
+المكث في الخلوة ٦٦ وتسمى خلوة الصمدانية، وتمامها ٧٠ يوماً، فينزل
+عليك الملك ويحكم على ٦٦ صفاً من الملائكة مطيعين لأمره، ومن خواصه
+تكتب في خاتم ذهب يوم الأحد وحوله اسم الخادم وادخل الخلوة، التلاوة دبر كل
+صلاة العدد الخارج من ضربه في نفسه، فإن الملك كهيال يضع التاج على رأسه
+ويخر ساجداً لله، وفي أثناء سجوده ٢٥١ ايل ٢ اللهم ٣ أنت تعلم، فيقول الله تعالى:
+اقضوا حاجة عبدي، فيأتي الخادم، فعند ذلك يكشف الله عن بصر التالي ويرى الأنوار تخرج من فيه
+عند التلاوة ويتمكن من التصريف، وإن نظر لظالم نظر جلاله هلك في الحال، ثم يصرف الخادم
+ويقول له: أجاب الله دعاءك، فإنه يذهب ويبقى ما طلبه حضر، وتنال رتبة الأبدال، وإن أردت القبول
+اكتب هذا المثلث على خاتم فضة يوم الاثنين وبخره ببخور طيب ثم ضعه في يدك واكتب حوله اسم:
+
+| ٩ | ٢٢ | ١٩ |
+| ٢٠ | ١٥ | ٢١ |
+| ١٤ | ١٧ | ٢٤ |
+| ٢٢ | ١٢ | ١٨ |
+
+**English:**
+— 425 —
+No one looks at him except that he fears him and respects him. And whoever carries it in complete purity, Allah casts his love into the hearts of His creatures. And if
+it is written on gazelle parchment with rose water and saffron and a woman carries it while she is in labor, delivery is made easy for her. And if it is untied for one afflicted by seizure
+or a stricken person or a guest, Allah grants him well-being. And if it is hung upon those of black winds, he is cured [by it]. And if it is written in a glass
+bowl with rose water and saffron and erased and drunk by the one with ailments, he is healed. It is written on Saturday and carried for love
+and acceptance and healing of ailments and blessing and bringing the customer, and a veil for the afflicted: it is written on gazelle parchment in a fortunate hour.
+And Jesus, peace be upon him, used to bring the dead to life by it. And this circle is a great seclusion, and it is that he enters it and writes the circle
+and places it in the chest of the prayer-place, then begins with the remembrance قائم by it until the state overcomes you while you recite the invocation, for
+7 persons enter upon you, greeting you, and they are the servants of the lofty kings, and they say to you: O righteous man,
+we are complying with your command in all that you desire. So you adjure the master of the day and appoint him to the work. And these are the names that you recite
+during the seclusion: In the name of Allah, the Merciful, the Compassionate. O Allah, I ask You by that by which Gabriel asked You at Your mighty throne that You subdue for me
+Your noble angels, the servants of these names. O Allah, subdue for me Kasfiyail and Dardail and Shamkhail
+and Tutiyail and Rufiyail and Samiyail and Tughiyail and Jibra'il and Mika'il and Samsa'il and Sufriyail. Answer,
+O kings and chiefs, and aid me in the fulfillment of my needs by the right of what you know of the great secret of Allah, and by the right of this name,
+the great, the greatest: Allah Allah Allah, by Your knowledge and Your power over the creatures, and by Your great, great, exalted name: Allah Allah Allah,
+the name which You preferred over the rest of the names. I ask You to subdue for me these spirits and that they come to me in my sleep or my wakefulness.
+Indeed, You are over all things powerful, O Allah 3. And mention the جامع name after the name of every king 3 times. As for drawing near
+to Allah by this name alone 66 times after every prayer without seclusion, and in seclusion the mentioned number multiplied
+by itself, the total becomes 4356. If that is completed, he comes to you while thundering, and his name is Kahyal; he fulfills your need. And this is its seal.
+And the description of the seclusion: you enter it and recite the name after every prayer for 66 days, and the duration
+of staying in the seclusion is 66, and it is called the Samdaniyyah seclusion, and its completion is 70 days, then
+the king descends upon you and rules over 66 ranks of angels obedient to his command. And among its properties:
+it is written in a gold ring on Sunday, and around it the name of the servant, and enter the seclusion; the recitation after every
+prayer is the number resulting from multiplying it by itself, for the king Kahyal places the crown upon his head
+and falls prostrating to Allah. And during his prostration: 251 ail 2 O Allah 3 You know, then Allah تعالى says:
+Fulfill the need of My servant. Then the servant comes, and at that point Allah unveils the sight of the reciter and he sees the lights coming out of his mouth
+during the recitation and becomes able to dispose. And if he looks at an oppressor, the look of his majesty destroys him at once. Then he dismisses the servant
+and says to him: Allah has answered your supplication. Then he departs and what he sought remains present, and you attain the rank of the Abdal. And if you desire acceptance,
+write this triangle on a silver ring on Monday and fumigate it with pleasant incense, then place it in your hand and write around it a name:
+
+| 9 | 22 | 19 |
+| 20 | 15 | 21 |
+| 14 | 17 | 24 |
+| 22 | 12 | 18 |
+
+---
+## Page 432
+
+**Arabic (original):**
+— ٤٢٦ —
+
+الملك واحمله وهو هذا
+فاذا أردت محبة أحد أو عقد لسانه فاتل الاسم وقل أقسمت عليك أيها السيد كهيال الا
+ما أمرت أحد خدامك يحضر ويفعل كذا وكذا ومن كان اسمه موافقا لعدد الجلالة ارسم
+له الخاتم وأمره أن يتلو الاسم عدده ينال ما يريد وذكره القائم به البسملة اللهم إني أسألك بحق
+اسمك يا الله ٣ ياحي ياقيوم أحيي حياة طيبة أعيش بها على شاطئ بحر محبتك وألبسني مهابة
+عند العوالم العلوية وافتح عين قلبي وبصري بنورك حتى ينفتح قلبي لتلقي الأسرار وتنطق بمكنون
+جواهر وقايتك وأفض علي من بحر فيضك الأقدس وسهله علي حتى أصل الى ساحل اللطف وخذني
+أخذة لطيفة أجد حلاوتها أيام لقائك يا لطيف ٣ اللهم إني أسألك بتفرغ نسيم نفحات
+أسرارك وكشف سر اسمك الذي ألقيته لتلقي عطش أكباد واردى حوض برك وقاصدي سيوح
+سرك يا من له الاسم الأعظم وهو أعظم يامن لا له حد يعلم هو أعلم يا قديم أسألك بسر اسمك وبما
+جرى به قلمك وبما ألهمت به عيسى ابن مريم وبما ناجيت به موسى على طور سيناء وناديت بلسان
+القدرة أنا الله ايل ٢ الوهيم ايل ٢ وبحق ما أنزلته على نبيك محمد عليه السلام عجل بنجح مطالبي
+وتسهيل مآربي واكشف لي عن علم الملك والملكوت واجبر مرادي فما يرضيك من القضاء
+واكشف لي عن أرواح الملكوتيات المخفيات المستمدة من سر اسمك الجامع للأسماء والصفات الذي
+تسميت به في كل اللغات وسبحت لك كل المخلوقات يا الله ٣ ياحي ياقيوم يا نعم المولى ونعم النصير
+يا الله أسألك أن تسخر لي خادم هذا الاسم كهيال إنك على كل شيء قدير ما من عبد لازم على هذا
+الذكر إلا أوسع الله عليه ورفع قدره ورزقه الفهم وبسط له الرزق وفتح له الأسرار الخفية ومن كتبه
+وحمله كان له قبولا وحجابا من شر ما يخاف
+
+( فصل في اسمه تعالى الرحمن )
+مشتق من الرحمة وهي الرأفة والرحمة تستدعي مرحوما إذ كل مرحوم يحتاج الى راحم والراحم الرحمن
+وهو رحمن الدنيا والآخرة وهو الله والرحمن باطن الرحيم والرحمن ظاهر الألوهية والألوهية باطن
+الرحمن ولذلك قال تعالى قل ادعوا الله أو ادعوا الرحمن ولم نجعل من الأسماء الخصوصية أول الأطوار
+التركيبية فلذلك لا يسمى بهذا الاسم إلا الله والرحيم يطلق على غيره كما أطلقه في حق النبي عليه السلام
+في قوله للمؤمنين رؤوف رحيم والنبي مخلوق ويقال رحيم لمن غلت عليه الشفقة والرحمة لقوله عليه السلام
+إنما يرحم الله من عباده الرحماء واعلم أن سر الرحمن الرحيم لطيف جدا وهو أن البسملة مكتوبة على أنواع
+منها الباء التي هي متعلق القدرة إذ هي تجر الأسماء بأدائها وأولها وهي أول مراتب القدرة وهي أصل قائم
+للعالم الحسي بياء القدرة بقول القائل الحق على لسانه إن نطقت وفي علمت وفي أدركت وبي
+تمكث لقول الحق في يسمع ويبصر فالسين أصل الأسماء والأسماء ظاهرة الى الباطن والبطن
+القدرة كما أن الباء خلف السين لظهور القدرة في الآثار والمقيم عيان في المكان الحاصل للأسماء
+والمسميات باطن المكان الذي هو علم الملك والملكوت إذ هو ظهور المعاني والباء سر القدرة والقدرة
+من
+
+| ١٩ | ٢٦ | ٢١ |
+| ٢٤ | ٢٣ | ٢٠ |
+| ٢٣ | ١٨ | ٥٠ |
+
+**English:**
+— 426 —
+
+the king, and carry it, and it is this.
+So if you desire the love of someone or to bind his tongue, then recite the name and say: I have sworn upon you, O master Kheyal, that you command one of your servants to come and do such and such. And whoever’s name corresponds to the number of majesty, draw for him the seal and command him to recite the name its number; he will obtain what he desires. And its recitation by the one who carries it: the basmalah, O Allah, I ask You by the right of Your name, O Allah, 3, O Living, O Self-Subsisting, give life with a good life by which I may live on the shore of the sea of Your love, and clothe me with awe before the higher worlds, and open the eye of my heart and my sight with Your light until my heart opens to receiving the secrets and speaks with the hidden essences of Your protection, and pour upon me from the sea of Your most holy overflow, and make it easy for me until I reach the shore of gentleness, and take me with a gentle taking whose sweetness I find in the days of Your meeting, O Gentle, 3. O Allah, I ask You by the emptiness of the breeze of the wafts of Your secrets and the unveiling of the secret of Your name which You cast forth for the thirsty of livers and the watering of the basin of Your bounty and the seekers of the streams of Your secret, O You who has the Greatest Name, and it is greater, O You who has no limit, He knows, He is more knowing, O Ancient, I ask You by the secret of Your name and by that which Your قلم wrote, and by that with which You inspired Jesus son of Mary, and by that with which You conversed with Moses on Mount Sinai, and called with the tongue of power: I am Allah, El, 2, Elohim, El, 2, and by the right of what You sent down upon Your Prophet Muhammad, عليه السلام, hasten the success of my requests and the easing of my aims, and unveil to me the knowledge of the kingdom and the dominion, and compel my desire, whatever pleases You of decree, and unveil to me the spirits of the hidden kingdom-beings drawn from the secret of Your name that gathers the names and attributes, with which You named Yourself in every language, and all creatures glorified You, O Allah, 3, O Living, O Self-Subsisting, O نعم the Master and نعم the Helper. O Allah, I ask You to subjugate for me the servant of this name, Kheyal; indeed You are powerful over all things. There is no servant who persists upon this remembrance except that Allah expands for him, raises his rank, provides him understanding, broadens for him provision, and opens for him the hidden secrets; and whoever writes it and carries it, it will be for him a reception and a veil from the evil of what he fears.
+
+(Chapter on His تعالى name, al-Rahman)
+It is derived from mercy, and it is tenderness and mercy necessitate one shown mercy to, since every one shown mercy to needs one who shows mercy, and the one who shows mercy is al-Rahman. And He is the Rahman of this world and the Hereafter, and He is Allah, and al-Rahman is the inward of al-Rahim, and al-Rahman is the outward of divinity, and divinity is the inward of al-Rahman. Therefore He تعالى said: Say, call upon Allah or call upon al-Rahman. And we did not make from the special names the first of the compositional stages; therefore none is named by this name except Allah. And al-Rahim is applied to other than Him, as it was applied in the حق of the Prophet عليه السلام in His saying to the believers: compassionate, merciful. And the Prophet is created. And al-Rahim is said of one upon whom compassion and mercy have become intense, according to His saying عليه السلام: Allah only shows mercy to His servants who are merciful. And know that the secret of al-Rahman al-Rahim is very subtle, and it is that the basmalah is written upon kinds, among them the ba’, which is the object of power, since it draws the names by its utterance, and its first, and it is the first of the ranks of power, and it is a standing أصل for the sensory world by the ya’ of power, by the saying of the speaker: the truth upon his tongue, if you speak, and in I knew, and in I perceived, and by it you remain by the saying of the truth in He hears and sees. So the sin is the أصل of the names, and the names are manifest to the inward, and the inward is power, just as the ba’ is behind the sin for the manifestation of power in the آثار, and the standing is a visible presence in the place obtained for the names and the named things, the inward of the place which is the knowledge of the kingdom and the dominion, since it is the manifestation of meanings, and the ba’ is the secret of power, and power is from
+
+| 19 | 26 | 21 |
+| 24 | 23 | 20 |
+| 23 | 18 | 50 |
+
+---
+## Page 433
+
+**Arabic (original):**
+- ٤٢٧ -
+
+من اسمه القادر والاسم مشتق من السمو وهو العلو وهو مشتق من اسمه تعالى العلي والميم من
+الظروف الكونية والظرف هو المحيط الذي هو مشتق من اسمه تعالى المحيط فتقدمت بآثار
+القدرة ببسط المحل بأنوار العلي وتقسم باسمه العلي ليظهر اسمه المحيط وانبسطت هذه الأسماء الثلاثة
+في سر البسملة ليثبت المحل إلى الاسم الأعظم الذي هو الله ولما كانت القدرة صفة القادر الواحد كانت
+الألف إشارة للذات ولما كانت الباء إشارة للقدرة قابلت الألف وكانت الباء من سر الألف ولما كانت
+من سر السين فكان السين من سر الأسماء ولما كانت الهاء هي الحاوية لأسرار التوحيد والميم
+حاوية لأسرار الأكوان فقابلت الهاء الميم سر كل علم ظهر كل علم فإذا تأملت البسملة فقد اتصلت
+الدائرة من ١٠ أركان ٥ ظاهرة وتقدمت وخمسة باطنة اجتمع فيها أسرار الذات والقدرة
+والإحاطة والعلى ثم انبسطت لظهور الكنية وشهود الرحمة فوصلت الأسماء الأربعة الخامسة وهو
+الرحمن وليس على ذلك العالم الأزلي الأبدي قلت ولما كانت الرحمة شهوداً واصل الخامس السادس
+لظهور الاختصاص الأزلي على الأبدي فقولك بسم الله الرحمن الرحيم أولاً مطلق غير مقيد وإنما ذكر
+المبدأ الأول لأنه تعالى سبقت رحمته فاليسملة أشرف القواعد وأعظم الأسماء ومنها انبعثت القدرة من
+الباء مع الميم وحسبه وجسد عالم الغيب والشهادة ومن الباء مع السين ويكون عالم الملكوت العلوي
+ومع الباء قد تكونت الأطوار ومن الراء والهاء ظهرت الرحمة ومن الباء والنون قد ظهر حكم القبضين
+ولما ألهمك السر الأزلي سر العناية والمنة قلت الحمد لله على ما سبق لك في علم التركيب وهو أن الحق
+سبحانه وتعالى حمد نفسه ولذلك دخلت الألف واللام والحمد من اسمه الحميد وسر بسم الله فكانت
+تقول بسم الله وهذا ابتداء أزلي ومنها أول فإذا قلت لله فلذلك حمد نفسه بنفسه فالاسم له سر العقل
+والجلالة سر العقل والروح والرحمن سر القلب والرحيم سر الحاء فإذا قلت الحمد لله فهو في عالم التركيب
+وإذا قلت رب كان ظاهر الرحمن من بسم الله وهو ظاهر القاب لأنه محل كتابة ربوبيته وسر الرحمة
+وهو الإيمان وإذا قلنا العالمين كان ظاهر الرحيم لأن الموجودات كلها ظهرت في الطور الترتيبي بنور
+الرحيمية ولطيف الأطوار فلذلك حمد الأجسام التي هي عالم الإنسان المجموعة من أسرار الله فهو
+وحيد تحميد أزلي ثم ظهرت لك الرحمة في علم الأبد كما ظهرت في علم الأزل فقلت الرحمن الذي ثبت
+قلوبنا على ما ألهمنا من سماع حمده ولذلك جاءت البسملة وكان فيها اسم الله الأعظم وما نزلت اهتزت
+السموات وتزلزلت الأرضون وزادت الملائكة في التسبيح وخرت أجيال على وجوهها وهي
+مكتوب على جبهة إسرافيل وعلى جبهة آدم وعلى جناح جبريل وعلى كف عزرائيل وعصا موسى
+وعلى لسان عيسى وخاتم عليهم السلام وهي فصل بين القرآن وعند انقضاء آية من كل سورة
+وبركتها أشرفت على القرآن العظيم ولنذكر بعضاً من خواصها تبركاً من خواصها إذا تلاها المريض
+عددها ٧ أيام عافاه الله وإذا تليت في وجه ظالم ٥٠ مرة فإن الله يكفيه شره وإذا تليت هذا العدد
+لقضاء الحوائج قضيت وإذا تلاها عند النوم ٥٠ مرة أمنه الله من شر ما يؤذيه وإذا تليت على
+مريض مائة مرة ٣ أيام عوفي وإذا تليت ٤٠ مرة في أذن مصروع أفاق وإذا تليت للمصاب
+أو صاحب الأرياح ٣ أيام كل يوم ١٠٠٠ مرة فإن الله يعافيه وكذلك للريح الأحمر وإذا تلاها
+
+**English:**
+- 427 -
+
+from His name al-Qadir, and the name is derived from al-sumuw, and it is loftiness, and it is derived from His تعالى name al-‘Ali, and the mim is from the cosmic ظرفs, and the ظرف is the encompassing one, which is derived from His تعالى name al-Muhit. So the آثار of power preceded by the spreading of the place by the lights of al-‘Ali, and it is divided by His name al-‘Ali so that His name al-Muhit may appear, and these three names were spread out in the secret of the basmalah so that the place may be established to the Greatest Name, which is Allah. And when power was the attribute of the one قادر, the alif was an indication of the Essence, and when the ba’ was an indication of power it corresponded to the alif, and the ba’ was from the secret of the alif, and when it was from the secret of the sin, then the sin was from the secret of the names, and when the ha’ is the container of the secrets of tawhid and the mim the container of the secrets of the cosmos, then the ha’ corresponded to the mim, the secret of every knowledge, every knowledge appeared. So if you contemplate the basmalah, the circle has become connected from 10 pillars, 5 manifest and 5 inward, in which the secrets of the Essence, power, encompassing, and loftiness have gathered, then it expanded for the ظهور of the kunya and the witnessing of mercy, so the four names reached the fifth, which is al-Rahman, and there is not upon that eternal everlasting world, I said. And when mercy was witnessing, the fifth connected the sixth for the ظهور of the eternal اختصاص over the everlasting, so your saying, Bism Allah al-Rahman al-Rahim, first is absolute, not restricted; rather the first beginning was mentioned because His تعالى mercy preceded. So the basmalah is the noblest of the foundations and the greatest of the names, and from it power was sent forth from the ba’ with the mim, and its reckoning and the body of the world of the unseen and the witnessed, and from the ba’ with the sin, and the higher world of dominion comes to be, and with the ba’ the stages have formed, and from the ra’ and the ha’ mercy has appeared, and from the ba’ and the nun the ruling of the two graspings has appeared. And when the eternal secret inspired you with the secret of care and favor, you said: Praise be to Allah, according to what has سبق for you in the science of composition, namely that the Truth سبحانه وتعالى praised Himself; therefore the alif and lam entered, and al-hamd is from His name al-Hamid, and the secret of Bism Allah, so it was saying Bism Allah, and this is an eternal beginning, and from it is the first. So when you say li-llah, therefore He praised Himself by Himself. So the name has the secret of intellect, and majesty the secret of intellect and spirit, and al-Rahman the secret of the heart, and al-Rahim the secret of the ha’. So when you say al-hamdu li-llah, it is in the world of composition, and when you say Rabb, then the outward of al-Rahman from Bism Allah is the outward of the qaf, because it is the place of the writing of His lordship and the secret of mercy, and it is faith. And when we say al-‘alamin, the outward of al-Rahim is, because all existent things appeared in the ترتيب stage by the light of al-Rahimiyyah and the gentleness of the stages; therefore He praised the bodies, which are the world of man, gathered from the secrets of Allah; so it is a unique eternal praising. Then mercy appeared to you in the knowledge of eternity as it appeared in the knowledge of pre-eternity, so you said al-Rahman, who established our hearts upon what He inspired us of hearing His praise. Therefore the basmalah came, and in it was the Greatest Name of Allah, and when it descended the heavens trembled and the earths shook, and the angels increased in glorification, and generations fell upon their faces, and it is written on the forehead of Israfil and on the forehead of Adam and on the wing of Jibril and on the palm of ‘Azra’il and the staff of Musa and on the tongue of ‘Isa and a seal upon them السلام. And it is a separator between the Qur’an, and at the completion of an ayah from every surah, and its blessing has risen above the عظیم Qur’an. And let us mention some of its properties, seeking blessing from its properties: if the sick person recites it, its number, for 7 days, Allah will cure him; and if it is recited in the face of a wrongdoer 50 times, then Allah will suffice him against his evil; and if this number is recited for the fulfillment of needs, they are fulfilled; and if he recites it at sleep 50 times, Allah secures him from the evil of what harms him; and if it is recited over a sick person one hundred times for 3 days, he is cured; and if it is recited 40 times into the ear of one afflicted by possession, he recovers; and if it is recited for the afflicted one or the one with winds for 3 days, every day 1000 times, then Allah cures him, and likewise for the red wind. And if he recites it
+
+---
+## Page 434
+
+**Arabic (original):**
+— ٤٢١ —
+
+مسجون ومأسور عددها فإن الله يفك أمره، وإذا تليت في السابعة من يوم الجمعة ١٢٣ مرة وتتلو
+دعوتها ويسأل الله ما أراد من أمور الدنيا والآخرة أعطاه الله إياه، فإذا تليت عدد بسائطها على
+مشروب وسقيت لمن تريد محبته أحبك، وإذا كتبت في إناء ومحيت وسقيت لبليد الطبع يزكو فهمه،
+وإذا تليت على ماء جارٍ وسقي به بستان كثر ثمره، وإذا تليت ٤٠ صباحاً كل يوم ألف مرة فإن الله
+يكشف عن قلبه ويلهمه غوامض الأسرار ويرى كل شيء يحدث في العالم، وإذا تلاها دبر كل صلاة
+مفروضة ٢٠٠٠ مرة فإنه يرى كل شيء يحدث في العالم ويشاهد الوقائع قبل وقوعها. ومن خواصها
+للنصر: مع إذا أردت أن تصرع أحداً فصلِّ العشاء ليلة الأحد وصلِّ بعدها ١٢ ركعة تقرأ في كل
+ركعة آية الكرسي والإخلاص والمعوذتين ٤٠، وبعد الصلاة تقرأها عدد بسائطها، وصلِّ على
+النبي عليه السلام ألف مرة، وصلِّ الوتر ٧ ليالٍ، وفي السابعة تكتبها في حرير واحملها على
+عضدك الأيمن وارفعها لوقت الحاجة، فإذا أردت أن تصرع أحداً من الخلق من الواحد إلى السبعين
+تقف مقابلهم وقل: يا خدام هذه الأسماء أجيبوا ووكلوا أن تصرعوا هؤلاء، وتشير بإصبعك فإنهم يصرعوا،
+فإذا أردت قيامهم فانلها في أذن كل واحد مرة فإنه يقوم، ومن واظب على قراءتها كانت أماناً له
+من النار. * من خواصها لقضاء الحوائج من الملوك وأرباب الدولة: وإذا أردت ذلك فصم يوم الخميس
+بشرط الرياضة وأفطر على لوز وتمر واجلس الصلاة المغرب واتلها ١٠١١ مرة، وعند مضجعك
+تلوها حتى يغلب عليك النوم، فإذا أصبحت تتلوها العدد في كاغد بمسك وزعفران وماء ورد، والبخور
+وقت الكتابة عنبر خام، واحملها في رأسك يحصل المطلوب، وإذا كتب عدد حروف تكسيرها في
+مربع وحمله إنسان كان مهاباً مقبولاً، وإذا كتبت والشمس في أول الحمل ٣٦٠ مرة وحملها فقير أو مفتقر
+الرزق يوسع الله رزقه أو مديون قضى الله دينه، وكتبتها عدد بسائطها وأقل الكتابة ١٩، وإذا كتبت
+١٩ مرة وحملتها المرأة التي لم تحمل أو شجرة لم تحمل حملت، وإذا كتبت ١٠٠ مرة ووضعت في الماء الذي
+يشرب منه الكرم ينمو، وإذا كتبت في حجر ووضع في الماء الذي يسقى منه ذلك النخل فإن جميع
+أثمارها تنمو، وإذا كتبت في مثلث في لوح من رصاص ووضعت في شبكة صياد كثر صيده وهذه صورته،
+وإذا كتب هذا المثلث ووضع في حانوت كثر زبونه، وإذا كتب على لوح من بسم الله الرحمن الرحيم
+ذهب أو فضة وحمله المولود حفظه الله، وإذا كتب على خاتم فضة وحمله إنسان ٢٣٥ لطف ٢٧٥
+وتلاها دبر كل صلاة ٣١ مرة فإن الله ييسر له، وقال عليه السلام من جاء ٤٢٤
+يوم القيامة وفي صحيفته بسم الله الرحمن الرحيم ٨٠٠ مرة وكان مؤمناً
+موقناً أعتقه الله من النار. ومن خواص اسمه الرحمن لطف القلوب وجلب كل مطلوب، من أراد ذلك
+يكتب اسم من يريد حروفاً مقطعة مكرمة ثم تلوه معه اسمه الرحمن أجابه ذلك، وتكتب الجميع في
+وفق وانل الاسم عدد مساحة الوفق واحمله يحصل المطلوب، وإذا كتب ٥٠ مرة بمسك وزعفران
+وحمله إنسان كان مهاب الطلعة مباركاً مقبولاً، وخواصه مشهورة لإجابة الدعاء، وخدامه طرفائيل
+وتحت يده ٥ قواد تحت يد كل قائد ٧٠ صفاً، إذا ذكر الذاكر عدده دبر كل صلاة
+من
+
+**English:**
+— 421 —
+
+a prisoner and captive, its number, then Allah will release his affair; and if it is recited in the seventh of Friday, 123 times, and he recites its invocation and asks Allah for whatever he desires of the affairs of this world and the Hereafter, Allah will give it to him; and if its number of simple forms is recited over a drink and it is given to one whose love you desire, he will love you; and if it is written in a vessel and erased and given to one dull of nature, his understanding will grow; and if it is recited over running water and a garden is watered with it, its fruit will increase; and if it is recited for 40 mornings, every day a thousand times, then Allah will unveil his heart and inspire him with the obscure secrets and he will see everything that happens in the world; and if he recites it after every obligatory prayer 2000 times, then he will see everything that happens in the world and witness events before their occurrence. And among its properties for victory: if you desire to strike someone down, then pray the ‘Isha’ on the night of Sunday and pray after it 12 rak‘ahs, reciting in every rak‘ah Ayat al-Kursi and al-Ikhlas and the two Mu‘awwidhat 40, and after the prayer recite it its number of simple forms, and send blessings upon the Prophet عليه السلام a thousand times, and pray the witr for 7 nights, and on the seventh write it on silk and carry it on your right upper arm and raise it for the time of need. So if you desire to strike down one of creation from one to seventy, stand opposite them and say: O servants of these names, respond and appoint that you strike down these ones, and point with your finger, and they will be struck down. And if you desire their rising, then give it into the ear of each one once, and he will rise. And whoever persists in reciting it, it will be a security for him from the Fire. * Among its properties for the fulfillment of needs from kings and the lords of the state: and if you desire that, then fast on Thursday on the condition of spiritual discipline, and break the fast on almonds and dates, and sit after the Maghrib prayer and recite it 1011 times, and at your resting place continue reciting it until sleep overcomes you. Then when you rise, recite it the number in paper with musk and saffron and rose water, and the incense at the time of writing is raw ambergris, and carry it on your head; the desired thing will be obtained. And if the number of the letters of its breaking-down is written in a square and a person carries it, he will be awe-inspiring, accepted. And if it is written while the sun is in the beginning of Aries 360 times and a poor person or one in need of provision carries it, Allah will expand his provision, or if indebted, Allah will pay his debt. And it is written its number of simple forms, and the least writing is 19. And if it is written 19 times and carried by a woman who has not conceived or a tree that has not borne fruit, it will bear fruit. And if it is written 100 times and placed in the water from which the vine is watered, it will grow. And if it is written on a stone and placed in the water from which that palm is watered, then all its fruits will grow. And if it is written in a triangle on a lead tablet and placed in a fisherman’s net, his catch will increase, and this is its form. And if this triangle is written and placed in a shop, its customers will increase. And if it is written on a tablet of Bism Allah al-Rahman al-Rahim, gold or silver, and carried by the newborn, Allah will preserve him. And if it is written on a silver ring and carried by a person 235 لطف 275 and recited after every prayer 31 times, then Allah will make it easy for him. And he عليه السلام said: whoever comes on the Day of Resurrection and in his scroll is Bism Allah al-Rahman al-Rahim 800 times, and he was a believer, certain, Allah will free him from the Fire. And among the properties of His name al-Rahman are the gentling of hearts and the bringing of every desired thing. Whoever desires that writes the name of whom he wants in separated honored letters, then recites with it His name al-Rahman; that will answer him. And all of it is written in a wafq, and give the name the number of the area of the wafq and carry it; the desired thing will be obtained. And if it is written 50 times with musk and saffron and carried by a person, he will be of awe-inspiring appearance, blessed, accepted. And its properties are famous for the answering of supplication, and its servants are Tarfayil, and under his hand are 5 commanders, under the hand of each commander 70 ranks. If the rememberer mentions its number after every prayer of
+
+---
+_End of translation — 434 pages._
