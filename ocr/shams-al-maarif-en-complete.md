@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 380 translated pages._
+_Auto-generated from 383 translated pages._
 
 ---
 ## Page 1
@@ -21948,4 +21948,134 @@ and silver and pearl and ruby and emerald are formed, and he loosened every diff
 so that it became from the easiest thing in the eyes of people, and they despise it and keep away from it and trample it with their feet in
 
 ---
-_End of translation — 380 pages._
+## Page 381
+
+**Arabic (original):**
+- ٣٧٥ -
+
+الأفكار الصالحة والتدبير الممتزج بالسفليات والتغذي به لا يكون به نتيجة ميراث نبوي لأن الذي
+يتولد من هذا الغذاء الغالب عليه النورانية لتناوله لمحض الشهوة فهي نار محرقة ومنه تناول آدم
+عليه السلام فكان ما كان من الخروج والنزول إلى السفليات ولولا أن النور متصل
+بالشعاع ما عاد إلى بدنه ولا رجع إلى وكره فمن غلب عليه ذلك فليترك الشهوة النورانية بالأواني
+الجسمانية حتى يحرقها التجفف وتلطف بحقائقها وهو الذي فيه مزجة نفسانية وفطرة
+شيطانية فافهمه وأما الذي غلب شعاعه على نوره فأحدث عنه دواء الأغذية وهو أيضا متفاضل
+بقوة طلوع الشعاع في أجزائه فمنه المفرد في السموم ومنه المفرد في قطع السموم أيضا وأما ما كان
+من إطن الشعاع فهو الذي يختم مادة السموم في السر وإن في جواهر الأجسام المنطوية بالنور وأما
+ما كان في باطن الشعاع فهو المنفرد الذي يجلي الأجسام من كثف تراكيبها فهو المتفرق في
+ظاهر الأجسام من تراكيبها ويمتزج النفس الطبيعية فتردها إلى عالمها العلوي أعني الكلي وهذا
+لا يعثر على كشفه الرسل ولا يؤثر فيهم لعلم بحقيقتها ومصر قاطبتهم له بما هو أعلى منه ألا ترى إلى
+الذراع المسموم للنبي صلى الله عليه وسلم كيف أكلمه مع العلم به ولم يؤثر للأنوار العلية الإلهية ومثاله
+ما أكل الصالحون من الأغذية التي يتناولها الناس من النبات ولم تتناوله أيدي الناس مما اعتاد
+العلم السفلي كيفية ضرره وظهور انحرافه فلما كشفوا أسباب الوجود وحققوا العلو آلت في درج
+السفليات شاهدوا الكل من حيث الكل والجزء من حيث الجزء جملة ثم ردوه عودا إلى بدئه
+ونظموه في سلكه فسعدوا وسخرت لهم مفاتيح الغيبة والمعاريج العلوية والأزمة الملكوتية وسخر
+لهم ما في السموات * واعلم أن أسباب العلويات شعاعية وأسباب السفليات ممزج شعاعها
+بنورها فلذلك كان النبات لابد للحيوان من وجوده وإن من شيء إلا يسبح بحمده فهذا الفيض
+النوراني على النبات السفلي فمن فهم سر هذه المراتب الثلاث فهم سر الصنعة والامتزاجات فيلطف
+النورانيات سر اللطائف في إجراء الكثائف وبالقوة الشعشعانية وقع الانقلاب من عالم إلى عالم باتفاق
+أجزائها وقع إثبات الصبغ في الأجسام والحجر المكرم يجمع ذلك فباطنه نور شعشعاني وظاهره ممتزج
+نوراني فهو حجر ونبات ومعدن ولسنا نريد الكيميا وإنما نريد كيمياء السعادة فالشعشعاني هو
+٢٣١ والنوراني هو ٤٦١ والممتزج هو ٣٨٠ فمن جمع بين النوراني والشعشعاني والممتزج
+وألقى منه على أمراض الجهل قلبها إلى جواهر الباطن وعلى كبريت الشهوة أزال نار احتراقها
+وعلى ظلمة المعاصي أقلبها إلى ممر الطاعة فيكون إكسير الوجود على زيبق الانخلاء عقده مريعا
+ولما كان العلم الصناعي مجموعا عند الإلقاء إذا ألقيت وزن القدر المعلوم أحلته عن طبعها
+ولن تصل إلى رتبة حق الحلال وإن ألقيت القدر المعلوم قلب من غير باطنا إلى عين حقيقتها
+لذلك العلم الرباني ومعرفة الحق العلي إن قابلت الأجسام بغير احتياطها بلا شك منه اضمحلت وهلكت
+وإن ألقيت عليها القدر المعلوم انقلب من عين باطنها إلى عين حقيقتها لذلك العلم الرباني ومعرفة الحق
+العلي فهذه كيمياء السعادة والغنى الأكبر والدر الأزهر أراني الله طريقتها وحقيقتها والوجه
+السادس وهو الفيض الإرادي على جوهر المعدنيات ولما كان الغيب العلي مختلف المراد كما تقدم
+
+**English:**
+- 375 -
+
+The good thoughts and the management mixed with the lower things and the nourishment by it do not have by it the result of a prophetic inheritance, because that which is generated from this nourishment, predominated by luminosity because of its being taken for the mere desire, is a burning fire; and from it Adam عليه السلام partook, so there was what there was of the خروج and the descent to the lower things. And were it not that the light is connected to the ray, it would not have returned to his body nor returned to his nest. So whoever is predominated by that, let him leave the luminous desire with the bodily vessels until abstinence burns it and it is made subtle by its realities, and it is that in which there is a psychic mixture and a satanic nature; so understand it. And as for that whose ray predominated over its light, then the medicine of foods arose from it, and it too is differentiated by the strength of the rising of the ray in its parts; from it is the simple in poisons, and from it is the simple in cutting off poisons also. And as for what was from the thickness of the ray, then it is that which seals the substance of poisons in secret, even in the essences of bodies folded up by light. And as for what was in the interior of the ray, then it is the singular one that polishes bodies from the density of their compositions; so it is the dispersed in the ظاهر of bodies from their compositions, and it mixes with the natural soul, so it returns it to its upper world, I mean the universal. And this the messengers do not stumble upon its unveiling, nor does it affect them, because of knowledge of its reality, and the entirety of them is confined to it by what is higher than it. Do you not see to the poisoned forearm of the Prophet صلى الله عليه وسلم how he ate it with knowledge of it, and it did not affect the sublime divine lights? And its example is what the righteous ate of the foods that people eat from plants, and the hands of people did not partake of it, from what the lower knowledge had become accustomed to, the manner of its harm and the appearance of its deviation. So when they unveiled the causes of existence and verified the elevation, they turned in the degrees of the lower things, they witnessed the whole from the aspect of the whole and the part from the aspect of the part, in totality; then they returned it back to its beginning and arranged it in its chain, so they were felicitous and the keys of the unseen, the upper ascents, and the kingly reins were made subservient to them, and what is in the heavens was made subservient to them. * And know that the causes of the upper things are ray-like, and the causes of the lower things are mixed, its ray being mixed with its light; therefore the plant was indispensable for the existence of the animal, and there is nothing except that it glorifies with His praise. So this luminous effusion upon the lower plant—whoever understands the secret of these three ranks understands the secret of the craft and the mixtures, so the luminous things are made subtle, the secret of the subtleties in the conducting of the dense things. And by the شعشعانية power the transformation from world to world occurred, by the agreement of its parts; the establishment of the dye in bodies occurred. And the honored stone gathers that, so its interior is a شعشعاني light and its exterior is a mixed luminous one; so it is stone and plant and mineral. And we do not want alchemy, but rather we want the alchemy of felicity. So the شعشعاني is 231, and the luminous is 461, and the mixed is 380. So whoever combines the luminous and the شعشعاني and the mixed, and casts from it upon the diseases of ignorance, he turns them into the essences of the interior; and upon the sulfur of desire he removes the fire of its burning; and upon the darkness of sins he turns it into the passage of obedience, so the elixir of existence upon the mercury of seclusion, its knot is splendid. And when the industrial knowledge is gathered at the casting, if you cast the weight of the known measure, it will transform it from its nature, and you will not reach the rank of the truth of the lawful, even if you cast the known measure, turning from an inward to the very essence of its reality. Therefore the divine knowledge and the knowledge of the High Truth: if you confront bodies without their precaution, without doubt they will be obliterated and perish; and if you cast upon them the known measure, it will turn from the very essence of its inward to the very essence of its reality, therefore the divine knowledge and the knowledge of the High Truth. So this is the alchemy of felicity and the greatest richness and the most radiant pearl; God showed me its method and its reality, and the sixth aspect, which is the volitional effusion upon the essence of the minerals. And when the High Unseen was of differing intent as has preceded
+
+---
+## Page 382
+
+**Arabic (original):**
+- ٣٧٦ -
+
+واختلافه لظهور الأنواع والأجناس في العلم المحاط من العلم المحيط لتباين الحكمة واختلاف
+العلوم بحقائق الأشياء المتناهية والدار الآخرة غير متناهية وجب أن يكون لكل عالم دار ولكل
+دار عالم فالمتناهي للمتناهي والمطلق للمطلق فلذلك كان اختلاف الارتفاع والانخفاض ليد
+العالم المعدني فبدأ الظاهر منه والظاهر منها والمتكدر بالمنكدر فمن ظاهرها الذهب والورق
+وهما لا يتغيران ومن سواهما لزمه التغيير فمن قربت في بعيده ومن بعيده وهو آخر درجة الكرسي
+فالذهب لونا من ٣٢١ والورق من ٤٦١ والأسرب من نورهم والحديد من نور ح م والزهرة من
+نور ع ع والزيبق من نور م م ح والقلعي من نور ح ح ع ح وجميع أنوار الكراسي
+المتصلة بالمعدنيات وهذه أيضاً كشف للمعدنيات على التفصيل ولما كان النبات مختصاً بالنور
+الأعلى كانت المعدنيات مختصة بالإرادة المحيطة وقد شبه المصطفى صلى الله عليه وسلم ذلك بقوله
+معادن كمعادن الذهب والفضة أعنى بذلك المؤمنين والعارفين وسكت عما سواهم لأنهم كمعادن
+الرصاص والحديد وغيرها من المعادن وإنما سكت صلى الله عليه وسلم عنهم لأنهم لم يدخلوا دائرة
+التطهير الإيمانية فإذا كان تصرف المحسوسات بوجود المعدنيات فالنباتات إلى المعدنيات ولذلك
+كانت النباتات مفتقرة إلى الإيمان بالمعدنيات بل متصرفة في إيمان النباتات والأجسام المركبة
+قائمة بأسرار النبات لا بأسرار المعدنيات إلا أن وقع في المعدنيات سر الإرادة العلوية فيها وقع الدمج به
+والحجة له وإلا لا قوة بينه وبين العدم لأن العدم سكون محض ففيه إشارة لقوته تعالى قل كونوا
+حجارة أو حديداً فالحجارة إشارة إلى وقود النار والاختلاف والحديد إشارة لقهر السلاسل والأغلال
+التي تصد في عالم الجزء أعني جهنم أعني التراكيب أعني القوى تطمح آماله العالم الملكوتيات
+لا يفرح ذكره في اللطائف الملكوتيات ولا يسمح له الكشف للأنوار الغيبيات بل جحد جمود الجفاء
+ووقف على حرف النفاد وظن أنه لا طريق يدرك بها العلويات ولا لطيفة يشهد بها تدوس
+الملكيات فمن تبدى استحوذ لقيام القوة المسيحية على صورة النفس البشرية أنكر العلوم بكثافة
+وتغلغل في البحار الحسية ونسي ما منه بدا وما به اهتدى وسمى الملكوتيات السماوية والآيات
+الأرضية التي أنزل الله على خليله إبراهيم بقوله تعالى وكذلك نري إبراهيم ملكوت السموات
+والأرض الآية بعد شهود الملكوتيات العلويات والسفليات وكذلك نرى الإحاطة أولاً ثم ذكر
+الكرسي بعوامله الكلية والجزئية والعلوية والسفلية ( الوجه السابع ) إن الحياة الأزلية فاضت
+على كون القدرة فيضاً مناسباً للأزل غير مدرك من جهة ولا لشهود ثم فاض من الحياة فيض مظهراً
+لحقائق المعلومات على العلم فجل أن يدرك في شيء بنسبة الأعمال وملاحظة الأحوال قال تعالى
+ولا يحيطون بشيء من علمه إلا بما شاء وسع كرسيه السموات والأرض فلما وقع الاستثناء وقع
+التطلع للكشف الأوليات من خالص علمه المضاف إليه بالإضافة وعلمه صفته وحقيقته وذاته
+وعلمه الكشف لما سواه والمقيم لما دونه كل بكل وجزء بجزء ثم فاض من العلم فيض محلياً بحقائق
+الموجودات على سابق الإرادات فيكون شأنهم بها ظهور الحكمة والسياحة والمكاشفة وإحاطة
+المعارف والغيبيات وما في ميدان الكليات وقام في النشأة البرزخيات اللطيفيات منه منه وطولاً
+ثم
+
+**English:**
+- 376 -
+
+And its difference was for the appearance of the species and genera in the encompassed knowledge from the encompassing knowledge, because of the disparity of wisdom and the difference of the sciences by the realities of finite things, and the Hereafter is non-finite. It became necessary that for every world there be a dwelling and for every dwelling a world; so the finite is for the finite and the absolute for the absolute. Therefore the difference of ascent and descent was for the hand of the mineral world. So the apparent of it began, and the apparent of it, and the turbid with the turbid. So from its apparent are gold and silver, and they do not change; and other than them change is incumbent upon it. So from what is near in its far, and from its far, and it is the last degree of the Throne. So gold is a color from 321, and silver from 461, and lead from their light, and iron from the light of ح م, and Venus from the light of ع ع, and mercury from the light of م م ح, and tin from the light of ح ح ع ح, and all the lights of the Thrones connected to the minerals. And this too is an unveiling of the minerals in detail. And when the plant was specific to the highest light, the minerals were specific to the encompassing will. And the Chosen One صلى الله عليه وسلم likened that by his saying: “Minerals like the minerals of gold and silver,” meaning by that the believers and the knowers, and he was silent regarding what was other than them because they are like the minerals of lead and iron and other minerals. And he صلى الله عليه وسلم was silent regarding them only because they had not entered the circle of faith-purification. So if the disposition of the sensibles is by the existence of minerals, then the plants are to the minerals; and therefore the plants were in need of faith in the minerals, rather they are disposed in the faith of plants, and the composite bodies stand by the secrets of the plant, not by the secrets of the minerals, except that if in the minerals the secret of the higher will occurs in them, then the blending occurs by it and the proof for it; otherwise there is no power between it and nonexistence, because nonexistence is pure stillness. So in it is an indication of His تعالى power: “Say: Be stones or iron.” So stones are an indication of the fuel of fire and difference, and iron is an indication of the subjugation of chains and shackles that block in the world of the part, I mean Gehenna, I mean the compositions, I mean the powers whose hopes aspire to the world of the الملكوتيات. Its mention is not rejoiced in in the subtleties of the الملكوتيات, nor is unveiling permitted to it for the unseen lights, but rather the denial of the rigidity of coarseness; and it stood at the letter of extinction, and it thought that there is no path by which the upper things are attained, nor any subtlety by which the dominions are witnessed. So whoever appeared openly, he took possession, because of the standing of the Christian power upon the form of the human soul; he denied the sciences with density and plunged into the sensory seas, and forgot what from it he began and by it he was guided, and he named the الملكوتيات celestial, and the earthly signs which God sent down upon His friend Abraham by His saying تعالى: “And thus We show Abraham the dominion of the heavens and the earth” — the verse — after the witnessing of the upper and lower الملكوتيات. And thus We see the encompassing first, then mention of the Throne with its universal, partial, upper, and lower factors. (The seventh aspect) Indeed the eternal life overflowed upon the being of power, an effusion suitable to eternity, not perceived from any direction nor by witnessing. Then from life there overflowed an effusion manifesting the realities of the known things upon knowledge, so exalted that it is not perceived in anything by the proportion of deeds and the observation of states. He تعالى said: “And they encompass nothing of His knowledge except what He wills. His Throne extends over the heavens and the earth.” So when the exception occurred, there occurred the aspiration to the unveiling of the first things from His pure knowledge, attributed to Him by attribution, and His knowledge is His attribute and His reality and His essence, and His knowledge is the unveiling of what is other than Him and the establishing of what is below Him, each by each and part by part. Then from knowledge there overflowed an effusion adorned with the realities of existents upon the prior wills, so their affair by it would be the appearance of wisdom and wandering and unveiling, and the encompassing of knowledges and unseen things and what is in the field of universals. And in the intermediate genesis the لطيفيات stood from it from it and in length. Then
+
+---
+## Page 383
+
+**Arabic (original):**
+- ٢٧٧ -
+
+ثم فاض على الفيض المطابق فيضاً كلياً فيكون سبباً موصلاً لنبات الإسماع بكنانة العزيز في الفهم
+وكشف حقائق الحكم ولذلك لما أراد الله من كشف عباده غيبه واستدلالهم لسماع كلامه ثم
+فاض من العلم فيضاً شعاعياً في البصر الكريم فوجب إدراك الكائنات في الأزل وشهود
+التكونات في الأبد وظهور المعلومات في البصر القديم ولولا ما أطبق النظر على وجهه
+الكريم في النشأة الآخرة في اليوم المعلوم وألقيت حلة الإدراك فأدركته بإدراكه فبإدراكه
+أدركته فهو المدرك والمدرك كما قال تعالى ليس كمثله شيء وهو السميع البصير ثم فاض من البصر
+فيضاً اتصل بالكلام القديم العلي الأزلي ولذلك وقعت الفائدة في الكلام فهو المتكلم بكلامه وهو
+صفة لذاته غير مماثل لكلام المخلوقين ففي الكلام فيض البصر وفي البصر فيض السمع وفي السمع
+فيض الإرادة وفي الإرادة فيض العلم وفي العلم فيض القدرة وفي القدرة فيض الحياة وفي الحياة فيض
+الذات والإيمان فيض الذات والعقل فيض الحياة والروح فيض القدرة والنفس فيض العلم والقلب
+فيض الإرادة والإنسان فيض السمع والتركيب فيض البصر والصورة فيض الكلام ولما
+كان السابع وتراً بالقوة والأول وتراً بالقوة والعقل اتصل الوتر فهو الأول وتراً والآخر وتراً
+ولما كان السابع من الكرسي المضاف إليه وسع كرسيه السموات والأرض وهو الذي عبر عنه
+أهل التحقق والصفاء من خواص التصديق وهو ذاتك فتبارك الله أحسن الخالقين وأما الإحاطة
+بأحكام السموات العلويات والعوالم الذاتيات واللطائف الروحانيات فهي باطن الكرسي المقدس
+وهو حقيقة الحياة والقدرة والعلم والإرادة وأما أوسعه الكرسي من الملكوتيات والجبروتيات
+والبرزخيات فمن حقيقة السمع والبصر والكلام باطن الكرسي مبادئ القول وغايته النفس
+بالكلية وظاهره الصورة والتصوير المعبر عنه لسان أهل التصوف وقال بعض الأكابر
+من أراد أن ينال قصده والاتصال بالحكمة الإلهية فليكثر من ذكره العليم وقيل علام الغيوب
+وقيل الحكيم بياء النداء فمن ذكرهم ولازم عليهم فإن الله يسخر له فيلسوفاً من الواصلين أو الخضر
+عليه السلام يعلمه هذه المرتبة المقدار الذي تغوص في حجر الزهرة التي فيه ٤٤٠ عالماً
+من العوالم الروحانية وينقيه ويثبته إلى السبك والحمى ولو سبكت ألف مرة مالم يدخل عليه العلم
+والرصاص ولذلك يفعل في كل صبغ محلول حتى يتقيه وينحل وينعقد فعند ذلك يثبت للخلاص
+والله أعلم ( وهذه مرقة تصبغ أحمر ) إذا عملت مع الأحجار الحمر والأرواح الحمر والأنفس
+الحمر فمن أحسن تدبيرها عمل بها عملاً عجيباً تصبغ كل واحدة بها مئين لا شك وهو باب يستعان
+عليه بلا إله إلا الله وحده لا شريك له له الملك وله الحمد وهو على كل شيء قدير وذلك أن تأخذ من
+رأس الصابون الطيب القوي وإن صنعته على هذه المرقة فهو أحسن تأخذ منه رطلاً أو ما شئت
+وأضف إليه نصفه من ملح القلي المبيض وملح الطعام والنطرون والشب اليماني والزرنيخ الأصفر
+والزاج والطلق إن أمكن بعد سحق كل واحد منهم وحده وبياض البيض المسلوق وربع الماء
+الأول من الشعر الأسود المغسول يجعل في الماء المذكور وتتركه يوماً وليلة في الشمس أو على نار
+لينة حتى ينحل ماؤه رجراجاً ويخرج من وقته ثم تقطر ثم تأخذ بعد ذلك من كله ترفعه عندك
+
+**English:**
+- 277 -
+
+Then there overflowed upon the corresponding effusion a universal effusion, so it would be a cause leading to the growth of hearing with the strong quiver in understanding and the unveiling of the realities of judgments. And therefore, when God intended the unveiling of His unseen to His servants and their inference for hearing His speech, then from knowledge there overflowed a ray-like effusion in the noble sight, so the perception of beings in eternity became necessary, and the witnessing of formations in perpetuity, and the ظهور of the known things in the ancient sight. And were it not that the gaze was fixed upon His noble face in the latter genesis on the known day, and the garment of perception was cast, then I perceived Him by His perception, so by His perception I perceived Him; for He is the perceiver and the perceived, as He تعالى said: “Nothing is like unto Him, and He is the Hearing, the Seeing.” Then from sight there overflowed an effusion connected to the ancient, sublime, eternal speech, and therefore the benefit occurred in speech, for He is the speaker by His speech, and it is an attribute of His essence, not resembling the speech of created beings. So in speech is the effusion of sight, and in sight the effusion of hearing, and in hearing the effusion of will, and in will the effusion of knowledge, and in knowledge the effusion of power, and in power the effusion of life, and in life the effusion of essence, and faith is the effusion of essence, and intellect the effusion of life, and spirit the effusion of power, and soul the effusion of knowledge, and heart the effusion of will, and man the effusion of hearing, and composition the effusion of sight, and form the effusion of speech. And when the seventh was a string by potentiality and the first was a string by potentiality, and the intellect connected the string, then it is the first as a string and the last as a string. And when the seventh was from the Throne attributed to Him, “His Throne extends over the heavens and the earth,” and it is that which was expressed by the people of realization and purity among the special ones of affirmation, and it is your essence—so blessed be God, the best of creators. And as for the encompassing of the rulings of the upper heavens and the essential worlds and the spiritual subtleties, it is the interior of the sacred Throne, and it is the reality of life and power and knowledge and will. And as for the widest of the Throne, from the الملكوتيات and the جبروتيات and the برزخيات, it is from the reality of hearing and sight and speech. The interior of the Throne is the beginnings of speech and its end, the soul in its totality; and its exterior is form and shaping, expressed by the tongue of the people of Sufism. And some of the great ones said: whoever desires to attain his aim and connection with the divine wisdom, let him increase in ذكره العليم, and it was said علام الغيوب, and it was said الحكيم with the yā’ of calling. So whoever remembers them and persists upon them, then God will subjugate for him a philosopher from among the arrived ones, or al-Khidr عليه السلام, teaching him this rank, the measure that sinks in the stone of Venus, in which are 440 worlds from the spiritual worlds, and purifies him and establishes him to the smelting and the protection, even if you smelted a thousand times, so long as knowledge and lead do not enter upon it. Therefore it is done in every dissolved dye until it is protected and dissolves and coagulates; at that point it is established for deliverance. And God knows best. (And this is a broth that dyes red.) If you work with the red stones and the red spirits and the red souls, then whoever is best in managing them works by it a wondrous work: each one dyes by it hundreds, without doubt, and it is a gate by which help is sought through “There is no god but God alone, no partner has He; His is the dominion and His is the praise, and He is over all things powerful.” And that is that you take from the head of the good strong soap, and if you make it upon this broth, then it is better; take from it a ratl or whatever you wish, and add to it half of it from whitening potash salt and table salt and natron and Yemeni alum and yellow arsenic and vitriol and talc if possible, after crushing each one of them separately, and the white of boiled eggs, and a quarter of the first water from washed black hair; it is placed in the mentioned water, and you leave it a day and a night in the sun or over a gentle fire until its water dissolves, trembling, and comes out in its time, then it is distilled. Then after that you take from all of it, you raise it with you.
+
+---
+_End of translation — 383 pages._
