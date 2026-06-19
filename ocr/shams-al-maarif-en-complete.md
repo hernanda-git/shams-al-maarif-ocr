@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 434 translated pages._
+_Auto-generated from 440 translated pages._
 
 ---
 ## Page 1
@@ -24945,4 +24945,283 @@ from His name al-Qadir, and the name is derived from al-sumuw, and it is loftine
 a prisoner and captive, its number, then Allah will release his affair; and if it is recited in the seventh of Friday, 123 times, and he recites its invocation and asks Allah for whatever he desires of the affairs of this world and the Hereafter, Allah will give it to him; and if its number of simple forms is recited over a drink and it is given to one whose love you desire, he will love you; and if it is written in a vessel and erased and given to one dull of nature, his understanding will grow; and if it is recited over running water and a garden is watered with it, its fruit will increase; and if it is recited for 40 mornings, every day a thousand times, then Allah will unveil his heart and inspire him with the obscure secrets and he will see everything that happens in the world; and if he recites it after every obligatory prayer 2000 times, then he will see everything that happens in the world and witness events before their occurrence. And among its properties for victory: if you desire to strike someone down, then pray the ‘Isha’ on the night of Sunday and pray after it 12 rak‘ahs, reciting in every rak‘ah Ayat al-Kursi and al-Ikhlas and the two Mu‘awwidhat 40, and after the prayer recite it its number of simple forms, and send blessings upon the Prophet عليه السلام a thousand times, and pray the witr for 7 nights, and on the seventh write it on silk and carry it on your right upper arm and raise it for the time of need. So if you desire to strike down one of creation from one to seventy, stand opposite them and say: O servants of these names, respond and appoint that you strike down these ones, and point with your finger, and they will be struck down. And if you desire their rising, then give it into the ear of each one once, and he will rise. And whoever persists in reciting it, it will be a security for him from the Fire. * Among its properties for the fulfillment of needs from kings and the lords of the state: and if you desire that, then fast on Thursday on the condition of spiritual discipline, and break the fast on almonds and dates, and sit after the Maghrib prayer and recite it 1011 times, and at your resting place continue reciting it until sleep overcomes you. Then when you rise, recite it the number in paper with musk and saffron and rose water, and the incense at the time of writing is raw ambergris, and carry it on your head; the desired thing will be obtained. And if the number of the letters of its breaking-down is written in a square and a person carries it, he will be awe-inspiring, accepted. And if it is written while the sun is in the beginning of Aries 360 times and a poor person or one in need of provision carries it, Allah will expand his provision, or if indebted, Allah will pay his debt. And it is written its number of simple forms, and the least writing is 19. And if it is written 19 times and carried by a woman who has not conceived or a tree that has not borne fruit, it will bear fruit. And if it is written 100 times and placed in the water from which the vine is watered, it will grow. And if it is written on a stone and placed in the water from which that palm is watered, then all its fruits will grow. And if it is written in a triangle on a lead tablet and placed in a fisherman’s net, his catch will increase, and this is its form. And if this triangle is written and placed in a shop, its customers will increase. And if it is written on a tablet of Bism Allah al-Rahman al-Rahim, gold or silver, and carried by the newborn, Allah will preserve him. And if it is written on a silver ring and carried by a person 235 لطف 275 and recited after every prayer 31 times, then Allah will make it easy for him. And he عليه السلام said: whoever comes on the Day of Resurrection and in his scroll is Bism Allah al-Rahman al-Rahim 800 times, and he was a believer, certain, Allah will free him from the Fire. And among the properties of His name al-Rahman are the gentling of hearts and the bringing of every desired thing. Whoever desires that writes the name of whom he wants in separated honored letters, then recites with it His name al-Rahman; that will answer him. And all of it is written in a wafq, and give the name the number of the area of the wafq and carry it; the desired thing will be obtained. And if it is written 50 times with musk and saffron and carried by a person, he will be of awe-inspiring appearance, blessed, accepted. And its properties are famous for the answering of supplication, and its servants are Tarfayil, and under his hand are 5 commanders, under the hand of each commander 70 ranks. If the rememberer mentions its number after every prayer of
 
 ---
-_End of translation — 434 pages._
+## Page 435
+
+**Arabic (original):**
+- ٤٢٩ -
+
+نزل عليه الخادم وقضى حاجته وإذا كتب في يوم سعيد على ذهب أو فضة مع اسم الملك ثم تريض ودخل الخلوة وتلا الاسم دبر كل صلاة ٢٠٩ مرات فإن الملك ينزل عليه ويرى الذاكر الملائكة ومهما طلبه ناله وإذا كتبه وحمله وتلا الاسم القائم به دبر كل صلاة كان ملطوفاً به وهذه صورة خاتمه:
+
+| ن | م | ح | الر |
+|---|---|---|---|
+| ٩٩ | ٢٩ | ٣٩ | ٥١ |
+| ١٨ | ٢٨ | ٢٠٢ | ١٠ |
+| ١١ | ٢٠١ | ٢٩ | ٣٧ |
+
+وأما ذكره البسملة: إلهي رحمتك وسعت كل شيء لا إله إلا أنت يا أرحم الراحمين، قدرت الأشياء وأحكمتها بحكمتك ورحمت العباد برحمة العموم ورحمة الخصوص، سبحانك، افتح الله الرحمن الرحيم إحاطة سر إمدادية ملكك إحاطة أبدية أحدية، أسألك وأتوسل إليك بأسمائك الحسنى أن تشهدني حقائق الأشياء وأن توفقني لحفظها وأنت الحنان المنان، الرحمن علينا في الأزل والأبد للكشف عن سر النفس وأخصم وحقيقتها يا الله يا مالك يوم الدين، سخر لي خادم هذا الاسم الشريف ومدني برقيقة من رقائقك لأحظى بها بين أبناء جنسي يا الله يا رحمن، ويتوسل به إلى الله ينال ما يريد.
+
+( فصل في اسمه تعالى الرحيم )
+اعلم أنه قد تقدم الكلام على اسمه الرحمن وبقي الكلام على اسمه الرحيم وهما اسمان عظيمان واشتقاقهما واحد وفي سرهما اختصاص، وذلك إذا شهدت بما بين عينا آثار الرحمة وهو الغيث المنزل والرزق والتناسل والتعاطف ونزول العالم والتبليغ ونمو النبات والحيوان وكل ذلك رحمة شملت العموم والخصوص، قال تعالى: {وَكَانَ بِالْمُؤْمِنِينَ رَحِيمًا}، إن رحمة أتت برزت في دار الدنيا كلها بارزة إلى يوم القيامة، قال تعالى: {وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ}، والرحمة الدنيوية هي التي في الدنيا والتي في الآخرة غيرها وهي مدخرة إلى إحصاء الخلق، فأهل الأسباب ظهرت عليهم آثار الرحمة ليقوموا بالآخرة وأهل العرف أقامت لهم الرحمانية، ويجمع خيري الدنيا والآخرة بسم الله الرحمن الرحيم، ولما نزلت على آدم ثم على إدريس ثم على سليمان عليهم السلام، قال تعالى: {إِنَّهُ مِن سُلَيْمَانَ وَإِنَّهُ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ}، وإن الله جعله بين خيري الدنيا والآخرة، فمن الرحمة العامة الملك ومن الخاصة النبوة وعدم النطق بما ملكه من الدنيا بل حقيقة رحمة الله على الدوام، فسر الرحمانية سخر له الريح والعوالم ويسر الرحيمية وهب له الاسم الأعظم، ولذلك كان عليه السلام يقول: اللهم يا فارج الهم كاشف الغم مجيب دعوة المضطر رحمن الدنيا والآخرة رحيمهما، ارحمني برحمة من عندك تغني بها عن رحمة من سواك، وكان عليه السلام يقول: لو كان على أحدكم مثل جبل أحد ديناً لقضاه الله تعالى، ومن كان عليه دين وتلا بسم الله الرحمن الرحيم وأكثر منها قضى دينه، ومن كثر هذا الاسم دبر كل صلاة عدده رزقه الله حسن الأخلاق وينفع أهل الخلوات، وإذا كتب عدده وحمله المولود الذي يبكي ويخاف فإنه يأمن، ومن أراد التجريد ولا يسأل أحداً شيئاً ويكون غني النفس صبوراً وكل قوة في سر المعادن وأنفاسه ولكن على قدم هو من تجلى هذين الاسمين الرحمن الرحيم، قال تعالى: {فَانظُرْ إِلَىٰ آثَارِ رَحْمَتِ اللَّهِ كَيْفَ يُحْيِي الْأَرْضَ}
+
+**English:**
+- 429 -
+
+The servant descends upon him and fulfills his need. And if it is written on an auspicious day on gold or silver with the name of the king, then he exercises himself and enters seclusion and recites the name after every prayer 209 times, then the king descends upon him and the rememberer sees the angels, and whatever he asks for he attains. And if he writes it and carries it and recites the name that is قائم به after every prayer, he will be treated with kindness. And this is the form of its seal:
+
+| n | m | ḥ | al-r |
+|---|---|---|---|
+| 99 | 29 | 39 | 51 |
+| 18 | 28 | 202 | 10 |
+| 11 | 201 | 29 | 37 |
+
+And as for its remembrance, the basmalah: My God, Your mercy has encompassed everything; there is no god except You, O Most Merciful of the merciful. You determined things and perfected them by Your wisdom, and You showed mercy to the servants with the mercy of the general and the mercy of the special. Glory be to You. Open, O Allah, the Merciful, the Compassionate, the encompassing secret of the supportive extension of Your kingdom, an eternal, singular encompassing. I ask You and I beseech You by Your most beautiful names that You show me the realities of things and that You grant me success in preserving them, and You are the Tender, the Bestower, the Merciful to us in pre-eternity and eternity, for the unveiling of the secret of the soul and its خصم and its reality, O Allah, O Possessor of the Day of Judgment. Subject to me the servant of this noble name and supply me with a delicate one from Your delicacies so that I may obtain it among the sons of my kind, O Allah, O Merciful. And whoever beseeches Allah by it attains what he wants.
+
+( Chapter on His تعالى name, al-Raḥīm )
+Know that the الكلام on His name al-Raḥmān has preceded, and there remains the الكلام on His name al-Raḥīm, and they are two عظیم names, and their derivation is one, and in their secret there is a distinction. That is when you witness, before your eyes, the آثار of mercy, and it is the sent down rain, provision, procreation, mutual affection, the descent of the world, conveying, and the growth of plants and animals, and all of that is a mercy that encompassed the general and the special. He تعالى said: {And He was, toward the believers, Merciful}. Indeed, a mercy came forth and appeared in the entire abode of this world, manifest until the Day of Resurrection. He تعالى said: {And My mercy has encompassed everything}. And the worldly mercy is that which is in this world, and that which is in the Hereafter is other than it, and it is stored up until the reckoning of creation. So the people of causes had the آثار of mercy appear upon them so that they may stand for the Hereafter, and the people of gnosis had al-Raḥmāniyyah established for them. And the two goods of this world and the Hereafter are gathered by Bismillāh al-Raḥmān al-Raḥīm. And when it descended upon Adam, then upon Idrīs, then upon Sulaymān, عليهم السلام, He تعالى said: {Indeed, it is from Sulaymān, and indeed it is: In the name of Allah, the Merciful, the Compassionate}. And Allah made it between the two goods of this world and the Hereafter. So from the general mercy is kingship, and from the special is prophethood, and not speaking of what he possessed of this world, but rather the reality of Allah’s mercy perpetually. The secret of al-Raḥmāniyyah subjected the wind and the worlds to him, and the secret of al-Raḥīmiyyah made easy for him and granted him the Greatest Name. Therefore he عليه السلام used to say: O Allah, O Reliever of worry, O Remover of grief, O Answerer of the supplication of the distressed, Merciful of this world and the Hereafter, have mercy on me with a mercy from You by which You suffice me from the mercy of other than You. And he عليه السلام used to say: If there were upon one of you a debt like Mount Uḥud, Allah تعالى would pay it. And whoever has a debt and recites Bismillāh al-Raḥmān al-Raḥīm and increases in it, his debt is paid. And whoever increases this name after every prayer, its number, Allah provides him with good character, and it benefits the people of seclusions. And if its number is written and carried by the newborn who cries and fears, then he becomes secure. And whoever desires detachment and asks no one for anything and is self-sufficient, patient, and every power is in the secret of minerals and his breaths, but upon a foot is he from the manifestation of these two names, al-Raḥmān al-Raḥīm. He تعالى said: {So look at the آثار of the mercy of Allah, how He gives life to the earth}
+
+---
+## Page 436
+
+**Arabic (original):**
+— ٤٣٠ —
+بعد موتها وذلك من رحمة العموم فخروج النبات في الصحراء والبراري المقفرة يرعاه الحيوان من
+تجلي اسمه الرحيم وخادم هذا الاسم من عوالم جبريل عليه السلام ومن واظب على قراءته رحمه الله في
+الدنيا والآخرة ونال شرف الرتبة وإذ كتب في لوح فضة ووضع على عنق المولود الذي يحصل له الغيظ
+والبكاء زال عنه وإذا كتب في خاتم وختم به إنسان أعطاه الله الرحمة والشفقة على خلقه ومن قرأه
+عدد بسائطه رفع الله قدره وله خلوة وهي ٤٠ يوما بشرط المواظبة على ذكره وإذا أقام
+خاتما في سبية وكتب عليه الاسم عدده وتلاه دبر كل صلاة فإن الخادم يحضر واسمه جربال وهو
+رئيس على ٤ قواد تحت يد كل قائد ٢٠٠ صف يأتي للذاكر ويقضي حاجته وهذه صورته
+وهذا الذكر القائم به البسملة اللهم أنت الرحيم على المخلوقات وكاشف سر
+الموجودات وأنت الرحمن أسألك أن تسخر لي عبدك جربال يقضي حاجتي
+وما أريد إلهي أسألك الكشف على وجودي ونيل مقصودي واطلعني على
+وجود شمسي لا تحقق في كل رقيقة وأسود شهودا تمحو عن نقطة
+غير ونور قلبي بنور اسمك الرحيم لتخضع لي أرواح الجبارين وتنقاد لي
+نفوس المتمردين واكشف لي عن حقيقة عالم الملك والملكوت والعزة والجبروت لاحظني بالقرب
+منك يا قريب يا ودود يا رحيم من ناجى ربه بهذا الذكر وتلا هذا الاسم انسهل عليه كل صعب
+وفتح له أبواب الرزق
+| ال | ر | ح | ي | م |
+| ٢٠١ | ٣٤ | ١٦ | ٢٣ | ٣٣ |
+| ٣٨ | ١٩ | ٣ | ٣٢ | ٣٣ |
+
+( فصل في اسمه تعالى الملك )
+اعلم أن معنى هذا الاسم هو الذي يتحقق كل شيء وينتهي إليه كل شيء ولا يكون ذلك إلا لله وإن احتوى
+ملكه على عالم ملك وملكوت وجبروت وذلك أنه جعل حروف الملك ثلاثة م ل ك فالميم من كسر
+الأحد ودوائر الحروف وهو ظاهر لها لأن الله لما أبرز الهاء وهي حرف إحاطي في ظاهر تشكيله
+وباطن استطالته إذ ليس له حقيقة تتلقى عليه الحروف خلق الميم وجعلها شكلا إحاطيا تتلقى سرها
+قبالها باطن التوحيد بسقوط العبادة والميم ظاهرا لها وخلق الله سرها الملكوت وخلق من أجلها
+الكرسي لأنه إحاطة بصورة مناجاة الموجودات وخلق من السموات سر الربوبية وسر الإحاطة
+وخلق منها كلمة الإحاطة على الإطلاق الربوبية وخلق من السموات سر الربوبية وسر الإحاطة
+بسر الملكوت وخص أنواره لأن تعلقها بقائمة من قوائم العرش تخدمها علوم علوية مخصوصة باسمه
+الملك وحروف الميم وكذلك تكرر هذا الحرف في اسم نبينا ثلاث إشارات فإن أنت قابلته بالملك
+قابلتك عوالم الملكوت وإن قابلته بالملكوت قابلتك أنوار الملكوت في العقول وهو آخر
+حرف وأما اللام وهو حرف أمد الله به عالم الجبروت وأنه لما ثقل حمله بأنوار الملكوت لم يجد من
+يتلقى منه فعند ذلك أبرز الله الكاف من باطن اللام الذي يعرف بكن خلق الله منه عالم الملك
+بأسرار الجبروت وأسرار الملكوت
+( نكتة )
+اعلم
+
+**English:**
+— 430 —
+after its death, and that is from the mercy of the general. So the خروج of plants in the desert and the barren wastes is tended by the animal from the manifestation of His name al-Raḥīm. And the servant of this name is from the worlds of Gabriel عليه السلام, and whoever persists in reciting it, Allah has mercy on him in this world and the Hereafter, and he attains the honor of rank. And if it is written on a silver tablet and placed on the neck of the newborn who experiences rage and crying, it is removed from him. And if it is written in a ring and a person is sealed with it, Allah gives him mercy and compassion toward His creation. And whoever recites it, the number of its simples, Allah raises his rank. And he has a seclusion, and it is 40 days, on the condition of persistence in its remembrance. And if he establishes a ring in a captive woman and writes upon it the name, its number, and recites it after every prayer, then the servant attends, and his name is Jarbāl, and he is chief over 4 commanders, under the hand of each commander 200 ranks. He comes to the rememberer and fulfills his need. And this is its form.
+
+And this remembrance, the basmalah, by which it is قائم: O Allah, You are the Merciful toward creatures and the Unveiler of the secret of existents, and You are the Merciful. I ask You to subject to me Your servant Jarbāl, to fulfill my need and what I desire. My God, I ask You for unveiling upon my existence and the attainment of my intended goal, and to make me aware of the existence of my sun, not تحقق in every delicate thing, and black witnesses that erase from a point other than, and illuminate my heart with the light of Your name al-Raḥīm, so that the spirits of the tyrants may submit to me and the souls of the rebels may be led by me, and unveil to me the reality of the world of dominion and the world of sovereignty and might and compulsion. Regard me with nearness to You, O Near, O Loving, O Merciful. Whoever converses with his Lord by this remembrance and recites this name, every difficulty becomes easy for him, and the doors of provision are opened for him.
+
+| al | r | ḥ | y | m |
+| 201 | 34 | 16 | 23 | 33 |
+| 38 | 19 | 3 | 32 | 33 |
+
+( Chapter on His تعالى name, al-Malik )
+Know that the meaning of this name is that by which everything is realized and to which everything ends, and that is only for Allah, even if His kingdom contains the world of dominion, sovereignty, and compulsion. That is because He made the letters of al-Malik three: m l k. So the mīm is from the breaking of the One and the circles of letters, and it is manifest to them, because when Allah brought forth the hā’, and it is an encompassing letter in its outward formation and inward elongation, since it has no reality upon which the letters are received, He created the mīm and made it an encompassing form that receives its secret opposite it, the inwardness of tawḥīd with the سقوط of worship, and the mīm outwardly to it. And Allah created its secret, the ملكوت, and created for its sake the Throne, because it is an encompassing by the form of the converse of existents, and created from the heavens the secret of lordship and the secret of encompassing, and created from it the word of encompassing absolutely, lordship, and created from the heavens the secret of lordship and the secret of encompassing by the secret of the ملكوت, and singled out its lights because their تعلق is to a pillar from the pillars of the Throne, served by specific higher sciences by His name al-Malik and the letters of the mīm. Likewise the repetition of this letter in the name of our Prophet is three indications: for if you meet it with al-Malik, the worlds of the ملكوت meet you; and if you meet it with the ملكوت, the lights of the ملكوت in the intellects meet you, and it is the last letter. As for the lām, and it is a letter by which Allah extended the world of الجبروت, and when its burden became heavy with the lights of the ملكوت it found no one to receive from it, then at that point Allah brought forth the kāf from the inwardness of the lām, which is known by kun, Allah created from it the world of dominion with the secrets of الجبروت and the secrets of الملكوت.
+
+( Point )
+Know
+
+---
+## Page 437
+
+**Arabic (original):**
+— ٢٣١ —
+
+اعْلَمْ أَنَّ اللَّهَ خَلَقَ الْعَالَمَ أَعْقَلَ كُلٍّ مِنْهُمَا بِحَسَبِ تَحَمُّلِهِ، فَخَلَقَ الْحَيَوَانَ النَّاطِقَ وَخَلَقَ فِيهِ الْآيَاتِ مُخْتَلِفَةً
+لِقَبُولِ النُّورَانِيَّاتِ وَكَشْفِ أَسْرَارِ الْمَلَكُوتِيَّاتِ، فَخَلَقَ الْإِنْسَانَ ثُمَّ الْجِبَالَ وَفَرَّعَ مِنْهَا الْمَعَادِنَ، وَكَانَتِ الْمِيمُ
+مَبْدَؤُهُ لِأَنَّهَا حَاطَةٌ دُرَّ الْعُقُولِ وَهُوَ بَارٌّ بِعَيْنِ عَدِّهَا، وَلِذَلِكَ أَنَّ اللَّهَ أَسْكَنَهُ فِي أَحَبِّ الْخَلْقِ إِلَيْهِ وَخَاطَبَهُ
+وَأَجَابَهُ فِي أَوَّلِ الْأَطْوَارِ، وَخَلَقَ الرُّوحَ بِالرُّوحِ فَكَانَتْ فِيهِ حِكْمَةُ الْهَيْبَةِ وَفِيهَا تَفْصِيلُ الرُّوحِ هِيَ
+ذَلِكَ وَهُوَ الْقَبُولُ الْمُتَلَقَّى لِلْكَمَالَاتِ وَالْأَسْرَارِ، فَقَسَمَتْ تِلْكَ الْوَاهِبُ الرَّبَّانِيَّةُ مِنَ الْمَلَكِ، وَقَيَّضَ اللَّهُ لِلرُّوحِ
+مَلَائِكَةً عَلَوْهُ بِهِ تَلَقَّى عَلَيْهَا أَسْرَارَ الْغُيُوبِ بِحَقَائِقِ الْمَلَكُوتِ، فَجَعَلَهَا عَالَمَ الْمُلْكِ، وَهَذَا الْعَالَمُ يَحْتَوِي عَلَى ٣
+عَوَالِمَ لِجَمِيعِ عَالَمِ النَّبَاتِ وَالْحَيَوَانِ وَالْمَعَادِنِ، وَكَانَ أَحْسَنُ الْحَيَوَانَاتِ ذَاتَ الْإِنْسَانِ، وَهَذِهِ الذَّاتُ
+مَحْصُورَةٌ عَلَى ذَوَاتٍ وَنَفْسٍ وَقَلْبٍ، وَلَمَّا كَانَ عِلْمُ الْقُدْرَةِ غَيْرَ مُقَيَّدٍ بِعَالَمِ النَّبَاتِ فَكَانَ عَالَمُ النَّبَاتِ
+يُوجَدُ فِي الْقِفَارِ وَالْبَرَارِي وَلَا يَنْحَصِرُ فِي مَكَانٍ وَاحِدٍ، فَكَانَ خَوَاطِرُ الْقَلْبِ لَا تُحْصَى، وَالْقَوْلُ لِلْقَلْبِ ٧
+أَقَالِيمَ كَمَا أَنَّ الْأَرْضَ ٧ قِسْمَةً عَلَى ٧ أَقَالِيمَ النَّفْسِ، لِأَنَّ الْقَلْبَ حَقِيقَةُ الصُّورَةِ وَقَدْ أَفَاضَ عَلَى السِّرِّ
+وَالرُّوحِ شَطْرَيِ الْإِيمَانِ، وَأَفَاضَ عَلَى النَّفْسِ وَالْعَقْلِ وَالسِّرِّ ٨، وَأُبَيِّنُ لَكَ أَقَالِيمَ مِنَ السَّبْعَةِ: الْأَوَّلُ إِقْلِيمُ
+الْفُؤَادِ الَّذِي هُوَ مَوْضِعُ الْمُلْكِ، فَإِنَّ اللَّهَ قَالَ: مَا وَسَعَنِي أَرْضِي وَلَا سَمَائِي، وَيُسَمَّى قَلْبَ عَبْدِيَ الْمُؤْمِنُ.
+الثَّانِي إِقْلِيمُ السُّوَيْدَاءِ الَّذِي هُوَ مَحَلُّ الْقَلْبِ الَّذِي هُوَ رُتْبَةُ الْوَزِيرِ، الثَّالِثُ إِقْلِيمُ الشَّغَافِ الَّذِي هُوَ مَحَلُّ
+الْوَزِيرِ، الرَّابِعُ إِقْلِيمُ الْجِهَةِ وَهُوَ مَحَلُّ بَيْنَ الشَّغَافِ وَالسَّوَادِ، إِقْلِيمُ الضَّمِيرِ الَّذِي هُوَ مَحَلُّ السِّرِّ،
+السَّادِسُ إِقْلِيمُ الْغِلَافِ، السَّابِعُ إِقْلِيمُ إِحَاطَةِ الْقَلْبِ، وَلِكُلِّ إِقْلِيمٍ بَابٌ، فَالْبَابُ الْأَوَّلُ سِرُّ الْحَيَاةِ، وَبَابُ الثَّانِي
+سِرُّ الْعِلْمِ، وَبَابُ الثَّالِثُ سِرُّ الْقُدْرَةِ، وَبَابُ الرَّابِعِ سِرُّ الْإِرَادَةِ، وَبَابُ الْخَامِسِ سِرُّ الرَّحْمَةِ، وَبَابُ السَّادِسُ
+سِرُّ الْحِكْمَةِ، وَبَابُ السَّابِعِ سِرُّ الْعَمَلِ، وَإِنَّ الْأَقَالِيمَ لَهَا ٤٠ حِجَابًا وَهِيَ الَّتِي تَكُونُ بَيْنَ الْعَبْدِ وَرَبِّهِ،
+فَلِأَجْلِ ذَلِكَ جَعَلْتُ الرِّيَاضَةَ ٤٠ يَوْمًا لِأَنَّ كُلَّ يَوْمٍ يَكْشِفُ حِجَابًا، وَلِذَا يُشْرِفُ الطَّالِبُ عَلَى أَقَالِيمَ
+السَّبْعَةِ وَنَظَرَ إِلَى عَجَائِبِهَا وَمَا أَوْدَعَ اللَّهُ فِيهَا مِنَ النَّبَاتِ وَالْحَيَوَانِ وَالْمَعْدِنِ، فَهَؤُلَاءِ الْأَسْتَارُ، فَأَوَّلُ ذَلِكَ
+سِتْرُ التُّرَابِ، ثُمَّ سِتْرُ الْمَاءِ، ثُمَّ سِتْرُ الْهَوَاءِ، ثُمَّ سِتْرُ النَّارِ، ثُمَّ سِتْرُ الْيُبُوسَةِ، ثُمَّ سِتْرُ الرُّطُوبَةِ، ثُمَّ سِتْرُ الْحَرَارَةِ، ثُمَّ سِتْرُ
+الصَّفْرَاءِ، ثُمَّ سِتْرُ الْبَلْغَمِ، ثُمَّ سِتْرُ السَّوْدَاءِ، ثُمَّ سِتْرُ الدَّمِ، ثُمَّ سِتْرُ الْجَهْلِ، ثُمَّ سِتْرُ الْغَفْلَةِ، ثُمَّ سِتْرُ الْعَدِّ،
+ثُمَّ سِتْرُ الْكَثَافَةِ، ثُمَّ سِتْرُ الْمُخَالَفَةِ، ثُمَّ سِتْرُ الرُّسُوبِ، ثُمَّ سِتْرُ الشَّهْوَةِ، ثُمَّ سِتْرُ الدَّعْوَى، ثُمَّ سِتْرُ الْخَوْفِ، ثُمَّ سِتْرُ
+الرَّجَاءِ، ثُمَّ سِتْرُ الْكَرَامَةِ، ثُمَّ سِتْرُ الْأَفْعَالِ، ثُمَّ سِتْرُ الْأَقْوَالِ، ثُمَّ سِتْرُ الْقَبْضِ، ثُمَّ سِتْرُ الْبَسْطِ، ثُمَّ سِتْرُ الْغِذَاءِ، ثُمَّ سِتْرُ
+الْعِبَادَةِ، ثُمَّ سِتْرُ الضِّيقِ، ثُمَّ سِتْرُ النَّوْمِ، ثُمَّ سِتْرُ النَّهَارِ، ثُمَّ سِتْرُ اللَّيْلِ، ثُمَّ سِتْرُ الْخَاتِمَةِ، ثُمَّ سِتْرُ السَّابِقَةِ، فَهَذِهِ ٤٠
+سِتْرًا هِيَ الْأَبْوَابُ السَّبْعَةُ، وَهَذِهِ الْأَسْتَارُ بِأَرْبَعَةِ أَنْوَاعٍ تَرْتَفِعُ، فَلِكُلِّ ١٠ أَسْتَارٍ نُورٌ وَاحِدٌ،
+فَالْعَشْرَةُ الْأُولَى رَفْعُهَا نُورُ الْحَيَاةِ، وَالثَّانِيَةُ رَفْعُهَا نُورُ الْعِلْمِ، وَالثَّالِثَةُ رَفْعُهَا نُورُ الْقُدْرَةِ، وَالرَّابِعَةُ رَفْعُهَا
+نُورُ الْإِرَادَةِ، وَهَأَنَا أَبُوحُ بِتَصْرِيفِ ذَلِكَ: الْأَوَّلُ فِي الصَّافَاتِ صَفًّا، الثَّانِي فِي الزَّاجِرَاتِ زَجْرًا، الثَّالِثُ
+فِي التَّالِيَاتِ ذِكْرًا، الرَّابِعُ فِي الذَّارِيَاتِ ذَرْوًا، الْخَامِسُ فِي الْحَامِلَاتِ وِقْرًا، السَّادِسُ فِي الْجَارِيَاتِ
+يُسْرًا، السَّابِعُ فِي الْمُقَسِّمَاتِ أَمْرًا، الثَّامِنُ فِي الطُّورِ، التَّاسِعُ فِي كِتَابٍ مَسْطُورٍ، الْعَاشِرُ فِي الْبَيْتِ
+الْمَعْمُورِ، الْحَادِي عَشَرَ فِي السَّقْفِ الْمَرْفُوعِ، الثَّانِي عَشَرَ فِي الْمُرْسَلَاتِ عُرْفًا، الثَّالِثَ عَشَرَ فِي
+
+**English:**
+— 231 —
+
+Know that Allah created the world, each of them more intelligent according to its capacity. So He created the speaking animal and created in it signs differing for the reception of the luminous things and the unveiling of the secrets of the ملكوتيات. Then He created man, then the mountains, and branched from them the minerals. And the mīm was its beginning because it encompasses the pearl of the intellects, and it is righteous by the very count of it. And for that, Allah settled it in the most beloved of creation to Him and addressed him and answered him in the first stages, and He created the spirit by the spirit, so in it was the wisdom of awe, and in it is the detailing of the spirit; that is the receptive acceptance of perfections and secrets. So those divine bestowals were apportioned from the ملك, and Allah appointed for the spirit angels by which it was elevated; through them it received the secrets of the unseen by the realities of the ملكوت, so He made it the world of dominion. And this world contains 3 worlds for all the world of plants and animals and minerals. And the best of the animals is the essence of man, and this essence is confined to essences and a soul and a heart. And when the knowledge of power was not restricted by the world of plants, the world of plants was found in deserts and barren wastes and is not confined to one place. So the thoughts of the heart are innumerable, and the saying for the heart is 7 regions, just as the earth is 7 divisions upon 7 regions of the soul, because the heart is the reality of the form, and it has poured upon the secret and the spirit the two halves of faith, and it has poured upon the soul and the intellect and the secret 8. And I will explain to you regions from the seven: the first is the region of the fu’ād, which is the place of the ملك, for Allah said: My earth and My heaven did not contain Me, and it is called the heart of My believing servant. The second is the region of the suwaydā’, which is the place of the heart, which is the rank of the vizier. The third is the region of the shaghāf, which is the place of the vizier. The fourth is the region of the jihah, and it is the place between the shaghāf and the blackness. The region of the ḍamīr, which is the place of the secret. The sixth is the region of the ghilāf. The seventh is the region of the encompassing of the heart. And for every region there is a gate. So the first gate is the secret of life, and the second gate is the secret of knowledge, and the third gate is the secret of power, and the fourth gate is the secret of will, and the fifth gate is the secret of mercy, and the sixth gate is the secret of wisdom, and the seventh gate is the secret of action. And the regions have 40 veils, and they are that which is between the servant and his Lord. For that reason I made the discipline 40 days, because every day unveils a veil. And thereby the seeker overlooks the seven regions and looks at their wonders and what Allah has deposited in them of plants and animals and minerals. These are the veils. So the first of that is the veil of earth, then the veil of water, then the veil of air, then the veil of fire, then the veil of dryness, then the veil of moisture, then the veil of heat, then the veil of yellow bile, then the veil of phlegm, then the veil of black bile, then the veil of blood, then the veil of ignorance, then the veil of heedlessness, then the veil of counting, then the veil of density, then the veil of مخالفة, then the veil of sinking, then the veil of desire, then the veil of claim, then the veil of fear, then the veil of hope, then the veil of generosity, then the veil of acts, then the veil of sayings, then the veil of contraction, then the veil of expansion, then the veil of nourishment, then the veil of worship, then the veil of constriction, then the veil of sleep, then the veil of day, then the veil of night, then the veil of the end, then the veil of the precedent. So these 40 veils are the seven gates, and these veils rise by four kinds. So for every 10 veils there is one light. Thus the first ten, their lifting is the light of life; the second, their lifting is the light of knowledge; the third, their lifting is the light of power; and the fourth, their lifting is the light of will. And here I disclose the disposition of that: the first in the ranged in ranks, the second in the driving away, driving away, the third in the reciters, remembrance, the fourth in the scatterers, scattering, the fifth in the bearers, a burden, the sixth in the running, ease, the seventh in the apportioners, an affair, the eighth in the Mount, the ninth in a book inscribed, the tenth in the inhabited House, the eleventh in the raised roof, the twelfth in the sent forth, customarily, the thirteenth in
+
+---
+## Page 438
+
+**Arabic (original):**
+- ٤٣٢ -
+العاصفات عصفا الرابع عشر في الفارقات فرقا الخامس عشر في التاليات ذكرا السادس عشر في
+الناشرات نشرا السابع عشر في الفارقات فرقا الثامن عشر في الملقيات ذكرا التاسع عشر في قسمات
+أمرا عشرون في النازعات غرقا الحادي والعشرون في الناشطات نشطا الثاني والعشرون في
+السابقات سبحا الثالث والعشرون في السابقات سبقا الرابع والعشرون في المدبرات أمرا الخامس
+والعشرون في الشمس ضحاها السادس والعشرون في القمر إذا تلاها السابع والعشرون في النهار
+إذا جلاها ٢٨ في الليل إذا يغشاها ٢٩ في الأرض وما طحاها ٣٠ في الجوار الكنس الحادي والثلاثون
+في طور سينين المثنى والثلاثون في البلد الأمين الثالث والثلاثون في جملة أسماء الله تعالى من حيث
+المخلوقات على التفصيل واستنزل الآخرين ها أستار الجملة السابع والثلاثون في أستار الجملة وتمام
+الستار الثامن والثلاثون في سر القسم بما تبصرون وما لا تبصرون فهذه جملة أقسام الله في أستار الكليات
+والجزئيات والعلوات والسفليات والفرديات والمركبات والمزوجات والحسيات والملكوتيات
+وجميع المذكورات في القرآن وتحقق الطالب معرفة الإشارات وأسباب الرياضات في هذا السر
+كشفت له الرياضة عن هذه الأسرار * واعلم أن هذا الاسم نافع لأرباب العقول من أهل الولايات
+ويعطى صاحبه الهيبة * ومن خواصه إذا كتب على فضة يوم الاثنين وحوله اسم الملك وتلا الاسم
+عدده وذكره القائم به وحمله رفع الله قدره وخادمه هيمائيل وهو ١٢١ مضروبة
+في نفسها في خلوة تنزل عليه الملائكة وقضى حاجته وإن وافق عدد اسمه كان هو الاسم الأعظم وإذا تلاه
+إنسان عند حاكم رفع قدره وهذه صورته
+وذكر القائم به بالبسملة اللهم أنت الملك القدوس محيي الأرواح والنفوس مالك
+الرقاب وسبب الأسباب مالك يوم الدين ومقرب البعيد ومجيب دعوة المضطرين
+لا إله إلا الله الواحد الأحد ذلت لك رقاب الملوك وصار كل ملك لك عبدا مملوكا
+أسألك باسمك الملك القدوس أن تملكني ناصيتي وتكشف لي عن حقائق علم
+الجبروت لاحقني بالأسرار الربانية والآيات الملكوتية وأسود بإشراقي على أبناء جنسي وملكني
+اللهم ناصية عزم اسمك الأعظم الذي تعززت به ولا تسمى به غيرك أملك قدوس يا مالك الملك يا ذا
+الجلال والإكرام أجب أيها السيد الجليل هذا الاسم الجليل ومدني بروح من روحانيتك يخدمني
+في حوائجي * واعلم أن هذا الاسم له تأثير في تسخير القلوب وقضاء الحوائج فتقرض والله العدد
+المذكور واكتب المربع بما تروح به ما تريد مع تلاوة الذكر فإنه يقضى حاجتك
+( فصل في اسمه تعالى القدوس )
+بسم الله الرحمن الرحيم * اعلم أن معنى القدوس هو المنزه عن النقائص وهو الموصوف بالكمال
+والتقديس وفي حق العبد الطهارة وفي حق إيقاع مثل البيت المقدس * واعلم أن الله تعالى لما
+خلق الملائكة الحاملين للعرش والمحيطين بالكرسي والمتصرفين عن القلم والمتصفحين اللوح
+جعل لهم أنواعا من الأذكار واختلاف تعدات وكذات أهل السموات السبع وأهل الملأ الأعلى
+ذكرهم
+
+**English:**
+- 432 -
+the fourteenth in “the storming ones” storming, the fifteenth in “the separating ones” separating, the sixteenth in “the reciters” remembering, the seventeenth in “the spreaders” spreading, the eighteenth in “the throwers” remembering, the nineteenth in “the divisions” a command, twenty in “the pluckers” drowning, the twenty-first in “the active ones” activity, the twenty-second in “the racers” swimming, the twenty-third in “the racers” racing, the twenty-fourth in “the arrangers” a command, the twenty-fifth in the sun, its morning brightness, the twenty-sixth in the moon when it follows it, the twenty-seventh in the day when it reveals it, 28 in the night when it covers it, 29 in the earth and what spread it out, 30 in the pursuing ones, the hiding ones, the thirty-first in Mount Sinai, the thirty-second in the secure land, the thirty-third in the totality of the names of God تعالى from the aspect of the creatures in detail, and he brought down the others, ha, the veils of the totality, the thirty-seventh in the veils of the totality and the completion of the veil, the thirty-eighth in the secret of the oath by what you see and what you do not see. So this is the totality of the oaths of God in the veils of universals and particulars and the upper and the lower and the singulars and the composites and the paired and the sensory and the malakutian, and all that is mentioned in the قرآن, and when the student realizes the knowledge of the indications and the causes of the spiritual exercises in this secret, the exercise has disclosed to him these secrets. * And know that this name is beneficial for the possessors of intellect among the people of the states, and it gives its companion awe. * And among its properties is that if it is written on silver on Monday and around it the name of the king, and the name is recited, its number, and the one قائم به mentions it and carries it, God raises his rank, and its servant is Haimā’īl, and it is 121 multiplied by itself; in seclusion the angels descend upon him and his need is fulfilled. And if the number of its name agrees, then it is the Greatest Name. And if a person recites it before a ruler, his rank is raised. And this is its form:
+And the ذكر of the one قائم به is with the basmalah: O God, You are the King, the Holy, the Giver of life to spirits and souls, the Possessor of necks and the Cause of causes, the Possessor of the Day of Judgment, and the Bringer near of the far, and the Answerer of the supplication of the distressed. There is no god but God, the One, the Unique; the necks of kings have humbled themselves to You, and every king has become for You a slave owned. I ask You by Your name, the King, the Holy, that You make my forelock mine and disclose to me the realities of the knowledge of the dominion, join me to the divine secrets and the malakutian signs, and make me blackened by my radiance over the sons of my kind and make me king. O God, the forelock of the resolve of Your Greatest Name, by which You have become mighty and by which none other than You is named, O King, Holy, O Possessor of the kingdom, O Possessor of majesty and honor, answer, O noble lord, this noble name and supply me with a spirit from Your روحانيتك that serves me in my needs. * And know that this name has an effect in subjugating hearts and fulfilling needs, so cut, by God, the mentioned number and write the square with what you wish to bring about what you want, with the recitation of the remembrance, for your need will be fulfilled.
+
+(Chapter on His تعالى name, the Holy)
+
+In the name of God, the Merciful, the Compassionate. * Know that the meaning of the Holy is the One purified from deficiencies, and He is described by perfection and sanctification; and in the right of the servant, purity; and in the right of causing, like the Holy House. * And know that God تعالى, when He created the angels bearing the Throne, and those surrounding the Kursi, and those acting from the Pen, and those perusing the Tablet, made for them kinds of remembrances and differences of counts, and likewise the people of the seven heavens and the people of the Highest Assembly, their remembrance
+
+Notes:
+[Grid content preserved as-is]
+
+---
+## Page 439
+
+**Arabic (original):**
+- ٤٣٣ -
+
+ذِكْرُ قُدُّوسٍ * وَأَمَّا أَهْلُ الْكَرَمِ فَذِكْرُهُمْ * سُبُّوحٌ قُدُّوسٌ وَأَمَّا أَصْحَابُ اللَّوْحِ فَذِكْرُهُمْ
+قُدُّوسٌ سُبُّوحٌ رَبُّ الْمَلَائِكَةِ وَالرُّوحِ وَأَنَّ مَعْنَى اسْمِهِ الْقُدُّوسِ الْعُلُوُّ فِي لَطَائِفِ الْجَبَرُوتِ الْأَعْلَى
+الَّذِي جَلَّتْ أَنْوَارُهُ عَنِ الْإِدْرَاكَاتِ * وَمِنْ خَوَاصِّ هَذَا الِاسْمِ إِذَا وَافَقَ عَدَدُهُ اسْمَ أَوْ ضَافَ
+إِلَيْهِ سُبُّوحٌ وَلَازَمَ عَلَيْهِ فَإِنَّهُ يَكْشِفُ لَهُ عَنِ الْعَوَالِمِ الْعُلْوِيَّةِ وَأَنَّ مَنْ قَالَ سُبُّوحٌ قُدُّوسٌ رَبُّ الْمَلَائِكَةِ
+وَالرُّوحِ وَلَازَمَ عَلَى ذِكْرِهِ فَإِنَّهُ يَكْشِفُ لَهُ عَنْ عَوَالِمِ الْمَلَكُوتِ وَالْجَبَرُوتِ وَهُوَ ذِكْرُ حَمَلَةِ الْعَرْشِ
+بَعْدَ الْحَوْقَلَةِ * هُوَ يُتْلَى مَرَّةً وَالْحَوْقَلَةُ مَرَّةً ذِكْرُ الْكُرُوبِيِّينَ وَالرُّؤَسَاءِ جَمِيعًا ( تَنْبِيهٌ )
+اعْلَمْ أَنَّ رُوحَ الْقُدْسِ هُوَ فِي سِدْرَةِ الْمُنْتَهَى وَهُوَ يَتَجَلَّى لِلتَّخْلِيقِ الْإِيمَانِيَّةِ فِي الْقُلُوبِ الظَّاهِرَةِ وَهُوَ
+وَحْيُ الْإِلْهَامِ عِبَارَةُ الْمُقَرَّبِينَ وَهُوَ الْحَدِيثُ الَّذِي يُلْقِيهِ اللَّهُ عَلَى الْقُلُوبِ بِوَاسِطَةِ رُوحِ الْقُدْسِ وَهُوَ
+عَلَى ٥ مَرَاتِبَ مَرْتَبَةُ السِّرِّ وَالْعَقْلِ وَالرُّوحِ وَالنَّفْسِ وَالْقَلْبِ وَذَلِكَ أَنَّ الْعَالَمَ الْإِنْسَانِيَّ مُقَدَّسٌ فِي
+أَصْلِ الْوَضْعِ مُنَزَّهٌ عَنْ غَيْرِ التَّوْحِيدِ فَاللهُ تَعَالَى أَظْهَرَ سِرَّهُ فِي عَيْنِ الْقُرْبِ وَأَظْهَرَ عَقْلَهُ بِأَنْوَارِ الشُّهُودِ
+وَأَظْهَرَ رُوحَهُ بِأَنْوَارِ الْمُخَالِطَةِ وَأَظْهَرَ نَفْسَهُ بِحَقَائِقِ الْجَنَّةِ وَأَظْهَرَ قَلْبَهُ بِنُورِ الْإِيمَانِ لِأَنَّ الْأَسْرَارَ
+لَطَائِفُ الْإِيمَانِ وَالطَّهَارَةُ ثَلَاثَةُ أَقْسَامٍ طَهَارَةٌ مِنَ الْأَلْوَانِ بِصَفَاءِ الْوَقْتِ وَالثَّانِيَةُ طَهَارَةٌ مِنَ التَّفَكُّرِ
+وَالثَّالِثَةُ مُرَاقَبَةُ الْمَتْرُوكِ مِنَ السِّرِّ لِتَلَقِّي ذَلِكَ بِحَسَبِ التَّجَلِّي وَأَنَّ الطَّهَارَةَ الْكَامِلَةَ هِيَ التَّقْدِيسُ
+الْأَصْلِيُّ وَهُوَ مُسْتَغْرِقٌ فِي بِحَارِ الْعَظَمَةِ وَأَنْوَارِ الْأَزَلِ وَذَلِكَ رُتْبَةُ الصِّدِّيقِينَ وَالْأَنْبِيَاءِ وَالْأَوْلِيَاءِ
+وَالْمُقَرَّبِينَ وَأَمَّا تَقْدِيسُ الْعُقُولِ فَعَلَى ثَلَاثَةِ أَقْسَامٍ الْقِسْمُ الْأَوَّلُ تَقْدِيسُ الْعَقْلِ عَنِ الْهُفُوَاتِ وَالنَّظَرِ
+إِلَى عَيْنِ حِكْمَتِهِ الثَّانِي الثُّبُوتُ عَلَى الْخِطَابِ الْأَوَّلِ بِدَوَامِ الْمُشَاهَدَةِ وَمُطَالَبَةِ الْأَزْمِنَةِ فِي ذَلِكَ
+بِتَوْفِيقِ اللَّهِ الثَّالِثُ هُوَ الْإِقْلَاعُ عَنِ الْمُخَاطَبَةِ الْأُولَى فِي مُشَاهَدَةِ الْمُخَاطَبَةِ الْأُولَى فِي كُلِّ خَاطِرٍ وَالْوَقْفُ
+فِي الِاضْمِحْلَالِ فِي عُرُوقِ الْقِدَمِ وَهُوَ مَقَامُ الْأَبْرَارِ وَأَمَّا تَقْدِيسُ الْأَرْوَاحِ فَهُوَ عَلَى ثَلَاثَةِ أَقْسَامٍ
+الْأَوَّلُ الثُّبُوتُ عَلَى مُشَاهَدَتِهِ فِي عَالَمِ النَّفْحَةِ وَكَيْفَ تَحَقَّقَتْ بِحَقَائِقِ اللَّوْحِ وَالْقَلَمِ الَّذِي هُوَ مَبَادِئُ
+الْأَرْوَاحِ الْأَعْلَى الْخَالِي مِنَ التَّلَوُّثَاتِ وَقَبُولِهَا إِلَى أَنْ يَتَلَقَّى الْعَقْلُ بِالْعَقْلِ وَأَمَّا تَقْدِيسُ النُّفُوسِ فَهُوَ
+عَلَى ثَلَاثَةِ أَقْسَامٍ الْأَوَّلُ ثُبُوتُهَا عَلَى السَّبْعِ الْأُوَلِ وَقَبُولُهَا لِلسِّرِّ بِمَا قَدَّرَهَا وَذَلِكَ بِذَهَابِ الشَّهَوَاتِ
+الْمُعَيَّنَةِ وَقَطْعِ الْعَوَائِدِ الْمَأْلُوفَةِ بِرِيَاضَاتِ الثَّانِي شُهُودُهَا صُوَرَ الْأَكْوَانِ الَّتِي أَوْدَعَهَا اللَّهُ فِي اللَّوْحِ
+الْمَحْفُوظِ إِذْ هِيَ لِرُوحِ الْعَالَمِ الْإِنْسَانِيِّ بِمَا أَوْدَعَ اللَّهُ فِيهَا مِنْ سِرِّ الْحَرَكَاتِ وَذَلِكَ بِمُطَالَعَةِ الْعُلُومِ الرَّبَّانِيَّةِ
+وَالشَّوَاغِلِ عَلَى طَوَارِقِ رُمُوزِ أَهْلِ الْمَعْرِفَةِ وَالتَّحْقِيقِ وَالتَّدَبُّرِ فِيمَا تَلُوحُ بِهِ أَهْلُ الْأَحْوَالِ الثَّالِثُ انْقِلَابُهَا
+مِنَ الْإِشَارَةِ إِلَى التَّحَقُّقِ الْأَوَّلِ إِلَى اللَّوَّامَةِ ثُمَّ إِلَى الْمُطْمَئِنَّةِ وَهُوَ الثَّالِثُ وَذَلِكَ أَنْ يَقْطَعَ بَنِيَّةَ الْعَالَمِ
+السُّفْلِيِّ الْمُشْكِلِ مِنْ ذَوَاتِهِ أَفْعَالَهَا وَصِفَاتِهَا وَأَمَّا تَقْدِيسُ الْقُلُوبِ فَعَلَى ثَلَاثَةِ أَقْسَامٍ تَقْدِيسُ الْإِيمَانِ
+مِنْ ظُلْمَةِ الشِّرْكِ وَتَقْدِيسُ الْأَعْمَالِ مِنَ الرِّيَاءِ الثَّانِي الْأَمْرُ وَالنَّهْيُ بِالْإِخْلَاصِ فَتَقْدِيسُ الْإِيمَانِ
+هُوَ مُلَاحَظَةُ الْأَنْفَاسِ فِي حَضْرَةِ الْحَقِّ وَذَلِكَ بِزَوَالِ التَّأْيِيدِ ثُمَّ تَقْدِيسُ الْأَعْمَالِ وَيَجْعَلُ الْحَقَّ قِبْلَتَهُ
+وَلَا يَلْتَفِتُ إِلَى جِهَةٍ بَلْ يَنْظُرُ إِلَى الْحَقَائِقِ كُلِّهَا الثَّالِثُ الْقِيَامُ بِالْخِدْمَةِ فِي كُلِّ نَفْسٍ وَعَدَمِ الرِّئَاسَةِ
+وَكُلِّ قَلْبٍ فِيهِ مِثْقَالُ ذَرَّةٍ مِنْ حُبِّ الرِّئَاسَةِ حَرَّمَ اللَّهُ عَلَيْهِ اجْتِرَاعَ حَلَاوَةِ الْإِيمَانِ لِأَنَّهُ يَدْعُو بِمَا
+
+**English:**
+- 433 -
+
+ذكر قدوس * And as for the people of generosity, their remembrance is * Subbūḥ, Quddūs. And as for the people of the Tablet, their remembrance is Quddūs, Subbūḥ, Lord of the angels and the Spirit. And that the meaning of His name, the Holy, is exaltation in the subtleties of the Highest Dominion, whose lights have become too sublime for perceptions. * And among the properties of this name is that if its number agrees with a name, or if Subbūḥ is added to it and one persists upon it, then it discloses to him the upper worlds. And that whoever says Subbūḥ, Quddūs, Lord of the angels and the Spirit, and persists upon its remembrance, then it discloses to him the worlds of the ملكوت and the جبروت, and it is the remembrance of the bearers of the Throne after the ḥawqala. * It is recited once and the ḥawqala once; the remembrance of the cherubim and the chiefs altogether. (Warning)
+Know that the Spirit of Holiness is in Sidrat al-Muntahā, and it manifests for the faith-formations in the manifest hearts, and it is the revelation of inspiration, the expression of the near ones, and it is the discourse that God casts upon hearts by means of the Spirit of Holiness, and it is upon 5 ranks: the rank of the secret, and the intellect, and the spirit, and the soul, and the heart. And that is because the human world is sanctified in the أصل of the constitution, purified from other than tawḥīd. So God تعالى manifested His secret in the eye of nearness, and manifested His intellect by the lights of witnessing, and manifested His spirit by the lights of mingling, and manifested His soul by the realities of Paradise, and manifested His heart by the light of faith, because the secrets are the subtleties of faith. And purity is three divisions: purity from colors by the clarity of the time, and the second is purity from reflection, and the third is the watching over of what is left from the secret in order to receive that according to the manifestation. And that complete purity is the original sanctification, and it is immersed in the seas of majesty and the lights of pre-eternity, and that is the rank of the truthful ones and the prophets and the saints and the near ones. And as for the sanctification of the intellects, it is upon three divisions: the first division is the sanctification of the intellect from slips and looking to the eye of its wisdom; the second, steadfastness upon the first address by the دوام of witnessing and the demanding of times in that, by the success of God; the third is the turning away from the first addressing in the witnessing of the first addressing in every passing thought, and standing in annihilation in the roots of pre-eternity, and it is the station of the pious. And as for the sanctification of the spirits, it is upon three divisions: the first is steadfastness upon witnessing Him in the world of the breath, and how it was realized by the realities of the Tablet and the Pen, which are the beginnings of the highest spirits, free from pollutions, and their acceptance until the intellect receives by the intellect. And as for the sanctification of the souls, it is upon three divisions: the first, their steadfastness upon the first seven and their acceptance of the secret according to what He decreed for them, and that is by the disappearance of the specified desires and the cutting off of the accustomed habits by spiritual exercises; the second, their witnessing the forms of the existents which God deposited in the Preserved Tablet, since they are for the spirit of the human world by what God deposited in it of the secret of motions, and that is by perusing the divine sciences and the preoccupations upon the sudden occurrences of the symbols of the people of knowledge and realization, and pondering over what the people of states indicate; the third, their transformation from indication to the first realization to the self-reproaching, then to the tranquil, and it is the third, and that is that he cut off the structure of the lower world, the problematic, from its essences, its acts, and its attributes. And as for the sanctification of the hearts, it is upon three divisions: the sanctification of faith from the darkness of shirk, and the sanctification of deeds from ostentation; the second, command and prohibition with sincerity. So the sanctification of faith is the observation of the breaths in the Presence of the Real, and that is by the disappearance of support, then the sanctification of deeds, and he makes the Real his qiblah, and does not turn to any direction, but rather looks to all the realities. The third is undertaking service in every soul and the absence of leadership. And every heart in which there is the weight of an atom of love of leadership, God has forbidden upon it the swallowing of the sweetness of faith, because he calls by what
+
+Notes:
+[Grid content preserved as-is]
+
+---
+## Page 440
+
+**Arabic (original):**
+- ٤٣٤ -
+
+ليس له به حق وذلك قوله تعالى: {وَيُحِبُّونَ أَن يُحْمَدُوا بِمَا لَمْ يَفْعَلُوا}، وأما تقديس الجسم فهو على
+ثلاثة أقسام: الأول تقديس الغذاء بطلب الحلال وذلك بامتزاج التوكل والتلطف بظاهر التفويض،
+والثاني طهارة البدن بالخشوع حتى يذهب ويبقى معناه ويلطف كثيفه ويبدو لطيفه وذلك بامتزاج
+الذكر والخلوة والصمت، والثالث دوام الأوراد ولزوم الطهارة ليلاً ونهاراً واستعمال السهر
+والخدمة، وهذا مقام التائبين وأول مبادئ المبتدئين وأول بداية الورعين، فإذا تقدست أوصافك
+قابلك روح القدس من عالم الأفهام ما في قدرتك تحمده وتتكلم بحكم أهل التمكين من سر السر
+من عجائب الملكوت، ويظهر على صاحب الحال ويرى ما في عوالم الكرسي من الأرواح ويكون
+من أهل المكاشفات، وما نلنا هذا المقام الا بإقلاعنا عن الشهوات النفسانية. * الكرسي وكانت
+نتيجة النطق بالحكمة والكشف عن خواص الأسماء. * ومن خواصه من تلاه وعدده وهو على
+رياضة كاملة نال الهيبة والقبول والتقرب الى الله بهذا الاسم تلاوته دبر كل صلاة عدده في خلوة
+ورياضة، ويقول بعد ذلك: سبوح قدوس رب الملائكة والروح، ويلازم على التلاوة والصمت في
+تقديس الأسماء كما ورد عن النبي عليه السلام أنه قال: "اتقوا أفواهكم فإنها مجاري القرآن" أشار
+لطهارتها، وإذا كتب في ورقة بيضاء بمسك وزعفران وحمله إنسان وأكثر من تلاوته كان مهاباً
+مقبولاً، وإذا كتب في خاتم فضة وحمله من يفعل المعاصي ولازم على تلاوته قدسه الله من
+الشهوات. * واعلم أن هذا الاسم قد احتوى على حرف من حروف الاسم الأعظم في حقه وتلاوته
+مضروباً في نفسه يحصل المطلوب وهذه صورته:
+وأما الذكر القائم به نقول: البسملة، إلهي قدسني من شبهات الأغيار واشرح
+صدري بنور الأنوار واكشف عني عالم الملك والملكوت، لاحظ لي بالسر الأقدس
+التفسير الأنفس واكشف عن قلبي حجاب الغفلة وقربني إليك زلفى
+يا سبوح يا قدوس ومدني برقيقة من رقائق اسمك القدوس لأقدس
+بها وجودي بتقديس الأبرار الكاملين الأخيار من الأنبياء والصالحين، وسخر لي خادم هذا
+الاسم للتحلي بالتحقيق والتمكين يا مالك يوم الدين، أجب أيها السيد لقيتيل وأعوانك بحق اسمك
+القدوس.
+
+( فصل في اسمه تعالى السلام )
+* اعلم أن معنى السلام السالم في نفسه عن سمات المحدثات وفي صفاته عن صفات المخلوقات، وذلك
+لا يكون الا لله، فإذاً لا تكون سلامة الآمنة واليه كما قال عليه السلام: "اللهم أنت السلام ومنك
+السلام واليك يعود السلام تباركت وتعاليت يا ذا الجلال والاكرام". * واعلم أنه لم تكن سلامة
+صادرة الا من اسمه تعالى السلام، وقد وجد في حق المؤمن السلام وهو على إسلام خواص وإسلام
+عوام، فإسلام العوام قوله تعالى: {وَلَهُ أَسْلَمَ مَن فِي السَّمَاوَاتِ وَالْأَرْضِ طَوْعًا وَكَرْهًا}، وإسلام الخواص
+قوله تعالى: {فَمَن يُرِدِ اللَّهُ أَن يَهْدِيَهُ يَشْرَحْ صَدْرَهُ لِلْإِسْلَامِ}، وذلك أن الله جعل الإسلام مضافاً إليه إذ هو
+عموم
+
+**English:**
+- 434 -
+
+that which he has no right to, and that is His saying تعالى: {And they love to be praised for what they did not do}. And as for the sanctification of the body, it is upon three divisions: the first, the sanctification of food by seeking the lawful, and that is by the mingling of trust in God and gentleness with the ظاهر of delegation; the second, the purity of the body by humility until it departs and its meaning remains, and its coarse aspect becomes subtle and its subtle aspect appears, and that is by the mingling of remembrance, seclusion, and silence; the third, the دوام of the wirds, and adhering to purity by night and day, and using vigil and service. And this is the station of the repentant, and the first beginnings of the beginners, and the first beginning of the scrupulous. So when your attributes are sanctified, the Spirit of Holiness from the world of understandings meets you with what is within your power to praise Him and to speak with the judgment of the people of empowerment from the secret of the secret, from the wonders of the ملكوت. And it appears upon the possessor of the state, and he sees what is in the worlds of the Kursi of spirits, and he becomes among the people of unveilings. And we attained this station only by our turning away from the soul-desires. * The Kursi, and it was the result of utterance with wisdom and the disclosure of the properties of the names. * And among its properties: whoever recites it and its number, and he is upon complete spiritual exercise, attains awe and acceptance and nearness to God by this name; its recitation after every prayer, its number in seclusion and spiritual exercise, and he says after that: Subbūḥ, Quddūs, Lord of the angels and the Spirit, and he persists upon recitation and silence in the sanctification of the names, as has been related from the Prophet عليه السلام that he said: “Guard your mouths, for they are the channels of the Qur’an,” indicating their purity. And if it is written on a white sheet with musk and saffron and a person carries it and recites it often, he becomes awe-inspiring and accepted. And if it is written in a silver ring and carried by one who commits sins and persists upon its recitation, God sanctifies him from desires. * And know that this name has contained one letter from the letters of the Greatest Name in its right, and its recitation multiplied by itself obtains the sought thing, and this is its form:
+And as for the remembrance by which it is قائم, we say: the basmalah, My God, sanctify me from the doubts of others, and expand my breast with the light of lights, and disclose to me the world of dominion and the ملكوت, grant me, by the most holy secret, the most subtle interpretation, and disclose from my heart the veil of heedlessness, and bring me near to You, a nearness.
+O Subbūḥ, O Quddūs, and supply me with a subtlety from the subtleties of Your name, the Holy, so that I may sanctify by it my existence with the sanctification of the complete, excellent, righteous ones from among the prophets and the righteous, and subjugate for me the servant of this name for adornment with realization and empowerment. O Possessor of the Day of Judgment, answer, O noble lord, Lqītīl and your helpers, by the right of Your name, the Holy.
+
+(Chapter on His تعالى name, Peace)
+
+* Know that the meaning of Peace is the One safe in Himself from the marks of originated things and in His attributes from the attributes of created things, and that is not except for God. Thus there is no safety of the secure one and to Him, as he عليه السلام said: “O God, You are Peace, and from You is peace, and to You returns peace. Blessed are You and exalted are You, O Possessor of majesty and honor.” * And know that no safety has issued except from His تعالى name, Peace, and peace has been found in the right of the believer, and it is upon the Islam of the elect and the Islam of the common people. So the Islam of the common people is His saying تعالى: {And to Him has submitted whoever is in the heavens and the earth, willingly and unwillingly}, and the Islam of the elect is His saying تعالى: {So whoever God desires to guide, He expands his breast to Islam}. And that is because God made Islam attributed to Him, since it is general
+
+---
+_End of translation — 440 pages._
