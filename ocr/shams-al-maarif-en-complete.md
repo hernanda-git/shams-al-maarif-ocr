@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 446 translated pages._
+_Auto-generated from 452 translated pages._
 
 ---
 ## Page 1
@@ -25496,4 +25496,289 @@ Know that المتكبر is He who sees every thing as insignificant in relation
 And know that the one who did not fall in the right of Allah except by arrogance in the earth without right, and they are those who love to be praised for what they did not do, and they are the people of desires who follow their whims. And whoever witnesses the majesty of Allah and is a possessor of empowerment, Allah provides him with disposal in his existence. And therefore, for this name there is much finding of humility and its stillnesses and drawing near to
 
 ---
-_End of translation — 446 pages._
+## Page 447
+
+**Arabic (original):**
+- ٤٤١ -
+
+إلى الله بهذا الاسم الإقرار بكبرياء الله والخشوع، حتى يغلب عليه الخوف؛ لأن النبي عليه السلام رأى
+إنساناً يصلي وهو يعبث بلحيته فقال: لو خشع قلبه لخشعت جوارحه، وهو ذكر المتعبدين من
+المريدين مع إضافة الآية الشريفة ومداومة الأذكار وخشوع القلب، ومن كتبه وحمله في
+رأسه رفع الله قدره، وله رياضة إحدى وعشرين يوماً وتلاوته كل يوم عدده، فإن عوالمه تحضر
+وخادمه سجيل يأتي لهذا الذكر ويقضي حاجته وكل ما أراد من قمع الجبارين، وأما ذكره تقرأ
+البسملة وتقول: اللهم أنت المتكبر لا كبير غيرك لك الكمال المطلق ولك الجبروت القهري لا إله إلا
+أنت يا أول يا آخر يا ظاهر يا باطن أسألك بإظهار يا الله يارب اللهم أقهر أعدائي وأحي قلبي
+وأيدني بالخضوع والخشوع حتى يخشع لك قلبي وجوارحي الخضوع إليك المتكبر يا أمان
+الخائفين يارب العالمين، من لازم عليه فتح الله عليه ونال شرف الكشف.
+(فصل في اسمه تعالى الخالق)
+اعلم أن الخالق هو الصانع وهو خالق على الدوام في كل لمحة وخطرة سبحانه وتعالى، والخلق هو
+الإبداع المخترع من غير مثال، وعالم الملك والملكوت هو الاختراع وتفصيله عالم الأسرار والعالم
+العلوي وهو عالم الرتق وعالم الغيب والعالم السفلي وعالم الفتق، وذلك سر الله الإمدادي، قال تعالى:
+ألا له الخلق والأمر، وهذا الاسم من أذكار الأكابر، وصاحب هذا الاسم يتفكر في أصول مبادئ
+المخلوقات حتى يكشف له عن ذلك حتى يحيط ببعضها ثم يستدرج عوالمه على التفصيل فيظهر له
+شرف الإشارة فيه قبل التفصيل وتطبع أحوالهم في قلبه، وبعد ذلك يظهر مرتقب الروحانيات
+وترتيب غايتهم وما وكل إلى كل أحد فيعرف ما في السموات وما في الأرض، ثم القلوب المستنيرة
+في الهداية الإيمانية لم تعرف في الظاهر الحسية، وذاكر هذا الاسم ينال المراتب العلية بالاطلاع
+على المراتب العلية القابلة الوجودية المثبتة المراتب للنفس؛ لأن العالم صورة في النفس والقلب
+يطابقه المعلوم؛ لأن علم الله والعلويات حسب وجودها ووجودها سبب لحصولها. واعلم أن الله
+خلق السموات السبع وجعلها حجب الأنوار وحاملات كرامات الجبايات، وخلق الأرضين السبعة
+وجعلها خزان نعمه، وكان مركزها أربعة كما أن مركز السفليات أربعة، فأما مركزها العلويات فأولها
+العقل أي أنها مدارك العقول، ومركز الروح بمعنى أنها مدارك النفوس، ومركز القلب بمعنى مدارك
+العقول، فمركز العقل العظيم ومركز الروح القلم ومركز النفس الكرسي الواسع ومركز
+القلب اللوح المحفوظ، وخلق الأرضين وجعلها خزائن نعمته وطباق جهنمه وجعلها ظلمة حجب
+رحمته وجعل كل أرض منها حاملاً نوعاً من أنواع العذاب وآلات العقاب لأهل المعاصي
+والطغيان، وإن الحق جعل فيك نسبة هذه الأطوار وسماك بالعالم الصغير، قال بعض المحققين:
+وزعم أنك جرم صغير * وفيك انطوى العالم الأكبر
+ويجمع ذلك ستة وستون ألف طور من الأطوار مجموع أربعة وعشرين ساعة من النفس التي تنقسم على أربعة
+وعشرين ساعة وهي منقسمة على اليوم والليلة فتكون حينئذ أربعة وعشرين ساعة على ذلك منقسمة على
+اليوم والليلة، فجعل الله أطوار قلبك على ترتيب الأطوار السفلية ظهور الكل أرض ثم حجب ظلامة حجبها
+
+**English:**
+- 441 -
+
+to God by this name, the acknowledgment of the majesty of God and humility, until fear overcomes him; because the Prophet, peace be upon him, saw
+a man praying while he was playing with his beard, so he said: if his heart were humble, his limbs would be humble. And it is the remembrance of the worshippers from
+the seekers, with the addition of the noble verse and the persistence of remembrances and the humility of the heart. And whoever writes it and carries it in
+his head, God raises his rank. And it has a discipline of twenty-one days, and reciting it every day its number; then its worlds are present
+and its servant Sijjil comes for this remembrance and fulfills his need and everything he desires from the suppression of the tyrants. As for its remembrance, one reads
+the basmala and says: O God, You are the Proud, there is no great one other than You; to You belongs absolute perfection and to You belongs the coercive might. There is no god except
+You, O First, O Last, O Manifest, O Hidden, I ask You by the manifestation, O God, O Lord, O God, subdue my enemies and revive my heart
+and support me with submission and humility until my heart and my limbs humble themselves to You, submission to You, the Proud, O refuge
+of the fearful, O Lord of the worlds. Whoever persists upon it, God opens for him and he attains the honor of unveiling.
+(Chapter on His Exalted Name, the Creator)
+Know that the Creator is the Maker, and He is Creator continually in every glance and thought, glory be to Him and exalted is He. And creation is
+the invented origination without example, and the world of dominion and the kingdom is origination, and its detail is the world of secrets and the upper
+world, and it is the world of joining and the world of the unseen and the lower world and the world of splitting, and that is the secret of God’s sustaining aid. He, تعالى, said:
+Is not creation and the command His? And this name is among the remembrances of the great ones, and the possessor of this name contemplates the roots of the beginnings of
+creatures until that is unveiled to him so that he encompasses some of them, then he draws out his worlds in detail, and the nobility of the indication in it appears to him before the detail, and their states are imprinted in his heart. After that there appears the awaited spiritualities
+and the arrangement of their end and what is entrusted to each one, so he knows what is in the heavens and what is on the earth. Then the illuminated hearts
+in faith-guidance did not know in the outward sensory. And the rememberer of this name attains the lofty ranks by becoming aware
+of the lofty, receptive, existent ranks established as ranks for the النفس; because the world is a form in the النفس and the heart
+corresponds to it, the known; because the knowledge of God and the upper worlds is according to their existence, and their existence is a cause for their obtaining. And know that God
+created the seven heavens and made them veils of lights and bearers of the honors of levies, and created the seven earths
+and made them خزائن of His blessings, and their center was four just as the center of the lower worlds is four. As for their center, the upper worlds, the first of them is
+the intellect, meaning that they are the perceptions of intellects, and the center of the spirit, meaning that they are the perceptions of souls, and the center of the heart, meaning the perceptions of
+intellects. So the center of the great intellect and the center of the spirit is the Pen and the center of the soul is the vast Throne and the center of
+the heart is the Preserved Tablet. And He created the earths and made them خزائن of His blessing and the layers of His Hell and made them darkness, veils
+of His mercy, and made each earth among them bearing a kind of kinds of punishment and instruments of chastisement for the people of sins
+and tyranny. And indeed the Truth placed in you the proportion of these stages and named you the small world. Some of the verifiers said:
+And they claim that you are a small body * and within you the greater world is folded
+And that comprises sixty-six thousand stages from the stages, the sum of twenty-four hours of the soul, which is divided into four
+and twenty hours, and it is divided over the day and the night, so it then becomes twenty-four hours, thus divided over
+the day and the night. So God made the stages of your heart according to the arrangement of the lower stages, the manifestation of all earth, then the darkness veils veiled it
+
+Notes:
+[Grid content preserved as-is]
+
+---
+## Page 448
+
+**Arabic (original):**
+- ٤٤٢ -
+
+وظلمة رحمتها فجعل أطوار نشأتك الجسمانية على فلك فأول ما قاله تعالى من ماء مهين ثم جعلناه
+نطفة في قرار مكين ثم خلقنا النطفة علقة الآية فهذه سبعة أطوار مشكلات فأنت في ست أطوار غير
+مشكلات وذلك أن الله يأمر ملائكة العرش الموكلين بمعرفة النطف المخلقة وغير المخلقة فيأخذون النطفة في
+مقابلة من يريد الله إبرازه ولا يزالون يتقدمون حتى تقع النطفة في الرحم فتلقاها أيدي الملائكة
+ويضعونها في الرحم مهلاً يطوفون في الرحم ويسمون الله عليها فلا يقربها شيطان ويدومون على
+ذلك أربعين يوماً ولذلك أمرنا النبي عليه السلام إذا أتينا أهلنا أن نكون على وضوء وطهارة
+وصلاة وركوع ونسمي الله ونقول اللهم جنبنا الشيطان وجنب الشيطان ما رزقتنا اللهم ارزقنا
+ولداً صالحاً والحكمة في اختصاص ملائكة العرش بذلك لأن العرش عليه اسم الرحمن لأن الرحم
+مشتق من الرحيم ولذلك قال عليه السلام يقول الله تعالى هي الرحم وأنا الرحمن اشتققت لها اسماً من
+أسمائي فمن وصلها وصلني ومن قطعها قطعني ولا يزال ملائكة النطف طائفين بالنطفة أربعين
+وهو مبلغ أشدها المبلغ في علم آخرهم ( تنبيه ) اعلم أن الجنين إذا بلغ أربعة أشهر وتحرك فإنه
+يكون سريع النزول وقالت الأطباء أن المولود لسبعة يعيش وإذا ولد لثمان لا يعيش ووقع بحث بين
+الحكماء والمنجمين فقال الحكماء أن الولد عند كمال السبعة أشهر يتحرك للخروج فإن خرج عاش
+وإن لم يتهيأ يشرع في البطن عقب الحركة ولا يتحرك في الشهر الثامن وهذا ثقل حركته وهذا قبل
+البحران لأن الطبيعة في أيام البحران تشتغل بدفع البحران للمولود في المدة يوماً وليلة ويسكن للتشريح
+وإن نفس التحرك في الثامن يقوم مقامه مثل الحرارتين ولذلك يضعف الولد غاية الضعف ولا
+يعيش وقال المنجمون أن الولد إذا صار في الرحم يتربى بتربية الفلك الأول زحل والثاني المشتري
+إلى السابع فإذا انتهى إلى الثامن استراح وهو ذو زحل لأنه بارد يابس طبعه الموت ولا يعيش الولد
+والأول أصح * واعلم أن المولود إذا بلغ الأربعين الأولى فإن ملائكة العلم يتسلمونه ويتدبرون
+أمره فإذا أراد الله به أمراً مثل موته أو سقطه أنساه أمره وإذا أراد الله تمام خلقه فإنه يتناوله
+عظام أهل السموات بحكمة إلهية ولا يعتبر بالقول وتمام النشأة بنون الجمانة أوسع وإذا تم
+له تمام النشأة تتلقاه ملائكة التوحيد وكذلك ملائكة الأمانة إن كان من أهل اليمين جمع الله له
+بين الأمانة والحكمة وأنوار الإضافة فعند ذلك يظهر في ولادته نور الله يملأ ما بين السماء والأرض
+وترفع الملائكة أصواتها بالتهليل والتكبير وهذا خاص بالنبيين والصديقين والشهداء والصالحين
+وإذا طمس الله نور فطرته وأنوار حكمته ملأ السموات والأرض ظلمة فترتزق الشياطين وأرواح
+الفجرة وتسعر النار لمعصية سبقت لا لمخالفة ظهرت بل لظهور الحكمة القهرية ومتمم الإرادة وإن
+مراكز السفليات ٤ وهي النار والهواء والتراب والماء فمركز الحرارة فلك الشمس ومركز
+البرودة فلك القمر ومركز الرطوبة فلك المشتري ومركز اليبوسة فلك زحل وقد تداخلت أجزاؤه
+الطبائع بالإضافة إلى كل فلك من الأفلاك السبعة فهذه الأركان الطبيعيات التي هي مركز السفليات
+( تنبيه ) اعلم أن حقائق الحروف هي الأسماء والأسماء هي الأمانة فأنت حامل الأمانة وهي
+الأسماء وشروطها أن تتممها بأعمال صالحة وهي الصلاة في اليوم والليلة ومفتاحها الوضوء وإقامتها
+بأن
+
+**English:**
+- 442 -
+
+and the darkness of its mercy. So He made the stages of your bodily formation upon a sphere. So the first of what He, تعالى, said is from vile water, then We made it
+a drop in a secure resting-place, then We created the drop a clot, the verse. So these are seven problematic stages, and you are in six stages not
+problematic. That is because God commands the angels of the Throne entrusted with knowing the formed and unformed drops, so they take the drop in
+the presence of whom God wishes to bring forth, and they continue advancing until the drop falls into the womb, then the hands of the angels meet it
+and place it in the womb gently; they circle in the womb and name God over it, so no devil approaches it, and they continue upon
+that for forty days. Therefore the Prophet, peace be upon him, commanded us, when we come to our families, to be upon ablution and purity
+and prayer and bowing, and to name God and say: O God, keep Satan away from us and keep Satan away from what You have provided us. O God, provide for us
+a righteous child. And the wisdom in تخصيص the angels of the Throne with that is because upon the Throne is the name of the Merciful, because the womb
+is derived from the Merciful. Therefore he, peace be upon him, said: God, تعالى, says: it is the womb, and I am the Merciful; I derived for it a name from
+My names. So whoever joins it joins Me, and whoever cuts it cuts Me off. And the angels of the drops continue circling the drop for forty,
+and it is the extent of its utmost extent in the knowledge of its latter ones. (Note) Know that if the fetus reaches four months and moves, then it
+will be quick in descent. And the physicians said that the one born at seven lives, and if born at eight he does not live. And a discussion occurred between
+the sages and the astrologers. The sages said that the child, upon the completion of seven months, moves to come out; if he comes out he lives,
+and if it is not facilitated, he begins in the belly immediately after the movement, and he does not move in the eighth month, and this is the heaviness of his movement, and this is before
+the crisis, because nature in the days of the crisis is occupied with دفع the crisis for the newborn in the period, a day and a night, and it settles for dissection.
+And indeed the very movement in the eighth takes its place, like the two heats; therefore the child weakens to the utmost weakness and does not
+live. And the astrologers said that if the child becomes in the womb, he is reared by the rearing of the first sphere, Saturn, and the second, Jupiter,
+up to the seventh. Then when he reaches the eighth, he rests, and he is of Saturn, because he is cold and dry, his nature is death, and the child does not live.
+And the first is more correct. * And know that if the newborn reaches the first forty, then the angels of knowledge receive him and take charge of
+his affair. So if God wills for him a matter such as his death or his miscarriage, He makes him forget his affair. And if God wills the completion of his creation, then He is taken by
+the bones of the people of the heavens with divine wisdom, and it is not considered by speech. And the completion of the formation by the sons of the pearl is broader. And if
+the completion of the formation is completed for him, the angels of tawhid receive him, and likewise the angels of trust if he is among the people of the right. God gathers for him
+between trust and wisdom and the lights of attribution. At that time the light of God appears in his birth, filling what is between the heaven and the earth,
+and the angels raise their voices with tahlil and takbir. And this is خاص to the prophets and the truthful and the martyrs and the righteous.
+And if God effaces the light of his nature and the lights of his wisdom, He fills the heavens and the earth with darkness, so the devils and the spirits
+of the wicked are nourished, and the Fire is kindled for a sin that preceded, not for a مخالفة that appeared, but for the ظهور of the coercive wisdom and the completing of the will. And
+the centers of the lower worlds are 4, and they are fire, air, earth, and water. So the center of heat is the sphere of the sun, and the center of
+cold is the sphere of the moon, and the center of moisture is the sphere of Jupiter, and the center of dryness is the sphere of Saturn. And its parts have intermingled
+the natures in relation to each sphere of the seven spheres. So these are the natural elements that are the center of the lower worlds.
+(Note) Know that the realities of the letters are the names, and the names are the trust. So you are the bearer of the trust, and it is
+the names, and its conditions are that you complete them with righteous deeds, and they are the prayer in the day and the night, and its key is ablution and its establishment
+by that
+
+Notes:
+[Grid content preserved as-is]
+
+---
+## Page 449
+
+**Arabic (original):**
+— ٤٤٣ —
+
+بأن كل عضو منها مقابل باب من أبواب جهنم حتى تفتح لك الأبواب السبعة في الجنة ولذلك قال عليه السلام من توضأ ثم أحسن الوضوء ثم قال لا إله إلا الله وحده لا شريك له له الملك وله الحمد وهو على كل شيء قدير فتحت له أبواب الجنة يدخل من أيها شاء والصلاة مفتاح أبواب الجنة وهي الاتصال بالحقائق الإلهية فأنوارك الباطنة هي حقيقة عالم الأمر وعالم الغيب وعالم الملك وعالم الملكوت وعالم الكشف وعالم الفتق وعالم الرتق وعالم الاختراع وعالم الإبداع وعالم السر وعالم الخلوة وعالم القسم وعالم الأجنة وعالم التلبية وعالم الهيولى وعالم المواليد وعالم التركيب وعالم الظهور وعالم العقل وعالم النفس وعالم القلب وعالم العرش وعالم الكرسي وعالم اللوح وعالم القلم وعالم زحل وعالم المشتري وعالم المريخ وعالم الشمس وعالم الزهرة وعالم عطارد وعالم القمر وعالم النار وعالم الهواء وعالم الماء وعالم التراب وعالم الحيوان وعالم الإنسان الكامل وهو مركب من ثلاث عوالم من عالم الأفعال وعالم الأقوال واجتمع فيه ست عوالم فأول ذلك عالم السر وهو أول عالم من عالم الوجود وهو سر الاختصاص بالقيام في عوالم التوحيد على وفق التقدير الأزلي ثم العقل بالسر ثم العقل والروح والعقل ثم الروح والعقل فهم فالروح فالعقل روح الروح ثم بالنفس وبالروح فهمت الروح فالروح روح النفس والقلب بالنفس وأم القلب جسم النفس والنفس روح القلب ثم الجسم والقلب روحه فهذه ستة عوالم جرت ستة عوالم وهي صراطك المستقيم فالحسيمات يوم جزائها على صراطها في يوم مقداره خمسين ألف سنة وأرباب النفوس يومهم كيوم وأرباب الأسرار يومهم كدرجة فلكية وأهل اللطائف يومهم كدقيقة وثانية وثالثة ورابعة إلخ فأما طبقة صراط الأجسام فهو على الطبقة العنصرية الدركية فمن هوى كان في الدرك الأسفل من النار التالي للمدرك الثاني منها وأما الدرك السابع فهو للائق وهذا صراطهم عليه فـ [كن] كن كل صراط وصفته في عالم نشأته وطور نسبته ورأى ما رأى من المشاهدة وما انفصل عنه وإلا فطبقته معلومة وأيام إقامته مفهومة حتى يكون من أول اليوم الذي مقداره خمسين ألف سنة وكانت مرتبته التضعيف في كل عالم فخرجت منه رتبة الأعداد (تنبيه) قال تعالى الله الذي خلقكم من ضعف إلى قوله تعالى يخلق ما يشاء فهذه نشأة طورية وحقائق أسماء دورية وذلك أن الله تعالى علم آدم الأسماء كلها على اختلاف أصنافها وتعاقب عوارضها فجعل في الجمعة الإنسانية بعضها وفي فطرة الإنسانية سرها وجعل مدلولاتها محل الحكم منقادة لرسم العلم وإن الله أمرك بسلوك الأسماء السانية لشرفك على الحقائق الربانية فأول مصنوع الفتق فإذا تك من أسمائه اسمه الخالق قال تعالى وجعلنا من الماء كل شيء حي فكل ما فيه للحياة مرقي عالم العوالم فهو داخل في فلك الماء وذلك مما اكتسب من فيض العرش الأزلي الأبدي الذي الماء كرسيه قال تعالى وكان عرشه على الماء (تنبيه) اعلم أن من اسمه تعالى الخالق عدد عوامله الروحانية في الطور الخلقي سبعمائة وأحدى وثلاثون فتجده في فلك حصره وإن هذه النقطة يديرها المدبر أربعين يوما ولكل يوم من الروحانية المتعلقة بقوة الاسم المخصوص سعة سره فإذا تمت الأربعون الطورية واستدار عليها اسمه تعالى الباري بتدبيراتها
+
+**English:**
+— 443 —
+
+by which each limb of it corresponds to a gate from the gates of Hell, until the seven gates in Paradise are opened for you. Therefore he, peace be upon him, said: whoever performs ablution, then perfects the ablution, then says, There is no god except God alone, no partner has He; His is the dominion and His is the praise, and He is powerful over everything, the gates of Paradise are opened for him; he enters from whichever of them he wishes. And prayer is the key to the gates of Paradise, and it is the connection with the divine realities. So your inward lights are the reality of the world of command and the world of the unseen and the world of dominion and the world of the kingdom and the world of unveiling and the world of splitting and the world of joining and the world of origination and the world of invention and the world of secret and the world of seclusion and the world of allotment and the world of embryos and the world of talbiyyah and the world of hyle and the world of births and the world of composition and the world of manifestation and the world of intellect and the world of soul and the world of heart and the world of the Throne and the world of the Chair and the world of the Tablet and the world of the Pen and the world of Saturn and the world of Jupiter and the world of Mars and the world of the Sun and the world of Venus and the world of Mercury and the world of the Moon and the world of fire and the world of air and the world of water and the world of earth and the world of animal and the world of the perfect human being, and it is composed of three worlds from the world of acts and the world of sayings, and six worlds gathered in it. So the first of that is the world of secret, and it is the first world from the world of existence, and it is the secret of اختصاص with standing in the worlds of tawhid according to the eternal decree. Then the intellect by the secret, then the intellect and the spirit and the intellect, then the spirit and the intellect, they understood, then the spirit, then the intellect, the spirit of the spirit, then by the soul and by the spirit the spirit was understood, so the spirit is the spirit of the soul, and the heart by the soul, and the mother of the heart is the body of the soul, and the soul is the spirit of the heart, then the body and the heart its spirit. So these are six worlds; six worlds have run, and they are your straight path. So the sharp ones, the day of their recompense is upon their path in a day whose measure is fifty thousand years, and the lords of souls, their day is like a day, and the lords of secrets, their day is like a celestial degree, and the people of subtleties, their day is like a minute and a second and a third and a fourth, etc. As for the layer of the path of bodies, it is upon the elemental infernal layer. So whoever inclines was in the lowest pit of the Fire, the following of the second perception from it. And as for the seventh pit, it is for the fitting, and this is their path upon it. So [be] be every path and its description in the world of its formation and the stage of its relation, and he saw what he saw of witnessing and what separated from him; otherwise its layer is known and the days of his stay are understood, until he is from the beginning of the day whose measure is fifty thousand years, and his rank was multiplication in every world, so the rank of numbers emerged from it. (Note) He, تعالى, said: God, who created you from weakness, to the saying of Him, تعالى, He creates what He wills. So these are a staged formation and cyclical realities of names. That is because God, تعالى, taught Adam all the names, with the اختلاف of their kinds and the succession of their accidents, so He placed in the human Friday some of them and in the human nature its secret, and made their significations the place of judgment, obedient to the form of knowledge. And God commanded you to follow the lofty names for your nobility over the divine realities. So the first made thing is splitting. So if among His names is His name the Creator, He, تعالى, said: And We made from water every living thing. So everything in it for life, elevated, world of worlds, is داخل in the sphere of water, and that is among what was acquired from the eternal, everlasting effusion of the Throne, whose seat is water. He, تعالى, said: and His Throne was upon the water. (Note) Know that among His name, تعالى, the Creator, the number of his spiritual agents in the creative stage is seven hundred and thirty-one, so you will find it in the sphere of its enclosure. And this point is moved by the disposer for forty days, and for every day of the spirituality connected to the power of the specific name is the breadth of its secret. So when the forty of the stage is completed and His name, تعالى, the Originator, has revolved upon it with its dispositions
+
+Notes:
+[Grid content preserved as-is]
+
+---
+## Page 450
+
+--- PAGE 450 TRANSLATION ---
+
+---
+## Page 451
+
+**Arabic (original):**
+- ٤٤٤ -
+
+باسم الخالق إلى الخط الأزلي والكتاب الدهري وعدد من يخلقه من النسب الروحانية والأطوار
+البدائية وإن الإمداد الكلي هو مائتان وأربع وأربعون نوراً يمد للجن من اسمه الباري بتدبير تلك
+العوالم وتدبير تلك الأنوار المنبعثة من هذا الاسم المخزون ولومت إضافة نورانية رحمانية إلى زمام أهل
+السعادة وأهل الخذلان ثم بعد ذلك يستولي عليه اسمه تعالى المصور فيض على وجوده بنسبته المشرقة
+وروحانيته المحرقة التي عددها ثلثمائة وسبعة وثلاثون يوماً وذلك لكل يوم ثمانية أجزاء وتسعة أعشار بلطف
+تدبير إبداعه فلا تزال هذه الأطوار النورانية تدور عليها أفلاكها الدورية إلى أن يكمل دور
+الأسماء الثلاثة وهي اسم الخالق والباري والمصور فهو لا يزال يمدهم اسمه تعالى القدير وذلك أن
+يفيض عليه من أنوار المقادير واختلاف التدابير ثلثمائة نوع في خمسة وأربعين نوعاً والترجع
+إلى الخواص فمن خاصته لقضاء الحوائج تقرأه عدد ٥١١٥ في مكان خال وعند تمام العدد
+يسأل حاجته فإنها تقضى كائنة ما كانت وتحضر عوالمه بحسب استعداده ويقضون حاجته وخادمه
+طماخيل وهو من عوالم ميكائيل عليه السلام ويسبح ويقول سبحان الخالق الباري المصور
+مدة الخلوة والرياضة أربعين يوماً فإنه يكشف لك عن دقائق الأمور وأما ذكره فالبسملة اللهم
+أنت خالق الموجودات الأصلية ومكونها وأنت الذي أظهرتها من العدم المخترع بقوة التدبير
+بإرادتها تفضلت به مما سبق من علمك في القدم فأنت المخترع لأنواع الأشياء على ما تشاء من
+إيجادها وإبرازها من ظلمة الغيب بأحسن الترتيب والتفاصيل أسألك يا مبدع الأشياء ومحيي
+الأحياء أن تنزل في قلبي نوراً ذاتياً تجذب به شهودك وأن تسخر لي عبدك طماخيل
+خادم هذا الاسم ليوقفني على أسرار الاختراع لأتحقق به ولعه في النعيم الأكبر وتحقيق
+الكلمات الظهور من صفاتك العليا وأثلني ذلك يا الله يا خالق ما من عبد تلا هذا الذكر والاسم
+الشريف عدده إلا كشف له عن أسرار المخلوقات
+
+(فصل في اسمه تعالى الباري)
+
+اعلم أن الباري هو الخالق لأنه هو الذي أوجد الخلق من تراب والشاهد قوله تعالى هو الذي خلقكم من
+تراب والتراب تسمية العرب ثرى البرية والثرى هو التراب والبرية هم الخلق إلا أن له حكمة
+وظهور صفة في اختلاف الأجناس فلو كانت الأسماء مترادفة لما قال تعالى ولله الأسماء الحسنى
+فادعوه بها * واعلم أن اسم الاتحاد والإبداع إذا خرج ذوات المكنونات من القدم إلى الوجود
+واسم الخلق يتناول جميع المخلوقات (تنبيه) اعلم أن الحق سبحانه وتعالى لما أوجد العقل في
+العلم الأول ثم أوجد العالم في لطيف الهواء ثم نقلهم إلى ظهور الذر فكانت هذه الثلاث نشأت طينة
+من قبل علم التركيب وظهور التدريج والتركيب طاق الأطوار الأجسام بأجسام فقيد لها
+قوالب فيطبع عليها خلق الأجسام فريق في الجنة وفريق في السعير وهم أهل الشمال والشكل
+واحد والحركة واحدة والسكون علمنا أن العلويات لاي السفليات فمن صفت نفسه في
+قالب النور في صفة الرحمة خرجت مطمئنة ومن طغت نفسه في قالب الظلمة خرجت أمارة بالسوء
+ومن طغت في قالب النور وأنطعت الظلمة خرجت لوامة منهم من يطيعها الله في القلب الذي
+
+يطبع
+
+---
+
+**English:**
+- 444 -
+
+In the name of the Creator, to the eternal line and the everlasting book, and the number of whom He creates from the spiritual relations and the primordial stages. And indeed the total supply is two hundred and forty-four lights, supplied to the jinn from His name, the Originator, by the management of those worlds and the management of those lights emanating from this stored name. And a luminous, merciful addition was cast to the reins of the people of felicity and the people of abandonment. Then after that His Exalted name, the Fashioner, takes control over it, and pours upon its existence by His shining relation and His burning spirituality, whose number is three hundred and thirty-seven days, and that for every day eight parts and nine tenths, by the gentleness of the management of His invention. So these luminous stages continue to revolve upon their revolving spheres until the cycle of the three names is completed, namely the name of the Creator, the Originator, and the Fashioner. He continues to supply them with His Exalted name, the Powerful, and that is that there should pour upon him from the lights of the decrees and the differences of the dispositions three hundred kinds in forty-five kinds, and it returns to the properties. So among its properties for the fulfillment of needs, you recite it the number ٥١١٥ in an empty place, and upon completion of the number he asks his need, and it is fulfilled, whatever it may be, and its worlds attend according to his readiness, and they fulfill his need, and his servant is Tmakhīl, and he is from the worlds of Michael, peace be upon him, and he glorifies and says: Glory be to the Creator, the Originator, the Fashioner. The duration of seclusion and discipline is forty days, for it will disclose to you the subtleties of matters. As for its mention, it is the basmalah: O Allah, You are the Creator of the primordial existents and their fashioner, and You are the One who brought them forth from invented nonexistence by the power of management, by its will You favored it from what preceded in Your knowledge in pre-eternity. So You are the inventor of the kinds of things according to what You will, in bringing them into existence and bringing them forth from the darkness of the unseen with the best arrangement and details. I ask You, O Originator of things and Giver of life to the living, to send down into my heart an essential light by which You draw Your witnessing, and that You subjugate for me Your servant Tmakhīl, servant of this name, so that he may make me aware of the secrets of invention, that I may be realized by it and its attachment in the greatest bliss and the realization of the words, the manifestation from Your highest attributes. And grant me that, O Allah, O Creator. There is no servant who recites this remembrance and the noble name its number except that the secrets of the created things are unveiled to him.
+
+(Chapter on His Exalted name, the Originator)
+
+Know that the Originator is the Creator, because He is the One who brought creation into existence from dust, and the witness is His saying, Exalted is He: He it is who created you from dust. And dust is the Arabs’ naming of the earth of the wilderness, and earth is dust, and the wilderness are the created beings, except that He has a wisdom and the manifestation of an attribute in the difference of the genera. For if the names were synonymous, He would not have said, Exalted is He: And to Allah belong the most beautiful names, so call upon Him by them. * And know that the name of union and invention, when the essences of the hidden things emerge from pre-eternity into existence, and the name of creation encompasses all created things. (Note) Know that when the Truth, سبحانه وتعالى, brought forth the intellect in the first knowledge, then brought forth the world in the subtle air, then transferred them to the appearance of atoms, these three were a clay arising before the knowledge of composition and the appearance of gradualness, and composition envelops the stages of bodies with bodies, so He assigned for them molds, and the creation of bodies is stamped upon them: a group in Paradise and a group in the Blaze, and they are the people of the north. The form is one and the movement is one and the stillness. We know that the upper ones are not the lower ones. So whoever’s soul is purified in the mold of light in the attribute of mercy comes forth tranquil, and whoever’s soul tyrannizes in the mold of darkness comes forth commanding to evil, and whoever tyrannizes in the mold of light and the darkness is subdued comes forth reproaching. Among them is one whom Allah causes to obey in the heart which
+
+is stamped
+
+---
+
+PAGE 451 TRANSLATION ---
+
+---
+## Page 452
+
+**Arabic (original):**
+- ٤٢٥ -
+
+يطبع به البهائم مثل المنهمكين في الشهوات من الطبع البهيمي كالقردة والخنازير وما أشبه ذلك
+لأن الله مسخ أرواحهم على ذلك الطبع الذي قدره وهو المعبر عنه بقوله أولئك الذين طبع الله
+على قلوبهم ليس على الصفة للتجميل وإنما أراد العلويات باللطفة الإنسانية التي قام عليها الخطاب
+وكلفت به وقوله تعالى قل كونوا حجارة أو حديداً إنما يريد أن تقسى قلوبهم عن أطوار الإيمان
+بظلمة النفس فإذا سمعوا كلام الله كان صفة المسخ عن قلة امتاعهم وذلك قوله تعالى وجعلنا على
+قلوبهم أكنة أن يفقهوه في ذاتهم وقراً وسر الظاهر قوله تعالى ثم قست قلوبكم من بعد ذلك
+فهي كالحجارة أو أشد قسوة فهذا خلق الباطن وهو معنى اسمه البارئ ولذلك جعل نسبة النفوس
+قال ما أصاب من مصيبة في الأرض ولا في أنفسكم إلا في كتاب * واعلم أن أرواح أهل السعادة
+طبعت في سر البسط وأرواح أهل الشقاوة طبعت في سر القبض وأهل السعادة جبلت على الخدمة وأجسام أهل
+الكفر جبلت على الشقاوة بالغفلة ومن وافق أهل السعادة كان في فعلين ومن سبقت عليه الشقاوة
+كان في أسفل السافلين وباء بالغضب والبعد في حق السعادة قوله تعالى فمن يرد الله أن يهديه
+يشرح صدره للإسلام وفي حق الغضب ومن يرد أن يضله يجعل صدره ضيقاً حرجاً الآية وإنما
+القوة البشرية قوة التركيب الجسماني وأما التركيب الرحماني وما قسم له من السعادة والشقاوة
+فإن طاقة البشر لا تدركه والله الموفق
+
+تنبيه لطيف لتكميل التركيب
+اعلم أن الله تعالى إذا أراد أن يكمل التركيب باسمه الخالق يمده بعوالم فلك اسمه البارئ ثم المصور
+ويتجلى عليه فلك اسمه القدير ويحصل له الأفعال فذلك يكون بأول الولادة الروحانية وهي معالم
+النبوة وهي أول المقامات ولذلك نبه عليه السلام بقوله التائب من الذنب كمن لا ذنب له وفي حديث
+آخر خرج من ذنوبه كيوم ولدته أمه فهذه أول أطوار الولادات العلويات وأول سقط الشروح
+فإذا كل ما نقشوه في صحيفة التدبير الذي أول سطوره ثلثمائة وخمسة وأربعون سطراً وتحقيق مراتب
+الاسم بمعرفة الأطوار التركيبية والتقرب إلى الله بهذا الاسم لزوم الانكسار وتعلق الفكر بعوالم
+الملكوت ومراقبة الأسرار وعليك بالتوغل في حقائق التوحيد فإذا أردت الدخول إلى الخلوة
+فريض أو بعين يوماً ولازم تلاوة الأسماء الثلاثة وهي خالق بارئ مصور حتى يغلب عليك حال
+وتخاطبك العوالم وعليك بتلاوة الأسماء كل وقت وإذا كتب في لوح من فضة وحمله ذو عاهة على
+رأسه عافاه الله وتلاوة هذا الاسم في خلوة مائتين اثنين وأربعين مضروبة في لوح من فضة فإن
+الخادم يحضر وهو رئيس على أربعة قواد تحت يد كل قائد ستة وستون صفاً من الملائكة فإذا تلى
+هذا العدد تنزل عليه الملك وهو يقول يا الله يا بارئ افتح علينا سر غيبك لا إله إلا أنت المعطي
+الهادي ويشاهد من عظيم صنع الله تعالى وأما كره تقول بسم الله الرحمن الرحيم اللهم أنت
+البارئ أبرزت العالم الأعلى من الجوهر العظيم وأبرزت أزواجاً من الأمر البهي الخفي وأبدأت
+
+---
+
+**English:**
+- 425 -
+
+by which the beasts are stamped, like those engrossed in desires from the animal stamp, such as apes and pigs and the like, because Allah transformed their spirits upon that stamp which He decreed, and it is what is expressed by His saying: Those are the ones upon whose hearts Allah has stamped. It is not in the attribute for embellishment, but rather He intended the upper ones by the human subtlety upon which the address was established and by which they were charged. And His saying, Exalted is He: Say, “Be stones or iron,” only intends that their hearts become hardened away from the stages of faith by the darkness of the النفس. So when they hear the كلام of Allah, it is the attribute of transformation because of their lack of enjoyment. And that is His saying, Exalted is He: And We placed over their hearts coverings lest they understand it, and in their ears heaviness. And the secret of the outward is His saying, Exalted is He: Then your hearts hardened after that, so they are like stones, or even harder in hardness. So this is the creation of the inward, and it is the meaning of His name, the Originator. Therefore He made the relation of souls. He said: No affliction befalls in the earth nor in yourselves except in a Book. * And know that the spirits of the people of felicity were stamped in the secret of expansion, and the spirits of the people of misery were stamped in the secret of contraction, and the people of felicity were created upon service, and the bodies of the people of unbelief were created upon misery through heedlessness. And whoever accords with the people of felicity is in two acts, and whoever misery has preceded against him is in the lowest of the low and has incurred wrath and distance. In the right of felicity, His saying, Exalted is He: So whomever Allah desires to guide, He expands his breast to Islam. And in the right of wrath, and whomever He desires to mislead, He makes his breast narrow, constricted—the verse. And human power is only the power of bodily composition, but as for the merciful composition and what was apportioned for him of felicity and misery, the power of man does not comprehend it, and Allah is the One who grants success.
+
+A subtle note for completing the composition
+
+Know that Allah تعالى, if He desires to complete the composition by His name the Creator, extends it with the worlds of the sphere of His name the Originator, then the Fashioner, and the sphere of His name the Powerful becomes manifest upon it, and the acts are obtained for it. That occurs by the first spiritual birth, and it is the signs of prophethood, and it is the first of the stations. Therefore the Prophet, peace be upon him, drew attention to it by his saying: The repentant from sin is like one who has no sin. And in another hadith: he came out of his sins as on the day his mother bore him. So these are the first stages of the upper births and the first fall of the explanations. So everything they engraved in the page of management, whose first lines are three hundred and forty-five lines, and the realization of the ranks of the name by knowledge of the compositional stages and drawing near to Allah by this name, is the necessity of brokenness and the attachment of thought to the worlds of the ملكوت and the watching of secrets. And upon you is plunging into the realities of tawhid. So if you desire to enter into seclusion, fast or with one eye a day, and adhere to the recitation of the three names, namely Creator, Originator, Fashioner, until a state overcomes you and the worlds address you. And upon you is the recitation of the names at every time. And if it is written on a tablet of silver and a person with an ailment carries it upon his head, Allah will cure him. And the recitation of this name in seclusion, two hundred and forty-two multiplied in a tablet of silver, for the servant will attend, and he is chief over four commanders, under the hand of each commander sixty-six ranks of angels. So when this number is recited, the angel descends upon him, and he says: O Allah, O Originator, open for us the secret of Your unseen. There is no god except You, the Giver, the Guide. And he witnesses from the عظیم making of Allah تعالى. And as for كره you say: In the name of Allah, the Merciful, the Compassionate. O Allah, You are the Originator; You brought forth the higher world from the عظیم essence, and You brought forth pairs from the hidden, splendid command, and You began
+
+---
+
+PAGE 452 TRANSLATION ---
+
+---
+_End of translation — 452 pages._
