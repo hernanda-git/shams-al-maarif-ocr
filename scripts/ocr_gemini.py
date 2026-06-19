@@ -103,20 +103,8 @@ def ocr_page(page_num):
     print(f"  [OCR] page_{page_num:03d}.pdf ({pdf_size / 1024:.0f} KB base64)", flush=True)
 
     prompt_text = (
-        "You are an expert OCR system for Classical Arabic in Naskh typeface. "
-        "Extract ALL visible Arabic text from this page VERBATIM.\n\n"
-        "RULES:\n"
-        "1. Transcribe EVERY visible character — do not skip, summarise, or rephrase.\n"
-        "2. Preserve original line breaks, paragraph spacing, and page layout.\n"
-        "3. Keep all diacritical marks (tashkeel: fatHa, kasra, Damma, sukoon, shadda) "
-        "exactly as they appear.\n"
-        "4. Keep all numerals and page numbers.\n"
-        "5. If a word or character is illegible, output [?] — NEVER guess or omit.\n"
-        "6. Do NOT add any commentary, explanations, or translations.\n"
-        "7. Do NOT correct spelling — transcribe what you see.\n"
-        "8. Preserve the original script style.\n"
-        "9. Output ONLY the extracted text, no preamble or postscript.\n\n"
-        "Begin extraction:"
+        "Extract all visible text from this page verbatim. "
+        "Output ONLY the extracted text."
     )
 
     payload = {
