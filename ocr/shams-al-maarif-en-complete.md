@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 392 translated pages._
+_Auto-generated from 398 translated pages._
 
 ---
 ## Page 1
@@ -22489,4 +22489,392 @@ in the water of the midwife, and it has descended upon it. So cut the fire off f
 And a description
 
 ---
-_End of translation — 392 pages._
+## Page 393
+
+--- PAGE 393 TRANSLATION ---
+
+---
+## Page 394
+
+**Arabic (original):**
+- ٣٨٧ -
+
+| مريخ | ١ | نار | ميزان | ١ | شمس |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| زهرة | ٢ | هواء | الشمس | ٢ | قمر |
+| قمر | ٣ | ماء | أي | ٣ | زهرة |
+| شمس | ٤ | تراب | الحوافي | ٤ | مريخ |
+
+وصفة العمل أن تأخذ من المريخ السالم من
+سواده ١ ومن الزهرة المقطوعة الظل ٢ ثم
+يسكا تأخذ من القمر الموزن ٣ ومن الشمس
+٤ وبسكا ثم ألق المسبوك الثاني على الاول
+حارا على حار يصيران جسدا واحدا ثم تأخذ من الشمس ١ ومن القمر ٢ وتسبكها
+ومن الزهرة ٣ ومن المريخ ٤ ويسكان ثم تلقى المسبوك الاول على الثاني كافعات أولا حارا على حار
+يصيران جسدا واحدا ثم اجمع السبيكة التي من الجدول الاول على الذي من الجدول الثاني يصيرا
+سبيكة واحدة أبردها بمبرد رفيع وألغمها بمثلها زئبق نقي وطيره منها تفعل ذاك ٣ مرات ثم بعد
+ذلك اسبكها ثانيا محكا ثانى ١٨ قيراطا
+
+( صفة استنزال المريخ لهذه الطريقة )
+تأخذ أوقية برادة رطبة ألغمها بمثلها زئبق طري مع واحد زنجار وماء ليمون بالسحق فانه يلتقم ا. حقه
+مع نصف أوقية عقاب ودرهمين تنكار واسحقه بالمزاج واسبكه ثانيا بزاج وعقاب ونطرون لحافا
+وفراشا وغطاه تفعل به ذلك ٣ ( صفة تكليس الزاج ) يحمى و يطفى في خل ٣ يتكلس
+( صفة غسل المريخ ) تستحقه بمثله انداراني وتلته بياض البيض وتضعه بالمقمرة وتسوق
+عليه حتى يحمى تقليه على صلابة و يغسل بالماء والملح بالفهر تفعل به الى أن ينقى من أوساخه ( صفة
+تزيين القمر ) تأخذ حب قطن وشب يماني وشعر آدمى يسحقوا و يلتوا ببيضة طران ويهلوا حبوبا
+وترهم بهم القمر وهو دائر الى أن يعجبك لونه وزنه ( صفة قطع ظل الزهرة ) يؤخذ نطرون
+وشب وملح حتيت أجزاء يسحقوا فرادى ومجموعين ثم تأخذ باذنجان مدرك و تهريء و ينقع
+في خل حر ٣ مرات و يصفى و يوضع ما ذكر، نصف، يوم و يقسم ٨ وتأخذ من الزهرة المرقعه
+وتحمى وتطفى في الماء العذب مرة و يؤخذ منها الاوزان المتقدمة قريبا فاكتم أمرك ( صفة
+ميزان الشعر ) شعر.
+ان كنت تطلب خاص الميزان * بالدال خذ والكاف هم اوزان
+من عسجد حاوزين يهرم * والشمس ها واليدر دال الثاني
+وما فيهم غير الحديد من عفر * فاسلك وعلق خالص النيران
+يأتيك شمسا خالصا لاربه * فاشكر لرب واحد منان
+شرحه مريخ أحمر مستزل ٨ زهرة مريضه : قمر ٤ شمس ٨ يقرم شمسا خالصا ( صفة
+تخمير المريخ ) تأخذ أوقية برادة مريخ طرية وتسحق معها درهم زنجفر ومثله زاج قبرصي
+أخضر ومثله علم احمر ولت بصفرة بيض وتدس ليلة تفعل به ذلك الى أن يحمر البرادة فاستزلها
+بالزيت والنطرون اشوى والتنكار من بوط الى بوط أخر ينزل فرخة حمراء ( صفة روضة
+الزهرة ) تأخذ أوقية وتر. بهم وهي دائرة بارود وقزاز أبيض مسحوقين ويكونون أوقية ونصفا
+
+**English:**
+- 387 -
+
+| Mars | 1 | Fire | Libra | 1 | Sun |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Venus | 2 | Air | the Sun | 2 | Moon |
+| Moon | 3 | Water | ay | 3 | Venus |
+| Sun | 4 | Earth | the edges | 4 | Mars |
+
+And the description of the work is that you take from Mars, sound from
+its blackness, 1, and from Venus, the cut-off of the shadow, 2, then
+yuska; you take from the Moon, weighted, 3, and from the Sun
+4, and buska; then cast the second casting upon the first,
+hot upon hot, they become one body. Then you take from the Sun 1 and from the Moon 2 and cast them
+and from Venus 3 and from Mars 4, and yuskan; then the first casting is cast upon the second, kafi‘at first, hot upon hot,
+they become one body. Then gather the alloy that is from the first table with that which is from the second table; they become
+one alloy. Cool it with a fine file and alloy it with the like of it, pure mercury, and fly it from it; do that 3 times, then after
+that alloy it again, rubbing, a second time, 18 carats.
+
+( Description of bringing down Mars by this method )
+You take an ounce of moist filings; alloy it with the like of it, soft mercury, with one verdigris and lemon water by pounding, for it swallows up its right.
+With half an ounce of ‘aqab and two dirhams of tinkar, and pound it with the mixture, and alloy it again with zāj and ‘aqab and natrun as a cover
+and a bed and a covering. Do that with it 3. ( Description of calcining zāj ) It is heated and quenched in vinegar 3; it is calcined.
+( Description of washing Mars ) You pound it with the like of it, andarāni, and its tail, egg white, and place it in the qamra, and drive
+upon it until it is heated; roast it on hardness, and wash it with water and salt with the pestle. Do that with it until it is purified from its filth. ( Description
+of adorning the Moon ) You take cotton seed, Yemeni alum, and human hair; they are pounded and kneaded with an egg of tarān, and pellets are made
+and the Moon is sprinkled with them while it is revolving until its color and weight please you. ( Description of cutting off the shadow of Venus ) Natrun
+and alum and salt, equal parts, are taken; they are pounded separately and together. Then you take a ripe eggplant and mash it, and it is soaked
+in hot vinegar 3 times, and strained, and what was mentioned is placed, half, a day, and divided into 8. And you take from the patched Venus
+and heat and quench in sweet water once, and the previously mentioned weights are taken from it shortly; so conceal your matter. ( Description of
+the balance of hair ) Hair.
+If you seek the special property of the balance * by the dāl take, and the kāf, they are weights
+From gold, two are aging * and the sun, hā, and the yā, the second dāl
+And there is in them nothing but iron from dust * so proceed and suspend pure fires
+A pure sun comes to you, for its Lord * so give thanks to the One Lord, the Bestower
+Its explanation: red Mars, brought down 8; sick Venus: Moon 4; Sun 8; it grinds a pure sun. ( Description
+of fermenting Mars ) You take an ounce of fresh Mars filings and pound with it a dirham of cinnabar and the like of green Cypriot
+zāj and the like of red ‘alam, kneaded with the yellow of eggs, and buried overnight. Do that with it until the filings redden, then bring it down
+with oil and natrun, ashwa, and tinkar, from vessel to vessel; a red chick descends. ( Description of the garden
+of Venus ) You take an ounce and you sprinkle them while it is revolving, gunpowder and white glass, both ground, and they are an ounce and a half.
+
+---
+
+--- PAGE 394 TRANSLATION ---
+
+---
+## Page 395
+
+**Arabic (original):**
+— ٣٨٨ —
+
+وَأَنْتَ تَرُشُّ عَلَى الزُّهْرَةِ وَهِيَ دَائِرَةٌ قَلِيلًا وَأَنْتَ تَسُوطُهَا تَنْزِلُ الْأَوْقِيَةُ ٤ دَرَاهِمَ
+(فَصْلٌ) فِي ذِكْرِ الْعَقَاقِيرِ وَهِيَ ٣ أَنْوَاعٍ تُرَابِيَّةٍ وَنَبَاتِيَّةٍ وَحَيَوَانِيَّةٍ فَالْتُرَابِيَّةُ ٦ أَنْوَاعٍ أَرْوَاحٍ وَأَجْسَادٍ
+وَأَحْجَارٍ وَزَاجَاتٍ وَأَمْلَاحٍ وَبَوَارِقَ فَالْأَرْوَاحُ ٤ الزِّئْبِقُ وَالنَّشَادِرُ وَالْكِبْرِيتُ وَالزَّرْنِيخُ وَالْأَجْسَادُ
+٧ الذَّهَبُ وَالْفِضَّةُ وَالنُّحَاسُ وَالْحَدِيدُ وَالرَّصَاصُ وَالْقَصْدِيرُ وَالْخَاصِّينَ مِنَ الْأَحْجَارِ ١٦ الْمَرْقَشِيثَا
+وَالْمَغْنِيسَا وَالرَّوْضُ وَاللَّازَوَرْدُ وَالرَّهَنْجُ وَالدِّيزَوَرْجُ وَالشَّاذَنْجُ وَالشَّكُّ وَالْكُحْلُ وَالطَّلْقُ وَالْحِبْسُ
+وَالزَّاجُ وَالزَّاجَاتُ وَالْقَلْقَنْدُ وَالْقَلْقَطَارُ وَالسُّورِيُّ وَالْبَوَارِقُ ٦ بُورَقُ الْحِبْرِيِّ وَبُورَقُ الصَّاغَةِ
+وَالتِّسْكَارُ وَالْبُورَقُ الْأَحْمَرُ وَبُورَقُ الرَّاوَنْدِ وَبُورَقُ الْغَرْبِ ٤ لَأَمْلَاحُ ١١ الْمِلْحُ الطِّيبُ وَالْمُرُّ
+وَالطَّرْزَدُ وَالْأَنْدَرَانِيُّ وَالنِّفْطِيُّ وَالْهِنْدِيُّ وَالْعَيْنِيُّ وَمِلْحُ الرَّمَادِ فِيهِمْ طَبِيعِيَّاتٌ مَصْنُوعَاتٌ مَعْرُوفَةٌ
+أَلْوَانُهَا وَأَجْوَدُهَا أَرْوَاحُ الزِّئْبِقِ الَّذِي يَكُونُ رَقِيقًا أَبْيَضَ إِذَا عَصَرْتَهُ بِحُرْقَةٍ لَمْ يَبْقَ فِيهِ شَيْءٌ مِثْلُ
+الْكُحْلِ (النَّشَادِرُ) نَوْعَانِ أَحَدُهُمَا مَعْدَنِيٌّ قِطَاعُ طَرْزَدِ مِلْحٍ حُرٍّ يُعْمَلُ مِنْ سَمَرْقَنْدَ
+وَمِنْهُ أَصْفَرُ لَا بُدَّ خَلَلٌ فِي الصَّنْعَةِ وَهُوَ نَشَادِرُ الْعَذَرَةِ فَإِذَا دَرَّتْهُ وَذَوَّبْتَهُ تَذُوبُ بِهَا الْأَحْبَابُ الزَّرْنِيخُ ٦
+أَحْمَرُ مَعْدُومٌ وَأَصْفَرُ مُصْمَتٌ كَالْسَنْدَرُوسِ جَرَى صَلْبٌ وَآخَرُ صَافِي عَجِيبٌ مُتَّسِعُ الصُّفْرَةِ وَأَبْيَضُ
+عَاجِيٌّ وَأَبْيَضُ مَخْلُوطٌ بِأَتْرَابٍ لَا يَصْلُحُ وَأَسْوَدُ مُخْتَلِطٌ بِأَحْصَى (الْمَرْقَشِيثَا) ٤ أَبْيَضُ فَضِّيٌّ وَأَحْمَرُ
+نُحَاسِيٌّ وَأَسْوَدُ حَدِيدِيٌّ وَأَصْفَرُ ذَهَبِيُّ (الْمَغْنِيسَا) أَلْوَانُ تُرَابِيَّةٌ سَوْدَاءُ وَمِنْهَا لَهَا عُيُونٌ لَهَا بَصِيصٌ
+وَمِنْهَا قِطَعٌ صَلْبَةٌ حَدِيدِيَّةٌ وَهُوَ ذَكَرٌ وَمِنْهَا أَجْرَدُ هَشِيٌّ أُنْثَى فِيهَا عُيُونٌ تَبْرِقُ وَهُوَ أَجْوَدُ (الرَّوْضُ)
+نَوْعَانِ اصْطَخْرِيُّ وَمَاءُ الْحَدِيدِ (التُّوتِيَا) أَلْوَانٌ كَثِيرَةٌ مِنْهَا أَخْضَرُ قِطَاعٌ وَأَصْفَرُ خَزَفِيٌّ وَمَحْمُودِيٌّ
+وَأَخْضَرُ كِرْمَانِيٌّ وَقُشُورِيٌّ وَأَبْيضُ قِشْرٍ وَزَرْقَا وَهِنْدِيُّ (الرَّهَنْجُ) هُوَ حَجَرٌ أَخْضَرُ وَفِيهِ عُرُوقٌ
+تُخَطُّ فِيهِ الْفُصُوصُ وَالْخَرَزُ وَمِنْهُ جَدِيدٌ وَعَتِيقٌ وَمِصْرِيٌّ وَكِرْمَانِيٌّ وَخُرَاسَانِيُّ وَالْكِرْمَانِيُّ
+الْعَتِيقُ أَجْوَدُ وَاللَّازَوَرْدُ نَوْعٌ وَاحِدٌ وَهُوَ حَجَرٌ تَجِدُ فِيهِ حُمْرَةً وَعُيُونًا بَرَّاقَةً * وَالْفِيرُوزَجُ نَوْعٌ
+وَاحِدٌ وَهُوَ حَجَرٌ فِيهِ حُمْرَةٌ وَعُيُونٌ رَاقَةٌ أَخْضَرُ ذَهَبِيًّا (الشَّاذَنْجُ) أَحْجَارٌ ذَهَبِيَّةٌ وَحُمْرُ الذَّهَبِ
+وَتَلُونُهُ لِأَنَّهَا مِنْ جَوَاهِرِ النُّحَاسِ (الشَّكُّ) نَوْعَانِ أَبْيَضُ وَأَصْفَرُ يُؤْتَى بِهِمَا مِنْ مَعَادِنِ الْفِضَّةِ أَبْيَضُ
+(وَالْكُحْلُ) نَوْعَانِ مُصْمَتٌ زُجَاجِيٌّ وَمُحِبُّ أَصْفَهَانِيُّ (الطَّلْقُ) أَنْوَاعٌ يَمَانِيٌّ وَبَحْرِيٌّ وَجَبَلِيٌّ
+وَيَتَصَفَّحُ إِذَا انْدَقَّ وَلَهُ بَصِيصٌ وَأَجْوَدُهُ الْيَمَانِيُّ ثُمَّ الْبَحْرِيُّ الْأَبْيَضُ الْمُخْتَلِطُ بِالْمَعْدِنِ الْأَحْمَرِ (الرُّجَاجُ
+أَنْوَاعٌ) تَتَّخِذُ مِنَ الرَّمْلِ وَأَقَلُّهُ أَجْوَدُهُ الشَّامِيُّ الْأَبْيَضُ الَّذِي يُحَاكِي الْبَلُّورَ فِي صَفَاءِ الزُّجَاجَاتِ
+مِنْهَا أَصْفَرُ صَلْبٌ وَمِنْهَا أَصْفَرُ فِيهِ عُيُونٌ ذَهَبِيَّةٌ تَسْتَعْمِلُهُ الْأَسَاكِفَةُ وَالصَّاغُونَ وَمِنْهُ أَصْفَرُ قِطَعٌ
+يُشْبِهُ قِطَعَ النِّيلَةِ الْعَجَمِيِّ فِي الصُّفْرِ لَافِي اللَّوْنِ وَهُوَ أَجْوَدُ (الشَّبُّ) أَنْوَاعٌ مِنْهَا أَبْيضُ يَمَانِيٌّ خُطُوطٌ
+وَالطَّرْزَدِيُّ وَمِنْهَا الشَّامِيُّ الْأَبْيضُ الْمُخْتَلِطُ بِالْطَّيْنِ وَلَحَجَرِ الَّتِي تَشُوبُهُ حُمْرَةٌ وَمِنْهَا الْمِصْرِيُّ الدَّسِمُ
+الْأَصْفَرُ وَهُوَ اللَّيِّنُ وَالْكِرْمَانِيُّ اللَّيِّنُ وَهُوَ أَدْسَمُهُمْ لِلْيَضِ الثَّابِتِ (الْقَلْقَنْدُ) زَاجٌ أَبْيَضُ
+وَالْقَلْقَدُسُ زَاجٌ أَخْضَرُ (الْقَلْقَطَارُ) زَاجٌ أَصْفَرُ (السُّورِيُّ) زَاجٌ أَحْمَرُ وَهَذِهِ الْأَرْبَعَةُ عَزِيزَةٌ
+الْوُجُودِ وَأَعَزُّهَا السُّورِيُّ وَهُوَ يَدْخُلُ فِي بَابِ الْحُمْرَةِ وَتَحْمِلُ مِنْ مَعَادِنِ قَبْرَصَ وَأَصْلُهَا زَاجَاتٌ
+وَشُوبٌ وَيَغْسِلُهَا السَّيْلُ وَيُنَزِّهُهَا الْحَفْرُ فَتَنْزِلُ عَلَيْهَا الشَّمْسُ تَعْقِدُهَا وَقَدْ تَتَّخِذُ الْحُكَمَاءُ إِذَا
+أَعُوزَهُمْ
+
+**English:**
+— 388 —
+
+And you sprinkle upon the Venus while it is revolving a little, and you stir it; the ounce descends, 4 dirhams.
+(Chapter) in mention of the drugs, and they are 3 kinds: earthy, plant, and animal. As for the earthy, 6 kinds: spirits, bodies,
+stones, zājāt, salts, and bāwariq. As for the spirits: 4, mercury, sal ammoniac, sulfur, and orpiment. And the bodies:
+7, gold, silver, copper, iron, lead, tin. And the special ones among the stones: 16, marcasite
+and magnesa and rawḍ and lapis lazuli and rahanj and dīzawraj and shādhanj and shak and kohl and talc and ḥibs
+and zāj and zājāt and qalqand and qalqatar and Syrian. And the bāwariq: 6, ink borax and borax of the goldsmiths
+and tiskār and red borax and borax of rāwand and borax of the west. And the salts: 11, the good salt and the bitter
+and tarzad and andarāni and niftī and hindī and ‘aynī and salt of ashes. Among them are natural things, manufactured things, known
+by their colors. And the best of them are the spirits of mercury, which is thin, white; if you squeeze it with burning, nothing remains in it, like
+kohl. (Sal ammoniac) is of two kinds, one of them mineral, a section of tarzad, free salt, made from Samarkand,
+and from it a yellow one; there must be a defect in the manufacture, and it is sal ammoniac of excrement. If you grind it and dissolve it, the beloveds dissolve by it. Orpiment: 6
+red, nonexistent, and yellow, solid, like sandarūs; one is hard and another is pure, wondrous, broad in yellowness, and white
+ivory, and white mixed with earths, not fit, and black mixed with pebbles. (Marcasite) 4: white, silvery, and red,
+coppery, and black, iron-like, and yellow, golden. (Magnesa) earthy colors, black, and among them are those that have eyes with a gleam,
+and among them are hard iron-like pieces, and it is male; and among them is hairless, brittle female, in which are eyes that flash, and it is the best. (Rawḍ)
+two kinds: stony and water of iron (tūtīyā). Many colors: among them green, section, and yellow, ceramic, and maḥmūdī,
+and green kirmānī, and crusty, and white of crust, and blue, and hindī. (Rahanj) it is a green stone, and in it are veins
+in which jewels and beads are drawn. And from it are new and old, Egyptian and Kirmānī and Khurāsānī, and the Kirmānī
+old is the best. And lapis lazuli is one kind, and it is a stone in which you find redness and sparkling eyes. * And turquoise is one
+kind, and it is a stone in which is redness and eyes, smooth, green-golden. (Shādhanj) golden stones and the red of gold,
+and its coloring, because they are among the jewels of copper. (Shak) two kinds, white and yellow; both are brought from the mines of silver, white.
+(Kohl) two kinds: solid, glassy, and muḥibb Isfahānī. (Talc) kinds: Yemeni, sea, and mountain,
+and it flakes when it is crushed, and it has a gleam; and its best is the Yemeni, then the sea, the white mixed with the red mineral. (Rujāj
+kinds) are taken from sand, and the least of it, its best, is the white Syrian, which imitates crystal in the clarity of the glassy substances.
+Among them is a hard yellow, and among them is a yellow in which are golden eyes; the smiths and goldsmiths use it. And among it is yellow pieces
+resembling pieces of Indian indigo in yellowness, not in color, and it is the best. (Alum) kinds: among them is white Yemeni, striped,
+and the tarzadī; and among them is the Syrian, the white mixed with clay and with stone, in which redness is mixed; and among them is the Egyptian, fatty,
+yellow, and it is the soft one; and the Kirmānī, soft, and it is the fattest of them for the fixed whiteness. (Qalqand) white zāj,
+and qalqadus is green zāj. (Qalqatar) yellow zāj. (Syrian) red zāj. And these four are rare
+in existence, and the rarest of them is the Syrian, and it enters into the باب of redness, and is carried from the mines of Cyprus, and its origin is zājāt
+and impurities, and the flood washes them and the digging purifies them, then the sun descends upon them and binds them. And the sages may take, if
+it is lacking to them
+
+---
+## Page 396
+
+**Arabic (original):**
+— ٣٩٠ —
+
+ثُمَّ تَنْقَعُهَا فِي مَاءِ الْعُقَابِ أُسْبُوعًا وَاغْسِلْهَا بِيَدِكَ عَرْكًا جَيِّدًا ثُمَّ ضَعْهَا فِي مِقْعَرَةِ حَدِيدٍ وَضَعْهَا عَلَى النَّارِ
+نِصْفَ نَهَارٍ ثُمَّ أَلْقِهَا فِيهَا وَهِيَ بِحَرَارَتِهَا ثُمَّ أَسْقِطْهَا فِي مَاءِ الْمَطَرِ وَاسْحَقْهَا، وَكُلَّمَا نَشِفَ الْمَاءُ زِدْهُ
+مَاءً آخَرَ حَتَّى يَبْقَى مِثْلَ الْأَسْفِيدَاجِ ثُمَّ خُذْ مِنَ الْمِلْحِ بَعْدَ بَيَاضِهِ أُوقِيَّةً وَتَعْجِنُ بِالزَّيْتِ الطَّيِّبِ وَيُصَفَّى
+فِي خِرْقَةٍ خَفِيفَةٍ وَطَيِّنْهَا وَاحْفِصْهَا وَاجْعَلْهَا فِي آنِيَةٍ صَابِرَةٍ عَلَى النَّارِ وَيَتَّهَا فِي نَارِ فُرْنِ فَخَّارٍ لَيْلَةً ثُمَّ
+كَرِّرْ عَلَيْهَا هَذَا التَّدْبِيرَ ٣ حَتَّى تَرَاهُ كَالْأَسْرَبِ اطْرَحْ وَزْنَ دِرْهَمٍ عَلَى ٨ قَلْعِيٍّ مُصَفًّى وَأَضِفْ لَهُ
+دِرْهَمَيْنِ قِرًا وَاسْكُبْهُمْ يَقُومُوا ( الْقَوْلُ فِي الْقَلْعِيِّ وَتَكْلِيسِهِ ) تَأْخُذُ مِنْهُ مَا شِئْتَ وَتَجْعَلُهُ صَفَائِحَ
+رِقَاقًا وَخُذْ مِثْلَ وَزْنِهِ مِلْحًا مَسْحُوقًا وَاجْعَلْ وِقَاءً مِنَ الْمِلْحِ حَتَّى يَمْلَأَ الْكُوزَ وَشُدَّ
+وِصَالَهُ وَطَيِّنْهُ بِطِينِ الْحِكْمَةِ وَاتْرُكْهُ حَتَّى يَجِفَّ وَيَتَّهُ فِي السَّاكُونِ لَيْلَةً وَأَخْرِجْهُ وَبَرِّدْهُ وَاسْحَقْهُ
+وَاعْغِسِلْهُ بِمَاءٍ عَذْبٍ وَاتْرُكْهُ حَتَّى رَسَبَ رَقَّ عَنْهُ الْمَاءُ وَالْمِلْحُ وَأَلْقِ عَلَيْهِ مَاءً آخَرَ وَكَرِّرِ الْعَمَلَ حَتَّى
+يَصِيرَ مِثْلَ أَسْفِيدَاجٍ اسْحَقْهُ بِزَيْتٍ وَنَطْرُونٍ وَصُرَّهُ فِي خِرْقَةٍ رَقِيقَةٍ خَفِيفَةٍ، طَيِّنْهَا وَجَفِّفْهَا وَضَعْهَا فِي
+قِدْرِ حَدِيدٍ وَشُدَّ فَمَ الْقِدْرِ وَغَطِّ، وَطَيِّنْهُ وَاتْرُكْهُ فِي فُرْنِ الْجِيرِ يَوْمًا وَلَيْلَةً ثُمَّ أَخْرِجْهُ وَاسْحَقْهُ وَشَمِّعْهُ
+بِالزَّيْتِ وَالنَّطْرُونِ وَضَعْهَا فِي الْقِدْرِ وَكَرِّرِ الْعَمَلَ ٣ ثُمَّ اسْتَنْزِلْهَا مِنْ بُوطٍ إِلَى آخَرَ بِالزَّيْتِ الطَّيِّبِ
+وَالنَّطْرُونِ فَإِنَّهَا تَصِيرُ مِثْلَ النَّشَادُرِ وَأَشَدَّ بَيَاضًا مِنَ الْفِضَّةِ وَذَهَبَ إِحْرَاقُهَا وَنَتَنُهَا وَصَرِيرُهَا
+تُحَاكِي الْفِضَّةَ وَلَا تَكْسِرْهَا فَاسْحَقْهَا وَأَلْقِ مِنْهَا دِرْهَمًا وَدِرْهَمًا فِضَّةً عَلَى ١٠ زَهْرَةٍ تَعْمَلُهَا دَرَاهِمَ
+مِيرِيَّةً تَجِيءُ غَايَةً وَتَحْضُرُهَا بِالْحَضْرَةِ الْمُتَقَدِّ. ذِكْرُهَا ( صِفَةُ تَكْلِيسِ الْأَسْرَبِ ) تُذِيبُهُ فِي مِقْعَرَةِ
+حَدِيدٍ وَقَصِّرِ النُّورَةَ عَلَيْهِ قَلِيلًا فَإِنَّهُ يَصِيرُ رَمَادًا أَبْيَضَ وَهُوَ أَحْسَنُ التَّكَالِيسِ وَاسْحَقْهُ وَاغْسِلْهُ بِالْمَاءِ
+الْعَذْبِ إِلَى أَنْ يَلْتَئِمَ فَشَمِّعْهُ مَاعِزٍ وَمِثْلَهُ عَظْمًا مُحْرَقًا مِنَ الْبَقَرِ وَضَعْهُ فِي كُوزٍ وَطَيِّنْهُ وَدَعْهُ إِلَى أَنْ
+يَجِفَّ وَضَعْهُ فِي تَنُّورِ فَخَّارٍ لَيْلَةً وَاحِدَةً ثُمَّ خُذْهُ وَاسْحَقْهُ تَرَاهُ أَبْيَضَ فَوْقَ الْعَظْمِ الْمُحْرَقِ مِثْلَ الْحِيضِ
+الْأَبْيَضِ وَهُوَ الزَّادُ أَلْقِ مِنْهُ وَزْنَ دِرْهَمٍ عَلَى ٣٠ مِنَ الزَّهْرَةِ يُقِيمُهَا قَمَرًا رَوَّابًا صَافِيًا أَلْقِ مِنْهُ نِصْفَ دِرْهَمٍ
+عَلَى ١٠ مِنَ الْعَبْدِ يُقِيمُهُ قَمَرًا لَا يَتَغَيَّرُ ( صِفَةُ عَقْدٍ ) يُؤْخَذُ ١٠ دِرْهَمٍ عُقَابٍ يَسْحَقُهَا مَعَ دِرْهَمَيْنِ
+قِشْرِ بَيْضٍ ثُمَّ دَوِّرْهُمْ فِي مِقْعَرَةٍ يُدَوِّرُهَا وَأَثْرِلْهُمْ وَاسْحَقْ مَعَهُمْ دِرْهَمَ قِشْرِ بَيْضٍ وَعُدْهُمْ إِلَى الْمِقْعَرَةِ
+يَدُورُوا تَفْعَلُ ذَلِكَ ٣ يَبْقَ سَرِيعَ الدَّوَرَانِ ثُمَّ تَأْخُذُ ١٠ دَرَاهِمَ عَبْدٍ وَدِرْهَمَيْنِ مِنْ هَذَا الدَّوَاءِ
+وَتَجْعَلُ فَوْقَهُ وَتَحْتَهُ بَعْدَ السَّحْقِ وَيَتَّهُ تَحْتَ اللَّمْسِ لَيْلَةً وَاحِدَةً وَأَلْقِ مِنْهُ دِرْهَمًا عَلَى ٩
+قَلْعِيٍّ يَقُومُ بِهَا ( صِفَةُ تَرْكِيبِهِ مُحَرَّبَةً ) يُؤْخَذُ حَجَرُ جِيرٍ وَرَهْنَتَجٌ ثَابِتٌ وَشَبٌّ يَمَانٍ وَمِلْحُ قَلِي وَنَطْرُونٌ
+وَجُزْءُ نَشَادُرٍ ثَابِتٌ وَجُزْءُ تِنْكَارٍ يُسْحَقُونَ فُرَادَى وَمَجْمُوعِينَ ثُمَّ يُلَتُّونَ بِبَيَاضِ الْبَيْضِ وَيَيْبَسُ ثُمَّ إِذَا
+أَرَدْتَ الْعَمَلَ رَوِّقِ الزَّهْرَةَ لِحَمَامِهِ مِثْلَ الدِّرْهَمِ وَطَهِّرْهَا وَتُقَرَّصُ بِالْكَازِ صِغَارًا ثُمَّ يُؤْخَذُ مِنَ الْمَعْمُولِ
+لِلْبَيْضِ عَلَى قَدْرِ الزَّهْرَةِ وَتُعْمَلُ فِي وَدَقَةٍ وَتُسْبَكُ وَتُقَلَّبُ فِي زَيْتٍ طَيِّبٍ لَمْ يُصَالِحْ أَبَدًا ثُمَّ أَضِفْ إِلَيْهَا
+مَا تَخْتَارُ ( صِفَةُ تَدْبِيرِ الْمَرْقَشِيثَا ) تَأْخُذُ مِنْهَا مَا شِئْتَ وَاسْحَقْهُ جَيِّدًا وَلُتَّهُ بِالصَّابُونِ وَالنَّطْرُونِ
+وَاسْبِكْهُ فِي بُوطٍ وَتَأْخُذُ مَا يَخْرُجُ مِنَ الْمَسْبُوكِ الْخَالِصِ وَتَرْمِي التَّفَلَ وَإِنْ كَرَّرْتَ الْعَمَلَ كَمَا تَقَدَّمَ
+يَعْنِي أَوَّلَهُ وَثَانِيَهُ وَثَالِثَهُ كَانَ أَجْوَدَ ثُمَّ تَأْخُذُ الْخَالِصَ مِنْهَا نُقْرَةً بَيْضَاءَ رَابِيَةً تُشْبِهُ الْفِضَّةَ إِلَّا أَنَّهَا تُفَتَّتُ
+فَتَسْحَقُهَا وَتَلُتُّهَا بِنَشَادُرٍ مَحْلُولٍ بِخَلٍّ وَشَمِّعِ الْمِقْعَرَةَ الْمَذْكُورَةَ حَتَّى تَسْتَوْعِبَهُ فَإِنَّهَا كَسِرِّ يَجِدُ يُفِيدُكَ
+عَنْ
+
+**English:**
+— 390 —
+
+Then you soak it in the water of the eagle for a week, and wash it with your hand, a good rubbing; then put it in an iron basin and put it on the fire
+half a day, then cast it into it while it is at its heat, then drop it into rain water and crush it, and whenever the water dries up, add to it
+another water until it remains like asfidāj; then take from the salt after its whiteness, an ounce, and knead with good oil, and it is strained
+in a light cloth, and clay it and preserve it, and make it in a vessel patient upon the fire, and heat it in the fire of a pottery oven for a night, then
+repeat upon it this procedure 3 until you see it like asrab. Throw the weight of a dirham upon 8 purified qalʿī, and add to it
+two dirhams of qirā, and pour them, they rise up. (The saying concerning qalʿī and its calcination.) You take from it what you wish and make it thin plates.
+And take like its weight powdered salt, and make a covering from the salt until it fills the jug, and tighten
+its joining and clay it with the clay of wisdom, and leave it until it dries, and heat it in the sākūn for a night, and take it out and cool it and crush it.
+And wash it with sweet water and leave it until it settles; the water and the salt become thin from it, and pour upon it another water, and repeat the work until
+it becomes like asfidāj. Crush it with oil and natron, and tie it in a thin light cloth; clay it and dry it, and put it in
+an iron pot, and tighten the mouth of the pot and cover, and clay it and leave it in the lime oven a day and a night, then take it out and crush it and wax it
+with oil and natron, and put it in the pot and repeat the work 3 times, then bring it down from one būt to another with good oil
+and natron, for it becomes like sal ammoniac and whiter than silver, and the burning of it, and its stench, and its creaking
+imitate silver. Do not break it, so crush it, and cast from it a dirham and a dirham of silver upon 10 zahra; you make them dirhams
+mīriyyah; it comes exceedingly, and you bring it with the advanced presence. Mention of it: (The description of calcining qalʿī.) You melt it in an iron basin
+and shorten the lime upon it a little, for it becomes white ash, and it is the best of the calcinations. Crush it and wash it with sweet water
+until it coheres, then wax it with goat, and likewise a burnt bone from cattle, and put it in a jug and clay it and leave it until
+it dries, and put it in a pottery oven for one night, then take it and crush it; you will see it white above the burnt bone like white menses,
+and it is the provision. Cast from it the weight of a dirham upon 30 of the zahra; it establishes it as a clear, flowing moon. Cast from it half a dirham
+upon 10 of the ʿabd; it establishes it as a moon that does not change. (Description of a binding.) 10 dirhams of eagle are taken; you crush it with two dirhams of
+eggshell, then rotate them in a basin that he rotates, and sift them, and crush with them a dirham of eggshell, and return them to the basin
+to rotate; do that 3 times, it remains quick in rotation. Then you take 10 dirhams of ʿabd and two dirhams of this medicine
+and put it above it and beneath it after crushing, and heat it under touch for one night, and cast from it a dirham upon 9
+qalʿī; it establishes it. (Description of its composition, tested.) Lime stone, and fixed rahnatāj, and Yemeni alum, and salt of kali, and natron,
+and a part of fixed sal ammoniac, and a part of tinkār; they are crushed separately and together, then kneaded with egg white and dried. Then if
+you want the work, refine the zahra for its bath like the dirham and purify it, and it is made into small pieces with the kāz. Then take from the made
+for the egg according to the amount of the zahra, and it is worked in a small vessel and melted and turned in good oil that has never been reconciled at all, then add to it
+what you choose. (Description of the management of the marqashīthā.) You take from it what you wish and crush it well and knead it with soap and natron
+and melt it in a būt, and you take what comes out of the pure melted material and throw away the dregs. And if you repeat the work as has preceded,
+meaning its first, second, and third, it was better. Then you take the pure from it, a white, swelling nugget resembling silver except that it is fragmented,
+so you crush it and knead it with sal ammoniac dissolved in vinegar, and wax the aforementioned basin until it absorbs it, for it is like a secret one finds, it benefits you
+from
+
+---
+## Page 397
+
+**Arabic (original):**
+— ٣٩١ —
+
+عن غيره ألق منه على القلعي المنقى تصبه ويقطع صريره وندمه ثم ألق من ذلك القلعي على
+النحاس الأحمر بيضه بياضاً محكماً فامزجه بالفضة كيف شئت فتنتفع به من يومك فهو أجود
+الأعمال (صفة أخرى أجل من الأولى) وذلك أن تأخذ من الحرقوص الحلبي تجعله مثل
+الفول ثم تحمى الحجى المعتاد وتطفئه في زيت طيب كذلك ثم عسل نحل ثم صابون
+مضروب بماء الليمون الأخضر ثم تأخذ منه ١١ درهماً ثم يضاف لذلك ٣ دراهم عبدو درهم على
+أصفر ودرهم قلى حجر يسحق الجميع ويؤتى بزيت طيب ونطرون ثم ينزل من بوط إلى بوط تنزل
+فرخة كالنجمة ثم يؤخذ منها ١٠ دراهم من الزهرة الصفراء ١٠ ومن الفضة المفروضة ١٠
+وتسبك ذلك فإنه يأتي للحق وذكر لي أحد المغاربة أنه إذا أخذ النطرون الأحمر السلطاني ومثله
+الجير الرخامي وزاد بعضهم القلى وتسحقهم جيداً ودسمهم في قدرة في الفرن يومين بليلتين ثم
+أخرجهم وعلق في حقة على النار فيها ٣ أمثال الأحجار من الماء العذب وارم فيها من تلك الأحجار
+المكلسة شيئاً فشيئاً والماء يغلي غلياناً قوياً إلى أن ينقص الثلث والماء يغلي بعد حلهم يصير ماء حاراً
+تقطر منه على العبد بريشة على نار تدريجاً أول مرة نار فتيلة الثانية ضعفها ٣ والثالثة ضعف
+ضعفها ٣ والسر كله في النار فإذا أوقفت عبدك وقيدته بهذين القيدين وسقيته من الماء فقد
+ملكت الدرجتين الشقراء والحمراء إذ كل خير لا يكون إلا من جنس ذلك الحجرين ومنهم من
+أخذ ذلك المنصفى وهو سخن كالنار ويسحق من العقرب ٣ أواق وترميها فوراً في الماء في مقدار
+رطل فإنه ينحل ويصير كالبحر الأسود وتلق فيهم ٣ أواق شعر شاب فينحل ولم تزل تعاد ذلك الماء
+من ماجور إلى آخر في نار فرن وهكذا إلى أن ينعقد الراب ويصعد على وجهه دهنة صفراء
+كالزعفران اقشطها بالملعقة ثم خذ الحرقوص الحلبي الكلوه أحمه وأطفئه في تلك الدهنة ٢١ ثم
+تأخذ منه أوقية من أقمر المشبب المرزن مثله ثم اسبكه تخرج القمر وحده مصبوغاً كالذهب
+(صفة رجراج) تأخذ ٦٠ حنظلة تقطعها بسكين خشب ثم تأخذ رطلين نطروناً وتسحقهم
+وتخلط الجميع وتضعهم في قابلة وتأخذ الماء تحفظ عليه وتأخذ للبرادة رطل عقرب واقسمه ٤
+أقسام واقسم البرادة منهم ودسمها ثم أخرجها واسحقها بقسم آخر وهكذا لتمام الأربعة أقسام
+تصير البرادة حمراء تأخذ رطل عبد وتغسله بالماء والخردل ثم تقله بياض البيض وتغسله بالماء
+السخن ثم نفرش له من البرادة غطاء ووطاء وتغمره من ماء الحنظل في قدح تشميع زجاج مطين
+على كانون نافخ روحه وكلما نقص الماء تزيده إلى أن يموت وينقطع حسه تحميه في بوط وتطعم
+الشمع والشعر فإنه ثابت لا ينقص وزنه ولا يتغير (صفة مقلة قوية سهلة) وذلك أن تأخذ من
+الحجر المكرم الذي هو المادة وأثاب الإلهي والليل اليم والسراج المنير وشمس الآفاق وقهرها
+المفهوم الذي هو أول الأشياء وألطفها وهو شعر الآدمي وخاصته حلمته ما شئت اقرضه بعد غسله
+بالصابون والطفل وجففه جيداً حتى ينزل من المنخل خذ منه رطلاً ومن ماء الرأس المحلول فيه
+الزجاج (وصفة الزاج) أن تأخذ الزاج الأصفر الجيد تسحقه جيداً وتضعه في كوز أو قزاز
+مطين مأخوذ الوصل ورشه نخل حاذق ودسمه في نار فرن حارة وأخرجه واسحقه وذبه بالحل
+
+**English:**
+— 391 —
+
+from another; cast from it upon the purified qalʿī, it will strike it and cut off its creaking and its regret; then cast from that qalʿī upon
+red copper, whiten it with a firm whiteness, then mix it with silver however you wish, and you will benefit from it from your day; for it is the best
+of works. (Another description, more noble than the first.) That is that you take from the Aleppine ḥarqūs, make it like
+beans, then heat the customary pebbles and quench them in good oil likewise, then honey of bees, then soap
+beaten with the water of green lemon, then take from it 11 dirhams, then to that are added 3 dirhams ʿabdu, one dirham of
+yellow, and one dirham of stone alkali; crush all together, and good oil and natron are brought, then it is brought down from būt to būt; a
+chick descends like the star, then from it are taken 10 dirhams of yellow zahra, 10, and of the imposed silver, 10,
+and that is melted, for it comes to the truth. And one of the Maghrebis told me that if one takes the royal red natron and likewise
+marble lime, and some add alkali, and crushes them well and fats them in a pot in the oven for two days with two nights, then
+take them out and hang in a small case over the fire, in which are 3 times the stones of sweet water, and cast into it from those stones
+calcined little by little, while the water boils a strong boiling until a third diminishes, and the water, after their dissolution, becomes hot water;
+drip from it upon the ʿabd with a feather over a fire gradually: the first time a wick-fire, the second its double 3, and the third the double
+of its double 3, and the whole secret is in the fire. So if you stop your ʿabd and bind it with these two bonds and give it to drink from the water, then you have
+possessed the two degrees, the yellow and the red, since every good is only from the kind of those two stones. And among them is one who
+took that al-munṣafī, and it is hot as fire, and 3 uqiyyas of scorpion are crushed and thrown immediately into the water in the amount of
+a ratl, for it dissolves and becomes like the black sea, and 3 uqiyyas of gray hair are cast into it, and it dissolves. And that water was not ceased to be returned
+from one jar to another in the fire of an oven, and thus until the rāb congeals and a yellow grease rises upon its face
+like saffron; scrape it off with the spoon. Then take the Aleppine ḥarqūs, the whole of it, heat it and quench it in that grease 21, then
+take from it an uqiyyah of the moon, the shabbīb, the marzan, likewise, then melt it; the moon comes out alone, dyed like gold.
+(Description of rajrāj.) You take 60 ḥanẓalah, cut them with a wooden knife, then take two ratls of natron and crush them
+and mix all together and put them in a qabalah, and take the water, preserve it upon it, and take for the filings a ratl of scorpion and divide it 4
+parts, and divide the filings among them and fatten it, then take it out and crush it with another part, and thus until the completion of the four parts;
+the filings become red. You take a ratl of ʿabd and wash it with water and mustard, then fry it with egg white and wash it with hot
+water, then spread for it from the filings a covering and a bedding, and drown it with the water of the colocynth in a glass cup waxed and clayed
+upon a furnace blowing its spirit, and whenever the water diminishes you increase it until it dies and its sense is cut off; you heat it in a būt and feed
+the wax and the hair, for it is fixed, its weight does not diminish and does not change. (Description of a strong, easy maqla.) That is that you take from
+the honored stone, which is the matter, and the divine reward, and the night, the deep sea, and the luminous lamp, and the sun of the horizons, and its subduing
+the understood, which is the first of things and the subtlest of them, and it is human hair and its special part, its nipple; cut it as you wish after washing it
+with soap and clay, and dry it well until it descends from the sieve. Take from it a ratl and from the water of the head in which is dissolved
+glass. (Description of zāj.) That you take good yellow zāj, crush it well, and put it in a jug or a glass
+clayed, with the joint taken, and sprinkle it with a skillful sieve, and fatten it in a hot oven fire, and take it out and crush it and dissolve it with the solution
+
+---
+## Page 398
+
+**Arabic (original):**
+— ٣٩٢ —
+
+ودسه ثاني ليلة وثالث ثم تحله في ماء الرأس واطبخه فيه حتى يأخذ صبغة قوية ثم تجره العلة، وتأخذ
+بقدر الشعر المذكور منه وزنا بوزن وضع ماء الرأس على نار لينة في اناء مهون أوزاج وضع فيه
+الشعر قليلا وخفضه ولا تزال تضع قليلا حتى ينحل الرطل الشعر في الرطل الماء المذكور ثم
+قطره بلطف ماء حتى يقطر ماء أبيض مثل الفضة فإذا بدت الحمرة اقتلع القابلة وشمها وجد القابلة
+بقابلة أخرى وعد الوصل ثم قو النار أقوى من الأولى فمن ذلك ينزل الدهن مثل الياقوت
+الاحمر والزعفران الجوي فاحذر ان تمسه بيدك فانه يصبغ كل شئ مسه أصفر ثم يخرج منه ثم
+اذا كل قطر شمعه وصنه من الهواء ثم بعد ذلك خذ الزنجفر الرماني واجعله في حبة صفراء واحدة
+مهندمة وخذ وزن مثلها عقرا بأوزن ثلثها بني يسحقان ويعملان حبة بصفار البيض وتعمل في
+قلب قدرة ملانة ملح طعام ثم تاخذ وصلها وتدمسها في نار قوية ولا تخف عنها وتفعل به هكذا
+مرات تدميسات بخمس جيب وانت تحدد له في كل مرة الجهة والملح الذي في القدرة وتدمس
+كما تقدم ثم اسحقه واطبخه بماء الرأس الابيض الذي حللت فيه الحجر في قنينة علية على النار اللينة
+وتقد عليه النار حتى تظهر به ويكون الماء غمره أوأكبر وتصبر عليه حتى يجف ثم اسحقه جيدا
+بالغا بتلك الدهنة الحمراء الرماني وهذا هو الدهن المعبر عنه باسمه عند أرباب الفن سقى وتشميع
+على نار لينة والشمس أسلم عاقبة من النار الى أن تنفسح دمنته حمراء غير جامدة اهم الشخص
+ونقط عليه من ذلك الدهن يديك اسحقه واسقه من الزنجفر المحلول بقدر وزنه مرتين ينحل ثم
+اعقده واسحقه بالدهنة المستقطرة من الحجر حتى ينحل ثم نقط منه على شخوص الاسرب كما تقدم
+وكل هنيئا مريئا * واعلم أن من أراد أن يصل الى العلم الكيميا الصحيح فليطهر وليصم ٤٠ يوما
+متوالية بجنب الروح وما خرج منها ويفطر فيها على الحلال ويقرأ كل ليلة والشمس وضحاها
+والليل إذا يغشى والضحى والم نشرح ٧ مرات وقل اللهم مالك الملك الى حساب ٤٠
+مرة ثم تقول اللهم اني اسألك بقدرتك على كل شئ وتسخيرك لكل شئ يا احد يا صمد يا حي يا قيوم أن تصلى على سيدنا محمد وان تسخر لي العلم الذي سترته على كثير من خلقك وأكرم به
+كثيرا من عبادك يا كافي يا غني يا مغني يا فتاح يا هادي واغنني عمن سواك انك مالك الملك وبيدك
+مقاليد السموات والارض وأنت على كل شئ قدير فاذا فعل ذلك سخر الله له من يرشده الى ما طلب
+يقظة أومناما والله على كل شئ قدير
+
+( الفصل الحادي والثلاثون في أعمال السيميا وجميع المقالات )
+يروى عن آصف بن برخيا عن سليمان بن داود عليهما السلام وهي التي كان يعمل بها الحلاج وغيره
+من أهل هذا الشأن * واعلم أن الخطفر يات هي العلم المصون وهو يروى عن سادة اجلاء
+مثل الخوارزمي والسيد البهلول وآصف وسليمان وقد جمعها الحلاج رحمه الله في ١١ مقالة واعلم
+أن أصل هذا العلم تدبيري روحاني إذا أردت العمل به فخذه ٤ لاتا عار ١٤ ٦ ليس فيه
+إشارة بيضاء وتصوم ٣ أيام وتقرأ الخطفر يات ٢١ ثم تستقبل القبلة وتأخذ سكينا لها حدان
+تذبحه بحد وتشق بطنه الآخر وحال ذبحك له تنادى بالخطفر يات ثم و لافي قدر جديد بخار
+ولا
+
+**English:**
+and put it in a second night and a third, then dissolve it in the water of the head and cook it in it until it takes a strong dye, then the ailment draws it out, and you take
+from it, according to the amount of the aforementioned hair, weight for weight, and put the water of the head on a gentle fire in a vessel softened with zāj, and put in it
+the hair little by little and lower it, and you continue to put in a little until the pound of hair dissolves in the pound of the aforementioned water, then
+distill it gently with water until white water distills like silver; then when redness appears, remove the vessel and smell it, and find the vessel
+with another vessel, and repeat the joining, then strengthen the fire stronger than the first, and from that the oil descends like red
+ruby and saffron of the sky; so beware lest you touch it with your hand, for it dyes everything it touches yellow, then it comes out from it, then
+when every drop waxes it, and preserve it from the air. Then after that take the cinnabar of the pomegranate and make it into one yellow, well-formed grain,
+and take a weight like it of ʿaqrā, with a weight of a third of it brown; they are crushed and made into a grain with egg yolk, and it is made in
+the heart of a pot filled with table salt. Then you take its joint and heat it in a strong fire and do not fear it, and do with it thus
+times of heating, with five gaps, and you determine for it each time the direction and the salt that is in the pot, and heat
+as has preceded. Then crush it and cook it with the white water of the head in which you dissolved the stone, in a lofty flask over a gentle fire,
+and apply the fire to it until it appears in it and the water covers it or more, and be patient with it until it dries, then crush it well,
+reaching with that red pomegranate grease; and this is the grease referred to by its name among the masters of the art: watering and waxing
+over a gentle fire, and the sun is safer in outcome than fire, until its dregs open, red, not congealed, the important person.
+And drip upon it from that grease your hands; crush it and give it to drink from the dissolved cinnabar in the amount of its weight twice; it dissolves, then
+bind it and crush it with the grease distilled from the stone until it dissolves, then drip from it upon the forms of the qalʿī as has preceded,
+and pleasant, wholesome. * And know that whoever wishes to attain the true science of alchemy, let him purify himself and fast 40 days
+consecutively beside the spirit and what comes out from it, and break his fast in it on the lawful, and recite every night “By the sun and its brightness”
+and “By the night when it covers” and “By the forenoon” and “Have We not expanded” 7 times, and “Say: O Allah, Owner of the kingdom” to the count of 40
+times, then you say: O Allah, I ask You by Your power over everything and Your subjugation of everything, O One, O Eternal Refuge, O Living, O Sustainer, to send blessings upon our master Muhammad and to subjugate for me the science which You have concealed from many of Your creation and honored by it
+many of Your servants, O Sufficient, O Rich, O Enricher, O Opener, O Guide, and enrich me from other than You; indeed You are Owner of the kingdom, and in Your hand are
+the keys of the heavens and the earth, and You are over everything powerful. So if he does that, Allah will subjugate for him one who guides him to what he sought,
+awake or in dream, and Allah is over everything powerful.
+
+(Chapter Thirty-One on the Works of Sīmiyā and All the Articles)
+It is narrated from Āṣif ibn Barkhiyā from Sulaymān ibn Dāwūd, peace be upon them, and it is that by which al-Ḥallāj and others
+among the people of this craft used to work. * And know that the khufṭuriyāt are the preserved science, and it is narrated from eminent masters
+such as al-Khwārizmī, al-Sayyid al-Bahlūl, Āṣif, and Sulaymān, and al-Ḥallāj, may Allah have mercy on him, collected them in 11 articles. And know
+that the أصل of this science is a spiritual management. If you wish to work by it, take it 4 lātā ʿār 14 6; there is not in it
+a white sign, and fast 3 days, and recite the khufṭuriyāt 21
+
+---
+_End of translation — 398 pages._
