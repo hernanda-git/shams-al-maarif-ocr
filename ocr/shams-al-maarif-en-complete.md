@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 362 translated pages._
+_Auto-generated from 365 translated pages._
 
 ---
 ## Page 1
@@ -20933,4 +20933,132 @@ and what is like it in rank, for it from the letters is h; and likewise the divi
 with
 
 ---
-_End of translation — 362 pages._
+## Page 363
+
+**Arabic (original):**
+- ٣٥٧ -
+
+مع بقية حروف ذلك العنصر كأبناء في الأعمال واستخرج العوالم كأبناء ووكل في جلبه وطرده
+واعمل أي عمل أردت * وأما مظهر حيوان الأرض مثل السبع فله من الحروف ب المنزلة حرف ي
+والذئب له حرف ي والحية هـ وكذلك سائر الحيوان تمثل به على قواعد التكسير * وأما مظهر المعدن فتأخذ
+ب ومن الفضة حرف ف ومن الذهب ر فذ وكل معدن تريد التصرف به فخذ أول حرف منه وكسره
+وابسطه على أي وجه أردته وصرفه فما تريد ألا ترى إلى الأنبياء صلوات الله عليهم أجمعين مثل نوح
+تصرف في عنصر الماء وإبراهيم في عنصر النار وسليمان في عنصر الهواء وموسى في عنصر التراب
+فاعلم هذا * وأما حيوان الإنسان فذكرنا أنه يتصرف في ٢٨ حرفا علويها وسفليها وهو يتصرف
+في الأربع طبائع وهو صورة العالم المسمى بالهيولى ولولا حجب الشهوات لأرى الملكوت كما قال
+صلى الله عليه وسلم لولا الشياطين يحومون على قلب بني آدم لرأى ملكوت السموات والأرض ولأجل
+ذلك وضعوا تهذيب الأخلاق والرياضات وكان صلى الله عليه وسلم يتعبد في غار حراء وقال في هذا
+المعنى من أخلص لله تعالى أربعين صباحا الحديث فإن الحكمة تتفجر من قلبه ويفتح الله له عليه
+أبواب الكشف فاعلم هذه الأصول وأتقنها تفلح بعون الله تعالى * وأما طريق بيانه فهو أن تأخذ
+اسم الطالب والمطلوب وتزن الاسمين بالميزان الآتي الطبيعي فإن كان في المصادقة أو بالمضادة ففيهما
+وإن كان العمل خيرا فقدم اسم الطالب وأخر اسم المطلوب حتى يكون الطالب مطلوبا والمطلوب طالبا فاعلم
+هذه الدقيقة بحسب ما تحتاج إليه وقال بعضهم لا تحتاج إليه بل تمزج الحروف فلا بد من المزج بل
+القول الأول أن له معنى لمن تدبره وإن شئت كنت المثال ومزجت وأخرجت حروف الطالب
+والمطلوب وأخذت عدد الاسمين ووضعتها في مربع واستنطقت العوالم من ذلك الوفق وإن شئت
+نظمت الحروف في بعضها بعضا ثلاثة أو أربعة أو خمسة بحسب الحروف فاعلم ذلك وحققه فإن العمل
+جميعه مركب على هذه الصورة وإن شئت فاجع الحروف أما بالطول أو بالعرض وصورته إذا وضعت الزمام
+وتمت الحروف فانظم ذلك بحسب الحروف وهذا الاستنطاق خمسة وزد على كل خمسة أحرف ايل
+وهذا الاسم سرياني معناه الجلالة وفي الحروف معناه ال ايل ضلعا كلهما معنى واحد وبعض
+الاستنطاقات على مذهب أفلاطون وقد تقرر ذلك مثاله زدنا حرف الياء للفظة ايل فبقى يا ايل
+فكان ملكا علويا وقس على هذا المثال وارسم أولا حروف العوالم والساعة السعيدة واليوم
+وبعده ترتب ذلك ترتيبا شافيا وأما طريقته بالكعب فهو أن تأخذ الحروف
+وتسبها كأمر وتأخذ عدد الحروف وتضربها فالخارج من العدد هو الكعب والعداء لهم فيه أقول
+فمن ذلك تأخذ العدد وتنطقه حرفا وتضيف إلى ذلك لفظة ايل فإنه يكون ملكا واقفا بين يديك
+* واعلم أن ما ظهر في عالم الغيب اسم إلا وكان له في علم الشهادة جسم يعني أن المؤلف
+إذا ألف ونظمها وكتب الاسم فإن الملك يتصور بذلك الاسم فاعلم هذا السر وحققه *
+وطريق آخر وهو إذا كان الفاضل أربعة وجدنا لها من الحروف حرف ت وأضفنا إليه لفظة
+ايل فكان الملك اتايل * واعلم أن هذه قواعد كلية لأنك إذا ظهر معك حروف كثيرة العدد
+فقدم المراتب أولا وقال الجمهور تأخذ أولا حروف الآحاد ثم العشرات والمئات والألوف
+
+**English:**
+- 357 -
+
+With the rest of the letters of that element, as sons in the operations, and extract the worlds as sons, and entrust in bringing it and driving it away, and do whatever operation you desired. * As for the manifestation of the animal of the earth, such as the lion, there is for it from the letters, in the place of b, the letter y; and the wolf has the letter y; and the serpent h; and likewise the rest of the animals are represented by it according to the rules of breaking. * As for the manifestation of the mineral, you take b, and from silver the letter f, and from gold r fdh; and every mineral you wish to act upon, take its first letter and break it, and spread it in whatever way you desired and dispose it as you wish. Do you not see the prophets, may the prayers of God be upon them all, such as Noah, disposed in the element of water, and Abraham in the element of fire, and Solomon in the element of air, and Moses in the element of earth? So know this. * As for the animal of man, we mentioned that it disposes in 28 letters, its upper and its lower, and it disposes in the four natures, and it is the form of the world called the hylē. And were it not for the veils of desires, it would show the kingdom, as he, may God’s prayers and peace be upon him, said: were it not for the devils circling upon the heart of the children of Adam, he would see the kingdom of the heavens and the earth. And for that reason they set down the refinement of character and the spiritual exercises, and he, may God’s prayers and peace be upon him, used to worship in the cave of Hira, and he said in this meaning: “Whoever is sincere to God تعالى for forty mornings” — the hadith — then wisdom will gush from his heart and God will open for him the doors of unveiling. So know these foundations and master them; you will prosper by the help of God تعالى. * As for the way of its explanation, it is that you take the name of the seeker and the sought, and weigh the two names by the following natural balance. If it is in agreement or in opposition, then in both of them. And if the operation is good, then advance the name of the seeker and delay the name of the sought until the seeker becomes sought and the sought becomes seeker. So know this subtle point according to what you need to it. And some of them said: you do not need it, rather you mix the letters, so there must be mixing; rather the first القول is that it has a meaning for whoever reflects upon it. And if you wish, you are the example and you mix and extract the letters of the seeker and the sought, and take the number of the two names and place them in a square, and make the worlds speak from that magic square. And if you wish, arrange the letters into one another, three or four or five according to the letters, so know that and verify it, for the whole operation is composed upon this form. And if you wish, then make the letters either lengthwise or widthwise, and its form is that when you place the bridle and the letters are completed, then arrange that according to the letters. And this speaking-out is five, and add to every five letters ail. And this name is Syriac; its meaning is majesty, and in the letters its meaning is al ail, both sides, all of them one meaning. And some of the speaking-outs are according to the doctrine of Plato, and that has been established. Its example: we added the letter yā’ to the word ail, so it remained ya ail, and it became a celestial king. And measure on this example, and first draw the letters of the worlds and the fortunate hour and the day, and after it arrange that in a sufficient arrangement. As for its method by the cube, it is that you take the letters and count them as a command, and take the number of the letters and multiply them; the result from the number is the cube, and the enemies to them in it, I say. So from that you take the number and pronounce it a letter, and add to that the word ail, then it will be a king standing before you. * And know that whatever appears in the world of the unseen is not a name אלא that it has in the world of witness a body, meaning that the author, when he composes and arranges it and writes the name, then the angel is imagined by that name. So know this secret and verify it. * And another way, which is that if the remainder is four, we find for it from the letters the letter t, and we add to it the word ail, so the king is ata’il. * And know that these are universal rules, because if many-numbered letters appear with you, then advance the ranks first. And the majority said: first take the letters of the units, then the tens, the hundreds, and the thousands.
+
+---
+## Page 364
+
+**Arabic (original):**
+- ٣٥٨ -
+
+وإن تكرر معك الألوف فاعمل بقاعدة الإمام التي تشد إليها الرحال، وإن أفلاطون قد بسط عبارات
+كثيرة ورمز الاستنطاق في حروف الألوف وجميع العلماء صرحوا بذلك وقد ذكرناه، وإذا
+تكررت معك حروف الألوف فانظر كم حرفاً تكرر واسقطه على حروف عدد الألوف، وإذا
+تكرر معك سبعين ألفاً فاكتب عيناً وبعدها غيناً وضف إليها ايل * مثاله إذا خرج معك تسعة
+آلاف وستمائة وواحد وخمسون فثبت الظاء ثم حرف الغين بعده ورتبه على هذه الصورة: أعظائيل.
+وإن قد كررت الألوف بأن جاوز تكرارها رتبة الآحاد إلى مرتبة العشرات فضف أيضاً غيناً واحدة
+وستة قبلها هكذا: جكائيل، (وهذه) قاعدة عظيمة وهو أن تقسم الحروف على ثلاثة أحرف
+أو على اثنين فأمل ذلك وحققه * مثاله إذ كان الخارج اثنين وتسعين ألفاً وخمسمائة وسبعين
+فثبت العين وأصاداً ثم الغين ثم اكتب بقية العدد مركباً على هذه الصفة: بضعمائيل، ولذلك
+لو بلغ معك العدد إلى ما لا نهاية له من الأعداد فافهم هذه القاعدة التي بينتها * واعلم أنها عزيزة
+الوجود وضعتها في هذا الكتاب لشرفه على سائر الكتب * واعلم أن هذا العلم هو أشرف العلوم
+كلها وأنه علم الأولياء يتوارثونه من رجل إلى رجل إلى أمير المؤمنين علي بن أبي طالب كرم الله وجهه،
+وإن الله تعالى ما بثه إلا وأطلعه على تصريف هذا العلم، وإن الحكماء قد أخفوا هذا السر
+وبعضهم أظهره، وهذا العلم في حق الفاسق استدراج وفي حق المؤمنين كرامة، والغالب أن
+انتصر بأن لا يناله إلا من كان يستحقه، وغالب الفلاسفة والحكماء وضعوا علومهم على البراني
+وأحكموها أعمالاً عجيبة وغريبة مثل اليونان وغيرهم، وقد توارثت أهل التاريخ كل هذا وقد
+سافرت لكل أرض ورأيت ما فيها وشاهدت بريات الهيم ورأيتها ورأيت الأهرام الكبيرة والصغيرة
+ودخلتها، ولعمري إن فيهما علوماً جمة وإن تحت الهرم الكبير ستة وثلاثين كنزاً وضعها اليونان
+من قبل طوفان نوح، وقد فككت طلاسمها ودخلت إلى كنز منها وأخرجت منه كتاباً فوجدت
+فيه السيميا والكيميا الصحيحة، وقد ألفت منه كتاباً وأفردت مسائله ووضعت في أول كل مسألة
+حرف كاف ليعلم أنه كيميا من عمل اليونان * واعلم أن أهل القرن الثامن والتاسع وما بعدهما
+ينكرون العلوم كلها ويدعون أن أهلها فقدت، وأن أحدهم لو طلب من يرشده إليها لوجدوا أن
+الله تعالى وكل ملائكة بالعلوم الخفية مثل علم الصناعة الإلهية وعلم الحرف وعلم السيميا، قالوا فقدت
+أهلها وهي موضوعة في الكتب، وإن العلماء ما وضعوا هذه الكتب عبثاً ووضعوا فيها أموراً
+خفية، وفضل هذا العلم يظهر بالملازمة على الطاعات وتكرير العمل والتلاوة وأكل الحلال
+والقطع بالإجابة * واعلم أن الحكمة في زيادة الكتابة لفظة ايل على أقوال، ولسنا نذكر اختلاف
+الأقوال بل إذا أردت أن تخرج العودة وزدت لفظة ايل صار مقابلك الخادم وهي ألف وفاء وألف ونون
+ولام، وجملتها أحد وخمسون، وهذا يسمى بالأس أعني العدد المطروح من أصل الكعب * واعلم
+أن هذه الحروف من الأربع طبائع مخرجة، ألف من النار والياء من التراب واللام من الماء، وقد
+تكررت بسبب أن الألف رتبة والياء دقيقة فكان من هذه الرتبة بمقام حرف فاعلم ذلك واللام
+من
+
+**English:**
+- 358 -
+
+And if the thousands are repeated with you, then act by the rule of the Imam to which journeys are made. And Plato has expanded many expressions and symbolized the speaking-out in the letters of the thousands, and all the scholars have stated that, and we have mentioned it. And if the letters of the thousands are repeated with you, then look how many letters are repeated and cast it upon the letters of the number of thousands. And if seventy thousand are repeated with you, then write an ʿayn and after it a ghayn and add to it ail. * Its example: if nine thousand and six hundred and fifty-one come out with you, then establish the ẓā’ and then the letter ghayn after it, and arrange it in this form: أعظائيل. And if the thousands have been repeated, such that their repetition has تجاوزed the rank of the units to the rank of the tens, then add also one ghayn and six before it, like this: جكائيل. (And this) is a great rule, which is that the letters are divided into three letters or into two, so reflect upon that and verify it. * Its example: if the result was ninety-two thousand and five hundred and seventy, then establish the ʿayn and aṣād, then the ghayn, then write the remainder of the number composed in this form: بضعمائيل. And for that reason, if the number reaches with you to an endless number of numbers, then understand this rule that I have explained. * And know that it is rare in existence; I placed it in this book because of its nobility over the rest of the books. * And know that this science is the noblest of all the sciences, and that it is the science of the saints, inherited by them from man to man, to the Commander of the Faithful ʿAlī ibn Abī Ṭālib, may God ennoble his face. And that God تعالى did not spread it except that He informed him of the disposition of this science, and that the sages concealed this secret and some of them manifested it. And this science, in the case of the profligate, is istidrāj, and in the case of the believers, is karāmah, and the prevailing view is that it is victorious in that none attains it except one who deserves it. And the majority of the philosophers and sages placed their sciences upon the outer shell and perfected them as wondrous and strange operations, like the Greeks and others. And the people of history have inherited all this, and I have traveled to every land and seen what is in it and witnessed the pyramids, the great and the small, and entered them. By my life, in them are many sciences, and beneath the great pyramid are thirty-six treasures placed by the Greeks before the Flood of Noah, and I have broken their talismans and entered into one of the treasures and brought out from it a book, and I found in it the true simia and kimia. And I composed from it a book and isolated its questions, and I placed at the beginning of every question the letter kāf so that it may be known that it is kimia from the work of the Greeks. * And know that the people of the eighth and ninth century and those after them deny all the sciences and claim that their people have perished, and that if one of them were to seek one who would guide him to them, they would find that God تعالى has entrusted angels with the hidden sciences, such as the science of the divine craft, the science of letters, and the science of simia. They said: their people have perished, while it is placed in the books. And the scholars did not place these books in vain, but placed in them hidden matters. And the virtue of this science appears through constancy upon acts of obedience, repetition of the work and recitation, eating what is lawful, and certainty of response. * And know that the wisdom in the increase of writing the word ail is according to sayings, and we do not mention the اختلاف of the sayings; rather, if you wish to bring out the return and you add the word ail, then opposite you becomes the servant, and it is ألف and fā’ and ألف and nūn and lām, and its total is fifty-one. This is called the as, meaning the number subtracted from the root of the cube. * And know that these letters are extracted from the four natures: alif from fire, and yā’ from earth, and lām from water, and it has been repeated because alif is a rank and yā’ is subtle, so from this rank it was in the position of a letter; so know that, and the lām is from
+
+---
+## Page 365
+
+**Arabic (original):**
+- ٣٥٩ -
+
+من حروف الماء وإن الكتبة صحفوا بعض الأشياء وقلدوا ما جاء به العلماء وما وضع في الكتب
+وأخذوا من الكتب ولكن أصل الخلل منهم ولابد من زيادة الألف والياء واللام في كل كعب
+مستخرج من هذا المعنى * واعلم أن كل علوي لابد له من خلوة سفلية وقاعدة السفلية أنك إذا
+أردت استخراج عمل فانظر إلى الزمام وخذ الحروف الغالبة فتنطقهم علوية والحروف السفلية
+تجمعها وتضيف إليها ثلاثة أحرف نارية وهم طيش ثم توكل العلوي بالسفلي للمستخرج والسفلي
+المستخرج بالسفلي صاحب اليوم أو الساعة وهذا قانون أصلي تعتمد عليه في كل عمل من الأعمال
+وإن خرج معك سبعة أحرف أو خمسة أو ثلاثة تحسب الحروف وتضيف إلى ذلك لفظة طيش
+مثاله كان الخارج تسعة أحرف وهم اطمهيطش وأما على هذا الاستنطاق بالسفلية فقد أوضحته
+هذه القاعدة الأصلية في زيادة طيش وفي زيادة ايل ولفظة ايل ولفظة طيش
+طا ويا وشين وعددها ٣١٩ وهذا مأخوذ من القانون بالدليل الهيولى الهندسي وقد صح ذلك
+وجرب وامتحن به الأوقات الخمس ومقدار الساعات هي في الليل والنهار * واعلم أن درج الفلك
+٣٦٠ ويسمى درجة لأنه مقسوم على كل برج ثلاثين درجة واستنبطه العلماء من القرآن العظيم
+من قوله تعالى رفيع الدرجات لأن عدد رفيع ٣٦٠ وذكر بعدها الدرجات وإذا جمعنا الأسين
+كان عددها ٣٦٠ وهذا العلم له تعلق وارتباط بالفلك وإذا زدنا على حروف اسم الملك العلوي لفظة
+ايل فيكون ذلك قد نقصناه من العدد الذي هو ٣٦٠ نقصنا أحد وخمسين بقي ٣٦٠ فرد على
+السفلي الأس الآخر وكذلك إذا أردنا العلويان وعددها ٤١ ولفظي السفلي ومهما نقص من هذا
+زدناه على هذا وكل هذه قواعد صحيحة معمول بها وإن كان الطالب واقفاً عند التقليد قلد ذلك
+العمل واعمل بقاعدة صاحب الخافية وإن أردت أن تكون مجتهداً وتنطق كيف أردت القوانين
+فلتفعل بها وإذا بلغ معك عدد وأردت أن تقسمه وهذا يقع كثيراً في الأوفاق وإن خرج معك ١٠٠
+فإن أردت قسمة هذا الحرف على ثلاثة أحرف هكذا بلغ ٣ وتضيف إليها الأس من غير إسقاط
+ولذلك إذا ظهر معك ٣٠٠ وهو حرف الشين وكان ذلك في السفليات أو العلويات فأقسم
+الحروف على خمسة أحرف وهذا في السفليات وكذلك في العلويات ولا يمكن التصريح بأكثر من
+هذا وكذلك تفعل ببقية الأعداد كما إذا ظهر حرف كثير العدد مثل حرف ذ وحرف ظ وحرف غ
+فتقسم على أربعة أحرف أو خمسة أو سبعة فعلى أربعة أحرف هكذا تقسمها فسبعائيل وإن أردت
+قسمته على سبعة قسمها مضائيل وقس على ذلك وإن معنى أخذ الأسماء الحسنى على طرق شتى
+فمن ذلك إذا كان العدد الأصلي المستخرج من النطق على أي اسم من أسماء الله تعالى الحسنى
+فيكون ذلك ترجم به صاحب ذلك النطق ويسمى هذا الاسم الأعظم ووجه آخر وهو أن
+تأخذ أول حرف من حروف الملك وتدخل به إلى الأسماء الحسنى فتأخذ الاسم الذي هو أوله
+مثال ذلك إذا خرج حرف الألف فتأخذ اسم الله وإن خرج با تأخذ باقي وإن خرج لام تأخذ
+لطيف وهكذا يكون العمل * واعلم أن لكل حرف عوالم لا يطلع عليها إلا الذي حظي من الله
+
+**English:**
+- 359 -
+
+of the letters of water. And the scribes distorted some things and imitated what the scholars brought and what was placed in the books, and took from the books, but the أصل of the error is from them, and it is necessary to increase the alif and the yā’ and the lām in every cube extracted from this meaning. * And know that every celestial one must have a terrestrial seclusion, and the rule of the terrestrial is that if you wish to extract an operation, then look to the bridle and take the dominant letters, then pronounce them celestial, and the terrestrial letters you gather and add to them three fiery letters, and they are ṭaysh; then entrust the celestial with the terrestrial for the extractor, and the terrestrial extracted with the terrestrial, the master of the day or the hour. And this is an original law upon which you rely in every operation among the operations. And if seven letters or five or three come out with you, you count the letters and add to that the word ṭaysh. Its example: the result was nine letters, and they are اطمهيطش. As for this speaking-out with the terrestrial, this original rule has clarified it in the increase of ṭaysh and in the increase of ail and the word ail and the word ṭaysh: ṭā’ and yā’ and shīn, and their number is 319. And this is taken from the law by the geometric hylē proof, and that has been verified and tried and tested by the five times and the measure of the hours, which are in the night and the day. * And know that the degrees of the sphere are 360 and are called degree because it is divided upon every sign thirty degrees, and the scholars derived it from the العظيم Qur’an from His saying تعالى: “Exalted in degrees,” because the number of rafīʿ is 360, and after it He mentioned the degrees. And if we add the two roots, their number is 360. And this science has a connection and linkage with the sphere. And if we add to the letters of the name of the celestial king the word ail, then that would have been subtracted from the number, which is 360; we subtracted fifty-one, there remained 360, return the other root to the terrestrial. Likewise, if we want the two celestial ones, and their number is 41, and my two terrestrial words, and whatever is subtracted from this, we add it to this. And all these are correct rules, acted upon. And if the seeker is standing at imitation, then imitate that operation and act by the rule of the صاحب الخافية. And if you wish to be a mujtahid and pronounce however you wish the laws, then do so with them. And if a number reaches you and you wish to divide it — and this occurs often in the magic squares — and 100 comes out with you, then if you wish to divide this letter by three letters, thus it reaches 3, and you add to it the root without omission. And for that reason, if 300 appears with you, and it is the letter shīn, and that is in the lower or the upper, then divide the letters by five letters, and this is in the lower and likewise in the upper, and it is not possible to state more than this. And likewise you do with the rest of the numbers, as if a letter of many-numbered value appears, such as the letter dhāl, and the letter ẓā’, and the letter ghayn, then you divide by four letters or five or seven. So on four letters you divide it thus: فسبعائيل. And if you wish to divide it by seven, divide it مضائيل. And measure on that. And the meaning of taking the Beautiful Names by various ways: among that, if the original number extracted from pronunciation upon any name of the names of God تعالى the Beautiful is such that that is translated by the possessor of that pronunciation, then this name is called the Greatest Name. And another aspect is that you take the first letter from the letters of the king and enter by it into the Beautiful Names, so you take the name whose beginning it is. An example of that: if the letter alif comes out, you take the name Allah; and if bā’ comes out, you take باقي; and if lām comes out, you take لطيف. And thus is the operation. * And know that for every letter there are worlds upon which none is informed except the one whom God has favored.
+
+---
+_End of translation — 365 pages._
