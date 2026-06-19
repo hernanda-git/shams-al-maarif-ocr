@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 566 translated pages._
+_Auto-generated from 604 translated pages._
 
 ---
 ## Page 1
@@ -33599,4 +33599,2373 @@ Masculine, diurnal, embodied, western, ascending, crooked, long, inward, having 
 Feminine, nocturnal, mutable, northern, descending, straight, broad, silent, following, dark, watery, cold, moist, phlegmatic, fortunate, praiseworthy, the watad of the earth, and it is southern, the fourth of the places, strength and goodness. Its planet is the Moon in its fifteenth degree; in it is the exaltation of
 
 ---
-_End of translation — 566 pages._
+## Page 567
+
+**Arabic (original):**
+- ٥٦١ -
+شرف المشتري وفيه وبال زحل وهبوط المريخ ينظر إليه في وجوهه كوكبه القمر فالزهرة فعطارد
+مثلثه العقرب والحوت وهو أول فصل الصيف طالعه في الوجه الأول على هيئة رجل معوج الوجه
+والأصابع أبيض القدمين كأوراق الشجر يوافق لطلاسم اللهو والزينة وفي الوجه الثاني على هيئة
+امرأة جميلة على رأسها إكليل ريحان أخضر وبيدها قضيب نيلوفر يوافق لطلاسم النعمة والسرور
+وفي الوجه الثالث على هيئة رجل رجلاه مثل السلحفاة وعليه حلى من ذهب وبيده حية يوافق
+لطلاسم بلوغ الأمور وحصول الحوائج وتنفيذ الكلام بالغلبة والقهر له من الحروف الدال المهملة
+والعين والغين له من نسبة الإنسان من المخرج الفم ومن الأعضاء الباطنة الرئة والطبيعة وما حوته
+الأضلاع ومن أظهرة البيان اشتراكاً مع الحمل وجهة الأنف اليسرى اشتراكاً مع الميزان وله
+الأمراض البلغمية وله من الطعوم المملوحة وله من الألوان البياض وكل لون أغبر وله من البقاع
+الغياض والشطوط وله من المعادن كل جوهر مائي وله من الحيوان ومن النبات كل مائي والطيور
+الهوائية اختصاصه بشؤون عواقب المرات والآباء والأمهات والمشايخ والأكابر وجليل المظاهر
+والدور والأرضين والعقار وما في ذلك من مطابخ الأفكار ملامح الأنظار ويدل على جماعات
+الناس وعلى الأماكن التي فيها الرطوبة وعلى كل عمل يكون من الرطوبة وعلى المواضع الكثيرة
+الحيات والعقارب من الماء وعلى كل ما فيه وعلى كل شيء تحت الأرض مدفون وعلى الأبيض
+من كل شيء وعلى المعادن وكل ما يخرج منها وتلحق كنحو الكيمياء وعلى الوثائق والكتب وعلى
+كل ما فيه لون البياض والغبرة وعلى ما قد حضر من الأمور وما هو فيه وعلى القوة في كل شيء وعلى
+سرعة الانقلاب في الأمر الذي هو فيه إلى غيره على لازم الضعف والإظلام بكونه برجاً وداد مؤنثاً
+( البرج الخامس الأسد )
+مذكر نهاري ثابت شرقي هابط مستقيم عريض ذو صوت عقيم مفرق قام في حركته ناري حار
+يابس صفراوي سعيد محمود ما يلي وتد الأرض سابع الأمكنة في القوة والحمد والخبرة كوكبه الشمس
+ليس فيه لشيء من الكواكب شرف في الدرجة السابعة من ظهور الشعرى اليمانية وفيه وبال
+زحل ينظر إليه في وجوهه زحل والمشتري والمريخ طالعه في الوجه الأول على هيئة رجل دنس
+الثياب ومعه آخر كوجه الذئب أو الكلب ينظر إلى الشمال يوافق لطلاسم القوة والنشاط والغلبة وفي
+الوجه الثاني على هيئة رجل على رأسه إكليل من ريحان أبيض وبيده قوس طلاسم شؤون استطالة
+السفلة ونحو ذلك وفي الوجه الثالث على هيئة شيخ زنجي قبيح المنظر فيه فاكهة ويفيده إبريق يوافق
+لطلاسم المودة والمحبة له من الحروف الهاء والفاء وله من نسبة الإنسان من المخرج السرة ومن
+الأعضاء الباطنة القلب ومن الظاهرة الفقرات وجهة الأنف الأيمن والعين اليمنى نهاراً واليسرى ليلاً
+وله الأمراض الصفراوية وله من الطعوم كل عذب وكل حلو اشتراكاً وله من الألوان كل أحمر وله
+من المعادن كل براق لطيف كالياقوت وكالذهب وله من الأمكنة والبقاع مجالس الملوك والحصون
+والقلاع وله من الحيوان كل لطيف كالإنسان كالفرس وطيور الصيد وله من النبات كل ما طال
+ثمره كالنخيل وكالزيتون اختصاصه بشؤون ما يتعلق بالأولاد من البنين والبنات وما يرجى في ذلك
+( ٣٦ - شمس المعارف - رابع )
+
+**English:**
+- 561 -
+The dignity of Jupiter, and in it the detriment of Saturn and the fall of Mars. It is looked at in its faces by its planet, the Moon, then Venus, then Mercury. Its triangle is Scorpio and Pisces, and it is the first season of summer. Its ascendant in the first face is on the form of a man, crooked-faced and fingers, white-footed like the leaves of trees; it accords with talismans of amusement and adornment. And in the second face, on the form of a beautiful woman, on her head a crown of green basil, and in her hand a rod of nīlūfar; it accords with talismans of grace and joy. And in the third face, on the form of a man whose legs are like the tortoise, and upon him ornaments of gold, and in his hand a serpent; it accords with talismans of attaining matters, obtaining needs, and carrying out speech by predominance and subjugation. There are for it from the letters the neglected dāl, and the ʿayn, and the ghayn. There are for it from the proportion of man from the exit the mouth, and from the inward organs the lung and the nature and what the ribs contain, and from the exteriors of البيان in partnership with Aries, and the left side of the nose in partnership with Libra. There are for it phlegmatic diseases. There are for it from tastes the salted. There are for it from colors whiteness and every dusty color. There are for it from places the groves and the shores. There are for it from minerals every watery essence. There are for it from animals and from plants every watery one, and the aerial birds. Its اختصاص is with the affairs of the consequences of times, and fathers and mothers, and shaykhs and elders, and the great manifestations, and houses, and lands, and property, and what is in that of kitchens of thoughts, features of gazes. And it يدل upon groups of people, and upon places in which there is moisture, and upon every work that is by moisture, and upon places abundant with snakes and scorpions from water, and upon everything in it, and upon every thing buried under the earth, and upon the white of every thing, and upon minerals and everything that comes out of them and is attached, such as alchemy, and upon documents and books, and upon everything in which there is the color of whiteness and dustiness, and upon what has already been present of matters and what is in it, and upon power in every thing, and upon the speed of transformation in the matter that is in it to other than it, upon the necessary weakness and darkening by its being a feminine sign, وداد.
+
+( The fifth sign, Leo )
+Masculine, diurnal, fixed, eastern, descending, straight, broad, of a barren voice, separated, standing in its motion, fiery, hot, dry, yellowish, fortunate, praiseworthy; what follows: the pillar of the earth, the seventh of the places in power, praise, and experience. Its planet is the Sun. There is in it for nothing of the planets dignity in the seventh degree of the rising of Sirius. In it is the detriment of Saturn. It is looked at in its faces by Saturn, Jupiter, and Mars. Its ascendant in the first face is on the form of a man with dirty clothes, and with him another like the face of a wolf or a dog, looking to the north; it accords with talismans of power, activity, and predominance. And in the second face, on the form of a man on whose head is a crown of white basil, and in his hand a bow; talismans of the affairs of the lowly’s overreaching and the like of that. And in the third face, on the form of a black Ethiopian ugly in appearance, in it fruit, and it benefits him, a pitcher; it accords with talismans of affection and love. There are for it from the letters the hāʾ and the fāʾ. There are for it from the proportion of man from the exit the navel, and from the inward organs the heart, and from the outward the vertebrae and the direction of the right nose and the right eye by day and the left by night. There are for it yellow diseases. There are for it from tastes every sweet and every pleasant, in partnership. There are for it from colors every red. There are for it from minerals every brilliant subtle thing, like ruby and like gold. There are for it from places and regions the councils of kings and the fortresses and the citadels. There are for it from animals every subtle one, like man, like the horse, and birds of hunting. There are for it from plants every thing whose fruit is long, like palms and like olives. Its اختصاص is with the affairs of what pertains to children, of sons and daughters, and what is hoped in that.
+
+---
+## Page 568
+
+**Arabic (original):**
+- ٥٦٢ -
+
+وبقصد والغلمان والخدام والهدايا والكساوى والافراح والمسرات ويدل على الملوك والكبراء
+وعلى الحبال والمواضع الصعبة وعلى النار وما يدخلها من الجواهر وعلى الالوان البهجة مثل الذى
+فيه الذهب والفضة وعلى ما يخفى تحت الارض، كنحو الكنوز والدفائن ولما أُمر وعلى ما قد يكون
+ويستقبل من امور وعلى لازم القوة والاضاءة والثبات فيما سئل عنه بكونه برجا مذكرا ثابتا نهاريا.
+
+( البرج السادس السنبلة )
+مؤنث ليلى متجسد شمالى هابط مستقيم عريض ذو صوت عقيم مظلم ترابى بارد يابس سوداوى
+نحس مذموم موضع عيب وشر وهو كالثانى عشر أردى الامكنة شرها وكل كوكب يكون فيها
+ليست له قوة ولا منفعة كوكبه عطارد وفيه شرفه وفيه هبوط الزهرة ووبال المشترى وفى الدرجة
+الثانية عشر منه طلوع سهم، وفى التاسعة عشر امتزاج الفصلين الصيف والخريف ينظر اليه في
+وجوهه الشمس والزهرة وكوكبه عطارد فالعه في الوجه الاول عليه صورة عذراء حسناء خذق
+بيدها رمانة يوافق لشؤن الزرع والاصلاح وفى الوجه الثانى على هيئة رجل عليه كساء من جلد وآخر
+من حديد يوافق للشح ونحو ذلك وفى الوجه الثالث على هيئة رجل أبيض ضخم متلف في كساء امرأة
+في يدها دهن اسود يوافق فخر والسير ولقطع الشجر وللخراب له من الحروف اء او الصاد المهملة
+وله من نسبة الانسان من المخارج المنخران ومن الاعضاء الباطنة مجارى الغذاء وكذلك الدماغ وقوة
+الفكرة وما استند اليها من علوم الآلات ومن الظاهرة اللسان والفم والظهر والجانب الايسر
+والناحية وله الامراض السوداوية والصفراوية وله من الطعوم كل حامض وله من الالوان كل
+ملون وله من الامكنة والبقاع ما سواه من المروج وله من المعادن الزئبق والاحجار الملونة وله حشرات
+الحيوانات ويشارك ما سواه في انباتات وهو ممازج في الطبائع برودة ويبوسة وحرارة ورطوبة
+اختصاصه بشؤن الاسقام والامراض والعلل والاعراض والهموم والغموم والنكد والشؤم
+والاتعاب والآلام والقهر والضيق والتعسير والتعويق ويدل على السيد والماء والمماليك وعلى
+الارض والحرث وما يكون فيه وعلى النبات وكل ما يخرج من الارض وعلى الاضرار والتلف
+وعلى ما قد مضى من الامور وتجديد اشياء وعلى الامور التي هي غير واحدة وعلى كل
+أمر يكون له عودة ثانية وعلى لازم الضعف والاظلام بكونه برجاً مؤنثاً مجسداً ليليا.
+
+( البرج السابع الميزان )
+مذكر نهارى ثابت غربى هابط مستقيم عريض ذو صوت عقيم ممتزج هوائى بارد يابس سوداوى
+نحس ممتزج محمود وهو جنوبى ابتدء فصل الخريف وتد الارض ثالث أمكنة الفلك في القوة وهو
+عدو طالع مجاهر بالعداوة والمنازعة وكل كوكب يكون فيه يهود للطالع منازع كوكبه الزهرة في
+الدرجة الحادية والعشرين منه شرف زحل وفيه وبال المريخ وهبوط الشمس ينظر اليه في وجوهه
+القمر وزحل والمشترى طالعه فالوجه الاول عليه رجل في يمينه رمح وفى يساره طائر منكوس
+ويطلب فيه للعدل والانصاف وفى الوجه الثانى عليه هيئة رجل اسود خلقته كالفرس يوافق نحو الزينة
+والاصلاح وفى الثالث على هيئة رجل على حمار يوافق لشؤن اللهو والطرب له من الحروف
+الزاى
+
+**English:**
+And intentionally, and boys, and servants, and gifts, and garments, and joys, and pleasures. And it يدل upon kings and grandees, and upon ropes and difficult places, and upon fire and what jewels enter into it, and upon cheerful colors such as that in which there is gold and silver, and upon what is hidden beneath the earth, such as treasures and buried things and what has been commanded, and upon what may be and what is to come of matters, and upon the necessary power and illumination and steadfastness in what was asked about, by its being a masculine, fixed, diurnal sign.
+
+( The sixth sign, Virgo )
+Feminine, nocturnal, embodied, northern, descending, straight, broad, of a barren voice, dark, earthy, cold, dry, blackish, inauspicious, condemned, a place of defect and evil, and it is like the twelfth, the worst of places in evil, and every planet that is in it has no power nor benefit. Its planet is Mercury, and in it is its dignity, and in it is the fall of Venus and the detriment of Jupiter. In the twelfth degree of it is the rising of a سهم, and in the nineteenth the mixture of the two seasons, summer and autumn. It is looked at in its faces by the Sun and Venus, and its planet is Mercury. Its ascendant in the first face is upon the image of a beautiful virgin, clever, in her hand a pomegranate; it accords with the affairs of sowing and repair. And in the second face, on the form of a man upon whom is a garment of leather and another of iron; it accords with stinginess and the like of that. And in the third face, on the form of a white, large man, wasted, in the garment of a woman, in whose hand is black oil; it accords with pride and walking, and for cutting trees and for ruin. There are for it from the letters alif or the neglected ṣād. There are for it from the proportion of man from the exits the two nostrils, and from the inward organs the passages of nourishment, and likewise the brain and the power of thought and what is based upon it of the sciences of instruments, and from the outward the tongue and the mouth and the back and the left side and the flank. There are for it melancholic and yellow diseases. There are for it from tastes every sour one. There are for it from colors every colored one. There are for it from places and regions what is other than meadows. There are for it from minerals mercury and colored stones. There are for it insects of animals, and it shares with what is other than it in plants. It is mixed in natures with coldness and dryness and heat and moisture. Its اختصاص is with the affairs of ailments and diseases and ills and symptoms and worries and griefs and distress and ill omen and fatigues and pains and subjugation and constriction and making difficult and hindering. And it يدل upon the master and water and slaves, and upon the earth and plowing and what is in it, and upon plants and everything that comes out of the earth, and upon harms and destruction, and upon what has passed of matters and the renewing of things, and upon matters that are not one, and upon every matter that has a second return, and upon the necessary weakness and darkening by its being a feminine embodied nocturnal sign.
+
+( The seventh sign, Libra )
+Masculine, diurnal, fixed, western, descending, straight, broad, of a barren voice, mixed, airy, cold, dry, blackish, inauspicious, mixed, praiseworthy. It is southern, the beginning of the season of autumn, the pillar of the earth, the third of the places of the sphere in power, and it is an enemy of the ascendant, openly showing enmity and contention. And every planet that is in it is hostile to the ascendant, contending. Its planet is Venus. In the twenty-first degree of it is the dignity of Saturn, and in it is the detriment of Mars and the fall of the Sun. It is looked at in its faces by the Moon and Saturn and Jupiter. Its ascendant: in the first face, upon it a man in whose right hand is a spear and in whose left a bird upside down, and in it is sought justice and fairness. And in the second face, upon it the form of a black man, his creation like the horse, in accordance with adornment and repair. And in the third, on the form of a man on a donkey, in accordance with the affairs of amusement and delight. There are for it from the letters the zāy
+
+---
+## Page 569
+
+**Arabic (original):**
+- ٥٦٣ -
+
+الزاي والقاف وله من نسبة الإنسان من المخارج الأذنان ومن الأعضاء الباطنة الشهوانية ومجاري الغذاء والمنى اشتراكاً مع الثور ومن الظاهرة المنسابان ومن السرة إلى العورة والعين اليسرى والمنخر الأيسر وله أمراض الدم والسوداء وله من الطعوم ما تركب من حلاوة وعفوصة وله من الألوان ما تركب من بياض وخضرة وله من البقاع المراعي وأمكنة الأشجار وله من المعادن حلى النساء كالذهب والنحاس وله من الحيوان كالملطف كالنساء وكالغزال والضأن وله من النبات المراعي وأمكنة الأشجار اختصاصه بشؤون النساء والأزواج والفراش والمتاع وكل ما تقي والشركاء والخصماء والمعاملات والمطالبات والمنازعات والحروب ويدل على حال الناس وعلى الرياح وكل ما كان في الجو وعلى الصحاري والقفار وما هو مرتفع من الأرض وعلى الأعداء والمجاهدة والمنازعة وكل معاملة بين اثنين وكل طالب ومطلوب مثل الآبق والسارق والمفقود وعلى ما لحق تحت الأرض وعلى ما قد حضر من الأمور وما هو فيه وعلى القوة في كل شيء وعلى النبات في الأمور والتلون في الأخبار وعلى لازم القوة والإشراق بكونه برجاً مذكراً ثابتاً نهارياً.
+{ البرج الثامن العقرب }
+مؤنث ليلي ثابت حبوبي هابط مستقيم عريض صامت مظلم مائي بارد رطب بلغمي نحس مذموم سعد ممتزج مائل وذو ملقرب كوكبه المريخ فيه هبوط القمر ووبال الزهرة ساخط لا ينظر إلى الطالع ذو منحسة شديدة محل ضرر في حلول الكواكب فيه ينظر إليه في وجوهه كوكبه المريخ فالشمس فالزهرة طالعه الأول على هيئة رجل في يمينه رمح وفي يساره رأس بواق لسفك الدماء والغضب والهموم وفي الوجه الثاني على هيئة رجل على حمل في يده عقرب يوافق لشؤون الشهرة والظهور وفي الوجه الثالث على هيئة فرس وصورة حية يوافق للفسق وله من الحروف الحاء والراء المهملتين وله من نسبة الإنسان من المخارج العنان ومن الأعضاء الباطنة المعدة وكذلك الجاذبية ومن الظاهرة الأنف الأيمن والصدر والعورات وله الأمراض البلغمية وله ما تركب من الطعوم وما تركب من الألوان وله من المعادن جواهر الماء وله من البقاع والأمكنة مواضع الحرب والقفار وبيوت النار ومجالس الدولة وله من الحيوان الحشرات وله من النبات كل مر لونه إلى الحمرة اختصاصه بشؤون الموت والعدم والهلاك والشرور العميمة والاغتمام والمواريث والمطالبات والحقوق وأعوان المطلوب ويدل على جماعة الناس وعلى الأراضي الدارسة وعلى الأماكن التي فيها الرطوبة وعلى الماء وكل ما فيه وعلى كل عمل يكون من الرطوبة وعلى ما قد يكون من الأمور وعلى الثبات فيها ولازم الضعف والإظلام بكونه برجاً مؤنثاً ثابتاً ليلياً.
+{ البرج التاسع القوس }
+مذكر نهاري متجسد شرقي هابط مستقيم عريض ذو صوت عقيم مشرق ناري حار يابس صفراوي سعيد محمود ممتزج ساقط لا ينظر إلى الطالع سادس الأمكنة في القوة والحد والحيرة كوكبه المشتري في الدرجة الثالثة منه شرف الذنب وفيه هبوط الرأس ووبال عطارد وفي الدرجة التاسعة عشر امتزاج الفصلين الخريف والشتاء ينظر إليه في وجوهه عطارد والقمر وزحل طالعه
+
+**English:**
+the zāy and the qāf. There are for it from the proportion of man from the exits the ears, and from the inward organs the appetitive faculties and the passages of nourishment and semen, in partnership with Taurus, and from the outward the two flowing ones, and from the navel to the private part and the left eye and the left nostril. There are for it diseases of blood and black bile. There are for it from tastes what is compounded from sweetness and astringency. There are for it from colors what is compounded from whiteness and greenness. There are for it from regions the pastures and places of trees. There are for it from minerals women’s ornaments, like gold and copper. There are for it from animals the subtle ones, like women, and like the gazelle and sheep. There are for it from plants the pastures and places of trees. Its اختصاص is with the affairs of women and spouses and bedding and furnishings and everything that protects, and partners and adversaries and transactions and demands and disputes and wars. And it يدل upon the condition of people and upon the winds and everything that is in the air, and upon deserts and wastes and what is elevated from the earth, and upon enemies and struggle and contention, and every transaction between two, and every seeker and sought, such as the fugitive, the thief, and the missing one, and upon what has attached beneath the earth, and upon what has already been present of matters and what is in it, and upon power in every thing, and upon growth in matters and variation in reports, and upon the necessary power and radiance by its being a masculine fixed diurnal sign.
+{ The eighth sign, Scorpio }
+Feminine, nocturnal, fixed, earthy, descending, straight, broad, silent, dark, watery, cold, moist, phlegmatic, inauspicious, condemned, fortunate, mixed, inclined, and of near attachment. Its planet is Mars. In it is the fall of the Moon and the detriment of Venus, wrathful, not looking to the ascendant, of severe ill omen, a place of harm in the settling of planets in it. It is looked at in its faces by its planet Mars, then the Sun, then Venus. Its ascendant in the first face is on the form of a man, in his right hand a spear and in his left a trumpet’s head for shedding blood and anger and worries. And in the second face, on the form of a man on a ram, in his hand a scorpion, in accordance with the affairs of fame and appearance. And in the third face, on the form of a horse and the image of a serpent, in accordance with debauchery. There are for it from the letters the ḥāʾ and the rāʾ, the neglected ones. There are for it from the proportion of man from the exits the throat, and from the inward organs the stomach and likewise the attractive faculty, and from the outward the right nose and the chest and the private parts. There are for it phlegmatic diseases. There are for it what is compounded from tastes and what is compounded from colors. There are for it from minerals the jewels of water. There are for it from regions and places the places of war and wastes and houses of fire and councils of state. There are for it from animals insects. There are for it from plants every bitter one whose color inclines to redness. Its اختصاص is with the affairs of death and nonexistence and destruction and widespread evils and grief and inheritances and demands and rights and the helpers of the sought one. And it يدل upon a group of people and upon worn-out lands and upon places in which there is moisture and upon water and everything in it, and upon every work that is by moisture, and upon what may be of matters, and upon steadfastness in them, and the necessary weakness and darkening by its being a feminine fixed nocturnal sign.
+{ The ninth sign, Sagittarius }
+Masculine, diurnal, embodied, eastern, descending, straight, broad, of a barren voice, shining, fiery, hot, dry, yellowish, fortunate, praiseworthy, mixed, falling, not looking to the ascendant, the sixth of the places in power and limit and bewilderment. Its planet is Jupiter. In the third degree of it is the dignity of the tail, and in it is the fall of the head and the detriment of Mercury. And in the nineteenth degree the mixture of the two seasons, autumn and winter. It is looked at in its faces by Mercury and the Moon and Saturn. Its ascendant
+
+---
+## Page 570
+
+--- PAGE 570 TRANSLATION ---
+
+---
+## Page 571
+
+**Arabic (original):**
+- ٥٦٤ -
+
+في الوجه الأول على هيئة جسد أصفر وآخر أبيض وآخر أحمر يوافق لأعمال النجدة والقوة، وفي الوجه
+الثاني على هيئة رجل يسوق بقراً وذئب يوافق لأعمال الخوف والشعر والضيق، وفي
+الوجه الثالث على هيئة رجل على رأسه قلنسوة ذهب يقتل آخر يوافق للمهولة، يروى له من الحروف
+الطاء المهملة والشين المعجمة، وله من نسبة الإنسان من المخارج اليدان، ومن الأعضاء الباطنة
+الكبد والمرارة، ومن الظاهرة الفخذان وفقار الظهر، وله الصدر والعورات اشتراكاً مع العقرب
+وكذلك الرأس وما فيه، والجاذبية اشتراكاً مع الحمل، وله الأمراض الصفراوية، وله من الطعوم كل مر
+وما تركب من المرارة، وله من الألوان كل مائل إلى الحمرة والصفرة، وله من المعادن جواهر المأموله،
+من الأمكنة القفار ومواضع اللصوص ومواضع النار وما يصنع بها اشتراكاً مع الحمل، وله من الحيوان
+الحشرات اشتراكاً مع العقرب، ذوات القوائم الأربع والأظلاف اشتراكاً مع الحمل، وله من النبات
+ما يؤكل طعمه كاللوز، اختصاصه بشؤون الأسفار والارتحال والحول والانتقال والرسل والمراسلات
+والغيب وتعلقات هذه الأسباب، ويدل على العلم والدين والورع والزهد والعبادة والمعرفة
+بالله تعالى، وعلى الأحلام الصالحة والحكمة والغيب وأمور الآخرة، وعلى الرجل الذي قد عدل
+عن علمه أو تحول عن طريقته وتربى به وحالته، وعلى السلاطين والملوك والأمراء والكبراء
+وعلى الجبال والمواضع الصعبة، وعلى العز وعلى الشأن ورفعة المكان، وعلى النار وكل ما يدخلها من
+الجواهر وغيرها، وعلى ما قد يكون من مستقبل الأمور، وعلى تجديد الأشياء، وعلى الأمر الذي هو
+غير ذي دعوة، على كل أمر يكون له عودة ثانية، وعلى لازم القوة والإضاءة بقرية برج مذكور المجسد أنهار [؟]
+
+( البرج العاشر الجدي )
+
+مؤنث ليلي منقلب شمالي صاعد [؟] ج طويل في نصف صوت متعب مظلم ترابي بارد يابس رطب
+ممتزج بلغمي سعيد محمود وتد السماء ثابت الأمكنة قوة وخيرة ابتداء فصل [؟] ك كبه زحل في
+الدرجة التامة والعشرين منه، شرف المريخ وفيه هبوط المشتري ووبال القمر، ينظر إليه في وجوهه
+المشتري والمريخ والشمس، طالعه في الوجه الأول على هيئة رجل في يمينه قصبة وفي يساره هدهد
+يوافق لطلاسم الإقبال والإدبار في العجز، وفي الوجه الثاني على هيئة رجل أمامه فرد يوافق لطلب
+ما لا يدرك، وفي الوجه الثالث على هيئة رجل معه مصحف مفتوح وقدامه ذئب حوت وافق لطلاسم
+الرغبة والشره، وله من الحروف الياء المثناة التحتية والتاء المثناة الفوقية، وله من نسبة الإنسان من
+المخارج السيلان، ومن الأعضاء الباطنة الطحال، ومن الظاهرة الركبتان ومن الرجلين، وله
+الأمراض الملغمة والسوداوية، وله من الطعوم كل حامض وما تركب من الدموم وما تركب من
+من الألوان اشتراكاً مع العقرب، وله من الأمكنة والبقاع الصهاريج ومواضع العبيد ومنازل الأعراب،
+وله من المعادن جواهر المياه، وله من الحيوان العورات والحشرات وكل عال كالجمل، وله من النبات كل
+شائك [؟] ساسه بشؤون الملك والسلطة والناموس والعز والجاه والولاة والقضاة والعمال والأعمال
+والتجارات والصناعات، ويدل على المواضع السهلة وعلى المواضع العامرة وعلى الأراضي ذوات
+الحرث وما يكون فيه، وعلى النبات وكل ما يخرج من الأرض، وعلى ما قد حضر من الأمور وما هو
+فيه.
+
+**English:**
+- 564 -
+
+In the first face, in the form of a yellow body and another white and another red, corresponding to the works of succor and strength; and in the
+second face, in the form of a man driving cattle and a wolf, corresponding to the works of fear and poetry and distress; and in
+the third face, in the form of a man upon whose head is a golden cap, killing another, corresponding to the dreadful; there is narrated for it from the letters
+the unpointed ṭā’ and the dotted shīn. And there belongs to it, from the human proportion of the outlets, the two hands; and from the inward organs
+the liver and the gallbladder; and from the outward the thighs and the vertebrae of the back. And there belongs to it the chest and the private parts in partnership with
+Scorpio, and likewise the head and what is in it, and attraction in partnership with Aries. And there belong to it the bilious diseases. And there belong to it from the tastes every bitter
+and what is compounded from bitterness. And there belong to it from the colors every one tending toward redness and yellowness. And there belong to it from the minerals the jewels of the hoped-for.
+And from the places, the deserts and the places of thieves and the places of fire and what is made by means of it, in partnership with Aries. And there belong to it from animals
+the insects in partnership with Scorpio, the four-footed and the hoofed in partnership with Aries. And there belong to it from plants
+what is eaten in taste, like almond. Its specialization is with the affairs of journeys and travel and year and انتقال and messengers and correspondences
+and the unseen and the attachments of these causes. And it يدل upon knowledge and religion and piety and asceticism and worship and knowledge
+of God تعالى, and upon righteous dreams and wisdom and the unseen and the affairs of the Hereafter, and upon the man who has turned away
+from his knowledge or has shifted from his way and has been brought up by it and its state, and upon the sultans and kings and princes and grandees
+and upon the mountains and difficult places, and upon might and upon rank and elevation of place, and upon fire and everything that enters it from
+jewels and other than them, and upon what may be of future affairs, and upon the renewal of things, and upon the matter that is
+not of a summons, upon every matter that has a second return, and upon the necessary strength and illumination by a village of a mentioned embodied برج [?]
+
+( The Tenth Mansion: Capricorn )
+
+Feminine, nocturnal, inverted, northern, ascending [?], long in half a voice, weary, dark, earthy, cold, dry, moist,
+mixed, phlegmatic, fortunate, praiseworthy. The pillar of heaven, fixed of places, strength and good fortune, beginning of فصل [?]. K. Its cube, Saturn in
+the complete twentieth degree of it. The exaltation of Mars, and in it the fall of Jupiter and the detriment of the Moon. It is looked at in its faces by
+Jupiter and Mars and the Sun. Its ascendant in the first face is in the form of a man in whose right hand is a reed and in whose left an hoopoe,
+corresponding to talismans of advance and retreat in impotence. And in the second face, in the form of a man before whom is a single one, corresponding to seeking
+what cannot be attained. And in the third face, in the form of a man with an open muṣḥaf and before him a wolf, a fish, corresponding to talismans of
+desire and greed. And there belong to it the letters yā’ with two dots below and tā’ with two dots above. And there belongs to it, from the human proportion of
+the outlets, the flowing; and from the inward organs, the spleen; and from the outward, the knees and from the legs. And there belong to it
+the diseases of the mouth. And there belong to it from the tastes the sweet and the bitter. And there belong to it what is light from the colors. And there belong to it from the minerals something like glass. And
+from the places and seas and every dreadful hidden thing. Its specialization is with the affairs of hopes and expectation and happiness
+and ascent and friendship and friends and the assistants of the sultans and princes and their needs and their assistants and their works. And it يدل
+upon the deserts and the moons and what is elevated from the earth, and upon the winds and everything that is in the air, and upon the states of
+people and their affairs, and upon the governor who is employed upon the work after the first governor, and upon what may be of affairs
+and upon steadfastness in affairs and good assistance in matters, and upon the necessary strength and illumination in it; it is to be hoped as being
+fixed, diurnal.
+( The Twelfth Mansion: Pisces )
+Feminine, nocturnal, embodied, southern, ascending, crooked, long in half a voice, following, dark, watery, cold, moist,
+inauspicious, blameworthy, fallen, bad of place, pure evil. The strong, the planets absent in it and its benefit, a place
+of joy. Saturn with sorrows and annihilation and the species for the deity. Its planet is Jupiter in the seventh degree, and Jupiter from it is the exaltation
+of Venus, and in it the fall of Mercury and its detriment. And in the eighth degree the fall of the ember of water, and in the fifteenth degree
+the fall of the ember of earth, and in the nineteenth degree the mixture of the two seasons, winter and spring. It is looked at in its faces by
+Saturn and Jupiter and Mars. Its ascendant in the first face is in the form of a man with a human body, his finger corresponding to talismans of
+weakness and sickness and fatigue and exhaustion. And in the second face, in the form of an inverted man, in whose hand is redness, corresponding to drinking
+and high aspiration and attaining what is great. And in the third face, in the form of an evil man before whom is a woman over whom is a veil, corresponding
+to quarrels and rain and rest. There belong to it from the letters lām and ḥā’ joined together. And there belongs to it, from the human proportion of the outlets,
+the two breasts; and from the inward organs the liver; and from the outward the ability, and likewise the two shanks and two legs in partnership with
+Aquarius and the right and the left ear and the growing power in partnership. And there belong to it the diseases of the mouth. And there belong to it from the tastes
+every astringent and insipid. And there belong to it from the colors every different-colored one. And there belong to it from the minerals every shining stone like pearl and silver. And
+from the regions, the coasts. And there belong to it from plants every moderate one. Its specialization is with the affairs of despair and severance and slip and fall
+and bad travel and prison and confinement and undulation and sorrow and diseases and affliction and worry and grief and distress and toil
+and enemies and opposites and harm and stubbornness. And it يدل upon groups of people and upon beasts and upon water and everything in it
+and upon places in which there is moisture and upon every work that is from moisture and upon contracts and the crown of Aries and upon
+
+--- PAGE 572 TRANSLATION ---
+
+---
+## Page 572
+
+**Arabic (original):**
+- ٥٦٦ -
+ما قد مضى من الأمور وفات، وعلى تجديد الأشياء، وكل أمر يكون له عودة ثانية، وعلى الأمر الذي هو غرٌّ وحدّ، وعلى التجدد في الشيء أولاً فأولاً، على لازم الضعف والإظلام بكونه برزخاً وتاماً متجسداً ليلاً، والله سبحانه وتعالى أعلم بغيبه وأحكم، وصلى الله تعالى وسلم على سيدنا محمد المخصوص بالعظم، وعلى آله وصحبه مصابيح الظلم، وعلى التابعين لنهجهم الأقوم، ما أوجد الله معدوماً ولوجود أسم.
+
+رسالة لطائف الإشارة في خصائص الكواكب السيارة
+بسم الله الرحمن الرحيم
+الحمد لله رافع السموات العلى بقدرته، ومجري الكواكب في مجرة الأفلاك بحكمته، والنجوم مسخرات بأمره، والكائنات تحت قسر قهره، وإن من شيء إلا يسبح بحمده، ويوجد جلاله في بر إياه مجده، حمداً من تدبر آياته وتفكر في ملكوت أرضه وسمواته، وأشكره شكر من عرف كنه آلائه ووقف على عوارف عوائد نعمائه، وأشهد أن لا إله إلا هو الأزلي الأبدي شهادة عبد تجلى توحيده في مقام الشهود الأحادي، وأشهد أن سيدنا محمداً عبده ورسوله الأمين، فاتحة الوجود وخاتم نظام الأنبياء والمرسلين، صلى الله تعالى وسلم على ذاته الكريمة، وعلى آله وصحبه تابعي شرعته القويمة، مدار الفلك الدوار وما طلعت شموس وغربت أقمار، آمين اللهم آمين. أما بعد، فيقول المستظل بكنف المقام النبوي، المستمد بروعة الجناب المنيع المصطفوي، خادم الفراشة الشريفة في الحجرة المحمدية المنيفة، العاجز الضعيف المنتمي عبد القادر بن عبد القادر الحسيني الأدهمي، تولاه تعالى بلطائف عونه، وتولاه بإسعاد إسعاف صونه، بمنه تعالى وكرمه وفضله ونعمه، آمين اللهم آمين. هذه رسالة جليلة المقالة، وفوائد مجموعة على مرمر [~] فوعه أنيقة رائقة، رشية شائقة، باهرة الفوائد، زاهرة الفرائد، زاهية العوارف، باهة المعارف، وافرة المقاصد، طائلة الموائد، ذات حقائق ودقائق ورقائق ومحاسن وفنون، وما يربها إلا العالمون، في السبعة السيارة في مطالع أفلاكها الدوارة، من النسب والحالات والخصائص والدلالات، المنطوطة منها العبارات على عميم الإشارات، فهي لغوامض العلوم في الخصوص والعموم مقدمة مقدمة ومتممة متممة، سميتها (لطائف الإشارة في خصائص الكواكب السيارة)، وأرجو من الله وهب الإنعام أن ينفع بها الخاص والعام، وأن يجعل السعي بها مشكوراً، والعمل صالحاً متقبلاً مبروراً، وحسبي الله وكفى، وسلام على عباده الذين اصطفى.
+
+(تمهيد)
+ليعلم أولاً أن الله تعالى ذو جلاله وجلت كماله، في قدس أزليته وكنه أبديته، وعز ربوبيته وعظمة أحديته، ومحمد صمدانيته، وحكم مشيئته وقسر إرادته، ونفوذ قدرته عن مدارك أفئمة العبارات وإحاطة قضايا العقول ومواد الإشارات، قد قضت حكمته واقتضت مشيئته بإيجاد الهيولي واختراع الجنس من العوالم العلوية والسفلية على ما اقتضته القدرة الإلهية.
+
+**English:**
+- 566 -
+what has passed of affairs and has gone, and upon the renewal of things, and every matter that has a second return, and upon the matter that is raw and limit, and upon the renewal in the thing first by first, upon the necessary weakness and darkening by its being an isthmus and complete embodied by night, and God سبحانه وتعالى is more knowing of His unseen and more wise, and may God تعالى bless and grant peace upon our master Muhammad, singled out by greatness, and upon his family and his companions, lamps of darkness, and upon the followers of their most upright path, as long as God brought into existence a non-existent and for the existence of a name.
+
+Treatise: لطائف الإشارة in the Properties of the Moving Planets
+In the name of God, the Merciful, the Compassionate.
+Praise be to God, the One who raises the lofty heavens by His power, and who causes the planets to run in the galaxy of the spheres by His wisdom, and the stars are subjected by His command, and the beings are under the compulsion of His subjugation, and there is nothing except that it glorifies Him with praise, and His majesty is found in the land of His glory; praise from one who has reflected upon His signs and pondered the kingdom of His earth and His heavens, and I thank Him with the thanks of one who has known the essence of His bounties and has stood upon the known customs of His favors. And I bear witness that there is no god except Him, the eternal, the everlasting, the witness of a servant whose monotheism has become manifest in the station of singular witnessing. And I bear witness that our master Muhammad is His servant and His trustworthy messenger, the opening of existence and the seal of the order of the prophets and the messengers. May God تعالى bless and grant peace upon his noble essence, and upon his family and his companions, the followers of his upright law, the axis of the revolving sphere, and as long as suns have risen and moons have set, amen O God amen. To proceed: the one taking shelter in the protection of the Prophetic station, drawing support by the splendor of the impregnable Muhammadan threshold, servant of the noble butterfly in the exalted Muhammadan chamber, the incapable, the weak, the affiliated عبد القادر بن عبد القادر الحسيني الأدهمي, may He تعالى take him by the subtleties of His aid, and take him by the happiness of the assistance of His protection, by His bounty تعالى and His generosity and His grace and His favors, amen O God amen. This is a treatise of lofty discourse, and benefits gathered upon marble [~] of elegant, graceful, delicate, alluring, dazzling benefits, flourishing singularities, adorned knowledges, splendid knowledges, abundant purposes, ample tables, possessing realities and subtleties and delicacies and beauties and arts, and none is fit for them except the learned, concerning the seven moving planets in the risings of their revolving spheres, from the relations and states and properties and indications, the expressions thereof being woven upon abundant allusions. So it is for the obscurities of the sciences in the particular and the general, a preface upon preface and a completion upon completion. I named it “لطائف الإشارة in the Properties of the Moving Planets,” and I hope from God, the Giver of favors, that it may benefit the elite and the العامة, and that He make the striving by it thanked, and the work righteous, accepted, and approved. God is sufficient for me, and enough, and peace upon His servants whom He has chosen.
+
+(Preamble)
+Let it be known first that God تعالى, Possessor of majesty and whose perfection is exalted, in the sanctity of His pre-eternity and the essence of His everlastingness, and the might of His lordship and the greatness of His oneness, and Muhammad of His samadanīyyah, and the rule of His will and the compulsion of His desire, and the نفوذ of His power beyond the perceptions of the minds of expressions and the encompassing of the propositions of intellects and the materials of indications, His wisdom has decreed and His will has required the bringing into existence of hyle and the invention of the genus from the upper and lower worlds according to what the divine power required.
+
+---
+## Page 573
+
+**Arabic (original):**
+- ٥٦٧ -
+
+الإلهية والحكمة الربانية من إبداع أجناس المكونات وتفصيل أنواع المخلوقات فأبرز بتجلي
+أحديته في مقام واحديته بفيضه الأقدس وتجليه المقدس خلاصة المجردات من عين صميم
+اللطف تكثيراً لموانع اتحد مع الاتحاد فكان المتحرك يلازمه من الجوهرين فدخلت مجازات
+الواحدية الفائضة عن حقائق تجليات الأحدية فوزرت ما امتنعت قديماً أو تكاثر الصادر الثاني
+بالنسبة إلى الأول والثالث إليه حتى اختتم الدور على النوع الأوسط فسمى العالم الصغير وهو العالم
+الإنساني والهيكل الجسماني المنطوي في هيولاه النفسانية وحقيقته الروحانية عوالم الملك
+والملكوت والمودع فيه بيت معمور العزة والجبروت والممتاز في خصائص شأنه بأصغر به قلبه
+ولسانه كما قيل فيه أتحسب أنك جرم صغير وفيك انطوى العالم الأكبر
+ففيه شبه كل شيء من العالمين العلوي والسفلي وكل عالم علوي له تعلق تدبير لما يناسبه من السفليات
+بحكمة القادر العليم العزيز الحكيم فمخارجه كالبروج اثنا عشر الحمل والعقرب للعينين والثور
+والميزان للأذنين والجوزاء والسنبلة للمنخرين والسرطان للفم والأسد للصرة والقوس والحوت
+للثديين والجدي والدلو للسبيلين وحواسه الخمسة كتحتية الخمسة البروج ونفسه كالشمس
+مجامع عدم التغير وعقله كالقمر لاتصافه بها وعروقه كالدرج ومفاصله كالدقائق وحالاته كالجهات
+وأدلتها لما هو من الشؤون والخصوصية فأول البروج لدلالة خصوصية النفس والحياة وما يتعلق بها
+من ابتداء الأمور والمقاصد وثانيها لمقاصد الكسب والمال وشؤون الأعمال وهذلهما تدل عليه
+جواهرها وطبائع أربابها فهو بكليته الجامعة له الارتباط بالعلوات من حيث الدلالات والحالات
+وهكذا العوالم السفلية لها الارتباط بالعوالم العلوية فيه العالمين تطابق وارتباط وتصادق فالفلك
+جيب وجسد والكوكب سكن وروح والشمس سلطان وسط الوجود كالقلب في البدن والقمر
+النائب الخاص الذي له النقض والإبرام عن السلطان كالعقل وعطارد الكاتب والزهرة المطرب
+والمرقص وهالزينة والنساء والمريخ السياف المتعلق بالدماء والمشتري القاضي وصاحب الدين والعلم
+وزحل الخازن الأمين وهذه في أماكنها متفاوت على ما في أبواب الكون والفساد
+وشؤون المناظرات ونوادر القضاء ولا طبع ولا طعن ولا لزوم للفلك في شأن من الشؤون وحال من
+الحالات وحيثية من الحيثيات فإن المطلق لا يتصف بصفات المركبات وإنما يوجد الله
+عز شأنه وتبارك أمره وسلطانه في المركبات فلك بواسطة التركيب ويجعل الملك دليلاً عليها
+بباهر قدرته وعظيم حكمته وقد جعل الله تبارك وتعالى في السبعة العلويات سر الاهتداء بقوله
+العظيم في فرقانه الحكيم (وهو الذي جعل لكم النجوم لتهتدوا بها في ظلمات البر والبحر قد فصلنا
+الآيات لقوم يعلمون) ففيها سر جعل وهو نوع من القدرة لا من أسمائه الحسنى الجاعل قال تعالى
+جاعل الملائكة رسلاً ففيها سر تصريف في العالم الصغير وفي المرتين الصفراء والسوداء والبلغم والدم
+فيزيد وينقص في تدوير الدوائر الطبيعيات وقوى هذه السبعة مأخوذة من قوى القطعيات
+الباطنيات في لا إله إلا الله ولما كانت دائرة لا إله إلا الله منها الثابت ومنها المتقلب الإثبات ثابت
+والنفي متقلب الذي ليس من صفته العدم الذي هو منه كانت البروج في أفلاكها منها
+
+**English:**
+- 567 -
+
+The divine and the lordly wisdom, from the invention of the genera of the constituents and the detailing of the kinds of the created things, so He brought forth, by the manifestation of His Oneness in the مقام of His Oneness, by His most holy effusion and His holy manifestation, the quintessence of the abstractions from the very essence of لطف, in multiplication of impediments united with union, so the moving thing accompanied him from the two substances; thus entered the metaphors of the واحدية overflowing from the realities of the manifestations of الأحدية, and so He وزرت what had been formerly prevented, or the second emanant multiplied in relation to the first and the third to it, until the cycle was concluded upon the middle kind, so it was named the small world, and it is the human world and the bodily structure folded within its psychic hyle and its spiritual reality: the worlds of الملك and الملكوت, and the house deposited in it, inhabited, of might and جبروت, and distinguished in the properties of its شأن by the smallest of it, its heart and its tongue, as it was said concerning it: “Do you reckon that you are a small body, while within you the greater world is folded up?”
+So in it is the likeness of every thing from the two worlds, the upper and the lower, and every upper world has a relation of governance to what is suitable to it from the lower things, by the wisdom of the قادر, the knowing, the mighty, the wise. So its exits are like the twelve signs: Aries and Scorpio for the eyes, Taurus and Libra for the ears, Gemini and Virgo for the nostrils, Cancer for the mouth, Leo for the navel, Sagittarius and Pisces for the breasts, Capricorn and Aquarius for the two passages. And its five senses are like the five lower signs, and its soul is like the sun, the assemblages of non-change, and its intellect like the moon because of its being characterized by them, and its veins like the degrees, and its joints like the minutes, and its states like the directions, and their indications for what is from the affairs and the particularity. So the first of the signs is for indicating the particularity of the soul and life and what is connected to them from the beginning of affairs and purposes, and the second is for the purposes of acquisition and wealth and the affairs of works, and these two indicate their essences and the natures of their lords. Thus it, in its comprehensive totality, has relation to the upper things from the aspect of indications and states. And likewise the lower worlds have relation to the upper worlds; in the two worlds there is correspondence, relation, and mutual assent. So the sphere is a pocket and a body, and the planet a dwelling and a spirit, and the sun a sultan, the middle of existence like the heart in the body, and the moon the special deputy who has undoing and binding on behalf of the sultan, like the intellect, and Mercury the scribe, and Venus the singer and the dancer and the adornment and the women, and Mars the swordsman connected with blood, and Jupiter the judge and possessor of religion and knowledge, and Saturn the trustworthy treasurer. And these, in their places, are varying according to what is in the chapters of coming-to-be and corruption and the affairs of disputations and the rarities of القضاء. And there is no nature, no attack, and no necessity for the sphere in any affair of the affairs, nor state of the states, nor aspect of the aspects, for the absolute is not characterized by the attributes of composites; rather Allah, exalted is His شأن and blessed is His command and His sovereignty, is found in the composites, a sphere by means of composition, and He makes the الملك a proof for them by His dazzling power and عظیم wisdom. And Allah, Blessed and Exalted, has placed in the seven upper things the secret of guidance by His عظیم saying in His wise Furqan: “And it is He who made for you the stars that you may be guided by them in the darknesses of the land and the sea. We have detailed the signs for a people who know.” So in them is the secret of making, and it is a kind of power, not from His beautiful names, the Maker. He, تعالى, said: “Making the angels messengers.” So in them is the secret of disposal in the small world, and in the two times, the yellow bile and the black bile and the phlegm and the blood, and it increases and decreases in the turning of the circles of the natural things. And the powers of these seven are taken from the powers of the decisive inward things in “There is no god but Allah.” And when the circle of “There is no god but Allah” is of it the fixed and of it the mutable, the affirmation fixed and the negation mutable, that which is not from its description nonexistence, which is from it, the signs in their spheres were of it.
+
+Notes:
+[Grid content preserved as-is]
+
+---
+## Page 574
+
+**Arabic (original):**
+- ٥٦٨ -
+الثابت ومنها المنقلب وكل شيء في الدنيا متحرك في أدوار الدائرة الفلكية بالزيادة والنقصان كالحر
+والبرد والصيف والشتاء فللسبعة العلويات نسب في السفليات هي دالة عليها بطبائعها وبجواهر
+بروجها فإن الله تعالى قسم الفلك الأطلس الذي هو فلك البروج وهو قوله تعالى والسماء ذات البروج
+على اثني عشر قسما وأوحى الله تعالى في هذه البروج أمرها فلكل برج فيها أمر يتميز به عن غيره من
+البروج وجعل الله تعالى لهذه البروج أثرا من أمره الموحى به فيما دون هذه السماء من عالم التركيب
+فيظهر أثره فيه بحكمة من أعطى كل شيء خلقه ثم هدى ألا له الخلق والأمر تبارك الله رب العالمين
+وهذا أوان الشروع في المقصود بعون الملك المعبود جل جلاله وعم نواله ولا خير إلا خيره ولا إله غيره
+( كو ÷ كب : زحل )
+اسمه بالفارسية كيوان وبالرومية واليونانية فرونس وبالهندية سنشر له الفلك السابع وله برجان
+الجدي والدلو وهو مذكر نهاري ترابي بارد يابس مفرط جوره ثمانية عشر درجة تسعة من
+أمامه وتسعة من خلفه يمكث في البرج سنتين ونصف شرفه في الدرجة الحادية والعشرين من
+الميزان وهبوطه في الحمل ووباله في السرطان والأسد طالعه من النور إلى الظلمة مظلم نحس مطلق
+وشر بحت صلاحه بالمشتري يحول طبيعته إلى الخير وأقل ما يعقد من الشر هو في نحوسه في مواليد
+النهار وفي المسائل التي ساعاتها بالنهار وفي أول الشهر وفي البروج الذكور أقل ضرراً والعكس بالعكس
+ويعظم شره من حلوله في الأمام وينقلب ما فيه من الشر إلى الخير في بيته أو مشرقته فرحه من
+الفلك الأطلس في الثاني عشر ومن نزوله في بيوته في الدلو لأنه مذكوره من طروبه كونه بالعشي من
+أفق المغرب ومن النواحي كونه في الناحية المذكورة وتد السماء إلى وتد الشرق ومن وتد الأرض
+إلى وتد الغرب أي من العاشر إلى الأول ومن الرابع إلى السابع وله من العالم السفلي القوة الطبيعية
+والعلوم اللطيفة من علوم الآداب والصنائع الحكمية كأعمال الفلاحة والجلاد ومن اللغات
+العبرية والقبطية ومن الحروف الألف والحاء والسين المهملتان والتاء المثناة من فوق ومن الأيام
+يوم السبت وهو يوم مكر وخديعة وليلة الأربعاء وله من البقاع والأمكنة كل مهول كالأودية والقفول
+ومن الحيوان كل أسود قبيح كالخنازير ومن الحشرات كالعقارب والعناكب ومن النباتات كل
+شائك من الأشجار ما طال عمره كالنخيل والزيتون ومن الطعوم الملوحة والحموضة والكرامة وكل
+بشع كالسذاب والأهليلج والبصل والثوم ومن الألوان كل أسود وكل سواد مع خضرة ومن المعادن
+كل أسود كالرصاص والكحل والمغناطيس ومن الملابس والمنسوجات كل خشن وما كان من
+الصوف وله من الإنسان من أعضائه الباطنة الطحال ومن أظاهره الشعر والأظفار والأذن اليمنى
+واليسرى اشتراكا ومن الطبائع البرودة واليبوسة والأمراض السوداوية اختصاصه بحوائج
+العظماء من السلاطين والملوك والأمراء والكبراء والنسك ونحو الفلاحين والعبيد واللصوص
+وله استخراج الكنوز والدفائن والأرصاد ويدل على الولاية والتوحد والتفرد والعقود وصدق
+الوعود ووفاء العهود وصدق المودة وعلى الإصلاح والخراب والعقل والمكر والتجربة في الحيل
+وعلى التعب والنصب والتخلي من الطرب والفرح والانفراد بالكرب والترج وفرحه بالفم والحزن
+والغناء
+
+**English:**
+- 568 -
+the fixed and the mutable. And everything in the world is moving in the cycles of the celestial circle by increase and decrease, like heat and cold and summer and winter. So the seven upper things have relations in the lower things; they indicate them by their natures and by the essences of their signs. For Allah تعالى divided the atlas sphere, which is the sphere of the signs, and it is His saying تعالى: “And the heaven possessing the signs,” into twelve divisions, and Allah تعالى inspired in these signs their affair, so for every sign therein is an affair by which it is distinguished from the other signs. And Allah تعالى made for these signs an effect from His inspired affair in what is below this heaven from the world of composition, so its effect appears in it by the wisdom of Him who gave everything its creation, then guided. Is not to Him the خلق and the الأمر? Blessed is Allah, Lord of the worlds. And this is the time for beginning the intended matter with the help of the king, the worshipped, glorious is His majesty and widespread is His bestowal, and there is no good except His good, and there is no god other than Him.
+
+( كو ÷ كب : زحل )
+
+Its name in Persian is Kiwān, and in Roman and Greek, Frūns, and in Hindi, Sanshr. The seventh sphere is assigned to it, and it has two signs: Capricorn and Aquarius. It is masculine, diurnal, earthy, cold, dry, excessive; its orb is eighteen degrees, nine in front of it and nine behind it. It remains in the sign for two and a half years. Its exaltation is in the twenty-first degree of Libra, and its fall is in Aries, and its detriment in Cancer and Leo. Its rising is from light to darkness, dark, an absolute malefic, and pure evil. Its goodness is by Jupiter, turning its nature to good. The least that is tied from evil is that in its maleficence in nativities of the day, and in questions whose hours are by day, and at the beginning of the month, and in the masculine signs it is less harmful, and the reverse of the reverse. And its evil becomes great from its being in the front, and what is in it of evil turns to good in its house or its exaltation. Its joy from the atlas sphere is in the twelfth, and from its descent in its houses in Aquarius, because it is mentioned among its joys as being in the evening from the horizon of the west, and among the directions, its being in the mentioned direction, and the pillar of the heaven to the pillar of the east, and from the pillar of the earth to the pillar of the west, that is, from the tenth to the first, and from the fourth to the seventh. And it has from the lower world the natural power and the subtle sciences from the sciences of manners and the الحكمي crafts, such as the works of agriculture and tanning, and from the languages Hebrew and Coptic, and from the letters alif and ḥā’ and sīn, the unpointed, and tā’ the two-dotted from above, and from the days Saturday, and it is a day of trickery and deceit, and the night of Wednesday. And it has from the regions and places every terrifying place, such as valleys and deserts, and from animals every ugly black one, such as pigs, and from insects such as scorpions and spiders, and from plants every thorny one, from trees long-lived, such as palms and olives, and from tastes saltiness and sourness and bitterness, and every foul one, such as rue and black hellebore and onion and garlic, and from colors every black and every blackness with greenness, and from minerals every black, such as lead and kohl and magnet, and from garments and textiles every coarse one and what is from wool. And it has from man, from his inward organs, the spleen, and from his outward ones the hair and the nails and the right ear and the left ear in common, and from the natures coldness and dryness, and the melancholic diseases. Its اختصاص is with the needs of the great ones from the sultans and kings and princes and nobles and ascetics and the like of farmers and slaves and thieves. And it has the extraction of treasures and buried things and observations, and it يدل upon ولاية and singleness and uniqueness and contracts and the truth of promises and fulfillment of covenants and truth of affection, and upon reform and ruin and intellect and trickery and experience in stratagems, and upon toil and fatigue and being free from delight and joy and being alone with grief and sorrow, and its joy is with the mouth and sadness and singing.
+
+---
+## Page 575
+
+**Arabic (original):**
+- ٥٦٩ -
+والعناء والوحشة والبلاء وإقباله في الأوتاد وما يليها وإدباره في السقوط عنها والنظر إليه يورث الحزن
+( كوكب = المشتري = )
+اسمه بالفارسية البرجيس وبالرومية هرمذ وباليونانية ذاوش وبالهندية هـ سقط له الفلك
+السادس وله برجان القوس والحوت وهو مذكر نهاري هوائي حار رطب معتدل جرم نوره ثمانية
+عشر درجة تسعة من أمامه وتسعة من خلفه يمكث في البرج عاماً كاملاً شرفه في الدرجة الخامسة
+عشر من السرطان وهبوطه في إحدى عشر ووباله في الجوزاء والسنبلة طالعه من الظلمة إلى النور منير سعد
+أكبر وتعظم سعوده في بيته وفي شرفه وفي مثلثته وحده وينقلب من ملابسة الشر إلى الخير وضعه في
+الثـنـي وفساده في هبوطه فرحه من الفلك في الحادي عشر من نزوله في بيوته في القوس ومن طلوعه
+كونه في أفق المشرق ومن النواحي المذكورة في الناحية المذكورة من وسط السماء إلى وتد المشرق ومن
+وتد الأرض إلى وتد المغرب وله من العالم السفلي القوة التامة وعلوم الديانات والصنائع الأنيقة والتجارات
+ومن اللغات لغة اليونانية ومن الحروف الباء الموحدة والطاء والعين المهملتين والتاء المثلثة ومن الأيام الخميس
+وهو يوم طلب الحوائج وولاية الاثنين وله من البقاع والأمكنة مواضع العبادات كالمساجد والصوامع
+ومن الحيوان كل لطيف كالأرنب والطاوس والحمام ومن الحشرات كل نفيس كدود القز ومن النباتات
+ذات الأثمار مما يؤكل باطنه كالفستق واللوز ومن الطعوم الحلاوة مع التفاهة ومن الألوان البياض
+مع الصفرة ومن المعادن كل حجر براق كالياقوت والقلعي ومن الملابس والمنسوجات كل لطيف بهج
+وله من الإنسان من أعضائه الباطنة الكبد والمرارة اشتراكاً ومن الظاهرة الأذن اليسرى والعين
+اليمنى والأنف الأيمن وله اعتدال الجسد وسلامته ومن الطبائع الحرارة والرطوبة والاعتدال في
+ذلك والأمراض الدموية اختصاصه بشؤون العلماء والحكماء وحقائق المعارف ودقائق العوارف من
+التفسير والتأويل والتعبير وشؤون الصلح والسلم والتجارات ومدارج السعادات ويدل
+على عظم الهمة والكمال التام والصلاح والوقار والذكاء والورع والعدل والقسط وجمال العلم والصدق
+والزهد والعبادة والحكمة في الدين والحق والتحرز بالعهد والتحرز بالوعد وحسن الرأي
+والفلاح والأفلاح والكرم في الطبع والخلو من النحس ومن الفساد والاعتدال في الأحوال والشؤون
+والنظر إليه يفيد السرور ويكسب الانبساط والجبور ( كوكب = المريخ = )
+اسمه بالفارسية بهرام وبالرومية أريس وباليونانية أجار له الفلك الخامس وله برجان
+الحمل والعقرب وهو مذكر ليلي ناري حار يابس غاية جرم نوره ثمانية عشر درجة تسعة من أمامه
+وتسعة من خلفه يمكث في البرج خمسة وأربعين يوماً شرفه في الدرجة الثامنة والعشرين من الجدي
+وهبوطه في السرطان ووباله في الثور والميزان نحس أصغر سعيد مضاف إلى ما يمازجه صلاحه
+بالزهرة تحوله إلى الخير وحل ما يعقد من الشر وينقلب ما له من الشر إلى الخير في بيته أو شرفه أو
+مثلثته ويعظم ما فيه من مضاف السعود وضعفه في الثامن وسقوطه في هبوطه فرحه من الفلك
+في السادس ومن نزوله في بيوته في الثامن ومن طلوعه كونه في أفق المغرب ومن النواحي في الناحية
+المذكورة من العاشر إلى الطالع ومن الرابع إلى السابع وله من العالم السفلي القوة الجاذبة والعلوم
+
+**English:**
+- 569 -
+and toil and loneliness and affliction, and its approach in the pillars and what follows them, and its retreat in falling from them, and looking at it begets sadness.
+
+( Kawkab = Jupiter = )
+
+Its name in Persian is Barjīs, and in Roman, Hirmudh, and in Greek, Dhāwsh, and in Hindi, H. The sixth sphere is assigned to it, and it has two signs: Sagittarius and Pisces. It is masculine, diurnal, airy, hot, moist, temperate; the body of its light is eighteen degrees, nine in front of it and nine behind it. It remains in the sign for a full year. Its exaltation is in the fifteenth degree of Cancer, and its fall is in eleven, and its detriment in Gemini and Virgo. Its rising is from darkness to light, luminous, the greater fortunate. And its fortunes become great in its house and in its exaltation and in its triplicity alone, and it turns from the association of evil to good; its position is in the second, and its فساد in its fall. Its joy from the sphere is in the eleventh, and from its descent in its houses in Sagittarius, and from its rising its being in the horizon of the east, and from the directions mentioned in the mentioned direction, from the middle of the heaven to the pillar of the east, and from the pillar of the earth to the pillar of the west. And it has from the lower world the complete power and the sciences of religions and the elegant crafts and the trades, and from the languages the Greek language, and from the letters the joined bā’, and ṭā’, and ʿayn, the unpointed, and tā’ the three-dotted, and from the days Thursday, and it is the day of seeking needs and the governance of Monday. And it has from the regions and places the places of worship, such as mosques and cloisters, and from animals every gentle one, such as the rabbit and the peacock and the pigeon, and from insects every precious one, such as silkworms, and from plants those bearing fruits, of what is eaten from within, such as pistachios and almonds, and from tastes sweetness with blandness, and from colors whiteness with yellowness, and from minerals every shining stone, such as ruby and tin, and from garments and textiles every gentle, beautiful one. And it has from man, from his inward organs, the liver and the gallbladder in common, and from the outward ones the left ear and the right eye and the right nose, and it has bodily moderation and health. And from the natures heat and moisture and moderation in that, and the blood diseases. Its اختصاص is with the affairs of the scholars and the sages and the realities of knowledges and the subtleties of gnoses, from interpretation and exegesis and expression, and the affairs of reconciliation and peace and trades and the degrees of felicities. And it يدل upon greatness of aspiration and complete perfection and righteousness and dignity and intelligence and piety and justice and equity and the beauty of knowledge and truthfulness and asceticism and worship and wisdom in religion and truth and being cautious with the covenant and being cautious with the promise and good opinion and success and prosperity and generosity in nature and being free from misfortune and from فساد and moderation in states and affairs, and looking at it gives joy and acquires expansiveness and relief.
+
+( Kawkab = Mars = )
+
+Its name in Persian is Bahrām, and in Roman, Ārīs, and in Greek, Ajār. The fifth sphere is assigned to it, and it has two signs: Aries and Scorpio. It is masculine, nocturnal, fiery, hot, dry, utmost; the body of its light is eighteen degrees, nine in front of it and nine behind it. It remains in the sign for forty-five days. Its exaltation is in the twenty-eighth degree of Capricorn, and its fall is in Cancer, and its detriment in Taurus and Libra. Lesser malefic, fortunate when added to what mixes with it. Its goodness is by Venus, turning it to good and dissolving what is tied from evil, and what is in it of evil turns to good in its house or its exaltation or its triplicity, and what is in it of the added fortunes becomes great, and its weakness in the eighth and its falling in its fall. Its joy from the sphere is in the sixth, and from its descent in its houses in the eighth, and from its rising its being in the horizon of the west, and from the directions in the mentioned direction from the tenth to the ascendant and from the fourth to the seventh. And it has from the lower world the attracting power and the sciences
+
+---
+## Page 576
+
+**Arabic (original):**
+— ٥٧٠ —
+المؤثرة، الزجر والعرافة والرمل والحرف والخواص والسيمياء والكيمياء وبحوذك وله
+الصنائع الحكيمة وما هو من أعمال النار ورم الحرب كالحدادة والسلاح وما فيه دم كالحجامة
+والفصادة وما أثار الغضب ومن اللغات الفارسية ومن الحروف الجيم والياء المثناة التحتية والفاء
+والخاء المعجمة ومن الأيام الثلاثاء وهو يوم حديد وبأس وليلة السبت وله من البقاع والأمكنة المهامه
+القفار ومواضع اللصوص ومواضع الحرب كالحصون والقلاع وبيوت النار ومجالس الولادة ومن
+الحيوان كل مؤذ وكل جارح وذوات الأظلاف، ذوات القوائم لأربع ومن الحشرات كل مؤذ
+كريه ومن النبات كل ذي مرارة كريه ومن الطعوم المرارة الكريهة وكل مر لونه إلى الحمرة ومن
+الألوان الحمرة القتمة ومن المعادن كل أحمر كدر كالزنجفر والعقيق قتم ومن الملابس كذلك وله من
+الإنسان من أعضائه الباطنة المرارة ومن الظاهرة الأنف الأيمن، الأذن اليمنى ومن الطبائع الحرارة
+واليبوسة والدم والصفراء وأمراضهما اختصاصه شؤن القود وذوي الجلبة والغلة وعظم القدر وكبر
+السطوة وأولي البأس بمقاصد السياسات وبالجور والبغي والخصاصات والمكايدات والعداوات
+والحوارج واللصوص والفساد والخراب والدماء والجراح والأورام الغليظة والوساوس والأحزان
+والمكائد ويدل على الغلبة والمطالبة والشدة في البأس وقوة الفكر في القهر والغلبة وعظم
+السطوة ونار الحمية وكفاية الرزبة وتوليد الحرب وحمل السلاح وتهيج الدماء والنقمة من الأشرار
+واراقة الدماء والشر والعذاب والضرب والسجن والكذب والنميمة والبذاء وقلة المبالاة وعلى الوحدة
+والغربة وقوة الذكر والفضل والطهارة وأربية القوى والطيش وتدارك الشعر وشجاعة القلب
+والشدة في الحرورية والاحتجاب عن الطلب والذب عن الحوزة وازالة الملوك عن كراسيها واذلال
+الجبابرة واباحة السلاطين واباحة الحريم والدماء وسفكها والقيام بنصرة المستنصر واجارة
+المستجير واعزاز من يستجلب النصرة وتمكين طالبها وتوثيق عرى الطلب لها وعلى المناخات
+وسلب الراحات واقباله في الأوتاد وما يليها، كوكب، الشمس،
+من أسمائه السراج والغزالة ويوح وذكاء والجارية والجونة والعين والضحى والنير الأعظم واللغات
+الأعجمية مهر وبيزاه وآفتاب له الفلك الرابع وله برج الأسد وهو مذكر نهاري ناري حار يابس
+معتدل جرمه ثلاثون درجة خمسة عشر من أمامه ومثلها من خلفه يمكث في البرج ثلاثين يوما
+شرفه في الدرجة التاسعة عشر من الحمل وهبوطه في الميزان وله في الدلو سعيد محمود سعد السعود
+مالك قياد الكواكب يشرفون به ويسعدون اذا ظفر اليهم وينحس المجامة ملك الفلك وسلطان
+وسط الوجود فرحه من الفلك في التاسع ومن نزوله في بيته في الخامس ومن طلوعه كونه في أفق
+المشرق وله من العالم السفلي الحياة والقوة الغاذية والعلوم الطبيعية كالفلسفة والكهانة والزندقة
+والسحر والقيافة والفراسة والعرافة والعيافة وله الصنائع الفكرية والتقية واللغات الافرنجية ومن
+الحروف الدال والذال والصاد المهملة والكاف ومن الأيام الأحد وهو أول يوم خلقه الله تعالى وهو
+يوم غرس وبناء وليلة الخميس وله من البقاع والأمكنة مجالس الملوك وله القلاع والحصون اشتراكا
+مع المريخ ومن الحيوان كل شريف كالانسان والفرس وطيور الصيد ومن النبات كل ما عظم
+وطال
+
+**English:**
+— 570 —
+the influential, augury and divination and Raml and letters and properties and Simiya and alchemy and his researches, and for him
+the wise crafts and what is from the works of fire and the sign of war, such as blacksmithing and weapons, and what فيه blood, such as cupping
+and phlebotomy, and what stirred anger, and from the Persian languages, and from the letters jim and ya’ with the subscript dot below and fa’
+and kha’ with the dot, and from the days Tuesday, and it is a day of iron and might, and the night of Saturday, and for him from the regions and places the desolate
+wastelands, the barren wastes, the places of thieves, and the places of war, such as fortresses and citadels, and fire-houses, and places of childbirth, and from
+animals every harmful one and every predatory one and those with hooves, those with four legs, and from insects every harmful
+detestable one, and from plants every detestable bitter one, and from tastes the detestable bitterness and every bitter whose color inclines to redness, and from
+colors the dark redness, and from minerals every turbid red, like cinnabar and agate dark, and from garments likewise, and for him from
+man from his inward organs the gallbladder, and from the outward the right nostril, the right ear, and from temperaments heat
+and dryness and blood and yellow bile, and their diseases. His اختصاص is the affairs of retaliation and those of clamor and abundance and greatness of
+rank and greatness of might and those of might, with the aims of policies and with injustice and transgression and deficiencies and intrigues and enmities
+and the Kharijites and thieves and corruption and ruin and blood and wounds and thick swellings and obsessions and sorrows
+and plots, and it يدل upon victory and demand and severity in might and strength of thought in subduing and victory and greatness of
+might and the fire of zeal and sufficiency of the affliction and generating war and bearing weapons and the stirring up of blood and vengeance from the wicked
+and shedding of blood and evil and punishment and beating and imprisonment and lying and tale-bearing and obscenity and little concern, and upon solitude
+and estrangement and strength of remembrance and virtue and purity and the breeding of powers and rashness and the catching up of poetry and courage of the heart
+and severity in Haruriyyah and concealment from request and defense of the sanctuary and removing kings from their thrones and humiliating
+the tyrants and making lawful the sultans and making lawful the harems and blood and its shedding and undertaking the support of the one seeking support and giving refuge to
+the one seeking refuge and honoring the one who seeks to draw support and enabling the seeker of it and fastening the bonds of seeking it, and upon the abodes
+and stripping away of comforts and its approach in the Watads and what follows them, a planet, the sun,
+from its names are the lamp and the gazelle and Yuwah and Dhaka’ and the maiden and the bowl and the eye and the forenoon and the greatest luminary, and the foreign languages
+Mehr and Bizah and Aftab; for it the fourth sphere, and for it the sign Leo, and it is masculine, diurnal, fiery, hot, dry,
+temperate; its body is thirty degrees, fifteen in front of it and the like behind it; it remains in the sign thirty days.
+Its exaltation is in the nineteenth degree of Aries, and its fall is in Libra, and for it in Aquarius is Sa‘id Mahmoud Sa‘d al-Su‘ud,
+the possessor of the reins of the planets; they are exalted by it and become fortunate if they gain access to it, and the conjunction becomes unfortunate; king of the sphere and سلطان
+of the middle of existence. Its joy from the sphere is in the ninth, and from its descent in its house in the fifth, and from its rising its being in the horizon of
+the east. And for it from the lower world life and the nutritive power and the natural sciences such as philosophy and divination and heresy
+and magic and physiognomy and sagacity and augury and bird-omening. And for it the intellectual crafts and the pious and the foreign languages. And from
+the letters dal and dhal and sad without dots and kaf. And from the days Sunday, and it is the first day God تعالى created, and it is
+a day of planting and building, and the night of Thursday. And for it from the regions and places the councils of kings. And for it the citadels and fortresses, in partnership
+with Mars. And from animals every noble one, such as man and the horse and birds of hunting. And from plants everything that is great
+and tall
+
+---
+## Page 577
+
+**Arabic (original):**
+- ٥٧١ -
+
+وطال عمره كالنخيل والزيتون اشتراكاً مع زحل ومن الطعوم كل مستعذب وكل حلو اشتراكاً
+مع الزهرة ومن الألوان كل أحمر اشتراكاً مع المريخ وما كان أصفر مشرباً بحمرة ومن المعادن كل
+براق لطيف كأحجار الياقوت وكالذهب ومن المنسوجات الطيالسة المشرقة وما كان أحمر مشوباً
+بصفرة وله من أعضائه الباطنة القلب هو منبع الأسرار وموضع الإرادة والإضمار
+وسلطان وجوده ومنبع الحس وبصلاحه وفساده ومنه تنبعث قوى الحواس الباطنة من أمكنة الفؤاد
+التمييز والنطق والتوسم في الشيء والتوهّم والفكر وقوى الحواس الظاهرة من أمكنة الوجه السمع
+والبصر والشم والذوق واللمس إلى غير ذلك وله من أعضائه الظاهرة الفقرات وجهة الأنف الأيمن
+والعين اليمنى نهاراً واليسرى ليلاً ومن نسبة المخارج السرة ومن الطبائع الحرارة واليبوسة
+والأمراض الصفراوية اختصاصه بشؤون الملوك وبأهل الحق والفلاسفة الحكماء
+والأحبار العظماء ويدل على دقائق المعارف ورقائق العوارف ولوامع الحقائق وسواطع الوثائق
+وعلى شؤون الأفراح وفوائد الصلاح وعلى الكساوى والهدايا وإقباله في الأوتاد وما يليها وإدباره
+في السقوط عنها
+
+( كوكب الزهرة )
+اسمه باللغات الأعجمية أناهيد وبيد خبه الفلك الثالث وله برجان الثور والميزان وهو مؤنث ليلي
+مائي بارد رطب معتدل جرم نوره أربعة عشر درجة سبعة من أمامه وسبعة من ورائه يمكث في
+البرج ستة وعشرين يوماً شرفه في الدرجة السابعة من الحوت وهبوطه في السنبلة
+ووباله في الحمل والعقرب مبارك محمود سعد أكبر وقيل سعد أصغر وتعظم سعوده في بيته أو شرفه
+أو مثلته أو ينقلب من ملابسة الشر إلى الخير وضعه في الثامن وفساده في سقوطه فرحه من
+الفلك في الخامس ومن نزوله في بيوته كونه في الثاني ومن طلوعه كونه في أفق المغرب ومن النواحي
+في الناحية المؤنثة الغربية من وتد المغرب ومن وتد الشرق إلى وتد الأرض وله من
+العالم السفلى القوة الشهوانية وله العلوم الفنية كالنحو والصرف والمعاني والبيان والبديع والعروض
+والشعر والموسيقى ونحو ذلك والصناعات الفنية كصناعة الأوتار والأعواد وآلات الملاهي وأعمال
+آلات الطرب كالعود والوتر وأشكال المغنين وله اللغة العربية ومن الحروف الهاء واللام والقاف
+والضاد المعجمة ومن الأيام الجمعة وهو يوم خطبة ونكاح وليلة الثلاثاء وله من البقاع والأمكنة
+الرياض والغياض ومجالس اللهو والشراب والطرب ومن الحيوان كل لطيف كالنساء وكالغزال
+والضأن وكل طائر مغرد كالقمري والهزار ومن النباتات كل مونق من الزهور كالأزرق والأخضر
+والأحمر ومن المعادن ما يتزين به النساء وكالذهب والفضة والمنسوجات الملابس اللطيفة
+من الحرير وله من الإنسان النفس والصورة ومن أعضائه الباطنة مجرى الغذاء وله الشهوانية والمنى
+ومن أعضائه الظاهرة الجبهة والعين اليسرى والمنخر الأيسر والسنق وحوله والمنكبان واليدان
+ومن مرته إلى الصورة والأذنان ومن الطبائع الرطوبة المعتدلة والدم والسوداء وأمراضها اختصاصه
+بشؤون تعفنات النساء ونحوهن وما لذلك من المنافع والنتائج والموارد ويدل على السرور والفرح
+
+**English:**
+- 571 -
+
+and the length of its life, like the palm-trees and the olive-trees, in partnership with Saturn; and from tastes every pleasant-tasting one and every sweet one, in partnership
+with Venus; and from colors every red one, in partnership with Mars, and what is yellow tinged with redness; and from minerals every
+shining delicate one, like the stones of ruby and like gold; and from textiles the shining cloaks and what is red mixed
+with yellowness. And for it from its inward organs the heart, which is the source of secrets and the place of will and intention,
+and the sovereign of its existence, and the source of sensation, and by its soundness and corruption. And from it are stirred the powers of the inward senses from the places of the heart:
+discernment and speech and perceiving by means of a thing and supposition and thought; and the powers of the outward senses from the places of the face:
+hearing and sight and smell and taste and touch, to other than that. And for it from its outward organs the vertebrae and the direction of the right nostril
+and the right eye by day and the left by night, and from the proportion of the exits the navel, and from temperaments heat and dryness
+and the bilious diseases. Its اختصاص is with the affairs of kings and with the people of truth and the wise philosophers
+and the great rabbis. And it يدل upon the subtleties of knowledges and the fine points of recognitions and the flashes of realities and the shining evidences
+and upon the affairs of joys and the benefits of rectitude and upon garments and gifts and its approach in the Watads and what follows them, and its retreat
+in falling from them.
+
+(Planet of Venus)
+Its name in the foreign languages is Anahid and Bid Khbah; the third sphere. And for it the two signs Taurus and Libra, and it is feminine, nocturnal,
+watery, cold, moist, temperate; the body of its light is fourteen degrees, seven in front of it and seven behind it; it remains in
+the sign twenty-six days. Its exaltation is in the seventh degree of Pisces, and its fall is in Virgo,
+and its detriment in Aries and Scorpio. Blessed, praiseworthy, Sa‘d Akbar; and it was said Sa‘d Asghar. And its fortunes عظُم in its house or exaltation
+or its trine, or it turns from the association of evil to good. Its position is in the eighth, and its فساد in its fall. Its joy from
+the sphere is in the fifth, and from its descent in its houses its being in the second, and from its rising its being in the horizon of the west, and from the directions
+in the feminine western direction from the Watad of the west, and from the Watad of the east to the Watad of the earth. And for it from
+the lower world the appetitive power. And for it the technical sciences such as grammar, morphology, meanings, البيان, badi‘, prosody,
+poetry, music, and the like, and the technical crafts such as the craft of strings and lutes and instruments of amusement and the works
+of instruments of delight such as the lute and the string and the forms of singers. And for it the Arabic language. And from the letters ha’, lam, qaf,
+and dad with the dot. And from the days Friday, and it is the day of sermon and marriage, and the night of Tuesday. And for it from the regions and places
+the gardens and groves and councils of amusement and drinking and delight. And from animals every delicate one, like women and like the gazelle
+and sheep, and every singing bird like the turtledove and the nightingale. And from plants every blooming one of flowers, like the blue and the green
+and the red. And from minerals what women adorn themselves with, and like gold and silver, and textiles, the delicate garments
+of silk. And for it from man the soul and the form. And from its inward organs the passage of food, and for it the appetitive and the semen.
+And from its outward organs the forehead and the left eye and the left nostril and the neck and around it and the two shoulders and the two hands
+and from its bile to the form and the two ears. And from temperaments moderate moisture and blood and black bile, and their diseases. Its اختصاص
+is with the affairs of the putrefactions of women and the like of them, and what there is in that of benefits and results and resources. And it يدل upon joy and gladness
+
+---
+## Page 578
+
+**Arabic (original):**
+— ٥٧٢ —
+الابتهاج واللهو والمرح واللعب والطرب والمزاح والحسن والجمال واللطافة والكمال والمحبة المؤكدة
+والقهر وطلب عقود الأنكحة وحسن الرغبة وصفاء الحالة وزكاء الطهارة وعلى الحلى والزينة
+والذهب والفضة وعلى الأحوال البهجة والشؤون الزاهرة والأفرشة والمتاع
+{ كوكب ☿ عطارد }
+اسمه بالعجمية هرمس له الفلك الثاني وله برجان الجوزاء والسنبلة وهو ممتزج الطبع بما يمازجه
+من الكواكب فإذا انفرد بطبعه كان الغالب عليه الأنوثة والبرودة واليبوسة جرم نوره أربعة عشر
+درجة سبعة من أمامه وسبعة من ورائه يمكث في البرج سبعة عشر يوما شرفه في السنبلة هبوطه في
+الحوت وباله فيه وفي القوس محمود سعيد مضاف لما يمازجه لطيف خفيف لا يعرف له طبع ولطف
+ولا يوجد لوصفه حد مع السعود سعد ومع النحوس نحس ومع الذكور من الكواكب مذكر
+ومع الإناث مؤنث ومع النور منير ومع الظلمة مظلم ممازج مشاكل سريع الحركات كاتب
+الشمس بديع معادن الحكمة تعظم سعوده في بيته أو شرفه أو مثلثه أو حده وينقلب من ملابسة
+الشر إلى الخير وضعه في الثامن وساده في سقوطه فرحه من الفلك في الطالع ومن نزوله في بيوته في
+السنبلة ومن النواحي في الناحيتين المذكورة من وسط السماء إلى الطالع ومن وتد الأرض إلى السابع
+والمؤنثة من وتد الغرب إلى وتد السماء ومن وتد الشرق إلى وتد الأرض فإذا كان مع الكواكب
+الذكور فرح في الناحية المذكورة وإذا كان مع الكواكب الإناث فرح في الناحية المؤنثة وله
+من العالم السفلي لقوة الفكرة والعلوم الحسابية كعلم الحساب والرمل والزجر والفلسفة والزندقة
+والسحر والكهانة والفراسة والقافة والعرافة وله الصنائع الفكرية كالخط والرسم والنقش
+والتصوير والوشي والتطريز ومن اللغات لغة الأعجام ومن الحروف الواو والميم والراء والظاء المعجمة
+ومن الأيام الأربعاء وهو يوم نحس مستمر وليلته الأحد وله من الأمكنة والبقاع والحيوان المعتدل والنبات
+والغاذية والشهوانية وله من الطعوم كل حامض ومن الألوان كل ملون ومن المنسوجات كل لطيف
+ومن المعادن الزئبق والأحجار الملونة وله من الإنسان من أعضائه الباطنة الدماغ والمخيلة والفكرة
+والواهة والمدركة والعروق والأعصاب ومن الظاهرة الفم واللسان والمنكب والظهر والذراعان
+والبدن واللحية وفي الطبائع ممازج برودة ويبوسة وحرارة ورطوبة وله أمراض السوداء
+والدم اختصاصه بشؤون ما يتعلق بالكتابة والحساب والنجوم والهندسة والتصوير والصياغة
+وأحوال التجار والإحصاء ويدل على الحكمة ودقائق العلوم المهمة وعلى العلم والفضل والعقل
+وجلالة القدر والصدق والعدل والمساعدة في المعارف والفنون ويدل على المكر والدهاء والخبث
+وسوء المخبر والكهانة والاختيال كما يدل على الابتهاج وحسن المنظر { كوكب ☽ القمر }
+هو أول ظهوره هلال وشهر وفي الزيادة والنقصان قمر وفي الكمال بدر ومن أسمائه الزمهرير
+والزرقان وباللغة الأعجمية ماه وماهتاب له الفلك الأول وله برج السرطان وهو مؤنث ليلي مائي بارد
+ورطب معتدل جرم نوره أربعة وعشرون درجة اثنا عشر من أمامه واثنا عشر من خلفه يمكث في
+البرج
+
+**English:**
+— 572 —
+rejoicing, delight, merriment, play, joy, jesting, beauty, and loveliness, delicacy, and perfection, confirmed love,
+and compulsion, and the seeking of marriage contracts, and good desire, and purity of state, and the purity of cleanliness, and upon ornaments and adornment
+and gold and silver, and upon joyous states, shining affairs, furnishings, and goods.
+
+{ Planet ☿ Mercury }
+Its name in the foreign languages is Hermes. For it the second sphere, and for it the two signs Gemini and Virgo, and it is of mixed nature by what mixes with it
+from the planets; so when it is alone in its nature, the dominant over it is femininity and coldness and dryness. The body of its light is fourteen
+degrees, seven in front of it and seven behind it; it remains in the sign seventeen days. Its exaltation is in Virgo; its fall in
+Pisces; and its detriment in it and in Sagittarius. Praiseworthy, fortunate, added to what mixes with it, delicate, light; no nature of its own is known for it, and no delicacy
+and no limit is found for its description. With the fortunate, fortunate; and with the unfortunate, unfortunate; and with the masculine among the planets, masculine,
+and with the feminine, feminine; and with light, luminous; and with darkness, dark; mixed, similar, swift in movements, the scribe
+of the sun, wondrous in the mines of wisdom. Its fortunes عظُم in its house or exaltation or trine or term, and it turns from the association of
+evil to good. Its position is in the eighth, and its evil in its fall. Its joy from the sphere is in the ascendant, and from its descent in its houses in
+Virgo, and from the directions in the two directions mentioned from the midheaven to the ascendant, and from the Watad of the earth to the seventh,
+and the feminine from the Watad of the west to the Watad of the heaven, and from the Watad of the east to the Watad of the earth. So if it is with the planets
+the masculine, it rejoices in the direction mentioned, and if it is with the feminine planets, it rejoices in the feminine direction. And for it
+from the lower world the power of thought and the computational sciences such as the science of الحساب and Raml and augury and philosophy and heresy
+and magic and divination and physiognomy and qiyafah and augury and divination. And for it the intellectual crafts such as calligraphy, drawing, engraving,
+painting, brocade-work, and embroidery. And from the languages the language of the non-Arabs. And from the letters waw and mim and ra’ and the dotless ظ
+and from the days Wednesday, and it is a day of continuous misfortune, and its night Sunday. And for it from places and regions and animals the temperate and plants
+and the nutritive and the appetitive. And for it from tastes every sour one, and from colors every colored one, and from textiles every delicate one,
+and from minerals mercury and colored stones. And for it from man from his inward organs the brain and the imagination and thought
+and the wahah and the apprehensive faculty and the veins and the nerves, and from the outward the mouth and the tongue and the shoulder and the back and the two arms
+and the body and the beard. And in temperaments it mixes coldness and dryness and heat and moisture. And for it the diseases of black bile
+and blood. Its اختصاص is with the affairs of what relates to writing and الحساب and the stars and engineering and painting and goldsmithing
+and the states of merchants and enumeration. And it يدل upon wisdom and the subtleties of important sciences and upon knowledge and virtue and intellect
+and greatness of rank and truth and justice and assistance in knowledges and arts. And it يدل upon cunning and shrewdness and wickedness
+and evil report and divination and affectation, just as it يدل upon rejoicing and good appearance. { Planet ☽ the Moon }
+Its first appearance is crescent and month, and in increase and decrease moon, and in fullness full moon. And from its names are al-zamharir
+and al-zurqan, and in the foreign language Mah and Mahtab. For it the first sphere, and for it the sign Cancer, and it is feminine, nocturnal, watery, cold
+and moist, temperate; the body of its light is twenty-four degrees, twelve in front of it and twelve behind it; it remains in
+the sign
+
+---
+## Page 579
+
+**Arabic (original):**
+— ٥٧٣ —
+
+البرج ليلتان وثلث، شرفه في الدرجة الثالثة من برج الثور، وهبوطه في العقرب، ووباله في الجدي. سعد
+أكبر، جميل، فرح، مؤلف بين الكواكب، ناقل لأنوارها، مصلح بين بعض البعض، يصلح بصلاحه
+وتفسد بفساده، ويضره في حال زيادته المريخ إذا كان معه أو كان ينظر إليه من تربيع أو مقابلة، أي
+من الربع أو السابع، وفي حال نقصانه زحل، ولا يضره في حال الزيادة، لا يضره المريخ في حال
+النقصان. فرحه في الجوزاء، وفي نزوله في بيته، وكونه في الناحية المؤنثة الغربية من وتد
+الغرب إلى وتد السماء، ومن وتد الشرق إلى وتد الأرض. وله من العالم السفلي الطبيعة وعلوم الأخبار
+والآثار والطب والصنائع الفنية كصناعة العود والوتر وآلات الملاهي ومن الأعمال والآلات وأشكال
+المغنين اشتراكاً مع الزهرة، وله لغات المجوس، ومن الحروف الزاي والنون والشين والغين المعجمتين،
+ومن الأيام الاثنين وهو يوم مبارك وهو يوم طلب رزق ويحمد فيه السفر وليلة الجمعة، ومن البقاع
+والأمكنة مجالس الكتابة ومجالس الوزراء، ومن الحيوان كل خفيف الحركة والطيور الهوائية، ومن
+النبات كل مونق من الزهور اشتراكاً مع الزهرة، ومن الطعوم كل ترفه، ويشارك المشتري بكل حلو،
+ومن الألوان كل أبيض وما فيه خضرة والأشكال الحسنة اشتراكاً مع الزهرة، وله السواد والظفر والبرد،
+ومن المنسوجات الكتان اختصاصاً والمنسوجات اللطيفة من الحرير الملون اشتراكاً، وله من الإنسان
+من أعضائه الباطنة الرئة وعظم الرأس، ومن الظاهرة الخد والعينان والمنخر الأيسر، ومن الطبائع
+الرطوبة والبرودة والأمراض البلغمية، اختصاصه بشؤون العلاقات الأسفار والسياحة وما يتعلق بالأشجار
+والمياه وبالحوامل والولادة، ويدل على الرسل والأخبار وعلى انكشاف واستكشاف مكتوم الأسرار
+وعلى اللعب واللهو والهزل والكرامة والشرف والفضل وعلى الحكمة والتدبير والسخاء والكرام
+والجمال والكمال وعلى الإصلاح والأخلاق، ويدل على الضر العميم والنفع العظيم، والله سبحانه وتعالى أعلم.
+{ تذييل وتكميل }
+مما تقرر في تمهيداتنا أمام الشروع في الكلام من ارتباط العالمين العلوي والسفلي وتطابقهما في كل
+كلي وجزئي وتدبير كل من العلويات لما يناسبه من السفليات بحكمة بديع السموات والأرض،
+والفاعل المريد لكل إبرام ونقض، مدير الأفلاك بمشيئته ومحرك الكائنات بقدرته، عز شأنه وتعاظم
+سلطانه وعالت كبرياؤه جل ثناؤه، قد قسموا قطر الأرض أرباعاً، وكان المستوون منها ربعا واحدا
+ينقسم أربعاً، كل ربع منها مضاف لجزء من الفلك، وربع لجزء المشرق وربع لجزء المغرب وربع
+لجزء الشمال وربع لجزء الجنوب، وهي منقسمة لسبعة أقاليم تخص بها السبعة السيارة وبروجها وتدل
+عليها بطبائعها وجواهرها.
+{ الإقليم الأول }
+لمدار برج الجدي ويختص به كوكب زحل، وهو يبتدئ من الشرق ماراً ببلاد الصين إلى بلاد السند
+والهند ثم يلتقي بالبحر الأخضر وبحر البصرة ويقطع جزيرة العرب في أراضي نجد فتهامة فيدخل فيه
+اليمامة والبحرين وهجر ومكة والمدينة والطائف وأرض الحجاز، ويقطع بحر القلزم فيمر بصعيد مصر
+الأعلى ويقطع النيل فيدخل فيه قوص وأسنا وأسوان، ويمر في أرض المغرب على
+وسط بلاد أفرقية فيمر على بلاد البربر إلى البحر المحيط بالغرب، وفي هذا الإقليم سبعة عشر جبلاً.
+
+**English:**
+— 573 —
+
+The sign is two nights and a third; its exaltation is in the third degree of Taurus, and its fall is in Scorpio, and its detriment is in Capricorn. A greater fortunate, beautiful, joyful, composed among the planets, conveying their lights, reconciling between one another; it is corrected by its correction and corrupted by its corruption. Mars harms it in the state of its increase if it is with it or if it looks at it by square or opposition, that is, from the fourth or seventh, and in the state of its decrease Saturn [harms it], and Mars does not harm it in the state of increase; Mars does not harm it in the state of decrease. Its joy is in Gemini, and in its descent in its house, and its being in the feminine western side from the western pillar to the pillar of heaven, and from the eastern pillar to the pillar of earth. And it has from the lower world nature and the sciences of reports and traces and medicine and the technical crafts, such as the craft of the oud and the string and the instruments of entertainment, and from the works and instruments and forms of singers, in partnership with Venus; and it has the languages of the Magians; and from the letters, zay and nun and shin and ghayn with dots; and from the days, Monday, and it is a blessed day, and it is a day for seeking livelihood, and travel is praised in it, and Friday night; and from the regions and places, the councils of writing and the councils of ministers; and from animals, every swift-moving one and the aerial birds; and from plants, every delightful one of flowers, in partnership with Venus; and from tastes, every luxury, and it shares with Jupiter in every sweet thing; and from colors, every white and what فيه green and the good forms, in partnership with Venus; and it has blackness and nail and hail; and from textiles, linen specifically, and the delicate textiles of colored silk in partnership; and it has from man, from his inward organs, the lung and the bone of the head, and from the outward, the cheek and the two eyes and the left nostril; and from natures, moisture and coldness and phlegmatic diseases; its specialty is with the affairs of relations, journeys and travel, and what is connected with trees and waters and with pregnant women and childbirth; and it indicates messengers and reports and the uncovering and seeking out of hidden secrets, and play and amusement and jest and dignity and honor and merit, and wisdom and management and generosity and the noble and beauty and perfection, and correction and morals; and it indicates abundant harm and great benefit. And God, سبحانه وتعالى, knows best.
+
+{ Supplement and Completion }
+
+From what has been established in our preliminaries before embarking upon speech, of the connection of the upper and lower worlds and their correspondence in every universal and particular, and the management of each of the upper things of what corresponds to it from the lower things by the wisdom of the Inventive of the heavens and the earth, and the doer, the willing, of every binding and unbinding, the director of the spheres by His will and the mover of beings by His power, exalted be His rank and magnified be His dominion and lofty be His majesty, exalted be His praise, they have divided the earth’s sphere into quarters, and what was level from it was one quarter divided into four, each quarter of it being added to a part of the sphere, and a quarter to a part of the east and a quarter to a part of the west and a quarter to a part of the north and a quarter to a part of the south, and it is divided into seven climes, by which the seven planets and their signs are distinguished, and they indicate them by their natures and essences.
+
+{ The First Clime }
+
+For the course of the sign Capricorn, and Saturn is distinguished by it, and it begins from the east, passing through the lands of China to the lands of Sind and India, then it meets the Green Sea and the Sea of Basra and cuts across the Arabian Peninsula in the lands of Najd then Tihama, so that al-Yamamah and al-Bahrayn and Hajar and Mecca and Medina and Taif and the land of the Hijaz enter into it; and it cuts the Sea of al-Qulzum, then passes through Upper Sa‘id of Egypt and cuts the Nile, so that Qus and Asna and Aswan enter into it, and it passes in the land of the Maghreb over the middle of the lands of Ifriqiya, then passes over the lands of the Berbers to the encircling ocean in the west. And in this clime are seventeen great mountains.
+
+---
+## Page 580
+
+**Arabic (original):**
+- ٥٧٤ -
+كباراً وسبعة عشر نهراً طوالا وخمسون مدينة معروفة وأهله ألوانهم مابين السمرة الى السواد
+( الاقليم الثاني )
+لمدار برج الحمل والقوس ويختص به كوكب المشترى وهو يبتدئ من أقصى بلاد الصين فيمر فيها
+الى ما يلي الجنوب ويمر بسواحل السند ثم بلاد الهند ويمر في البحر على جزيرة العرب وأرض اليمن
+ويقطع بحر القلزم فيمر ببلاد الحبشة ويقطع نيل مصر الى بلاد الحبشة ومدينة دنقلة من أرض النوبة
+ويمر في أرض المغرب على جنوب بلاد البربر الى البحر المحيط في هذا الاقليم عشرون جبلا منها
+ما طوله ألف فرسخ الى عشرين فرسخا وفيه ثلاثون نهرا طوالا منها ما طوله من ألف فرسخ الى
+عشرين فرسخا وفيه خمسون مدينة كبيرة معروفة وأهل هذا الاقليم عامتهم سود الالوان
+( الاقليم الثالث )
+لمدار برج السرطان ويختص به كوكب المريخ وهو يبتدئ من المشرق فيمر بمساكن الترك
+والخزر والثغر الى بلاد الخزر من شمالي تخومهم على بلاد الانسر وأرض جرجان الى
+القسطنطينية وينال الاندلس الى البحر المحيط في المغرب وفي هذا الاقليم اثنان وعشرون جبلا
+كبارا واثنان وثلاثون نهرا طوالا وتسعون مدينة معروفة وأهل أهله مابين السمرة الى البياض
+( الاقليم الرابع )
+لمدار برج الميزان ويختص به كوكب الشمس وهو يبتدئ من الشرق بلاد يأجوج ومأجوج ويمر
+ببلاد الترك على سواحل جرجان مما يلي الشمال ويقطع بحر الروم ثم يمر بالصقالية الى ان
+ينتهي الى البحر المحيط المغرب وفي هذا الاقليم عشر جبال كبارا وأربعون نهرا طوالا وعشرون
+مدينة معروفة وعامة أهله شقر الالوان غالبا
+( الاقليم الخامس )
+لمدار برج العقرب ويختص به كوكب الزهرة وهو يبتدئ من المشرق فيمر بشمال الصين وبلاد
+الهند وفيه مدينة القندهار ثم يمر بكابل وكرمان وسجستان الى سواحل بحر البصرة وفيه
+اصطخر وسابور وسيران وسيرا ف ويمر بالاهواز والعراق والبصرة وواسط وبغداد والكوفة
+والانبار وهيت وفيه بلاد الشام الى ساميا وصور وعكا ودمشق وطبرية وقيسارية وبيت المقدس
+وعسقلان وغزة ومدن والقلم ويقطع أسفل أرض مصر من شمال انصنا الى فسطاط مصر
+وسواحل البحر وفيه الفيوم والاسكندرية والعريش وتنيس ودمياط ويمر ببلاد برقة الى أفريقية
+فيدخل في القيروان وينتهي الى البحر المحيط في المغرب وفي هذا الاقليم ثلاثة وثلاثون جبلا كبارا
+واثنان وعشرون نهرا طوالا وثمانية وعشرون مدينة معروفة وأهله سمر الالوان غالبا
+( الاقليم السادس )
+لمدار برج الجوزاء ويختص به كوكب عطارد ويبتدئ من المشرق فيمر ببلاد التبت وخراسان
+وخجند وفرغانة وسمرقند وبخارى وهراة ومرو والروذ وسرخس وطوس ونيسابور وجرجان
+وطبرستان وتوس وقزوين والديلم وأصفهان وهاذان وناوند ودينور والموصل ونصيبين
+وحلب وانطاكية وطرابلس وحماة والمصيصة وصيدا وطرسوس وعمورية واللاذقية ويقطع بحر
+الشام
+
+**English:**
+- 574 -
+great, and seventeen long rivers, and fifty known cities, and its people’s colors are between brownness and blackness.
+
+( The Second Clime )
+
+For the course of the sign Aries and Sagittarius, and Jupiter is distinguished by it, and it begins from the farthest lands of China, then passes through them to what is next to the south, and passes by the coasts of Sind, then the lands of India, and passes in the sea over the Arabian Peninsula and the land of Yemen, and cuts the Sea of al-Qulzum, then passes through the lands of Abyssinia, and cuts the Nile of Egypt to the lands of Abyssinia and the city of Dongola from the land of Nubia, and passes in the land of the Maghreb over the south of the lands of the Berbers to the encircling ocean. In this clime are twenty mountains, among them what is a thousand parasangs in length to twenty parasangs, and in it are thirty long rivers, among them what is from a thousand parasangs in length to twenty parasangs, and in it are fifty great known cities, and the people of this clime are mostly black in color.
+
+( The Third Clime )
+
+For the course of the sign Cancer, and Mars is distinguished by it, and it begins from the east, then passes through the dwellings of the Turks and the Khazars and the frontier to the lands of the Khazars from the northern borders of them, over the lands of the Anser and the land of Jurjan to Constantinople, and reaches al-Andalus to the encircling ocean in the west. And in this clime are twenty-two great mountains and thirty-two long rivers and ninety known cities, and the people of its people are between brownness and whiteness.
+
+( The Fourth Clime )
+
+For the course of the sign Libra, and the Sun is distinguished by it, and it begins from the east, the lands of Gog and Magog, and passes through the lands of the Turks on the coasts of Jurjan on the side next to the north, and cuts the Sea of the Romans, then passes through Sicily until it ends at the encircling ocean of the west. And in this clime are ten great mountains and forty long rivers and twenty known cities, and the generality of its people are blond in color, mostly.
+
+( The Fifth Clime )
+
+For the course of the sign Scorpio, and Venus is distinguished by it, and it begins from the east, then passes through northern China and the lands of India, and in it is the city of Kandahar, then passes through Kabul and Kerman and Sijistan to the coasts of the Sea of Basra, and in it are Istakhr and Sabur and Siran and Siraf, and passes through al-Ahwaz and Iraq and Basra and Wasit and Baghdad and Kufa and al-Anbar and Hit, and in it are the lands of Syria to Samia and Tyre and Acre and Damascus and Tiberias and Caesarea and Bayt al-Maqdis and Ascalon and Gaza and Madan and al-Qalam, and it cuts the lower land of Egypt from north of Ansina to Fustat of Egypt and the coasts of the sea, and in it are al-Fayyum and Alexandria and al-Arish and Tinnis and Damietta, and passes through the lands of Barqa to Ifriqiya, then enters into Kairouan and ends at the encircling ocean in the west. And in this clime are thirty-three great mountains and twenty-two long rivers and twenty-eight known cities, and its people are mostly brown in color.
+
+( The Sixth Clime )
+
+For the course of the sign Gemini, and Mercury is distinguished by it, and it begins from the east, then passes through the lands of Tibet and Khurasan and Khujand and Farghana and Samarkand and Bukhara and Herat and Marw and al-Rudh and Sarakhs and Tus and Nishapur and Jurjan and Tabaristan and Tus and Qazvin and al-Daylam and Isfahan and Hadhan and Nawand and Dinawar and al-Mawsil and Nisibin and Aleppo and Antioch and Tripoli and Hama and al-Misisah and Sidon and Tarsus and Amorium and Latakia, and it cuts the Sea of al-Sham
+
+---
+## Page 581
+
+**Arabic (original):**
+- ٥٧٥ -
+
+الشام على جزيرة قبرس ورودس ويمر ببلاد طنجة فينتهى الى البحر المحيط في الغرب وفيه هذا الاقليم
+خمسة وعشرون جبلا كبارا وخمسة وعشرون نهرا طوالا واثنا عشر مدينة معروفة وألوان
+أهله ما بين السمرة والبياض غالبا
+( الاقليم السابع )
+المدار برج الدلو ويختص به كوكب القمر وهو يبتدئ من المشرق الى بلاد يأجوج ومأجوج ويمر
+ببلاد خراسان وفيه خوارزم واذربيجان وسجستان وبردعة وأرّان وخلاط ويمر على
+بلاد الروم الى رومية الكبرى والاندلس ثم ينتهى الى البحر المحيط في المغرب وفى هذا الاقليم ثلاثون
+جبلا كبارا وخمسة عشر نهرا طوالا من المدائن المعروفة وأهله عامتهم بيض الالوان
+( تتميم )
+مبدأ هذه الاقاليم السبعة من خط الاستواء ما بين المشرق والمغرب من جهة القطب الجنوبي
+ومنتهى الى القطب الشمالي متوسطة في نصف ذلك النصف من الكرة الارضية والمشرق الشرقي منه
+والجزء الغربي خراب وهي العمارة المتوسطة بينهما والنصف الآخر من الكرة من خط الاستواء الى
+القطب الجنوبي خراب لا عمارة فيه فهى الربع المعمور من الكرة وذهب أهل الهيئة في كيفية وضعها
+على مقتضى العمارة الذي اكتشفوه وظهر لهم في النصف الشمالي من الكرة الارضية بهذه الصورة
+
+شمال
+[Diagram]
+خط الاستواء
+جنوب
+
+وذهب آخرون منهم الى أنها في ذلك النصف الشمالي من الكرة الارضية متوسطة على نحو الاستدارة
+اثنان منهما الى جهة القطب الشمالي السابع والسادس وثلاثة معترضة بين المشرق والمغرب الخامس
+من جهة المغرب فالرابع فالثالث واثنان في خط الاستواء من جهة القطب الجنوبي الثاني من جهة
+الغرب فالاول الى جهة الشرق وثلاثة منها في الجهة الشرقية السابع للمريخ والخامس للشمس
+والثاني لزحل وثلاثة في الجهة الغربية السادس للقمر والثالث للزهرة والاول للمشترى والاقليم الرابع
+لعطارد متوسط بينها ووضعها على هذه الكيفية
+
+**English:**
+- 575 -
+
+the Sea of al-Sham, over the island of Cyprus and Rhodes, and passes through the lands of Tangier, then ends at the encircling ocean in the west. And in this clime are twenty-five great mountains and twenty-five long rivers and twelve known cities, and the colors of its people are mostly between brownness and whiteness.
+
+( The Seventh Clime )
+
+The course is the sign Aquarius, and the Moon is distinguished by it, and it begins from the east to the lands of Gog and Magog and passes through the lands of Khurasan, and in it are Khwarazm and Azerbaijan and Sijistan and Bardha‘ and Arran and Khallat, and passes over the lands of the Romans to Greater Rome and al-Andalus, then ends at the encircling ocean in the west. And in this clime are thirty great mountains and fifteen long rivers, from the known cities, and its people are generally white in color.
+
+( Completion )
+
+The beginning of these seven climes is from the equator between east and west from the side of the southern pole, and its end to the northern pole, centered in the middle of that half of the terrestrial globe, and the eastern east of it and the western part are ruin, and it is the inhabited part between them, and the other half of the globe from the equator to the southern pole is ruin, there is no habitation in it, so it is the inhabited quarter of the globe. And the people of the science of the stars went in the manner of its placement according to the inhabitedness which they discovered and which appeared to them in the northern half of the terrestrial globe in this form:
+
+North
+[Diagram]
+Equator
+South
+
+And others among them went to [the view] that it is in that northern half of the terrestrial globe centered in a manner of circularity: two of them toward the side of the northern pole, the seventh and the sixth; and three transverse between east and west, the fifth from the side of the west, then the fourth, then the third; and two on the equator from the side of the southern pole, the second from the side of the west, then the first toward the side of the east; and three of them in the eastern side, the seventh for Mars and the fifth for the Sun and the second for Saturn; and three in the western side, the sixth for the Moon and the third for Venus and the first for Jupiter; and the fourth clime for Mercury, centered between them, and its placement in this manner.
+
+---
+## Page 582
+
+**Arabic (original):**
+— ٥٧٦ —
+
+شمال
+السابع السادس
+الخامس الرابع الثالث
+الثاني الأول
+خط الاستواء
+جنوب
+
+وأعلى هذه الأقاليم خيرة وفضلاء كرامة إقليم عطارد لا قلب هذه الأقاليم ووسطها تكنفه ثلاثة
+جنوبية إقليم المشتري وإقليم زحل وإقليم الزهرة وثلاثة شمالية إقليم القمر وإقليم المريخ وإقليم الشمس
+تجازى في الصورة الأولى ونحوها الصورة الثانية أيضا وخير الأمور أوساطها كما في الأثر عن سيد
+البشر صلى الله عليه وسلم كما وأن منه ظهرت الأنبياء والرسل صلوات الله تعالى وسلامه عليهم ومنه
+انفشأت العلماء والحكماء والكمل من العباد الذين لهم في المعارف والعوارف والفضائل
+والفواضل كمال الاستعداد فكما أنه أخير من بقية الأقاليم اختار الله تعالى منه خير خليقته ومصابيح
+بريته في كل إقليم من هذه الأقاليم السبعة أمم مختلفة الألوان وغير ذلك من الطبائع والأخلاق
+والآراء والديانات والمذاهب والعقائد والأعمال والصنائع والعادات والعبادات لا يشبه بعضهم بعضا
+وكذلك الحيوانات والمعادن والنباتات المختلفة في اللون والشكل والطعم والرائحة بحسب اختلاف
+أهوية البلدان وتربة البقاع من الأرض ومطارح شعاع الشمس على المواضع كما هو مقدر في
+مواقعها بالحكمة والتدبير من الحكيم العليم الخبير الذي له الخلق والإنشاء اللطيف لما يشاء بديع
+السموات والأرض ذي العرش المجيد المبدئ المعيد الفعال لما يريد عزت قدرته وجلت حكمته
+وتعالى شأنه وتعاظم سلطانه لا خير إلا غيره * وهذا آخر ما يسر بتوفيقه جمعه وألهم
+بداية طريقة وضعه من شذرات هذه الفوائد وثمرات هذه العوائد في حصن طائف
+الألطاف تحت ظلال حسن عوارف الإسعاف على تفرد سواجح العرفان بفنونها في حظائر
+شهودها فوق منابر غصونها بشارات الإشارات وبراعات العبارات
+مر اجتباه في ابتلاء إفتى * جلت عن الأفهام منه مدارك
+أمضى له قدر على قدر وفا * حملت على الأغيار فيه مهالك
+والحمد لله الذي بنعمته تتم الصالحات ويجعلها بفضله في الصالحات الباقيات وسبحان من هو كل
+يوم في شأن وله اختصاص العظمة والسلطان وصلاته وسلامه وتحيته وإكرامه على رسوله
+المصطفى وآله وصحبه أولي الصدق والوفا وسلام على المرسلين والحمد لله رب العالمين
+
+**English:**
+— 576 —
+
+North
+the seventh the sixth
+the fifth the fourth the third
+the second the first
+the equator
+South
+
+And the highest of these regions in goodness and the most virtuous in dignity is the region of Mercury; not the heart of these regions and their middle, three southern ones surround it: the region of Jupiter, the region of Saturn, and the region of Venus; and three northern ones: the region of the Moon, the region of Mars, and the region of the Sun. It is recompensed in the first form, and likewise the second form also. And the best of matters are their middles, as in the tradition from the master of mankind, may God’s prayers and peace be upon him. And from it the prophets and the messengers appeared, may God تعالى’s prayers and peace be upon them, and from it the scholars, the sages, and the perfect ones among the servants sprang forth, those who have in knowledges, gnoses, virtues, and excellences complete preparedness. So just as it is the best of the remaining regions, God تعالى chose from it the best of His creation and the lamps of His creatures. In every region of these seven regions are nations differing in colors and other than that of natures, morals, opinions, religions, schools, creeds, deeds, crafts, customs, and acts of worship; some of them do not resemble others. Likewise the animals, minerals, and plants differing in color, form, taste, and smell according to the difference of the airs of the lands and the soil of the tracts of the earth and the falling of the sun’s rays upon the places, as is determined in their locations by wisdom and governance from the Wise, the Knowing, the Aware, to whom belongs creation and the gentle bringing-into-being of whatever He wills, Originator of the heavens and the earth, Possessor of the glorious Throne, the Initiator, the Repeater, the Doer of whatever He wills. Exalted is His power and majestic is His wisdom and exalted is His rank and great is His dominion. There is no good except other than Him. * And this is the end of what it was made easy to gather by His enabling, and the beginning of the manner of its composition was inspired from shreds of these benefits and fruits of these customs in the fortress of the encircling لطفs under the shades of the beauty of the knowledges of assistance, upon the singularity of the flowing streams of gnosis in their arts in the enclosures of their witnessing, above the pulpits of their branches, the glad tidings of the indications and the excellences of the expressions.
+
+He was chosen, in trial, he gave a legal opinion * Exalted above understandings are from it the perceptions  
+A decree more effective than a decree of loyalty for him * upon the others were borne in it perils
+
+And praise be to God, by whose favor righteous deeds are completed, and He makes them by His bounty among the enduring righteous deeds. And glory be to Him who is every day in a matter, and to Him belongs the اختصاص of greatness and sovereignty. And His prayers, His peace, His salutation, and His honoring be upon His chosen Messenger and his family and his Companions, possessors of truthfulness and loyalty, and peace upon the messengers, and praise be to God, Lord of the worlds.
+
+---
+## Page 583
+
+**Arabic (original):**
+( يَقُولُ الْفَقِيرُ إِلَيْهِ تَعَالَى ( إِبْرَاهِيمُ بْنُ حَسَنٍ الْأَنْبَانِيُّ ) خَادِمُ الْعِلْمِ وَرَئِيسُ لَجْنَةِ التَّصْحِيحِ
+بِمَطْبَعَةِ الشَّيْخِ الْوَقُورِ ( مُصْطَفَى الْبَابِيِّ الْحَلَبِيِّ وَأَوْلَادِهِ ) بِمِصْرَ الْمَحْرُوسَةِ )
+
+حَمْدًا لِمَنْ خَصَّ خَوَاصَّ الْمُخْلِصِينَ مِنْ عِبَادِهِ بِأَشْرَفِ الْأَسْرَارِ * وَسَخَّرَ لِبَنِي الْإِنْسَانِ مَبَانِيَ
+الْحُرُوفِ وَمَعَانِيَ الْأَسْمَاءِ مِنْ أُولِي الْبَصَائِرِ وَالْأَبْصَارِ * وَامْتَنَّ سُبْحَانَهُ عَلَيْهِمْ بِجَزِيلِ النَّمَاءِ وَأَشْهَدَهُمْ
+مَكْنُونَ مُكَوَّنَاتِ الْأَسْمَاءِ وَأَطْلَعَهُمْ عَلَى خَفِيَّاتِ الْمُغَيَّبَاتِ وَمَنَحَهُمْ أَسْرَارَ الْأَفْلَاكِ وَمَنَازِلَ النُّجُومِ
+وَأَوْقَاتَ النُّحُوسِ وَالسَّعَادَاتِ وَصَلَاةً وَسَلَامًا عَلَى سَيِّدِ الْعَارِفِينَ وَآلِهِ هُدَاةِ الْخَلْقِ أَجْمَعِينَ
+وَصَحَابَتِهِ وَالتَّابِعِينَ ( وَبَعْدُ ) فَلَمَّا كَانَ الْكِتَابُ الْكَبِيرُ الْمُسَمَّى شَمْسَ الْمَعَارِفِ حَائِزًا
+مِنَ الْأَسْرَارِ مَا لَهُ قَدْرٌ خَطِيرٌ وَلَمْ يَسْبِقْ مُؤَلِّفُهُ رَحِمَهُ اللَّهُ بِمِثْلِهِ وَلَا يُدَانِيهِ مُؤَلِّفٌ فِي
+هَذَا الْمَيْدَانِ فِي فَضْلِهِ انْتَدَبَ أَصْحَابُ الْمَطْبَعَةِ الْمَذْكُورَةِ لِطَبْعِهِ وَنَشْرِهِ بَيْنَ
+طُلَّابِهِ لِيَحُوزُوا أَجْرَ جَزِيلِ ثَوَابِهِ وَذَلِكَ بِالْمَطْبَعَةِ الْمَذْكُورَةِ الْكَائِنِ
+مَرْكَزُهَا بِشَارِعِ التَّبْلِيطَةِ بِسَرَاي رَقْم ١٢ بِجِوَارِ الرِّيَاضِ
+الْأَزْهَرِيَّةِ وَقَدْ وَافَقَ التَّمَامُ فِي أَوَائِلِ شَهْرِ رَجَبٍ
+الْفَرْدِ الْحَرَامِ مِنْ عَامِ ١٣٤٥ مِنْ
+هِجْرَةِ بَدْرِ التَّمَامِ عَلَيْهِ الصَّلَاةُ
+وَالسَّلَامُ وَآلِهِ وَأَصْحَابِهِ
+مَا دَامَتِ اللَّيَالِي وَالْأَيَّامُ
+آمِينَ
+
+( فِهْرِسْتٌ )
+
+**English:**
+The poor one to Him تعالى says, Ibrahim ibn Hasan al-Anbani, servant of knowledge and head of the committee of correction at the printing house of the venerable Shaykh Mustafa al-Babi al-Halabi and his sons, in protected Egypt.
+
+Praise be to Him who singled out the elect of His sincere servants with the noblest of secrets, and subjected for the sons of man the structures of letters and the meanings of names, from those possessed of insights and sights; and He, glory be to Him, bestowed upon them abundant growth, and showed them the hidden of the constituted names, and made them aware of the hidden things of the unseen, and granted them the secrets of the spheres and the stations of the stars and the times of the inauspicious and the auspicious, and prayers and peace upon the master of the knowers and his family, guides of all creation, and his Companions and the Followers. And after: since the great book called Sun of Knowledges was possessing of secrets of such grave value, and its author, may God have mercy on him, had not been preceded by the like of it, nor does any author in this field in his virtue come near him, the أصحاب of the المذكور printing house undertook to print it and نشر it among its students, so that they may obtain the abundant reward of its recompense. And that is at the المذكور printing house, whose center is in al-Tablita Street, in Saray No. 12, beside the Azhar Gardens, and the completion agreed in the beginnings of the sacred singular month of Rajab of the year 1345 from the Hijra of the full moon of completion, upon him be prayer and peace, and his family and his Companions, as long as the nights and the days endure. Amen.
+
+Index.
+
+---
+## Page 584
+
+**Arabic (original):**
+— ١ —
+( فهرست الجزء الأول من كتاب شمس المعارف الكبرى )
+
+صحيفة
+١ خطبة الكتاب
+٣ الفصل الأول في الحروف المعجمة وما
+يكون عليها
+٤ الفصل الأول في الحروف المعجمة وما فيها
+من الأسرار والإضمارات
+فصل في نسبة الذات الإنسانية
+فصل والحروف على أنواع
+٨ فصل في كتب محمد رسول الله
+٩ ذكر ما يذهب النسيان
+١٠ الفصل الثاني في الكسر إلخ
+١١ فصل للمعجمة
+١٥ فصل في ذكر الأوقات السعيدة والنحسة
+١٧ قاعدة عظيمة في معرفة برج القمر
+١٨ الفصل الثالث في أحكام المنازل
+١٩ القول على المنازل
+٢٣ فصل في تقسيم المنازل
+فصل في معرفة أصول المنازل
+٢٥ فصل في أحكام مطالعها
+٢٦ الفصل الرابع من البروج الاثني عشر إلخ
+٢٨ فصل فيما لكل برج من البلدان
+فصل في الرياح وما عليها من الكلام
+٣٠ فصل النجوم الأربعة وإشاراتها وتدبيرها
+٣٢ فصل في أجرامها وما يتعلق بها
+فصل في قطع النجوم السبعة الأفلاك
+فصل في مقامات البروج
+فصل في شرف الكواكب
+فصل في اقتران الكواكب بالكواكب
+فائدة لقضاء الحوائج
+
+صحيفة
+٣٣ الباب الخامس في أسرار البسملة وما لها
+من الخواص والبركات إلخ
+٣٨ فائدة في المرأة التي لا يعيش أولادها
+٣٩ فائدة من كتبها وحملها صار معظماً ومهاباً
+٤٨ الفصل السادس في الخلوة وما يختص به
+أرباب الاعتكافات
+٥٠ فائدة لقضاء الحاجات
+٥١ فائدة لحفظ المتاع في السفر
+٥٣ الفصل السابع في الأسماء التي كان عيسى
+عليه السلام يحيي بها الأموات
+٥٥ الفصل الثامن في التوافيق الأربعة وما
+يختص به من الفصول الدائرات
+فصل أسماء الملوك الذين يدبرون الزمان
+فصل في قسمة الأعوان على الأقطار الأربعة
+٥٨ فصل في بيان فضل أسماء الله الحسنى
+٦١ الفصل التاسع في خواص أوائل سور
+القرآن
+٦٣ فصل في الحروف وهي على قسمين
+٦٩ الفصل العاشر في أسرار الفاتحة وخواصها
+٧٨ الفصل الحادي عشر في الاختراعات
+الروحانيات
+٨٦ الفصل الثاني عشر في الاسم الأعظم وما له
+من التصريفات الخفيات
+٨٩ عزيمة الجلجلوتية وما وقع بها
+٩٣ فائدة تعرف بها حال المريض والغائب
+٩٤ فائدة تسمى القمقمة تنفع لكل مرض
+فائدة لخلاص المسجون
+
+**English:**
+— 1 —
+
+(Index of the first part of the book Sun of the Greater Knowledges)
+
+Page
+1 Preface of the book
+3 The first chapter on the dotted letters and what
+is upon them
+4 The first chapter on the dotted letters and what is in them
+of secrets and concealments
+Chapter on the relation of the human essence
+Chapter and the letters are of kinds
+8 Chapter on the writings of Muhammad, Messenger of God
+9 Mention of what removes forgetfulness
+10 The second chapter in the breaking, etc.
+11 Chapter for the dotted letters
+15 Chapter in mentioning the auspicious and inauspicious times
+17 A great rule in knowing the sign of the Moon
+18 The third chapter in the rulings of the mansions
+19 The discourse on the mansions
+23 Chapter in the division of the mansions
+Chapter in knowing the roots of the mansions
+25 Chapter in the rulings of their risings
+26 The fourth chapter of the twelve signs, etc.
+28 Chapter on what each sign has of lands
+Chapter on the winds and what is said about them
+30 Chapter on the four stars and their indications and governance
+32 Chapter on their bodies and what is connected to them
+Chapter on the cutting of the seven stars of the spheres
+Chapter on the stations of the signs
+Chapter on the nobility of the planets
+Chapter on the conjunction of the planets with the planets
+Benefit for the fulfillment of needs
+
+Page
+33 The fifth الباب on the secrets of the basmala and what it has
+of properties and blessings, etc.
+38 Benefit concerning the woman whose children do not live
+39 Benefit: whoever writes it and carries it becomes magnified and feared
+48 The sixth chapter on seclusion and what is specific to it
+the people of retreats
+50 Benefit for the fulfillment of needs
+51 Benefit for preserving goods in travel
+53 The seventh chapter on the names by which Jesus
+peace be upon him used to bring the dead to life
+55 The eighth chapter on the four tawāfīq and what
+is specific to it of the revolving chapters
+Chapter: the names of the kings who govern time
+Chapter on the division of the helpers over the four quarters
+58 Chapter on explaining the virtue of the Beautiful Names of God
+61 The ninth chapter on the properties of the beginnings of the surahs
+of the Qur’an
+63 Chapter on the letters, and they are of two divisions
+69 The tenth chapter on the secrets of al-Fatiha and its properties
+78 The eleventh chapter on spiritual inventions
+86 The twelfth chapter on the Greatest Name and what it has
+of hidden dispositions
+89 The ʿAzīmah of al-Jaljalutiyyah and what occurred by it
+93 Benefit by which you know the condition of the sick and the absent
+94 Benefit called al-Qamqamah, beneficial for every illness
+Benefit for the release of the imprisoned
+
+---
+## Page 585
+
+**Arabic (original):**
+— ٣ —
+
+| صحيفة | | صحيفة |
+| :--- | :--- | :--- |
+| ٩٩ | فصل في اسم الله الأعظم ويسمى دعاء الأعمى إلخ | ١٢٩ | دعوة سورة الواقعة |
+| ١٠٢ | الفصل الثالث عشر في فوائد الفاتحة وما لها من الأوفاق والدعوات المستجابات | ١٣٠ | ذكر رياضة جليلة وهي يا حافظ يا باسط يا ودود يا متين |
+| ١٠٥ | فصل تذكر فيه الأوفاق السبعة المتعلقة بالسبعة أحرف | ١٣١ | رياضة الجلالة وخلوتها وهي الله الله ذكر دعوة لطيف |
+| ١٠٧ | الفصل الرابع عشر في الأذكار والأدعية المستجابات | ١٣٢ | ذكر دعوة سبحان الله والحمد لله ولا إله إلا الله والله أكبر لا حول ولا قوة إلا بالله العلي العظيم |
+| ١١٣ | فائدة مباركة لقضاء الحوائج | ١٣٣ | ذكر دعاء لطيف أيضاً |
+| | فائدة لجلب الرزق والقبول | | فصل في ذكر سورة الملك وقسمها وأملاكها |
+| ١١٤ | فصل في الأذكار والدعوات المجابات | ١٣٤ | ذكر دعوة ألم نشرح لك |
+| ١١٧ | دعاء آية الكرسي | ١٣٦ | فائدة مباركة إن شاء الله تعالى |
+| ١١٩ | دعاء آخر للآية الشريفة | ١٣٧ | ذكر هذه الدائرة الكريمة وما لها وما فيها من الأسرار العظيمة وفيها عزيمة الحروف |
+| ١٢١ | دعوة سورة الأنعام | ١٤٠ | فصل ذكر فيه دعوة الهمزة الشريفة |
+| ١٢٢ | باب رياضة قل أوحي إلي | ١٤١ | فصل صفة الدعوة للسورة الشريفة المباركة |
+| ١٢٦ | ذكر رياضة يا كريم يا رحيم والقسم والبخور | ١٤٢ | فصل ذكر هنا فائدة وردت في الحديث إلخ |
+| ١٢٨ | ذكر رياضة يا كريم يا رحيم على وجه آخر | | |
+| | ذكر دعوة سورة الكهف | | |
+
+( فهرست الجزء الثاني من كتاب شمس المعارف الكبرى )
+
+| ١٤٤ | الفصل الخامس عشر في الشروط اللازمة لبعض دون بعض في البدايات والنهايات | ١٤٨ | أنه لا إله إلا هو الملائكة إلى قوله الحكيم فصل علامة من عرف الله حق معرفته |
+| ١٤٥ | اعلم أن كنوز التوحيد الشافي ومشربه الصافي هاهو في سورة الإخلاص وما يناسبها | | فصل إذا أردت أن يظهر الله لك لوامع مقامك فإنه الجوارح عن الكسل إلخ |
+| ١٤٦ | في ذكر ترجيح لا إله إلا الله على سائر الكلمات | | فصل قاعدة التحقيق ليس لك في الإشارة إلا التوفيق |
+| ١٤٧ | اعلم أن من خواص القرآن قوله شهد الله | | فصل اخل بنفسك كثيراً واخلع بذلك خالياً فائدة من أهمه أمر فليتوضأ إلخ فإن |
+
+**English:**
+— 3 —
+
+| Page | | Page |
+| :--- | :--- | :--- |
+| 99 | Chapter on the Greatest Name of God, and it is called the prayer of the blind man, etc. | 129 | Invocation of Surat al-Waqi‘ah |
+| 102 | The thirteenth chapter on the benefits of al-Fatihah and what there is of the wafqs and the answered invocations | 130 | Mention of a noble spiritual exercise, and it is: O Preserver, O Expander, O Loving, O Firm |
+| 105 | Chapter in which are mentioned the seven wafqs connected to the seven letters | 131 | Exercise of majesty and its seclusion, and it is Allah Allah; mention of a subtle invocation |
+| 107 | The fourteenth chapter on the remembrances and the answered supplications | 132 | Mention of the invocation: Glory be to God, and praise be to God, and there is no god but God, and God is greater; there is no power and no strength except by God, the High, the Great |
+| 113 | Blessed benefit for the fulfillment of needs | 133 | Mention of a subtle supplication also |
+|  | Benefit for bringing provision and acceptance |  | Chapter on mentioning Surat al-Mulk and its division and its amlak |
+| 114 | Chapter on the answered remembrances and supplications | 134 | Mention of the invocation: Did We not expand for you |
+| 117 | Supplication of Ayat al-Kursi | 136 | Blessed benefit, if God Most High wills |
+| 119 | Another supplication for the noble verse | 137 | Mention of this noble circle and what there is for it and in it of the عظيمة secrets, and in it is the determination of the letters |
+| 121 | Invocation of Surat al-An‘am | 140 | Chapter in which the invocation of the noble hamzah is mentioned |
+| 122 | Chapter of the exercise of Say, It has been revealed to me | 141 | Chapter: the description of the invocation for the blessed noble surah |
+| 126 | Mention of the exercise: O Generous, O Merciful, and the oath and the incense | 142 | Chapter: here is mentioned a benefit reported in the hadith, etc. |
+| 128 | Mention of the exercise: O Generous, O Merciful, in another manner |  |  |
+|  | Mention of the invocation of Surat al-Kahf |  |  |
+
+( Index of the second part of the book Shams al-Ma‘arif al-Kubra )
+
+| 144 | The fifteenth chapter on the conditions necessary for some and not others in the beginnings and the ends | 148 | that there is no god but He, the angels, up to His saying, the Wise; chapter: the sign of one who has known God with His true knowledge |
+| 145 | Know that the treasures of the healing tawhid and its pure drink are here in Surat al-Ikhlas and what corresponds to it |  | Chapter: if you want God to show you the flashes of your station, then the limbs from laziness, etc. |
+| 146 | In mentioning the preference of there is no god but God over the rest of the words |  | Chapter: the rule of verification: there is nothing for you in the indication except success |
+| 147 | Know that among the properties of the Qur’an is His saying: God has borne witness |  | Chapter: be alone with yourself often, and strip yourself thereby while being empty. Benefit: whoever is concerned with a matter, let him perform ablution, etc., for |
+
+---
+## Page 586
+
+**Arabic (original):**
+— ٤ —
+
+| صحيفة | صحيفة |
+| :--- | :--- |
+| حاجة تقضى بإذن الله تعالى | الفصل الأول في اسمه تعالى الله |
+| دعاء مجرب كان عيسى عليه السلام يدعو به ١٦١ | الفصل الثاني في اسمه تعالى الرحمن |
+| فائدة لقضاء الحاجة | الفصل الثالث في اسمه تعالى الرحيم |
+| ١٤٩ وهذا دعاء عظيم لقضاء الحاجة ١٦٢ | الفصل الرابع في اسمه تعالى الملك |
+| دعاء عظيم للإمام محمد بن إدريس الخوارزمي | الفصل الخامس في اسمه تعالى القدوس |
+| ١٥٠ استخارة مجربة | الفصل السادس في اسمه تعالى السلام |
+| فصل اعلم أن سر الحروف في ألواح صدر ١٦٣ | الفصل السابع في اسمه تعالى المؤمن |
+| العلماء | الفصل الثامن في اسمه تعالى المهيمن |
+| ١٥٢ فصل اختلف الناس في الاسم هل هو ١٦٤ | الفصل التاسع في اسمه تعالى العزيز |
+| مشتق من السمو أو السمة | الفصل العاشر في اسمه تعالى الجبار |
+| فائدة السائرون إلى الله قسمان مراد مقام | الفصل الحادي عشر في اسمه تعالى المتكبر |
+| ومريد قائم ١٦٥ | الفصل الثاني عشر في اسمه تعالى البارئ |
+| ١٥٣ فصل اعلم أن أسماء الأفعال على نوعين نوع | الفصل الثالث عشر في اسمه تعالى المصور |
+| ورد في الشرع ذكر فعله دون اسمه نحو | الفصل الرابع عشر في اسمه تعالى الغفار |
+| سخط الله وغضب الله وفضل الله ونوع | الفصل الخامس عشر في اسمه تعالى القهار |
+| ورد ذكره في الشرع نحو يخلق الله ما يشاء ١٦٦ | الفصل السادس عشر في اسمه تعالى الوهاب |
+| والله خالق كل شيء | الفصل السابع عشر في اسمه تعالى الرزاق |
+| فصل اعلم أن وجود كل شخص أو غيره | الفصل الثامن عشر في اسمه تعالى الفتاح |
+| مستند إلى كلي أو جزئي إلخ ١٦٧ | الفصل التاسع عشر في اسمه تعالى العليم |
+| ١٥٤ فصل في السر الجامع والسيف القاطع إلخ | الفصل العشرون في اسمه تعالى القابض |
+| فصل اعلم أن كل اسم من أسماء الله تعالى ١٦٨ | الفصل الحادي والعشرون في اسمه تعالى |
+| إذا كانت حروفه وتراً صلح للتفريق وإذا | القابض |
+| كانت شفعاً صلح للتأليف والمحبة ١٦٩ | الفصل الثاني والعشرون في اسمه تعالى |
+| ١٥٥ الفصل الأول في الشروط اللازمة لكل أحد | الباسط |
+| الفصل الثاني في الشروط اللازمة لبعض | الفصل الثالث والعشرون في اسمه تعالى |
+| دون بعض | الخافض |
+| ١٥٦ فائدة لمعرفة صلاة الكفاية | الفصل الرابع والعشرون في اسمه تعالى |
+| ١٥٩ الفصل السادس عشر في أسماء الله الحسنى | الرافع |
+| وأوقاتها النافعات | الفصل الخامس والعشرون في اسمه تعالى |
+| ١٦٠ فصل في اسمه تعالى لا إله إلا هو | المعز |
+
+**English:**
+— 4 —
+
+| Page | Page |
+| :--- | :--- |
+| A need fulfilled by the permission of God Most High | The first chapter on His Most High name, Allah |
+| A tried supplication with which Jesus, peace be upon him, used to supplicate | The second chapter on His Most High name, al-Rahman |
+| Benefit for the fulfillment of needs | The third chapter on His Most High name, al-Rahim |
+| 149 And this is a great supplication for the fulfillment of needs | The fourth chapter on His Most High name, al-Malik |
+| A great supplication for Imam Muhammad ibn Idris al-Khwarizmi | The fifth chapter on His Most High name, al-Quddus |
+| 150 A tried istikhara | The sixth chapter on His Most High name, al-Salam |
+| Chapter: know that the secret of the letters is in the tablets of the صدر of | The seventh chapter on His Most High name, al-Mu’min |
+| the scholars | The eighth chapter on His Most High name, al-Muhaymin |
+| 152 Chapter: people differed concerning the name, whether it is | The ninth chapter on His Most High name, al-‘Aziz |
+| derived from sublimity or the mark | The tenth chapter on His Most High name, al-Jabbar |
+| Benefit: those journeying to God are of two divisions, one intending a station | The eleventh chapter on His Most High name, al-Mutakabbir |
+| and one intending, standing 165 | The twelfth chapter on His Most High name, al-Bari’ |
+| 153 Chapter: know that the names of actions are of two kinds, a kind | The thirteenth chapter on His Most High name, al-Musawwir |
+| in the Law there occurs mention of His act without His name, such as | The fourteenth chapter on His Most High name, al-Ghaffar |
+| the wrath of God and the anger of God and the فضل of God, and a kind | The fifteenth chapter on His Most High name, al-Qahhar |
+| there occurs mention of it in the Law, such as: God creates what He wills 166 | The sixteenth chapter on His Most High name, al-Wahhab |
+| and God is the Creator of everything | The seventeenth chapter on His Most High name, al-Razzaq |
+| Chapter: know that the existence of every person or other | The eighteenth chapter on His Most High name, al-Fattah |
+| is based upon a universal or partial, etc. 167 | The nineteenth chapter on His Most High name, al-‘Alim |
+| 154 Chapter on the جامع secret and the cutting sword, etc. | The twentieth chapter on His Most High name, al-Qabid |
+| Chapter: know that every name among the names of God Most High | The twenty-first chapter on His Most High name, al-Qabid |
+| if its letters are odd, it is fit for separation, and if | The twenty-second chapter on His Most High name, al-Basit |
+| they are even, it is fit for composition and love 169 | The twenty-third chapter on His Most High name, al-Khafid |
+| 155 The first chapter on the conditions necessary for everyone | The twenty-fourth chapter on His Most High name, al-Rafi‘ |
+| The second chapter on the conditions necessary for some | The twenty-fifth chapter on His Most High name, al-Mu‘izz |
+| دون بعض | al-Khafid |
+| 156 Benefit for knowing the prayer of sufficiency | The twenty-fourth chapter on His Most High name, al-Rafi‘ |
+| 159 The sixteenth chapter on the beautiful names of God | The twenty-fifth chapter on His Most High name, al-Mu‘izz |
+| and their beneficial times |  |
+| 160 Chapter on His Most High name, There is no god but He |  |
+
+---
+## Page 587
+
+**Arabic (original):**
+— ٥ —
+
+صحيفة
+١٦٩ الفصل السادس والعشرون في اسمه تعالى المذل
+الفصل السابع والعشرون في اسمه تعالى السميع
+١٧١ الفصل الثامن والعشرون في اسمه تعالى البصير
+الفصل التاسع والعشرون في اسمه تعالى الحكم
+الفصل الثلاثون في اسمه تعالى العدل
+١٧٢ الفصل الحادي والثلاثون في اسمه تعالى اللطيف
+الفصل الثاني والثلاثون في اسمه تعالى الخبير
+١٧٣ الفصل الثالث والثلاثون في اسمه تعالى الحليم
+الفصل الرابع والثلاثون في اسمه تعالى العظيم
+الفصل الخامس والثلاثون في اسمه تعالى الغفور
+الفصل السادس والثلاثون في اسمه تعالى الشكور
+الفصل السابع والثلاثون في اسمه تعالى العلي
+١٧٤ الفصل الثامن والثلاثون في اسمه تعالى القدير
+الفصل التاسع والثلاثون في اسمه تعالى الحفيظ
+١٧٥ الفصل الأربعون في اسمه تعالى المقيت
+الفصل الحادي والأربعون في اسمه تعالى الحسيب
+١٧٦ الفصل الثاني والأربعون في اسمه تعالى الجليل
+
+صحيفة
+١٧٧ الفصل الثالث والأربعون في اسمه تعالى الكريم
+الفصل الرابع والأربعون في اسمه تعالى الرقيب
+الفصل الخامس والأربعون في اسمه تعالى المجيب
+١٧٨ الفصل السادس والأربعون في اسمه تعالى الواسع
+الفصل السابع والأربعون في اسمه تعالى الحكيم
+١٧٩ الفصل الثامن والأربعون في اسمه تعالى الودود
+١٨٠ الفصل التاسع والأربعون في اسمه تعالى المجيد
+الفصل الخمسون في اسمه تعالى الباعث
+الفصل الحادي والخمسون في اسمه تعالى الرشيد
+١٨١ الفصل الثاني والخمسون في اسمه تعالى الحق
+الفصل الثالث والخمسون في اسمه تعالى الوكيل
+الفصل الرابع والخمسون في اسمه تعالى القوي
+١٨٢ الفصل الخامس والخمسون في اسمه تعالى المتين
+الفصل السادس والخمسون في اسمه تعالى الولي
+الفصل السابع والخمسون في اسمه تعالى الحميد
+١٨٣ الفصل الثامن والخمسون في اسمه تعالى
+
+**English:**
+— 5 —
+
+Page
+169 The twenty-sixth chapter on His Most High name, al-Mudhill
+The twenty-seventh chapter on His Most High name, al-Sami‘
+171 The twenty-eighth chapter on His Most High name, al-Basir
+The twenty-ninth chapter on His Most High name, al-Hakam
+The thirtieth chapter on His Most High name, al-‘Adl
+172 The thirty-first chapter on His Most High name, al-Latif
+The thirty-second chapter on His Most High name, al-Khabir
+173 The thirty-third chapter on His Most High name, al-Halim
+The thirty-fourth chapter on His Most High name, al-‘Azim
+The thirty-fifth chapter on His Most High name, al-Ghafur
+The thirty-sixth chapter on His Most High name, al-Shakur
+The thirty-seventh chapter on His Most High name, al-‘Ali
+174 The thirty-eighth chapter on His Most High name, al-Qadir
+The thirty-ninth chapter on His Most High name, al-Hafiz
+175 The fortieth chapter on His Most High name, al-Muqit
+The forty-first chapter on His Most High name, al-Hasib
+176 The forty-second chapter on His Most High name, al-Jalil
+
+Page
+177 The forty-third chapter on His Most High name, al-Karim
+The forty-fourth chapter on His Most High name, al-Raqib
+The forty-fifth chapter on His Most High name, al-Mujib
+178 The forty-sixth chapter on His Most High name, al-Wasi‘
+The forty-seventh chapter on His Most High name, al-Hakim
+179 The forty-eighth chapter on His Most High name, al-Wadud
+180 The forty-ninth chapter on His Most High name, al-Majid
+The fiftieth chapter on His Most High name, al-Ba‘ith
+The fifty-first chapter on His Most High name, al-Rashid
+181 The fifty-second chapter on His Most High name, al-Haqq
+The fifty-third chapter on His Most High name, al-Wakil
+The fifty-fourth chapter on His Most High name, al-Qawi
+182 The fifty-fifth chapter on His Most High name, al-Matin
+The fifty-sixth chapter on His Most High name, al-Wali
+The fifty-seventh chapter on His Most High name, al-Hamid
+183 The fifty-eighth chapter on His Most High name,
+
+---
+## Page 588
+
+**Arabic (original):**
+— ٦ —
+
+صحيفة | صحيفة
+المحصى | الفصل السادس والسبعون في اسمه تعالى
+١٨٣ الفصل التاسع والخمسون في اسمه تعالى | الباطن
+المبدئ | ١٩٢ الفصل السابع والسبعون في اسمه تعالى
+الفصل الستون في اسمه تعالى المعيد | الوالي
+١٨٤ الفصل الحادى والستون في اسمه تعالى | الفصل الثامن والسبعون في اسمه تعالى
+المحيى | المتعالى
+الفصل الثاني والستون في اسمه تعالى المميت | الفصل التاسع والسبعون في اسمه تعالى البر
+الفصل الثالث والستون في اسمه تعالى الحى | ١٩٣ الفصل الثمانون في اسمه تعالى التواب
+١٨٥ الفصل الرابع والستون في اسمه تعالى | الفصل الحادى والثمانون في اسمه تعالى
+القيوم | المنتقم
+١٨٦ الفصل الخامس والستون في اسمه تعالى | الفصل الثاني والثمانون في اسمه تعالى
+الواجد | العفو
+الفصل السادس والستون في اسمه تعالى | الفصل الثالث والثمانون في اسمه تعالى
+الماجد | الرؤف
+١٨٧ الفصل السابع والستون في اسمه تعالى | ١٩٤ الفصل الرابع والثمانون في اسمه تعالى
+الواحد | مالك الملك
+الفصل الثامن والستون في اسمه تعالى الصمد | الفصل الخامس والثمانون في اسمه تعالى
+١٨٩ الفصل التاسع والستون في اسمه تعالى | ذو الجلال والإكرام
+القادر | الفصل السادس والثمانون في اسمه تعالى
+الفصل السبعون في اسمه تعالى المقتدر | المقسط
+الفصل الحادى والسبعون في اسمه تعالى | الفصل السابع والثمانون في اسمه تعالى
+المقدم | الجامع
+١٩٠ الفصل الثاني والسبعون في اسمه تعالى | ١٩٥ الفصل الثامن والثمانون في اسمه تعالى الغنى
+المؤخر | الفصل التاسع والثمانون في اسمه تعالى المغنى
+الفصل الثالث والسبعون في اسمه تعالى | الفصل التسعون في اسمه تعالى المانع
+الأول | ١٩٦ الفصل الحادى والتسعون في اسمه تعالى
+الفصل الرابع والسبعون في اسمه تعالى | الضار
+الآخر | الفصل الثاني والتسعون في اسمه تعالى النافع
+١٩١ الفصل الخامس والسبعون في اسمه تعالى | ١٩٧ الفصل الثالث والتسعون في اسمه تعالى النور
+الظاهر | الفصل الرابع والتسعون في اسمه تعالى
+
+**English:**
+— 6 —
+
+Page | Page
+al-Muḥṣī | the seventy-sixth chapter in His تعالى name
+183 the fifty-ninth chapter in His تعالى name | al-Bāṭin
+al-Mubdi’ | 192 the seventy-seventh chapter in His تعالى name
+the sixtieth chapter in His تعالى name al-Muʿīd | al-Wālī
+184 the sixty-first chapter in His تعالى name | the seventy-eighth chapter in His تعالى name
+al-Muḥyī | al-Mutaʿālī
+the sixty-second chapter in His تعالى name al-Mumīt | the seventy-ninth chapter in His تعالى name al-Barr
+the sixty-third chapter in His تعالى name al-Ḥayy | 193 the eightieth chapter in His تعالى name al-Tawwāb
+185 the sixty-fourth chapter in His تعالى name | the eighty-first chapter in His تعالى name
+al-Qayyūm | al-Muntaqim
+186 the sixty-fifth chapter in His تعالى name | the eighty-second chapter in His تعالى name
+al-Wājid | al-ʿAfw
+the sixty-sixth chapter in His تعالى name | the eighty-third chapter in His تعالى name
+al-Mājid | al-Ra’ūf
+187 the sixty-seventh chapter in His تعالى name | 194 the eighty-fourth chapter in His تعالى name
+al-Wāḥid | Mālik al-Mulk
+the sixty-eighth chapter in His تعالى name al-Ṣamad | the eighty-fifth chapter in His تعالى name
+189 the sixty-ninth chapter in His تعالى name | Dhū al-Jalāl wa-al-Ikrām
+al-Qādir | the eighty-sixth chapter in His تعالى name
+the seventieth chapter in His تعالى name al-Muqtadir | al-Muqsiṭ
+the seventy-first chapter in His تعالى name | the eighty-seventh chapter in His تعالى name
+al-Muqaddim | al-Jāmiʿ
+190 the seventy-second chapter in His تعالى name | 195 the eighty-eighth chapter in His تعالى name al-Ghanī
+al-Mu’akhkhir | the eighty-ninth chapter in His تعالى name al-Mughnī
+the seventy-third chapter in His تعالى name | the ninetieth chapter in His تعالى name al-Māniʿ
+al-Awwal | 196 the ninety-first chapter in His تعالى name
+the seventy-fourth chapter in His تعالى name | al-Ḍārr
+al-Ākhir | the ninety-second chapter in His تعالى name al-Nāfiʿ
+191 the seventy-fifth chapter in His تعالى name | 197 the ninety-third chapter in His تعالى name al-Nūr
+al-Ẓāhir | the ninety-fourth chapter in His تعالى name
+
+---
+## Page 589
+
+**Arabic (original):**
+— ٧ —
+
+صحيفة
+١٩٨ الفصل الخامس والتسعون في اسمه تعالى البديع
+الفصل السادس والتسعون في اسمه تعالى الباقي
+الفصل السابع والتسعون في اسمه تعالى الوارث
+الفصل الثامن والتسعون في اسمه تعالى الرشيد
+١٩٩ الفصل التاسع والتسعون في اسمه تعالى الصبور
+الفصل السابع عشر في خواص كهيعص وحروفها الربانيات الأقدسيات
+٢٠٢ فصل في خواص القرآن العظيم والبسملة والفاتحة
+٢١١ فصل في بيان اللطائف التسع
+اللطيفة الأولى
+اللطيفة الثانية
+اللطيفة الثالثة
+اللطيفة الرابعة
+اللطيفة الخامسة
+اللطيفة السادسة
+اللطيفة السابعة
+اللطيفة الثامنة
+اللطيفة التاسعة
+٢١٢ فصل في تأليف القلوب
+٢١٣ فصل في الاسم السريع
+فصل للمحبة
+٢١٤ فصل سئل ذو النون المصري إلخ
+فصل في ذكر خاتم سليمان عليه السلام
+
+صحيفة
+٢١٤ فصل في ذكر الأسماء التي كانت في خاتم سليمان عليه السلام
+٢١٥ فصل ذكر أن الأسماء كانت في طوق سليمان عليه السلام
+فصل روي أن هذه الأسماء كانت من النور المضيء
+٢١٧ فصل قيل إن خاتم سليمان كان في يده وفيه ملكه
+٢١٨ الفصل الثامن عشر في خواص آية الكرسي وما لها من البركات
+٢٢٥ من خواص آية الكرسي للمحبة والألفة
+٢٢٩ من خواص آية الكرسي للحفظ
+٢٣٣ فائدة جليلة لمقابلة الملوك والحكام والوزراء والقضاة وأرباب المناصب
+حكاية عن بعض الصالحين لقضاء الحوائج
+٢٣٥ الفصل التاسع عشر في خواص بعض الأوفاق والطلسمات النافعات
+٢٤٠ فصل من كتب سورة محمد صلى الله عليه وسلم في جام زجاج إلخ
+٢٤١ فائدة قوله تعالى ربنا عليك توكلنا للنصر على الأعداء
+فائدة فقلت استغفروا ربكم إلخ للزيادة في الرزق
+٢٤٢ قوله تعالى وجعلنا قلوب الذين اتبعوه رأفة ورحمة للنصر على الأعداء
+٢٤٣ فائدة لمن يشتكي وجع الطحال
+فصل إذا أردت أن تحفظ كل ما تسمع ولا تنساه
+فصل إذا أردت عقد اللسان إلخ
+٢٤٤ فائدة للحفظ من الوسواس
+
+**English:**
+— 7 —
+
+Page
+198 the ninety-fifth chapter in His تعالى name al-Badīʿ
+the ninety-sixth chapter in His تعالى name al-Bāqī
+the ninety-seventh chapter in His تعالى name al-Wārith
+the ninety-eighth chapter in His تعالى name al-Rashīd
+199 the ninety-ninth chapter in His تعالى name al-Ṣabūr
+the seventeenth chapter in the properties of Kāf Hā’ Yā’ ʿAyn Ṣād and its الربانيات الأقدسيات letters
+202 chapter in the properties of the عظیم Qur’an and the basmala and the Fātiḥa
+211 chapter in the explanation of the nine laṭā’if
+the first laṭīfa
+the second laṭīfa
+the third laṭīfa
+the fourth laṭīfa
+the fifth laṭīfa
+the sixth laṭīfa
+the seventh laṭīfa
+the eighth laṭīfa
+the ninth laṭīfa
+212 chapter in the composition of hearts
+213 chapter in the swift name
+chapter for love
+214 chapter: Dhu al-Nūn al-Miṣrī was asked, etc.
+chapter in mentioning the Seal of Solomon, عليه السلام
+
+Page
+214 chapter in mentioning the names that were in the Seal of Solomon, عليه السلام
+215 chapter mentioning that the names were in the collar of Solomon, عليه السلام
+chapter: it was related that these names were from the shining light
+217 chapter: it was said that the Seal of Solomon was in his hand and in it was his kingdom
+218 the eighteenth chapter in the properties of Āyat al-Kursī and what blessings it has
+225 from the properties of Āyat al-Kursī for love and affection
+229 from the properties of Āyat al-Kursī for protection
+233 a great benefit for meeting kings, rulers, ministers, judges, and أصحاب of offices
+a tale from some of the righteous for the fulfillment of needs
+235 the nineteenth chapter in the properties of some beneficial awfāq and talismans
+240 chapter: from writing Sūrat Muḥammad, صلى الله عليه وسلم, in a glass bowl, etc.
+241 benefit: His تعالى saying, Our Lord, upon You we have relied, for victory over enemies
+benefit: and I said, Ask forgiveness of your Lord, etc., for increase in provision
+242 His تعالى saying, And We made the hearts of those who followed him compassion and mercy, for victory over enemies
+243 benefit for one who complains of spleen pain
+chapter: if you want to memorize everything you hear and not forget it
+chapter: if you want to bind the tongue, etc.
+244 benefit for protection from الوسواس
+
+---
+## Page 590
+
+**Arabic (original):**
+— ٨ —
+
+صحيفة
+فائدة لحفظ المال من السارق
+فصل من أراد النصر على أعدائه إلخ
+٢٤٥ فصل إذا أردت أن ترمى بالقوس ولا
+تخطئ في رميك
+٢٤٦ فصل إذا أردت أن يحبك كل إنسان أو إنسان
+واحد مثلا
+٢٤٧ فصل لرد الآبق ولو كان في السلاسل
+والأغلال
+٢٤٨ فصل إذا أردت جلب غائب أو شخص تحبه
+٢٥٠ فصل لما توفى شيخي أبو عبد الله السبتي
+وجرده الغاسل إلخ
+٢٥٢ فصل اذكر فيه فائدة جليلة وذلك لما
+
+صحيفة
+دخلت المسجد لأصلى إلخ
+دعوة أولى سورة يس
+٢٥٧ دعوة ثانية لسورة يس وفيها فوائد كثيرة
+٢٦٢ فصل في رياضة سلام قولا من رب رحيم
+وهذه دعوة أخرى لسورة يس
+٢٦٣ ورد يوم الأحد
+ورد يوم الاثنين
+٢٦٤ ورد يوم الثلاثاء
+ورد يوم الأربعاء
+٢٦٥ ورد يوم الخميس
+ورد يوم الجمعة
+٢٦٦ ورد يوم السبت
+
+( فهرست الجزء الثالث من كتاب شمس المعارف الكبرى )
+
+٢٦٨ الفصل الحادي والعشرون في أسماء الله
+الحسنى وأسرارها والكل نمط من الدعوات
+٢٧٠ فصل في شرح أسماء الله الحسنى بعده فقط
+أقول وبالله التوفيق اعلم أن اسمه تعالى الله
+هو الاسم الأعظم إلخ
+٢٧٢ وأما اسمه تعالى الملك فهو اسم عظيم وخادمه
+فصيل إلخ
+وأما اسمه القدوس فهو مناسب لاسمه
+الملك إلخ
+٢٧٣ وأما اسمه السلام فهو اسم عظيم يؤمن الله
+ذاكره وخادمه درعائيل إلخ
+وأما اسمه المؤمن فهو اسم عظيم وخادمه
+مقاتل إلخ
+٢٧٦ وأما اسمه الخالق فهو اسم عظيم قديم
+وخادمه حقيائيل
+وأما اسمه البارئ فهو اسم عظيم وخادمه
+سلسائيل
+وأما اسمه المصور فإنه اسم عظيم وخادمه
+هرقال عليه السلام إلخ
+٢٧٧ وأما اسمه الغفار فهو اسم عظيم إلخ
+وأما اسمه تعالى القهار فهو اسم عظيم لمن
+قويت نفسه إلخ
+٢٧٨ وأما اسمه الوهاب فهو اسم عظيم لمن يطلب
+الدنيا وشرف الآخرة إلخ
+وأما اسمه الرزاق فهو اسم عظيم قديم إلخ
+وأما اسمه الفتاح فهو اسم شريف لا يعلمه
+إلا الله إلخ
+٢٧٩ وأما اسمه تعالى العليم فهو اسم عظيم
+فيه حرفان من حروف الاسم الأعظم إلخ
+الفصل الثالث والعشرون في النمط الثالث
+وما يدل على الصفات الإمداديات
+٢٨٠ وأما اسمه تعالى الكريم الوهاب فذاكرها
+
+**English:**
+— 8 —
+
+Page
+benefit for preserving money from the thief
+chapter: whoever desires victory over his enemies, etc.
+245 chapter: if you want to shoot with the bow and not
+miss in your shooting
+246 chapter: if you want every person, or one person
+for example, to love you
+247 chapter for returning the runaway, even if he were in chains
+and fetters
+248 chapter: if you want to bring an absent one or a person you love
+250 chapter: when my shaykh Abu ʿAbd Allāh al-Sabtī died
+and the washer stripped him, etc.
+252 chapter in which I mention a great benefit, and that when
+
+Page
+I entered the mosque to pray, etc.
+first invocation of Sūrat Yā Sīn
+257 second invocation for Sūrat Yā Sīn, and in it are many benefits
+262 chapter in the exercise of “Peace, a word from a Merciful Lord”
+and this is another invocation for Sūrat Yā Sīn
+263 litany of Sunday
+litany of Monday
+264 litany of Tuesday
+litany of Wednesday
+265 litany of Thursday
+litany of Friday
+266 litany of Saturday
+
+( Index of the third part of the book Shams al-Maʿārif al-Kubrā )
+
+268 the twenty-first chapter in the Names of God
+the Most Beautiful and their secrets, and all is a pattern of invocations
+270 chapter in the explanation of the Most Beautiful Names after it only
+I say, and with God is success, know that His تعالى name Allah
+is the Greatest Name, etc.
+272 and as for His تعالى name al-Malik, it is a عظیم name and its servant
+Faṣīl, etc.
+and as for His name al-Quddūs, it is suitable to His name
+al-Malik, etc.
+273 and as for His name al-Salām, it is a عظیم name; God secures
+its rememberer and its servant Durā’īl, etc.
+and as for His name al-Mu’min, it is a عظیم name and its servant
+Muqātil, etc.
+276 and as for His name al-Khāliq, it is an ancient عظیم name
+and its servant Ḥaqī’īl
+and as for His name al-Bāri’, it is a عظیم name and its servant
+Salsā’īl
+and as for His name al-Muṣawwir, it is a عظیم name and its servant
+Herqāl عليه السلام, etc.
+277 and as for His name al-Ghaffār, it is a عظیم name, etc.
+and as for His تعالى name al-Qahhār, it is a عظیم name for whoever
+his soul has become strong, etc.
+278 and as for His name al-Wahhāb, it is a عظیم name for whoever seeks
+the world and the nobility of the Hereafter, etc.
+and as for His name al-Razzāq, it is an ancient عظیم name, etc.
+and as for His name al-Fattāḥ, it is a noble name, not known
+except by God, etc.
+279 and as for His تعالى name al-ʿAlīm, it is a عظیم name
+in it are two letters from the letters of the Greatest Name, etc.
+the twenty-third chapter in the third pattern
+and what indicates the qualities of bestowal
+280 and as for His تعالى name al-Karīm al-Wahhāb, then its rememberer
+
+---
+## Page 591
+
+**Arabic (original):**
+— ٩ —
+
+صحيفة
+٢٨٦ وأما اسمه تعالى الغفور فهو سريع في
+إطفاء الغضب
+وأما اسمه تعالى الشكور ففيه أسرار لمن
+يطلب الزيادة على ما هو فيه من خير إلخ
+وأما اسمه تعالى العلي فهو نافع لنوال
+المراتب العلية
+٢٨٧ وأما اسمه تعالى الكبير فهو نافع لمن [يريد]
+الرياسة إلخ
+٢٨٧ وأما اسمه تعالى الحفيظ فهو عظيم وأمان
+للمسافر إلخ
+وأما اسمه المقيت فهو اسم عظيم فيه حرف
+من حروف الاسم الأعظم إلخ
+٢٨٨ الفصل الخامس والعشرون في النمط الخامس
+وما فيه من أسرار المنتخبات إلخ
+وأما اسمه الحسيب فهو اسم لرد الأعداء
+٢٨٩ وأما اسمه تعالى الجليل ففيه إظهار
+الجلال إلخ
+وأما اسمه الكريم ففيه حرفان من حروف
+الاسم الأعظم إلخ
+وأما اسمه تعالى الرقيب إذا ذكره الذاكر
+في مكان خال وفيه كنز فتح إلخ
+وأما اسمه تعالى المجيب ففيه سر عظيم
+لإجابة الدعاء
+٢٩٠ وأما اسمه تعالى الواسع فمن لازمه هانت
+عليه الدنيا
+وأما اسمه تعالى الحكيم فاسم عظيم فيه
+حرف من حروف الاسم الأعظم إلخ
+وأما اسمه تعالى الودود فهو اسم عظيم
+للمحبة والقبول إلخ
+وأما اسمه تعالى المجيد فهو اسم لرفع البلاء
+
+صحيفة
+يوسع الله رزقه إلخ
+وأما اسمه التواب النصير فله سر عظيم
+وذاكرها يتولاه الله إلخ
+وأما اسمه القابض فهو اسم عظيم سريع الإجابة
+٢٨١ وأما اسمه الباسط فهو اسم عظيم
+٢٨١ وأما اسمه الخافض فهو اسم فيه سر لمن
+يذكره
+وأما اسمه الرافع ففيه ٣ حروف من الاسم
+الأعظم
+٢٨٢ وأما اسمه المعز ففيه حرفان من الاسم
+الأعظم
+وأما اسمه المذل فهو بمعزل عن العز إلخ
+وأما اسمه السميع فهو اسم قريب من الله
+تعالى إلخ
+٢٨٣ وأما اسمه البصير فهو لمن أراد أن ينظر ما في
+الأرض وما في بطون الخلق
+وأما اسمه الحكم ففيه حرف من حروف
+الاسم الأعظم
+٢٨٤ الفصل الرابع والعشرون في النمط الرابع
+وما فيه من الأسرار الربانيات
+وأما اسمه تعالى الفرد المجيد فذاكرها
+يرفع الله قدره وينشر علمه
+وأما اسمه المبدئ المعيد من ذكرها قبل
+خروجه إلى السفر من منزله رده الله سالما
+وأما اسمه اللطيف فله تصريف في جريان
+اللطف إلخ
+٢٨٥ وأما اسمه تعالى الخبير ففيه حروف الاسم
+الأعظم وما أسرعه في تفريج الكروب إلخ
+وأما اسمه تعالى الحليم ففيه تدبير عظيم إلخ
+وأما اسمه تعالى العظيم ففيه سر عظيم إلخ
+
+**English:**
+— 9 —
+
+Page
+286 And as for His تعالى name, al-Ghafur, then it is swift in
+extinguishing anger.
+And as for His تعالى name, al-Shakur, then in it are secrets for one who
+seeks increase in what he is in of good, etc.
+And as for His تعالى name, al-‘Ali, then it is beneficial for attaining
+the lofty ranks.
+287 And as for His تعالى name, al-Kabir, then it is beneficial for one who [desires]
+leadership, etc.
+287 And as for His تعالى name, al-Hafiz, then it is great and safety
+for the traveler, etc.
+And as for His name, al-Muqit, then it is a great name; in it is a letter
+from the letters of the Greatest Name, etc.
+288 Chapter twenty-five, in the fifth pattern
+and what is in it of the secrets of the select things, etc.
+And as for His name, al-Hasib, then it is a name for repelling enemies.
+289 And as for His تعالى name, al-Jalil, then in it is the manifestation
+of majesty, etc.
+And as for His name, al-Karim, then in it are two letters from the letters of
+the Greatest Name, etc.
+And as for His تعالى name, al-Raqib, if the rememberer mentions Him
+in an empty place and in it is a treasure of opening, etc.
+And as for His تعالى name, al-Mujib, then in it is a great secret
+for the answering of supplication.
+290 And as for His تعالى name, al-Wasi‘, then whoever keeps to it, the world becomes easy
+to him.
+And as for His تعالى name, al-Hakim, then it is a great name; in it is
+a letter from the letters of the Greatest Name, etc.
+And as for His تعالى name, al-Wadud, then it is a great name
+for love and acceptance, etc.
+And as for His تعالى name, al-Majid, then it is a name for the removal of affliction.
+
+Page
+Allah expands his provision, etc.
+And as for His name, al-Tawwab al-Nasir, then for it is a great secret,
+and whoever remembers it, Allah takes him in charge, etc.
+And as for His name, al-Qabid, then it is a great name, swift in response.
+281 And as for His name, al-Basit, then it is a great name.
+281 And as for His name, al-Khafid, then it is a name in which is a secret for one who
+mentions it.
+And as for His name, al-Rafi‘, then in it are 3 letters from the name
+the Greatest.
+282 And as for His name, al-Mu‘izz, then in it are two letters from the name
+the Greatest.
+And as for His name, al-Mudhill, then he is far from might, etc.
+And as for His name, al-Sami‘, then it is a name near to Allah
+تعالى, etc.
+283 And as for His name, al-Basir, then it is for one who desires to look at what is in
+the earth and what is in the bellies of creation.
+And as for His name, al-Hakam, then in it is a letter from the letters of
+the Greatest Name.
+284 Chapter twenty-four, in the fourth pattern
+and what is in it of the divine secrets
+And as for His تعالى name, al-Fard al-Majid, then whoever remembers it,
+Allah raises his rank and spreads his knowledge.
+And as for His name, al-Mubdi’ al-Mu‘id, whoever remembers it before
+his خروج to travel from his dwelling, Allah returns him safe.
+And as for His name, al-Latif, then for it is a disposition in the course of
+gentleness, etc.
+285 And as for His تعالى name, al-Khabir, then in it are the letters of the
+Greatest Name, and how swift it is in relieving distresses, etc.
+And as for His تعالى name, al-Halim, then in it is a great management, etc.
+And as for His تعالى name, al-‘Azim, then in it is a great secret, etc.
+
+---
+## Page 592
+
+**Arabic (original):**
+— ١٠ —
+
+صحيفة
+٢٩١ وأما اسمه الباعث فهو اسم فيه حرفان من
+حروف الاسم الأعظم
+الفصل السادس والعشرون في النمط السادس
+في أسرار العرضيات المقتضية إلخ
+٢٩٢ وأما اسمه تعالى الشهيد فهو اسم عظيم من
+لازمه أعطى الشهادة إلخ
+وأما اسمه الحق فهو سيف الله في الأرض إلخ
+وأما اسمه الوكيل فهو اسم عظيم للأمان
+من المخاوف
+وأما اسمه القوي فلقضاء الحوائج إلخ
+وأما اسمه المتين فهو اسم عظيم فيه حرف
+من حروف الاسم الأعظم
+٢٩٣ وأما اسمه الولي فهو اسم عظيم وملكه كرايئل
+وأما اسمه تعالى الحميد فهو اسم عظيم وملكه
+بطيائيل إلخ
+الفصل السابع والعشرون في النمط السابع
+من أسماء الله تعالى وما لها من البركات الخفيات
+٢٩٤ وأما اسمه الحنان فذاكره يقذف الله
+محبتة في قلوب الخلائق
+وأما اسمه الحفيظ فذاكره يحفظه الله
+من كل مكروه
+وأما اسمه الشافي فإنه اسم عظيم سريع الشفاء
+وأما اسمه المحصي فهو اسم عظيم وملكه
+قحطائيل
+وأما اسمه المبدئ فهو اسم عظيم وملكه
+كهيائيل إلخ
+٢٩٥ وأما اسمه المعيد فهو اسم عظيم وخادمه
+خطيائيل
+وأما اسمه تعالى المحيي فهو اسم فيه حرف
+من حروف الاسم الأعظم وخادمه كريائيل
+
+صحيفة
+وأما اسمه تعالى المميت فهو اسم عظيم
+وخادمه عطيةئيل
+وأما اسمه تعالى الحي ففيه تعلقات الروح
+والحياة المخلوق منه حيطيائيل
+وأما اسمه القيوم فهو اسم عظيم وخادمه
+جيطيايئل
+وأما اسمه تعالى الواجد فهو اسم عظيم
+والملك المخلوق منه هطيطيل إلخ
+٢٩٦ وأما اسمه ماجد فملكه رقيايئل إلخ
+وأما اسمه الواحد فملكه لطيطيئل إلخ
+الفصل الثامن والعشرون في النمط الثامن من
+أسماء الله الحسنى وأسرارها النافعات
+٢٩٧ وأما اسمه القادر فملكه هطيايئل إلخ
+وأما اسمه المقتدر فخادمه حجفيايئل
+وأما اسمه المقدم فملكه قحيايئل إلخ
+٢٩٨ وأما اسمه المؤخر فملكه جبرائيل إلخ
+وأما اسمه الأول فهو اسم عظيم والروح
+المخلوق منه درديائيل إلخ
+وأما اسمه الآخر فملكه دحيائيل إلخ
+وأما اسمه الظاهر فملكه عمهائيل إلخ
+وأما اسمه الباطن فملكه بطيائيل إلخ
+وأما اسمه الوالي فملكه اهيايئل إلخ
+٢٩٩ وأما اسمه المتعال فهو اسم عظيم والملك
+المخلوق من عدده ميائيل إلخ
+وأما اسمه البر فملكه فيتايئل إلخ
+الفصل التاسع والعشرون في النمط التاسع
+وما فيه من التصريفات الخفيات إلخ
+٣٠٠ وأما اسمه التواب خادمه ميخائيل
+٣٠٠ وأما اسمه المنتقم خادمه عنايئل إلخ
+وأما اسمه العفو فملكه ضيائيل إلخ
+
+**English:**
+— 10 —
+
+Page
+291 And as for His name, al-Ba‘ith, then it is a name in which are two letters from
+the letters of the Greatest Name.
+Chapter twenty-six, in the sixth pattern
+in the secrets of the accidental things necessitating, etc.
+292 And as for His تعالى name, al-Shahid, then it is a great name; whoever keeps to it is given testimony, etc.
+And as for His name, al-Haqq, then it is the sword of Allah on the earth, etc.
+And as for His name, al-Wakil, then it is a great name for safety
+from fears.
+And as for His name, al-Qawi, then for the fulfillment of needs, etc.
+And as for His name, al-Matin, then it is a great name; in it is a letter
+from the letters of the Greatest Name.
+293 And as for His name, al-Wali, then it is a great name, and its king is Karayi’il.
+And as for His تعالى name, al-Hamid, then it is a great name, and its king is
+Batiya’il, etc.
+Chapter twenty-seven, in the seventh pattern
+of the names of Allah تعالى and what there is of the hidden blessings for them
+294 And as for His name, al-Hannan, then whoever remembers it, Allah
+casts His love into the hearts of creation.
+And as for His name, al-Hafiz, then whoever remembers it, Allah preserves him
+from every disliked thing.
+And as for His name, al-Shafi, then it is a great name, swift in healing.
+And as for His name, al-Muhsi, then it is a great name, and its king is
+Qahṭa’il.
+And as for His name, al-Mubdi’, then it is a great name, and its king is
+Kahya’il, etc.
+295 And as for His name, al-Mu‘id, then it is a great name, and its servant is
+Khatya’il.
+And as for His تعالى name, al-Muhyi, then in it is a letter
+from the letters of the Greatest Name, and its servant is Kariya’il.
+
+Page
+And as for His تعالى name, al-Mumit, then it is a great name,
+and its servant is ‘Atiya’il.
+And as for His تعالى name, al-Hayy, then in it are attachments of the spirit
+and the life; the created one from it is Hayṭiya’il.
+And as for His name, al-Qayyum, then it is a great name, and its servant is
+Jitiyā’il.
+And as for His تعالى name, al-Wajid, then it is a great name,
+and the king created from it is Haṭiṭil, etc.
+296 And as for His name, Majid, then its king is Raqiya’il, etc.
+And as for His name, al-Wahid, then its king is Laṭiṭi’il, etc.
+Chapter twenty-eight, in the eighth pattern of
+the Most Beautiful Names of Allah and their beneficial secrets
+297 And as for His name, al-Qadir, then its king is Haṭiya’il, etc.
+And as for His name, al-Muqtadir, then its servant is Hujfiya’il.
+And as for His name, al-Muqaddim, then its king is Qaḥya’il, etc.
+298 And as for His name, al-Mu’akhkhir, then its king is Jibra’il, etc.
+And as for His name, al-Awwal, then it is a great name, and the spirit
+created from it is Dardiya’il, etc.
+And as for His name, al-Akhir, then its king is Dahiya’il, etc.
+And as for His name, al-Zahir, then its king is ‘Amha’il, etc.
+And as for His name, al-Batin, then its king is Baṭiya’il, etc.
+And as for His name, al-Wali, then its king is Ahya’il, etc.
+299 And as for His name, al-Muta‘al, then it is a great name, and the king
+created from its number is Miya’il, etc.
+And as for His name, al-Barr, then its king is Fita’il, etc.
+Chapter twenty-nine, in the ninth pattern
+and what is in it of the hidden dispositions, etc.
+300 And as for His name, al-Tawwab, its servant is Mikha’il.
+300 And as for His name, al-Muntaqim, its servant is ‘Anya’il, etc.
+And as for His name, al-‘Afu, then its king is Diya’il, etc.
+
+---
+## Page 593
+
+**Arabic (original):**
+-- ١١ --
+
+صحيفة | صحيفة
+وأما اسمه الرؤوف فالملك المخلوق منه جهبائيل | حرف الثاء
+وأما اسمه مالك الملك ذو الجلال والإكرام | ٣٠٧ حرف الجيم
+فالملك المخلوق منه روميائيل | حرف الحاء
+٣٠١ وأما اسمه المقسط فالملك المخلوق من عدده | ٣٠٨ حرف الخاء
+جلهيائيل | حرف الدال
+وأما اسمه الجامع فالملك المخلوق من عدده | ٣٠٩ حرف الذال
+رقبائيل | حرف الراء
+وأما اسمه الغني فهو اسم عظيم وملكه | حرف الزاي
+رميائيل | ٣١٠ حرف السين
+وأما اسمه المغني ففيه حرف من الاسم الأعظم | حرف الشين
+وملكه هبائيل | حرف الصاد
+وأما اسمه المانع فملكه رميائيل | حرف الضاد
+٣٠٢ الفصل الثلاثون في النمط العاشر من أسماء | حرف الطاء
+الله الحسنى وأسرارها النافعات | حرف الظاء
+ومن أسماء الله الحسنى الحق المبين | حرف العين
+وأما اسمه الحق | ٣١٢ حرف الغين
+وأما أسماؤه تعالى المبين الهادي | حرف الفاء
+وأما أسماؤه الحي القيوم | حرف القاف
+وأما أسماؤه تعالى الأول الآخر الظاهر | ٣١٣ حرف الكاف
+الباطن | حرف اللام
+وأما اسمه تعالى النور | حرف النون
+وأما اسمه تعالى الصبور | ٣١٤ حرف الهاء
+٣٠٤ الفصل الحادي والثلاثون في الحروف وما | حرف الواو
+لها من الخواص | حرف لا
+فصل فما ذكرناه من الحروف العربية | حرف الياء
+ومالها من الخواص والمربعات والخدام | الفصل الثاني والثلاثون في كشف العروض
+والأملاك والأيام | المعنويات
+حرف الألف | ٣١٩ فصل في معرفة هذا الجدول الذي اشتمل
+٣٠٥ حرف الباء | على قواعد كلية
+٣٠٦ حرف التاء | ٣٢٢ فصل في معرفة السر الخفي والعلم المضي
+
+**English:**
+-- 11 --
+
+Page | Page
+And as for His name, al-Ra’uf, then the king created from it is Jahba’il | letter tha’
+And as for His name, Malik al-Mulk, Possessor of Majesty and Honor | 307 letter jim
+then the king created from it is Rumiya’il | letter ha’
+301 And as for His name, al-Muqsit, then the king created from its number is | 308 letter kha’
+Jalhiya’il | letter dal
+And as for His name, al-Jami‘, then the king created from its number is | 309 letter dhal
+Raqbiya’il | letter ra’
+And as for His name, al-Ghani, then it is a great name, and its king is | letter zay
+Ramiya’il | 310 letter sin
+And as for His name, al-Mughni, then in it is a letter from the Greatest Name | letter shin
+and its king is Haba’il | letter sad
+And as for His name, al-Mani‘, then its king is Ramiya’il | letter dad
+302 Chapter thirty, in the tenth pattern of the Names | letter ta’
+of Allah, the Most Beautiful, and their beneficial secrets | letter za’
+And among the Most Beautiful Names of Allah is al-Haqq al-Mubin | letter ‘ayn
+And as for His name, al-Haqq | 312 letter ghayn
+And as for His تعالى names, al-Mubin, al-Hadi | letter fa’
+And as for His names, al-Hayy, al-Qayyum | letter qaf
+And as for His تعالى names, al-Awwal, al-Akhir, al-Zahir | 313 letter kaf
+al-Batin | letter lam
+And as for His تعالى name, al-Nur | letter nun
+And as for His تعالى name, al-Sabur | 314 letter ha’
+304 Chapter thirty-one, in the letters and what | letter waw
+there is for them of properties | letter la
+Chapter: so what we have mentioned of the Arabic letters | letter ya’
+and what there is for them of properties, squares, and servants | Chapter thirty-two in the disclosure of the عرضيات
+and kings and days | معنويات
+letter alif | 319 Chapter in the knowledge of this table which comprised
+305 letter ba’ | universal rules
+306 letter ta’ | 322 Chapter in the knowledge of the hidden secret and the luminous knowledge
+
+---
+## Page 594
+
+--- PAGE 594 TRANSLATION ---
+
+---
+## Page 595
+
+**Arabic (original):**
+— ١٢ —
+
+| صحيفة | صحيفة |
+| :--- | :--- |
+| في ذكر الأمهات الجامعة للحروف الثمانية | فصل في حرف العين |
+| ٣٢٨ | الفصل الثالث والثلاثون في شرح أسرار | فصل في حرف الفاء |
+| دائرة الإحاطة المعروفة بالدائرة نظم في شرح | فصل في حرف الصاد |
+| أسرار الاسم الأعظم وما ظهر عنها من | ٣٥٣ | فصل في حرف القاف |
+| التأصيلات والتفريقات | فصل في حرف الراء |
+| ٣٣٠ | فصل اعلم أن حرف الألف هو مظهر الأمر | فصل في حرف الشين |
+| ٣٣٥ | وهذا صفة اللوح الجامع للحروف كما ترى | فصل في حرف التاء فصل في حرف الثاء |
+| ٣٤٢ | فصل في معرفة الجفر الذي ذكره الإمام | فصل في حرف الحاء |
+| جعفر الصادق رضي الله عنه | فصل في حرف الذال |
+| ٣٤٣ | فصل في معرفة الإمام جعفر الصادق | فصل في حرف الضاد |
+| كما أخذته من صدور العارفين | ٣٥٤ | فصل في حرف الظاء |
+| ٣٤٥ | الفصل الرابع والثلاثون في معرفة علم | فصل في حرف الغين |
+| الزايرجة وكيفيتها ومعرفة استنطاق نسب | فصل في تكسير البروج |
+| الحروف والبروج والمنازل والموازين | ٣٥٥ | فصل في كيفية استنطاقات الكواكب |
+| المشهودات | والساعات |
+| ٣٥٠ | فصل في استنطاق الحروف والأوفاق | ٣٥٦ | فصل إذا أردت أن تصرف في جلب حيوان |
+| وخواص ذلك على التفصيل فتقول | ٣٦٠ | فصل في معرفة طالع الوقت |
+| فصل في حرف الألف فصل في حرف الباء | ٣٦١ | فصل فيه معرفة استخراج البخور وكيفيته |
+| فصل في حرف الجيم | فصل في ذكر الموازين وكيفيتها |
+| فصل في حرف الدال | ٣٦٣ | الفصل الخامس والثلاثون في الخافية |
+| ٣٥١ | فصل في حرف الهاء | الحرفية بالقواعد الجفرية |
+| فصل في حرف الواو | ٣٦٥ | فصل في معرفة أبواب الكلام بكلام |
+| فصل في حرف الزاي | طافيطورش |
+| فصل في حرف الحاء | ٣٦٦ | فصل يشتمل على شرح الأبواب الثلاثة وهي |
+| فصل في حرف الطاء | الكبرى والصغرى والمتصل |
+| فصل في حرف الياء | فصل في معرفة تاج ميطرون عبر به |
+| فصل في حرف الكاف | ٣٦٧ | فصل في معرفة تاج ما فيه من باب الصغير |
+| ٣٥٢ | فصل في حرف اللام | فصل في الأسماء التي هي مدارة القلب |
+| فصل في حرف الميم فصل في حرف النون | من باب الصغير |
+| فصل في حرف السين | فصل في معرفة حربة حنيثا الملك |
+
+**English:**
+— 12 —
+
+| Page | Page |
+| :--- | :--- |
+| In mentioning the mothers that comprise the eight letters | Chapter on the letter ʿAyn |
+| 328 | The thirty-third chapter in the explanation of the secrets | Chapter on the letter Fāʾ |
+| The circle of encompassing, known as the circle, نظم in explanation of | Chapter on the letter Ṣād |
+| the secrets of the Greatest Name and what appeared from it of | 353 | Chapter on the letter Qāf |
+| the foundations and the differentiations | Chapter on the letter Rāʾ |
+| 330 | Chapter: know that the letter Alif is the manifestation of the command | Chapter on the letter Shīn |
+| 335 | And this is the description of the comprehensive tablet of the letters as you see | Chapter on the letter Tāʾ Chapter on the letter Thāʾ |
+| 342 | Chapter in the knowledge of the jafr which Imam | Chapter on the letter Ḥāʾ |
+| Jaʿfar al-Ṣādiq, may God be pleased with him, mentioned | Chapter on the letter Dhāl |
+| 343 | Chapter in the knowledge of Imam Jaʿfar al-Ṣādiq | Chapter on the letter Ḍād |
+| as I took it from the breasts of the knowers | 354 | Chapter on the letter Ẓāʾ |
+| 345 | The thirty-fourth chapter in the knowledge of the science | Chapter on the letter Ghayn |
+| of the zāyirjah and its manner and the knowledge of eliciting the proportions | Chapter on breaking the zodiacal signs |
+| of the letters and the zodiacal signs and the lunar mansions and the scales | 355 | Chapter on the manner of eliciting the stars |
+| witnessed | and the hours |
+| 350 | Chapter on eliciting the letters and the wafqs | 356 | Chapter: if you want to dispose in bringing an animal |
+| and the properties of that in detail, then you say | 360 | Chapter in the knowledge of the ascendant of the time |
+| Chapter on the letter Alif Chapter on the letter Bāʾ | 361 | Chapter in it: the knowledge of extracting incense and its manner |
+| Chapter on the letter Jīm | Chapter in mentioning the scales and their manner |
+| Chapter on the letter Dāl | 363 | The thirty-fifth chapter in the hidden |
+| 351 | Chapter on the letter Hāʾ | letter-ness by the jafrī rules |
+| Chapter on the letter Wāw | 365 | Chapter in the knowledge of the doors of speech by speech |
+| Chapter on the letter Zāy | Tāfīṭūrsh |
+| Chapter on the letter Ḥāʾ | 366 | Chapter comprising the explanation of the three doors, namely |
+| Chapter on the letter Ṭāʾ | the greater, the lesser, and the connected |
+| Chapter on the letter Yāʾ | Chapter in the knowledge of the crown of Mīṭrūn, expressed by it |
+| Chapter on the letter Kāf | 367 | Chapter in the knowledge of the crown, what is in it from the small door |
+| 352 | Chapter on the letter Lām | Chapter on the names that are the orbit of the heart |
+| Chapter on the letter Mīm Chapter on the letter Nūn | from the small door |
+| Chapter on the letter Sīn | Chapter in the knowledge of the spear of Ḥanīthā the king |
+
+--- PAGE 595 TRANSLATION ---
+
+---
+## Page 596
+
+**Arabic (original):**
+— ١٣ —
+
+صحيفة | صحيفة
+٣٦٧ فصل في معرفة ما في من باب المتصل | ٣٧٨ فصل في معرفة الحجر المكرم وماله من
+فصل في معرفة أسماء الملائكة وكلمة الشمس | الخواص والأسرار الخ
+فصل في معرفة حرف عزرائيل | ٣٨٠ فصل في ذكر النصف الثاني من العمل
+٣٦٩ صفة كلام السر وجوابه ومخرجه الخ | فصل في ذكر رسالة كتبها فيلسوف إلى
+تفسير باب الصغير | تلميذه حين سأله عن الحجر المكرم
+تفسير باب المتصل باب الكبير | فكتب له بسم الله الرحمن الرحيم
+٣٧٠ هيكل كرسي سليمان بن داود وهو المتعالي | فصل منه آخر زيادة بيان وتفصيل
+باب في معرفة أسماء الله تعالى بهذه الستة | ٣٨٦ صفة عمل غير الأول من الحجر
+أحرف مصوبة ومقلوبة | يقال لها الخواني
+٣٧١ حروف باب الصغير | ٣٨٧ صفة استنزال المريخ لهذه الطريقة
+كتاب شرح زوايا الزهرة | ٣٨٩ صفة عمل التنكار
+٣٧٢ الفصل السادس والثلاثون في الفيض الرباني | صفة تكليس المريخ
+والنور الشعشاني الخ | ٣٩٠ القول في القامي وتكليس
+باب في ذكر فضائل الصنعة | الفصل السابع والثلاثون في أعمال السيميا
+
+( فهرست الجزء الرابع من كتاب شمس المعارف الكبرى )
+
+٣٩٨ الفصل الثامن والثلاثون في استخدام | حرف الميم وهو ٣ عوالم الملك
+الحروف وخلواتها ولها من الأسرار | ٤٠٨ حرف النون نور في
+٤٠٠ حرف الباء وهو حرف بارد يابس | ٤٠٩ حرف السين يابس
+٤٠١ حرف الجيم وهو حرف بارد رطب | حرف العين بارد رطب
+٤٠٢ حرف الدال وهو بارد رطب | ٤١٠ حرف الفاء وهو حار رطب
+٤٠٣ حرف الهاء وهو هوائي له الهوية | ٤١١ حرف الصاد هو من حروف الاسم الأعظم
+حرف الواو وهو حرف وألف | ٤١١ حرف القاف
+٤٠٤ حرف الزاي وهو حرف بارد رطب | ٤١٢ حرف الراء ارز في الدرجة
+حرف الحاء هو من أسرار الحياة | حرف الشين للصلح بين المتباغضين
+٤٠٥ حرف الطاء هو مجمع الحرارتين | ٤١٣ حرف الثاء طبعه الموت
+٤٠٦ حرف الياء ناري | حرف الظاء نافع للحميات
+حرف الكاف | ٤٠٤ حرف الخاء وهو مائي بارد يابس
+٤٠٧ حرف اللام حرف تعريف | حرف الضاد وهو عذب لمن استطعمه
+
+**English:**
+— 13 —
+
+Page | Page
+367 Chapter in the knowledge of what is in from the connected door | 378 Chapter in the knowledge of the honored stone and what is of it
+Chapter in the knowledge of the names of the angels and the word of the sun | properties and secrets, etc.
+Chapter in the knowledge of the letter ʿAzrāʾīl | 380 Chapter in mentioning the second half of the work
+369 Description of the speech of the secret and its answer and its outlet, etc. | Chapter in mentioning a letter written by a philosopher to
+Explanation of the small door | his student when he asked him about the honored stone
+Explanation of the connected door, the great door | so he wrote to him: In the name of God, the Merciful, the Compassionate
+370 The structure of the throne of Solomon son of David, and He is the Most High | Chapter from it, another increase in clarification and detail
+A chapter in the knowledge of the names of God تعالى by these six | 386 Description of the operation other than the first of the stone
+letters, upright and inverted | called the khawānī
+371 The letters of the small door | 387 Description of the bringing down of Mars by this method
+Book of the explanation of the corners of Venus | 389 Description of the operation of the tinkār
+372 The thirty-sixth chapter in the divine effusion | Description of the calcination of Mars
+and the radiant light, etc. | 390 The القول on the qāmī and calcination
+A chapter in mentioning the virtues of the craft | The thirty-seventh chapter in the works of simiyāʾ
+
+(Index of the fourth part of the Book Shams al-Maʿārif al-Kubrā)
+
+398 The thirty-eighth chapter in the use of | The letter Mīm, and it is 3 worlds of the kingdom
+the letters and their seclusions, and there are for them of the secrets | 408 The letter Nūn is light in
+400 The letter Bāʾ, and it is a cold, dry letter | 409 The letter Sīn is dry
+401 The letter Jīm, and it is a cold, moist letter | The letter ʿAyn is cold, moist
+402 The letter Dāl, and it is cold, moist | 410 The letter Fāʾ, and it is hot, moist
+403 The letter Hāʾ, and it is airy, having identity | 411 The letter Ṣād is from the letters of the Greatest Name
+The letter Wāw, and it is a letter and ألف | 411 The letter Qāf
+404 The letter Zāy, and it is a cold, moist letter | 412 The letter Rāʾ is rice in degree
+The letter Ḥāʾ is from the secrets of life | The letter Shīn is for reconciliation between those at enmity
+405 The letter Ṭāʾ is the gathering place of the two heats | 413 The letter Thāʾ, its nature is death
+406 The letter Yāʾ is fiery | The letter Ẓāʾ is beneficial for fevers
+The letter Kāf | 404 The letter Khāʾ, and it is watery, cold, dry
+407 The letter Lām is a letter of definition | The letter Ḍād, and it is sweet to whoever asks for it
+
+---
+## Page 597
+
+**Arabic (original):**
+— ١٥ —
+
+٤٧٤ فصل في اسمه الوكيل
+٤٧٥ فصل في اسمه القوي
+٤٧٦ فصل في اسمه المتين
+٤٧٦ فصل في اسمه الولي ٤٧٧ فصل في اسمه الحميد
+٤٧٨ فصل في اسمه المحصي فصل في اسمه المبدئ
+فصل في اسمه المعيد
+٤٧٩ فصل في اسمه المحيي المميت
+٤٨٠ فصل في اسمه الحي
+٤٨١ فصل في اسمه القيوم
+٤٨٢ فصل في اسمه الواجد
+٤٨٣ فصل في اسمه الماجد
+فصل في اسمه الواحد الأحد
+٤٨٥ فصل في اسمه القادر المقتدر
+٤٨٦ فصل في اسمه المقدم المؤخر
+٤٨٧ فصل في اسمه الأول الآخر
+٤٨٩ فصل في اسمه الظاهر الباطن
+٤٩١ فصل في اسمه الوالي المتعال
+فصل في اسمه البر ٤٩٣ فصل في اسمه التواب
+فصل في اسمه المنتقم
+٤٩٤ فصل في اسمه العفو
+فصل في اسمه الرؤوف
+٤٩٥ فصل في اسمه مالك الملك ذو الجلال والإكرام
+٤٩٨ فصل في اسمه المقسط
+٤٩٩ فصل في اسمه الجامع
+٥٠٠ فصل في اسمه الغني المغني
+فصل في اسمه المانع
+٥٠٣ فصل في اسمه الضار النافع
+٥٠٤ فصل في اسمه النور
+٥٠٥ فصل في اسمه الهادي
+٥٠٦ فصل في اسمه البديع
+٥٠٧ فصل في اسمه الباقي
+٥٠٨ فصل في اسمه الوارث فصل في اسمه الرشيد
+
+٥٠٩ فصل في اسمه الصبور
+٥١٠ الفصل الأربعون في الأدعية المستجابة
+المدعو بها في سائر الأوقات
+٥١٥ فصل وهذه جملة من أسماء الله للهيبة
+والجبروت
+وهذا دعاء عظيم
+٥١٨ فصل وأما أسماؤه العفو والغفور والغفار
+فيصلح لدفع المؤلم
+٥٢٠ وهذه دعوة عظيمة تقول يا من وجوده
+أصل لكل موجود
+٥٢١ وهذا دعاء عظيم لكل مهم تقول
+٥٢٣ فصل في تصريف العلويات في الأجسام
+البشريات
+٥٢٤ فصل في تصريف الحروف العلويات
+في الأجسام البشريات والأعداد
+الروحانيات في الأرواح البشريات
+٥٢٦ فصل في ذكر مربعات مخصوصة بمنافع
+فصل ومن كان له عدو وأراد إطفاء ناره المأخذ
+٥٣٠ خاتمة في ذكر مشايخنا رحمهم الله تعالى
+وقدس أرواحهم آمين
+
+فهرست مجموعة أربع رسائل
+٥٣٨ رسالة ميزان العدل في مقاصد أحكام الرمل
+٥٣٩ المقصد الأول في شأن هذا العلم
+المقصد الثاني في مبحث موضوعه
+٥٤٠ المقصد الثالث في بيوت الرمل
+المقصد الرابع في أشكال البيوت
+المقصد الخامس في مدلولات البيوت
+٥٤١ المقصد السادس في أحكام البيوت
+المقصد السابع في أقسام البيوت
+المقصد الثامن في مناظرات البيوت
+٥٤٢ المقصد التاسع في سواقط المناظرة
+المقصد العاشر في مطالبات البيوت
+
+---
+## Page 598
+
+**Arabic (original):**
+— ١٦ —
+
+المقصد الحادي عشر في أدلة شواهد البيوت
+المقصد الثاني عشر في تسكين دائرة الرمل
+٥٤٣ المقصد الثالث عشر في تسكين المناظرات
+٥٤٤ المقصد الرابع عشر في مضمون الرمل
+٥٤٥ المقصد الخامس عشر في شروط عمال الرمل
+٥٤٦ المقصد السادس عشر فيما ينبغي تلاوته عند العمل
+المقصد السابع عشر في كيفية وضع العمل
+المقصد الثامن عشر في استخراج أشكال الرمل
+٥٤٧ المقصد التاسع عشر في تمثيل ذلك
+المقصد العشرون في حقيقة الاستخراج
+المقصد الحادي والعشرون في مسائل عمل الرمل
+المقصد الثاني والعشرون في أحكام الضمير
+٥٤٨ المقصد الثالث والعشرون في حكم المطلوب في الرمل
+المقصد الرابع والعشرون في أحكام المطلوب
+المقصد الخامس والعشرون في خفاء شكل
+المطلوب
+المقصد السادس والعشرون في حكم
+الاستدلال في الرمل
+٥٤٩ المقصد السابع والعشرون في خصوصيات
+الأشكال في الرمل
+المقصد الثامن والعشرون في خصوصيات
+أحكام الأشكال
+٥٥٠ المقصد التاسع والعشرون في تسكين الرمل
+المتمم للاثنين
+البيت الأول شكل الأحيان
+البيت الثاني شكل القبض الداخل
+البيت الثالث شكل القبض الخارج
+البيت الرابع شكل الجماعة
+٥٥١ البيت الخامس شكل الحودلة
+البيت السادس شكل عقلة
+البيت السابع شكل الانكيس
+البيت الثامن شكل الحمرة
+
+البيت التاسع شكل البياض
+البيت العاشر شكل النصرة الخارجة
+البيت الحادي عشر شكل النصرة الداخلة
+البيت الثاني عشر شكل العتبة الخارجة
+البيت الثالث عشر شكل العتبة الداخلة
+البيت الرابع عشر شكل الصديق
+البيت الخامس عشر شكل الاجتماع
+٥٥٢ البيت السادس عشر شكل في الحد
+رسالة فواتح الرغائب في خصوصيات
+أوقات الكواكب
+٥٥٣ خطبة الكتاب ٥٥٣ كوكب القمر
+٥٥٣ كوكب عطارد كوكب الزهرة
+كوكب الشمس كوكب المريخ
+٥٥٧ كوكب المشتري كوكب زحل
+رسالة زهر المروج في دلائل البروج
+٥٥٨ خطبة الكتاب البرج الأول الحمل
+٥٥٩ البرج الثاني الثور
+٥٦٠ البرج الثالث الجوزاء البرج الرابع السرطان
+٥٦١ البرج الخامس الأسد
+البرج السادس السنبلة البرج السابع الميزان
+البرج الثامن العقرب البرج التاسع القوس
+٥٦٤ البرج العاشر الجدي البرج الحادي عشر الدلو
+٥٦٥ البرج الثاني عشر الحوت
+٥٦٦ رسالة لطائف الإشارة في خصائص
+الكواكب السيارة ٥٦٨ كوكب زحل
+٥٦٩ كوكب المشتري كوكب المريخ
+٥٧٠ كوكب الشمس ٥٧١ كوكب الزهرة
+٥٧٢ كوكب عطارد
+٥٧٣ تذييل وتكميل الإقليم الأول
+٥٧٤ الإقليم الثاني الإقليم الثالث
+الإقليم الرابع الإقليم الخامس
+الإقليم السادس ٥٧٥ الإقليم السابع
+
+( تمت )
+
+**English:**
+— 15 —
+
+474 Chapter on his name al-Wakil
+475 Chapter on his name al-Qawi
+476 Chapter on his name al-Matin
+476 Chapter on his name al-Wali 477 Chapter on his name al-Hamid
+478 Chapter on his name al-Muhsi Chapter on his name al-Mubdi'
+Chapter on his name al-Mu'id
+479 Chapter on his name al-Muhyi al-Mumit
+480 Chapter on his name al-Hayy
+481 Chapter on his name al-Qayyum
+482 Chapter on his name al-Wajid
+483 Chapter on his name al-Majid
+Chapter on his name al-Wahid al-Ahad
+485 Chapter on his name al-Qadir al-Muqtadir
+486 Chapter on his name al-Muqaddim al-Mu'akhkhir
+487 Chapter on his name al-Awwal al-Akhir
+489 Chapter on his name al-Zahir al-Batin
+491 Chapter on his name al-Wali al-Muta'al
+Chapter on his name al-Barr 493 Chapter on his name al-Tawwab
+Chapter on his name al-Muntaqim
+494 Chapter on his name al-'Afuww
+Chapter on his name al-Ra'uf
+495 Chapter on his name Malik al-Mulk Dhu al-Jalal wa-al-Ikram
+498 Chapter on his name al-Muqsit
+499 Chapter on his name al-Jami'
+500 Chapter on his name al-Ghani al-Mughni
+Chapter on his name al-Mani'
+503 Chapter on his name al-Darr al-Nafi'
+504 Chapter on his name al-Nur
+505 Chapter on his name al-Hadi
+506 Chapter on his name al-Badi'
+507 Chapter on his name al-Baqi
+508 Chapter on his name al-Warith Chapter on his name al-Rashid
+
+509 Chapter on his name al-Sabur
+510 The fortieth chapter in the answered supplications
+invoked with in all times
+515 Chapter and this is a total of names of God for awe
+and might
+and this is a عظیم supplication
+518 Chapter and as for His names al-'Afuww, al-Ghafur, and al-Ghaffar
+it is suitable for دفع the painful
+520 And this is a عظیم invocation, you say: O He whose existence
+is a أصل for every existent
+521 And this is a عظیم supplication for every important matter, you say
+523 Chapter on the disposition of the upper things in the bodies
+of the human beings
+524 Chapter on the disposition of the letters, the upper things
+in the bodies of the human beings and the numbers
+the spiritual things in the spirits of the human beings
+526 Chapter in mentioning squares specified with benefits
+Chapter and whoever has an enemy and desired to extinguish his fire, the taking
+530 Conclusion in mentioning our shaykhs, may God تعالى have mercy upon them
+and sanctify their spirits, amen
+
+Index of a collection of four treatises
+538 Treatise Mizan al-'Adl in the objectives of the rulings of Raml
+539 The first objective concerning the matter of this science
+The second objective in the discussion of its subject
+540 The third objective in the houses of Raml
+The fourth objective in the forms of the houses
+The fifth objective in the significations of the houses
+541 The sixth objective in the rulings of the houses
+The seventh objective in the divisions of the houses
+The eighth objective in the oppositions of the houses
+542 The ninth objective in the fallen of the opposition
+The tenth objective in the demands of the houses
+
+---
+## Page 599
+
+**Arabic (original):**
+خارجة
+الداخلة
+الخارجة
+الباطنة
+صديق
+الاجتماع
+الخ.
+خصوصات
+
+كوكب القمر
+كوكب الزهرة
+كوكب المريخ
+كوكب المشتري
+كوكب زحل
+البروج
+ج الأول الحمل
+
+توابع لسرطان
+
+جاسه الميزان
+والثامن القوس
+حادي عشر الدلو
+
+في خصائص
+كوكب زحل
+كوكب المريخ
+كوكب الزهرة
+
+إقليم الأول
+إقليم الثالث
+إقليم الخامس
+إقليم السابع
+
+**English:**
+outward
+the inward
+outward
+the inward
+friend
+the conjunction
+etc.
+peculiarities
+
+the moon planet
+the planet Venus
+the planet Mars
+the planet Jupiter
+the planet Saturn
+the zodiacal signs
+the first, Aries
+
+appendages to Cancer
+
+Jasah al-Mizan
+and the eighth, Sagittarius
+eleventh, Aquarius
+
+in the properties of
+the planet Saturn
+the planet Mars
+the planet Venus
+
+the first region
+the third region
+the fifth region
+the seventh region
+
+---
+## Page 600
+
+**Arabic (original):**
+القدس
+المقدس
+
+البيت الـ
+
+**English:**
+al-Quds
+al-muqaddas
+
+al-bayt al-
+
+---
+## Page 601
+
+**Arabic (original):**
+---
+There is no visible Arabic text on this page.
+---
+
+**English:**
+---
+There is no visible Arabic text on this page.
+---
+
+---
+## Page 602
+
+**Arabic (original):**
+DATE DUE
+
+DUE | RETURNED
+--- | ---
+DEC 21 1990 | 
+JAN 18 1991 | 
+FEB 2 1991 | 
+FEB 18 1991 | rec'd Mar 5 paid
+MAR 19 1991 | 
+
+NO 306
+
+**English:**
+DATE DUE
+
+DUE | RETURNED
+--- | ---
+DEC 21 1990 | 
+JAN 18 1991 | 
+FEB 2 1991 | 
+FEB 18 1991 | rec'd Mar 5 paid
+MAR 19 1991 | 
+
+NO 306
+
+---
+## Page 603
+
+**Arabic (original):**
+لا يوجد نص في هذه الصفحة.
+
+**English:**
+There is no text on this page.
+
+---
+## Page 604
+
+**Arabic (original):**
+(لا يوجد نص مرئي)
+
+**English:**
+(No text visible)
+
+---
+_End of translation — 604 pages._
