@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 419 translated pages._
+_Auto-generated from 422 translated pages._
 
 ---
 ## Page 1
@@ -24104,4 +24104,218 @@ the nature in the soul, and made the sun obedient to what it was drawn to by the
 for the stirring of the fire of my longing by the secret of the nature of motion in the heart. Answer, O al-Mariyā, servant of the letter Thā’, by the right of Fāliq al-ḥabb
 
 ---
-_End of translation — 419 pages._
+## Page 420
+
+**Arabic (original):**
+- ٤١٤ -
+ط با
+
+والشمس والقمر حسبانا ذاك تقدير العزيز العليم والاضمار الاضمار ايها
+الخادم حمائيل بحق ليا كيد يلدوس طعت امما أمره الح وادخل الخلوة واطلبه يقض حاجتك
+( حرف الحاء ) وهو مائي بارد يابس واذا كتب على شقفة نية مع الاضمار معكوسا وخلتها في ماء
+سارب ودفنتها في مكان المجتمعين على المعاصى تفرقوا واذا كتب فلوح من رصاص ودفن في مكان
+تعطل عنه البيع واذا كتبته على اصابعك وتلوت عليه الاضمار وقلت بافلان خف وافتح كفك فانه
+يخافك وهذه صفته
+ودعوته البسملة خلصني الله من كل هموم الدنيا الدنية وخذ بناصيتي الى
+الخيرات ياخفى أنت الخفى ياعلم خفى الامر وهو عالم به أسئلك بخير مما في
+الضمائر أنلنى السعادة وولنى الارشاد في أمرى ياخبير أسئلك ان تكسونى نورا
+اشهد به على سر الحاء حتى أقضى حاجتي ياخبير هيا ٣ العجل عجل ياحاء بالخاتم
+الحامونى خيوم أسألك أن تمدنى بخادم حرف الحاء وتجير من خلقك يامن يعلم السر وأخفى الله لااله
+الا هو له الاسماء الحسنى و بالف لاحول ولاقوة الا بالله العلى العظيم واضمار اجب بحق هو طيال عيوط
+الا وكس وكس خخج ٢ خفج ياهيوه الوحا العجل الساعة وله تأثير لما تريد ( حرف الذال ) وهو
+عذب لمن استطعمه وعذب لمن أردته فاذا أردت تهيجا اكتبه على خرقة حرير أبيض مع اسم
+المطلوب وأمه والقمر في الحرف ثم تشعل في سراج جديد باسم المطلوب واتل الاضمار فانه يحضر واذا
+اردت تخييل عقل انسان اكتب الحروف والاضمار على صورة من تريد وألقه في داره فانه يفسد عقله
+ولاطفاء الغضب ودفع العطش وقلة التعب يكتب ويحمل ان أردت استخدامه ادخل الخلوة واتل
+الدعوة دركل صلاة ١٠٠ مرة يحضر الخادم خذ عليه العهد وصرفه فما تريد ومهما اردت فعلت
+بهذا الحرف وهذه صورته
+وهذه الدعوة بسم الله الرحمن الرحيم لذذن اللهم اسألك يارب تذللت
+بين يديك تذلل العبد المفتقر بن بالحاجات اليك والذذت باسمائك تلذذ آلأنك
+في سرى وجهرى اللهم سخر لى خادم هذا الحرف بحق هذه الاسماء هو هي اهياه
+يموه ولاحول ولاقوة الا بالله العلى العظيم ( حرف الضاد ) وهو حرف باد يابس من كتبه على خرقة
+حرير والاضمار معه وحملها يكون مهابا مقبول أقول واذا كتب عده بشحم فنفذ ودفن تحت عتبة
+من تريد فان القمل والبراغيث والبق والضفادع يجتمع عليه من كل جانب فاذا أردت حرقا يقا في
+مكان تأمره بعد ذلك فانه يفعل واذا تلوت هذه الدعوة على مصاب فان العون يحترق
+وهذه صفة الخاتم
+( حرف الظاء ) يتصرف كالطاء واذا كتب على عود الدفلة بشحم قـ ـفذ
+ودفن في مكان اجتمعت عليه الهوام المؤذية واذا كتب وعلق على الاطفال
+أمنوا من الآفات واذا كتب فلوح من رصاص مع الاضمار معكوسا ووضع
+في بيت تفرق أهله وله خلوة وتلاوة الدعوة ٣٠٠ مرة فاذا حضر الخادم خذ
+عليه
+
+**English:**
+- 414 -
+T ba
+
+And the sun and the moon by calculation; that is the ordaining of the Mighty, the Knowing. And the concealment, the concealment, O
+servant Hamā’īl, by the right of Liyā Kīd Yildūs Ta‘t Ummā Amruhu al-Ḥ and enter the seclusion and ask him, he will fulfill your need.
+(The letter ḥā’) and it is watery, cold, dry; and if it is written on a piece of pottery with the concealment reversed and you leave it in flowing water
+and bury it in a place where those gathered upon acts of disobedience are, they will disperse; and if it is written on a sheet of lead and buried in a place
+where selling is suspended from it; and if you write it on your fingers and recite over it the concealment and say, “O so-and-so, be afraid and open your palm,” then he
+will fear you. And this is its description.
+And its invocation: the basmala, “May God deliver me from all the concerns of the base world and take me by my forelock to
+the good things, O Hidden One, You are the Hidden, O Knower of the hidden matter, and He is Knowing of it. I ask You by what is better than what is in
+the consciences: grant me happiness and appoint me to guidance in my affair, O Expert. I ask You to clothe me in a light
+by which I may bear witness to the secret of ḥā’ until I fulfill my need, O Expert. Come quickly, 3, come quickly, O ḥā’ by the seal
+al-ḥāmūnī khiyūm. I ask You to extend to me a servant of the letter ḥā’ and to grant me refuge from Your creation, O You who knows the secret and what is more hidden. God, there is no god
+but He; to Him belong the most beautiful names; and with a thousand, there is no might and no power except by God, the High, the عظیم. And the concealment: answer by the right of Hu, ṭiyāl, ‘uyūṭ
+alā, waks, waks, khkhj 2, khfj, yā hiyūh, al-wuḥā, come quickly, the hour. And it has an effect for what you want. (The letter dhāl) and it is
+sweet to one who asks to taste it, and sweet to one whom you desire; so if you want arousal, write it on a scrap of white silk with the name
+of the sought one and his mother, and the moon in the letter, then light it in a new lamp in the name of the sought one and recite the concealment, for he will come. And if
+you want to delude a person’s mind, write the letters and the concealment on the image of whom you want and cast it into his house, for it will corrupt his mind.
+And for extinguishing anger and دفع thirst and little fatigue, it is written and carried. If you want to use it, enter the seclusion and recite
+the invocation, drkl, every prayer 100 times; the servant will come. Take the covenant from him and dismiss him for whatever you want, and whatever you want will be done
+by this letter. And this is its form.
+And this invocation: In the name of God, the Merciful, the Compassionate. Ladhdhan, O God, I ask You, my Lord; I have humbled myself
+before You, the humbling of the needy servant with needs to You, and I have taken delight in Your names, taking delight because You
+in my secret and my open. O God, subdue for me the servant of this letter by the right of these names: Hu, Hi, Ahiyāh,
+Yamūh. And there is no might and no power except by God, the High, the عظیم. (The letter ḍād) and it is a letter, cold, dry; whoever writes it on a scrap of
+silk and the concealment with it and carries it, it will be revered, accepted, I say. And if it is written, its number, with fat and it is carried and buried under the threshold
+of whom you want, then lice, fleas, bedbugs, and frogs gather upon him from every side. So if you want a burning that remains in
+a place, command him after that, for he will do it. And if you recite this invocation over one afflicted, then the helper will burn.
+And this is the description of the seal.
+(The letter ẓā’) it acts like ṭā’; and if it is written on a oleander branch with fat, it is
+buried in a place upon which harmful vermin have gathered; and if it is written and hung upon children,
+they are safe from afflictions; and if it is written on a sheet of lead with the concealment reversed and placed
+in a house, its people will be dispersed. And it has a seclusion and the recitation of the invocation 300 times; so if the servant comes, take
+from him
+
+---
+## Page 421
+
+**Arabic (original):**
+- ٤١٥ -
+عليه العهد والميثاق وصرفه فيما تريد وهو في الهلاك يتصرف في الخسف والقتل والهلاك
+وغيره وهذه صورته
+ودعوته بسم الله الرحمن الرحيم ظهرت قدرتك اللهم في الآفاق وحصل
+من ظهر على الاشفاق وضل من ظهر بالاضداد والانداد أسئلك
+اللهم بما أودعت أنبياءك وأولياءك من الالفاظ اللطيفة الطاهرة
+العظام أن تظهر لي على كشف سر الظاء حتى أضرب من تظاهر على خلقك بالاذى والفواحش
+لسر الاغراض والدلالة المخالفة الامر هيا ياظاء تمثل لي حتى اراك وأخاطبك أجب بحق من قال أنا الله
+الذي لا اله الا أنا وأسئلك يارب بالأسماء الحسنى هيا ياظاء بحق ياظ وظيعائيل وظور يائيل أظهر
+بالاسرار النورانية والآيات الربانية العجل الوحا اقض حاجتي بحق ألو احد القهار وبالف لاحول ولا
+قوة الا بالله العلي العظيم والاضمار أجب ياهميائيل بحق هميطوش سمدليل سطول نومه ظاظ ظ ٩
+ظ ياه يموه العجل الوحا الساعة (حرف الغين) باردياس اذا كتب ومعه كل اسم أوله غ وكتب
+الحرف عدده في بطاقة وحملت على الرأس حاملها ينال المحبة ويكثر رزقه واذا كتب مع اسم من
+أردت والقمر فيه وتلوت عليه الاضمار ووضع تحت حجر ثقيل فان المعمول له تلحقه النادمة اى
+الناقصة واذا كتب والشمس فيه فان حامله ينال المحبة وله خلوة فاذا دخل الخادم لا تقد سراجا ولا
+غيره واسمه سقيائيل توكاله فها تريد وتلاوة الدعوة ١٢٠ وكذا الاضمار وهذه صورته
+ودعوته البسملة اللهم أغني واكفني شر البلاء وسوء القضاء وغض طرفي واغمرني
+بخيرك يا الله اللهم نورني بنورك الذي نورت به أولياءك وأسعفني بقبول العمل
+وغفران الزلل اللهم ياغيث المستغيثين يا الله هيا خادم حرف الغين أجب وافعل
+كذا بحق هذه الاسماء وبحق اسمه الغفور الرحيم العلي العظيم غلما غ غصوغ أغثني واغمرني
+بكل ما أريد منك ياغفور يا الله يارحيم أجب بالاجابة من غير فتور بما يصير في الليل والنهار من غير
+فتور تهللت الأنوار الغيبيات ٢ أجب ألف لاحول ولا قوة الا بالله العلي العظيم والاضمار أجب يا الملك
+الجليل سلسائيل مطط شهقيع كلك هبوط غنى مغنى حي قيوم الوحا (حرف لا) وهو ليس له نظير في
+التصرف لا يتصرف فيه ما تتصرف فيه الحروف وهذه صورته
+واعلم أن هذه الدعوة وهذا الحرف يصلحان لسائر ما كتب
+له ودعوته البسملة لا اله الا الله محمد رسول الله لا اله الا أنت
+يا الله بعز جنابك فانه لا يخفى عليك شئ في الارض ولا في
+السماء هو الذي يصوركم في الارحام كيف شاء لا اله الا هو العزيز الحكيم أسئلك يارحمن يارحيم
+بحق كلامك القديم وبمحمد عليه السلام سيد المرسلين أن تظهر لي خادم حرف لام ألف لاستضئ
+به نورك على كشف الحجاب بيني وبينك أجب بحق ذي الآلاء والنعماء لا اله الا أنت أغثني ويسر لي
+أمرى يا الله ١١ مرة أنت مقصودى واليك حاجتي يا الله يارب دعوتك فانك أنت الله الذي لا اله
+الا أنت ذلت لك الرقاب وأنت على كل شئ قدير هيا لا تأخر طرفة عين واكشف لي عنك لا لا لا لا لا
+
+**English:**
+- 415 -
+take from him the covenant and the pact and dismiss him for whatever you want, and he, in destruction, acts in sinking, killing, destruction,
+and other than that. And this is its form.
+And its invocation: In the name of God, the Merciful, the Compassionate. Your power has appeared, O God, in the horizons, and there has occurred
+from one who appeared upon apprehension, and one who appeared by opposites and rivals has gone astray. I ask You,
+O God, by what You entrusted to Your prophets and Your saints of the gentle, pure
+great words, that You show me the unveiling of the secret of ẓā’ so that I may strike one who has shown hostility against Your creation with harm and obscenities,
+for the secret of purposes and the indication contrary to the command. Come, O ẓā’, appear to me so that I may see you and address you. Answer by the right of Him who said, “I am God,
+there is no god but I.” And I ask You, my Lord, by the most beautiful names: come, O ẓā’, by the right of yāẓ, waḍī‘ā’īl, waẓūr yā’īl, appear
+by the luminous secrets and the lordly signs. Come quickly, fulfill my need by the right of the One, the Subduer, and with a thousand, there is no might and no
+power except by God, the High, the عظیم. And the concealment: answer, O Hamiyā’īl, by the right of Hamīṭūsh, Samdalīl, Saṭūl, Nūmah, ẓāẓ, ẓ, 9,
+ẓ, yāh, yamūh, come quickly, the hour. (The letter ghayn) Bārdyās; if it is written and with it every name whose beginning is ghayn, and the
+letter’s number is written in a card and carried on the head, its bearer attains love and his provision increases; and if it is written with the name of whom
+you want and the moon in it, and the concealment is recited over it, and it is placed under a heavy stone, then what is worked for him is overtaken by regret, that is,
+the deficient one; and if it is written and the sun is in it, then its bearer attains love, and it has a seclusion. So if the servant enters, do not light a lamp or
+other than it, and its name is Saqiyā’īl, its agency, so what you want, and the recitation of the invocation 120, likewise the concealment. And this is its form.
+And its invocation: the basmala, “O God, enrich me and suffice me against the evil of affliction and the سوء of decree, and lower my gaze and overwhelm me
+with Your good, O God. O God, illuminate me with Your light by which You illuminated Your saints, and grant me success in the acceptance of the work
+and the forgiveness of the slip. O God, O relief of those who seek relief, O God, come, servant of the letter ghayn, answer and do
+thus by the right of these names and by the right of His name, the Forgiving, the Merciful, the High, the عظیم. Ghalmā gh ghasūgh, help me and overwhelm me
+with all that I want from You, O Forgiving, O God, O Merciful, answer with an answer without languor, in what occurs in night and day, without
+languor. The unseen lights have become joyful. 2 Answer, a thousand. There is no might and no power except by God, the High, the عظیم. And the concealment: answer, O King
+the Majestic, Salsā’īl, Maṭṭ, Shahqī‘, Kalk, hubūṭ, ghinā, maġnā, ḥayy, qayyūm, al-wuḥā. (The letter lām) and it has no peer in
+agency; there does not act in it what the letters act in. And this is its form.
+And know that this invocation and this letter are suitable for all that is written
+for it. And its invocation: the basmala, “There is no god but God, Muhammad is the Messenger of God, there is no god but You,
+O God, by the might of Your presence, for nothing in the earth or in
+the heaven is hidden from You. He it is who forms you in the wombs as He wills; there is no god but He, the Mighty, the Wise. I ask You, O Merciful, O Compassionate,
+by the right of Your ancient speech and by Muhammad, upon him السلام, the سيد of the messengers, that You show me the servant of the letter lām alif so that I may be illuminated
+by Your light in the unveiling of the veil between me and You. Answer by the right of the Possessor of bounties and favors: there is no god but You. Help me and make easy for me
+my affair, O God, 11 times. You are my intended one, and to You is my need, O God, my Lord, I have called upon You, for You are God, there is no god
+but You. The necks have humbled themselves to You, and You are powerful over everything. Come, do not delay the blink of an eye, and unveil to me from You: no no no no no
+
+---
+## Page 422
+
+**Arabic (original):**
+- ٤١٦ -
+
+طَلْعَ بَعِيلًا وَسَمِيلًا طَلَافًا فَلَا أَسْرَعَ بِكَذَا بِأَلْفٍ لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ وَالِاسْتِخْدَامُ
+تَدْخُلُ الْخَلْوَةَ وَتَطْلُبُهُ يَحْضُرُ وَمُدَّةُ الْخَلْوَةِ ٢٨ يَوْمًا
+(فَصْلٌ) وَاعْلَمْ أَنَّ جَمِيعَ أَفْعَالِ هَذِهِ الْحُرُوفِ لَا وَقْتَ يَمْنَعُهَا وَلَا حُسْنٌ يَحْجُبُهَا فَإِذَا أَرَدْتَ أَنْ تَدْخُلَ
+خَلْوَةً خُذْ عَدَدَ الْحُرُوفِ وَأَسْقِطْهُ ٣٠٣٠ فَمَا بَقِيَ فَهُوَ أَيَّامُ الْخَلْوَةِ وَإِذَا أَرَدْتَ حَاجَةً مِنَ الْحَوَائِجِ فَانْظُرْ
+إِلَى الْحَاجَةِ وَافْعَلْ مَا تَقَدَّمَ مِثَالُهُ أَرَدْتَ طَرْدَ شَخْصٍ فَاطْلُبْهُ مِنْ حَرْفِ الطَّاءِ وَإِنْ أَرَدْتَ مَحَبَّةً مِنَ الْمِيمِ
+وَعَلَيْكَ بِالتَّقْوَى وَتَرْكِ الْمَآكِلِ الْخَبِيثَةِ وَالْبَسْ ثِيَابًا كُلَّ يَوْمٍ عَلَى الْأَلْوَانِ الَّتِي لِلْكَوَاكِبِ وَإِذَا أَرَدْتَ
+الْخَلْوَةَ اعْمِدْ لِبَيْتٍ طَاهِرٍ وَابْتَدِئْ بِتِلَاوَةِ الدَّعْوَةِ حَتَّى يَظْهَرَ لَكَ النُّورُ وَأَكْثِرْ مِنَ التِّلَاوَةِ فِي أَوْقَاتِ
+اللَّيْلِ وَأْمُرِ الْقِطَّةَ أَنْ تَحْضُرَ إِلَيْكَ فَإِذَا أَتْمَمْتَ أَيَّامَ الْخَلْوَةِ فَاقْرَأْهَا أَقْبَلَتْ عَلَيْكَ مِثْلَ الدُّنْيَا وَتَكْبُرُ حَتَّى
+تَبْقَى مِثْلَ الْقَمَرِ وَتُصَوَّرُ وَتُخَاطِبُكَ وَتَقْضِيَ حَاجَتَكَ * وَهَذِهِ الدَّعْوَةُ الْبَسْمَلَةُ مَا شَاءَ اللَّهُ لَا قُوَّةَ إِلَّا بِاللَّهِ
+الْعَلِيِّ الْعَظِيمِ تَاللَّهِ وَتَاللَّهِ رَاجِعُونَ اللَّهُ رَبِّي اللَّهُ لَا أُشْرِكُ بِهِ شَيْئًا اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُمْ مِنَ الظُّلُمَاتِ
+إِلَى النُّورِ حَسْبِيَ اللَّهُ لَا إِلَهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ بِسْمِ اللَّهِ يَا بَنَا تَبَارَكَ حِيطَانًا يس
+سَقْفُنَا اسْتَعَنَّا بِاللَّهِ عَلَى مَرِّ إِمْدَادِ الْقِطَّةِ هُوَ يَا هُوَ يَسِّرْهَا لِي مَحَلِّي يَا قِطَّةَ الْوُجُودِ وَأَسْأَلُكَ اللَّهَ يَا قَدِيمَ
+الْإِحْسَانِ يَا مُعَلِّلَ الْعِلَلِ يَا أَزَلِيَّ الْأَزَلِ يَا مَنْ يُكَوِّرُ اللَّيْلَ عَلَى النَّهَارِ وَيُكَوِّرُ النَّهَارَ عَلَى اللَّيْلِ أَسْأَلُكَ أَنْ تُسَخِّرَ لِي
+هَذِهِ الْقِطَّةَ وَتَبْسُطَهَا لِي هَيَّا يَا جَامِعَةَ أَصْلِ الْوُجُودِ هَا ٧ يَا مِيَاهُ ٧ هَيَّا هَيُوت ٧ هَيَّا ٧ أَهِيَّه ٧ أَهَاب
+٧ لَاهَاهِي ٧ هَاهَا ٧ يَا هَهَا ٧ أَجِيبِينِي أَيَّتُهَا الصُّورَةُ الْمُجَسَّمَةُ بِعِزَّةِ بَدُوح ٧ حُودُوب ٧ نُوح ٧
+حُو لَحُو يَد ٧ بَرِح ٧ وَحَيُوه ٧ وَدَحْب ٧ بِجُود بَاه ٧ أَجْهَزَطَ الْوَحَا بِمَا فِي اللَّوْحِ مِنَ الْأَسْمَاءِ
+وَبِحَقِّ الْأَسْطُرِ الْأَرْبَعَةِ وَمَا فِيهَا وَبِالْحُرُوفِ الْمُعْجَمَةِ أَجِيبُوا أَيَّتُهَا الْأَرْوَاحُ الرُّوحَانِيَّةُ بِحَقِّ الْبَسْمَلَةِ
+حَتَّهَا وَمَا فِيهَا وَبِالْحُرُوفِ الْمُعْجَمَةِ بَرْهَةَ الْعَظِيمِ مَالِكِ الْمُلْكِ ذُو الْجَلَالِ وَالْإِكْرَامِ قَفْف سَقْفَاطِيس
+فَسَقِينِ بِعِزَّةِ صَالِيَا سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ الْح
+(فَصْلٌ) فِي كَيْفِيَّةِ اسْتِخْدَامِ هَذِهِ الْحُرُوفِ عَلَى وَجْهٍ غَيْرِ الْأَوَّلِ * اعْلَمْ أَيُّهَا الْأَخُ أَنَّ كُلَّ نُطْقٍ وَكُلَّ عِلْمٍ
+فَهُوَ مِنَ الْحُرُوفِ فَإِذَا أَرَدْتَ اسْتِخْدَامَ هَذِهِ الْحُرُوفِ إِلَى الْمَحَبَّةِ وَالْقَبُولِ وَالطَّاعَةِ وَعَقْدِ اللِّسَانِ وَالْجَلْبِ
+وَالتَّرْبِيعِ وَإِبْطَالِ السِّحْرِ وَالرَّجْمِ وَفَتْحِ الْكُنُوزِ وَإِبْطَالِ مَوَانِعِهَا وَكُلِّ مَا يَخْطُرُ بِبَالِكَ مِنَ الْأَحْوَالِ
+وَالْأُمُورِ اعْمِدْ إِلَى مَكَانٍ طَاهِرٍ وَاعْمَلْ فِيهِ ٣ دَوَائِرَ صِيَانَةً مِنَ الْأَرْوَاحِ الْمُتَعَنِّتِينَ وَالْعُمَّارِ ثُمَّ بَعْدَ ذَلِكَ
+تَكْتُبُ الْأَسْمَاءَ اكْشِفُوا لِي قَدْرَ طَاقَتِي بَارَكَ اللَّهُ فِيكُمْ فَإِنَّكَ تَرَى النُّورَ كُلَّ لَيْلَةٍ يَكْبُرُ وَتَسْمَعُ تَسْبِيحَ
+الْأَرْوَاحِ الرُّوحَانِيَّةِ وَفِي ٢١ يَوْمًا يَأْتِيكَ ٤ أَنْفَارٍ يُسَلِّمُونَ عَلَيْكَ وَفِي يَدِ كُلِّ وَاحِدٍ مُصْحَفٌ فَتَقُولُ
+وَالسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ أُرِيدُ مِنْكُمْ أَيُّهَا السَّادَةُ الطَّاعَةَ لِلَّهِ وَلَا أَسْأَلُهُ وَبَعْدَ ذَلِكَ يَظْهَرُ لَكَ ٤ إِلَى
+أَنْ يَظْهَرَ لَكَ ٢٨ مَلَكًا فَعِنْدَ ذَلِكَ تَقْرَأُ أَسْمَاءَ الْمِيثَاقِ وَتَقُولُ أُرِيدُ مِنْكُمُ الْخِدْمَةَ وَقَضَاءَ مَصَالِحِي
+عَلَى مَا يُوَافِقُ الْكِتَابَ وَالسُّنَّةَ فَيَقُولُونَ لَكَ السَّمْعُ وَالطَّاعَةُ مَا دُمْتَ عَلَى الطَّاعَةِ فَإِذَا أَرَدْتَ إِبْطَالَ مَوَانِعِ
+كَنْزٍ قَاتِلِ الْقَسَمِ وَأَمْرِ السَّيِّدِ شَرِيطَايِيلَ وَطُوطَايِيلَ فَإِنَّهُمْ يَحْضُرُ وَفَإِذَا أَرَدْتَ فَتْحَ الْبَابِ اكْتُبِ الْأَضْرَارَ عَلَى
+٤ بَيْضَاتٍ وَتَكَلَّمْ بِالْأَسْمَاءِ الْعَظِيمَةِ وَتَضْرِبُ الْمَكَانَ بِوَاحِدَةٍ بَعْدَ وَاحِدَةٍ وَإِذَا دَخَلْتَ الْخَلْوَةَ مِنْ أَجْلِ
+عَوْنٍ
+
+**English:**
+- 416 -
+
+ṭal‘a ba‘īlan wa samīlan ṭalāfan falā asra‘a bikadhā bi-alfin lā ḥawla wa-lā quwwata illā bi-llāhi al-‘aliyyi al-‘aẓīm wa-al-istikhdām
+tadkhulu al-khalwa wa-taṭlubuhu yaḥḍuru wa-muddatu al-khalwa 28 yawman
+(Faṣl) wa-‘lam anna jamī‘a af‘āli hādhihi al-ḥurūf lā waqt(a) yamna‘uhā wa-lā ḥusn(un) yaḥjibuhā fa-idhā aradta an tadkhula
+khalwatan khudh ‘adada al-ḥurūf wa-asqiṭhu 3030 famā baqiya fahuwa ayyāmu al-khalwa wa-idhā aradta ḥājat(an) mina al-ḥawā’ij fa-nẓur
+ilā al-ḥāja wa-if‘al mā taqaddama mithāluhu aradta ṭarda shakhsin fa-ṭlubhu min ḥarfi al-ṭā’ wa-in aradta maḥabbatan mina al-mīm
+wa-‘alayka bi-al-taqwā wa-tark al-ma’ākil al-khabītha wa-albas thiyāban kulla yawmin ‘alā al-alwān allatī lil-kawākib wa-idhā aradta
+al-khalwa fa‘mid li-baytin ṭāhirin wa-abda’ bi-tilāwati al-da‘wa ḥattā yaẓhara laka al-nūr wa-akthir min al-tilāwa fī awqāti
+al-layl wa-amur al-qiṭṭa an taḥḍura ilayka fa-idhā atmamta ayyāma al-khalwa fa-iqra’ها aqbalat ‘alayka mithla al-dunyā wa-takbaru ḥattā
+tabqā mithla al-qamar wa-tuṣawwaru wa-tu khāṭibuka wa-taqḍiya ḥājataka * wa-hādhihi al-da‘wa al-basmala mā shā’a Allāh lā quwwata illā bi-llāhi
+al-‘aliyyi al-‘aẓīm tāllāhi wa-tallāhi rāji‘ūn Allāhu rabbī Allāhu lā ushriku bihi shay’an Allāhu waliyyu alladhīna āmanū yukhrijuhum mina al-ẓulumāti
+ilā al-nūr ḥasbiyā Allāhu lā ilāha illā huwa ‘alayhi tawakkaltu wa-huwa rabb al-‘arsh al-‘aẓīm bismi Allāhi yā banā tabāraka ḥīṭānan yās
+saqfunā ista‘annā bi-llāhi ‘alā marr imdād al-qiṭṭa huwa yā huwa yassirhā lī maḥallī yā qiṭṭata al-wujūd wa-as’aluka Allāha yā qadīma
+al-iḥsān yā mu‘allila al-‘ilal yā azalīya al-azal yā man yukawwiru al-layla ‘alā al-nahār wa-yukawwiru al-nahār ‘alā al-layl as’aluka an tusakhkhira lī
+hādhihi al-qiṭṭa wa-tabsuṭahā lī hayyā yā jāmi‘ata aṣl al-wujūd hā 7 yā miyāhu 7 hayyā hayūt 7 hayyā 7 ahiyyah 7 ahāb
+7 lāhāhī 7 hāhā 7 yā hahā 7 ajībīnī ayyatuhā al-ṣūra al-mujassama bi-‘izzati badūḥ 7 ḥūdūb 7 nūḥ 7
+ḥū laḥū yad 7 bariḥ 7 wa-ḥayūh 7 wa-daḥb 7 bijūd bāh 7 ajhazaṭa al-wuḥā bimā fī al-lawḥ mina al-asmā’
+wa-bi-ḥaqq al-asṭur al-arba‘a wa-mā fīhā wa-bi-al-ḥurūf al-mu‘jamah ajībū ayyatuhā al-arwāḥ al-rūḥāniyyah bi-ḥaqq al-basmala
+ḥattahā wa-mā fīhā wa-bi-al-ḥurūf al-mu‘jamah barhata al-‘aẓīm mālik al-mulk dhū al-jalāl wa-al-ikrām qafff saqfāṭīs
+fasaqīnī bi-‘izzati ṣāliyā subḥāna rabbika rabb al-‘izza al-ḥ
+(Faṣl) fī kayfiyyat istikhdām hādhihi al-ḥurūf ‘alā wajh ghayr al-awwal * i‘lam ayyuhā al-akh anna kulla nuṭq wa-kulla ‘ilm
+fahuwa mina al-ḥurūf fa-idhā aradta istikhdām hādhihi al-ḥurūf ilā al-maḥabba wa-al-qabūl wa-al-ṭā‘a wa-‘aqd al-lisān wa-al-jalb
+wa-al-tarbī‘ wa-ibṭāl al-siḥr wa-al-rajm wa-fatḥ al-kunūz wa-ibṭāl mawāni‘ihā wa-kull mā yakhṭuru bibālika mina al-aḥwāl
+wa-al-umūr i‘mid ilā makān ṭāhir wa-‘mal fīhi 3 dawā’ira ṣiyānan mina al-arwāḥ al-muta‘annitīn wa-al-‘ummār thumma ba‘da dhālika
+taktubu al-asmā’ akshifū lī qadr ṭāqatī bāraka Allāhu fīkum fa-innaka tarā al-nūr kulla layla yakbaru wa-tasma‘u tasb
+
+---
+_End of translation — 422 pages._
