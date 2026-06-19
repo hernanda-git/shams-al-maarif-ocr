@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 452 translated pages._
+_Auto-generated from 458 translated pages._
 
 ---
 ## Page 1
@@ -25781,4 +25781,319 @@ Know that Allah تعالى, if He desires to complete the composition by His nam
 PAGE 452 TRANSLATION ---
 
 ---
-_End of translation — 452 pages._
+## Page 453
+
+**Arabic (original):**
+— ٤٤٧ —
+
+جِيلَ يَوْمَ الْبَعْثِ جَزَاءً ثُمَّ ادْعُهُ يَأْتِينَكَ سَعْيًا ۞ وَاعْلَمْ أَنَّ اللَّهَ عَزِيزٌ حَكِيمٌ فَلَمَّا نَظَرَ إِبْرَاهِيمُ بِنُورِ الْفِطْرَةِ
+فَوَجَدَ الْعَالَمَ كُلَّهُ مُرَكَّبًا مِنْ هَذِهِ الْأَطْوَارِ وَمُقَامًا بِهَذِهِ الْأَسْمَاءِ وَظَهَرَ لَهُ حَقُّ الْيَقِينِ فَأَرَاهُ اللَّهُ بَعْدَ
+ذَلِكَ عَجَائِبَ الْمَلَكُوتِ كَقَوْلِهِ تَعَالَى وَكَذَلِكَ نُرِي إِبْرَاهِيمَ مَلَكُوتَ السَّمَاوَاتِ وَالْأَرْضِ وَتِلْكَ الصُّوَرُ
+الْإِنْسَانِيَّةُ وَالْفِطْرِيَّةُ هِيَ حَقَائِقُ الشُّهُودِ وَأَسْرَارُ الْوُجُودِ فَمِنْ كَمَالِ مَعَارِفِ أَسْمَاءِ الذَّاتِ كَانَ مَقَامُهُ
+يُبَقِّي الْمَقَامَاتِ كَالشَّمْسِ لِلْكَوَاكِبِ يَسْتَمِدُّونَهُ لِلنَّاسِ فِي مَقَامِ مَعَانِي أَسْمَاءِ الصِّفَاتِ كَانَ كَالْبَدْرِ
+بَيْنَ الْكَوَاكِبِ يَسْتَمِدُّونَهُ ۞ وَاعْلَمْ أَنَّ الْكَوَاكِبَ يُضِيءُ مِنْهَا عَلَى بَعْضٍ وَلَا يُضِيءُ مِنْهُ وَإِنْ قَطَعَ
+عَالَمَ الْأَسْمَاءِ الْمُتَضَمِّنَةَ لِلْأَفْعَالِ كَأَنَّ الْكَوَاكِبَ مِنْهَا مَا هُوَ أَعْظَمُ يُقْتَدَى بِهِ وَمِنْهَا مَا هُوَ صَغِيرٌ لَا يُقْتَدَى
+بِهِ وَتَفَاوُتُهُمْ فِي مَقَامَاتِهِمْ كَتَفَاوُتِ الْكَوَاكِبِ النَّيِّرَةِ مِنَ الْمُتَحَيِّرَةِ وَلِذَلِكَ الْخَلَائِقُ يُحْشَرُونَ إِلَى اللَّهِ
+فَمِنْهُمْ مَنْ يَجُوزُ عَلَى الصِّرَاطِ كَالْبَرْقِ الْخَاطِفِ وَمِنْهُمْ مَنْ يَجُوزُ كَأَشَدِّ الرِّجَالِ أَلَا تَرَى إِلَى قَوْلِهِ عَلَيْهِ
+السَّلَامُ يَدْخُلُ الْجَنَّةَ أَوَّلُ زُمْرَةٍ مِنْ أُمَّتِي وُجُوهُهُمْ كَالشَّمْسِ وَالْقَمَرِ لَيْلَةَ الْبَدْرِ إِضَاءَةً ثُمَّ الَّذِينَ يَلُونَهُمْ
+كَأَضْوَإِ الْكَوَاكِبِ فِي السَّمَاءِ فَنُورُ وُجُوهِهِمْ فِي مَنَازِلِهِمْ فِي إِيمَانِهِمْ وَأَعْمَالِهِمْ ۞ وَاعْلَمْ أَنَّ تَجَلِّيَ
+الصُّوَرِ بَاقِي الدَّارَيْنِ قَائِمٌ فِي النَّشْأَتَيْنِ وَلِذَلِكَ كَانَتِ الْفِطْرَةُ مُودَعًا فِيهَا حَقَائِقُ الْأَسْمَاءِ عَلَى الْجُمْلَةِ
+وَالتَّفْصِيلِ أَلَا تَرَى إِلَى الْجَنَّةِ تَظْهَرُ اسْمَهُ الْخَالِقَ لِأَنَّ الْجَنَّةَ لَا نِهَايَةَ لِنَعِيمِهَا أَلَا تَرَى أَنَّ فِي الْجَنَّةِ سُوقًا
+لَيْسَ فِيهَا إِلَّا صُوَرُ الْمَحَالِّ فَمَنْ شَاءَ أَنْ يَطْبَعَ عَلَيْهَا وَلَمَّا كَانَتِ الْفِطْرَةُ الْإِلَهِيَّةُ مَطْبُوعَةً فِي قَوَالِبِ
+الْأَسْمَاءِ لُزُومُ الْبَقَاءِ لِلْإِفْنَاءِ ۞ وَاعْلَمْ أَنَّ نَشْأَةَ الْعَالَمِ قَائِمَةٌ مِنْ أَرْبَعٍ الْمُسَمَّيَاتِ بِالْبَرْزَخِيَّةِ وَهِيَ أَرْبَعٌ
+فَأَوَّلُهَا نَشْأَةُ الْأَزَلِ وَهِيَ بَاطِنَةُ الْعَمَاءِ وَالثَّانِيَةُ نَشْأَةُ الْأَبَدِ وَهِيَ الْهَبَاءُ وَأَوَّلُ مَوْجُودٍ فِيهِ الْحَقِيقَةُ
+الْمُحَمَّدِيَّةُ وَنَشْأَةُ السَّرْمَدِيَّةِ وَهِيَ بَاطِنَةُ الْفِكْرَةِ فَالنَّشْأَةُ الْمُتَّصِلَةُ بِالْعَمَاءِ اعْتِمَادُهَا بِقَوْلِهِ تَعَالَى أَوَلَا يَذْكُرُ
+الْإِنْسَانُ أَنَّا خَلَقْنَاهُ مِنْ قَبْلُ وَلَمْ يَكُ شَيْئًا وَهُوَ الْعَالَمُ الصَّغِيرُ الْمُعَبَّرُ عَنْهُ بِالْإِنْسَانِ وَكُلُّ عَالَمٍ مِنَ الْعَوَالِمِ
+خُلِقَ لِأَجْلِهِ وَهُوَ نَتِيجَةُ الْحَقِّ الْمَعْلُومِ وَهِيَ رُوحُ الْعَالَمِ مُتَحَرِّكَةٌ وَجَمْعُ نَشْأَتِهِ فِي الدُّنْيَا وَالْآخِرَةِ
+لِكُلِّ إِنْسَانٍ مِنَ الْفَرِيقَيْنِ عَلَى النَّصَفِ فِي الْحَالِ إِلَّا فِي الْعِلْمِ لِأَنَّ كُلَّ فِرْقَةٍ عَالِمَةٌ بِنَقْصِ حَالِهَا فَلَيْسَ
+الْإِشَارَةُ إِلَّا لِلْمُؤْمِنِينَ وَالْكَافِرُ مَعَ سَعَادَةٍ وَشَقَاوَةٍ وَنَعِيمٍ وَجَحِيمٍ ۞ وَاعْلَمْ أَنَّ نَشْأَةَ الْأَبَدِيِّ حَقِيقَةُ
+الْهَبَاءِ وَهِيَ مَكْتُوبَةٌ فِي قَوْلِهِ تَعَالَى لَمْ يَكُنْ شَيْئًا مَذْكُورًا ثُمَّ النَّشْأَةُ الثَّالِثَةُ نَشْأَةُ السَّرْمَدِيَّةِ وَهِيَ حَقِيقَةٌ
+فِي الذِّرِّ فِي قَوْلِهِ تَعَالَى أَلَسْتُ بِرَبِّكُمْ قَالُوا بَلَى ثُمَّ النَّشْأَةُ الرَّابِعَةُ قَوْلُهُ فِي الْجَوَابِ وَهِيَ الْمُعَبَّرُ عَنْهَا بِنَشْأَةِ
+الْأَبَدِ فِي حَقِيقَةِ الْفِطْرَةِ فِي قَوْلِهِ تَعَالَى وَنُقِرُّ فِي الْأَرْحَامِ مَا نَشَاءُ وَقَوْلِهِ تَعَالَى هُوَ الَّذِي يُصَوِّرُكُمْ فِي
+الْأَرْحَامِ كَيْفَ يَشَاءُ ( تَنْبِيهٌ ) اعْلَمْ أَنَّ الْمَعْلُومَاتِ أَرْبَعَةٌ الْحَقُّ تَعَالَى وَهُوَ الْمَوْصُوفُ بِالْوُجُودِ الْمُطْلَقِ
+لِأَنَّهُ تَعَالَى لَيْسَ مَعْلُومًا لَا بِشَيْءٍ وَلِأَجْلٍ بَلْ هُوَ مَوْجُودٌ وُجُودُهُ لَيْسَ مَعْلُومًا بِالذَّاتِ لَكِنْ يُعْلَمُ
+مَا سَبَبُ الْبَدْءِ مِنْ صِفَاتِ الْمَعَانِي وَصِفَاتِ الْكَمَالِ وَأَمَّا الْعِلْمُ بِحَقِيقَةِ الذَّاتِ فَمَمْنُوعٌ لَا يُعْلَمُ بِدَلِيلٍ
+وَلَا بِبُرْهَانٍ عَقْلِيٍّ فَإِنَّهُ سُبْحَانَهُ لَا يُشْبِهُ شَيْئًا فَيَكُونُ بِدُونِهِ إِنَّمَا هُوَ لَيْسَ كَمِثْلِهِ شَيْءٌ وَقَدْ وَرَدَ النَّهْيُ فِي
+التَّفَكُّرِ فِي ذَلِكَ وَالْمَعْلُومُ الثَّانِي نَهْيٌ فِي الْحَقِيقَةِ الْكُلِّيَّةِ الَّتِي هِيَ لِلْحَقِّ تَعَالَى وَالْعَالَمُ لَا يَتَّصِفُ بِالْوُجُودِ
+وَلَا بِالْعَدَمِ وَلَا بِالْحُدُوثِ فَهِيَ مُحْدَثَةٌ فَلَا يُعْلَمُ الْمَعْلُومُ أَتَقَدَّمُهَا وَحُدُوثُهَا الْآتِي يُعْلَمُ هَذِهِ الْحَقِيقَةَ
+وَلَا تُوجَدُ هَذِهِ إِلَّا بِوَصْفِ تَحَقُّقِهَا لِأَنَّهَا لَا تَقْبَلُ التَّجَزِّيَ وَمَا فِيهَا كُلٌّ وَلَا تُوصَلُ إِلَى
+
+**English:**
+— 447 —
+
+He was made on the Day of Resurrection as recompense, then call him, he will come to you hastening ۞ And know that Allah is Mighty, Wise. So when Abraham looked with the light of the primordial nature, he found the whole world composed of these stages and established by these names, and the truth of certainty became manifest to him. Then Allah showed him after that the wonders of the ملكوت, as in His saying, exalted is He: “And thus We show Abraham the ملكوت of the heavens and the earth.” And those human and primordial forms are the realities of witnessing and the secrets of existence. So from the perfection of the knowledges of the names of the Essence was his station, he remains the stations, like the sun for the planets; they derive from him for the people. In the station of the meanings of the names of the attributes, he was like the full moon among the planets; they derive from him. ۞ And know that the planets, some of them illuminate upon others and do not illuminate from him. And if he cut off the world of the names that include the acts, as though the planets, among them are those which are greater, followed, and among them are those which are small, not followed. And their disparity in their stations is like the disparity of the shining planets from the wandering ones. And for that the creatures are gathered to Allah; among them is he who passes over the Path like the snatching lightning, and among them is he who passes like the strongest of men. Do you not see to His saying, عليه السلام: “The first group of my الأمة enters Paradise; their faces are like the sun and the moon on the night of the full moon, in brightness, then those who follow them like the brightest of the planets in the sky, so the light of their faces is in their stations in their faith and their deeds.” ۞ And know that the manifestation of the forms, remaining of the two abodes, قائم in the two origins. And for that the primordial nature had deposited in it the realities of the names in general and in detail. Do you not see to Paradise? There appears His name, the Creator, because Paradise has no end to its bliss. Do you not see that in Paradise there is a market in which there is nothing except the forms of the abodes, so whoever wishes to imprint upon it. And when the divine primordial nature was imprinted in the molds of the names, the necessity of remaining for annihilation. ۞ And know that the origin of the world is قائم from four, called the isthmian, and they are four: so its first is the origin of pre-eternity, and it is the inwardness of the cloud; and the second is the origin of eternity, and it is the vapor, and the first existent in it is the Muhammadan Reality; and the origin of sempiternity, and it is the inwardness of thought. So the origin connected to the cloud, its reliance is by His saying, exalted is He: “Does not man remember that We created him before, and he was nothing?” And it is the small world expressed by man, and every world among the worlds was created for his sake, and he is the result of the known truth, and it is the spirit of the world, moving, and the gathering of his origin in the world and the Hereafter for every human being from the two groups is on the half in the state except in knowledge, because every group is knowing of the deficiency of its state, so the indication is only for the believers, and the disbeliever is with felicity and misery and bliss and Hellfire. ۞ And know that the origin of the eternal is the reality of the vapor, and it is written in His saying, exalted is He: “He was not a thing mentioned.” Then the third origin, the origin of sempiternity, and it is a reality in the ذرّ in His saying, exalted is He: “Am I not your Lord? They said: Yes.” Then the fourth origin, His saying in the answer, and it is that which is expressed by the origin of eternity in the reality of the primordial nature in His saying, exalted is He: “And We settle in the wombs what We will,” and His saying, exalted is He: “He it is Who shapes you in the wombs as He wills.” (Notice) Know that the known things are four: the Truth, exalted is He, and He is described by absolute existence, because He, exalted is He, is not known by a thing nor for a purpose, rather He is an existent whose existence is not known in essence, but it is known what is the cause of the beginning from the attributes of meanings and the attributes of perfection. As for knowledge of the reality of the Essence, it is forbidden; it is not known by proof nor by rational demonstration, for He, glorified is He, does not resemble anything, so that it would be by without Him; rather He is “nothing is like unto Him.” And prohibition has come regarding reflection upon that. And the second known is a prohibition in the universal reality which is for the Truth, exalted is He, and the world is not described by existence nor by nonexistence nor by origination, so it is originated; thus the known is not known, is its precedence and its coming origination known? This reality is known, and this is not found except by the description of its realization, because it does not accept division, and there is no whole in it, and it is not reached to
+
+---
+
+---
+## Page 454
+
+**Arabic (original):**
+— ٤٤٨ —
+
+معرفتها بجودة عند التصور ولا بدليل ولا برهان فمن هذه الحقيقة وجد العالم بواسطة الحق
+تعالى فيكون الحق قد أوجدنا من وجود قديم والمعلوم الثالث وهو العالم كله والأملاك والأفلاك
+وما تحويه من العوالم والهواء والأرض وما فيها وهو العالم الأكبر والمعلوم الرابع هو إشارة الخليقة
+قال تعالى: وسخر لكم ما في السموات وما في الأرض جميعا منه، وورد في الأخبار أن الله خلق كل قائمة
+من قوائم العرش عوالم ومخلوقات قدر الدنيا، قال تعالى: وما يعلم جنود ربك إلا هو، وقد ذكرنا
+هذه الإشارات لسلوك المؤمنين في كشف علم التصور فمن كملت فيه حقائق أسمائه وارتقى لفكرة
+في عالم الملكوت فيسلك باسم الصفات ويرتقى بعده إلى سدرة المنتهى فإذا كمل له ذلك بدت له أنوار
+الدين ويطلع على الكشف منه بطول الأسماء واتحادها اسماً بعد اسم لاسمه الباقي وبه سمى ذاته
+واتصف بالبقاء مع أن الحق تعالى جعل عجب الذنب متصلاً بيوم الأزل وقد أشار عليه السلام إلى
+أبي بكر وذكر الحديث وحينئذ هو الصديق حيث قال: لو كشف الغطاء ما ازددت يقيناً، والمتقرب
+بهذا الاسم ينال به كشف الإرادات والتلاوة في الخلوة عدد حروفه ويتلوه كل مرة إلى أن يبلغ
+العدد المذكور يأتيه الخادم صقائيل وهو رئيس على أربعة قواد تحت يد كل قائد ثلثمائة وستة
+وخمسون صفاً من الملائكة ويقضون حاجته ومن خواصه إذا كتب يوم الاثنين وحملته المرأة التي
+تسقط الأولاد فإنها لا تسقط ويكتب حوله اسم الملك وذكره وإذا وافق عدده اسم شخص كان اسماً
+أعظم في حقه يفعل به كأيفعل بالاسم الأعظم وذكره: اللهم أنت المصور للأشكال ومكلف دقائق
+بدائع الأشكال { وهذه صورته }
+ومصور اختيار تصوير المثال المخترع تصاويراً وتراكيبها استللك
+يا مبدع مثالها ومصور الصور العلوية بأشكالها وحقائقها من المليح
+والقبيح والجليل والكل من فعلك أنت مبدع الأرواح مخترع الأجسام
+أسألك بسر إمدادك في العوالم العلوية والسفلية أن تزيل عني الآلام
+والأسقام اللهم أنت المنعم المتفضل أنعمت على المخلوقات بنعمة الإيجاد أسألك بسرهذا السر اللطيف
+أن تمدني برقيقة من رقائقك تكشف لي بها عن حقائق الأشباح الصورية يا خالق يا بارئ يا مصور
+في المساء والصباح ومدني بعوالم هذا الاسم أجب يا خفتيائيل واقض حاجتي من تلاه هذا الذكر
+رفعه الله ورزقه الكشف ونال الرتب العلية
+
+{ فصل اسمه تعالى الوهاب }
+* اعلم أن الوهاب هو معطي العطية الخالية عن الأغراض فإذا كثرت العطيات والصلات سمي
+صاحبها وهاباً ولا يتصور إلا من الله تعالى وهو وهاب من غير عوض وقد وهبك النظر والسمع
+والشم والذوق والعافية والمشية والإيجاد وكمّلك بالخلقة لتجيب الداعي وقد عرضت الأمانة
+على السموات والأرض والجبال فأبين أن يحملنها وحملها الإنسان وهي الأسماء والصفات
+لتقديم توحيدك بها وحبك وجعل قلبك محل التجلي وعقلك محل المعارف ونفسك محل الخواص
+وقلبك
+
+| ال | م | ص | ر |
+|---|---|---|---|
+| ٩٧ | ١٩٩ | ٣٢ | ٣٩ |
+| ٩٨ | ٩٤ | ٤٢ | ٣٣ |
+| ٤١ | ٣٢ | ١٩٧ | ٩٥ |
+
+**English:**
+— 448 —
+
+its knowledge with excellence in conception, nor by proof nor demonstration. From this reality the world came into existence by means of the Truth, exalted is He, so the Truth has brought us into existence from an ancient existence. And the third known is the whole world, the angels and the spheres, and what the worlds contain, and the air and the earth and what is in them, and it is the greater world. And the fourth known is the indication of the creation. He, exalted is He, said: “And He subjected to you what is in the heavens and what is in the earth, all of it from Him.” And it has come in the reports that Allah created every upright pillar from the pillars of the Throne worlds and creatures the measure of the world. He, exalted is He, said: “And none knows the soldiers of your Lord except He.” And we have mentioned these indications for the conduct of the believers in the unveiling of the science of conception. So whoever the realities of His names are completed in him and he ascends to thought in the world of the ملكوت, then he conducts by the name of the attributes and ascends after it to Sidrat al-Muntaha. So when that is completed for him, the lights of religion appear to him and he looks upon the unveiling from it by the length of the names and their union, name after name, for His remaining name, and by it He named His Essence and was described by remaining, although the Truth, exalted is He, made the coccyx connected to the Day of Pre-eternity. And he, عليه السلام, indicated to Abu Bakr and mentioned the hadith, and then he is al-Siddiq, where he said: “If the veil were lifted, I would not increase in certainty.” And the one drawing near by this name attains by it the unveiling of the wills, and the recitation in seclusion, the number of its letters, and he recites it every time until he reaches the mentioned number; the servant Ṣaqāʾīl comes to him, and he is chief over four commanders, under the hand of each commander three hundred and fifty-six ranks of the angels, and they fulfill his need. And among its properties: if it is written on Monday and carried by the woman who miscarries children, then she will not miscarry. And the name of the king and its mention are written around it. And if its number agrees with the name of a person, it is a greater name in his right; it is done with him as is done with the Greatest Name and its mention: O Allah, You are the fashioner of forms and the tasker of the minutiae of the wondrous forms { and this is its image }  
+And the fashioner of the choice of fashioning the invented example, fashionings and its compositions, استللك  
+O Originator of its example and fashioner of the upper forms with their shapes and realities, from the beautiful  
+and the ugly and the majestic, and all is from Your doing; You are the Originator of spirits, the inventor of bodies.  
+I ask You by the secret of Your supply in the upper and lower worlds that You remove from me the pains  
+and the ailments. O Allah, You are the Beneficent, the Bountiful; You have bestowed upon the creatures the blessing of bringing into existence. I ask You by the secret of this subtle secret  
+that You extend to me a subtle thread from Your subtleties by which You reveal to me the realities of the imaginal forms. O Creator, O Originator, O Fashioner  
+in the evening and the morning, and extend to me the worlds of this name. Answer, O Khaftiyāʾīl, and fulfill my need. Whoever recited this remembrance, Allah raised him and provided him with unveiling, and he attained the lofty ranks.
+
+{ Chapter: His, exalted is He, name al-Wahhāb }
+* Know that al-Wahhāb is the giver of the gift free of purposes. So when gifts and endowments are many, their possessor is called Wahhāb, and this is conceived only of Allah, exalted is He, and He is Wahhāb without compensation. And He has bestowed upon you sight and hearing and smell and taste and well-being and will and bringing into existence, and perfected you by creation so that you answer the caller. And the trust was offered to the heavens and the earth and the mountains, but they refused to bear it, and man bore it, and it is the names and the attributes, for the presentation of your oneness by them and your love, and He made your heart the locus of manifestation and your intellect the locus of knowledges and your soul the locus of special properties, and your heart
+
+| al | m | ṣ | r |
+|---|---|---|---|
+| 97 | 199 | 32 | 39 |
+| 98 | 94 | 42 | 33 |
+| 41 | 32 | 197 | 95 |
+
+---
+## Page 455
+
+**Arabic (original):**
+- ٤٤٩ -
+
+وقدك محل أظهر من محل الحروف ووهبك تصرفاً في المعنى باختلاف الأنوار وأعطاك
+بحركة الأطوار الحسية في العالم الإنساني لتوفي ما وصل إليك من معاني النطق ثم حصل لك بعلم
+الملكوت جعل مفيضاً أنواره واختلاف أطواره ووهبك سمعاً يتشكل بصفات الحروف
+في انضغاط الهواء من اصطكاك الأجرام وفهمك معاني اختلاف الأطوار تركيباً ورزقك الحركة في
+العلم الإنساني لتوفي ما وصل إليه من معاني النظر ثم وهبك علم الملكوت وأنت تتلقى ذلك بأنواع
+الأطوار ثم وهبك سراً خفياً عن الأسرار وهو الذي آمنت به الرسل وفهمت به الخطاب الإلهي ووهبك
+المنشأة إلى دار القرار وعالم البرزخ ويشاهد الأرواح المطلقة في تلك الدار ثم وهب لك الرجعة إلى
+دار الجمع وأنا ذاك أعمالك ثم وهبك النعيم في الجنان مع النظر له وأما النظر له والأسباب فهي
+على التدريج لا يحصى عددها إلا الله وإذا كانت هذه مواهبه لا تحصى وكانت ظاهرة عليك
+وباطنة لديك من الأعراض ولا مناقشتها الأغراض * واعلم أن من عبد الله على خير اطمأن به
+وإن أصابته فتنة انقلب على وجهه وفي الخبر أن موسى عليه السلام قال يارب إني أجد في التوراة
+أمة أناجيلهم في صدورهم منهم يارب قال هم أمة محمد عليه السلام ولم يزل يعد الخواص حتى
+اشتاق وصى إليه فقال تعالى يا أمة محمد قد أعطيتكم قبل أن تسألوني وغفرت لكم قبل أن
+تستغفروني فانظر إلى ما وهبك الله من الأزل وما تقرب إلى الله بهذا الاسم يكون متخلقاً بآثار العطاء
+من غير عرض ولا يدخر شيئاً وهذا كمل في الفتح الرباني فإنه يفتح عليه في ساعة واحدة بأنواع
+العلوم والأبدال ولهذا الاسم رياضة أربعين يوماً وتلاوته عدده مضروباً في نفسه مع مجاهدة
+النفس وخاتمه طيائيل وتسبيحه سبحان الوهاب القدوس لا إله إلا هو الفعال لما يريد * وحكي
+أن رجلاً من أهل الصلاح دخل الخلوة وكان بليداً لا يعرف شيئاً وأمر بتلاوة هذا الاسم فتح الله
+عليه بأشياء عجيبة من العلوم اللدنية وجاءه الملك وهو بين النوم واليقظة وأفاض عليه من المواهب
+الإلهية ومن لازم على تلاوته لم يجد في باطنه حاجة لمخلوق ويفتح له من خزائن الغيب الوهبية وكنت
+يوماً جالساً ببيت المقدس فرأيت رجلاً قام وقال وعزتك وجلالك إن لم تطعمني الخبز والعصيدة
+في هذا الوقت وإلا كسرت قناديل بيتك فقلت في نفسي هذا مجنون ثم عاد إلى النوم ونام وإذا برجل
+قد أقبل ومعه ما طلب فأيقظه وأكل وإياه حتى شبعا وذهب الرجل فتبعته وقلت له من أين أنت
+وكيف حالك فقال لي كنت سائلاً للبيت بالخبز والعصيدة وإذا هاتف يقول لي اذهب إلى المسجد
+فإن هناك رجلاً من أوليائي إنما يطلب ما في يدك فأطعمه وكل معه فأتيت بما رأيت وأكلت معه
+فقال لي يا هذا أبشر بالمغفرة فقد قال عليه السلام من أكل مع مغفور غفر له ثم رجعت مسرعاً إلى
+الرجل النائم فلم أجده * واعلم أن العبد إذا صدق مع الله وتخلق بهذا الاسم رأى جميع الأكوان
+تخدمه بالمواهب ومن أكثر ذكره فتح الله عليه بالمواهب وتلاوته عدده مضروباً في نفسه وإذا
+كتب مرسومه وحمله إنسان رزقه الله من المواهب وإذا كتب ومحي وشرب به بليد الذهن سهل الله له
+الفهم والحفظ وهذه صورة وفقه بالصحيفة الآتية
+
+( ٢٩ - شمس المعارف - رابع )
+
+**English:**
+- 449 -
+
+and your body is a locus more manifest than the locus of letters, and He bestowed upon you disposal in meaning through the difference of the lights, and gave you by the movement of the sensory stages in the human world so that you may fulfill what has reached you of the meanings of utterance. Then there was obtained for you, by the knowledge of the ملكوت, making its lights overflow and the difference of its stages, and He bestowed upon you a hearing that takes form by the attributes of the letters in the compression of the air from the striking of the bodies, and He made you understand the meanings of the difference of the stages compositionally, and provided you with movement in the human knowledge so that you may fulfill what has reached to it of the meanings of النظر. Then He bestowed upon you the knowledge of the ملكوت while you receive that by kinds of stages. Then He bestowed upon you a hidden secret among the secrets, and it is that by which the messengers believed and by which you understood the divine address. And He bestowed upon you the formation to the Abode of Decision and the world of the barzakh, and the absolute spirits are witnessed in that abode. Then He bestowed upon you the return to the Abode of Gathering, and I am that your deeds. Then He bestowed upon you bliss in the gardens with the النظر to it. As for the النظر to it and the causes, they are in stages, their number is not counted except by Allah. And if these His gifts are uncountable and were apparent upon you and hidden with you, from the accidents and the purposes are not to be disputed. * And know that whoever worships Allah upon good is reassured by it, and if a trial afflicts him he turns back on his face. And in the report, Moses عليه السلام said: My Lord, I find in the Torah a الأمة whose gospels are in their breasts; from them, my Lord? He said: They are the الأمة of Muhammad عليه السلام. And he did not cease counting the special ones until he longed and وصى to him, so He, exalted is He, said: O الأمة of Muhammad, I have given you before you asked Me, and I have forgiven you before you sought forgiveness of Me. So look to what Allah has bestowed upon you from pre-eternity. And whoever draws near to Allah by this name will be characterized by the آثار of giving, without accident, and he stores nothing. And this is perfected in the الرباني opening, for it opens for him in one hour kinds of sciences and substitutes. And for this name there is a discipline of forty days, and its recitation, its number multiplied by itself, with striving against the النفس, and its seal is Ṭiyāʾīl, and its glorification: Glory be to al-Wahhāb, al-Quddūs, there is no god except Him, the Doer of what He wills. * And it is related that a man from the people of righteousness entered seclusion, and he was dull, knowing nothing, and he was commanded to recite this name; Allah opened for him wondrous things of the ladunnī sciences, and the angel came to him while he was between sleep and wakefulness and poured upon him from the divine gifts. And whoever persists in its recitation will not find in his inward any need for a creature, and from the خزائن of the unseen the wahbī gifts are opened for him. And one day I was sitting in Bayt al-Maqdis, and I saw a man who stood and said: By Your might and majesty, if You do not feed me bread and porridge at this time, otherwise I will break the lamps of Your house. So I said in myself: this is mad. Then he returned to sleep and slept, and behold, a man had come with what he requested, so he awakened him and ate with him until they were both satisfied, and the man went away. So I followed him and said to him: From where are you? And how is your state? He said to me: I was asking the House for bread and porridge, and behold, a caller says to me: Go to the mosque, for there is there a man from My saints; he only seeks what is in your hand, so feed him and eat with him. So I came with what I saw and ate with him. He said to me: O this one, rejoice in forgiveness, for he عليه السلام said: Whoever eats with one forgiven, forgiveness is granted to him. Then I returned hastily to the sleeping man, but I did not find him. * And know that the servant, if he is truthful with Allah and characterizes himself with this name, sees all the existents serving him with gifts. And whoever increases in its remembrance, Allah opens for him with gifts, and its recitation, its number multiplied by itself. And if its decree is written and a person carries it, Allah provides him from the gifts. And if it is written and erased and drunk with by one dull of mind, Allah makes easy for him understanding and memorization. And this is its form according to the following page.
+
+(29 - Shams al-Ma'arif - Fourth)
+
+---
+## Page 456
+
+**Arabic (original):**
+— ٤٥٠ —
+
+| ا | ل | و | هـ | ا | ب |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| ٣٠ | ٧ | ٣ | ٣٩ | | |
+| ٦ | ٤ | ٣٢ | ٤ | | |
+| ٣١ | ٥ | ٤ | ٥ | | |
+
+وأما ذكره البسملة: اللهم أنت الوهاب الجواد بالعطايا والإنعام، الباذل المواهب،
+لكل موجود موهبة في خزائنك مملوءة لا تنقص بكثرة البذل، وبروز أنفاسك
+بما تشاء من عبادك مما تختار من فضلك، أسألك يا وهاب الجزيل من العطايا
+ودافع البلايا أن تعطيني الجزيل من نعمائك، وتدفع عني الجليل والحقير من
+بلائك، وأن تعاجلني بهلاك الأضداد المعتدين، وأن تسرع بقهرك الحساد
+الجائرين، أسألك أن تهبني حلالاً مرياً إلهياً ترفع به الحجب الظلمانية من قلبي، فاهدني بك إليك يا الله.
+يا وهاب أجب أيها الملك هطيائيل خادم هذا الاسم، بارك الله فيك، من واظب عليه هون عليه الله
+رزقه، ورزقه المحبة والرأفة، وأمده بالمواهب اللدنية.
+
+( فصل في اسمه تعالى الرزاق )
+اعلم أن الرزاق هو الذي خلق الأرزاق والمرزوقين، وخلق لهم أسباب التناول للأرزاق.
+والرزق ينقسم إلى قسمين: ظاهر وباطن، فالظاهر قوة الأجسام بواسطة التكليف العقلي واقتصار
+دوره في المشيئة في أسباب النياب، هذا بمعنى الأجسام بحاله إلى البقاء، وأما المتغذي من نسبة مقامه
+ومن نية علوه ولا يفعل ذلك إلا الحق سبحانه وتعالى، فإنه يطعم ولا يطعم لا حساً ولا معنى، ولا تكون
+هذه الصفات لغيره، وذلك أن الباري لما أوجد الأشياء وخلق العقل نورانياً جعل قوته للعلو والفهم
+لأنه أول مخاطب في أول رتبة وأول نشأة، فسرد لك الخطاب القديم هو شائع ثم يبدو به الخطاب
+ولا يفصل عنه بل كلامه مستمر الوجود على تمام ديموميته، وإنما عدم ذلك السماع على الدوام
+رحمة للخلق محجوبون تحت طباق التركيب، فلا تحجب عنهم كلامه لأنه وقع عليهم إمداد التركيب،
+بيد المجاهدات والخروج عن العادات والترقي من المألوفات هو رزق العقل. إنما رزق الروح
+وهو أن الله لما خلق الأرواح من الحياة وأقامها بأمر الأمر، فالأمر كالنظر للأشباح وغيرها وهي
+من عوالم الأرواح كالأشباح، والحياة للأرواح كالعظيم للأشباح، وهي من عوالم الأمر وهي سابقة
+كلام الله من حيث الأمر على الكتاب، طال بقاؤها وهي مستمرة في هذه الدار إلى تلك الدار، وكذلك
+الأمر معها في كل نفس وزمان. الثالث رزق النفوس وهو سر التصرف في عالم الشهادة بسر
+ما أودع الله فيها من دقائق العوالم وأسرار الموجودات، وهي مرآة الصور علويها وسفليها، وكل
+صورة يرزقها حقيقة فذلك غذاؤها. الرابع رزق القلوب وهو أن القلب محل التصرف بحروف
+تركيب المعاني القائمة بالنفس الصادرة عن الروح الواردة عن العقل، ليظهر التجلي وتعظم الأنوار
+في أصداف الحروف وذات استمرار لأنوار الإيمان، قال تعالى: ألا بذكر الله تطمئن القلوب، فرزق
+الباطن أبق على الأبد متصل بالحقيقة الربانية، ورزق الظاهر محدود ما له إلى الفناء في أسرع
+وقت، جمع الله بين الاسمين ورزق العلويات ورزق السفليات، قال تعالى: هل من خالق غير الله
+يرزقكم من السماء والأرض، فرزقه من السماء لأهل البواطن القلبية والأرواح الملكوتية، ورزقه
+من الأرض لأهل الأجسام التكليفية والدرجات الحقيقية، وأما أهل التحقيق الذين ارتقوا عن
+رزق
+
+**English:**
+— 450 —
+
+| alif | lam | waw | ha | alif | ba |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 30 | 7 | 3 | 39 | | |
+| 6 | 4 | 32 | 4 | | |
+| 31 | 5 | 4 | 5 | | |
+
+And as for his mention of the basmalah: O Allah, You are the Bestower, the Generous in gifts and beneficence, the Giver of gifts, for every existent there is a gift in Your treasuries, filled, not diminished by كثرة of giving, and the ظهور of Your breaths with whatever You will from Your servants, from what You choose from Your فضل. I ask You, O Bestower, the abundant of gifts and the repeller of afflictions, that You give me the abundant of Your favors, and repel from me the great and the small of Your affliction, and that You hasten to me the destruction of the hostile adversaries, and that You hasten by Your subjugation the unjust envious ones. I ask You to bestow upon me a lawful, pleasant, divine [thing], by which You raise the ظلمانية veils from my heart, so guide me by You to You, O Allah.
+O Bestower, answer, O king Hatiya'il, servant of this name. May Allah bless you. Whoever perseveres upon it, Allah makes easy for him his provision, and provides him with love and compassion, and extends to him the divine gifts.
+
+(Chapter on His تعالى name, the Provider)
+Know that the Provider is He who created the provisions and the provisioned, and created for them the means of taking the provisions.
+And provision is divided into two divisions: outward and inward. So the outward is the strength of bodies by means of the rational charge and the restriction of its cycle in the will in the causes of substitutes; this is in the sense of bodies in their state toward remaining. As for the nourished one from the relation of his station and from the intention of his loftiness, and none does that except the Real, سبحانه وتعالى, for He feeds and is not fed, neither sensibly nor in meaning, and these attributes are not for other than Him. That is because the Creator, when He brought things into existence and created the intellect نورانياً, made its power for loftiness and understanding, because it is the first addressed in the first rank and the first نشأة. So the ancient address is recited to you; it is widespread, then the address appears by it, and is not separated from it, rather His speech is continuously existent upon the completion of its perpetuity. Rather, the absence of that hearing continuously is mercy for the creation; they are veiled beneath the layers of composition, so do not veil from them His speech, because the supply of composition has fallen upon them. By means of struggles, and خروج from customs, and rising from the familiar, this is the provision of the intellect. Rather, the provision of the spirit is that Allah, when He created the spirits from life and established them by the command of the command, then the command is like the النظر for the forms and others, and they are from the worlds of spirits like forms, and life for the spirits is like the great one for the forms, and they are from the worlds of command, and it is prior to the speech of Allah in respect of the command over the Book. Its remaining has lengthened, and it is continuous in this abode to that abode, and likewise the command with it in every breath and time. The third is the provision of souls, and it is the secret of disposition in the world of witnessing by the secret of what Allah deposited in it of the subtleties of the worlds and the secrets of existents, and it is the mirror of forms, its upper and its lower, and every form it is provided with in reality, that is its nourishment. The fourth is the provision of hearts, and it is that the heart is the place of disposition by the letters of the تركيب of meanings established in the soul, issuing from the spirit, coming from the intellect, so that manifestation may appear and the lights may عظُم in the shells of the letters and the very continuity of the lights of faith. He تعالى said: ألا بذكر الله تطمئن القلوب. So the provision of the inward is more enduring forever, connected to the divine reality, and the provision of the outward is limited, having toward annihilation in the quickest time. Allah joined the two names and the provision of the upper worlds and the provision of the lower worlds. He تعالى said: Is there any creator other than Allah who provides you from the heaven and the earth? So His provision from the heaven is for the people of the heart’s inward realities and the الملكوتية spirits, and His provision from the earth is for the people of the charged bodies and the true degrees. As for the people of realization who have ascended beyond the provision
+
+---
+
+---
+## Page 457
+
+**Arabic (original):**
+- ٤٥١ -
+
+رِزْقِ أَهْلِ السَّمَاءِ وَالْأَرْضِ فَهُمْ أَهْلُ الْقُرْبِ وَخَوَاصِّ الْأَصْفِيَاءِ فَرِزْقُهُمْ مِنْ حَيْثُ لَا يَشْعُرُونَ بِمَا
+فِي الْأَكْوَانِ عُلْوِهَا وَسُفْلِهَا وَرِزْقُهُمُ الْبَاطِنُ هُمْ يُدْرِكُونَ حَقِيقَتَهُ إِذْ هُوَ سَقَطَ الْوَسَائِطُ فِي الْمَطَالِبِ
+قَالَ تَعَالَى فَابْتَغُوا عِنْدَ اللَّهِ الرِّزْقَ فَمَنْ كَانَ قِيَامُهُ فِي مَقَامِ الْأَسْمَاءِ وَالْأَفْعَالِ كَانَ رِزْقُهُ مَحْبُوبًا مِنْ
+عَالَمِ التَّرْكِيبِ وَمَنْ كَانَ قِيَامُهُ بِأَسْمَاءِ الصِّفَاتِ كَانَ رِزْقُهُ مَلَكُوتِيًّا وَمَنْ كَانَ قَدَمُهُ فِي مَقَامِهِ
+بِأَسْمَاءِ مَعَانِي الذَّاتِ كَانَ قُوتُهُ مِنَ اللَّهِ تَعَالَى بِغَيْرِ وَاسِطَةٍ إِلَيْهِ إِشَارَةُ إِبْرَاهِيمَ عَلَيْهِ السَّلَامُ لَمَّا رَأَى
+عَجَائِبَ الْمَلَكُوتِ بَاتَ فَقَالَ الَّذِي خَلَقَنِي فَهُوَ يَهْدِينِ وَالَّذِي هُوَ يُطْعِمُنِي وَيَسْقِينِ وَلَمْ يَرِدْ بِذَلِكَ إِلَّا
+إِذْهَابَ الْوَسَائِطِ فِي هَذَا الْمَكَانِ وَأَنَّ اللَّهَ خَلَقَ الْمَخْلُوقَاتِ وَقَدَّرَ أَرْزَاقَهُمْ مِنْ قَبْلُ أَنْ يَخْلُقَ
+السَّمَاوَاتِ بِأَلْفِ عَامٍ وَأَصْرِيحًا مِنْ أَرْيَاحِهِ أَنْ تَدِرَّ تِلْكَ الْأَرْزَاقُ فِي الْكَوْنِ فَبَعْضُهُ اجْتَمَعَ فِي
+مَكَانٍ وَاحِدٍ وَبَعْضُهُ تَفَرَّقَ وَقَالَ رَجُلٌ لِوَهْبِ بْنِ مَالِكٍ مِنْ أَيْنَ تَأْكُلُ فَأَشَارَ إِلَيْهِ فِيهِ فَقَالَ لَهُ كُلُّ
+أَحَدٍ يَعْرِفُ ذَلِكَ فَقَالَ لَهُ ذَلِكَ الَّذِي خَلَقَ الرِّيَاحَ لَهَا الدَّقِيقَ وَلِلَّهِ خَزَائِنُ السَّمَاوَاتِ وَالْأَرْضِ
+وَالتَّقَرُّبُ إِلَى اللَّهِ بِهَذَا الِاسْمِ الِاشْتِغَالُ بِالتَّوْحِيدِ وَالتَّوَجُّهِ إِلَى اللَّهِ مِنْ سِتْرِ اسْتِطْلَاعِ بِبَاطِنِ حَالِهِ
+وَيَعْلَمُ أَنَّ اللَّهَ قَسَمَ لَهُ رِزْقَهُ وَقَدَرَهُ وَأَنْ يُكْثِرَ الذِّكْرَ وَالْأَوْرَادَ لِلْأَسْمَاءِ وَلَهُ خَلْوَةٌ وَتِلَاوَتُهُ كُلَّ يَوْمٍ
+عَدَدَهُ مَضْرُوبًا فِي نَفْسِهِ ثُمَّ يَقُولُ اللَّهُمَّ ارْزُقْنِي أَرْزَاقَ وَأَنْ يَكُونَ مُرَاقِبًا فِي جَمِيعِ حَالَاتِهِ فِي سِرِّ
+الْعَلَانِيَةِ وَلَهُ خَوَاصُّ عَظِيمَةٌ وَخَادِمُهُ جَهْوَرِيلُ يُثَلُّ تَحْتَ يَدِهِ كَثِيرٌ مِنَ الْقَوَادِ وَمَنْ لَازَمَ عَلَى تِلَاوَتِهِ
+وَأَضَافَ إِلَيْهِ اسْمَهُ الْفَاتِحَ سَهَّلَ اللَّهُ لَهُ كُلَّ بَابٍ مَغْلُوقٍ وَإِذَا كَتَبَ عَلَى لَوْحٍ مِنْ
+فِضَّةٍ وَلَازَمَ عَلَى تِلَاوَتِهِ مَنْ يَتَعَاطَى الْأَسْبَابَ سَهَّلَ اللَّهُ لَهُ مَا يُرِيدُ وَإِذَا وُضِعَ فِي حَانُوتِ كَثُرَ زَبُونُهُ
+وَجَاهُهُ الْبَيْعُ وَالشِّرَاءُ وَإِذَا وَافَقَ اسْمَ شَخْصٍ وَاتَّخَذَهُ ذِكْرًا كَانَ اسْمًا أَعْظَمَ فِي حَقِّهِ يَتَصَرَّفُ بِهِ
+وَلَا يَكُونُ الْإِرِيَاضَةُ طَوِيلَةً خُصُوصًا أَكْلَ الْحَلَالِ يَجْنِبُ شِبْهَهُ وَهَذِهِ صُورَتُهُ
+وَأَمَّا الذِّكْرُ الْقَائِمُ بِهِ فَتَقُولُ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ اللَّهُمَّ أَنْتَ الْكَفِيلُ الرَّزَّاقُ
+عَلَى الْإِطْلَاقِ الْمُوصِلُ الرِّزْقَ لِكُلِّ أَحَدٍ مِنَ الْمَخْلُوقَاتِ سُبْحَانَكَ رَازِقُ
+أَهْلِ السَّمَاوَاتِ وَالْأَرْضِ بِالْأَرْزَاقِ وَأَمْدَدْتَهُمْ بِسَائِرِ الرُّوحَانِيَّاتِ وَرَازِقُ
+أَهْلِ الْبَرِّ وَالْبَحْرِ وَرَازِقُ النَّوَامِيسِ الْجُسْمَانِيَّةِ وَرَازِقُ الْجَنِينِ فِي بَطْنِ أُمِّهِ مِنَ الْغِذَاءِ اللَّطِيفِ وَالْأَشْرِبَةِ
+الدَّقِيقَةِ أَسْأَلُكَ أَنْ تَدِرَّ عَلَى الْأَرْزَاقَ مِنَ الْآفَاقِ وَاشْرَحْ صَدْرِي وَتَمِدَّنِي بِأَنْ تَكْشِفَهُ عَلَى
+لَطَائِفِ الرِّزْقِيَّةِ وَأَنْ تَجْعَلَهَا لِي قُوَّةً مِنْ كَرَمِكَ يَا كَرِيمُ وَامْنَحْ لِي بِلَطَائِفِ الْمَأْلُوفِ وَاجْعَلْهَا فِي رِزْقِي
+وَمَدَدِي يَا رَبَّ الْعَالَمِينَ يَا رَزَّاقُ وَأَنْ تَمِدَّنِي بِهَا وَتُحْيِيَ قَلْبِي إِلَى الْأَبَدِ يَا اللَّهُ يَا رَزَّاقُ مَا مِنْ عَبْدٍ تَلَا هَذَا
+اللَّهِ كَفَى الْأَفْتَحَ اللَّهُ عَلَيْهِ
+
+{ فَصْلٌ فِي اسْمِهِ تَعَالَى الْفَتَّاحِ }
+أَعْلَمْ أَنَّ مَعْنَى الْفَتَّاحِ هُوَ الَّذِي يَفْتَحُ الْأَبْوَابَ الْحَقِيقِيَّةَ وَيَفِيضُ الْفَتْحَ عَلَى الْجَمِيعِ وَالْفَتْحُ قِسْمَانِ
+فَتْحُ عِلْمٍ وَفَتْحُ كُلِّ شَيْءٍ غَامِضٍ وَالْفَتَّاحُ الَّذِي يَفْتَحُ مَغَالِيقَ الْمَلَكُوتِ لِبَصَائِرِ أَوْلِيَائِهِ وَيَفْتَحُ أَبْوَابَ
+الرَّحْمَةِ لِلْمُؤْمِنِينَ وَيَفْتَحُ الْغُيُوبَ قَالَ تَعَالَى لِنَبِيِّهِ عَلَيْهِ السَّلَامُ أَنَا فَتَحْنَا لَكَ فَتْحًا مُبِينًا وَحَظُّ الْعَبْدِ
+
+**English:**
+- 451 -
+
+The provision of the people of the heaven and the earth, so they are the people of nearness and the special ones of the chosen; so their provision is from where they do not perceive, with what is in the existents, its upper and its lower. And their inward provision, they perceive its reality, since the intermediaries have fallen away in the demands. He تعالى said: So seek provision with Allah. So whoever his standing is in the station of the names and the acts, then his provision is beloved from the world of composition; and whoever his standing is by the names of the attributes, then his provision is ملكوتيًّا; and whoever his foot is in his station by the names of the meanings of the Essence, then his sustenance is from Allah تعالى without intermediary to him. The indication of Ibrahim عليه السلام when he saw the wonders of the ملكوت, he spent the night and said: He who created me, then He guides me; and He who is feeding me and giving me drink. And he did not intend by that except the removal of the intermediaries in this place, and that Allah created the creatures and determined their provisions before He created the heavens by a thousand years, and expressly from His winds that those provisions should pour in the cosmos. So some of it gathered in one place and some of it dispersed. And a man said to Wahb ibn Malik: From where do you eat? So he pointed to him in it, and he said to him: Every one knows that. So he said to him: That One who created the winds, for them is the subtle, and to Allah belong the treasuries of the heavens and the earth. And drawing near to Allah by this name is occupation with tawhid and turning toward Allah from the veil of seeking to look into the inward of his state, and he knows that Allah has divided for him his provision and measured it, and that he should increase the remembrance and the awrad for the names, and for him is a retreat, and his recitation every day, its number multiplied in itself, then he says: O Allah, provide me provisions, and that he be watchful in all his states in the secret of the open, and for it are great special properties, and its servant Jahwaril, many of the commanders are placed under his hand. And whoever persists upon its recitation and adds to it his name, al-Fatih, Allah makes easy for him every closed door. And if it is written on a tablet of silver and one who engages in the means persists upon its recitation, Allah makes easy for him what he يريد. And if it is placed in a shop, his customers increase and his face is البيع and الشراء. And if it agrees with the name of a person and he takes it as a remembrance, it is a greater name in his right, he disposes by it. And the رياضة is not long, especially lawful eating; he avoids its semblance. And this is its form.
+And as for the remembrance قائم by it, then you say: In the name of Allah, the Merciful, the Compassionate. O Allah, You are the guarantor, the Provider absolutely, the One who رسانs provision to every one of the creatures. Glory be to You, Provider of the people of the heavens and the earth with provisions, and You extended them with the rest of the spiritual beings, and Provider of the people of land and sea, and Provider of the bodily laws, and Provider of the fetus in the womb of its mother from subtle nourishment and delicate drinks. I ask You that You pour down the provisions from the horizons, and expand my breast, and extend me by that You uncover it upon the subtleties of provision, and that You make them for me a strength from Your generosity, O Generous, and grant to me by the subtleties of the familiar, and make them in my provision and my extension, O Lord of the worlds, O Provider, and that You extend me by them and revive my heart forever, O Allah, O Provider. There is no servant who recited this; Allah suffices, the opener, Allah opens upon him.
+
+{Chapter on His تعالى name, the Opener}
+Know that the meaning of al-Fattah is He who opens the true doors and pours forth the opening upon all, and the opening is of two divisions: the opening of knowledge and the opening of every obscure thing. And al-Fattah is He who opens the locks of the ملكوت for the insights of His saints, and opens the doors of mercy for the believers, and opens the unseen things. He تعالى said to His Prophet عليه السلام: We have opened for you a manifest opening. And the portion of the servant
+
+---
+
+---
+## Page 458
+
+**Arabic (original):**
+-- ٤٥٢ --
+منه أن يصبر حتى يفتح له مغاليق المشكلات الإلهيات واللطائف العلويات الملكوتيات وأن
+ييسر الله على فهمه ما يعسر على الخلق من العلوم اللدنية وبواطن الرسالة وأسرار الكتابة
+* واعلم أن هذا الاسم من أشرف الأسماء ولمن تخلق به محاسبة نفسه ولم كيف سر الإخلاص بها
+فحينئذ يفتح الله عليه أسرار الغيوب ومعنى الفتاح في اسمه الوهاب والتقرب إلى هذا الاسم
+استعمال الرياضة والخلوة والجوع بحسب الطاقة والتلاوة ليلاً ونهاراً يفتح الله عليه في ساعة ومن
+خواص هذا الاسم إذا كتب يوم الجمعة وحمل وتلا الاسم شاهد الغرائب وخادمه تمخائيل يأتي
+الذاكر ويقضى حاجته وهذه صورته
+وذكر البسملة اللهم أنت الفتاح على العباد بما تشاء من مغاليق المسالك
+المنفذ بسر اسمك الفتاح الناصر من شديد المهالك القاضي بين العباد بدقائق
+الحكمة في العالم العلوي والممالك تحكم بما تشاء وتختار في خلقك أسألك
+بسرّك الساري في سبحات عالم الملكوت المنزل في خفايا سره إلى أن تصل إلى اللاهوت الراجع في
+صعوده في قضايا عالم الجبروت وأن تفتح في قلبي بالشهود هذه الأسرار وتحققه بحقائق الأنوار
+واجعلني أهلاً لتوصلة بسر حياة ذاتك المنعم بجليل أسرار صفاتك اللهم أيدني بنصرك العزيز المانع
+على كل معاند وحاسد ومنازع اللهم سخر لي عبدك تمخائيل خادم هذا الاسم إنك على كل
+شيء قدير
+
+( فصل في اسمه تعالى العليم )
+اعلم أن العالم هو العالم بصنعه وكماله أن تحيط بكل شيء ظاهراً وباطناً أولاً وآخراً وهذه
+صفة الباري جلت قدرته وعلم الله لا يحصى وعلم المخلوقين يعلمونه بما قدره لهم ليجدوا به القربات
+إلى الله تعالى، وإن الله جعل ملكوت الأنوار وجعل ما قيده بأسمائه الشريفة وهي قائمة في
+الملكوت وكل اسم مقابل الآخر وهي كالفطرة ثم خلق الجبروت والملك وخلق الملائكة من
+أنوار العرش لأن العرش خلق بأسماء الذات بسر الأسرار وخلق ملائكة الحروف بأنوار الكرسي
+لأنه قام بأسماء الأفعال قامت ملائكة الملك قامت بالتصرف وملائكة الجبروت قامت بالتدبير
+وملائكة الملكوت قامت بتدبير المزاجات ولما أراد الله ظهور اختلاف هذه العوالم بأنواع
+علومها ليظهر علمه في حكمته وحكمته في قدرته وقدرته في إرادته من تصريفه خلق آدم أبو
+البشر وجعل معانيه في عالم ملكه وجسمه وجعل لكل اسم من الأسماء عضواً من الأعضاء
+وقد علم آدم جميع ما كان وما يكون من أسماء الأكوان تعالى وخلق ما لا تعلمون ثم خلق
+حواء زوجته من عضو من أعضائه وأفاض عليه بالأنوار الإلهية وأمد روحه بأنوار العلويات
+فجعله خليفة في الأرض وتجلت عليه أسماء الصفات وأسماء الأفعال وهي تمام خلقته قال تعالى
+لقد خلقنا الإنسان في أحسن تقويم ثم جعل ملكوت العقل وركبه فيه وهو قائم به وأمده بهذه
+الأعضاء
+
+**English:**
+- 452 -
+Of it is that he be patient until the locks of the divine problems and the subtleties of the upper, الملكوتية matters are opened for him, and that Allah make easy for his understanding what is difficult for the creation from the divine sciences and the inward realities of the message and the secrets of writing.
+* And know that this name is among the noblest of names, and for one who is characterized by it there is the accounting of his self, and how the secret of sincerity by it. Then Allah opens upon him the secrets of the unseen. And the meaning of al-Fattah in His name al-Wahhab, and drawing near to this name is the use of رياضة and retreat and hunger according to capacity, and recitation night and day; Allah opens upon him in an hour. And among the special properties of this name is that if it is written on Friday and carried and the name is recited, he witnesses wonders, and its servant Tamkhayil comes to the one remembering and his need is fulfilled. And this is its form.
+And the remembrance of the basmalah: O Allah, You are the Opener upon the servants with what You will from the locks of the paths, the one who makes passage by the secret of Your name al-Fattah, the Helper, from severe perils, the judge between the servants with the دقائق of wisdom in the upper world and the kingdoms. You judge with what You will and choose in Your creation. I ask You by Your secret flowing in the glorifications of the world of the ملكوت, sent down in the hidden places of its secret until it reaches to the divinity, returning in its ascent in the judgments of the world of the جبروت, and that You open in my heart by witnessing these secrets and make it true with the realities of the lights, and make me worthy of being connected by the secret of the life of Your Essence, adorned by the majestic secrets of Your attributes. O Allah, support me with Your mighty, preventing victory over every obstinate one, envious one, and disputant. O Allah, subjugate for me Your servant Tamkhayil, servant of this name. Indeed You are powerful over every thing.
+
+(Chapter on His تعالى name, the All-Knowing)
+Know that the عالم is the one knowing by His making and perfection that He encompasses every thing outwardly and inwardly, first and last, and this is the attribute of the Creator, exalted is His power. And the knowledge of Allah is not counted, and the knowledge of the created beings, He makes them know by what He has decreed for them so that they may find by it the nearnesses to Allah تعالى. And Allah made the kingdom of the lights and made what He restricted by His noble names, and they are قائم in the kingdom, and every name is opposite the other, and they are like the fitrah. Then He created the جبروت and the الملك, and created the angels from the lights of the Throne, because the Throne was created by the names of the Essence by the secret of secrets, and He created the angels of the letters by the lights of the Kursi, because it stood by the names of the acts. The angels of the الملك stood by disposition, and the angels of the جبروت stood by governance, and the angels of the ملكوت stood by the governance of the mixtures. And when Allah willed the ظهور of the difference of these worlds by the kinds of their sciences, so that His knowledge may appear in His wisdom and His wisdom in His power and His power in His will from His disposal, He created Adam, father of mankind, and placed his meanings in the world of His kingdom and his body, and made for every name from the names a limb from the limbs. And Adam knew all that was and all that will be from the names of the existents, تعالى, and He created what you do not know. Then He created Hawwa, his wife, from a limb from his limbs, and poured upon him the divine lights, and supported his spirit with the lights of the upper worlds, so He made him a vicegerent on earth, and the names of the attributes and the names of the acts manifested upon him, and they are the completion of his creation. He تعالى said: We have created man in the best of stature. Then He made the kingdom of the intellect and mounted it in him, and it is قائم by him, and He supported him with these limbs.
+
+---
+_End of translation — 458 pages._
