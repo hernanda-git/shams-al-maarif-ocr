@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 410 translated pages._
+_Auto-generated from 416 translated pages._
 
 ---
 ## Page 1
@@ -23584,4 +23584,311 @@ And it has a noble seclusion, and the recitation of the names after every prayer
 | 9 | 5 | 7 |
 
 ---
-_End of translation — 410 pages._
+## Page 411
+
+**Arabic (original):**
+- ٤٠ -
+لك نور أبيض ويخاطبك ويعاهدك، فإذا أردت أمراً تقول: أجب يا خادم حرف الحاء أهل كذا، وإن
+أردت استخدام الملك طفائيل فاكتب الحرف وادخل الخلوة وأقرأ الأسماء هذه الدعوة: البسملة، سبحان
+الحليم على من عصاه، اللهم يا حليم حالي سقيم وأنت به عليم، أسألك بجاه محمد عليه السلام وموسى الكليم
+خذ بيدي وانصرني على من ظلمني وصرفني في قضاء الحاجات واجعلني مسترشداً بأمرك وأسعفني
+بالقول والتصرف في هذا السر حتى أصرفه فيما أريد، يا حاحلمت عاج حاح حطوح حيث إلى ححج
+حج حوا أحرا حوا جت حواى في الحال قضيت حاجتي بحق خدموها هي الساعة وأسرع
+بالإجابة وتصرف فيها صرفتك، الوحا العجل، بالف لاحول ولاقوة إلا بالله العلي العظيم، والبخور حلبة،
+والإضبار تقول: دهلج يعشلا ما أعظم شأنه وأعز سلطانه، أجب أيها الملك طفائيل وافعل كذا
+وكذا في هذه الساعة، العجل الوحا. (حرف الطاء) هو مجمع الحرفين وله سر وتصريف
+في العوالم العلويات وهو طيار في العوالم، وإذا كتب وذلك في لوح والقمر فيه طها آت و هـ
+والإضبار واسم الملك فإن حاملها يقر به جميع العوالم، وإذا كتب على من يشتكي وجع الرأس
+برى، ومن كتب ٩ ط و هـ والقمر في المنزلة وعلقها على مولود فإنه لا يقر بـ حيوان مؤذ، وعدد
+الطاء ١٨ إذا رسم في وفق ٩ في ٩ في رق غزال في ١٤ يوماً من الشهر وحمله من أراد
+المشي في السفر فإنه لا يعيا. * وإذا كتب الحرف وحوله الإضبار وعلق في مكان أو دكان كثر زبونه
+وحامله يرزقه الله الأسباب الخفية، وإذا وضع تحت رأس إنسان أمن من الأحلام الردية.
+(قاعدة كلية) اعلم أن كل اسم عدده مفرد يتصرف في عوالم القبض وكل عدد زوج يتصرف
+في عوالم البسط وهذا سر لله لأوليائه. * ومن خواص الوفق الموافق لسر الأعداد إذا كتب
+مع حرف الطاء في كفك وتكلمت عليه بالإضبار ومسكت النار أو أودعتها لا تضرك، ومن حمل هذا
+الوفق زاد فهمه وزادت حركته ويصلح للذي طالت عليه الحمى يكتب ويحمل، وإذا كتب في قطعة
+من كبريت وألقيت تحت عقب النار احترق أهل ذلك المكان، وإذا تلاه البليد ٨١ مرة زالت بلادته،
+ومن أخذ تراباً من تحت قدم من شاء وصورته كاملة وكتب عليها الحرف ٨١ مرة ثم تلا
+العزيمة على دائرة حرف الطاء وتكلم عليها بالإضبار والدعوة وألقيتها في دار من شئت كان لها تأثير
+عظيم، وله خلوة ورياضة ١٤ يوماً والإضبار دبر كل صلاة ٩ أيام فإنه يظهر لك الخادم ونوره أحمر
+ويخاطبك بما تريد. * واعلم أن ما تقدم من التصرف يفي بحصول بكتابة الحرف وتلاوة الإضبار دبر كل
+صلاة العدد يحضر الخادم واسمه عطائيل صرفه وهذه الدعوة: بسم الله الرحمن الرحيم، طلمت بن
+الله المعونة على مطا لوني حتى يبسط إلي الطاء بطرد من ظلمني، أجب الطايطاول عظمة ذي الطول
+الشديد طياطيو يا أبا الله يارب العالمين طلطياط ٢ ياه باط طيطو طلا طلا طهيفط ططوط الوحا
+تتططوا اطرد من قاتلني بحق هذه الأسماء الطرودة نلت من ذي الطول مطلو ني، عجل يا خادم الطاء وإلا
+أشكو ك إلى علام الغيوب، ولاحول ولاقوة إلا بالله العلي العظيم، والبخور طحلب، وإذا تلوتها على باب
+كنز هربت العمار، وإذا بخرت به المعروض انحرق عارضه أمرك ويطرد الأعداء، وإضباره أجب
+
+**English:**
+- 40 -
+You have a white light and it speaks to you and makes covenant with you; so if you desire a matter, you say: Answer, O servant of the letter Hā’, أهل كذا, and if
+you desire the use of King Tufā’īl, then write the letter and enter the seclusion and read the names, this invocation: the basmalah, Glory be
+to the Forbearing over him who disobeyed Him, O Allah, O Forbearing, my condition is sickly and You are knowing of it, I ask You by the rank of Muhammad, upon him السلام, and Moses the one spoken to
+take my hand and help me against him who wronged me and direct me in the fulfillment of needs and make me guided by Your command and aid me
+with speech and disposition in this secret so that I may direct it in what I want, O Hāḥlamt ʿāj Hāḥ Ḥaṭūḥ ḥaythu ilā ḥḥj
+ḥj ḥawā aḥrā ḥawā jat ḥawāy, immediately I have fulfilled my need by the right of her servants, now is the hour, and hasten
+in answering and dispose in it, I have disposed you, al-wuḥā al-ʿajal, by a thousand, there is no might and no power except by Allah, the High, the عظیم, and the incense is fenugreek,
+and the Iḍbār you say: Dehlaj Yaʿshlā, how great is his شأن and most mighty is his سلطان, answer, O King Tufā’īl, and do such
+and such in this hour, hasten, al-wuḥā. (The letter Ṭā’) is the gathering of the two letters and it has a secret and disposition
+in the upper worlds, and it is flying in the worlds, and if it is written, and that in a tablet, and the moon in it is ṭhā’ āt and هـ
+and the Iḍbār and the name of the king, then its bearer is acknowledged by all the worlds, and if it is written upon one who complains of headache
+it heals, and whoever writes ٩ ṭ and هـ and the moon in the mansion and hangs it upon a newborn, then no harmful animal will acknowledge him, and the number
+of Ṭā’ is 18; if it is drawn in a wafq of 9 by 9 on gazelle parchment in 14 days of the month and carried by one who desires
+to walk in travel, then he will not tire. * And if the letter is written and the Iḍbār around it and it is hung in a place or shop, its customers increase
+and its bearer Allah provides the hidden causes, and if it is placed under a person’s head he is safe from evil dreams.
+(Universal rule) Know that every name whose number is odd disposes in the worlds of contraction and every even number disposes
+in the worlds of expansion, and this is a secret of Allah for His saints. * And among the properties of the wafq corresponding to the secret of numbers, if it is written
+with the letter Ṭā’ in your palm and you speak over it with the Iḍbār and hold fire or deposit it, it will not harm you, and whoever carries this
+wafq his understanding increases and his movement increases, and it is suitable for one upon whom fever has prolonged; it is written and carried. And if it is written on a piece
+of sulfur and thrown under the heel of the fire, the people of that place will burn. And if the dull one recites it 81 times, his dullness will depart.
+And whoever takes soil from under the foot of whomever he wishes and its complete image and writes upon it the letter 81 times, then recites
+the determination over the circle of the letter Ṭā’ and speaks over it with the Iḍbār and the invocation and throws it in the house of whomever you wish, it will have
+a great effect. And it has a seclusion and discipline of 14 days, and the Iḍbār after every prayer for 9 days, for then the servant will appear to you and his light is red
+and he speaks to you with what you want. * And know that what has preceded of disposition suffices for the attainment by writing the letter and reciting the Iḍbār after every
+prayer; the number, the servant will be present, and his name is ʿAṭā’īl; its disposition, and this invocation: In the name of Allah, the Merciful, the Compassionate, Ṭalamt bin
+Allah the assistance upon my ṭā lūnī until the ṭā is extended to me by the expulsion of him who wronged me, answer, O ṭāyṭāwāl, majesty of the possessor of the long
+severe ṭiyāṭiyū, O father of Allah, O Lord of the worlds, ṭalṭiyāṭ 2 yāh bāṭ ṭiyṭū ṭlā ṭlā ṭhayfaṭ ṭṭūṭ al-wuḥā
+tattaṭṭawā, expel him who killed me by the right of these expelled names, I have attained from the possessor of length my ṭalab of me, hasten, O servant of Ṭā’, or else
+I will complain of you to the Knower of the unseen, and there is no might and no power except by Allah, the High, the عظیم, and the incense is moss,
+and if you recite it at the door of a treasure, the ʿummār flee, and if you fumigate with it the presented one, his opponent burns, your command, and it drives away the enemies, and its Iḍbār: answer
+
+---
+## Page 412
+
+**Arabic (original):**
+- ٤٠٦ -
+
+أيها الملك هطائيل بحق شمط ٢ شميط ٢ شمطوط شلح أجب وتوكل بكذا وكذا العجل الوحا ولا حول ولا قوة الا بالله العلي العظيم (حرف الياء) ناري من حروف الكرمي وكل حرف يكون في أوله النداء يكون إمداده من عالم الكرمي وهي حقيقة المادة لأن نسبتها ١٠ وإذا كتبت ١٠ ى مع كل اسم أوله ى ومحاه وشرب السالك في بدايته أخمدت منه نيران الشهوة وإذا كتبت ١٠٠ على ورق الإحضار وسقيته لمن غلبت على نفسه الشهوة والمعاصي وشرب الخمر تاب لله عليه وإذا كتبت ١٠٠ على فأس وحفر به بئراً فإن الماء يظهر له بسرعة ويبارك له فيه وإن حرف الياء من أسماء الله وكل قسم لا يكون فيه حرف الياء مع الهاء يكون بطيء الإجابة وهذه صورته
+
+| ى ى | ى ى | ى ى | ى ى | ى ى |
+| :--- | :--- | :--- | :--- | :--- |
+| ى ى | ى ى | ى ى | ى ى | ى ى |
+| ى ى | ى ى | ى ى | ى ى | ى ى |
+| ى ى | ى ى | ى ى | ى ى | ى ى |
+| ى ى | ى ى | ى ى | ى ى | ى ى |
+| ى ى | ى ى | ى ى | ى ى | ى ى |
+
+وله خلوة تعطي صاحبه القوة القهرية على الأرواح الروحانية وهو أن تمكث أياماً فيحضر الخادم ونوره أيضاً فإذا اجتمعت به تنال ما تريد واسمه هرقيل وله هذه الدعوة بسم الله الرحمن الرحيم يا حي يا ميت يا حي يا قيوم لا إله إلا أنت أحي قلبي بذكرك فإليك أشكو ضعف قوتي وقلة حيلتي هبني اللهم هبة من عندك تعينني على مصالح أرتجيها لطاعتك يا شديد يا الله يا منعم أنعم قبل استحقاقه يا محسن يا مجمل يا منعم يا مفضل يا أرحم الراحمين سخر لي حرف الياء حتى يقضي حاجتي من معاشي يا مولاي فيك المستعان وعليك التكلان فإني أقسم عليك بك تفعل لي ما أريد وأحيني في ليلي ونهاري وغدوي وأصالي وسقطاي وسمعطاي وادعاي وأشراهيا أشراهيا أدوناي أصباؤت آل شداي كليم سبحان من بذكره تطمئن القلوب سلمطوي ياي لعاي سقطاي وقد قلنا ما قلنا وأقسمنا ما أقسمنا عليك بنفسك وكيف يكون أو يهز من عصى الله أجب يا قن بكذا وكذا ولا حول الخ والبخور لبان وذكر أجب أهطائيل بحق ياه ٢ يوه ٢ يده ٢ دتع ٢ هتف ٢ أجب وتوكل بكذا وكذا بارك الله فيك (حرف الكاف) اعلم أن الكاف باطن الأمر وأصلها ٣ ألفات تتصرف في كل ما تتصرف فيه الألف وإذا كتبت في خرقة زرقاء ومعها الملا الإحضار وضعها تحت حجر في خام فإن حاملها ينال قبولاً وإذا كتبت ٨ ى صورة في ورقة ووضعها على الطحال أحيت الشال فإن اللحم تؤثر فيه النار ويحترق ويحس أن شهاباً من نار دخل طحاله حرقه وإذا كتب مع إضاره واسم الملك على ٤ شقفات ودفن في أربع أركان الزرع منع سائر الآفات وإذا كتب في جلد شاة عدد الحرف وحمله من خفت دماغه من الأرياح والماليخوليا والسوداء أبرأه الله وله خلوة وخادمه نوره أخضر وتزجر به الروحانية الهوائية وهذه
+
+**English:**
+- 406 -
+
+O King Hṭā’īl, by the right of Shmaṭ 2, Shmayṭ 2, Shmaṭūṭ, Shalaḥ, answer and act as trustee in such and such, hasten, al-wuḥā, and there is no might and no power except by Allah, the High, the عظیم. (The letter Yā’) is fiery among the letters of al-Karmī, and every letter whose beginning is the call is its supply from the world of al-Karmī, and it is the reality of matter because its ratio is 10. And if 10 yā’ is written with every name whose beginning is yā’ and it is erased and the wayfarer drinks it at his beginning, the fires of desire are extinguished from him. And if 100 is written on paper of bringing-forth and it is given to one over whom desire, sins, and drinking wine have prevailed, he repents to Allah. And if 100 is written on an axe and a well is dug with it, then water will appear to him quickly and there will be blessing in it for him. And the letter yā’ is among the names of Allah, and every oath in which the letter yā’ is not with hā’ is slow in response, and this is its form
+
+[Grid content preserved as-is]
+
+And it has a seclusion that gives its possessor the coercive power over the spiritual spirits, and that is that you remain for days, and the servant will appear and his light also; so if you meet with him you attain what you want, and his name is Harqīl, and he has this invocation: In the name of Allah, the Merciful, the Compassionate, O Living, O Dead, O Living, O Self-Subsisting, there is no god but You, revive my heart by Your remembrance, for to You I complain of the weakness of my strength and the paucity of my stratagem; grant me, O Allah, a grant from You that helps me in interests I hope for, for Your obedience, O Severe, O Allah, O Bestower, bestow before its deserving, O Beneficent, O Beautiful, O Bestower, O Favored, O Most Merciful of the merciful, subjugate for me the letter yā’ until it fulfills my need from my livelihood, O my master, in You is the sought help and upon You is reliance, for I swear upon You by You that You do for me what I want, and revive me in my night and my day and my morning and my evenings and my falls and my hearings and my claims and Ashrāhiyā Ashrāhiyā Adonāy Aṣbā’ūt Āl Shadāy Kalīm, Glory be to Him by whose remembrance hearts are reassured, Salmaṭwī Yāy Laʿāy Saqṭāy, and we have said what we have said and we have sworn what we have sworn upon You by Your Self, and how can it be or shake one who disobeyed Allah? Answer, O Qān, such and such, and there is no might... and the incense is frankincense, and mention: answer, Ahtā’īl, by the right of Yāh 2, Yūh 2, Yadah 2, Dtaʿ 2, Hatf 2, answer and act as trustee in such and such, may Allah bless you. (The letter Kāf) Know that kāf is the inner aspect of the matter, and its origin is 3 alifs, disposing in everything in which the alif disposes. And if it is written on a blue rag and with it the bringing-forth of the full moon, and it is placed under a stone in خام, then its bearer attains acceptance. And if 8 yā’ image is written on a sheet and placed on the spleen, the shawl is revived, for flesh is affected by fire and burns, and he feels that a flame of fire has entered his spleen and burned it. And if it is written with its Iḍbār and the name of the king on 4 potsherds and buried in the four corners of the crop, it prevents the rest of the آفات. And if the number of the letter is written on the skin of a sheep and carried by one whose brain is light from winds, melancholia, and black bile, Allah cures him. And it has a seclusion, and its servant, its light is green, and the airy spiritual being is driven away by it, and these
+
+---
+## Page 413
+
+**Arabic (original):**
+-- ٤٠٧ --
+
+وهذه دعوته البسملة كتبت بكرم الله وتكلمت بحمد الله وشكره وما النصر إلا من عند الله العزيز
+الحكيم ولا حول ولا قوة إلا بالله العلي العظيم اللهم إني أسألك بأنه لك الملك يا ذا الجلال والإكرام يا من
+أمره بين الكاف والنون يا من إذا أراد شيئاً أن يقول له كن فيكون أسألك بكاف كفايتك يا مكون
+الأكوان حتى يكون بكل الكائنات كينا عجل لا روعك روح ولا يقربك فتور كفكافك كفك
+كفوا كافم كتم كفماون كفى عجل يا كافي بسرك لا يغرنك كفر من كان كافراً في الكون هيا
+يا كافي بطل الكل سبحان من بذكر تطمئن القلوب يعلم أحوى الضمير وما تخفيه الخواطر وما
+تريه القلوب أهـ ٤ ياهـ ٣ الأولاه لكنت كلمتك كلاماً يتضمن استيفاءه بطاعته أجب بارك الله
+فيك وحفظك ورعاك والسلام عليك ورحمة الله وبركاته ولا حول ولا قوة إلا بالله العلي العظيم
+والبخور كزبرة وكندور كافور والتلاوة دبر كل صلاة ٢٨ مرة والإضمار كذا يحصل المطلوب والإضمار
+تقول أجب يا حرف الكاف بارك الله فيك وعليك بحق سورة عسفواه لهبط ٣ حيث بعور
+هبطا جش سدوس أجب بارك الله فيك وعليك ولا حول ولا قوة إلا بالله العلي العظيم
+(حرف اللام) حرف تعريف من حروف الاسم الأعظم وهو حروف البسملة وظهر في اسمه
+لطيف من كتبه عدده وسقاه لأصحاب العوارض والأمراض عافاهم الله وإذا أردت القتل العارض
+اتل القسم وقل أحرق يا خادم حرف اللام هذا العون فإنه يحرق وخدامه هطائيل يظهر لك لنوره
+أبيض فإذا أردت استخدامه ادخل الخلوة واتل الدعوة دبر كل صلاة ٤٥ مرة فإنه يظهر فهاهذه.
+واعلم أن حرف اللام يسمى بـ يف الطلب وهذه صورته
+ودعوته البسملة طك اللهم اجمع شملي بخير خلقك فلك الحمد ولك الشكر ٢٢٤ ٢٢٧ ٢٣٢
+لين لي كل صعب يا لطيف ٣ لله إلا لاه والنعماء أسألك بتلألؤ ٢٣١ ٢١٨ ٢٢٢
+أنوار عظمتك السنية نوراً أستضيء به على كشف سر اللام لين لي بطبعك ٣١١٢ ٤ ٢٥ ٢٢٢
+باللام فإن دعوتك يا الله يا من هو الله الذي لا إله إلا الله أجب أيها الملك وأئتني بمن ٢٣٦ ٢٣١ ٢٢٥ ٢٣١
+طغى وتمرد من الملوك والخدام أجيبوا بمن تدكدكت الجبال الشوامخ لهيبته وتقشعر
+الجلود من خيفته صمد قيوم سجد كل شيء لعظمته وخضع كل شيء لجلاله وهو اللطيف الخبير
+لا إله إلا هو رب العرش العظيم الوحا وعجل بقتل الظالمين سبحان الله العظيم لا إله إلا
+من الطاعة نجا ومن عصاه جعله هباء هباء باللام بالليل والليل وبالملل ويسر بال وطفرائيل أجيبوا
+بالعرش المجيد والكرسي الواسع لين لي جانبك إلى ما دعوتك وسلطتك على عصاني من الأرواح
+بحق من يقول للشيء كن فيكون هيا يا حسن الطالب وافعل كذا وكذا أيها الحاضرون من
+الأرواح الروحانيين رب بكم الذي لا شيء أعظم منه ولا حول ولا قوة إلا بالله العلي العظيم والبخور لوز
+ولبان ولينوفر وإذا كتب هذا الحرف ومحي وسقي للمحموم عافاه الله وإضاره أجب يا غبط ٢
+طمس حلم ملخص وتوكل بكذا وكذا الوحا (حرف الميم) وهو ٣ عوالم الملك وطم
+
+**English:**
+-- 407 --
+
+And this is its invocation: the basmalah, written by the generosity of Allah and spoken with the praise of Allah and His thanks, and victory is only from Allah, the Mighty,
+the Wise, and there is no might and no power except by Allah, the High, the عظیم. O Allah, I ask You because the kingdom is Yours, O Possessor of majesty and honor, O You whose
+command is between Kaf and Nun, O You who, when He desires a thing, says to it, Be, and it is. I ask You by the Kaf of Your sufficiency, O Fashioner
+of the worlds, until there be in all beings a being; hasten, let no terror frighten you, no spirit, and no languor approach you, your Kafkāfak, your Kaf,
+Kafwā Kafam Katam Kafmāwun Kafā, hasten, O Sufficient One, by Your secret, let not the disbelief of one who was disbelieving in the cosmos deceive you, come
+O Sufficient One, nullifier of all, glory be to Him by whose remembrance hearts are reassured, He knows the innermost of the conscience and what thoughts conceal and what
+hearts show, أهـ 4 ياهـ 3 الأولاه, if I were to speak to You a speech that includes its fulfillment by His obedience, answer, may Allah bless
+you and preserve you and guard you, and peace be upon you and the mercy of Allah and His blessings, and there is no might and no power except by Allah, the High, the عظیم,
+and the incense is coriander and kundur and camphor, and the recitation after every prayer 28 times, and the Iḍmār, thus the sought matter is obtained, and the Iḍmār
+you say: Answer, O letter Kaf, may Allah bless you and upon you by the right of Sūrat ʿAsfwāh, let it descend 3 where biʿūr
+هبطا جش سدوس, answer, may Allah bless you and upon you, and there is no might and no power except by Allah, the High, the عظیم.
+(The letter Lām) is a letter of definition among the letters of the Greatest Name, and it is among the letters of the basmalah, and it appeared in His name
+Laṭīf; whoever writes its number and gives it to those with accidents and illnesses, Allah has healed them. And if you desire accidental killing,
+recite the oath and say: Burn, O servant of the letter Lām, this aid, for it burns, and its servant Hṭā’īl appears to you, its light
+white. And if you desire to use it, enter the seclusion and recite the invocation after every prayer 45 times, for then it appears in this way.
+And know that the letter Lām is called by yif al-ṭalab, and this is its form
+And its invocation: the basmalah, ṭk, O Allah, gather my gathering with the best of Your creation, for Yours is the praise and Yours is the thanks 224 227 232
+make every difficulty easy for me, O Gentle One 3 for Allah except there is no god, and the blessings, I ask You by the radiance 231 218 222
+of the lights of Your lofty majesty, a light by which I seek illumination upon uncovering the secret of Lām, make easy for me by Your nature 3112 4 25 222
+with the Lām, for Your invocation, O Allah, O You who is Allah, there is no god but Allah, answer, O King, and bring me one who 236 231 225 231
+has transgressed and rebelled from among the kings and servants; answer by one before whom the lofty mountains were shaken by His awe and the skins
+tremble from His fear, the Self-Subsisting, the Everlasting, everything prostrated to His greatness and everything humbled to His majesty, and He is the Gentle, the Aware.
+There is no god but He, Lord of the عظیم Throne, al-wuḥā and hasten to the killing of the wrongdoers, glory be to Allah the عظیم, there is no god except
+he who is saved by obedience, and whoever disobeys Him He makes him dust, dust, with the Lām, by night and by night, and by weariness, and Yassir by al and Ṭafrā’īl, answer
+by the glorious Throne and the vast Chair, make easy for me your side to what I have called you to and I have empowered over my disobedient ones from the spirits
+by the right of Him who says to a thing, Be, and it is, come, O good seeker, and do such and such, O present ones from
+the spiritual spirits, Lord, by you, who is nothing greater than Him, and there is no might and no power except by Allah, the High, the عظیم, and the incense is almonds
+and frankincense and lily, and if this letter is written and erased and given to the feverish, Allah heals him, and its Iḍbār: answer, O Ghabaṭ 2
+Ṭams Ḥulm Mulakhkhaṣ and act as trustee in such and such, al-wuḥā. (The letter Mīm) and it is 3 worlds of the kingdom and ṭam
+
+---
+## Page 414
+
+**Arabic (original):**
+- ٤٠٨ -
+الملكوت وعلم الجبروت إذا كتب ٤٠ وكتب معه محمد رسول الله الآية العدد المذكور وحملها إنسان
+فتح الله عليه بالأمور الخفية ووفقه للكشف على عالم الملك والملكوت وإذا كتب معه كل اسم أوله
+ميم وذلك ٤٠ اسماً وحمله نال الهيبة والقبول عند العالم العلوي والسفلي ومن رسمه في حائط
+خلوته ونظر إليه كل يوم ٤٠ مرة ويقرأ قوله تعالى قل اللهم مالك الملك الآية فإذا [فرغ] يعطيه نفاذ
+الكلمة بين العوالم وإذا كتب ٤٠ وكتب الإضمار واسمه الملك على خاتم ذهب أو فضة والقمر في
+الحوت وحمله فإنه يمسك قلوب الخلق بالمحبة وإذا ربطته باسم من أردت وتكتب عليه الدعوة
+والإضمار وجعلته في فتيلة فإن المطلوب يهيج وله خلوة وهو أن تدخلها وتكتب حرف م في الحائط
+وتتكلم عليه بالدعوة ٤٠ وكذلك الإضمار فإن الملك يحضر ويقضي حاجتك وإن أردت استخدامه
+فاتل الدعوة دبر كل صلاة ٤٠ مرة وأنت تقول أجب يا خادم حرف الميم وأعطني من روحانيتك
+روحاً يخدمني في قضاء يدي وهذه الدعوة بسم الله الرحمن الرحيم اللهم ملكاً من ملكك أملك به ملكاً تاماً
+لك الملك يا ذا الجلال والإكرام يا مؤمن يا مهيمن يا معطي يا مانع يا مالك الملك خادمي هذا
+الحرف وامزجه بروحانيتي يا أرحم الراحمين أجب يا ميم وأبطل حركات الكنوز واجلب لي الأرزاق
+وألق محبتي في قلوب الخلائق أجمعين اللهم ألمحني لمحة من لمحاتك يا ميم منحك الله النعم أنعم علي
+بالنعم التامة يوم عمور السماء هؤلا يا ميم نعيم وهي ملا يا ميم بحق اهدنا الصراط المستقيم أيمسعر يام
+ومريام واه ضار يام ولعه سلطم الوهم أجب يا ميم بحق جبريل وميكائيل وإسرافيل وبقوة الملك
+مهيائيل أكرم الله حرف الميم حتى تكون بين العوالم من المقربين بها وارجع إلى كرامتك من الله
+الكريم اهبط واطرد هؤلا المار من مكان كذا وكذا الوحا العجل واضاره أجب يا شراحيل
+بحق حمييثا الق حجج باه يا موه اهيا حمحط لياه بنور الأنوار ومنور الأبصار أجب بارك الله فيك
+بحق هذا الحرف تفتح أي كنز أردت بالاستخدام ﴿حرف النون﴾ وراني ظهاني إرد
+يابس إذا كتب ١٣ مرة على مرآة وكتب معه الله نور السموات والأرض الآية وأرسلت بها
+روحانية أي كوكب الروحانية تهابه وإذا كتب وضع على القولنج ووجع الجوف عوفي وإذا كتب
+والقمر فيه على لوح رصاص ومعه اسم الملك وألقيته في النهر اجتمع السمك من كل جانب وإلى صيد
+البرأتية الغزلان والأرانب ويكتب إضمار الحروف ويوضع في مكان فإن الأرواح تجتمع عليه وإذا
+كتب مع كل اسم أوله ن فإن ذاكره تفتح له أبواب الرزق وإذا كتب على حجر ٥٠ والإضمار
+تقول أجب أيها الخادم لهذا الحرف واحفظ هذا المال فإنه يحفظ وإذا أردت الدخول إلى أي مكان
+فيه مال اكتب الحرف على الحجر وألقه في المال وخذ مرادك وأنت تتلو الدعوة يحصل المطلوب
+وإذا استخدمت الحرف والملك فلا تحتاج لهذه الأعمال وكذلك في تنفير المياه فانظر إلى نزول
+الحروف في المنزلة وارسمه على لوح من رصاص أو حجر أو شقفة نيتة واكتب الإضمار حول الحرف
+واقرأ الدعوة وألق اللوح في الماء يغور وإذا كتب على تراب ووضع في رقبة الديك يفرط إذا مشى
+انهز التراب ووقع في المكان فإن العار تهرب وإذا أردت أن لا تفسد عليك كنز اكتب الحرف
+والدعوة
+
+**English:**
+- 408 -
+The ملكوت and the science of الجبروت: if 40 is written, and with it “Muhammad رسول الله,” the aforementioned verse and number, and a person carries it, God opens upon him the hidden matters and grants him success in disclosure upon the world of الملك and الملكوت. And if with it is written every name whose beginning is ميم, and that is 40 names, and he carries it, he attains awe and acceptance with the upper and lower world. And whoever draws it on the wall of his خلوة and looks at it every day 40 times, and recites His تعالى saying: “Say: O Allah, Owner of Sovereignty” the verse; then when [he finishes], it gives him the نفاذ of the word between the worlds. And if 40 is written, and the الإضمار and its name الملك are written on a ring of gold or silver, and the moon is in Pisces, and he carries it, then it holds the hearts of creation by love. And if you bind it with the name of whom you intend, and write upon it the الدعوة and the الإضمار, and make it in a wick, then the sought one becomes agitated. And it has a خلوة, which is that you enter it and write the letter م on the wall and speak over it with the الدعوة 40, and likewise the الإضمار; then the king will be present and fulfill your need. And if you wish to employ it, then recite the الدعوة after every prayer 40 times, while you say: Answer, O servant of the letter mīm, and give me from your روحانية a spirit that serves me in the fulfillment of my hand. And this الدعوة is: In the name of God, the Merciful, the Compassionate. O God, a king from Your kingdom, by which I possess a complete kingdom for You is the kingdom, O Possessor of Majesty and Honor, O Believer, O Guardian, O Giver, O Withholder, O Owner of Sovereignty, my servant of this letter, and mix it with my روحانية, O Most Merciful of the merciful. Answer, O mīm, and nullify the movements of treasures, and bring me provisions, and cast my love into the hearts of all creatures. O God, glance at me a glance from Your glances, O mīm, may God grant you blessings, bestow upon me the complete blessings on the day of the flourishing of the sky, these, O mīm, نعيم and وهي ملا, O mīm, by the truth of “Guide us to the straight path,” أيمسعر يام and مريام and واه ضار يام and ولعه سلطم الوهم. Answer, O mīm, by the truth of Gabriel and Michael and Raphael and by the power of the king مهيائيل. May God honor the letter mīm so that you may be among the worlds of those brought near by it, and return to your honor from God the Generous. Descend and drive out these passers-by from such-and-such a place, the wahā, the hurry, and its harm. Answer, O شراحيل, by the truth of حمييثا الق حجج باه يا موه اهيا حمحط لياه, with the light of lights and the illuminator of sights. Answer, may God bless you, by the truth of this letter you open any treasure you wish by use. [Letter of nūn] وراني ظهاني إرد يابس if it is written 13 times on a mirror, and with it is written “God is the Light of the heavens and the earth” the verse, and a روحانية of any planet is sent with it, the روحانية fears it. And if it is written and placed upon colic and abdominal pain, he is cured. And if it is written, and the moon is in it, on a lead tablet, and with it the name of the king, and you cast it into the river, fish gather from every side, and for the hunting of البرأتية, gazelles and rabbits. And the concealment of the letters is written and placed in a place, then the spirits gather upon it. And if written with every name whose beginning is nūn, then for whoever remembers it the doors of provision are opened for him. And if written on a stone 50 and the الإضمار, you say: Answer, O servant of this letter, and guard this money, for it is guarded. And if you wish to enter any place in which there is money, write the letter on the stone and cast it into the money, and take your desire while you recite the الدعوة; the sought matter is obtained. And if you use the letter and the king, then you do not need these works. Likewise in driving away waters, look to the descent of the letters in the منزلة and draw it on a tablet of lead or stone or a shard of نيتة, and write the الإضمار around the letter, and recite the الدعوة, and cast the tablet into the water; it sinks. And if written on earth and placed in the neck of the rooster, it becomes loose; if it walks, the earth is shaken off and falls in the place, then disgrace flees. And if you wish that a treasure not be corrupted for you, write the letter and the الدعوة
+
+Notes:
+[Grid content preserved as-is]
+
+---
+## Page 415
+
+**Arabic (original):**
+- ٤٠٩ -
+
+والدعوة والإضمار على الباب وإذا كتب في لوح من رصاص قدر الكف ووضع في نهل الرمل فإنه
+يحمد له خلوة جليلة وإذا حضر الخادم تجد نوره كالشمس ويعاهدك على ما تريد وتلاوة الدعوة..
+وكذلك الإضمار فإنه يحضر واسمه صَفْرَيائيل وإن أبطأ عليك فاطله من حرف النون فإنه يأتي
+صرفه فيما تريد وهذه صورته
+ودعوته البسملة ﴿ ن و ر اللهم قلبي وشعري وبصري وجوارحي وبدني بنور
+معرفتك الذي نورت به أهل طاعتك يامنور الشمس والقمر يانور كل النور
+ياهادي يانور ٢ يانور كل شيء وهداه أنت الذي فلقت الظلمات بنورك
+أسألك أن تنورني بالأنوار يامن يجيب المضطر إذا دعاه ويكشف السوء أسألك
+أن ترسل لي حرف النون يأتيني في خلوتي هذه حتى أنال منه ما ربي أحب يتلألأ أنوار الحجب ونور
+الخالق هيا يابون بالذي لا أعظم من أجره أجيب الداعي إكراماً لنون والقلم وما يسطرون وبالنار
+والنور والظل والحور والساه والمرورو بمستقر الأرواح بموليا غوليان بنور يان بشور يان ٢ عليون
+٢ طلون قهر يون سبحان شان ديان يوم الدين بألف لاحول ولاقوة إلا بالله العلي العظيم وإضمار
+أجب أيها الملك صَفْرَيائيل بحق مسلسله شلشع شهقع سرديخ مردمخ مهليش فهجيم ياه يوه ٢ نور
+لا أنوار أجب وتوكل العجل الساعة بارك الله فيك وعليك بالبخور نرجس في طرد الموانع نوره
+﴿ حرف السين ﴾ يابس فيه حرارة وإذا كتب مع الإضمار وحمله صاحب الصداع الكائن من
+الشقيقة والأوجاع برئ وإذا كتب مع الأسماء التي أولها س في بطاقة حرير وكتب معها يس والقرآن
+الحكيم وحملها نال المحبة والقبول وعقد اللسان وإذا كتب على بيضة وسلقت ١٠ كلتها النفساء سهل
+الله وضعها وإذا كتب في إناء ومحي بمرهم ٥ وغسل به الجراحات واللوع والدماميل فإنها
+تنشف وإذا كتب عدده وحمله صاحب القروح تنشف واسمه خدامه تدخل الخلوة واتل السقم ٩٠
+فإنه يهبط نوره كالشمس يقضي حاجتك وتكون الصورة مكتوبة في الخلوة وخادمه طهفائيل يحضر
+صرفه فيما تريد وهذه صورته
+ودعوته البسملة سلام قولاً من رب رحيم على وعلي عباد الله الصالحين يا الله
+أنت الصمد الله القيوم ياديان يوم الدين أسألك اللهم بأسمائك التي هي أعظم
+الأسماء وأشرفها أسألك ياحليم يامولاي تحن علي والطف بي في الشدائد وتزولها
+وارأف بي رأفة المحب المحبوب بأروف يارحيم بالحص تصور لي ياحرف السين حتى أشاهدك عياناً
+واقض حاجتي فيما ينفعني من أمري العجل بصير أير القلم في اللوح المحفوظ اخرج وتراءى بحق
+صاص صوص صون بما يتوصلون من الواحد الصمد إن ربك للمرصاد يا الله يا واحد يا صمد أجب
+بحق سليمان بن داود بألف لاحول ولاقوة إلا بالله العلي العظيم فتى أشرت بأمر من الأمور فعله
+والبخور صمغ والإضمار تقول أجب أيها الملك بحق سطيع ٢ طلطح ياه علصاحيم سوج صمس
+يردج صيداموه اهيا شراهيا أدوناي اصبأوت آل شداي أجب وتوكل بكذا ﴿ حرف العين ﴾
+باود رطب وبه إمداد العين بنظرها إلى النور وإذا كتب عدده ودعه كل اسم أوله ع في بطاقة والقمر
+
+**English:**
+- 409 -
+
+and the الدعوة and the الإضمار on the door. And if written on a lead tablet the size of the palm and placed in نهل الرمل, then a noble خلوة is praised for it. And when the servant is present, you find his light like the sun, and he makes covenant with you regarding what you want, and the recitation of the الدعوة.. Likewise the الإضمار, for he is present, and his name is صَفْرَيائيل. And if he is slow to come to you, then entice him by means of the letter nūn, for his turning will come in what you want. And this is its form.
+And its الدعوة: the basmala: “N و ر, O God, my heart and my hair and my sight and my limbs and my body with the light of Your knowledge by which You illuminated the people of Your obedience, O illuminator of the sun and the moon, O light of all light, O guide, O light 2, O light of everything and its guidance, You are the one who split the darknesses with Your light. I ask You to illuminate me with lights, O You who answers the distressed when he calls upon Him and removes evil. I ask You to send to me the letter nūn; let it come to me in this my خلوة so that I may attain from it what my Lord loves. Let the lights of the veils and the light of the Creator shine. Come, O بابون, by that whose reward is not greater; I answer the caller in honoring nūn and the pen and what they inscribe, and by fire and light and shade and houris and الساه and the passing through to the station of spirits, by موليا غوليان, by نور يان بشور يان 2 عليون 2 طلون قهر يون. Glory be to شان ديان يوم الدين, with a thousand; there is no power and no strength except by God, the Most High, the عظیم. And the concealment: Answer, O king صَفْرَيائيل, by the truth of his chain شلشع شهقع سرديخ مردمخ مهليش فهجيم ياه يوه 2 نور لا أنوار. Answer and rely; hurry, now. May God bless you, and upon you is the incense of narcissus in driving away the impediments, its light.
+[Letter of sīn] Dry, in it is heat. And if written with the الإضمار and carried by the one who has the headache that is from migraine and pains, he is cured. And if written with the names whose beginning is s on a silk card, and with it is written Yā Sīn and the Wise Qur’an, and he carries it, he attains love and acceptance and the binding of the tongue. And if written on an egg and boiled, 10 of it is eaten by the postpartum woman, God makes its placing easy. And if written in a vessel and wiped with مرهم 5 and the wounds and boils and abscesses are washed with it, then they dry up. And if its number is written and carried by the one with ulcers, they dry up, and its name, its servants. Enter the خلوة and recite السقم 90, then its light descends like the sun, it fulfills your need, and the image is written in the خلوة, and its servant طهفائيل is present, turning it in what you want. And this is its form.
+And its الدعوة: the basmala: “Peace, a word from a Merciful Lord, upon me and upon the righteous servants of God. O God, You are the Everlasting Refuge, God the Self-Subsisting, O Judge of the Day of Judgment. I ask You, O God, by Your names which are the greatest of names and the noblest of them. I ask You, O Forbearing One, O my Master, to be compassionate toward me and gentle with me in hardships and to remove them, and to show me mercy with the mercy of the beloved lover, with أروف, O Merciful One. By the حص, picture for me, O letter sīn, so that I may behold You openly, and fulfill my need in what benefits me in my affair. Hurry, بصير أير, the pen in the Preserved Tablet; come out and appear by the truth of صاص صوص صون, by which they reach from the One, the Everlasting Refuge. Indeed your Lord is ever watchful. O God, O One, O Everlasting Refuge, answer by the truth of Solomon son of David, with a thousand; there is no power and no strength except by God, the Most High, the عظیم. A youth, if you have indicated a matter among matters to do it. And the incense is resin, and the concealment you say: Answer, O king, by the truth of سطيع 2 طلطح ياه علصاحيم سوج صمس يردج صيداموه اهيا شراهيا أدوناي اصبأوت آل شداي. Answer and rely, thus [Letter of ʿayn] باود moist, and in it is the extension of the eye by its looking to the light. And if its number is written and every name whose beginning is ع is left for you on a card, and the moon
+
+Notes:
+[Grid content preserved as-is]
+
+---
+## Page 416
+
+**Arabic (original):**
+- ٤١٠ -
+
+في المنزلة فإن حاملها ينال المحبة والطاعة عند المخلوقات وإذا حمل هذه البطاقة بليد الفم فتح عليه
+ويكتب هذا الحرف لمنع ضيق النفس ويكتب معه قوله تعالى عالم الغيب والشهادة في إناء فيه قليل
+عسل ثم يذاب ويسقى فإن الله يعافيه وإذا كتب يوم الجمعة ومعه الإضمار في حريرة بيضاء ووضعت
+تحت فص خاتم فإن حامله ينال المحبة عند الناس وإذا كتب عدده والإضمار معكوساً في خرقة
+حرير رقاق وتبخر بمر وكنج وتتلو عليها الإضمار وتدفنه في المكان الذي تريد تعطيله يحصل وله
+خلوة بشرط الرياضة ويكون معك الحرف في رأسك وبخر بـ تزروت وعود فإن الخادم يحضر ويقضى
+حاجتك وهذه صورته
+ودعوته البسملة - اللهم أعلمها علمته لأوليائك وألهمه لي في قلبي وانفعني
+به كما نفعت الخواص من خلقك فيك المستعان وعليك التوكلان اللهم
+الطف بي بلطفك الخفي حتى أستعين في علوم استخرجتها لأهل طاعتك
+وعافني من هذه الزلة وتعطف لي وعطف على قلوب المخلوقات بعطوف
+يارؤوف ياودود سخر لي عبدك خادم حرف العين وثبت قلبي لمخاطبته وأرسله لي ليعلمني علم أوليائك
+وأنبيائك الكرام ياعليم ٣ ياحي ياعين بتلميع وعقد وعين وعتقوع اعمل لي ما أحب
+وافعل لي ما أمرتك بحق السر العميق عسوع وبحق الآيات البينات أجب ياخادم هذا الحرف
+بارك الله فيك وعليك وأقسم عليك أيها العون المبارك بسر عظمة الله وآياته وأسأله وبحق من له
+العزة والجبروت وله الأسماء الحسنى ونوره لا يطفأ وعرشه لا يزول وكرسيه لا يتحرك الوحا بعزة الله
+الوحا بحق من يعلم السر وأخفى الله لا إله إلا الأسماء الحسنى الله لا إله إلا هو رب العرش العظيم
+ولاحول ولاقوة إلا بالله العلي العظيم والإضمار تقول أجب ياشراهيل أريك الله فيك وعليك بحق
+يحطم عذق اردنف سييع ياهيموه على طور ونادى أنا الله ايل ٢ هلماه أجب وتوكل الوحا العجل
+واعلم أن خادم هذا الحرف إذا حضر قضى حاجتك وما يريد خصوصاً علم الصنعة (حرف الفاء)
+وهو حار رطب أو هو بين الحرارتين ومن خواصه للفالج يكتب هذا الحرف عدده والقمر فيه ويحلى
+بأربعة عشر دهناً أول كل دهن حرف من هؤلاء الحروف وهي رب ق ن ف س وتريح ويدهن به
+صاحب الفالج ويكرر ٧ مرات بمافي ومن خواصه لمن أعطل لسانه من الأطفال تكتبه والقمر فيه
+عدده والإضمار ثم يحمله الولد فإنه ينطق وله خلوة واكتب الحرف والدعوة والإضمار ٧ فإن الخادم
+يحضر ويمد بأمور عظيمة وإذا وضع في باب كنز أو مكان فيه امرأة إبطالها فإنه يبطلها وكذلك
+في إيفادها وإذا كتب والقمر فيه في شقفة والإضمار وكتبته بطل النار أبطالها هذه صفته
+(وهذه الدعوة) بسم الله الرحمن الرحيم اللهم إني أسألك يامن يفعل ما يشاء ومختار
+ويحكم ما يريد له الحكم وإليه ترجعون لا راد لحكمه ولا معقب لقضائه ولا مجد
+لعبده من معصية إلا توفيقه ورحمته أسألك اللهم الأفعال الربانية والأنوار
+الساطعة الرحمانية يامن له الآلاء والنعماء لا إله إلا أنت هيئ لي من أمري رشداً
+وأعطني الإجابة يارب فلسوف بفلسوف يغضفر بلمويوف ساريوفف
+
+شلموف
+
+**English:**
+- 410 -
+
+in the منزلة, then its bearer attains love and obedience among creatures. And if this card is carried by one whose mouth is sluggish, it opens upon him. And this letter is written to prevent shortness of breath, and with it is written His تعالى saying: “Knower of the unseen and the witnessed” in a vessel in which there is a little honey, then it is dissolved and drunk, for God cures him. And if written on Friday, and with the الإضمار with it in a white silk cloth, and placed under the bezel of a ring, then its bearer attains love among people. And if its number and the الإضمار are written reversed in a thin silk rag, and fumigated with myrrh and kunc, and the الإضمار is recited over it, and it is buried in the place you wish to disable, it succeeds. And it has a خلوة on the condition of spiritual discipline, and the letter is with you in your head, and fumigate with تزروت and oud, for the servant will come and fulfill your need. And this is its form.
+And its الدعوة: the basmala: “O God, teach it as You taught it to Your saints, and inspire it for me in my heart, and benefit me by it as You benefited the elect among Your creation. In You is the help sought, and upon You is reliance. O God, be gentle with me by Your hidden gentleness, so that I may seek help in sciences I extracted for the people of Your obedience. And preserve me from this slip, and be compassionate toward me, and incline the hearts of creatures with compassion, O Most Kind, O Most Loving. Subdue for me Your servant, the servant of the letter ʿayn, and make firm my heart for addressing him, and send him to me to teach me the knowledge of Your saints and Your noble prophets, O All-Knowing 3, O Living, O Eye, with polishing and binding and eye and ʿatqūʿ, do for me what I love, and do for me what I command You by the truth of the deep secret عسوع and by the truth of the clear verses. Answer, O servant of this letter. May God bless you and upon you, and I swear upon you, O blessed helper, by the secret of the عظمت of God and His verses, and I ask Him, and by the truth of Him who has might and dominion, and to whom belong the most beautiful names, and whose light is not extinguished, and whose Throne does not vanish, and whose Chair does not move. The hurry by the might of God, the hurry by the truth of Him who knows the secret and what is more hidden. God, there is no god except the most beautiful names. God, there is no god except Him, Lord of the عظیم Throne. And there is no power and no strength except by God, the Most High, the عظیم. And the concealment: you say, Answer, O شراهيل, I show you in you and upon you by the truth of يحطم عذق اردنف سييع ياهيموه على طور and he called: I am God, ايل 2 هلماه. Answer and rely. The hurry, the hurry. And know that the servant of this letter, when he is present, fulfills your need and what he wants, especially the science of the craft (the letter fāʾ), and it is hot, moist, or it is between the two heats. And among its properties for paralysis: this letter is written, its number, and the moon in it, and it is adorned with fourteen oils, the first of each oil being a letter from these letters, and they are رب ق ن ف س, and it is used to anoint the one with paralysis, and it is repeated 7 times بمافي. And among its properties for one whose tongue has been disabled from children: you write it, and the moon in it, its number, and the concealment, then the child carries it, for he speaks. And it has a خلوة. And write the letter and the الدعوة and the الإضمار 7, for the servant will come and extend with great matters. And if placed at the door of a treasure or a place in which there is a woman, its nullification, then it nullifies it, and likewise in its sending. And if written, and the moon in it, on a shard, and the الإضمار, and you write it, it nullifies the fire, its nullifications; this is its description.
+(And this الدعوة) In the name of God, the Merciful, the Compassionate. O God, I ask You, O You who does what He wills and is the Chosen One, and He حكمs what He wills; to Him is the حكم, and to Him you are returned. There is no repeller of His حكم, and no reverser of His decree, and no one is more glorious to His servant from disobedience except His granting of success and His mercy. I ask You, O God, for the divine acts and the radiant merciful lights, O You who has the favors and the blessings. There is no god except You. Prepare for me from my affair right guidance, and grant me the answer, O Lord, for surely then بفلسوف بفلسوف يغضفر بلمويوف ساريوفف
+
+شلموف
+
+---
+_End of translation — 416 pages._
