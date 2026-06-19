@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 386 translated pages._
+_Auto-generated from 389 translated pages._
 
 ---
 ## Page 1
@@ -22223,4 +22223,137 @@ that it is this without doubt. And that in which there is no disagreement among 
 (ب-م)
 
 ---
-_End of translation — 386 pages._
+## Page 387
+
+**Arabic (original):**
+— ٣٨١ —
+
+«بسم الله الرحمن الرحيم» اعلم أن هذا الحجر هو جوهر واحد وإنما ينقسم إلى قسمين وشكلين
+مختلفين أحدهما روحاني والثاني جسماني فالجزء الأول المحلول فيه القمر وعطارد والزهرة
+والثاني المعقود فيه الشمس والمريخ وزحل ولذلك سماه العلماء هذا الحجر بالعالم الصغير لأن فيه
+ما في العالم الكبير من الأفلاك وما فيها من النجوم وها أنا أصف لك التدبير وصفاً يغني عن الرؤية
+وهو أن تعمد إلى ما يخرج من مشادر حسان الوجوه فاجعله في قرعة وأنبق وليكن واسعاً وأحم
+على جوانبها بنار لينة حتى يصعد الماء ثم تشد النار حتى يصعد الدهن وينقطع القطر ويبذر
+الدخان ويخرج وارفع كل واحد في إنائه وكفه عن الغبار وأبدل الرأس برأس أعمى وليكن به ثقب
+في قاعه وأخرى بجانبه وأغلق ثقبة الجانب وافتح ثقبة الرأس فطول ما يخرج منها البخار وتعاهدها
+بالتسكين حتى تعرف ثم سد ثقبة وألق عليه اليد مبلولاً وافتح ثقبة الجانب الآخر وأدخل فيها
+عموداً صغيراً وأنت شد النار كلما خرج منها البخار الأسود وامسحه حتى ينقطع السواد عنه وانزع
+القرعة وبردها يوماً وليلة ثم خذ المشادر الذي صعد في الإنبيق في أعلاه وأخرج الأرض التي بقيت
+في القرعة واجعل النشادر في آنية وكفه عن الغبار ثم تأخذ مغنيساً وهي الأرض فصيرها في كوز
+فخار صابر على النار وطين عليها طين الحكمة وأدخله في فرن الزجاج أو في نفسه وضعه في
+النار الشديدة ٧ أيام فإنه يتكلس أحمر مثل الزعفران أو آنية ممزوجة وكفه عن الغبار ثم
+تأخذ الماء الأبيض وهو الروح وضعه في قرعة على ربعها وعليها إنبيق بمرزاب واجعله في قدر نحاس
+ملآن ماء وصعده ٧ مرات وكلما صعدته رددته إلى القرعة وخذ ما في القرعة من التفل فتلك
+المرقشيثا فاجعلها في إناء مسدود الرأس وانشفها على نار لينة ثم اطرح عليها الماء الأبيض في
+قرعة وصعده ٧ مرات وكلما صعدتها أخرجها ونشفها في إناء ثم ردها إلى القرعة واطرح عليها
+الماء ثم اسحقها على صلابة وملسها وكسها في إناء مسدود الرأس حتى يكون كالكافور واجعلها
+مع الجسد جزءاً وإن ثم اجعل هذه الأجساد على صلابة ملساء واطرح عليها المشادر واسحقها
+واجعلها في قرعة عليها رأس أعمى وسد الرأس وكب القرعة في قرعة أو في جوف قدر نحاس
+ملآن ماء وأوقد تحتها النار اللينة فإذا جفت الأرض فالها من الزئبق النقي دم عليها بالسقي
+حتى يصير لها بياض ساطع فألق منها على أي جسد شئت يصير قمراً ثم تأخذ ما في الأرض وتسقيها
+بالأحمر وتأخذك كذلك الأصح التجفيف حتى يصير أصفر فهذا هو النحاس فإنه ينحل ماء فبرد
+ذلك وافتح القرعة وخذ الماء وارفعه في إناء زجاج وكفه عن الغبار ثم تأخذ الجسد الزعفراني واعرف
+قدره من الروح المصطفى ١٢ وزناً مثله وأدخله في جوف قدر نحاس ممتلئ بالماء وصعد الماء على
+الجسد ٧ مرات كل مرة تصعده فإذا خرجت الأرض وسحقتها على صلابة ثم ردها إلى القرعة
+واطرح الماء عليها وكذلك ماء الحياة ثم ارفع كل واحد في إناء ٧ مرات بسبع تصعيدات ثم
+أخذ الدهن وأضف إليها ماء الحياة قدر ٣ أمثاله وصيرها في قرعة وركب عليها رأس أعمى وضعها
+في قدر نحاس ملآن الماء وأوقد تحتها بنار لينة مثل نار الزجاج قدر نصف نهار ثم برد القرعة وافتحها
+فإنك تجد الماء أحمر مثل النار فافرغه في زجاجة وزد من الما مثل وزن الأرض تفعل به ذلك ٣
+
+**English:**
+“In the name of Allah, the Merciful, the Compassionate.” Know that this stone is one essence, but it is divided into two parts and two different forms, one spiritual and the second corporeal. So the first part, in which the moon, Mercury, and Venus are dissolved, and the second, in which the sun, Mars, and Saturn are conjoined. Therefore the scholars called this stone the little world, because in it is what is in the great world of the spheres and what is in them of the stars. And here I describe to you the operation, a description that suffices in place of seeing. It is that you should go to what comes out of the beautiful-faced mashadir, and put it in a flask and an alembic, and let it be wide, and heat its sides with a gentle fire until the water ascends, then intensify the fire until the oil ascends and the drops cease and the smoke disperses and comes out. Lift each one in its vessel and keep it from dust, and replace the head with a blind head, and let there be a hole in its bottom and another at its side. Close the side hole and open the head hole, so long as the vapor comes out from it, and tend it by calming until you know, then close the hole and cast upon it the hand moistened, and open the other side hole and insert into it a small rod, and you intensify the fire while the black vapor comes out from it and wipe it until the blackness ceases from it. Remove the flask and cool it for a day and a night, then take the mashadir that ascended in the alembic at its top, and remove the earth that remained in the flask, and put the sal ammoniac in vessels and keep it from dust. Then you take magnes, and it is the earth, and place it in a clay jar enduring the fire, and plaster upon it the plaster of wisdom, and put it into the glass furnace or in itself, and place it in the intense fire for 7 days, for it calcifies red like saffron, or mixed vessels, and keep it from dust. Then you take the white water, and it is the spirit, and place it in a flask to a quarter of it, and upon it an alembic with a spout, and place it in a copper vessel full of water and distill it 7 times. And every time you distill it, return it to the flask. And take what is in the flask of the dregs, for that is the marqashitha, so place it in a vessel with a sealed head and dry it over a gentle fire. Then cast upon it the white water in a flask and distill it 7 times, and every time you distill it, remove it and dry it in a vessel, then return it to the flask and cast upon it the water, then grind it on a hard surface and smooth it and clothe it in a vessel with a sealed head until it is like camphor, and make it with the body one part. And if then, place these bodies on a smooth hard surface and cast upon them the mashadir and grind them and place them in a flask upon which is a blind head, and seal the head and invert the flask in a flask or in the hollow of a copper vessel full of water, and kindle beneath it the gentle fire. When the earth dries, water it with pure mercury; irrigate it until it becomes of a shining whiteness. Then cast from it upon any body you wish; it becomes a moon. Then take what is in the earth and water it with the red, and take you likewise the soundest drying until it becomes yellow; this is the copper, for it dissolves into water. So cool that and open the flask and take the water and lift it in a glass vessel and keep it from dust. Then you take the saffron-colored body and know its amount from the chosen spirit, 12 in weight like it, and insert it into the hollow of a copper vessel filled with water, and distill the water upon the body 7 times, every time you distill it. When the earth comes out and you grind it on a hard surface, then return it to the flask and cast the water upon it, and likewise the water of life, then lift each one in a vessel 7 times with seven distillations. Then take the oil and add to it the water of life in the amount of 3 times its like, and place it in a flask and mount upon it a blind head and place it in a copper vessel full of water and kindle beneath it with a gentle fire like the fire of glass for the amount of half a day. Then cool the flask and open it, for you will find the water red like fire. Pour it into a bottle and add from the water the like of the weight of the earth; do with it that 3
+
+Notes:
+[Grid content preserved as-is]
+
+---
+## Page 388
+
+**Arabic (original):**
+— ۳۸۲ —
+
+وقد قضيت جميع الصبغ من النفس فاجعله في كأس من زجاج مفتوح الفم وأودعه في قرعة
+أخرى أذيق بميزاب واجعل القرعة في قدر نحاس ملآن ماء وأوقد تحتها ناراً لينة حتى يصعد
+الصبغ عن الماء ويبقى الصبغ في أسفل الكأس كالنار إذا زال لهبها فحينئذ يقع الترويح فتأخذ
+من الأرض جزءاً ومن الماء الحياة جزءاً ومن النشادر جزءاً واجعله في زجاجة وركب
+عليهم زجاجة أخرى كالفضاض وشد الوصل بينهما واجعلها في شمس حارة حتى تجف الأرض
+وتشرب الماء كله فافتح الزجاجة وزد عليها مثل وزن الأرض التي جعلت منه ثم جففها في الشمس
+حتى تشرب ثم اسحقها بالماء وجففها حتى تجف إن كنت في زمن الصيف فعالجها بالشمس وإن
+كنت في زمن الشتاء فعالجها بالنار اللينة التي مثل حرارة الشمس حتى تجف الثانية فقد بلغت من
+الإكسير غاية فاسحقه وارفعه في زجاجة وسد رأسها من الغبار وألقِ جزءاً على ٢٠ جزءاً وبالله
+التوفيق وكن من الشاكرين
+
+(فصل منه آخر في بيان وتفصيل)
+* اعلم أن اسم الحجر عندهم هو مفرد على حسب اختلافهم فمنهم من قال إنه الشعر وهم الأكثرون
+وقال آخرون البيضة وقال آخرون الرصاص وآخرون الدم إلى غير ذلك ثم أقول في حال التدبير
+لم يكن مختلف فيه قولان ولا أكثر لأن تدبيرهم واحد يوصل البقية الشاملة ومنهم من بسط القول
+ومنهم من عمه ومنهم من رمزه ومنهم من خلط في كلامه ونحن نبين إشارة القوم وتضم كل واحد
+إلى صاحبه حتى يقع الفهم إلى كل ذي لب وقالوا إن حجرهم فرد كما أن الله فرد أحد ويدخله
+التكسر من الفهم ولما أرادوا تطهيره قسموه أجزاء وها أنا أذكرها فكثرت الأجزاء ثم
+استكمل جزءاً منها بأشياء كثيرة واتسعت الأجزاء حينئذ نظروه جزءاً منه أولاً فقالوا ذلك ثم
+ذكروا أن الجزء ما لم يبيض رقيق على وجهه غبرة كأنها دهنة فسموه ماء المطر وماء الكلب
+لأن الحكماء سموا ما سال من حجرهم بحراً ونهراً وعيناً وماء السحاب ومطراً ولبناً ودهناً وخلاً
+وبولاً والكل سيال في العالم وكل مركب ثم شدوا النار فقطر ماء أبيض ثقيل براقاً لآلئ يخطف
+الأبصار إذا وضع في الماء خيل لك أنه يشق الزجاج لقوة نوره وإن حرك يلمع كلمعان ماء البحر
+والظلام فسموا هذا بالزيبق العربي وهو بارد رطب ثم شدوا النار فقطر هذا غليظاً إلى السواد
+وهو الزيبق الشرقي حار يابس والصبغ في الطبيعة النارية ولا ينحل إلا بماء الزيبق العربي فإذا
+انحلت صارت روحانية صافية صياغة لغيرها وفي الأرض التي لها سريان شرب للتبييض وشرب
+للتجمير والأرض والهواء والنار وضده الثلاثة ينحل في الماء الزيبق حتى يصير إبخاراً فرفوراً بإشعاعه
+يخطف الأبصار ويدور دوران القدر إذا زالت منه رطوبة الزيبق بالنار اللطيفة وهي الحكمة
+التي تراد منه أن يصير ماء واحداً لا يقدر يفصل بعضه من بعض قال مارية إذا رأيت في كتاب
+تسميع أو تصيية أو تصدية أو هضم أو تحليل أو تصعيد أو تقطير فإنما هو شيء واحد وقد يقع
+في الماء الخالد المقيم فالصانع الزيبق وهو النفس فالنفس تصبغ الروح والروح لا يصبغ
+الجسد وهو بعيد الصبغ حتى يرى دهناً لأن الأرواح الصاعدة إذا رجعت لأجسادها
+الأرضية
+
+**English:**
+And I have completed all the dye from the soul, so place it in a glass cup with an open mouth and deposit it in another flask with a spout, and place the flask in a copper vessel full of water and kindle beneath it a gentle fire until the dye ascends from the water and the dye remains in the bottom of the cup like fire when its flame has gone away. Then at that point the airing occurs, so you take from the earth one part and from the water of life one part and from the sal ammoniac one part, and place it in a bottle, and mount upon them another bottle like the silvering, and tighten the connection between them, and place it in hot sun until the earth dries and drinks all the water. Then open the bottle and add to it the like of the weight of the earth from which it was made, then dry it in the sun until it drinks, then grind it with water and dry it until it dries. If you are in the season of summer, then treat it with the sun, and if you are in the season of winter, then treat it with the gentle fire that is like the heat of the sun until the second dries. Then you have reached the utmost of the elixir, so grind it and lift it in a bottle and seal its head from dust and cast one part upon 20 parts, and with Allah is success, and be among the thankful.
+
+(Another chapter from it in explanation and detail)
+* Know that the name of the stone among them is singular according to their اختلاف. Among them are those who said that it is hair, and they are the majority; and others said the egg; and others said lead; and others blood; and other than that. Then I say: in the state of the operation, there were not two opinions nor more differing in it, because their operation is one, conveying the comprehensive remainder. Among them is he who expanded the statement, and among them is he who generalized it, and among them is he who symbolized it, and among them is he who mixed in his speech. And we explain the indication of the people and join each one to its companion until understanding reaches every possessor of intellect. And they said that their stone is single, just as Allah is single, One, and breaking enters it from understanding. And when they wanted to purify it, they divided it into parts, and here I mention them, so the parts became many. Then a part of it was completed with many things, and the parts then expanded. They first considered it a part of it, so they said that. Then they mentioned that the part, so long as it has not whitened, is thin, on its face, with a dust like grease, so they named it rain water and dog water, because the sages named what flowed from their stone sea and river and spring and water of the clouds and rain and milk and oil and vinegar and urine, and all is flowing in the world and every compound. Then they intensified the fire, and a white water distilled, heavy, shining, pearls, snatching the eyes. If placed in water, you would imagine that it splits the glass because of the strength of its light, and if moved it glitters like the glitter of seawater and darkness. So they named this the Arabic mercury, and it is cold and moist. Then they intensified the fire, and this distilled thickly to blackness, and it is the eastern mercury, hot and dry, and the dye is in the fiery nature and is not dissolved except by the water of the Arabic mercury. When it is dissolved, it becomes spiritual, pure, a crafting for other than it. And in the earth that has a flow there is a drinking for whitening and a drinking for reddening, and the earth and the air and the fire and its opposite, the three, are dissolved in the mercury water until it becomes a vapor, a farrūr, by its radiance it snatches the eyes and turns like the turning of a pot when the moisture of the mercury has departed from it by the gentle fire, and that is the wisdom that is intended from it, that it become one water, from which it is not able to separate some of it from some. Mariah said: if you see in a book tasmi‘, or tasyiya, or tasdiyya, or digestion, or dissolution, or sublimation, or distillation, then it is only one thing, and it may occur in the abiding immortal water. So the maker is the mercury, and it is the soul; for the soul dyes the spirit, and the spirit does not dye the body, and it is far from dyeing until it is seen as oil, because the ascending spirits, if they return to their earthly bodies
+
+Notes:
+[Grid content preserved as-is]
+
+---
+## Page 389
+
+**Arabic (original):**
+- ٣٨٣ -
+
+الأرضية بعد مفارقتها لها يصيران شيئاً واحداً ويميل كل واحد منهما إلى شكله فإذا اجتمعوا
+فرجعوا إلى بعض وسموا التفل بكل أرض وبل جسد وربما سموا الزئبق بالماء الأول وهو
+تدبير الأرض خاصة تؤخذ أرضهم فيحرق بالنار وهو الضبع المذكور فإذا خافوا أن تأكلها النار
+سقوا بالماء مرة بعد أخرى حتى يبيض ويصلب فيقولوا خلط الزئبق بالرماد وفي كبريت القوم
+ثلاثة قوى مولدة وقوة مغذية وقوة هاضمة والنيران ٧ نار تكلس الجمد ونار عقد الماء
+وهو الزئبق ونار عنصرية التي توقد في البيوت ونار الطبيعة ونار العقد وقال ذو النون النيران
+لها ٧ رتب تحتاح وتلتهب وثلاثة فاترة لتمام العشرة وقيل هي القوة الطبيعية التي في
+الكبريت فإن لها في ذلك ثلاث قوى مولدة ومغذية وهاضمة فالمولدة إنما تولد النطفة في البطن
+إلى أن تولد وكذلك المولود الأحمر يخرج في أول الأمر كالطفل لا يقوى على صلابة النار كما لا يقوى
+الطفل على الغليظ من الأغذية إنما يتغذى لبناً أولاً بالتدريج إلى أن يأكل غذاء وكذلك الميزان
+يلطف أولاً ثم يشد قليلاً حتى يصير له طبعاً والقوة المربية تدبره وتزيد في جسمه إلى أن يبلغ أشده
+ويأخذ في الانحطاط والنقص وكذلك هذا المولود الذي في المركب الذي في النفس إذا ينحل
+من أبوه فإنه ينحل منه في الأول عرق يسير ثم يعرق قليلاً وربما سموه لبن الكلية في أول
+خروجه قليل وربما يربى أجزاء كثيرة وكذلك هذا اللبن الذي في المركب في أول العمل ولكنه
+يعمل في هذه الأجساد وإذا رددته عليها عمل عملاً عظيماً ويزيد في هضمها وتحليلها قليلاً حتى يكثر
+ويبلغ منتهاه في الغاية من صعوده ثم ينقص قليلاً في تصعيده الأرضية ويرجع إلى عنصره الكائن
+منه في الجسد أما مثله كالأرض التي تقوم فيها نباتات وكذلك الأرواح لا تقوم إلا بالأجساد لأن
+الأرواح تطلب مراكزها وهي النار والأرض ومركزها في الأسفل والأعلى متصل بالأسفل
+والغذاء لا يهضم إلا بالحرارة والرطوبة لأن الهضم ضرب من التعفين والتعفين حرف غليظ الجسد
+ثم يصيره روحاً غواصاً بعد أن كان جسداً غليظاً خشناً والتعفن هو المستعمل في عملهم وعليه
+معولهم وبالتعفين يتميز صعود الغذاء وينحدر إلى الأمعاء سفلاً وكذلك الحكماء إذا أخذوا الصفو
+الذي يصفو من الحجر سموه نفساً وماء الكبريت النقي بأسماء كثيرة ويسمون التفل الباقي في
+الزبل وأكثروا في كتبهم التعفين وقالوا يعفن الحجر بالزبل الرطب وإنما هو هذا وليس
+لهم زبل غير التفل الذي يعفنون ولذلك قال خالد تجمع الطبائع في واحد هو الأصل لا غير يطاب
+كريم ومنشؤه في الزبل فلا يهب وذلك أن معنى قولهم سبع نيران حجرهم مثل الكيان وهو
+النفس والروح والجسد مربع الكيفية وهي الطبائع الأربعة النار والهواء والتراب والماء ولذلك
+سبعة على تركيب الإنسان وكون الجسم يكون لوناً أسود مثل الفأر وهو كان أسود
+ظاهراً ففيه جوهر صافي قال الحكيم لا يهولنكم من هذه الطبائع وغلظها وكثرة أوساخها
+وسوادها فإن ذلك الوسخ والسواد ترده النار إلى الصفاء ويعود نوراً واحداً وليس تتفق عند الحكماء
+من سوادها ولا يبيض بالماء والنار تعقده وهو الشرقي فإذا اجتمع بعضهم بعض ولد منها هوه
+
+**English:**
+earthly, after their separation from it, become one thing, and each of them inclines to its form. So when they are gathered, they return to one another, and they named the dregs in every earth and wet body, and perhaps they named mercury the first water, and it is the operation of the earth alone. Their earth is taken and burned with fire, and it is the mentioned hyena. If they fear that the fire will consume it, they water it again and again until it whitens and hardens, so they say: the mercury is mixed with ash. And in the sulfur of the people there are three generative powers, and a nourishing power, and a digestive power. And the fires are 7: a fire that calcines the congealed, and a fire that binds the water, and it is mercury, and an elemental fire that is kindled in houses, and the fire of nature, and the fire of binding. And Dhu al-Nun said: the fires have 7 ranks, some needing and blazing, and three lukewarm, to complete the ten. And it was said: it is the natural power that is in sulfur, for in that it has three powers: generative, nourishing, and digestive. For the generative only generates the seed in the belly until it is generated. Likewise the red-born comes out at first like a child, not able to endure the hardness of fire, just as the child is not able to endure the coarse foods; rather he is nourished first by milk gradually until he eats food. Likewise the balance is first made subtle, then tightened a little until it becomes a nature for it, and the nurturing power manages it and increases in its body until it reaches its full strength and begins in decline and diminution. Likewise this offspring that is in the compound that is in the soul, when it is dissolved from its father, there dissolves from it at first a slight vein, then it sweats a little, and perhaps they named it the milk of the kidney. At the beginning of its خروج it is little, and perhaps many parts are nurtured. Likewise this milk that is in the compound at the beginning of the work, but it works in these bodies, and if you return it upon them it works a great work and increases in their digestion and dissolution a little until it becomes abundant and reaches its limit at the utmost of its ascent, then it decreases a little in its sublimation of the earthly and returns to its element from which it came in the body, as its like is like the earth in which plants stand. Likewise spirits do not stand except by bodies, because spirits seek their centers, and they are fire and earth, and their center is below, and the upper is connected to the lower. And food is not digested except by heat and moisture, because digestion is a kind of putrefaction, and putrefaction is a gross letter of the body, then it makes it into a diving spirit after it had been a gross, rough body. And putrefaction is what is used in their work, and upon it is their reliance, and by putrefaction the ascent of the food is distinguished and it descends to the intestines below. Likewise the sages, when they take the pure that is purified from the stone, call it soul, and the pure sulfur water by many names, and they call the dregs remaining in the dung, and they have increased in their books the putrefaction, and they said: the stone is putrefied with moist dung, and it is only this, and they have no dung other than the dregs which they putrefy. Therefore Khalid said: the natures gather in one, which is the أصل, nothing else; it is agreeable, noble, and its origin is in dung, so do not be astonished. For the meaning of their saying “seven fires” is that their stone is like the being, and it is the soul and the spirit and the body, fourfold in quality, which are the four natures: fire, air, earth, and water. Therefore seven upon the composition of man, and the being of the body is a black color like the mouse, and it was black outwardly, while in it is a pure essence. The sage said: let not these natures and their coarseness and the abundance of their filth and blackness alarm you, for that filth and blackness the fire returns to purity, and it returns as one light. And among the sages it is not agreed from its blackness, nor does it whiten by water, and fire binds it, and it is the eastern one. So when some of them are gathered with some, there is born from them a هوه
+
+---
+_End of translation — 389 pages._
