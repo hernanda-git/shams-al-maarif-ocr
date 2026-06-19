@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 404 translated pages._
+_Auto-generated from 410 translated pages._
 
 ---
 ## Page 1
@@ -23282,4 +23282,306 @@ carries it, from all the great ones. And this is its form in the second face
 And thus
 
 ---
-_End of translation — 404 pages._
+## Page 405
+
+**Arabic (original):**
+- ٣٩٩ -
+٣٦٤١٠٤ وإذا دخلت إلى كنز وأردت أن لا يغلق بابه اكتب حرف الألف واسم الملك والإضمار
+٣٥٢٧٣٩ وادخل وخذ حاجتك وإذا كتب على حجر وكتب عليه الإضمار ووضع في مال وقال
+٤٠٣٣٣٨ يا خدام هذا الحرف احفظوا هذا المال فإنه يحفظ وإذا أخذت مصران كبش أو من
+جلده وصورت منه صورة كاملة وكتبت عليها حرف الألف واسمه الملك ووكله بأي مكان أوقع
+فيه الحريق أو في جدار الدار فإنه يهدم ويخرب ولا يعمر وإذا أردت تأليفاً لا ينفك ابسط اسم
+الطالب والمطلوب وحرف الألف عدده واربط الجميع يوم الأحد والشمس في الأسد واكتب
+الحروف في جام زجاج أو على خرقة حرير وبخرها واكتب خاتم حرف الألف مع الكتابة وتنجم
+وتحمل فإن المعمول له لا يصبر عنك ساعة وإذا أردت تأليفاً بين اثنين فاعمل خاتماً من ذهب
+ويكون وزن مثقالين وذلك يوم الأحد وتأخذ اسم الطالب والمطلوب وتجمعه حروفاً مفرقة
+واكتب عدد حرف الألف مع الحروف واجمع الجميع وتزهم في مربع واكتب الخاتم واسم الملك
+على كل جهة من المربع وتنزل الألف على كل جهة ٣٠ مرة وفي الرابعة ٣١ يكون جملة ذلك
+١٢١ وبخره ببخور الحروف وتحمله فإنه يحصل غاية التأليف وإذا كتب واسم الملك
+على سكين وأومأ بها على المطحول أو صاحب القولنج أو الصداع برئ في الوقت ويوصى بهذه
+السكين إلى الجن إذا كان مصروعاً فإنه يقوم (ومن خواصه للإخفاء) تأخذ جلد بومة تذبحه
+لحناً والشية وتكتب عليه حرف الألف وارسم معه الملك والدعوة والإضمار واعمله عرقة
+والبسه تخفى وإذا كسر هذا الحرف ونزل في مسدس في شرف الشمس في ساعة المريخ على
+ورق بمداد أحمر وعلق على إنسان فإنه لا يقطع فيه الحديد ۞ ولاستنطاق ما في القلوب تكتب هذا
+الحرف في يدك بدمك والقمر في النطح ويكون وجه المريخ ناظراً إلى المنزلة وتكون الكتابة
+بيدك اليسرى في كفك الأيمن وتضع يدك عليه إن كان نائماً وإن كان واقفاً فبالمصافحة فإنه
+يخبرك بأمور غريبة وهذا الحرف خلوة ورياضة ٢٨ يوماً والملك في الخلوة أن تطهر ظاهرك
+وباطنك وتجلس وتتلو الدعوة والإضمار ١١١ دبر كل صلاة وأنت تقول أجب أيها الملك
+هطمهطفيائيل بطيائيل الرئيس الأكبر فإنك ترى الخلوة قد امتلأت نوراً ورأيت خادم الحرف
+بين السماء والأرض وتأخذ عليه الميثاق والعهد ويستخدمه فيما تريد وبه تزجر ملائكة الأرواح
+العلوية خدام الحرف وللألف خلوة أخرى وهو أن تتلو الدعوة في الخلوة وتكتب صورة الألف في
+ورقة وتضعه في المحراب وتصرفه فيما أردت ۞ واعلم أن الحروف أمة من الأمم والدعوة إذا تلوتها
+من غير خلوة شاهدت من الجهة والقبول بين العوالم وهي هذه (بسم الله الرحمن الرحيم) اللهم إني
+أسألك يا من له العظمة والآلاء والمجد والكبرياء يا الله ٣ يار باه ٣ ياهو يا سيداه أسألك بسر الاسم
+الأعظم أن تسخر لي روحانيتك وألبسني بها نوراً وجمالاً وقبولاً وأن تهبني سراً من أسرار الألف
+أصرفه فيما أريد أيها الحرف المتحرك من اليقظة والتقى بشرف اسمك وبالنار والنور والظل
+والحرور ومما قيل بالنهار وبما أخرجه القديم وبسر ما وضعت في اللوح المحفوظ من
+
+**English:**
+- 399 -
+364104 And if you enter into a treasure and you desire that its door not be closed, write the letter alif and the name of the king and the idmar, 352739 and enter and take your need. And if it is written on a stone and the idmar is written upon it and placed in wealth, and it said, 403338 “O servants of this letter, guard this wealth, for it is guarded.” And if you take the intestines of a ram or from its skin and fashion from it a complete image, and write upon it the letter alif and its name, the king, and assign it to any place in which fire falls, or in the wall of the house, then it will be demolished and ruined and not be built up. And if you desire an affection that does not break, spread out the name of the seeker and the sought, and the letter alif, its number, and bind all together on Sunday while the sun is in Leo, and write the letters in a glass bowl or on a silk rag, and fumigate it, and write the seal of the letter alif with the writing, and you will be astrologized and carried, for the one for whom it is worked will not endure from you an hour. And if you desire affection between two, then make a seal of gold, and its weight shall be two mithqals, and that on Sunday, and take the name of the seeker and the sought and gather it as separated letters, and write the number of the letter alif with the letters, and gather all, and make it in a square, and write the seal and the name of the king on every side of the square, and bring down the alif on every side 30 times, and in the fourth 31; the total of that is 121. And fumigate it with the fumigation of the letters and carry it, for the utmost affection will be obtained. And if it is written, and the name of the king, on a knife, and it is gestured with toward the afflicted with jaundice, or the one with colic, or headache, he will be cured at once. And this knife is entrusted to the jinn if he is possessed, for he will rise. (And among its properties for concealment) you take the skin of an owl, slaughter it melodiously and with the mark, and write upon it the letter alif, and draw with it the king, the invocation, and the idmar, and make it a patch, and wear it: you will be concealed. And if this letter is broken and brought down in a hexagram in the exaltation of the sun in the hour of Mars on paper with red ink and hung upon a person, then iron will not cut in him. ۞ And for eliciting what is in the hearts, you write this letter in your hand with your blood, and the moon in al-natḥ, and the face of Mars is looking toward the mansion, and the writing is with your left hand in your right palm, and you place your hand upon him if he is sleeping, and if he is standing then by handshake, for he will inform you of strange matters. And this letter has seclusion and discipline for 28 days, and the king in the seclusion is that you purify your outward and inward, and sit and recite the invocation and the idmar 111 after every prayer, while you say, “Answer, O king, Haṭmaḥṭafiyā’īl Baṭiyā’īl, the greatest chief,” for you will see the seclusion filled with light, and you will see the servant of the letter between heaven and earth, and you take from him the covenant and the pledge, and he will be employed in whatever you want, and by it you drive away the angels of the spirits, the exalted servants of the letter. And for alif there is another seclusion, and it is that you recite the invocation in the seclusion and write the form of alif on a sheet and place it in the miḥrāb and direct it in whatever you desired. ۞ And know that the letters are a nation among the nations, and the invocation, if you recite it without seclusion, you will witness favor and acceptance among the worlds, and it is this: (In the name of God, the Merciful, the Compassionate) O God, I ask You, O Possessor of majesty, favors, glory, and grandeur, O God 3, Yār Bāh 3, Yāhū, O my master, I ask You by the secret of the greatest name that You subjugate Your spiritual power for me and clothe me by it with light, beauty, and acceptance, and that You grant me a secret from the secrets of alif, I direct it in whatever I want, O letter, the moving one from wakefulness and piety, by the nobility of Your name and by fire and light and shade and heat, and from what was said by day and by what the ancient brought forth and by the secret of what You placed in the Preserved Tablet of
+
+---
+## Page 406
+
+**Arabic (original):**
+- ٤٠٠ -
+
+العلم بعلم منشأ الأمور وبسر إمدادك الألف وبأمرك النافذ بكليليا ومليليا وطليا وهنيا وريا وثيا
+وهيثا وبألف الأمر وبحق أهيا شراهيا أدوناي أصباؤت آل شداي والأمر العظيم أزجر
+الرئيس الأكبر همطهايل أيل همطهايل أن تتوكلوا بكذا وكذا العجل الوحا ۞ واعلم أن هذه
+الدعوة من تلاها ولازم عليها ألقى محبته في القلوب وإذا أردت انتقاماً من أحد من الأعوان
+والملوك تكتب صورة الألف على بيضة واتل الدعوة وضع البيضة في النار فإن العون يحضر ويقضى
+حاجتك وهذه صفة الإضمار تقول أجب أيها الملك العظيم السيد طهطائيل الرئيس الأكبر وأمرع
+حق هيه ٢ يهون ٢ شكمهيل ٢ سحلو أجب وأهبط وتمثل لي بصورة حسنة الوحا العجل
+واعلم أنك في روحانية الألف لا تحتاج إلى بخور وأما في غيرها فيبخر بالكزبرة والسندروس وعلق
+في الهواء وتكتب لما أردته وتلق في النار مثل التهايج والأرواح والطالب يتصرف كيف شاء ثم
+تقول أجب يا ألف وافعل كذا وكذا ﴿حرف الباء﴾ وهو بارد يابس وهو من الحروف الباقية
+وهو باطن الألف وسر الوجود وتصرفها قائم إلى يوم القيامة وبها يعلمون حقائق الأكوان
+ويستدلون بها على توحيده والباء لها إشارة في جميع العوالم علويها وسفليها وقد شرف الله حرف
+الباء وجعله بدءاً للبسملة وأول صحيفة آدم وللسموات ۞ واعلم أن الله لما أنزل القرآن على النبي
+عليه السلام قال له جبريل اقرأ يا محمد باسم ربك فكانت الباء مضمرة للذات والصفات تضمر الذات
+سر التجلي في نظيره عرفت ومضمرت الصفات بسر الأفعال ولما خلق الله الباء خلق معها ٢٤ ملكاً
+تحت يد كل ملك ما شاء الله من الملائكة يسبحون الله فلأجل ذلك كانت مفتاحاً لكنوز الكتب
+وفيها سر البسط وهي من أشكال الألف ۞ واعلم أنك إذا كتبت الباء عدده الأصلي وكتبت معه
+الأسماء التي أولها الباء وحملها من تعسر عليه رزقه يسر الله عليه وإذا كتب هذا الحرف ودعا كل
+اسم أوله باء وسقى للمريض الذي مرضه من اليبوسة فإن الله يعافيه ويشفيه وإذا كتب حرف
+الباء ١٦ والبسملة ١٩ فهو لكل ما تريد وتكتب معها قوله تعالى بديع السموات والأرض
+إلخ الآية وإذا كتب وربط مع اسم من تريد والقمر في البطن وكتب الأسماء الحسنى والإضمار
+وحمله فإن الله يعطفه عليه وكذلك من تعسرت عليه الأسباب تيسرت وإذا أردت المحبة والقبول
+فاستقبل الهلال أول ليلة إذا ظهر في الغرب واكتب الحرف ١٩ مع إضمار ١٦ وأنت تقول
+أجب يا خادم حرف الباء بحق بسم الله الرحمن الرحيم ثم استلم القمر وامسح به وجهك ثم مسح
+الكتابة بلسانك تفعل ذلك كل ليلة إلى تمام البدر ١٤ ليلة فإن الأرواح تعطف عليك وكل حاجة
+لك تقضى وإذا كتبت الحرف في كفك وتلوت الدعوة والإضمار واستقبلت القمر
+وقلت أحيوا يا روحانية الحرف واقضوا حاجتي وامزجوا روحانيتي بين العوالم يكون ذلك وإذا
+كتب الحرف في إناء مزجج وكتب معه الإضمار والبسملة وقوله تعالى بديع السموات والأرض
+والأسماء التي أولها حرف الباء ووضع ذلك في دهن ياسين ودهن وجهه فإنه قبول جميع الخلق
+ومن كتب شكل الباء يوم الجمعة مع البسملة والأسماء التي أولها باء والإضمار وحملها على عضده
+شرح الله صدره وأزال عنه الكسل ولطف به وإذا أردت أحداً ببرك خادمه وكسره واربط معه
+كن
+
+**English:**
+- 400 -
+
+the knowledge, with the knowledge of the origin of affairs, and by the secret of Your supplying the alif, and by Your effective command: by Kilyā, and Milyā, and Ṭilyā, and Hanyā, and Ryā, and Thiyā, and Hīthā, and by the alif of the command, and by the right of Īhyā Sharahyā, Adonai, Aṣbā’ūt, Āl Shaddāy, and the great command: I drive away the greatest chief, Hamṭahā’īl, Īl Hamṭahā’īl, that you should entrust yourselves to such-and-such, hurry, hurry. ۞ And know that this invocation, whoever recites it and persists upon it, its love is cast into the hearts. And if you desire vengeance from one of the aides and kings, you write the form of alif on an egg and recite the invocation and place the egg in the fire, and the aide will come and your need will be fulfilled. And this is the description of the idmar: you say, “Answer, O great king, lord Taḥṭā’īl, the greatest chief, and Amra‘ ḥaqq Hīh 2, Yihūn 2, Shakmhīl 2, Saḥlū, answer and descend and appear to me in a good form, hurry, hurry.” And know that in the spiritual power of alif you do not need incense, but in other than it, it is fumigated with coriander and sandarūs, and hung in the air, and you write for what you desired and cast it into the fire, such as agitation and spirits, and the seeker acts as he wishes, then you say, “Answer, O alif, and do such-and-such.” ﴿The letter bā’﴾ And it is cold, dry, and it is among the remaining letters, and it is the inward of alif and the secret of existence, and its disposition remains قائم until the Day of Resurrection, and by it they know the realities of beings and infer by it His oneness. And the bā’ has an indication in all the worlds, their upper and their lower, and God has ennobled the letter bā’ and made it the beginning of the basmalah and the first page of Adam and for the heavens. ۞ And know that when God sent down the Qur’an upon the Prophet, peace be upon him, Gabriel said to him, “Recite, O Muhammad, in the name of your Lord,” so the bā’ was concealed for the Essence and the attributes; the Essence conceals the secret of manifestation in its counterpart, you knew, and the attributes are concealed by the secret of acts. And when God created the bā’ He created with it 24 angels, under the hand of each angel, as God willed, of the angels glorifying God; for that reason it was a key to the treasures of books, and in it is the secret of expansion, and it is among the forms of alif. ۞ And know that if you write the bā’ with its original number and write with it the names whose beginning is bā’, and carry it, for one whose provision has become difficult, God will make it easy for him. And if this letter is written and every name whose beginning is bā’ is invoked, and it is given to the sick person whose illness is from dryness, then God will grant him well-being and heal him. And if the letter bā’ is written 16 and the basmalah 19, then it is for whatever you want, and you write with it the Exalted’s saying, “Originator of the heavens and the earth,” etc. of the verse. And if it is written and bound with the name of whom you want, and the moon is in the belly, and the beautiful names and the idmar are written, and it is carried, then God will incline him toward him. Likewise, whoever has difficulty with causes, they become easy. And if you desire love and acceptance, then face the crescent on the first night when it appears in the west, and write the letter 19 with idmar 16, while you say, “Answer, O servant of the letter bā’ by the right of In the name of God, the Merciful, the Compassionate.” Then receive the moon and wipe your face with it, then wipe the writing with your tongue; do that every night until the full moon is complete, 14 nights, for the spirits will incline toward you and every need of yours will be fulfilled. And if you write the letter in your palm and recite the invocation and the idmar and face the moon and say, “Come alive, O spiritual power of the letter, and fulfill my need, and mix my spiritual power among the worlds,” that will be so. And if the letter is written in a glazed vessel and the idmar and the basmalah and the Exalted’s saying, “Originator of the heavens and the earth,” and the names whose beginning is the letter bā’ are written with it, and that is placed in Yāsīn oil and his face is anointed with it, then it is the acceptance of all creation. And whoever writes the form of bā’ on Friday with the basmalah and the names whose beginning is bā’ and the idmar and carries it on his upper arm, God will expand his breast and remove laziness from him and be gentle with him. And if you desire someone by your blessing, his servant and his breaking, and bind with him, then
+
+---
+## Page 407
+
+**Arabic (original):**
+- ٤٠١ -
+
+كل اسم أوله باء واتل اسمه البرهتية مرة وتوجه إليه فإنه يبرك وإذا كتبت حرف الباء ١٦ مرة على ٣
+أوراق وتمحى وتسقى لصاحب الحمى زالت عنه وإذا أردت قبولا تاما لعامة الخلق ارصد القمر
+إذا نزل البطين واعمل خاتم فضة واكتب عليه حرف الباء مع اسم بدوح وضع عليه فصا ياقوتيا
+واحمله فإنه قبول تام وللحرف الباء خلوة خدامه مهيائيل فإذا أردت استخدامه اكتب الحرف
+وضعه في رأسك بعد الرياضة واتل الدعوة والقسم دبر كل صلاة ٣٨ مرة واتل العزيمة والرياضة
+٤٠ يوما فإن الملك يحضر ويقضى حاجتك ومهما أردته تبخر وتقول أجب يا خادم حرف الباء
+فإنه يحضر وهذه صورته
+وإذا كتب على حجر ووضع في جدار فإنه يمنع اللص وإذا دخلت إلى مكان
+فيه ماء فاكتب الحروف والقها في الماء يغور وإذا تلوت الدعوة
+على كف تراب ورميته في وجوه قطاع الطريق عموا وصموا ولقد الألسنة
+تكتب الحرف ومعه الآيات المناسبة للعقد وتستعين به على فتح الكنوز تقول أجب يا خادم
+الباء وكن عونا لي على ما أريد والدعوة هي اللهم إني أسألك يارب الأرباب يا رازق الخلق بغير حساب
+أن تسخر لي روحانية هذا الحرف ليقضوا حوائجي فإليك أشكو ضعف قوتي وبك أستعين وأنت
+المستعان وعليك التكلان ولا حول ولا قوة إلا بالله العلي العظيم أجب يا خادم حرف الباء بهبوب
+الأرياح ومستقر الأرواح وجرهبوب ٢ ونبعوت ٢ وسيعوب ٢ سايوب ٢ أجب
+بحق من ابتلى أيوب وبأنه طلق المحبوب عليه بما فيه من السر استجبتك وأخذت ناصيتك بالذي
+قال لمن الملك اليوم الله الواحد القهار وهاب وهاب وهاب يرزق من يشاء بغير حساب والأضمار
+تقول أجب يا خادم حرف الباء السيد حرهيائيل بلس ليج النور اللامع ذي الآلاء
+والكبرياء (حرف الجيم) وهو حرف بارد رطب جمالي جلالي صفته كالريح ويأتي لمن أراده وهو
+من حروف المراتب وإذا كتب مع الأسماء التي أولها جيم فأكغد أواناه وسقيت لأصحاب الحميات
+الحارة نفعتهم جيدا وإذا كتب ٣٠٠ مرة مع الأضمار ولف صاحب الحاجة في خرقة زرقاء وجعلها
+مفتولة بذهن زي يق على اسم شخص وشعلت المفتولة وتكلمت عليه بإضمار فإنه لم يتخلف سوى
+مسافة الطريق وإذا كتبت الحرف والقمر في المنزلة وكتبت ثلاث جهات على كل جيم ٣ أحرف مع
+اسم الملك على حجر أو نحاس أحمر يوم الثلاثاء وضع عليه حجرا أحمر من أي الحجارة
+ويكون مثلثا فإن حامله تنفذ كلمته وتقوى حرمته ويعلو قدره بين العالم وإذا كتبت حرف الجيم
+مع كل اسم أوله ج على رق بمداد أحمر مع الأضمار وحمله فإنه قبول وإذا كتب شكله المثلث وحوله
+٣ جهات وكتب عليه اسم الملك وحملته من في الطلق تضع حالا واعلم أن عوالم هذا الحرف هي
+التي تحمل الثلج وتلقيه في الشمس لئلا يحرق حرها الناس وإذا كتب على خاتم وحوله الأضمار
+وحملته وتلوت الدعوة وتقول ج ٥٣ فإنك لا تظمأ وإذا كتب في خرقة زرقاء أخذت من منزلة
+على اسم من والقمر في المنزلة ووضعت في الماء الذي يشرب منه فإنه يمسكه القولنج وإذا كتب مع
+(٢٦ - شمس المعارف - رابع)
+
+**English:**
+- 401 -
+
+every name whose beginning is bā’ and recite its Burhatiyyah once and direct yourself to it, for it will be blessed. And if you write the letter bā’ 16 times on 3 sheets and erase it and give it to the one with fever, it will depart from him. And if you desire complete acceptance from the عامة of creation, observe the moon when al-Buṭayn descends, and make a silver ring and write upon it the letter bā’ with the name Budūḥ, and place upon it a ruby stone, and carry it, for it is complete acceptance. And for the letter bā’ there is a seclusion; its servant is Mahiyā’īl. And if you desire to employ it, write the letter, place it in your head after the discipline, and recite the invocation and the oath after every prayer 38 times, and recite the determination and the discipline for 40 days, for the king will come and your need will be fulfilled. And whatever you desire, fumigate and say, “Answer, O servant of the letter bā’, for he will come,” and this is its form.
+
+And if it is written on a stone and placed in a wall, it prevents the thief. And if you enter a place in which there is water, write the letters and cast them into the water; it will sink. And if you recite the invocation over a handful of earth and throw it in the faces of highway robbers, they will become blind and deaf, and the tongues. You write the letter along with the suitable verses for the knot, and you seek help by it for opening treasures; you say, “Answer, O servant of bā’, and be a help to me in what I want.” And the invocation is: “O God, I ask You, O Lord of lords, O Provider of creation without reckoning, that You subjugate for me the spiritual power of this letter so that they may fulfill my needs. To You I complain of the weakness of my strength, and by You I seek help, and You are the One sought for help, and upon You is reliance, and there is no might and no power except by God, the High, the Great. Answer, O servant of the letter bā’, by the blowing of the winds and the resting place of spirits, and Jarhabūb 2, and Nab‘ūt 2, and Sī‘ūb 2, and Sāyūb 2, answer by the right of Him who afflicted Job and by that he divorced the beloved upon him, by what is in it of the secret I have answered you and taken your forelock by the One who said, ‘To whom belongs sovereignty today? To God, the One, the Subduer,’ and ‘Giver, Giver, Giver, He provides whom He wills without reckoning.’ And the idmar you say: ‘Answer, O servant of the letter bā’, the lord Ḥarhiyā’īl, Bals Līj, the shining light, possessor of favors and grandeur.’
+
+(The letter jīm) And it is a cold, moist letter, beautiful, majestic; its quality is like the wind, and it comes to whoever desires it, and it is among the letters of ranks. And if it is written with the names whose beginning is jīm, فأكغد أواناه, and it is given to the owners of hot fevers, it benefits them well. And if it is written 300 times with the idmar and the one with the need is wrapped in a blue rag and made twisted with the mind of Zī Yaq upon the name of a person, and the twisted thing is lit and spoken over with idmar, then he will not remain behind except the distance of the road. And if you write the letter and the moon is in the mansion, and you write three directions on every jīm, 3 letters with the name of the king on a stone or red copper on Tuesday, and place upon it a red stone from any of the stones, and it is triangular, then for its bearer his word is carried out, his sanctity is strengthened, and his rank is elevated among the world. And if you write the letter jīm with every name whose beginning is j on parchment with red ink with the idmar and carry it, then it is acceptance. And if its triangular form is written and around it 3 directions, and the name of the king is written upon it, and you carry it, then whoever is in labor will give birth at once. And know that the worlds of this letter are those that carry the snow and cast it into the sun so that its heat does not burn the people. And if it is written on a ring and around it the idmar and you carry it and recite the invocation and say j 53, then you will not thirst. And if it is written in a blue rag taken from a mansion on the name of someone and the moon is in the mansion and it is placed in the water from which he drinks, then colic will hold him. And if it is written with
+
+---
+## Page 408
+
+**Arabic (original):**
+- ٤٠٢ -
+الإضمار ووضع في طعام ووكلت خادم الحرف أن يأخذ المطلوب بالناجح فانه يكون وإذا كتب مع
+اسم من أردت على خرقة وكتب معه اسم جليل جميل وكسرت الحروف وجمعتها باسم من أردت
+وحملتها كان قبولا وإذا كتب على بيضة بيضة وكتب عليها الإضمار وأتيت بها إلى المكان المتهم أو إلى
+باب كنز وأمرت بفتح الباب فانه يفتح وله خلوة وهو أن تدخلها طاهرا وتتكلم بالدعوة وتكتب
+صورة الحرف في رأسك وهي حجابك وتتلو العزيمة دبر كل صلاة حتى يأتي الخادم لهذا الحرف
+واسمه طعائيل وتنتظره في الخلوة فإذا حضر فعاهده على ما تريد من قضاء الحوائج وغيرها
+وهذه صورته
+| ١٢ | ٥ | ٢١ | ٥ |
+| ٢ | ٦ | ١١ | ١٦ |
+| ٣ | ٢٣ | ١٣ | ١٠ |
+| ١٤ | ٩ | ٨ | ١٢ |
+وهذه صفة الدعوة تقول ﭽ بسم الله الرحمن الرحيم جلبت بجاه الجبروت وبعزة
+العظمة والكبرياء وبالواحد الأحد الماجد القيوم الدائم الذي لا يموت جليل تجلى
+للجبل فجعله دكا وخر موسى صعقا جلبت مطلوبي محبوبي يسعى لي حيث سواه
+القريب المجيب أجب يا حرف الجيم بما فيك من البر والمحبة والتهييج أجب مطيعا
+وبحق الشمس والوهيج جيم جعلتك جيادي وأقسمت عليك برب العباد الذي بيده الأمر والحكيم
+ولاحول ولاقوة الا بالله العلي العظيم أجب إطعائيل وافعل كذا وكذا وبهذا الحرف تخطف الروحانية
+وتقضى الحوائج وإضمار هـ د م ج ليلطف هـ هـ ظ بخ أحوج موجود سبوح رب الملائكة والروح
+أجب أيها الملك طعائيل الوا العجل الساعة ﭽ حرف الدال ﭽ وهو بارد رطب كمل الله به الطبائع
+الأربعة ﭽ ومن خواصه إذا كتب مع اسم أوله دال مثل دائم ديان في لوح مربع وحمله إنسان وكتب
+في كل ناحية من أوفق أربع دالات فانه محبة عظيمة ﭽ واعلم أن حرف الدال من أسرار الديمومية
+والبقاء إذا أردت المودة من أحد كتبه وتكلم عليه بالأسماء واسقه لمن أردت فانه مغناطيس القلوب
+في المحبة ﭽ وإذا كتب اسم الطالب والمطلوب وربطه بحرف الدال ومزجت حروف الإضمار
+وكتب هذا الحرف في خرقة حرير وحمله إنسان فانه يحبه ﭽ وإذا كتب ٣٦ مرة وكتب الوفق
+وحوله حرف د ووضعته تحت فص الخاتم ولبسه رجل ذو نعمة فانه يبارك له فيها وإذا كتب ٢٦
+معه محمد رسول الله والذين معه أشداء الخ في خرقة وكتب معها الملك والإضمار وحمله شاهد من
+صنع الله مالانهاية له وله خلوة جليلة وخادمه شلمائيل فإذا أردت استخدامه فتربض ٢٨ يوما
+وامكث في الخلوة ١٤ يوماً وتلاوة الدعوة دبر كل صلاة فانه يحضر ويخاطبك بما تريد وهذه صورته
+ﭽ ودعوته البسملة دعوت ربا عظيما يرى السر والبرهان ديان يوم الدين أدم على
+لطفك ولطيف صنعك أجب أيها الملك سملائيل سبحانك لا إله إلا أنت أن تسخر لي
+ذلك يا مولاي سخر لي حرف الدال بدال الدوام وبدوامك بتصريف أمري
+وبتوفيقك علي وخلع ذا السنة الذي لا تأخر ويأجوج ومأجوج فيعوج وهو يا ﭽ دال بألف
+اهدنا الصراط المستقيم صراط الذين أنعمت عليهم غير المغضوب عليهم مجل ولا تراب يا دال بألف
+لا
+
+**English:**
+- 402 -
+the concealment, and it was placed in food, and the servant of the letter was entrusted that he take the sought one by the successful one, for indeed it will be. And if it is written with the name of whom you desire on a rag, and with it is written a noble, beautiful name, and the letters are broken and gathered together with the name of whom you desire, and you carry it, it will be acceptance. And if it is written on an egg, egg, and the concealment is written upon it, and you bring it to the suspected place or to the door of a treasure, and you command the opening of the door, then it opens. And it has a seclusion, and it is that you enter it in purity and speak with the invocation, and write the form of the letter in your head, and it is your veil, and recite the determination after every prayer until the servant of this letter comes, and his name is Taa’īl, and you wait for him in the seclusion; then if he appears, make covenant with him upon what you desire of the fulfillment of needs and other than that. And this is its form:
+| 12 | 5 | 21 | 5 |
+| 2 | 6 | 11 | 16 |
+| 3 | 23 | 13 | 10 |
+| 14 | 9 | 8 | 12 |
+And this is the description of the invocation: you say: “In the name of Allah, the Merciful, the Compassionate. I brought by the rank of the Compulsion, and by the might of grandeur and pride, and by the One, the Unique, the Glorious, the Self-Subsisting, the Everlasting, who does not die, Majestic, manifested to the mountain, so He made it dust, and Moses fell down thunderstruck. I brought my sought one, my beloved, to walk for me wherever he is other than the Near, the Responsive. Answer, O letter of jīm, with what is in you of righteousness, love, and incitement. Answer obediently. And by the right of the sun and the blazing heat, jīm, I made you my steeds, and I swore upon you by the Lord of the servants, in whose hand is the الأمر and the Wise. And there is no power and no strength except by Allah, the High, the Great. Answer, Iṭṭā’īl, and do such and such.” And by this letter the Ruhāniyyah is snatched, and needs are fulfilled. And the concealment: هـ د م ج, “that it may be gentle”; هـ هـ ظ بخ, “most needy, existing”; “Glorious, Lord of the angels and the spirit.” Answer, O king Taa’īl, come quickly, now. [Letter of dāl] And it is cold, moist; by it the four natures are completed. And among its properties: if it is written with a name whose beginning is dāl, such as Dā’im, Dayyān, on a square tablet, and a person carries it, and in every side of the most fitting four dāls is written, then it is a great love. And know that the letter dāl is among the secrets of perpetuity and remaining. If you desire affection from someone, write it and speak over it with the names and give it to whom you desire, for it is the magnet of hearts in love. And if the name of the seeker and the sought is written and tied with the letter dāl, and the letters of the concealment are mixed, and this letter is written on a silk rag and a person carries it, then he loves him. And if it is written 36 times and the square is written and around it the letter d, and you place it under the bezel of the ring, and a man of blessing wears it, then blessing will be in it for him. And if 26 is written with it, “Muḥammad is the Messenger of Allah, and those with him are severe, etc.” in a rag, and with it is written the king and the concealment, and a witness carries it from the making of Allah, without end, and it has a noble seclusion, and its servant is Shalmā’īl. So if you desire to employ it, then remain crouched 28 days, and stay in the seclusion 14 days, and the recitation of the invocation after every prayer, then he will appear and address you with what you desire. And this is its form:
+And its invocation: the basmalah, “You invoked a mighty Lord who sees the secret and the proof, Judge of the Day of Judgment. Continue upon Your gentleness and the gentleness of Your making. Answer, O king, Simalā’īl. Glory be to You; there is no god but You, that You subdue for me that, O my master, subdue for me the letter dāl by the dāl of perpetuity, and by Your perpetuity in the disposal of my affair, and by Your granting success to me, and the stripping off of this year that does not delay, and Gog and Magog, so it bends, and it is, O dāl with ألف. Guide us to the straight path, the path of those upon whom You have bestowed favor, not of those upon whom is wrath, Majl and no dust, O dāl with ألف. No...”
+
+---
+
+---
+## Page 409
+
+**Arabic (original):**
+— ٤٠٣ —
+
+لاحول ولاقوة إلا بالله العلي العظيم، والبخور دار فلفل وقصب الذريرة، ومهما أردت من هذا الحرف
+تخذه وإضمارة الجهة: هططاف هططف تها ليج، أجب أيها الملك بارك الله فيك. (حرف الهاء)
+وهو هو، إن له الهوية، وهو من حروف المهمات روحاني باطني قائم بنفسه، له في العلويات نور مطلق من
+عوالم العرش، يتصرف في المحبة والتهايج، وإذا كتب ٢٥ على خرقة زرقاء ووضعه في سراج على
+اسم المطلوب وتلوت الإضمار فإن المطلوب يحضر، وإذا كتب ٤٥ مع اسمه تعالى الحي وحمله ضعيف
+الفهم فإنه يرزق الفهم ويفتح عليه، وإذا كتب على خاتم ذهب أو فضة يوم الجمعة والقمر في الهنعة وحمله
+ملك كان مهاباً، ولكثرة الأحلام تكتب هذا الحرف والإضمار تحمله على رأسك، وإذا كسر هذا
+الحرف مع اسم من أراد وحملها معه فإنه قبول، وهذه
+وله خلوة يدخلها ويتلو الدعوة والإضمار دبر كل صلاة ٤٥ فإنه يحضر، وهذه | ١١ ١٤ ٢٤ ٣٠ |
+الدعوة: البسملة، هية من مواهبك يا وهاب يا رزاق يا فتاح يا عليم يا رباه يا سيداه يا غاية | ٢٨ ٢٩ ١٤ ٨٤ |
+قصداه يا منتهاه أملاه يا ملجأ الأولين، أنت الأول والآخر والباطن والظاهر | ٣٩ ٣٥ ٢٥ ٢٥ |
+سبحانك لا إله إلا أنت، هب لي باهياهمه الله هياها ٢ ساه اهياها واحد عزيز | ٢٣ ٢٢ ١٩ ٢٧ |
+هياهاها، أجب أيها الملك وافعل كذا وكذا، العجل يا حرف الهاء ومدني بالمحبة عند الحق، هيا بالحول
+ولا قوة إلا بالله العلي العظيم، والإضمار تقول: أجب أيها الملك هيمائيل بحق دلح هليك سلموح
+ياه، أجب وتوكل بكذا وكذا، الوحا العجل الساعة. (حرف الواو) وهو حرف ود وألف مألوف،
+ومن خواصه لإمساك البطن تكتبه على صورة كف وتتكلم عليه بالإضمار وتجعله صاحب
+الإسهال ينفعه، وإذا كتب مع كل اسم أوله و وركب معه اسم من أراد وتلا الإضمار فإنه
+يحصل بينهما المحبة والألفة، وله خلوة تدخلها وتبخر في ٣ أوقات وتكتب الحرف وتضعه في
+واسك وتتلو الدعوة دبر كل صلاة ٢٨ مرة يظهر لك الخادم نوره كالشمس فيسلم عليك ويقول
+ما تريد؟ قل له: أريد الخدمة، فيقول: سمعاً وطاعة، ومهما طلبته، واسمه طو يائيل وهو من خدام القسم
+الجامع، فإذا طلقته فاكتب الحروف على خاتم من ذهب والقمر في منزلة الحرف وبخره بالعود
+والمصطكى، وانل الإضمار ٤٥ مرة فإنه يقضى ما تريد. * ودعوته: بسم الله الرحمن
+الرحيم، اللهم إني أسألك يا ود يا وهاب يا والي يا واحد يا وارث، الله أسألك بسر أسمائك العظام بنور
+وجهك الكريم الذي نارت به الظلمات أن تولني وتتولاني بولايتك وتكشف لي اللطاء عن سر
+الواو وأعطني تصريفه يا وهاب هيا واو هطط بالطوطائيل وأنت يا درديائيل يأمر الله وبحق
+ما تعلمون من عظيم قدرة الله وبحق جبريل وميكائيل وإسرافيل وعزرائيل، أجيبوا أيتها الملوك
+واثقون بحق حرف الواو وبحق من خلقكم وخلقه، هيا يا مولاي منك أرجو والطلب إليك
+رجوعي الأسرار، أسألك بما قدرته في اللوح يا حفيظ، وارت غني من يسؤني يا أرحم الراحمين،
+الوحا واثقون تعجل بالألف، لا حول ولا قوة إلا بالله العلي العظيم، إذا أردت تسليط الاستسقاء
+اكتب الحرف والإضمار معكوساً على اسم من تريد وادحه واسقيه له فإنه يمرض لوقته، والإضمار تقول:
+
+**English:**
+— 403 —
+
+There is no power and no strength except by Allah, the High, the Great. And the incense: dār pepper and qasab al-dharīrah. And whatever you desire from this letter, take it, and the concealment of the direction: hṭṭāf hṭṭf thā līj, answer, O king, may Allah bless you. [Letter of hā’] And it is هو هو; indeed it has the identity, and it is among the letters of the important matters, spiritual, inward, قائم بنفسه; in the upper realms it has an absolute light from the worlds of the Throne. It disposes in love and incitement. And if 25 is written on a blue rag and placed in a lamp upon the name of the sought one, and the concealment is recited, then the sought one will come. And if 45 is written with His تعالى name, the Living, and a weak-minded person carries it, then he is granted understanding and it opens for him. And if it is written on a ring of gold or silver on Friday and the moon is in al-Han‘ah and a king carries it, he will be awe-inspiring. And because of the abundance of dreams, write this letter and the concealment; carry it on your head. And if this letter is broken with the name of whom he desires and he carries it with him, then it is acceptance. And this
+It has a seclusion; he enters it and recites the invocation and the concealment after every prayer 45, then he will come, and this: | 11 14 24 30 |
+invocation: the basmalah, “Hiyah from Your gifts, O Bestower, O Provider, O Opener, O Knower, O my Lord, O my Master, O goal | 28 29 14 84 |
+of my purpose, O end of my hope, O refuge of the first ones, You are the First and the Last, the Inward and the Outward | 39 35 25 25 |
+Glory be to You; there is no god but You. Grant me bāhiyāhumah Allah hiyāhā 2 sāh ahiyāhā one mighty | 23 22 19 27 |
+hiyāhāhā. Answer, O king, and do such and such. Hurry, O letter of hā’, and extend to me with love at the Truth, come with power
+and no strength except by Allah, the High, the Great. And the concealment you say: Answer, O king, Hīmā’īl, by the right of dalḥ, līk, salmūḥ
+yāh, answer and undertake such and such, quickly, now. [Letter of wāw] And it is the letter of affection and a familiar ألف.
+Among its properties, for restraining the belly, you write it in the form of a palm and speak over it with the concealment, and make it beneficial for the one
+with diarrhea. And if it is written with every name whose beginning is wāw, and joined with it is the name of whom you desire, and the concealment is recited, then
+affection and intimacy will occur between them. And it has a seclusion; you enter it and fumigate at 3 times, and write the letter and place it in
+your vessel, and recite the invocation after every prayer 28 times, the servant will appear to you, his light like the sun, and he will greet you and say:
+What do you want? Say to him: I want service. He will say: Hearing and obedience, and whatever you ask of him. And his name is Ṭū Yā’īl, and he is among the servants of the comprehensive section. So if you release him, then write the letters on a ring of gold, and the moon in the station of the letter, and fumigate it with al-‘ūd
+and al-mustakī, and obtain the concealment 45 times, then he will fulfill what you want. * And its invocation: In the name of Allah, the
+Merciful, the Compassionate. O Allah, I ask You, O Affection, O Bestower, O Governor, O One, O Inheritor, Allah, I ask You by the secret of Your great names, by the light
+of Your noble Face by which the darknesses were illuminated, that You appoint me and take me under Your guardianship by Your guardianship, and uncover for me the covering from the secret of
+wāw, and give me its disposal, O Bestower, come, wāw, hṭṭ by ṭūṭā’īl, and You, O Dardiyā’īl, God commands, and by the right of
+what you know of the عظیم power of Allah, and by the right of Jibrīl and Mīkā’īl and Isrāfīl and ‘Azrā’īl, answer, O kings
+trusting by the right of the letter wāw and by the right of Him who created you and created it. Come, O my master, from you I hope, and the request to You
+is my return of the secrets. I ask You by what You decreed in the Tablet, O Preserver, and enrich me from whoever harms me, O Most Merciful of the merciful.
+Quickly, trusting, hasten with the alif. There is no power and no strength except by Allah, the High, the Great. If you desire to set the rain-seeking
+upon someone, write the letter and the concealment reversed upon the name of whom you desire and rub it and give it to him, for he will fall ill at once. And the concealment you say:
+
+---
+
+---
+## Page 410
+
+**Arabic (original):**
+- ٤٠٤ -
+
+أجب يا طوطائيل يهوه هدوه يدوه وهاب أجب وتوكل بكذا واذا تلوت هذه الدعوة دبر كل
+صلاة زاد الله قدرك في العلوات وترادفت عليك الخيرات (حرف الزاي) وهو حرف
+بارد رطب من خواصه التصريف في جميع الحيوانات الكاسرة وما ظهر هذا الحرف الا في اسمه
+زكى وأخراسمه تعالى العزيز يوم الخميس والقمر مقابل للمشتري فان حامله ينال العز والهيبة واذا
+كتبت على ساق جمل عدده والقمر فيه حامله لا يظمأ أبدا واذا نام في برية لا يقرب به حيوان مؤذى واذا
+أردت أن يأتى الغمام والمطر في مكان اكتب الحرف في جلد شاة سوداء وضعه على رأس كبش واتل
+الدعوة والاضمار بحضور قلب وتوسل الى الله تعالى في نزول الغيث وتقول احضر أيها السحاب والمطر
+فانه يأتى بقدرة الله وطلبه بعضهم حين خروج الناس يستسقون فسقوا ومن خواصه اذا وضع في
+شئ بورك فيه خصوصا السمن والالبان واذا كتب والقمر فيه على درهم فضة وحوله الاضمار وألقاه
+في السمن بورك فيه واذا كتب مع الاضمار وحمله معه فان الله يرزقه ومن كتب دائرة الزاي بمسك
+وزعفران وكتب معها اسمه من أراد جه وهذه صورته
+وله خلوة جليلة وتلاوة الاسماء دبر كل صلاة ٢١ يظهر الخادم يخاطبك بما تريد
+والبخور زعفران وزبيب صغير و نزر زيتون واذا أردت استخدامه اتل الاضمار مع
+الدعوة والقسم واذا كتب الحرف في خاتم واحمله واتل العزيمة فان الملك يحضر و يعاهدك و يقضى
+حاجتك وهذه صفة الدعوة بسم الله الرحمن الرحيم زدنا يا الله شوقا اليك ورغبة
+لديك فيما أحب الى ذكرك وعاملني بخفي لطفك واكسني نورا وجمالا أستعين به على كشف
+أسرار النقطة التي من جنسها تزلزلت الجبال وتدكدكت من هيبة رب العزة سبحان ربك رب العزة
+عما يصفون الخ عجل أيها الخادم لحرف الزاي بـماه زياه ٢ يديز يوه ٢ زوه ٢ بزوه ٢
+باصر الله رب العالمين جليل جميل سبحانه وتعالى ألا بذكر الله تطمئن القلوب هيا بطياطيا طلى طلبا
+عليه ديان هيا أمان عل وتر ياتى واكشف لى عن أمرك هيا يازاى بعزة من لم يلد ولم يولد ولم يكن له
+كفوا احد أجب وتوكل بكذا بألف لاحول ولا قوة الا بالله العلي العظيم وهذه الدعوة اذا تلوتها
+في الصحراء أقبل عليك الصيد من كل جانب واضمارة أجب أيها السيد طمشتائيل بحق سعدس
+هطاطم ٢ يهبط أجب بحق نموه الوحا العجل الساعة (حرف الحاء) هو من اسرار الحياة
+وعدده ٨ لانها من نسبة الكرسى وهو في أول الدرجة من الفلك ومن خواصه ابراء الاسقام وهو
+ان يكتب مع اسم المريض وكل اسم اوله حاء ويسقى للمريض في اناء مع قليل من عسل النحل مدة أسبوع
+فانه يبرأ ومن ذكر الاسماء التي اولها حاء في أيام القيظ وسافر في الحر وتلا الاسم عند طلوع الشمس
+وعند الغروب فانه لا يحس بالم الحر ولا العطش وفيه سر لارباب الاحوال لدخول النار فانها تطفأ ومن
+خواصه لتطيل الشهوة اذا كتب على خاتم وحمله مع اسم الملك والاضمار نفعه واعلم أن الحاء اذا وقعت
+في اسم سريانى وعربى كان حكمها كذلك وان ظهر في وسط الاسم شكل حرف الحاء كانت على
+العوامل أقوى وهذا الحرف خلوة جليلة بشرطها وتلاوة الدعوة دبر كل صلاة ١٨ مرة فانه يظهر
+لك
+
+| ٥ | ١ | ٣ |
+|---|---|---|
+| ٤ | ٦ | ٨ |
+| ٩ | ٥ | ٧ |
+
+**English:**
+- 404 -
+
+Answer, O Ṭūṭā’īl, yāhūh, hadoh, yadoh, Bestower. Answer and undertake such and such. And if you recite this invocation after every prayer, Allah will increase your rank in the heights, and good things will be repeated upon you. [Letter of zāy] And it is a cold, moist letter; among its properties is disposal in all predatory animals. And this letter did not appear except in His name Zakā, and the end of His name تعالى العزيز on Thursday, and the moon opposite Jupiter; then its bearer attains might and awe. And if it is written on the leg of a camel, its number, and the moon is in it, its bearer will never thirst. And if he sleeps in a wilderness, no harmful animal will approach him. And if you desire that clouds and rain come to a place, write the letter on the skin of a black sheep and place it on the head of a ram, and recite the invocation and the concealment with presence of heart, and beseech Allah تعالى for the descent of rain, and say: “Come, O cloud and rain,” for it comes by the power of Allah. Some requested it when the people went out seeking rain, and they were given rain. And among its properties: if it is placed in a thing, it is blessed in it, especially ghee and milk. And if it is written, and the moon is in it, on a silver dirham, and the concealment is around it, and it is cast into ghee, it is blessed in it. And if it is written with the concealment and carried with him, then Allah provides for him. And whoever writes the circle of zāy with musk and saffron and writes with it the name of whom he desires, this is its form:
+And it has a noble seclusion, and the recitation of the names after every prayer 21; the servant appears, addressing you with what you desire. And the incense: saffron, small raisins, and a little olive oil. And if you desire to use it, recite the concealment with the invocation and the oath. And if the letter is written on a ring and you carry it, and recite the determination, then the king will come and make covenant with you, and your need will be fulfilled. And this is the description of the invocation: In the name of Allah, the Merciful, the Compassionate. Increase us, O Allah, in longing for You and desire for You in what I love, to Your remembrance, and deal with me by Your hidden gentleness, and clothe me with light and beauty by which I may seek help in uncovering the secrets of the point, from whose kind the mountains were shaken and crumbled from the awe of the Lord of might. Glory be to your Lord, the Lord of might, above what they describe, etc. Hurry, O servant of the letter zāy, by māh ziyāh 2 yadz yūh 2 zūh 2 bzūh 2. Byṣar Allah, Lord of the worlds, majestic, beautiful, glory be to Him تعالى. Is there not, by the remembrance of Allah, hearts find tranquility? Come, byṭyāṭyā ṭalā ṭalaban ‘alayhi Dayyān. Come, amān ‘al watar yātī, and uncover for me Your affair. Come, yāzāy, by the might of Him who neither begot nor was begotten, and there is none equal to Him. Answer and undertake such and such, with an alif. There is no power and no strength except by Allah, the High, the Great. And if you recite this invocation in the desert, game will come to you from every side. And the concealment: answer, O master, Ṭamshatā’īl, by Sa‘ds hṭāṭm 2 yhabṭ. Answer by the right of its growth, quickly, now. [Letter of ḥā’] It is among the secrets of life, and its number is 8 because it is from the proportion of the Throne, and it is in the first degree of the sphere. Among its properties is curing illnesses, which is that it be written with the name of the patient, and every name whose beginning is ḥā’, and the patient is given to drink in a vessel with a little honey of bees for a week, then he recovers. And whoever mentions the names whose beginning is ḥā’ in the days of intense heat, and travels in the heat, and recites the name at sunrise and at sunset, then he will not feel the pain of heat nor thirst. And in it is a secret for the masters of states for entering the fire, for it is extinguished. And among its properties, to prolong desire: if it is written on a ring and carried with the name of the king and the concealment, it benefits him. And know that if the ḥā’ occurs in a Syriac and Arabic name, its ruling is likewise; and if the form of the letter ḥā’ appears in the middle of the name, it is stronger upon the agents. And this letter has a noble seclusion with its condition, and the recitation of the invocation after every prayer 18 times, then it will appear to you.
+
+| 5 | 1 | 3 |
+|---|---|---|
+| 4 | 6 | 8 |
+| 9 | 5 | 7 |
+
+---
+_End of translation — 410 pages._
