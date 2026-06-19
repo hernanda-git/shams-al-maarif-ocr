@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 383 translated pages._
+_Auto-generated from 386 translated pages._
 
 ---
 ## Page 1
@@ -22078,4 +22078,149 @@ And its difference was for the appearance of the species and genera in the encom
 Then there overflowed upon the corresponding effusion a universal effusion, so it would be a cause leading to the growth of hearing with the strong quiver in understanding and the unveiling of the realities of judgments. And therefore, when God intended the unveiling of His unseen to His servants and their inference for hearing His speech, then from knowledge there overflowed a ray-like effusion in the noble sight, so the perception of beings in eternity became necessary, and the witnessing of formations in perpetuity, and the ظهور of the known things in the ancient sight. And were it not that the gaze was fixed upon His noble face in the latter genesis on the known day, and the garment of perception was cast, then I perceived Him by His perception, so by His perception I perceived Him; for He is the perceiver and the perceived, as He تعالى said: “Nothing is like unto Him, and He is the Hearing, the Seeing.” Then from sight there overflowed an effusion connected to the ancient, sublime, eternal speech, and therefore the benefit occurred in speech, for He is the speaker by His speech, and it is an attribute of His essence, not resembling the speech of created beings. So in speech is the effusion of sight, and in sight the effusion of hearing, and in hearing the effusion of will, and in will the effusion of knowledge, and in knowledge the effusion of power, and in power the effusion of life, and in life the effusion of essence, and faith is the effusion of essence, and intellect the effusion of life, and spirit the effusion of power, and soul the effusion of knowledge, and heart the effusion of will, and man the effusion of hearing, and composition the effusion of sight, and form the effusion of speech. And when the seventh was a string by potentiality and the first was a string by potentiality, and the intellect connected the string, then it is the first as a string and the last as a string. And when the seventh was from the Throne attributed to Him, “His Throne extends over the heavens and the earth,” and it is that which was expressed by the people of realization and purity among the special ones of affirmation, and it is your essence—so blessed be God, the best of creators. And as for the encompassing of the rulings of the upper heavens and the essential worlds and the spiritual subtleties, it is the interior of the sacred Throne, and it is the reality of life and power and knowledge and will. And as for the widest of the Throne, from the الملكوتيات and the جبروتيات and the برزخيات, it is from the reality of hearing and sight and speech. The interior of the Throne is the beginnings of speech and its end, the soul in its totality; and its exterior is form and shaping, expressed by the tongue of the people of Sufism. And some of the great ones said: whoever desires to attain his aim and connection with the divine wisdom, let him increase in ذكره العليم, and it was said علام الغيوب, and it was said الحكيم with the yā’ of calling. So whoever remembers them and persists upon them, then God will subjugate for him a philosopher from among the arrived ones, or al-Khidr عليه السلام, teaching him this rank, the measure that sinks in the stone of Venus, in which are 440 worlds from the spiritual worlds, and purifies him and establishes him to the smelting and the protection, even if you smelted a thousand times, so long as knowledge and lead do not enter upon it. Therefore it is done in every dissolved dye until it is protected and dissolves and coagulates; at that point it is established for deliverance. And God knows best. (And this is a broth that dyes red.) If you work with the red stones and the red spirits and the red souls, then whoever is best in managing them works by it a wondrous work: each one dyes by it hundreds, without doubt, and it is a gate by which help is sought through “There is no god but God alone, no partner has He; His is the dominion and His is the praise, and He is over all things powerful.” And that is that you take from the head of the good strong soap, and if you make it upon this broth, then it is better; take from it a ratl or whatever you wish, and add to it half of it from whitening potash salt and table salt and natron and Yemeni alum and yellow arsenic and vitriol and talc if possible, after crushing each one of them separately, and the white of boiled eggs, and a quarter of the first water from washed black hair; it is placed in the mentioned water, and you leave it a day and a night in the sun or over a gentle fire until its water dissolves, trembling, and comes out in its time, then it is distilled. Then after that you take from all of it, you raise it with you.
 
 ---
-_End of translation — 383 pages._
+## Page 384
+
+**Arabic (original):**
+- ٣٧٨ -
+
+ثم تأخذ من الفضة وتذيبها وتلقي عليها مثل ثلثها من القصدير ويلفان بثلاثة أمثالها من يقاو يكون
+القمر جزءاً والقصدير جزءاً وتذيب الفضة وتلقي عليها مثلها من القصدير فإذا امتزجا فرغهما
+على الراووق بعد أن يكون مسحتاً في شقفة وعليه شيء من الزيت وحركه بعود على الراووق ثم
+تأخذه وتصعده وترد الأعلى على الأسفل وتصعده مراراً حتى يتكلس وتهيئ ويصعد كله فإذا
+صار الشكل واحداً ثوباً هيأته بالزيبق الأبيض فقد اجتمع روح وجسد ثم أضف إليهما النفس
+المصعدة البيضاء النقية مثل نصف الجسد والروح مجموعاً حتى يساوي الجسد والروح ثم اسحق
+الجميع حتى يمتزجوا ناعماً بالسحق ثم تسقى هذه الأخلاط المذكورة من الماء الحاد الزاج الأبيض
+المستعمل فيها قبل هذه ثلاثة أيام تسقى به وتشوي بالشمس أو بنار لينة فاترة وكرر عليها السحق
+والشوي كما تقدم حتى لا تراها تقبل الماء ثم اغمرها حتى يتم سحقها وهو إنضاج الثاني الذي يجري
+على الصفيحة المحمية فإذا تمت هذه الملقمة على هذه الصفة فأدخلها عند ذاك في الخل في زجاجة
+مسدودة الرأس بجليد رقيق وضع ذاك في زبل حار مستعمل لذلك خاصة وإن جددت الزبل في
+كل أسبوع ثلاثة أسابيع أو أربعة فهو أحسن فإنه يجعل أبيضه في هذه المدة أو أقل من ذلك
+أو أكثر على قدر الحرارة في الزبل فإن عدم الزبل فألقه في حمام الحكماء المعروف بالقدر
+والماء فإذا انحلت هذه الملقمة وصحت فعند ذلك تبيض ما شئت من صفائح النحاس فإن شئت
+شخوصاً مكتوبة أو غير مكتوبة اغمسها في هذه المرقة فإنها تبيض كالفضة الخالصة ولا تتغير ولو
+سبكت ألف مرة وإن عقدت هذه المرقة وحللتها ثانياً واستعملتها مرة على الصنعة المتقدمة تثبت
+وإن عقدتها بعد حلها وكررت عليها الحل والعقد كانت إكسيراً تاماً يبيض جرمه ٣٠٠ مثقالاً
+من النحاس الأحمر ويعقد الزيبق قمراً خالصاً ويقلب القصدير فضة خالصة ويوقف للحمى
+والروص فهذا فعل هذه المرقة وهو إكسير خاص ليس فيها شك عند علماء الصناعة
+وإن أدخل مكان الفضة ذهباً أو نحاساً أو رصاصاً منقى وعلك هذا التدبير سواء من التسليك
+والتصعيد وجعل في الماء المصبوغ مكان الزرنيخ كبريت أحمر والمرقشيتا الصفراء ومكان بياض
+البيض صفاره والروح للجميع والزوارق واحد والنشادر والمغنيسيا في الماء المطبوخ المتقى به
+الأرض المجردة ويزاد مع الشعر دم ويترك الأملاح بحالها والشب في البول المذكور ويحسبه
+ويبلغ بها من التسميع والعقد على حسب ما تقول يثبت للخلاص والحمى ويقلب الزيبق
+ذهباً إبريزاً فافهم ( وهذه ملقمة ) وجدت في رحل رجل شريف بخط مكتوب بقلم تهليل
+وإن أباه منحها من أهل الفضل وهي صحيحة تأخذ من الرهج الأبيض والإهليلج الكحل والراووق
+الأحمر الملقوم بشيء من القلمي الراوند والزنجفر مركز واحد جزءاً ويسحقوا تماولت بزيت
+ويحضن بحصى لبان وسط نار غرقوية ويرمى منه يسيراً على الرصاص حتى يحمر ويضاف
+بالثمن فهذه سهلة وأما الصنعة الأخرى ومعرفتها فإن أنبهك وأثبتك من أسرار الحكمة وأخبرك
+عن أمور كتمها الحكماء فأقول
+( فصل في معرفة الحجر المكرم وما له من الخواص والأسرار والرموز والإشارات )
+
+**English:**
+- 378 -
+
+Then you take of the silver and melt it and cast upon it like a third of it of tin, and they are wrapped with three times its amount of yikāw; the moon is one part and the tin one part. And you melt the silver and cast upon it its like of tin. Then when they are mixed, empty them upon the raouq after it has been wiped in a shard and upon it something of oil, and stir it with a stick upon the raouq. Then take it and ascend it, and return the upper to the lower, and ascend it repeatedly until it calcifies and is prepared and all of it ascends. Then when the form becomes one garment, you prepare it with the white mercury; for spirit and body have come together. Then add to them the white pure ascended soul, like half of the body and the spirit together, until the body and the spirit are equal. Then grind all of it until they are mixed finely by grinding. Then these mentioned mixtures are watered with the sharp white vitriol water used in them before this three days; it is watered with it and roasted by the sun or by a gentle lukewarm fire. Repeat upon it the grinding and roasting as has preceded until you do not see it accept water. Then immerse it until its grinding is completed, and it is the second ripening which takes place upon the heated plate. So when this lozenge is completed in this manner, then at that time put it into vinegar in a glass bottle, the head of which is stopped with thin ice, and place that in hot dung used for that specifically. And if you renew the dung every week for three weeks or four, it is better, for it makes its white in this period or less than that or more, according to the heat in the dung. If there is no dung, then cast it into the bath of the sages, known as the kettle and the water. So when this lozenge is dissolved and is sound, then at that time whiten whatever you wish of copper plates. If you wish figures, written or unwritten, immerse them in this broth, for it whitens them like pure silver and does not change, even if it is smelted a thousand times. And if you bind this broth and dissolve it again and use it once upon the preceding craft, it remains firm. And if you bind it after its dissolution and repeat upon it dissolution and binding, it becomes a complete elixir, its body whitening 300 mithqāls of red copper, and it binds mercury into pure moon, and turns tin into pure silver, and is held for fever and rops. So this is the action of this broth, and it is a special elixir in which there is no doubt among the scholars of the craft. And if instead of silver you introduce gold or copper or purified lead, and this procedure is chewed alike from the threading and the ascending, and in the dyed water there is placed instead of arsenic red sulfur and yellow marcasite, and instead of the whiteness of eggs its yolk, and the spirit for all, and the crucibles one, and sal ammoniac and magnesia in the cooked water by which the bare earth is protected, and with the hair blood is increased, and the salts are left in their state, and the alum in the mentioned urine, and he reckons it and brings it to the point of hearing and binding according to what you say, it remains for deliverance and fever, and turns mercury into pure gold; understand. (And this is a lozenge.) It was found in the baggage of an honorable man in handwriting written with the pen of tahlīl, and that his father bestowed it from among the people of merit, and it is sound. You take of the white rahj and the black myrobalan and the red raouq, lozenged with something of the qalmī, the rāwand, and cinnabar, one centered part. And they are ground tamāwalt with oil, and incubated with frankincense pebbles in the midst of a drowning fire, and a little of it is thrown upon lead until it reddens, and it is added by the eighth. So this is easy. As for the other craft and its knowledge, I shall alert you and establish you in the secrets of wisdom and inform you of matters the sages concealed, and I say:
+
+(Chapter on the knowledge of the honored stone and what it has of properties, secrets, symbols, and indications)
+
+---
+## Page 385
+
+**Arabic (original):**
+- ۳۷۹ -
+
+اعلم أن الحجر الذي أكثر فيه الأولون القول له تأثير موجود لا فعل أي يظهر فيه الأثقل
+التدبير وقد أشار إليه الكثير من الفلاسفة وهو حجر مثلث وفيه ثلاثة ألوان وهذه الألوان هي
+النفس التابعة والروح الواصلة والجسد الضابط وإن هذا الحجر متميز بتفصيلها منه بما ذكرنا
+هذه الألوان التي سمتها القوم أجساداً وإنما أراد الألوان وما شاكلها جملة ما شاهدوا وإن
+الأوائل أجمعوا على أن حجرهم وتدبيرهم تفصيل وتركيب وحل وعقد وقص ورد وموت وحياة
+وكل كلمة ذلك أحداها ضد الأخرى جمع العمل كله وإذا تدبرت كلمة واحدة فإنها تحتوي على
+نصف العمل كقولهم تفصيل وتركيب بل تكليس وتطهير وتبييض وتصعيد فكل هذا الحجر
+نصف العلم وإنما التفصيل تفريق لطيف وكثيف ونقص واجتماع لتميز كل واحد منهما على
+صاحبه حتى يبقى الكثيف يابساً لا لطافة فيه البتة واللطيف روحاً لا كثافة فيه البتة والتركيب هو
+جمع بين لطيف جمعاً ملتزماً والجمع الملتزم مشاكلة اللطيف والكثيف حتى يكونا في شكل واحد
+ويتكاملان في اللون الطبيعي حتى لا يزيد أحدهما على الآخر شيئاً * واعلم أن كل جسد من
+الأجساد الحية كلسته النار وحدها فروحه غير ممازج لجسده ولو كانت روحه ممازجة لجسده لم
+يتكلس ولا فرت عنه رطوبته لأنها هي التي تقابل بها النار لئلا يفسد شكله وليس في الأجساد
+ما يمنع من النار هذا الامتناع المقابل للنار غير الذهب والفضة وأما غيرها من الأجساد فإن
+لطيفها مفارق لكثيفها عند النار فإذا كلسته الأجساد على ما زعم القوم ورد إليها من الرطوبة
+مثل ما خرج عنها صارت تكليسين وإنما احتيج إلى رد الرطوبة على التكليس لأن الطبيعة
+جمعته في الأول الأمر على غير اعتدال وإئتلاف ثم لكان الجسد إكسيراً أما مقل ساعة وجوده
+فلما لم يوجد كذلك احتيج إلى نقصه وتركيبه لنوع رطوبته ثم يردها عليه الرماد باعتدال
+ولا يكون كذلك إلا بالنار لأن جسد الحرارة هو الذي جمع أجزاء الجسد بعضها البعض ويفرق أيضاً
+بين الأجساد المختلفة ومن هنا صارت المتشابهات وتفريق المختلفات ولذلك قال رؤساؤهم من لم
+يعرف هذه النار وسرها لم يدر علم الطبخ ولا كيفية الوقد ولا يعرف من هذه الصناعة شيئاً فإذا
+ضررها عليه أكثر من نفعها فهذا قد كشف فيه عن كثير من الصناعة وينبغي لمن أراد أن يطلب
+حجر القوم أن يجعل النار أحياناً لأنه من طبعها كافات أجمع المتشابهات وتفريق المختلفات
+فيطلب الطالب من جنس جواهر النار شيئاً يسيل به الأجساد ويبقى ويسكها وينهرها فإن
+وجده فليعلم أنه الحجر وإن لم يجده انحرف عنه إلى غيره فإن النار تحمل الكائنات وتردها إلى ما منه
+تركيب ضرورة أما بسرعة وأما بإبطاء * فاعلم ذاك لأن كل مركب لا تستطيع النار أن تفسد
+جوهره ولا تبطل إذابته منه فهو حي في الحقيقة كالأجساد الذاتية فكل مكلس رجع إلى ما منه
+تركيب * واعلم أن كل شيء زالت رطوبته بقي جسده جامداً فرق بين كثيفه ولطيفه فهذا نصف
+تدبيرهم ويسمونه الموت لأنهم شرطوا بالموت ولا يكونوا كالموت لأنه صار في حد الأتربة الميتة لم
+ينتفع به ولذلك أشاروا إلى الميت الحي المنظر وأن يكون الناظر حياً وإنما دعاهم إلى ذلك أنهم
+احتاجوا إلى حد الرطوبة على هذا الكلس إلى حد تراب الميت لم ينتفع به ولم يقبل رطوبته
+
+**English:**
+- 379 -
+
+Know that the stone concerning which the ancients spoke much has an existing effect, not an act; that is, the heavier management appears in it. Many of the philosophers have pointed to it, and it is a triangular stone, and in it are three colors, and these colors are the following soul, the joining spirit, and the controlling body. And this stone is distinguished by their detailing from it, according to what we mentioned: these colors which the people named bodies, but they intended the colors and what is like them, the totality of what they witnessed. And the ancients agreed that their stone and their management are detailing and composition and dissolution and binding and cutting and return and death and life, and every word of that, one of them being the opposite of the other, gathers the whole work. And if you ponder one word, it contains half the work, as their saying: detailing and composition, rather calcination and purification and whitening and ascending; all of this is half the knowledge of the stone. Rather, detailing is a subtle and gross separation and diminution and gathering, so that each of them may be distinguished from its companion, until the gross remains dry, with no subtlety in it at all, and the subtle a spirit with no grossness in it at all. And composition is the gathering of the subtle with a binding gathering, and the binding gathering is the resemblance of the subtle and the gross, so that they become in one form and are completed in the natural color, so that neither of them increases over the other by anything. * And know that every body among the living bodies the fire alone calcined it, so its spirit is not mingled with its body. And if its spirit were mingled with its body, it would not calcine and its moisture would not flee from it, because it is that by which the fire is met so that its form is not corrupted. And among the bodies there is nothing that prevents from the fire this resistance opposed to the fire except gold and silver. As for the other bodies, their subtle part is separated from their gross part at the fire. So when the bodies are calcined as the people claim, and there is returned to them of moisture like what went out of them, they become two calcinations. And the need for returning moisture upon the calcination is because nature gathered it in the first matter in an unbalanced and unharmonious way, then the body would be an elixir, but rather the measure of its existence. Since it was not found thus, it was necessary to diminish it and compose it for the kind of its moisture, then the ashes return it to it in balance. And it is not thus except by fire, because the body of heat is that which gathered the parts of the body some to others, and also separates between the different bodies. From here the similars became and the differing were separated. Therefore their chiefs said: whoever does not know this fire and its secret does not know the science of cooking nor the manner of kindling, and knows nothing of this craft. So if its harm to him is greater than its benefit, then much of the craft has been disclosed in it. And it is fitting for whoever wishes to seek the stone of the people to make the fire sometimes, because it is by its nature the gatherer of all similars and the separator of differences. So the seeker should seek from the genus of the jewels of fire something by which the bodies may flow and remain and be cast and be driven. If he finds it, let him know that it is the stone; and if he does not find it, let him turn away from it to another. For fire carries the beings and returns them to that from which they were composed by necessity, either quickly or slowly. * Know that, because every compound whose essence the fire is unable to corrupt and whose dissolution from it it is unable to nullify is truly alive, like the essential bodies. So every calcined thing has returned to that from which it was composed. * And know that everything whose moisture has gone away, its body remains solid, separating its gross from its subtle. This is half of their management, and they call it death, because they stipulated death, and they are not like death, because it has become in the limit of dead earth, not benefited by it. Therefore they pointed to the dead living appearance, and that the observer be living. What drove them to that was that they needed the limit of moisture upon this calcination to the limit of the dead earth, not benefited by it and not accepting its moisture.
+
+---
+## Page 386
+
+**Arabic (original):**
+— ٣٨٠ —
+
+ولامازجته لأنه مدعوم عن أي شيء من المعاني، إن رطوبته لسلس هو تير الزيبق، وزيبق لا يتعلق
+إلا بالتربة والإصلاح، إنما يتعلق بالأجساد الذي فيها إصلاح ذاك.
+(فصل في ذكر النصف الثاني من العمل)
+وهو الذي يسمونه التركيب، ومقدار رد الرطوبة على هذا السلس حتى يقلها ويمتزج معها
+امتزاجاً كلياً، وتصير تلك الرطوبة وهذا السلس شيئاً واحداً، لأن السلس شرب تلك الرطوبة
+بالتدبير، ثم يتكلس فيظهر كلساً ترابياً إلى شكلها، فإن رجع ذلك السلس في النار الحامية تفرقه
+الرطوبة بالتدبير لجودة المزاج، بل يظهر عليه ويقطر النفس، ثم تفعل في الأجساد الذاتية ولا
+تضر تلك الرطوبة لإمساك النفس لها، لو كانت وحدها برزت، فإذا برزت قابلت على
+تلك الأنفس لئلا تصل النار إلى أجزاء تلك النفس فتفر منه، الملتها كلوا إنما تكون هذه الحرارة
+لجودة مزاج، فإذا برز من هذا السلس في حمى النار لم تفر منه وأرادت أن تمتزج وتلحق بالجسد
+الذائب لأنه ينحل منها ظاهر الرطوبة كلس النفس، فكل متكلس قد رجع إلى ما منه تركب.
+واعلم أن كلس النفس يمتزج ويعشق بالجسد الذائب لأنه ينحل منها ظاهر الرطوبة كلس
+النفس ويصيران شيئاً واحداً، ويقع التأثير للغلبة فيتولد اللون اللطيف من السلس والرطوبة لأنه
+كالماء الذي يوصل الصبغ بين العفص وغيره إلى الثياب، وفي هذا تنبيه على التشأ، لأن الصبغ
+كالحجر الملتها كل للمصبوغ والرطوبة هي الموصلة، وأنهيك من رد الرطوبة على السلس بمقدار
+درايته، ويؤخذ من السلس الذي أشاروا إليه وكثرت أسماؤه فقالوا: كلساً ورماداً وثقلاً وجسداً
+مقتولاً لا روح فيه وأرضاً عطشانة ووالدة شكى وتراباً وعكراً وزبلاً، وهو محل لهذه الأشياء، فإذا
+وجد هذا فليوضع على صلاية زجاج ويسقى من الزيبق المحلول حتى يشرب منه مثل وزنه، وهذه النار
+الأولى وهو يخرج أسود ويسمونه مغنيساً وهو لازم له الآن، ثم يوضع أيضاً على صلاية ويسقى من
+الزيبق المحلول حتى يشرب مثله ثم يشوى، وهذا يسمى النار الثانية وهذا يخرج أسود لأنه أقل سواداً
+من الأول، ثم يؤخذ ويوضع على صلاية ويسقى من الزيبق المحلول حتى يشرب مثله ويبس ويدخل
+به التشويه وهو يخرج أغبر ويسمى ابن النار، وذلك أنه يذوب يبرز الرطوبة عليه بقتال، وكان من
+قبل هذا لا يذوب في أقل من هذا المقدار، وزعموا أن قوى ذي النون المصري حيث قال:
+حتى إذا أتمها ثلاثاً لم يخش من أفعالها انسكاباً
+أنه هو هذا لا محالة، والذي لا خلاف فيه بينهم إذا در كذلك بالسقية واليبس والتشوية إلى ٤ مرات
+صار ذائباً، وحينئذ أبين وبسطنا بصر أي ض لا غير وهو الصواب، فكأنه لا اختلاف فيه، يؤخذ بعد
+الثلاثة إلى ٤ مرات ويوضع على صلاية ويسقى بكبريت محلول حتى يشرب مثله ويبس ويشوى
+بالنار حتى يجف، ثم ينزل على صلاية ويسحق ويعاد على السقية بالكبريت أيضاً واليبس والتسوية
+حتى يشرب ثلاثة أمثاله كبريتاً ويشوى، وهو في كل تشوية يتلون لوناً من الحمرة حتى يتم له ٣
+سقيات وثلاث تشويات فيلسوف إلى تلميذه حين سأله عن الحجر المكسر. فكتب له
+(فصل في ذكر رسالة كتبها فيلسوف إلى تلميذه حين سأله عن الحجر المكسر. فكتب له)
+
+(ب-م)
+
+**English:**
+— 380 —
+
+And its mingling, because it is supported by anything of meanings. Its moisture is the fluidity of mercury, and mercury is attached only to the soil and the correction; it is attached only to the bodies in which there is correction of that.
+(Chapter on mentioning the second half of the work)
+And it is that which they call composition, and the measure of returning moisture upon this fluidity until it diminishes it and mixes with it a total mixing, and that moisture and this fluidity become one thing, because the fluidity has drunk that moisture by management, then it calcifies and appears as earthy calcination in its form. So if that fluidity returns in the hot fire, the moisture separates it by management because of the goodness of the temperament; rather, it appears upon it and distills the soul, then it acts in the essential bodies and that moisture does not harm because of the holding of the soul for it, if it had emerged alone it would have appeared. So when it has emerged, it is met upon those souls so that the fire does not reach the parts of that soul and flee from it, its mixture, all of it, is only because this heat is for the goodness of temperament. So when it emerges from this fluidity in the heat of the fire, it does not flee from it and wishes to mix and join to the molten body because the apparent moisture of the soul is dissolved from it, the calcination of the soul. So every calcined thing has returned to that from which it was composed.
+And know that the calcination of the soul mixes and is enamored with the molten body because the apparent moisture of the soul is dissolved from it, the calcination of the soul, and they become one thing, and the effect occurs by predominance, so the subtle color is generated from the fluidity and moisture because it is like the water that conveys the dye between the gallnut and other than it to the garments, and in this is an indication of tashā’, because the dye is like the stone, the calcined one, for the dyed, and the moisture is the conveyer. And I suffice you from returning moisture upon the fluidity according to the measure of your knowledge, and there is taken from the fluidity that which they indicated, and its names became numerous, so they said: calcination, ashes, weight, a body slain, in which there is no spirit, and thirsty earth, and a mother complaining, and dust, and turbidity, and dung, and it is a place for these things. So if this is found, let it be placed upon a glass slab and watered from the dissolved mercury until it drinks from it its like in weight, and this is the first fire, and it comes out black and they call it maghnīs, and it is now necessary for it. Then it is also placed upon a slab and watered from the dissolved mercury until it drinks its like, then it is roasted, and this is called the second fire, and this comes out black because it is less black than the first. Then it is taken and placed upon a slab and watered from the dissolved mercury until it drinks its like and dries, and the roasting is entered by it, and it comes out grayish and is called the son of fire, because it melts, the moisture appears upon it in fighting, and before this it did not melt in less than this amount. And they claimed that the powers of Dhū al-Nūn al-Miṣrī, when he said:
+
+حتى إذا أتمها ثلاثاً لم يخش من أفعالها انسكاباً
+
+until when he completed it three times, he feared not from its acts spilling
+
+that it is this without doubt. And that in which there is no disagreement among them is that if it is thus trained by watering and drying and roasting up to 4 times, it becomes molten, and then it is clearer, and we have extended our sight, not otherwise, and that is the correct thing, as though there were no disagreement in it. It is taken after the three to 4 times and placed upon a slab and watered with dissolved sulfur until it drinks its like and dries and is roasted by fire until it dries, then it is brought down upon a slab and ground and returned to watering with sulfur also and drying and leveling until it drinks three times its amount of sulfur and is roasted, and in every roasting it takes on a color of redness until there are completed for it 3 waterings and three roastings. A philosopher to his student when he asked him about the broken stone. So he wrote to him:
+(Chapter on mentioning a letter written by a philosopher to his student when he asked him about the broken stone. So he wrote to him)
+
+(ب-م)
+
+---
+_End of translation — 386 pages._
