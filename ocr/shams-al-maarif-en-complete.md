@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 368 translated pages._
+_Auto-generated from 371 translated pages._
 
 ---
 ## Page 1
@@ -21206,4 +21206,220 @@ Scales
 * And know, may Allah grant success to me and to you, that the first scale, called the scale of concordance, is a scale from which is known the Tali' of the concordant letters that you need at the time of works, and from it the letters are cast at the time of works. As for the opposing scales that you need at the time of works of evil and the like of them * and the second, from it you know the ratios of the inverted letters from
 
 ---
-_End of translation — 368 pages._
+## Page 369
+
+**Arabic (original):**
+— ٣٦٣ —
+
+مِنَ الدَّرَجِ وَالدَّقَائِقِ وَالثَّوَانِي وَالثَّوَالِثِ ۞ وَالْمِيزَانُ الثَّالِثُ الْكَبِيرُ لَهُ خَوَاصُّ جَلِيلَةٌ وَهُوَ مَعْرِفَةُ
+مِيزَانِ الْأَعْشَابِ وَالْحَيَوَانِ وَالْمَعَادِنِ وَالْحُرُوفِ وَطَرْحِ الْأَكْسِيرِ وَإِذَا تَحَقَّقَهُ إِنْسَانٌ عَلِمَ قَدْرَهُ
+وَسَأُنَبِّهُكَ عَلَيْهِ فِي الصِّنَاعَةِ الْإِلَهِيَّةِ فَاطْلُبْهُ هُنَاكَ إِنْ شَاءَ اللَّهُ تَعَالَى ۞ وَمِنْ خَوَاصِّ هَذَا
+الْمِيزَانِ جَمِيعُ مَا عَمِلَ لَهُ فَذَاكَ بَيَانٌ عَلَى أَنَّ مَعْدِنَهُ كَانَ لَهُ تَأْثِيرٌ عَظِيمٌ وَهُوَ نَافِعٌ لِلصَّلَاحِ وَالْفَسَادِ
+وَالْخَيْرِ وَالشَّرِّ وَعِنْدَ الْعُلَمَاءِ الْمُحَقِّقِينَ إِذَا أَطْلَقُوا فِي قَوْلِهِمْ فَهُوَ لِمَا كَتَبَ لَهُ يَكُونُ ذَلِكَ وَاللَّهُ الْمُوَفِّقُ
+( الْفَصْلُ الْخَامِسُ وَالثَّلَاثُونَ فِي الْحَافِيَةِ الْحَرْفِيَّةِ بِالْقَوَاعِدِ الْجَفْرِيَّةِ )
+وَهِيَ بِالسَّنَدِ الصَّحِيحِ عَنْ جَعْفَرٍ الصَّادِقِ رَضِيَ اللَّهُ عَنْهُ عَنْ دِرَاسَةِ أَهْلِ الْعِلْمِ ۞ عَنْ سُلَيْمَانَ
+ابْنِ دَاوُدَ عَنْ آصَفَ بْنِ بَرْخِيَا الَّذِي عِنْدَهُ عِلْمٌ مِنَ الْكِتَابِ عَنْ ذِي الْقَرْنَيْنِ عَنْ زَبُورِ الْأَوَّلِينَ عَنْ
+سَفَرِ آدَمَ وَهِيَ مَعْرِفَةُ رُسُومِ أَهْلِ اللُّغَةِ الَّتِي هِيَ أَحْرُفُ ا ب ت ث ج ح خ د ذ ر ز س ش ص
+ض ط ظ ع غ ف ق ك ل م ن هـ و لَا وَمَا جَرَتْ بِهِ فِي تَكْسِيرِهَا وَشَرْحِ تَدْبِيرِهَا مِنْ مَخْرَجِ
+أُصُولِهَا بِوَجْهٍ إِمَامَتِهَا وَثَلَاثُونَ حَرْفًا فَمِنْهَا ثَمَانِيَةٌ وَعِشْرُونَ حَرْفًا بَيَانِيَّةٌ وَأَرْبَعَةُ أَحْرُفٍ
+مُدْعَمَةٌ وَاهِيَةٌ لِلْفَظِ وَهِيَ ك ج ز ب وَتَكْسِيرُهَا مِنْ سَفَرِ آدَمَ قَالَ تَعَالَى وَعَلَّمَ آدَمَ الْأَسْمَاءَ
+كُلَّهَا إِلَى قَوْلِهِ بِقَلَمِهِ وَرَسْمِ هَذِهِ الْحُرُوفِ بِالْقَلَمِ فِي اللَّوْحِ الْمَحْفُوظِ وَعَلَّمَ الْإِنْسَانَ مَا لَمْ يَعْلَمْ وَهُوَ سَبِيلُ
+شَرْحِ النُّطْقِ مِنْ قَلْبِهِ عَلَى لِسَانِهِ رَسَمَتْ يَدُهُ رُسُومًا لَهُ بِأَسْمَاءٍ عَلَى شَرْحِ النُّطْقِ تَدَبَّرْ بِهَا هِجَاءَ لُغَاتِهَا
+وَاتِّفَاقِ وُقُوعِهَا بِكُلِّ مَعْنًى لَانَ بِهَا الْهَجَاءُ فَدَلَّ بِهِ الرُّسُومُ فِي زَيْجِهِ شَرْحٍ وَدَلَّ بِهِ لَفْظُ شَرْحٍ مَشْرُوحٍ
+وَالْأَسْمَاءُ عَلَّمَهَا آدَمَ كُلَّهَا وَالْأَنْبِيَاءِ مِنْ ذُرِّيَّتِهِ مِنْ بَعْدِهِ وَالْمُرْسَلِينَ صَلَوَاتُ اللَّهِ عَلَيْهِمْ وَوَضَعُوا بِهَا
+الْآيَاتِ الْمُثْبَتَةَ فِي كُتُبِهِمْ لَا يُنْكِرُونَ دِرَاسَتَهُ أَهْلُ الْعِلْمِ وَالْآثَارِ وَهُوَ عِلْمٌ لِمَنْ تَدَبَّرَ وَفَهِمَ
+لِمَنْ تَذَكَّرَ وَاللَّهُ الْمُوَفِّقُ
+( فَصْلٌ ) إِذَا أَرَدْتَ الْعَمَلَ بِهَذَا فَابْدَأْ بِاسْمِ اللَّهِ تَعَالَى وَاسْتَخْرِجْ مِنْ أَرْضِهِ الْأَبْوَابَ وَابْدَأْ بِبَابِ
+الْكَبِيرِ فَاسْتَخْرِجْ تَأْلِيفَ حُرُوفِهَا وَلُغَاتِهَا وَتَعْجِيمَ دَرَجَاتِهَا مِنْ مَوْضِعِ حَقِّهَا فَلَدَى صُورًا مُصَوَّرَةً
+عَنْ مُؤَخَّرَاتٍ مَقْلُوبَةٍ صُدُورٍ مُؤَخَّرٍ بِكَلَامِ الْفَايِطُوشِ فَاهْجُ وَاسْتَخْرِجْ ذَلِكَ سُدُورًا مِنْ مُؤَخَّرَاتٍ
+بِعَدَدِ سَاعَاتِ أَيَّامِ السَّنَةِ وَلَيَالِيهَا كُلَّ يَوْمٍ وَلَيْلَةٍ أَرْبَعٌ وَعِشْرُونَ سَاعَةً وَالسَّاعَةُ مِنْ بَابِ التَّكْسِيرِ وَالْبَابِ
+ثَمَانِيَةٌ وَعِشْرُونَ اسْمًا وَلِلِاسْمِ ثَمَانِيَةٌ وَعِشْرُونَ حَرْفًا عَلَى عَدَدِ الْمَنَازِلِ وَحُرُوفِ الْأَسْمَاءِ كُلَّهَا رُسُومٌ
+وَأَحْرُفُ ا ب ت ث إِلَى آخِرِهَا فَكُلُّ مَنْزِلَةٍ اسْمٌ وَلَا يَجْرِفُ جَرَى بِهِ أَقَمْ فِي اللَّوْحِ الْمَحْفُوظِ لِقَدَرٍ
+مَعْلُومٍ بِمَشِيئَةِ الْخَالِقِ الْبَارِي الْمُصَوِّرِ فَانْفَتَحَتِ الْأَبْوَابُ مِنْ مَوْضِعِ حَقَائِقِهَا بِتَأْلِيفِ حُرُوفِهَا مَثَلًا
+بِمِثْلِ ثُمَّ قَسَّمَهَا عَلَى اثْنَيْ عَشَرَ مِنْهُمَا ۞ وَاعْلَمْ أَنَّ السَّهْمَ مُقَامَ الشَّمْسِ فِي كُلِّ بِرْجٍ ٣٠ يَوْمًا وَالْبُرْجُ اثْنَا
+عَشَرَ تَدْخُلُ الْحَمَلَ وَأَوَّلُ الْبُرُوجِ وَأَوَّلُ الزَّمَانِ وَأَوَّلُ أَبْوَابِ السِّهَامِ مِنَ أَوَّلِ أَبْوَابِ الْعَمَلِ مِنَ
+التَّكْسِيرِ الَّذِي هُوَ مَخْرَجُهُ بِجَاءَ لُغَةً فَالْأَوَّلُ الْحَمَلُ ثُمَّ الثَّوْرُ ثُمَّ الْجَوْزَاءُ ثُمَّ السَّرَطَانُ ثُمَّ الْأَسَدُ ثُمَّ السُّنْبُلَةُ
+ثُمَّ الْمِيزَانُ ثُمَّ الْعَقْرَبُ ثُمَّ الْقَوْسُ ثُمَّ الْجَدِيُّ ثُمَّ الدَّالِي ثُمَّ الْحُوتُ فَإِذَا عَرَفْتَ مَا وَصَفْتُ لَكَ فَاعْمَلْ فِي بِرْجٍ
+بِكَلَامِ أَبِ حِصَّتِهِ مِنْ مَوْضِعِ حَقِّهِ فِي وَقْتِهِ وَيَوْمِهِ وَمَنْزِلَتِهِ وَسَاعَتِهِ وَكُنْ مَعَ السَّهْمِ الَّذِي أَنْتَ فِيهِ بِالْمَنَازِلِ
+وَالْحُرُوفِ عَلَى قَدْرِ مَا سَلَفَ مِنَ السَّهْمِ الَّذِي أَنْتَ فِيهِ وَلَا تُجَاوِزْهُ إِلَى غَيْرِهِ فَإِنَّهُ لَا يَخِيبُ عَمَلُكَ فِي كُلِّ
+
+**English:**
+— 363 —
+
+from the degrees and the minutes and the seconds and the thirds ۞ and the third great balance has noble properties, and it is the knowledge of
+the balance of herbs and animals and minerals and letters and the extraction of the elixir, and if a person realizes it, he knows its measure.
+And I shall alert you to it in the divine art, so seek it there, if God Most High wills ۞ and among the properties of this
+balance is all that is worked for it, so that is an indication that its mine had a great influence, and it is beneficial for rectification and corruption
+and good and evil, and with the verifying scholars, when they speak absolutely in their saying, then it is for what has been written for it; that shall be. And God is the Giver of success.
+( The thirty-fifth chapter on the literal margin with the Jafr rules )
+And it is with the sound chain from Ja‘far al-Sadiq, may God be pleased with him, from the study of the people of knowledge ۞ from Sulayman
+son of Dawud from Asaf son of Barakhya, who had knowledge from the Book, from Dhu al-Qarnayn, from the Psalms of the ancients, from
+the Book of Adam, and it is the knowledge of the drawings of the people of language, which are the letters ا ب ت ث ج ح خ د ذ ر ز س ش ص
+ض ط ظ ع غ ف ق ك ل م ن هـ و لَا and what has proceeded with it in its breaking and the explanation of its management from the outlet of
+its roots in a manner of its primacy, and thirty letters; among them are twenty-eight explanatory letters and four letters
+supported, weak for utterance, and they are ك ج ز ب, and their breaking is from the Book of Adam. The Most High said: And He taught Adam the names
+all of them, to His saying, by His pen, and the drawing of these letters by the pen in the Preserved Tablet, and He taught man what he knew not, and it is the way of
+the explanation of utterance from his heart upon his tongue; his hand drew for him drawings with names, upon the explanation of utterance, by which one reflects on the spelling of their languages
+and the agreement of their occurrence in every meaning. The spelling was softened by them, so the drawings indicated by it in its zayj an explanation, and the utterance of an explanation explained
+and the names—Adam was taught them all, and the prophets from his progeny after him, and the messengers, may the prayers of God be upon them, and they placed by them
+the established signs in their books. The people of knowledge and of traces do not deny its study. And it is a knowledge for whoever reflects and understands,
+for whoever remembers. And God is the Giver of success.
+( Chapter ) If you desire to work by this, then begin with the name of God Most High and extract from its earth the gates, and begin with the gate of
+the great one, and extract the composition of its letters and its languages and the non-Arabic rendering of its degrees from its place of right, and there are pictured forms
+from inverted latter-parts, front-parts inverted, with the speech of al-Faytush; so spell and extract that as front-parts from latter-parts,
+by the number of the hours of the days of the year and its nights; every day and night is twenty-four hours, and the hour is from the gate of breaking, and the gate
+is twenty-eight names, and for the name are twenty-eight letters according to the number of the stations, and the letters of all the names are drawings
+and the letters ا ب ت ث to its end. So every station is a name, and it does not sweep away, it ran by it, establish in the Preserved Tablet for a
+known decree by the will of the Creator, the Maker, the Fashioner. So the gates were opened from the place of their realities by the composition of their letters, for example
+by example, then divide them upon twelve of them ۞ And know that the سهم is the sun’s station in every sign for 30 days, and the sign is twelve:
+you enter Aries, and the first of the signs, and the first of time, and the first of the gates of the سهمs, from the first gates of the work from the
+breaking, which is its outlet, by language. So the first is Aries, then Taurus, then Gemini, then Cancer, then Leo, then Virgo,
+then Libra, then Scorpio, then Sagittarius, then Capricorn, then Aquarius, then Pisces. So if you know what I have described to you, then work in a sign
+with the speech of the father of its portion from the place of its right in its time and its day and its station and its hour, and be with the سهم in which you are, with the stations
+and the letters according to what has preceded from the سهم in which you are, and do not تجاوز it to another, for your work will not fail in every
+
+---
+## Page 370
+
+**Arabic (original):**
+- ٣٦٤ -
+
+ما أردت وقد سألت صاحب الحاجة عن اسمه واسم أمه وسألت الطالب عن أهم المطلوب واسم
+أمه وأعرضها على ابتداء أزمة أبواب الكلام أو عن سهمه على قدر ما سلف من السهم الذي
+أنت فيه وكن مع السهم في يومه لا تجاوزه الى غيره فاذا وافق اسم الطالب بعض أزمة السهم الذي
+أنت فيه أعلى من اسم المطلوب أسفل من اسم الطالب فالحاجة باذن الله تعالى ناجحة فان اتفق
+اسم الطالب أسفل من درج اسم الباب واسم المطلوب أعلى من اسم الطالب في أزمة الباب فاقلب
+فيه حصة اسم المطلوب العون فاجعل آخرها أولها ثم صير حصة اسم الطالب بأحرف الدعوة
+من التكسير بتأليف مخرجها على التصويب بالاتفاق ثم اخرج ذلك الباب زماناً يكون ابتداء أول
+حرف من حروفه وأول حروف هجاء اسم المطلوب فاعزل كل سطر منها مفرداً على حدته ثم اخرج
+ابتداء أسماء الله تعالى منه وبعد ذلك أحرف الدعوة وبعد أسماء الملائكة بأحرف دعواها ثم
+استخرج أسماء أعوان ذلك الباب منه بأحرف دعواها وهذا التكسير ينبغي أن يدعى في كل باب
+سواء كان هنا أم في غيره بصة أو مقلوبه ولا تذكر في شيء من عملك أسماء أعوان وحصة المطلوب
+وانظر كم بينهما في أزمة الباب بالحصص على الأيام والساعات والأوقات والمنازل بالاتفاق وما توفيق
+الا بالله عليه توكلت وعزم على الباب بالأعوان * واعلم أن الباب هو دعوى الأعوان عزمه عليهم
+من مخرجه الى رده واخرج اسم الطالب والمطلوب على تأليف حروفه من موضع حقه وحصته وأول
+سهمه مثلاً بمثل مصوباً ومقلوباً مقدماً كان أو مؤخراً مردوداً كان بتأخير أو مصوباً مردوداً
+فان كان الاسم مصوباً لا تقديم فيه ولا تأخير ولا مردوداً ولا مقلوباً برده مثلاً مثل على أهم مصوب
+لا يرجع الى باب الحساب عن ثمانية عشر لثلاثة وعشرين ي تسعة وعشرين فهو أهم مصوب
+لا يرجع الى الكلام فان تقديماً وتأخيراً مثل داود وان كان تأخيراً وتقديماً مثل يعقوب وان
+كان مردوداً فتأخير مثل داود فلو كان مرتباً بتقديم مصوباً مردوداً برده مثل أحمد وجعفر فان
+كان مقلوباً مثل ملك فخذ كل حرف من حقه بتأليف حروفه من ابتداء أزمة أبواب الكلام وان
+سهمه مصوباً كان أو مقلوباً فان اتفق اسم الطالب من اسم الباب مخرجه فانه جاز اذا لم
+تخرج من الابتداء (صفة اخرى) تتلو الوصف الاول في شرح المؤامرة قال جعفر بن محمد المرموى
+مولى عيسى بن موسى الهاشمي أستاذ الحسن أبي علي السراج الهمداني اذا أردت العمل بهذا الباب
+الذي قدمت لك فاعرف أولاً اسم الطالب والمطلوب واسم أمهما فان لم تعرف اسم أحدهما فاخرج
+حصة اسم الطالب والمطلوب فقط ولا ترد اسم أمهما واخرج السطر من هذا الباب يكون ابتداء
+السطر هو زمام كل سطر منهما باسم طالب الحاجة والأخر باسم أمه فاكتبها في رق غزال ثم
+اكتب اسم الله تعالى بعد السطر ثم استخرج أيضاً سطرين آخرين يكون أحدهما أول
+حرف من حروفه وأول حرف من هجاء اسم الطالب بعد أسماء الله تعالى في الرق ثم اكتب الأسماء
+والأعوان بعد ذلك والقسم والعزيمة وهي تكسير باب مخرج الطالب والمطلوب ثم تقول أقسمت
+عليكم يا ملائكة رب العزة أحيوا فلان بحق هذه الاسماء وما تلوت أمر عوا الى هؤلاء الأعوان
+قضاء
+
+**English:**
+- 364 -
+
+what I desired, and you have asked the possessor of the need about his name and the name of his mother, and you asked the seeker about the most important of the sought and the name of
+his mother, and you present them upon the beginning of the crises of the gates of speech, or about his سهم according to what has preceded from the سهم in which
+you are, and be with the سهم on its day; do not تجاوز it to another. So if the name of the seeker agrees with some of the crises of the سهم in which
+you are, above the name of the sought, below the name of the seeker, then the need, by permission of God Most High, is successful. But if it agrees,
+the name of the seeker below the degrees of the name of the gate, and the name of the sought above the name of the seeker in the crises of the gate, then invert
+in it the portion of the name of the sought, the aid, and make its end its beginning, then turn the portion of the name of the seeker by the letters of the invocation
+from the breaking, by composing its outlet upon the correction by agreement, then bring out that gate in a time that will be the beginning of the first
+letter from its letters and the first letters of the spelling of the name of the sought. So isolate each line from them separately, each on its own, then bring out
+the beginning of the names of God Most High from it, and after that the letters of the invocation, and after the names of the angels by the letters of their invocation, then
+extract the names of the aids of that gate from it by the letters of their invocation. And this breaking should be invoked in every gate,
+whether here or in other than it, in its front-part or its inverted form, and do not mention in anything of your work the names of the aids and the portion of the sought.
+And look how much is between them in the crises of the gate by the portions on the days and the hours and the times and the stations by agreement. And success
+is only by God; upon Him I relied. And resolve upon the gate with the aids * And know that the gate is the invocation of the aids, its resolve upon them
+from its outlet to its return. And bring out the name of the seeker and the sought upon the composition of its letters from the place of its right and its portion and the first
+of its سهم, for example by example, corrected and inverted, advanced or delayed, returned by delay or corrected returned.
+So if the name is corrected, in it is no advancement and no delay and no returned and no inverted, return it, for example, example upon an important corrected one
+that does not return to the gate of الحساب from eighteen to twenty-three to twenty-nine, for it is an important corrected one
+that does not return to speech. So advancement and delay, like Dawud; and if it is delay and advancement, like Ya‘qub; and
+if it is returned, then delay, like Dawud. But if it were arranged with advancement, corrected, returned, return it, like Ahmad and Ja‘far. For
+if it is inverted, like Malik, then take every letter from its right by the composition of its letters from the beginning of the crises of the gates of speech, and
+its سهم, whether corrected or inverted. So if the name of the seeker agrees with the outlet of the name of the gate, then it is permitted if you do not
+go out from the beginning. (Another description) follows the first description in the explanation of the conspiracy. Ja‘far ibn Muhammad al-Marmuwi,
+the client of ‘Isa ibn Musa al-Hashimi, teacher of al-Hasan Abu ‘Ali al-Sarraj al-Hamdani, said: if you desire to work with this gate
+which I have presented to you, then know first the name of the seeker and the sought and the name of their mothers. If you do not know the name of one of them, then bring out
+the portion of the name of the seeker and the sought only, and do not return the name of their mothers. And bring out the line from this gate; the beginning
+of the line is the bridle of each line of them, with the name of the seeker of the need and the other with the name of his mother. So write it on gazelle parchment, then
+write the name of God Most High after the line. Then also extract two other lines, one of them being the first
+letter from its letters and the first letter of the spelling of the name of the seeker after the names of God Most High in the parchment. Then write the names
+and the aids after that, and the oath and the resolve, and it is the breaking of the gate of the outlet of the seeker and the sought. Then you say: I swear
+to you, O angels of the Lord of might, revive so-and-so by the right of these names and what I have recited; command, O these aids, the fulfillment
+
+---
+## Page 371
+
+**Arabic (original):**
+- ٣٦٥ -
+
+بقضاء حاجتي الوحا العجل الساعة بالذي أوجب عليكم الطاعة وبعزة الله وبكم وبما أقسم
+على هؤلاء الأعوان ومن يزع منهم عن أمرنا نذقه من عذاب السعير أجيبوا يا معاشر الأعوان
+لهذه الأسماء ولا يسلط الله عليكم ملائكة العذاب لهذه الأسماء الوحا الساعة بالذي أوجب عليكم
+الطاعة بعزة الله وبنور رحمة الله فإنك تنال ما سألت عنه وما تطلب بإذن الله تعالى
+( فصل في معرفة أبواب الكلام بكلام عافيطورش )
+تصريف الباب الكبير للاسم القائم درجة للكبير من تسعة وعشرين درجة المصوبة والمؤخرات
+المقلوبة مع الحرف الخارج منها المضاف إليها تكسير آخرها على أولها درجة بعد درجة وحرفاً
+بعد حرف واسماً بعد اسم على التأليف إلى مخرج الباب واحذر الغلط فما قدرت لك إن شاء الله تعالى
+وهذا صدر الباب الأول من الباب الكبير أول درجة من باب كلامه وآخر حرف منه ى ثم كسر
+آخره على أوله تجد أوله ى وآخره ص ثم كسر آخره على أوله درجة بعد درجة إلى مخرج
+الاسم فإنك تجد أوله في السطر الثاني ص وآخره ى ثمانية وعشرين اسماً فهو صدر الباب الأول من الباب الكبير تجد أوله ى
+وآخره ب تجد الصدر ثمانية وعشرين اسماً يرجع الزمام من باب الكلام في تسعة وعشرين
+اسماً وكذلك المؤخرات والسلام ( صدر الباب الثاني ) من الباب الكبير ثم خذ بهذا أزمة
+درج الأزمة من حاشية الثاني وهو ثمانية وعشرين درجة أولها ح وآخرها ب فزد إليها الحرف
+الخارج عنها فصيرها المضاف إليه وهو ا فيصير الزمام تسعة وعشرين ثم كسر آخرها على أولها
+درجة بعد درجة على تأليف تكسير صدور العون الأول فولد اسماً بعد اسم إلى آخر ثمانية وعشرين
+اسماً فهما صدور باب الكبير تجد أوله ا وآخره ص يرجع الزمام إلى صدره إلى تسعة وعشرين
+اسماً تكسر من هذا الباب على هذه الصفة إلى ما لا نهاية له واعزم الأزمة على الولا في آخر الأبواب
+واعزم على دعوى الأعوان بأسماء الله تعالى وأسماء ملائكته بتدبر وتثبت وفطنة ۞ وهذه صفة
+تكسير مؤخرات صدور باب الكبير ثم اقلب زمام أول كلامه فيصير آخره أوله ۞ واعلم أن أوله
+كان في الابتداء ا وآخره ى فيصير أوله ى وآخره ا فيصير زمام باب كلامه الأول مقلوباً ثم كسر
+آخره على أوله درجة بعد درجة على التأليف فولد اسماً بعد اسم إلى تمام ثمانية وعشرين اسماً
+فهو مؤخر صدر باب الكبير تجد أوله ا وآخره لا يرجع زمام باب كلامه في تسعة
+وعشرين درجة أولها لا وآخرها ى فولد الحرف الخارج عنها المضاف إليها وهو ى فيصير الزمام
+تسعة وعشرين ثم كسر آخرها على أولها درجة بعد درجة فولد من هذا الباب اسماً بعد اسم
+في نسق واحد إلى رده فهو مؤخرات الثاني من باب الكبير تجد أوله ى وآخره ص ثم اعرف
+ما خرج من الأبواب على أزمة أبوابها فإذا صح له بابه فخرج على هذه الصفة من الصدور
+والمؤخرات مصونة ومقلوبة على التأليف بكلام عافيطورش فكسر من ذلك ما أمكنك بعد ساعات
+الأيام والليالي الستة فاعزل الأزمة في كتاب آخر وافرد الصدور من المؤخرات ( صفة ) تصريف
+باب الصغير من باب كلامه الاسم القائم الدرجة اثنان وعشرون بكلام العافيطورش بجمع الصدور
+
+**English:**
+- 365 -
+
+for the fulfillment of my need, the hour, the haste, by that which made obedience incumbent upon you, and by the might of God and by you and by what I swear
+upon these aids, and whoever among them deviates from our command, We shall make him taste the punishment of the Blaze. Answer, O company of aids,
+to these names, and let not the angels of punishment be set over you for these names, the hour, the haste, by that which made obedience incumbent upon you,
+by the might of God and by the light of the mercy of God, for you shall attain what I asked about and what you seek, by permission of God Most High.
+( Chapter on the knowledge of the gates of speech with the speech of ‘Afiytush )
+The inflection of the great gate for the standing name, a degree for the great one from twenty-nine degrees, the corrected and the inverted latter-parts,
+with the letter issuing from them added to them, the breaking of its end upon its beginning, degree after degree and letter after
+letter and name after name, in composition to the outlet of the gate; and beware of error in what I have determined for you, if God Most High wills.
+And this is the front-part of the first gate from the great gate, the first degree from the gate of its speech, and the last letter from it is ى. Then break
+its end upon its beginning; you will find its beginning ى and its end ص. Then break its end upon its beginning, degree after degree, to the outlet of
+the name; for you will find its beginning in the second line ص and its end ى, twenty-eight names. So it is the front-part of the first gate from the great gate; you find its beginning ى
+and its end ب. You find the front-part twenty-eight names; the bridle returns from the gate of speech in twenty-nine
+names, and likewise the latter-parts, and peace. ( Front-part of the second gate ) from the great gate. Then take by this the bridles
+of the degrees of the bridle from the margin of the second, and it is twenty-eight degrees, its first being ح and its last ب. So add to it the letter
+issuing from it, and make it the added-to, which is ا, and the bridle becomes twenty-nine. Then break its end upon its beginning,
+degree after degree, upon the composition of the breaking of the front-parts of the first aid, and it gives birth to a name after name until the end of twenty-eight
+names. So they are the front-parts of the gate of the great one; you find its beginning ا and its end ص. The bridle returns to its front-part to twenty-nine
+names. Break from this gate in this manner to what has no end. And resolve the bridles upon the guardians at the end of the gates,
+and resolve upon the invocation of the aids by the names of God Most High and the names of His angels, with reflection and steadiness and acumen ۞ And this is the description
+of the breaking of the latter-parts of the front-parts of the gate of the great one. Then turn the bridle of the beginning of its speech, and its end becomes its beginning ۞ And know that its beginning
+was in the beginning ا and its end ى, so its beginning becomes ى and its end ا, and the bridle of the first gate of its speech becomes inverted. Then break
+its end upon its beginning, degree after degree, upon the composition, and it gives birth to a name after name until the completion of twenty-eight names.
+So it is the latter-part of the front-part of the gate of the great one; you find its beginning ا and its end لا. The bridle of the gate of its speech returns in
+twenty-nine degrees, its first being لا and its last ى. So the letter issuing from it, added to it, is ى, and the bridle becomes
+twenty-nine. Then break its end upon its beginning, degree after degree, and from this gate there is born a name after name
+in one sequence to its return. So it is the latter-parts of the second from the gate of the great one; you find its beginning ى and its end ص. Then know
+what has come out from the gates upon the bridles of their gates. So if its gate is sound for him, and it comes out in this manner from the front-parts
+and the latter-parts, preserved and inverted upon the composition with the speech of ‘Afiytush, then break from that what you are able after the hours
+of the days and the six nights; then isolate the bridles in another book and separate the front-parts from the latter-parts. ( Description ) Inflection
+of the small gate from the gate of its speech, the standing name, the degree, twenty-two, with the speech of al-‘Afiytush, by gathering the front-parts
+
+---
+_End of translation — 371 pages._
