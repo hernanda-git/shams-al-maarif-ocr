@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 416 translated pages._
+_Auto-generated from 419 translated pages._
 
 ---
 ## Page 1
@@ -23891,4 +23891,217 @@ And its الدعوة: the basmala: “O God, teach it as You taught it to Your s
 شلموف
 
 ---
-_End of translation — 416 pages._
+## Page 417
+
+**Arabic (original):**
+— ٤١١ —
+
+شلهوف بنوار يلهوف يلهوفك رفيق الفوز بالجنات بلهوف فليفوف شفشفوف ٢ ششف ٢ ششف٢
+شغنف ٢ شغف ٢ ضيف شيعثوا ٢ صيصصيعسيسعسعصوف يضعف جنس حسف بامرك فاهانا
+فانك سوه وموروفا وامشي ولا باس في غضب ولافتور بالفور القائم الف بيني وبين كذا وكذا
+وافعل لي كذا وكذا بالف لاحول ولاقوة الا بالله العلي العظيم والبخور فلفل وفل والاضمار تقول
+أجب يا سمسطسطائيل بحق سطف سطيطال كيطم لطم لطش ٢٢ هنك أجب واكشف الحجاب
+بيني وبينك العجل الوحا الساعة ﴿حرف الصاد﴾ هو من حروف الاسم الاعظم ومن خواصه اذا
+كتب على قطعة حرير ثم كتب عليها اسم الملك العلوي مع الاضمار ووضعت تحت فص خاتم فان حامله
+ينال الخير والبركة ويحفظ من المؤذيات و يتصرف كالجيم وهذه صورته
+[صورة طلسم]
+واما الخلوة والاستخدام فادخل الخلوة واتل الدعوة والاضمار دبر كل صلاة ٧٠٠
+مرة وأنت تقول أجب يا خادم حرف الصاد وافعل لي كذا فإنه يأتي ومن لازم
+على تلاوة الدعوة رزقه الله قوة على الطاعة وهي البسملة سألتك يامن وضع
+الذلة على رقاب عباده فهم من سلطانه خائفون يامن تفرد بالعزة والبقاء العظمة
+والكبرياء فجميع خلقه من خيفته وجلون وداخلون تحت أمره يامن
+أولياؤه يوم الفزع الاكبر آمنون أسألك يا كريم بالقدرة التي نظرت بها الى السماء فارتفعت والى
+الارض فانبسطت والى الجبال فانسطحت والى العيون فتفجرت والى الانهار فجرت والى
+القلوب فخشيت ووجلت والى الانس الخرس نطقت قالت أنت الله الواحد القهار أن تكسوني
+نورا استضئ به على الكشف وأن تسخر لي خادم حرف الصاد الملك سمسائيل و الاسم الكبير
+السماوي اصرفه في شغلي بامرك استرني بخدم ولسان شرب محبوب زاد عشقه وذهب معجل
+في مرادي سلوه لخبرا سلك فلا يلومني هو سيد الاشياء فاعو ياه ٢ ومن سره هذه الالفاظ والتسليط لطم
+وهيا بالف لاحول ولاقوة الا بالله العلي العظيم وأجب يا طعيل بحق حطيع سع سع علطح
+سع ليج يموه ياه هو ٢ سلام قولا من رب رحيم أجب وافعل كذا ﴿حرف القاف﴾ اذا كتب ومعه
+كل اسم أوله ق في خرقة حرير ووضعها تحت فص خاتم أو تحت حجر ياقوت أو عقيق يماني وحمله
+انسان فانه قبول ومن خواصه لقهر الاعداء وصمم الالسن يكتب مائة مرة في ورقة باسم من تريد
+وتعلق في الريح وتلاوة الدعوة والاضمار دبر كل صلاة ١٠٠ وارسم صورة الحرف ضعها في رأسك
+واطلبه فانه يحضر وله نور كالشمس ويراه السالك في خلوته ويكون جلوسه على القبلة وهذه صورته
+ودعوته البسملة قدرتك اللهم قاهرة لاعدائك وقوتك وهيبتك قائمة الى
+أوليائك أسألك اللهم أن تقبلني على شاطئ قربك والقرب اليك يالله
+ياقرب قلبي قلق حتى يلاقي ما نور بهجه وق يستقر بقاف قدرتك وأمدني بقوتك
+ياقوى قون بقدرتك وقوتك القوية حتى تقرب الى من لا يقرب الارضاك
+ورفعتك يا مقصود فتقربت اليك القاف وتقلقت القاف حتى لا يستقر به أجب إقاف واسرع لي
+
+**English:**
+— 411 —
+
+Shalhuf Banuwar Yalhuf Yalhufka rafiq al-fawz bil-jannat balhuf flifuf shafshafuf 2 shshaf 2 shshaf2
+Shaghnaf 2 Shaghaf 2 Dayf Shi‘thwa 2 Sisisi‘asis‘as‘asuf yud‘if jins hasf bi-amrik fahana
+fannaka suwah wa-murufa wa-imshi wa-la bas fi ghadab wa-la futur bil-fawr al-qa’im alif bayni wa-bayna kadhā wa-kadhā
+wa-af‘al li kadhā wa-kadhā bilf la hawla wa-la quwwata illa billah al-‘ali al-‘azim wa-al-bukhur filfil wa-fil wa-al-idhmar taqulu
+Aجب ya Sumasṭasṭā’īl bi-haqq Sutuf Sṭiṭāl Kayṭam Laṭam Laṭsh 22 Hank aجب wa-ikshif al-hijab
+bayni wa-baynak al-‘ijl al-wahā al-sā‘a ﴿letter of Ṣād﴾ huwa min huruf al-ism al-a‘ẓam wa-min khawassihi idhā
+kutiba ‘ala qiṭ‘a harir thumma kutiba ‘alayhā ism al-malik al-‘ulawi ma‘a al-idhmar wa-wuḍi‘at taḥt faṣ khātam fa-in ḥāmilahu
+yanāl al-khayr wa-al-baraka wa-yuḥfaẓ min al-mu’dhiyyāt wa yataṣarruf kal-jīm wa-hadhihi ṣūratuhu
+[Image of talisman]
+wa-amma al-khalwa wa-al-istikhdam fa-udkhul al-khalwa wa-tlu al-da‘wa wa-al-idhmar dubur kull ṣalāh 700
+marratan wa-anta taqulu aجب ya khādim ḥarf al-ṣād wa-af‘al li kadhā fa-innahu ya’ti wa-min lāzim
+‘alā tilāwat al-da‘wa razaqahu Allah quwwa ‘alā al-ṭā‘a wa-hiya al-basmala sa’altuka yāman waḍa‘
+al-dhilla ‘alā ruqāb ‘ibādihi fahum min sulṭānihi khā’ifūn yāman tafarrada bil-‘izza wa-al-baqā’ al-‘aẓama
+wa-al-kibriyā’ faja-mi‘ khalqihi min khīfatihi wajilūn wa-dākhilūn taḥta amrihi yāman
+awliyā’uhu yawma al-faza‘ al-akbar āminūn as’aluka ya karīm bil-qudrah allatī naẓarta bihā ilā al-samā’ fa-irtafa‘at wa-ilā
+al-arḍ fa-inbasat wa-ilā al-jibāl fa-insaṭaḥat wa-ilā al-‘uyūn fa-tafajjarat wa-ilā al-anhār fajarat wa-ilā
+al-qulūb fa-khashi‘at wa-wajilat wa-ilā al-ins al-khurs naṭaqat qālat anta Allah al-wāḥid al-qahhār an taksūnī
+nūran astadī’ bihi ‘alā al-kashf wa-an tusakhkhir li khādim ḥarf al-ṣād al-malik Sumsā’īl wa-al-ism al-kabīr
+al-samāwī iṣrifhu fī shughli bi-amrik usturnī bi-khadam wa-lisān sharb maḥbūb zāda ‘ishqahu wa-dhahaba mu‘ajjil
+fī murādī suluhu lakhabran salak fa-lā yalumnī huwa sayyid al-ashyā’ fa‘ū yāh 2 wa-man sarrahu hādhihi al-alfāẓ wa-al-taslīṭ laṭm
+wa-hiyā bilf la hawla wa-la quwwata illa billah al-‘ali al-‘azim wa-aجب ya ṭa‘īl bi-haqq ḥaṭī‘ sa‘ sa‘ ‘alṭaḥ
+sa‘ līj yamūh yāh huwa 2 salām qawlan min rabb raḥīm aجب wa-af‘al kadhā ﴿letter of Qāf﴾ idhā kutiba wa-ma‘ahu
+kull ism awwaluhu q fī khirqa harir wa-wuḍi‘a taḥta faṣ khātam aw taḥta ḥajar yāqūt aw ‘aqīq yamānī wa-ḥamalahu
+insān fa-innahu qabūl wa-min khawāṣṣihi li-qahr al-a‘dā’ wa-ṣamm al-alsun yuktabu mi’ah marratan fī waraqa bi-ism man turīd
+wa-tu‘allaq fī al-rīḥ wa-tilāwat al-da‘wa wa-al-idhmar dubur kull ṣalāh 100 wa-arsim ṣūrat al-ḥarf ḍa‘hā fī ra’sik
+wa-ṭlubhu fa-innahu yaḥḍur wa-lahu nūr ka-al-shams wa-yarāhu al-sālik fī khalwatihi wa-yakūn julūsuhu ‘alā al-qiblah wa-hadhihi ṣūratuhu
+wa-da‘watuhu al-basmala qudratuka allāhumma qāhirah li-a‘dā’ika wa-quwwatuka wa-haybatuka qā’imah ilā
+awliyā’ika as’aluka allāhumma an taqbalanī ‘alā shāṭi’ qurbika wa-al-qurb ilayka yā Allah
+yāqurb qalbī qalaq ḥattā yulāqī mā nūra bahjatuhu wa q yastaqirr bi-qāf qudratika wa-amdidnī bi-quwwatika
+yāqawī qūn bi-qudratika wa-quwwatika al-qawiyyah ḥattā taqruba ilā man lā yaqrub al-arḍāk
+wa-raf‘atika yā maqṣūd fataqarrabtu ilayka al-qāf wa-taqalaqat al-qāf ḥattā lā yastaqirr bihi aجب iqāf wa-asri‘ lī
+
+---
+## Page 418
+
+**Arabic (original):**
+- ٤١٣ -
+
+الإجابة قبل نزول القضاء ق والقرآن المجيد ق ليو بالقليل من غير قلوط بالإجابة أجب وتوكل بكذا
+بأمر القاهر القادر المقهّر بالقهر وتقلقل يا قاف قف عن السكون واسكن من الوقوف حتى تقضى
+حاجتي وشغلي آ. قف وسقوة هـرشق شفاق هيا الملك والملكوت وبنفخة إسرافيل وقبضة
+عزرائيل وصيحة جبريل وقبض الأرواح لأمر باق حتى تقضى حاجتي بعزة الله ليقضي الله أمراً
+كان مفعولاً سبحانه بحكم ما يريد وأنت بنور الله مستقر لولا ما قلت قف فميلاً حتى ترى منهم قدرة في
+القوة الله الحي القيوم القوي أجب والسلام عليك ورحمة الله وبركاته وبخوره قشر محلب وإضماره
+أجب بحق عطلك مهفط طهج ياهيموه قهر يوه أجب وافعل كذا (حرف الراء) أردفي
+الدرجة الخامسة ومن خواصه لتسليط الصداع اكتب عدد مراتبه في جلد بغل برذون واسم من
+تريد وأمه وضعته تحت عود الدقاق واتل الإضمار فإن الممول له يحصل له الصداع وأنت مستقبل
+القبلة وتلو اسمه الرحيم وتحمله فإن الله ييسر الرزق وإذا كتب والقمر فيه في قطعة من رصاص
+وحملها شاهدت سراً عظيماً واعلم أن هذا الحرف نافع لنمو الشجر وإقلابها في الحين بعد الاستخدام وإذا
+كتب ووضع في الحجر الذي يصب فيه الماء لسقي الأشجار فإنها تنمو وتجمل وصورة الاستخدام أن
+تدخل الخلوة بشروطها تتلو الدعوة يحضر وصدره مشقوق وإذا استخدمته ورأيت المصروع وأشرت
+إليه فإنه يفيق حامده دهر قليل صرفه فيما تريد وهذه صورته
+ودعوته البسملة رب أسألك مدداً روحانياً تقوى به قواي الجزئية والكلية
+حتى أقهر نفس كل جبار في الكليات والجزئيات حتى تصير نفسي نفسية [~] ق. ض
+إليها دقاقها أنقاضاً يسقط بها قواي حتى لا يبقى في الكون ذو روح إلا
+والنار أخمدتها بظهور هم كقواك يا عزيز سخر لي خادم حرف الراء ومر
+خاصته حتى أقضي بها شغلي ومرادي وأمر ديني يا الله يا قوي يا ذا القوة والبطش الشديد يا هادي
+يا نور يا حي يا قيوم يهوه ٢ أهيا شراهيا أدوناي أصباؤت آل شداي يهوه ٢ باه ٢ هو
+هي هو ٢ وجهتي وجاهي شاشا هيا بيه يايه ياه الإله الرفيع جلاله هيا يارا بالإجابة بلف
+لا حول ولا قوة إلا بالله العلي العظيم وإضماره أجب أيها السيد هريائيل بحق صطيق حميد حيوم قيوم
+رؤف ٢ هليخ يموه ٢ ياه ٢ لوحا العجل (حرف الشين) للصلح بين المتناغضين يكتب مع اسم
+المطلوب الإضمار في ساعة سعيدة ويحمله يحصل ما يريد وللقضاء يكتب معكوساً والإضمار على
+رصاص ويدفن في المكان وإذا كتب مع الأسماء التي أولها ش وحمله إنسان رزقه الله الهيبة والوقار
+وله خلوة ورياضة ٢٨ وتلاوة الدعوة والإضمار حتى يحضر واسمه حرديائيل فاصرفه وهذه صورته
+الصحيفة الآتية
+
+ودعوته
+
+**English:**
+- 413 -
+
+The answer before the descent of the decree q and the Glorious Qur’an q liyo with little, without clumsiness, with the answer aجب and rely upon such-and-such
+by the command of the Subduer, the Powerful, the Overpowering by subjugation, and be agitated, O Qāf, stop from stillness and dwell from standing until my
+need and my work are fulfilled. A. Stop and the force herashq shafāq hiyā the kingdom and the dominion, and by the blast of Isrāfīl and the grasp of
+‘Azrā’īl and the cry of Jibrīl and the seizing of souls for an abiding command until my need is fulfilled by the might of Allah, that Allah may decree a matter
+that was done, سبحانه by the judgment of what He wills, and you are by the light of Allah settled; were it not for what I said, stop, then a mile, until you see from them power in
+the power of Allah, the Living, the Self-Subsisting, the Powerful. Answer, and peace be upon you and the mercy of Allah and His blessings. And its incense: almond-shell and its
+idhmar: Answer by the right of your binding mahfat ṭahj yāhimūh qahr yūh answer and do such-and-such (letter of Rā’) I have made you follow
+the fifth degree. Among its properties is for setting the headache over someone: write the number of its ranks on the skin of a mule, a bardūn, and the name of whom
+you want and his mother who bore him, place it under the stick of the grinder, and recite the idhmar, for the one for whom it is intended will get a headache, and you, facing
+the qiblah, recite its name, al-Raḥīm, and carry it, for Allah makes provision easy. And if it is written, and the moon is in it, in a piece of lead
+and carried, you will witness a tremendous secret. And know that this letter is beneficial for the growth of trees and their turning over at once after use. And if
+it is written and placed in the stone into which water is poured for watering the trees, then they grow and become beautiful. And the form of the use is that
+you enter the retreat with its conditions, recite the invocation, it will appear, and its chest is split. And if you use it and you see the possessed and point
+to him, then he will recover. Its praise is a little age; employ it in what you want. And this is its form.
+And its invocation: the basmala, Lord, I ask You for spiritual مدد by which my partial and total powers are strengthened
+until I overpower the self of every tyrant in the universals and particulars, until my self becomes a النفسية [~] q. d
+to it, its grinders as ruins, by which my powers fall, so that there remains in existence no being with a soul except
+that the fire has extinguished it by the ظهور of them like Your powers, O Mighty One. Subject to me the servant of the letter Rā’ and command
+its special properties until I accomplish by them my work and my desire and the matter of my religion, O Allah, O Powerful One, O Possessor of severe force and might, O Guide
+O Light, O Living, O Self-Subsisting, Yahuah 2 Ehya Shrahia Adonai Tzabaoth El Shaddai Yahuah 2 Bah 2 Hu
+Hi Hu 2 my direction and my face shasha hiyā bīh yāyeh yāh the exalted God, majestic is He, hiyā yārā by the answer, belf
+there is no power and no strength except by Allah, the Most High, the Tremendous. And its idhmar: Answer, O lord Haryā’īl, by the right of Ṣṭīq Ḥamīd Ḥayūm Qayyūm
+Ra’ūf 2 Hīlīkh Yamhūh 2 Yāh 2 the tablet of the calf (letter of Shīn) for reconciliation between those at variance. It is written with the name
+of the one sought, the idhmar, at a fortunate hour, and he carries it; he obtains what he wants. And for judgment it is written reversed, and the idhmar on
+lead, and it is buried in the place. And if it is written with the names whose first letter is sh and a person carries it, Allah provides him with awe and dignity.
+And it has a retreat and a discipline of 28 and the recitation of the invocation and the idhmar until the servant appears, and his name is Ḥardiyā’īl; so dispatch him. And this is its form.
+The following page
+
+And its invocation
+
+---
+## Page 419
+
+**Arabic (original):**
+- ٤١٣ -
+
+ودعوته البسملة اشملني اللهم بلطفك النعم السوابغ كما تفضلت على خلقك بالآلاء
+والنعماء وأن تجذب لي خادم حرف اصرفه فيما أريد من مصالح تفضلت بها
+علي اللهم بتصريف التوفيق والعمل وزيادة العقل هياش سهام بسابهن
+شهر إي بحق ساه عجل لي بسر الملك العظيم بحفظ الريح ورب موسى وعيسى
+وذى الكفل وأيوب ومحمد المصطفى عليه السلام شف شفي شف شعشف
+أجب إيشين رب العالمين واضاره عده ص ٢ طلح ياس ٢ أجب وافعل كذا (حرف التاء) طبعه
+الموت وهو الف . تسطح ومن خواصه اذا كان انسان يرى خيالات ويحلم فيكتب هذه الحروف
+عدده مع الاضمار وقوله تعالى تبارك الذي بيده الملك ويحمله يأمن واذا كتب على قطعة اسرب مع
+اسم من تريد نقله من مكانه وألقيتها فيه عجل له الرحيل منه وادارسهم على قشر سلحفات وشرب من
+عليها صاحب المعدة رأى ما يسره ويكتب لعقد الالسنة والخرس ويدفن تحت العتبة أو يسقى فانه كلما
+أراد أن يتكلم يمسك على قلبه وخلوته ٢٨ يوما يحضر الخادم واسمه ونو يائيل نوره كالشمس واتل
+الاضمار والدعوة والبخور جاوي ومصطكى وهذه صورته
+ودعوته البسملة توسلت اليك يا تواب ياسيد السادات يا محيي العظام الرفات
+يا باعث الاموات يا باسط الارضين ورافع السموات يا كاشف السكرات
+بجاه محمد صلى الله عليه وسلم المجتبى المخصوص بالشفاعة العظمى أن
+تسخر لي خادم هذا الحرف يقضي حاجتي انك على كل شئ قدير أجب أيها
+الخادم لهذا الحرف بارك الله فيك وعليك أبواب هيا سيعلون ٢ مريموت ٢ سبحانك لا اله الا أنت
+ما أعظم شانك ولهوب سبحانك من التجأ اليك كفى ومن استعان بك نجا اللهم اقض حاجتي بالف
+لاحول ولاقوة الا بالله العلي العظيم واضاره أجب أيها الملك مرعيا ئيل بحق سهيل صقيل طوسم
+طاه يموه بواب العجل الوحا هيا بارك الله فيك وعليك آمين (حرف الثاء) نافع للحميات فافا
+كتب مع الاضمار في قطعة من فضة وحملها صاحب الحمى او محاها وشربها عوفي وتصرف كالفاف واذا
+كتبته في كفك وتلوت عليه الاضمار والدعوة وضربت به صدر من شئت تهيج لك واذا كتب مع اسم
+من تريد وتلوت عليه الاضمار فانه يعطف عليك وهو عطف للملوك وأرباب الدولة واذا استخدمته
+فانه يحضر ويقضى حاجتك وهذه صورته
+وله خلوة جليلة وتلاوة الدعوة ٤١ وكذا الاضمار حتى يحضر الخادم والبخور
+بذر نوم ينفع في خلوة ٤٠ يوما و يبخر به وقت التلاوة يحصل المطلوب ودعوته
+تقول بسم الله الرحمن الرحيم ثبتت قدرتك اللهم وجودك في قدم القدم من
+غير كيف ولا تشبيه خلقت النطفة والعلقة والمضغة وكسوت العظام لحما وأخرجت
+الطبع في النفس فجعلت الشمس منقادة الى ما انجذبت اليه بانتخاب الامر والاضمار ثلاث ثيال
+لثورت نار مهجتي بسر طبع السير في القلب أجب الا مريا خادم حرف الثاء بحق فالق الحب
+
+**English:**
+- 413 -
+
+And its invocation: the basmala, encompass me, O Allah, with Your gentle, abundant blessings, as You have favored Your creation with bounties
+and favors, and that You draw to me the servant of the letter, I dispatch him in what I want of interests with which You have favored
+me, O Allah, by the directing of success and action and the increase of intellect. Hiyāsh Sahām Bāsāhunn
+Shahr ī by the right of Sāh, hasten for me by the secret of the Great King, by the preservation of the wind, and the Lord of Moses and Jesus,
+and Dhū al-Kifl and Job and Muhammad the Chosen, peace be upon him. Shaf shafī shaf shafshaf
+Answer, Iishīn, Lord of the worlds, and its idhmar: ‘addah ṣ 2 ṭalḥ yās 2 Answer and do such-and-such (letter of Tā’) its nature
+is death, and it is alif. Flattening. Among its properties is that if a person sees phantoms and dreams, these letters are written:
+its number with the idhmar and His saying, exalted is He, Blessed is He in Whose hand is the dominion, and he carries it, he is safe. And if it is written on a piece of lead with
+the name of whom you want to move from his place and you cast it into it, his departure from it is hastened. And I have studied them on turtle shell and whoever drinks from
+it, the one with the stomach sees what gladdens him. And it is written for binding the tongues and the dumb, and it is buried under the threshold or given to drink, for whenever
+he wants to speak, it seizes his heart. And its retreat is 28 days; the servant appears, and his name is Nū Yā’īl, his light like the sun, and recite
+the idhmar and the invocation, and the incense is frankincense and mastic. And this is its form.
+And its invocation: the basmala, I have sought refuge in You, O Oft-Returning, O Lord of lords, O Reviver of decayed bones,
+O Resurrector of the dead, O Spreader of the earths and Lifter of the heavens, O Remover of agonies,
+by the rank of Muhammad, may Allah bless him and grant him peace, the chosen one, singled out for the greatest intercession, that
+You subject to me the servant of this letter to fulfill my need; indeed You are over all things powerful. Answer, O
+servant of this letter, may Allah bless you and upon you. Hiyā, Si‘lūn 2 Maryamūt 2 Glory be to You, there is no god except You,
+how great is Your شأن, and Lahūb. Glory be to You; whoever takes refuge in You is sufficed, and whoever seeks help from You is saved. O Allah, fulfill my need with a thousand
+there is no power and no strength except by Allah, the Most High, the Tremendous. And its idhmar: Answer, O king Mar‘iyā’īl, by the right of Suhayl, Ṣaqīl, Tūsum,
+Ṭāh, Yamhūh, Būwāb al-‘ijl, al-wahā, hiyā, may Allah bless you and upon you, amen. (letter of Thā’) beneficial for fevers, fafā
+written with the idhmar on a piece of silver and carried by the one with the fever, or erased and drunk, he is cured and acts like fafā. And if
+you write it in your palm and recite over it the idhmar and the invocation and strike with it the chest of whom you wish, he will be stirred up for you. And if it is written with the name
+of whom you want and you recite over it the idhmar, then it inclines him toward you, and it is an inclination for kings and lords of state. And if you use it,
+then it appears and your need is fulfilled. And this is its form.
+And it has a noble retreat and the recitation of the invocation 41 and likewise the idhmar until the servant appears, and the incense
+is bādhur nūm, beneficial in a retreat of 40 days, and it is fumigated with it at the time of recitation, the desired is obtained. And its invocation:
+you say, In the name of Allah, the Merciful, the Compassionate. Your power has been established, O Allah, Your existence in the القدم of القدم, from
+without how and without likeness. You created the sperm-drop, the clot, and the morsel, and clothed the bones with flesh, and brought forth
+the nature in the soul, and made the sun obedient to what it was drawn to by the selection of the command and the idhmar, three thiyāl
+for the stirring of the fire of my longing by the secret of the nature of motion in the heart. Answer, O al-Mariyā, servant of the letter Thā’, by the right of Fāliq al-ḥabb
+
+---
+_End of translation — 419 pages._
