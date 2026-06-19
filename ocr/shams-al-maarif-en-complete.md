@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 440 translated pages._
+_Auto-generated from 446 translated pages._
 
 ---
 ## Page 1
@@ -25224,4 +25224,276 @@ O Subbūḥ, O Quddūs, and supply me with a subtlety from the subtleties of You
 * Know that the meaning of Peace is the One safe in Himself from the marks of originated things and in His attributes from the attributes of created things, and that is not except for God. Thus there is no safety of the secure one and to Him, as he عليه السلام said: “O God, You are Peace, and from You is peace, and to You returns peace. Blessed are You and exalted are You, O Possessor of majesty and honor.” * And know that no safety has issued except from His تعالى name, Peace, and peace has been found in the right of the believer, and it is upon the Islam of the elect and the Islam of the common people. So the Islam of the common people is His saying تعالى: {And to Him has submitted whoever is in the heavens and the earth, willingly and unwillingly}, and the Islam of the elect is His saying تعالى: {So whoever God desires to guide, He expands his breast to Islam}. And that is because God made Islam attributed to Him, since it is general
 
 ---
-_End of translation — 440 pages._
+## Page 441
+
+**Arabic (original):**
+- ٤٣٥ -
+
+عموم في جميع الخلق علويها وسفليها حيوانها ونباتها وجمادها فهو إسلام بالإيجاد. واعلم أن حقيقة
+الإسلام تسليم الجسم للأعمال والفكر للأفكار وتسليم النفس بمخالفة الهوى وتسليم الأرواح للتذكر
+مع إقامتك باليقظة الحقيقية للسر والشهود للإسلام وله ثلاثة مراتب أعلى وأصفى ووسط، فأولها
+امتثال الفرائض الخمس لمن وضع له ذلك، والثانية في الاستسلام فيما يرى من أقدار عدم
+الاعتراض مع ثبوت الحال مع الله وإن مات حشر في دار السلام، وعلامة العقل ملاحظة الغيرية
+والسرية عن الكثيفة، وسلامة الروح ملاطفتها من الأغيار، وسلامة النفس تسليمها للأمان، وأما
+إسلام الأجسام فلزومها الخدمة على حسب الطاقة، وصلاة المرء استغراقه في هيبة عظمة، وصلاة
+الروح لتجلي الأسماء، وصلاة النفوس قطع العلائق التي تشغل عن الله تعالى، وصلاة القلوب تصحيح
+الخواطر بنور المسميات، وصلاة الأجسام قيامها بين يدي الله على حد الأمر والنهي. (تنبيه) اعلم
+أن قبلة السر الذات المقدسة، وقبلة العقل الصفات الوحدانية، وقبلة الأرواح الأسماء المكرمة،
+وقبلة النفوس الأفعال المطهرة، وقبلة القلب الإيمان بالواهب للفوز، وقبلة الأجسام البيت الحرام،
+ولزوم الأسرار إلى يوم الدين، وحج العقول إلى بيت الحكمة، وحج الأرواح إلى المكاشفة، وحج النفس
+إلى بيت الفراسة، وحج القلوب إلى بيت المواهب اللدنية، وحج الأجسام إلى البيت العتيق، وأذان
+الأسرار الإعلان بالكتمان، وأذان العقول ثبوت الإسماع، وأذان الأرواح ثبوت الإجابة، وأذان
+النفوس القيام من الغفلة، وأذان القلوب الإعمال بالذكر على الدوام، وأذان الأجسام نداء النافلين.
+واعلم أن المسلم من سلم الناس من لسانه ويده، والتقرب إلى الله بهذا الاسم والرياضة ٤٠ يوماً مع
+التلاوة عدده وتلاوة الدعوة حتى يحضر الخادم فإنه يرى من حقائق المسميات في العوالم، وإذا كتب
+هذا المربع وسقي لصاحب السوداء برئ، وإذا كتب في فضة وحوله اسم الملك على دائرة ودخل
+الخلوة وتلا الاسم دبر كل صلاة عدده وهو مائة واثنان وثلاثون مضروبة في نفسها على قضاء الحوائج
+وابتدأ تلاوة ودخل الخلوة وتلاه يوم الجمعة وقت العصر ومن اتبعه ستة وستين مرة في ٤٠ يوماً
+لصاحب الوسواس النفساني لا يعود إليه أبداً، وإذا كتب في خاتم فضة وتلا الاسم دبر
+كل صلاة عدده: فإن الله يرزقه العدل والسلامة من الجور، وإذا وافق اسمه كان اسماً أعظم
+ومهما توجه في حاجة قضيت، وإذا كتب هذا المربع في رق وحمله إنسان نال السلامة في البر
+والبحر وهذه صورته.
+وأما ذكره فتقول البسملة: اللهم سلمني من الخواطر النفسانية وأحي قلبي بنور
+معرفتك القدسية وسلمني من الكدورات الظلمانية والرعونات النفسانية
+وجنبني كل مكروه وأنلني كل رفعة واكشف يا قدوس بإسلام يا مؤمن
+يا مهيمن وملكني ناصية الملك بعطائيل واكشف بيني وبينه الحجاب واقض حوائجي
+بحق اسمك السلام، ما من عبد تجلى ربه بهذا الذكر وقت السحر ليلة الاثنين إلا أقره الله قدره
+ورزقه الحظ الوافر والسلامة من كل سوء.
+
+| ال | س | لام |
+|---|---|---|
+| ٩ | ٣ | ٣٩ |
+| ٣ | ٣٢ | ٨٩ |
+| ٢٨ | ٤ | ٣١ |
+
+**English:**
+- 435 -
+
+A generality in all creation, its upper and its lower, its animal and its plant and its inanimate; so it is Islam by bringing into existence. And know that the reality of Islam is the surrender of the body to deeds, and the thought to thoughts, and the surrender of the soul by مخالفة الهوى, and the surrender of the spirits to remembrance, with your abiding in the true wakefulness of the secret and witnessing for Islam; and it has three ranks, higher and purer and middle. So its first is the fulfillment of the five obligations for him for whom that was placed, and the second is in surrender in what is seen of the decrees of عدم الاعتراض with the establishment of the state with God, and if he dies he is raised in the Abode of Peace. And the sign of the intellect is the observation of otherness and secrecy from the dense; and the safety of the spirit is its gentleness with others; and the safety of the soul is its surrender to security. As for the Islam of bodies, it is their adherence to service according to capacity. And a man’s prayer is his immersion in the awe of majesty, and the prayer of the spirit is for the manifestation of the names, and the prayer of the souls is cutting the ties that distract from God تعالى, and the prayer of the hearts is correcting the thoughts by the light of the named things, and the prayer of the bodies is their standing before God upon the limit of command and prohibition. (Note) Know that the qiblah of the secret is the sacred Essence, and the qiblah of the intellect is the singular attributes, and the qiblah of the spirits is the honored names, and the qiblah of the souls is the purified acts, and the qiblah of the heart is faith in the Giver for attainment, and the qiblah of the bodies is the Sacred House, and the adherence of the secrets until the Day of Judgment, and the pilgrimage of the intellects to the House of Wisdom, and the pilgrimage of the spirits to unveiling, and the pilgrimage of the soul to the House of intuition, and the pilgrimage of the hearts to the House of the divine gifts, and the pilgrimage of the bodies to the Ancient House, and the adhan of the secrets is proclamation by concealment, and the adhan of the intellects is the establishment of hearing, and the adhan of the spirits is the establishment of response, and the adhan of the souls is rising from heedlessness, and the adhan of the hearts is working by remembrance continually, and the adhan of the bodies is the call of the supererogatory ones. And know that the Muslim is he from whose tongue and hand the people are safe, and drawing near to God by this name and the discipline for 40 days with the recitation of its number and the recitation of the invocation until the servant appears, for he sees from the realities of the named things in the worlds. And if this square is written and given to the one of black bile, he is cured. And if it is written in silver and the name of the king is around it on a circle and he enters seclusion and recites the name after every prayer, its number, and it is one hundred and thirty-two multiplied by itself, for the fulfillment of needs, and he begins recitation and enters seclusion and recites it on Friday at the time of afternoon, and whoever follows it sixty-six times in 40 days for the one of psychic obsessive whispering, it never returns to him. And if it is written in a silver ring and the name is recited after every prayer, its number: then God will provide him justice and safety from injustice. And if his name agrees, it is a greatest name, and whenever he turns toward a need it is fulfilled. And if this square is written on parchment and a person carries it, he attains safety on land and sea, and this is its form.
+
+And as for its remembrance, you say the basmalah: O God, deliver me from the psychic thoughts, and give life to my heart by the light of Your sacred knowledge, and deliver me from the dark turbidities and the psychic recklessness, and keep away from me every detested thing and grant me every elevation, and uncover, O Holy One, by Islam, O Believer, O Guardian, and make me possess the forelock of kingship by عطائيل, and uncover between me and him the veil, and fulfill my needs by the right of Your name, Peace. There is no servant whose Lord is manifested to him by this remembrance at the time of predawn on the night of Monday except that God confirms his destiny for him and provides him the abundant fortune and safety from every evil.
+
+| ال | س | لام |
+|---|---|---|
+| ٩ | ٣ | ٣٩ |
+| ٣ | ٣٢ | ٨٩ |
+| ٢٨ | ٤ | ٣١ |
+
+---
+
+---
+## Page 442
+
+**Arabic (original):**
+- ١٣٦ -
+( فصل في اسمه تعالى المؤمن )
+* اعلم أن معنى المؤمن هو المصدق بالإسلام لغة واصطلاحاً، هو الذي يعزى إليه كل أمر، ومحل
+الإسلام الصدر وهو عالم الكرسي، والإيمان محله القلب وهو عالم العرش؛ لأن القلب محل التجلي
+ومحل العناية الربانية، قال تعالى: أولئك كتب في قلوبهم الإيمان، وهو على الروح، والأصل أن
+اللوح الملكوتي لم يقع فيه التبديل بل هو محل الإيمان، والإيمان اعتقاد وقول باللسان وعمل
+بالجوارح، واختلف الناس في الإيمان، وحقيقته أن تؤمن بالله وملائكته وكتبه ورسله وبالقدر
+خيره وشره حلوه ومره، وأن الذي جاء به محمد حق، والميزان حق، والحوض حق، والشفاعة حق، ولقاء
+الله حق، وأن الساعة آتية لا ريب فيها، وأن الله يبعث من في القبور، وإيمان الأسرار بالمعرفة، وإيمان
+العقول بالعلم، وإيمان الروح بالكشف، وإيمان النفوس بالتحقيق، وإيمان القلوب بالإخلاص،
+وإيمان الأجسام بالأفعال على العقول، وهو يتولد من الرحمة بنور الإيمان على الأرواح يتولد منه
+المحبة، ونور الإيمان على النفوس يتولد منه الفتح، ونور الإيمان على الأجسام يتولد منه القيام بحقيقة
+الخدمة، وينبغي أن لا يدع الأذكار المناسبة لذلك، ويتحقق باسمه المؤمن ببعد القلب عن الأسباب
+ومقام المتوكلين وهداية القلب عن طلب ما سواه تعالى، وأول مراتب الإيمان الفراسة؛ لأنه أمر
+يظهر في القلب بنور الإيمان، والثاني في الرؤية والمشاهدة أعلى مراتب السالكين. * واعلم أن
+الفراسة خاطر يهجم على القلب ويقطع الظن، وتعريف المكاشفة نور يحل في القلب
+يضيء على الأكوان ويغرق في بحار الحال والوجود، وذلك حفظ مراعاة الأدب في العالم
+ومراعاة الأحوال عن الخروج عن الحق قولاً وفعلاً، والثبوت على الحضور على فناء الغيبة فذلك
+صاحب عكف، فهذه حقيقة الإيمان، ولقد أعطى الكشف عن الحكيم أفلاطون فإنه متعبد وهو
+حي متخلق باسمه المؤمن، وأعطى منه حقيقة المشاهدة وهو عظيم عند المريد، ومن أراد أن يرى
+حقيقة الإيمان ويشاهد الخيرات فليذكر دبر كل صلاة عدده، وله خواص لمن أراد الحلاوة يتلوه
+دبر كل صلاة مائة مرة فإنه ينال رتبة المشاهدة والكشف عن الشهوات النفسية والخواطر، وكل ذرة
+تجلى من الحرام حجب من ذلك. [~] إضاء له أربعون يوماً فإنه يشاهد ما تعجز عنه الأوصاف، ومن
+كان عنده شك أو وسواس يكتب هذا الاسم ويشربه على الريق إحدى وعشرين يوماً فإن الله
+يبرئه، وإذا كتب سبع هذا الاسم على فضة أو ذهب وحمله إنسان أو امرأة [~] عرض لها وسواس
+أبرأه الله، وتلاوته ثلاثة وأربعين يوماً دبر كل صلاة عدده وستمائة وستة وثلاثون مضروبة إلى تمام
+العدد فإنه ينزل عليه قائل يحته ست قواد تحت يد كل قائد عوالم كثيرة ويقضى حاجته.
+وهذه صورته:
+وذكر القائم به البسملة: رب منني رقيقة من رقائق اسمك تشرح بها صدري
+ومدني ببارقة من فيضك الأقدس النفيس لأنفس فأنت سامع الأصوات
+ومجيب الدعوات، أسألك بسر مرب ودك القديم أن تهدني إلى صراطك المستقيم.
+| م | و | م | ن |
+| ٤ | ١ | ٤٩ | ٥٧٢ |
+| ٤٨ | ٣٨ | ١٧ | ٧٣ |
+| ٧ | ٤ | ٧٤ | ٣٩ |
+وتحيي
+
+**English:**
+- 136 -
+(Chapter on His تعالى name al-Mu’min)
+* Know that the meaning of al-Mu’min is the one who confirms by Islam, linguistically and technically; he is the one to whom every matter is attributed. And the locus of Islam is the breast, and it is the world of the Throne-seat, and faith, its locus is the heart, and it is the world of the Throne; because the heart is the locus of manifestation and the locus of divine care. He تعالى said: “Those, He has written faith in their hearts,” and it is upon the spirit. And the أصل is that the الملكوتي tablet did not occur in it alteration, rather it is the locus of faith. And faith is conviction and speech by the tongue and action by the limbs. And people differed concerning faith. And its reality is that you believe in God and His angels and His books and His messengers and in destiny, its good and its evil, its sweet and its bitter, and that what Muhammad brought is truth, and the Balance is truth, and the Pool is truth, and intercession is truth, and the meeting of God is truth, and that the Hour is coming, no doubt in it, and that God raises those in the graves. And the faith of the secrets is by knowledge, and the faith of the intellects is by science, and the faith of the spirit is by unveiling, and the faith of the souls is by verification, and the faith of the hearts is by sincerity, and the faith of the bodies is by acts upon the intellects. And it is generated from mercy by the light of faith upon the spirits; from it love is generated, and the light of faith upon the souls; from it opening is generated, and the light of faith upon the bodies; from it is generated standing in the reality of service. And it is fitting that he not leave the suitable remembrances for that. And he realizes by His name al-Mu’min the distance of the heart from causes and the station of the trustful, and the guidance of the heart away from seeking other than Him تعالى. And the first of the ranks of faith is intuition, because it is a matter that appears in the heart by the light of faith, and the second is in vision and witnessing, the highest of the ranks of the wayfarers. * And know that intuition is a thought that assails the heart and cuts off conjecture, and the definition of unveiling is a light that settles in the heart, illuminating the beings and drowning in the seas of state and existence, and that is preserving the observance of courtesy in the world and the observance of states from departing from the truth in word and deed, and steadfastness upon presence upon the annihilation of absence; that is the one of عكف. So this is the reality of faith. And unveiling has indeed been given from the sage Plato, for he is devout and alive, characterized by His name al-Mu’min, and from it he was given the reality of witnessing, and it is عظیم with the aspirant. And whoever wishes to see the reality of faith and witness the good things, let him remember after every prayer its number. And it has properties: for whoever desires sweetness, let him recite it after every prayer one hundred times, for he attains the rank of witnessing and unveiling from psychic desires and thoughts, and every particle that is manifested from the unlawful is veiled from that. [~] It illuminates for him forty days, for he witnesses what descriptions are unable to [express]. And whoever has doubt or obsessive whispering, let him write this name and drink it on an empty stomach for twenty-one days, for God will cure him. And if seven of this name are written on silver or gold and a person or a woman carries it [~] and obsessive whispering appears to her, God will cure him. And its recitation for forty-three days after every prayer, its number, and six hundred and thirty-six multiplied to the completion of the number, for a caller descends upon him beneath it, six leaders under the hand of each leader, many worlds, and his need is fulfilled.
+And this is its form:
+And the remembrance of the one who acts by it is the basmalah: My Lord, grant me a delicate thread from the filaments of Your name by which You expand my breast, and extend to me with a flash from Your most sacred, precious overflow for souls, for You are the Hearer of voices and the Answerer of prayers. I ask You by the secret of the مرب of Your ancient love that You guide me to Your straight path.
+| م | و | م | ن |
+| ٤ | ١ | ٤٩ | ٥٧٢ |
+| ٤٨ | ٣٨ | ١٧ | ٧٣ |
+| ٧ | ٤ | ٧٤ | ٣٩ |
+And give life
+
+---
+
+---
+## Page 443
+
+**Arabic (original):**
+— ٤٢٧ —
+
+وتحيى روحي بالإيمان القويم فأنت ربي وبيدك سمعي وبصري اللهم ملكني ناصية خادم عوالم اسمك المؤمن واشرح صدري لملاقاة عبدك وقليلي لمدى بعوالمه ويقضى حاجتي يارب العالمين من ناجى ربه بهذا واتخذ الاسم وردا رزقه الله الهيبة وحلاوة الإيمان
+( فصل في اسمه تعالى المهيمن )
+اعلم أن معنى المهيمن هو القائم على خلقه بأعمالهم ومحياهم ومماتهم وعبثهم ووجودهم وهذا الاسم جامع للإسلام ودليل الظاهر والباطن وحروفه خمسة جمعت حروف الملكوتيات ولطائف الأكوان فالميم من حروف الملكوت والميم ظاهرة الهاء وهي أيضاً ظاهرة والهاء حرفان وهي عبارة عن اسمه هو وهو حقيقة النفس والياء سر الألف المتولدة عن الصمت وهي حرف من حروف العقل والميم الثانية تشير إلى الملكوت الأعلى والنون إشارة إلى حقيقة العلم لأنه باطنه وعليه حمل الملك أعنى النون وقد جمع هذا الاسم لهذه الأسرار وأنه تعالى قد جعل الأمر العلى مهيمنا على العقل وجعل العقل مهيمنا على الروح وجعل الروح مهيمنا على النفس وجعل النفس مهيمنا على الحركات وهي مهيمنة على السكنات وهي مهيمنة على الحروف وهي مهيمنة على المعاني والمعاني مهيمنة على الأسرار ولذلك ربط العلم وجعل الأشياء مرتبطة بعضها ببعض والجميع ممتد منه وكل أول مهيمن على الثاني كما أن الألف مهيمنة على الياء والياء على التاء وكل اسم سلكت به ثم استكملته فالذي تفعل به مهيمن وأسماء الذات مهيمنة على غيرها والمتخلق بهذا الاسم يلزمه الأدب في سائر أفعاله وهو من أذكار الأولياء لأن المتخلق به يكون كثير المشاهدة كثير الخوف وهو أى المهيمن هو الذي أنطقك بسر الروح وبصرك بسر النور وألهمك بسر العقل وصرفك بسر الأمر وأسمك بسر العناية واستعملك بسر الدراية والمتقرب إلى الله بهذا الاسم يندرج في أطوار السلوك مقاما بعد مقام وأن تعرج في سلم المعارف درجا بعد درج وعليك بتلاوة هذا الاسم مع ما فيه من السر والفكر تراقب السر إلهية وراقب الفكر بالحياة والروح بالتمكين والنفس بالخوف والقلب بالعلم والجسم بالعمل فهذه المراقبات هي مفاتيح فإذا أردت الفتح على هذه المقامات فتربض واتل الاسم ليلا ونهارا في خلوة فعند ذلك يفتح لك بالهيبة باب الأنس وبالحياة باب البسط وبمراقبة الروح يفتح باب الأمن وبمراقبة القلب يفتح لك باب العلم والكل من شرف هذا الاسم ومن وافق عدد اسمه واتخذه وردا كان اسما أعظم في حقه ونال من الخيرات في سره وفكره مالانهاية له ولهذا الاسم ذكر جليل القدر فمن واظب على قراءته رزقه الله المهيمنة على قراءته وينال رتبة الأبدال والكشف على حقائق المعلومات ومن ربط حروف اسمه مع أهم من أراد وجمع حروفها في وفق مربع وحمله فإنه تأليف لا ينفك ومن كتبه على قطعة في كاغد في وقت صالح ووضعه تحت رأسه ويحمله ويتلوه عدده والذكر القائم به فإن الله يفتح عليه وهذه صورته كما ترى في الصحيفة الآتية
+
+**English:**
+— 427 —
+
+And my spirit is given life by the upright faith, for You are my Lord, and in Your hand are my hearing and my sight. O God, make me possess the forelock of the servant of the worlds of Your name al-Muhaymin, and expand my breast for meeting Your servant, and my little one for the extent in his worlds, and my need is fulfilled, O Lord of the worlds. Whoever converses with his Lord by this and takes the name as a litany, God will provide him awe and the sweetness of faith.
+
+(Chapter on His تعالى name al-Muhaymin)
+Know that the meaning of al-Muhaymin is the One قائم over His creation by their deeds and their life and their death and their play and their existence. And this name is comprehensive of Islam and a proof of the outward and the inward, and its letters are five, which gathered the letters of the الملكوتيات and the subtleties of the worlds. So the mīm is from the letters of the الملكوت, and the mīm is apparent; the hā’ is apparent also; and the hā’ are two letters, and it is an expression of His name هو, and it is the reality of the soul; and the yā’ is the secret of the alif generated from silence, and it is a letter from the letters of the intellect; and the second mīm indicates the higher الملكوت; and the nūn is an indication of the reality of knowledge because it is its inward, and upon it the king was carried, I mean the nūn. And this name has been gathered for these secrets, and that He تعالى has made the higher command a guardian over the intellect, and made the intellect a guardian over the spirit, and made the spirit a guardian over the soul, and made the soul a guardian over the movements, and it is a guardian over the stillnesses, and it is a guardian over the letters, and it is a guardian over the meanings, and the meanings are guardians over the secrets. And for that He bound knowledge and made things connected to one another, and the whole extended from Him, and every first is a guardian over the second, just as the alif is a guardian over the yā’ and the yā’ over the tā’, and every name by which you have proceeded and then completed it, that by which you act is a guardian, and the names of the Essence are guardians over other than them. And the one characterized by this name is obliged to courtesy in all his acts, and it is among the remembrances of the saints, because the one characterized by it is much witnessing, much fear. And He, that is al-Muhaymin, is the One who made you speak by the secret of the spirit and made you see by the secret of the light and inspired you by the secret of the intellect and turned you by the secret of the command and named you by the secret of care and employed you by the secret of knowledge. And the one drawing near to God by this name is included in the stages of wayfaring, station after station, and that you ascend in the ladder of knowledges, step after step. And upon you is the recitation of this name with what is in it of secret and thought: you observe the secret by divinity, and observe the thought by life, and the spirit by empowerment, and the soul by fear, and the heart by knowledge, and the body by action. So these observances are keys. If you desire the opening upon these stations, then squat and recite the name night and day in seclusion; at that time the door of intimacy is opened to you by awe, and the door of expansion by life, and by observing the spirit the door of security is opened, and by observing the heart the door of knowledge is opened to you. And all is from the nobility of this name. And whoever’s number agrees with his name and takes it as a litany, it is a greatest name in his right, and he attains from the good things in his secret and his thought that which has no end. And for this name there is a remembrance of great value; whoever persists in its recitation, God will provide him the guardianship over its recitation, and he attains the rank of the substitutes and unveiling upon the realities of the known things. And whoever binds the letters of his name with the most important of what he desires and gathers its letters in a square wafq and carries it, it is a composition that does not separate. And whoever writes it on a piece of paper in a suitable time and places it under his head and carries it and recites its number and the remembrance by which he acts, then God will open upon him. And this is its form as you see in the following page.
+
+---
+## Page 444
+
+**Arabic (original):**
+- ٤٣٨ -
+| الم | هي | من |
+|---|---|---|
+| ١٦ | ٨٩ | ٣٢ |
+| ٨٨ | ١٣ | ٤٢ |
+| ٤١ | ٣٤ | ١٤ |
+وأما ذكر البسملة سبحانك ما أعظم شأنك وأعز سلطانك لا إله إلا أنت رب
+الأرباب ومالك الرقاب أنت المهيمن الوهاب أسألك اللهم بسر بيان حكمتك في
+القلوب والأسرار ونور تجليك على الصالحين الأخيار أن تكسوني هيبة وقبولا
+بين أبناء جنسي وأن تكشف لي عن أسرار المهيمنة يامهيمن أنت العالم بما يكون
+صرفت الأفهام والألسن عن وصف كمالك وأنت أجل وأعظم أن تدرك ذاتك أسألك أن تمدني
+برقيقة من رقائق اسمك المهيمن وأن تمدني بخادم هذا الاسم طليائيل لأعرف المراتب السنية من العلوم
+اللدنية يا الله يامهيمن من لازم على هذا الذكر سخر الله له القلوب ونال كل مطلوب
+﴿ فصل في اسمه تعالى العزيز ﴾
+اعلم أن معنى العزيز هو الخطير الذي لا مثيل له وإليه تشد الحاجات ومنتهاه الغالب القاهر واعلم أن
+العزة هي أصل البقاء لأن الحق تعزز ببقائه وأنه وهب العزة والبقاء في الجنة للمؤمنين وعزة رسوله عليه
+السلام الحياة الأخروية وذات بنور النبوة اختصاصه بالرسالة وكلامه باق ببقائه
+ولذلك لا ينزله لا عن السر الذي يفنى ببقائه في دار الآخرة فيسمع الباقي بالباقي ولذلك العلماء
+الوارثون لهم العزة النبوية وحياة القوم وحقيقتهم في الإيمان حياة القلوب والخدمة لله وحياة الله بمحبة
+الله وحياة الأجسام بالقيام بأوامر الله إذا استكمل العبد هذه المقامات دعي عزيزا ومن أراد حقيقة
+التحقيق بهذا الاسم فليصبر على الربوبية بسر العبودية والتسليم قال صلى الله عليه وسلم من تواضع
+لغني لأجل غناه ذهب ثلثا دينه لأن المرء بثلاثة أشياء قلبه ولسانه ويده فإذا تواضع بلسانه ذهب ثلث
+دينه وإن تواضع بقلبه ذهب دينه والمتخلق بهذا الاسم لا يتلو معه شيئا ويكون خاليا عن الناس تاركا
+للشهوات ويكون غنيا بالله تعالى وهذا الاسم من أذكار المتوكلين لأن المعتمد على هذا الاسم يرزقه
+الله من حيث لا يحتسب * ومن كتب مربعه في خاتم من فضة أو ذهب وحمله مع الملازمة على التلاوة
+رزقه الله العزة وإذا وفق عدده اسم شخص واتخذه ذكرا فتح الله عليه أبواب العزة وكان مهابا عند
+العوالم السافلة والعلوية وأما الذكر القائم به بسم الله الرحمن الرحيم اللهم أنت العزيز الغالب الذي
+لا تغلب قوته غالب أسألك أن تقويني على طاعتك وأن تسخر لي عبدك رضيائيل خادم هذا الاسم
+يمدني بالهيبة والوقار ويقضي حوائجي وأن تحيي قلبي وروحي ببارقة من البوارق النورانية لا تعزز بعز
+عزتك إلا عزيز وارحمني وارفعني إلى رتبة الأولياء والصالحين يارب العالمين وثبتني كما ثبت أولياءك
+المقربين وأهل طاعتك أجمعين
+﴿ فصل في اسمه تعالى الجبار ﴾
+اعلم أن معنى الجبار هو الذي يمضي حكمه على طريق الإجبار في كل واحد ولا يدافعه حذر حذر وهو
+الله والجبار المطلق هو الذي يجبر كل أحد والنظر في ذلك على أنواع لا تحصى من حيث تفصيل لأن
+أعظم الشواهد في ذلك عالم الملك وهو المعبر عنه بعالم الشهادة إذ هو أقرب الاعتبار للمعتبرين إلا أنه
+محل فواهم فالخط التدبير إلى الله فإنا أنزل من السماء ماء واحدا برحمته لقدر معلوم تناوله السحاب
+وهو
+
+**English:**
+- 438 -
+| alif-lam-mim | she | from |
+|---|---|---|
+| 16 | 89 | 32 |
+| 88 | 13 | 42 |
+| 41 | 34 | 14 |
+And as for the remembrance of the basmalah: Glory be to You, how عظیم is Your شأن and how mighty is Your سلطان; there is no god but You, Lord of lords and Possessor of necks. You are the Mهيمن, the Bestower. I ask You, O Allah, by the secret of the manifestation of Your wisdom in the hearts and the secrets, and the light of Your self-disclosure upon the righteous, the good, that You clothe me with awe and acceptance among the sons of my kind, and that You uncover for me the secrets of the Mهيمنة. O Mهيمن, You are the Knower of what is to be. You have turned the understandings and the tongues away from describing Your perfection, and You are more exalted and greater than that Your Essence be comprehended. I ask You to extend to me a subtlety from the subtleties of Your name, the Mهيمن, and to extend to me a servant of this name, Tlayiyal, so that I may know the lofty ranks of the sciences of ladunnī. O Allah, O Mهيمن, whoever persists upon this remembrance, Allah subjugates the hearts for him and he attains every desired thing.
+﴿ Chapter on His, تعالى, name, العزيز ﴾
+Know that the meaning of العزيز is the formidable one who has no like, and to whom needs are stretched forth, and its end is the غالب, the قاهر. And know that might is the أصل of permanence, because the Truth عزّز Himself by His permanence, and that He bestowed might and permanence in Paradise upon the believers, and the might of His Messenger, عليه السلام, is the otherworldly life, and His ذات by the light of prophethood, His اختصاص by the message, and His speech remains by His permanence.
+And therefore it does not descend except from the secret that perishes by its permanence in the Abode of the Hereafter, so the remaining hears by the remaining. And therefore the scholars, the inheritors, for them is the prophetic might, and the life of the people and their reality in faith is the life of the hearts and service to Allah, and the life of Allah by the love of Allah, and the life of bodies by standing with the commands of Allah. If the servant completes these stations, he is called العزيز. And whoever desires the reality of realization by this name, let him be patient with الربوبية by the secret of العبودية and submission. He, صلى الله عليه وسلم, said: Whoever humbles himself to a rich man because of his wealth, two-thirds of his religion go away, because a person is by three things: his heart, his tongue, and his hand. So if he humbles himself with his tongue, one-third of his religion goes away; and if he humbles himself with his heart, his religion goes away. And the one who is characterized by this name does not recite with it anything, and he is empty of people, abandoning desires, and he is rich by Allah تعالى. And this name is among the remembrances of the trustful, because the one who relies upon this name, Allah provides for him from where he does not reckon. * And whoever writes its square in a ring of silver or gold and carries it while persisting in recitation, Allah provides him with might. And if its number is made to accord with the name of a person and he takes it as a remembrance, Allah opens for him the doors of might, and he becomes feared among the lower and upper worlds. As for the remembrance by which it is قائم: In the name of Allah, the Merciful, the Compassionate. O Allah, You are the العزيز, the غالب, whose power is not overcome by any غالب. I ask You to strengthen me upon Your obedience, and to subjugate for me Your servant Rḍiyā’īl, servant of this name, that he may extend to me awe and dignity and fulfill my needs, and that You revive my heart and my spirit by a flash from the نورانية flashes. None is made mighty by the might of Your might except one who is mighty. Have mercy on me and raise me to the rank of the saints and the righteous, Lord of the worlds, and make me steadfast as You made steadfast Your near ones, Your chosen saints, and all the people of Your obedience.
+﴿ Chapter on His, تعالى, name, الجبار ﴾
+Know that the meaning of الجبار is that whose judgment proceeds by way of compulsion upon each one, and no caution repels it, no caution; and He is Allah. And the absolute الجبار is He who compels every one. And النظر in that is upon kinds not countable from the aspect of detail, because the greatest witnesses in that are the world of الملك, and it is expressed by the world of witnessing, since it is the nearest consideration for those who consider, except that it is the place of delusions. So the line of management is to Allah. For We sent down from the sky one water by His mercy, to a known measure; the clouds took it, and it is
+
+---
+## Page 445
+
+**Arabic (original):**
+- ٤٣٩ -
+
+وهو ركن واحد وإن اختلفت جهاته نزل إلى سطح الأرض وقوله تعالى (وترى الجبال تحسبها جامدة
+وهي تمر مر السحاب صنع الله الذي أتقن كل شيء) ثم النبات منه ما هو قوام الأجساد ومنه ما فيه
+هلاكها ألا ترى الصغير الجسم لو تراكم عليه الماء وإن كان الماء على الرحمة كان غذاء في حقه
+لأنه يقضي الحاجة ومثله النبات الكبير فلابد أن كل عالم له حده معلوم كما أن الشجرة محتوية على أصول
+وفروع وهي محتوية على أغصان وورق وما محتويان على زهر وثمر ولكل واحد عدد يليق به
+والجبار تعالى هو سر الجبر والقهر ولولا ذلك لاختل النظام وهذه العناصر الأربعة المعظمة القدر التي
+قام بها نظام العالم وأن الإنسان إذا هذب نفسه حصلت له الخلافة والجبرية واستنزلت روحه وتهذبت
+أخلاقه فخذ منه الطبائع ولولا سر الإمداد وإقامة الطبائع ونسبتها بسر الجبر والجهر ولو قام منها
+عنصر لأهلك الجسم وفسد وإن الحياة رحيرها بسر الجبر هو باقية الجسم قام فنظام العالم والكون والفساد
+ولذلك ظهر نظام العالم بسر النسب والإضافات فإن الأنساب كلها أسماء الله وهي النسب الإلهية حتى
+لا يفتقر الإله وأن نظام الجسم بالحرارة الغريزية وبقية الأربع طبائع ومر هذه الطبائع بالقوة
+القهرية فإذا انتقل إلى الدار الآخرة ارتفع سر القدرة والقهر عن الطبائع المؤلفات وعلى هذه
+الصفة يكون أسرار العلم الملك الذي هو عالم الغيب والشهادة ثم الشاهد الثاني فإن الله تعالى خلق عالماً
+من العوالم بتدبيره وأن العلم العلوي كما أن له نظاماً وعالم تدبير الأفلاك بقوة جبرية بكل عالم وجبره
+ووجب التقدير والروح في فضل التركيب بحكمة إلهية والتقرب إلى الله بهذا الاسم الرياضة ٤٠ يوماً
+ومهما خطر لك من الزوائل من الكبر والزعونات الأمارة فأورده على الخواطر والأصول الأصول الكناية
+والأصول المحمدية ومن ربط هذا الاسم بطريق التكسير وكتبه في مربع وحمله كان ذا قدر عند
+الملوك والحكام ومن كتب مربعه على فضة وحوله اسم الملك والذكر القائم به وحمله ودخل على
+الملوك عظموه وإن كان لسان له عدو أو ظالم تجبر عليه يتلوه عدده مضروباً في نفسه ويقول اللهم إني
+أسألك باسمك الجبار أن فلاناً عبدك آذاني وتجبر علي وأنت جبار السموات والأرض أسألك أن تجبره
+وتقهره بالمحبة والمودة لي يا جبار يا الله وإن شئت قلت أجب أيها الملك ووكل بفلان بحق هذا الاسم
+وتتلوه وقد رأيت هذه الآية وهي قوله تعالى هو الله لا إله إلا هو عالم الغيب والشهادة الخ وفيها
+هذه الآية وأسماء كلها اشتقاقية وفيها اسم واحد غير اشتقاق وهو من باب الروح في طريق الأوفاق
+ولها مربع إذا كتب بمسك وزعفران وماء ورد ويكون الكاتب صائماً ويتلو الآية ويذكر كرام
+من يريد من الملوك الأرضية وتكلم بالله كرر الآ [?] فإنه يحضر وإذا أردت إحضاره فأت لاسم عدده فإنه
+يحضر وهو من عوالم عزرائيل وتحت يده ٤ قواد تحت يد كل قائد ٦٠ صفاً ويأتي للذاكر يقضي
+حاجته وهذه صفته الصحيفة الآتية
+
+**English:**
+It is one pillar, even if its directions differ; it descends to the surface of the earth. And His, تعالى, saying: “And you see the mountains, you think them solid, while they pass as the passing of the clouds; the صنع of Allah, who perfected everything.” Then of the plants, some are the sustenance of bodies, and some are in them their destruction. Do you not see that the small-bodied thing, if water accumulates upon it—though water is upon mercy—it is nourishment in its right, because it fulfills the need; and the like of it is the large plant. So it is necessary that every world has its known limit, just as the tree contains roots and branches, and it contains boughs and leaves, and they contain blossom and fruit, and for each one a number fitting to it.
+And the تعالى الجبار is the secret of compulsion and subjugation, and were it not for that the order would be disturbed. And these four elements, of great value, by which the order of the world stands; and that when man disciplines his self, the caliphate and the جبريّة are obtained for him, and his spirit is drawn down and his character is disciplined. So take from him the natures. And were it not for the secret of support and the establishment of the natures and their attribution by the secret of compulsion and proclamation, and if one element of them were to stand, it would destroy the body and corrupt it. And life, its life by the secret of compulsion, is the remaining of the body; the order of the world, and generation and corruption, stand. And therefore the order of the world appeared by the secret of relations and additions, for all lineages are the names of Allah, and they are the divine relations, so that the deity is not in need. And the order of the body is by the innate heat and the remainder of the four natures, and the passing of these natures by the coercive power. So if it transfers to the Abode of the Hereafter, the secret of power and subjugation is lifted from the composite natures. And upon this description are the secrets of the science of الملك, which is the world of the unseen and the witnessed. Then the second witness: Allah تعالى created a world from the worlds by His management, and the upper science, just as it has an order, and the world of the management of the spheres by a coercive power over every world and its compulsion, and the decree became necessary, and the spirit in the excellence of composition by divine wisdom. And drawing near to Allah by this name: the spiritual exercise for 40 days. And whatever may occur to you of the vanishings, from pride and the commanding stirrings, bring it upon the thoughts and the roots, the roots of allusion and the Muhammadan roots. And whoever binds this name by the method of breaking down and writes it in a square and carries it, he will be of rank with the kings and rulers. And whoever writes its square on silver and around it the name of the king and the remembrance by which it is قائم and carries it and enters upon the kings, they magnify him. And if he has an enemy of the tongue or an oppressor who subjugates him, he recites its number multiplied by itself and says: O Allah, I ask You by Your name, الجبار, that so-and-so, Your servant, has harmed me and has subjugated himself against me, and You are the Subjugator of the heavens and the earth; I ask You to subjugate him and overpower him with love and affection for me, O جبار, O Allah. And if you wish, you say: Answer, O king, and appoint so-and-so by the right of this name, and recite it. And I have seen this verse, and it is His, تعالى, saying: He is Allah, there is no god but He, Knower of the unseen and the witnessed, etc. And in it are these verses, and all the names are derivational, and in it is one name that is not derivational, and it is from the chapter of the spirit in the path of the correspondences. And it has a square; if it is written with musk and saffron and rose water, and the writer is fasting, and he recites the verse and mentions the noble one of the earthly kings whom he يريد, and speaks with Allah, repeat the [?], for he will be present. And if you wish to bring him, then come to the name whose number it is, for he will be present, and he is from the worlds of ʿAzrā’īl, and under his hand are 4 commanders; under the hand of each commander are 60 ranks, and he comes to the one who remembers, fulfilling his need. And this is its description, the following page.
+
+---
+## Page 446
+
+**Arabic (original):**
+- ٤٤٠ -
+
+| الله | الملك | القدوس | السلام | المؤمن | المهيمن | العزيز | الجبار | المتكبر |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| الملك | القدوس | السلام | المؤمن | المهيمن | العزيز | الجبار | المتكبر | الله |
+| القدوس | السلام | المؤمن | المهيمن | العزيز | الجبار | المتكبر | الله | الملك |
+| السلام | المؤمن | المهيمن | العزيز | الجبار | المتكبر | الله | الملك | القدوس |
+| المؤمن | المهيمن | العزيز | الجبار | المتكبر | الله | الملك | القدوس | السلام |
+| المهيمن | العزيز | الجبار | المتكبر | الله | الملك | القدوس | السلام | المؤمن |
+| العزيز | الجبار | المتكبر | الله | الملك | القدوس | السلام | المؤمن | المهيمن |
+| الجبار | المتكبر | الله | الملك | القدوس | السلام | المؤمن | المهيمن | العزيز |
+| المتكبر | الله | الملك | القدوس | السلام | المؤمن | المهيمن | العزيز | الجبار |
+
+وإذا أردت حضور خادم لاسم [الجبار] داخل الخلوة واتل الذكر القائم به يظهر واسمه رحيائيل
+وذكره بسم الله الرحمن الرحيم اللهم إني أسألك يا معلل العلل وأزلي الأزل قبل الأزمان الزائلة
+والأماني الفانية يا جبار يا قدوس يا من هو الأول والآخر والباطن والظاهر مكن التكوين
+يا مقدر الوقت والحين انقلني من هذا البحر الفاني والخليقة الفانية واجعل روحي مع ملائكتك
+الكرام المقربين الأخيار وانقل طبعي من طباع البشرية يا أزلي الأزل يا مهفي الخلق والدول يا من
+هو في ملكه جبار لا إله إلا أنت الواحد القهار العزيز الجبار أسألك أن تمدني بعوالم هذا الاسم
+ليقهر لي كل متكبر جبار يا الله ٣ يا جبار أجب أيها الملك رحيائيل ووكل بكذا وكذا بحق اسمه
+الجبار واقرأ الآية تنل ما تريد
+
+( فصل في اسمه تعالى المتكبر )
+اعلم أن المتكبر هو الذي يرى كل شيء حقيراً بالإضافة إلى ذاته ولا يرى الكبرياء إلا لذاته فنظر لغيره
+نظر الملوك إلى العبيد ولا يكون ذلك إلا لله وكل من رأى الكبرياء لنفسه كان جاهلاً والمتكبر المطلق
+هو الله تعالى وذلك أنه لما خلق السموات العلى والأرضين السفلى قبل إيجاد الموجودات وأظهر عجائب
+المصنوعات قبل ظهور التقدير وترتيب التدبير أبرز من أنواره نور كبريائه في الإيجاد الأول فخافت فرقاً
+ثم انزعجت قلقاً وهامت فيضاً وفوقاً فبعد ذلك بسط عليها من أنوار الرحمة ما ثبت له في عالم التوحيد
+وشاهدت به حقائق الأعمال فكل ذرة ما ألزمها من القهر بذل العبودية حتى عرفت ذلك بهذا في اليوم
+وهذه الصفة ظاهرة في الدارين بارزة في الكونين وليست صفة تبطن في عالم وتظهر في آخر وإذا أراد
+الله بعبد خيراً بصره بهيبة كبريائه ثم يمده بعين الرحمة فيعطف سطرها بما أنعم الله عليه
+واعلم أن الذي لم يقع في حق الله إلا من استكبر في الأرض بغير الحق وهم الذين يحبون أن يحمدوا
+بما لم يفعلوا وهم أهل الشهوات الذين يتبعون أهواءهم ومن شاهد كبرياء الله وكان صاحب تمكين
+رزقه الله التصرف في وجوده ولذا كثر لهذا الاسم يجد التواضع وسكناته والتقرب
+إلى
+
+**English:**
+And if you desire the presence of a servant for the name [al-Jabbār] within the retreat, and recite the remembrance by which it is قائم, he appears, and his name is Raḥiyā’īl. And its remembrance: In the name of Allah, the Merciful, the Compassionate. O Allah, I ask You, O Causer of causes and Eternal of eternity before the vanishing times and the perishing wishes, O Jabbār, O Quddūs, O You who are the First and the Last and the Inward and the Outward, establish the formation. O Determiner of the time and the moment, transfer me from this perishing sea and the perishing creation, and make my spirit with Your noble, near, good angels, and transfer my nature from the natures of humanity, O Eternal of eternity, O He who effaces creation and states, O You in whose kingdom is Jabbār, there is no god but You, the One, the Subduer, the العزيز, the الجبار. I ask You to extend to me the worlds of this name, so that every arrogant, tyrannical one may be subdued for me, O Allah, 3, O Jabbār, answer, O king Raḥiyā’īl, and appoint so-and-so and so-and-so by the right of his name, al-Jabbār, and recite the verse, you will attain what you want.
+
+( Chapter on His, تعالى, name, المتكبر )
+Know that المتكبر is He who sees every thing as insignificant in relation to His Essence, and sees majesty only for His Essence, so His النظر to other than Him is the النظر of kings to slaves, and that is only for Allah. And everyone who sees majesty for himself is ignorant. And the absolute المتكبر is Allah تعالى. That is because when He created the highest heavens and the lowest earths before bringing existent things into being, and manifested the wonders of the made things before the appearance of decree and the ordering of management, He brought forth from His lights the light of His majesty in the first bringing-into-being, so they feared in terror, then were agitated in anxiety, and were overwhelmed in ecstasy and exaltation. After that He spread over them from the lights of mercy what was established for Him in the world of unity, and by it the realities of deeds were witnessed. So every atom, what He imposed upon it of compulsion, was the abasement of servitude, until it knew that by this in the day. And this attribute is manifest in the two abodes, prominent in the two existences, and it is not an attribute that is hidden in one world and appears in another. And if Allah desires good for a servant, He makes him see the awe of His majesty, then extends to him the eye of mercy, and he bends its line with what Allah has bestowed upon him.
+And know that the one who did not fall in the right of Allah except by arrogance in the earth without right, and they are those who love to be praised for what they did not do, and they are the people of desires who follow their whims. And whoever witnesses the majesty of Allah and is a possessor of empowerment, Allah provides him with disposal in his existence. And therefore, for this name there is much finding of humility and its stillnesses and drawing near to
+
+---
+_End of translation — 446 pages._
