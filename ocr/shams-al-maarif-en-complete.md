@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 398 translated pages._
+_Auto-generated from 404 translated pages._
 
 ---
 ## Page 1
@@ -22877,4 +22877,409 @@ that the أصل of this science is a spiritual management. If you wish to work b
 a white sign, and fast 3 days, and recite the khufṭuriyāt 21
 
 ---
-_End of translation — 398 pages._
+## Page 399
+
+**Arabic (original):**
+- ٣٩٣ -
+
+ولا ترم منه شيئاً ولا من دمه ثم تأخذ من الخطاطيف ١٣ أو أكثر بالفرد وتذبحهم وترميهم في
+القدر ولا تخل شيئاً من دمهم يخرج عن القدر وتسد ذلك القدر بطين الحكمة وتحكم وصله وتوقد
+عليها النار بحطب الصفصاف إلى أن تعلم أن الذي داخل القدر احترق وصار فحماً فتنزله من على
+النار وحطه على الأرض إلى أن تبرد وافتحها وأنت مول وجهك فإن حال فتحها يخرج منها بوخ
+كالدخان الأسود فإذا دخل عين إنسان عمي لوقته وليس له دواء فتصبر حتى يزول ذلك وتدق ذلك
+المحرق جميعه وتضعه عندك في صينية إلى وقت الحاجة فهو أصل هذا العلم فإذا أردت العمل به في
+أي شيء خذ من ذلك الرماد المذكور شيئاً يسيراً وتديره بين يديك وتتلو المحنظتيات مرة واحدة
+فيكون الذي أشرت إليه من الإشارات الخفية لكل ناظر إليك، واعلم أنه لابد من إدخال الرماد
+في تلك الأعمال وكل ما تريد فإذا ملكت الرماد خرجت من ظلمة عدم التصريف إلى النور والحمد
+لله (المقالة الأولى) وهي مقالة ١١ مجه تأخذ جلد ظبي تجعل منه طاقية وتكتب عليها
+ما يأتي بشيء من المداد ثم تلبسها على رأسك وتدعو بهذا الدعاء وهو دعاء المحنظتيات اللهم إني أسألك
+باسمك القديم يا دائم يا أبد يا واحد يا أحد يا فرد يا صمد يا من لم يلد ولم يولد ولم يكن له كفواً أحد يا رب
+الأرباب يا عزيز يا وهاب يا محيط بهول يوم المخاف أسألك أن تسخر لي واحداً من خدام
+اسمك يخدمني فيما أريد إنك على كل شيء قدير ويكون به رياضة طويلة بشرطها ثم ترمي ما معك
+شيئاً من الرماد المذكور ثم تقرأ المحنظتيات ١٠ مرات إلى أن يخفى ظلك وأنت واقف في
+الشمس وإذا مر عليك أحد من الجن والإنس فإنك تراه ولا يراك وكذلك الوحوش تمر عليها ولا
+تراك ولا تسمع حسك في مشي وهذا ما تكتب
+على الطاقية بالمداد المذكور ٤ أسطر وهذا
+الكلام عليه تقول واه ٢ هداه ٢ هيوه ٢
+هله ٢ هلوه ٢ هلولياه ٢ يوش ٢ وش
+٢ الواش ٢ أيوش ٢ الوش ٢ شالش ٢ أيش ٢ أهدان ٢ أوطف ٢ لططف
+٢ لوطايف ٢ طايف ٢ أجيبوا يا خدام هذه الأسماء وأخفوني عن الأبصار بحق الله الواحد
+القهار الوحا ٢ فإنه يكون ذلك في أسرع وقت فافهم ترشد (المقالة الثانية) مقابلة التوفيق
+ولها أسماء متعددة وأسماء ٨٥٨١١ تكتب في ورق مسك وزعفران بالرماد المذكور وتمسكها
+في يدك فكل من أشرت إليه ينصرع، وإذا أشرت إلى الحامل ألقت ما في بطنها والدواب ترمي
+أحمالها والمركب تنقلب والفارس ينصرع والسهم يرجع على من رمى به وكذا الضارب والسارق
+وجميع ما تريد وهذا ما تكتب ٢ م وحه هله جه ٩٩٩ وهذا الكلام عليه
+تقول أبداه ديواه الواه آه آه أهياه له ع ع ع لالا ٣٦٤ و و و أياش أشمواش أياش
+الوحا العجل الساعة توكلوا يا خدام طح ح ١٨١ ٩٩ ٣٣ ٦٦ ١١١ ٧٥ ١١١ ١٥ هذه
+الأسماء وأجيبوا وعجلوا بكذا وكذا بحق من يقول للشيء كن فيكون (المقالة الثالثة) وهي
+
+**English:**
+- 393 -
+
+And do not throw away anything of it nor of its blood. Then you take from the hornets 13 or more, one by one, and slaughter them and throw them into the pot, and do not let any of their blood go out of the pot. And you seal that pot with the Clay of Wisdom and secure its joining, and kindle fire upon it with willow wood until you know that what is inside the pot has burned and become charcoal. Then you take it down from the fire and put it on the ground until it cools, and open it while you are turning your face away. For when it is opened, a puff comes out of it like black smoke; if it enters a person’s eye, he is blinded at once, and there is no remedy for it. So be patient until that passes away, and pound all of that burned matter, and place it with you in a tray until the time of need, for it is the أصل of this science. If you wish to work with it in anything, take a small amount of that mentioned ash and revolve it before you, and recite the Munḥaẓṭiyyāt once, and that which you indicated of the hidden indications will be for every beholder of you. And know that it is necessary to introduce the ash into those workings and everything you want. So if you possess the ash, you will come out from the darkness of inability to dispose into the light, and praise be to God. (The first article) and it is Article 11. You take the skin of a gazelle, make from it a cap, and write upon it what follows with some ink, then wear it upon your head and invoke with this supplication, and it is the supplication of the Munḥaẓṭiyyāt: O God, I ask You by Your ancient name, O Everlasting, O Eternal, O One, O Unique, O Single, O Absolute, O He who neither begot nor was begotten, and there is none comparable to Him, O Lord of lords, O Mighty, O Bestower, O Encompassing of the terror of the Day of Fear, I ask You to subjugate for me one of the servants of Your name to serve me in what I want. Indeed, You are powerful over all things. And there shall be by it a long Riyāḍah with its condition. Then you throw with you some of the mentioned ash, then you recite the Munḥaẓṭiyyāt 10 times until your shadow is hidden while you are standing in the sun. And if one of the jinn or mankind passes by you, then you see him and he does not see you; likewise the beasts pass by it and do not see you, and they do not hear your sound in walking. And this is what you write on the cap with the mentioned ink, 4 lines, and this speech upon it you say: wāh 2, hadāh 2, hiyūh 2, halah 2, halūh 2, halūliyāh 2, yūsh 2, wush 2, al-wāsh 2, ayūsh 2, al-wush 2, shālish 2, aysh 2, ahdān 2, awṭaf 2, laṭṭaf 2, lawṭāyif 2, ṭāyif 2. Answer, O servants of these names, and hide me from the eyes by the right of God, the One, the Subduer, al-Waḥā 2, for that will be in the quickest time, so understand, you will be guided. (The second article) The مقابلة of success, and it has multiple names and names 85811. You write in musk paper and saffron with the mentioned ash and hold it in your hand, and everyone you point to will be struck down. And if you point to the pregnant woman, she will cast out what is in her belly; and the beasts will cast their loads; and the ship will overturn; and the rider will be struck down; and the arrow will return upon the one who shot it; likewise the striker and the thief, and all that you want. And this is what you write: 2 m, waḥeh, halah, jah, 999. And this speech upon it you say: abdāh, diyāwah, wāh, āh, āh, ahyāh, lah, ʿa ʿa ʿa, lālā 364, w w w, ayāsh, ashmūāsh, ayāsh, al-waḥā, al-ʿajal, al-sāʿah, tawakkalū, O servants, ṭḥḥ 181 99 33 66 111 75 111 15, these names, and answer and hasten with so-and-so by the right of the One who says to a thing, “Be,” and it is. (The third article) and it is
+
+---
+## Page 400
+
+**Arabic (original):**
+- ٣٩٤ -
+
+أعمال طرى ٥١ فاذا أردت خذ شقافاً فيه ٨ ٨١ طح لد اه موقوفه وزبد بحر وتخرج
+إلى البرية وترمى أمامك شيئاً من الرماد وترمى إلى جهتي ظهرك وأمامك والتراب عن يمينك
+وشمالك وناد بالخنطريات ٧ فإنه يصير في ذلك المكان بحراً وأمواجاً ولا تبطل إلى أن ترفع
+ما عملت وذلك من أعظم النواميس السحرية وبه طلمسوا المياه داخل الكنوز ومثله إذا
+أردت أن تصير البحر براً وعكسه فترمى الرماد والبهسى ٥مه في البحر والتراب والزبد
+في البر ولا يكون إلا بجانب بر النهر فإنه يخيل للناظرين أن البحر صار براً فإذا أردت إبطاله فناد
+بالكلام عليه ٧ فيقف لك عمود دخان فاطلب إبطال ذلك فإنه يبطل وهذا ما تكتب على الشقاف
+١١ صح م ١١ ٥٨١٨ اااا ٦ ٢ ٥ مه مه ٤٤ ٤ وهذا الكلام عليه تقول
+إياه ٢ اهيه صبا أننا أذنيا ادلهيون ١٢٥١ اهدنا هواه نو كلو بكذا وكذا يا خدام هذه الأسماء
+( المقالة الرابعة ) وهي لخلاص المسجون وكل من وقع في أمر مهم وهو أن تصور صورة طط ٨
+كامل العدة الصورة في التراب في قاع السجن واركب فيها وناد بالخنطريات ٧ مرات وارم بين
+يديك شيئاً من الرماد المذكور ومد يدك إلى جهة الخادم فإنه يرفعك ويطير بك إلى أي مكان شئت
+فإن لم يكن لك وصول إلى ذلك فخذ طستاً أو إناء متسعاً فيه ماء وناد بالخنطريات مرة واحدة
+والبرامة في يدك وارم شيئاً من الرماد ثم انزل فيه ٥ تك تخفى عن أعينهم واذهب حيث شئت تنج وهذا
+ما تكتب ٤٤ ٥ ٦ ٧ ٨ ٩ ٧ وهذا الكلام عليه تقول أيداماه ياروه لواه
+اه ٢ اه له لهوه أجب طائماً وافعل كذا وكذا فإنه يكون ذلك ( المقالة الخامسة ) تأخذ شمعة
+مصبوغة بزنجار وخذ خرقة كان اكتب فيها هذه الأسماء وافتلها فتيلة ثم تلبس بتلك الشمعة
+الخضراء وخذ طشت نحاس فيه ماء وأوقف فيه الشمعة وأوقدها وزل عنها بعيداً وانثر عليها شيئاً
+من الرماد وناد بالخنطريات إلى أن ترى طواويس خضراء قد أقبلوا عليك من كل مكان وهم
+يلعبون ويصفقون بأجنحتهم ويصرخون صراخاً عظيماً ولا يزالون كذلك إلى فراغ الفتيلة وهذا
+ما تكتب على الفتيلة ٩٩١٢١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١١
+
+**English:**
+- 394 -
+
+Works of ṭarī 51. So if you wish, take a potsherd in which is 8 81, ṭaḥ lad āh, suspended, and sea foam, and go out to the wilderness and throw before you some of the ash, and throw to the two sides of your back and before you, and the earth to your right and your left, and call with the Khunṭariyyāt 7, for it will become in that place a sea and waves, and it will not cease until you lift what you have done. And that is among the greatest magical laws, and by it they talismaned the waters inside treasures. And the like of it, if you wish to make the sea land and the reverse, then the ash and al-bahsī 5mh are thrown into the sea, and the earth and the foam on the land, and it is only by the side of the river bank, for it will appear to the onlookers that the sea has become land. So if you wish to nullify it, then call with the speech upon it 7, and a pillar of smoke will stand for you, so seek the nullification of that, and it will be nullified. And this is what you write on the potsherd: 11 ṣaḥ m 11 5818 aaaa 6 2 5 mh mh 44 4. And this speech upon it you say: iyāh 2, ahiyah, ṣabā, anannā, adhniyā, adlahiyūn 1251, ihdinā, hawāh, nū, kulū, with so-and-so, O servants of these names.
+
+(The fourth article) and it is for the rescue of the imprisoned and everyone who has fallen into an important matter, and it is that you depict the image of ṭṭ 8, complete with equipment, the image in the dust at the bottom of the prison, and mount in it, and call with the Khunṭariyyāt 7 times, and throw between your hands some of the mentioned ash, and extend your hand toward the side of the servant, for he will lift you and fly with you to any place you wish. If you do not have access to that, then take a basin or a wide vessel in which is water, and call with the Khunṭariyyāt once, and the barāmah in your hand, and throw some ash, then descend into it 5, you will be hidden from their eyes, and go wherever you wish, you will be saved. And this is what you write: 44 5 6 7 8 9 7. And this speech upon it you say: aidāmāh, yārūh, lawāh, ah 2, ah lah lahūh, answer, flying, and do so-and-so, for that will be so. (The fifth article) You take a candle dyed with verdigris, and take a rag on which these names were written and twist it into a wick, then you dress with that green candle, and take a copper basin in which is water and set the candle in it and light it, and move away from it far, and scatter upon it some ash, and call with the Khunṭariyyāt until you see green peacocks have come toward you from every place, and they are playing and clapping with their wings and crying a great cry, and they do not cease thus until the wick is finished. And this is what you write on the wick: 9912111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+
+---
+## Page 401
+
+**Arabic (original):**
+- ٣٩٥ -
+
+في ذلك بل يولي هاربا منك وهذه صورة كتابة البراوة ح ح ١١١١١٦ هـ ١٤٩ ك ٥
+وهذا الكلام عليه تقول بهذا أما وهو لا ٧٥ أهواه ٢ أجب ٢٦٦٩٩ ١١١ أ ١٧٩٩ ك ١
+وعجل بارك الله فيك ( المقالة الثامنة ) تكتب هذه الأسماء في براوة وتعلقها للكاس
+بالرماد المذكور والكلام عليه وألقه في النهر فإنه يجتمع كلما كان من السمك خذ منه ما شئت
+وتكون العين التي في وسط السطر الثاني مقابلة للعين التي في السطر الأول هكذا
+وهذا الكلام عليه تقول: جميعاً للهيوها أجب وعجل بكذا وكذا بارك الله فيك ٧١١ ط ط ع ١١ ط
+وعليك آمين ( المقالة التاسعة ) تذهب للبرية وتعمل حولك الدائرة تجلس ٥ ١١٧ ط ع ١ ط ٩
+فيها وترمي بين يديك شيئاً من الرماد حول الدائرة من الخارج وتتكلم ١٩٩٩ ١٠٠١ ١٧٧
+بالكلام وتكتب الأسماء في براوة وعلقها على قضيب رمان فإن جميع ١٩١١ ١١١٤ ط ٢
+ما في البرية من الوحوش والهوام تحضر عندك ولا يضرونك خذ منهم ما شئت واترك منهم ما شئت
+واصرفهم تقلع البراوة من القضيب وهذه كتابته كما ترى
+وهذا الكلام عليه تقول: آه أيه أيه أبدًا الوحا
+العجل الساعة بارك الله فيك
+( المقالة العاشرة ) تأخذ سكيناً تكتب عليها أسماء الرماد ثم تأخذ قصبة وأعطها
+لمن شئت يذبحها بتلك السكين فإذا تناولها فتكلم بالكلام وأمره أن يجر السكين عليها ويرمي على
+القصبة شيئاً من الرماد وترميها من يده فإنها تطير نحو السماء شبه ديك يصيح ويبلبل ويزعج كل من
+رآه وهذا ما تكتب على السكين في الوجه الأول هذا ١١١١١١٩٩٩٦١١١ كـ ٥ وفياثا هذا
+٩٩ ط ع لا ١٠٠١١١ أوج وهذا الكلام عليه تقول بعد رمي الرماد المذكور: إشار شاوشار شارايس
+أسا أشاليش أجب وعجل بكذا وكذا بارك الله فيك وعليك آمين ( المقالة الحادية عشرة ) تأخذ
+كوز نحاس وانقش عليه هذه الأسماء واملأه ماءً وتكلم عليه بهذا الكلام فإنه يصير زتاً أمره به ٧ ع ط
+وكذلك تفعل باللوح أح ل ماس جلد أحمر وهذه الكتابة على الدراهم والدنانير (الوجه الأول)
+٩٢ ك وه ( والوجه الثاني )
+اح ١١١١١١١١١٣ ح ط ١١١٩١١١ ح وهذا الكلام عليه تقول: صاصيا لهر أس
+أجب وعجل وانثر عليهم الرماد فإنه يكون جميع ما ذكرناه فاعذله وحققه ترشد إلى أوضح طريق
+ولابد في ابتداء عمل السيميا من الرياضة الطويلة والصيام والخلوة تظفر بما تريد والله الموفق
+وصلى الله على سيدنا محمد وعلى آله وصحبه وسلم
+
+( تم الجزء الثالث من كتاب شمس المعارف الكبرى للبوني ويليه الجزء الرابع وأوله
+الفصل الثامن والثلاثون في استخدامات الحروف وما لها من الأسرار )
+
+**English:**
+- 395 -
+
+In that, rather he turns away fleeing from you. And this is the form of writing the barāwah: h h 111116 h 149 k 5. And this speech upon it you say: bi-hādhā ammā wa-huwa lā 75 ahwāh 2, ajib 26699 111 a 1799 k 1, and hasten, may God bless you. (The eighth article) You write these names in a barāwah and hang it for the cup with the mentioned ash and the speech upon it, and cast it into the river, for it will gather whatever there is of fish; take from it whatever you wish. And the eye that is in the middle of the second line is opposite the eye that is in the first line, like this. And this speech upon it you say: all together to al-hiyūhā, answer and hasten with so-and-so, may God bless you 711 ṭ ṭ ʿ 11 ṭ, and upon you be amen. (The ninth article) You go to the wilderness and make the circle around you, sit 5 117 ṭ ʿ 1 ṭ 9 in it, and throw before you some ash around the circle from the outside, and speak 1999 1001 177 with the speech, and write the names in a barāwah and hang it on a pomegranate branch, for all 1911 1114 ṭ 2 that is in the wilderness of beasts and vermin will come to you and will not harm you; take from them whatever you wish and leave from them whatever you wish, and dismiss them; the barāwah is removed from the branch. And this is its writing as you see. And this speech upon it you say: ah, ayh, ayh, ever, al-waḥā, al-ʿajal, al-sāʿah, may God bless you.
+
+(The tenth article) You take a knife and write on it the names of the ash, then take a reed and give it to whomever you wish; he slaughters it with that knife. So when he takes it, speak the speech and command him to drag the knife over it and throw upon the reed some ash, and you throw it from his hand, for it will fly toward the sky like a rooster, crying and making a clamor and disturbing everyone who sees it. And this is what you write on the knife on the first face: this 1111119996111 k 5 and viyāthā this 99 ṭ ʿ lā 100111 awj. And this speech upon it you say after throwing the mentioned ash: ishār shāwshār shārāyis, asā, ashālīsh, ajib and hasten with so-and-so, may God bless you, and upon you be amen. (The eleventh article) You take a copper jug and engrave upon it these names and fill it with water and speak over it with this speech, for it will become zāt, commanded by it 7 ʿ ṭ. And likewise you do with the tablet aḥ l mās, red leather. And this writing is on the dirhams and dinars (the first face): 92 k wh (and the second face): aḥ 111111113 h ṭ 1119111 h. And this speech upon it you say: ṣāṣiyā lahar as, answer and hasten and scatter the ash upon them, for all that
+
+---
+## Page 402
+
+**Arabic (original):**
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+
+**English:**
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+[?]
+
+---
+## Page 403
+
+**Arabic (original):**
+الجزء الرابع
+من كتاب
+شمس المعارف
+الكبرى
+ولطائف العوارف
+
+للشيخ أحمد بن علي البوني قدس الله روحه المتوفى سنة ٦٢٢ اثنين وعشرين وستمائة
+قال في كشف الظنون والمقصود من هذا الكتاب أن يعلم بذلك شرف أسماء الله تعالى وما أودع
+في بحرها من أنواع الجواهر الحكميات وكيف التصريف بالأسماء والدعوات وما تابعها
+من حروف السور والآيات ليتصل بها إلى الحضرة الربانية من غير تعب ويتصل بها إلى
+رغائب الدنيا بلا نصب انتهى
+
+ويليه
+رسالة ميزان العدل في مقاصد أحكام الرمل * ورسالة فوائح الرغائب في خصوصيات
+أوقات الكواكب * ورسالة زهر المروج في دلائل البروج * ورسالة لطائف الإشارة
+في خصائص الكواكب السيارة * تأليف العلامة الفاضل السيد عبد القادر الحسيني الأدهمي
+* نفع الله بعلومه المسلمين آمين
+
+تنبيه
+حيث إن كتاب شمس المعارف لشدة احتياج الناس إليه طبع مراراً (بمصر والهند) وقد
+اعتنت المطابع المصرية بتصحيحه لكنه لم يخل من غلط وتحريف لعدم وجود نسخ صحيحة
+وقد طبع هذه المرة مقابلاً على نسخ « مصر والهند » ونسخة أخرى بخط الحاج مرزا حسين
+مع الدقة في التصحيح بمعرفة لجنة من أفاضل علماء مصر وأعاد تصحيحها الأستاذ الكبير الشيخ
+عبد الرحمن الجويزي فجاءت بحمد الله هذه النسخة من أجل النسخ طبعاً وتصحيحاً
+
+طبع بمطبعة
+مصطفى البابي الحلبي وأولاده بمصر
+
+**English:**
+The fourth part
+of the book
+Shams al-Ma‘arif
+al-Kubra
+and Lata’if al-‘Awarif
+
+by Shaykh Ahmad ibn Ali al-Buni, may God sanctify his spirit, deceased in the year 622, twenty-two and six hundred.
+He said in Kashf al-Zunun: and the purpose of this book is that by it one may know the nobility of the Names of God تعالى and what has been deposited
+in their sea of kinds of the wisdom-jewels, and how the disposition by the names and the invocations, and what follows them
+of the letters of the surahs and the verses, so that one may connect by them to the Divine Presence without toil and connect to
+the desires of the world without fatigue. انتهى
+
+And following it:
+Risalat Mizan al-‘Adl fi Maqasid Ahkam al-Raml * and Risalat Fawa’ih al-Ragha’ib fi Khuṣuṣiyyat
+Awqat al-Kawakib * and Risalat Zahr al-Muruj fi Dala’il al-Buruj * and Risalat Lata’if al-Isharah
+fi Khaṣa’is al-Kawakib al-Sayyarah * authored by the learned, eminent السيد عبد القادر الحسيني الأدهمي
+* may God benefit the Muslims by his sciences, amen
+
+Notice
+Since the book Shams al-Ma‘arif, because of the great need of people for it, has been printed many times (in Egypt and India), and
+the Egyptian presses have taken care in correcting it, yet it has not been free from error and distortion due to the absence of correct copies.
+And this time it has been printed collated against copies of “Egypt and India” and another copy in the handwriting of Hajj Mirza Husayn,
+with precision in correction by the knowledge of a committee from the eminent scholars of Egypt, and it was corrected again by the great professor Shaykh
+‘Abd al-Rahman al-Juwayzi, so this copy has come, praise be to God, as the finest of copies in printing and correction
+
+Printed at the press of
+Mustafa al-Babi al-Halabi and his sons in Egypt
+
+---
+## Page 404
+
+**Arabic (original):**
+وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَىٰ فَادْعُوهُ بِهَا
+
+بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
+
+( الْفَصْلُ الثَّامِنُ وَالثَّلَاثُونَ فِي اسْتِخْدَامِ الْحُرُوفِ وَخَلْوَاتِهَا وَمَالَهَا مِنَ الْأَسْرَارِ )
+۞ اعْلَمْ وَفَّقَكَ اللَّهُ وَإِيَّاكَ أَنَّ حَرْفَ الْأَلِفِ هُوَ أَوَّلُ مَخْلُوقٍ خُلِقَ مِنَ الْحُرُوفِ وَهُوَ الْوَاحِدُ فِي الْعَدَدِ
+لِأَنَّ مِنْهُ أَسْرَارَ الْأَقْوَالِ كَمَا أَنَّ الْحُرُوفَ مِنْ أَسْرَارِ الْأَفْعَالِ وَأَنَّ الْحُرُوفَ لَا وَقْتَ لَهَا يَحْصُرُهَا وَإِنَّمَا
+هِيَ تَفْعَلُ بِالْخَاصَّةِ لِمَنْ أَرَادَ اللَّهُ ذَلِكَ وَهَذَا الْحَرْفُ مِنْ أَثِيرِ الِارْتِقَاءِ إِلَى دَرَجَاتِ الْوَاصِلِينَ الْوَارِثِينَ
+وَمَنْ تَحَقَّقَ مَا فِي عَوَالِمِهِ الظَّاهِرَةِ وَالْبَاطِنَةِ اسْتَخْدَمَ بِفَضْلِ اللَّهِ جَمِيعَ مَا فِي الْكَوْنِ وَهَذَا يُشْبِهُ نَعِيمَ
+الْجَنَّةِ ۞ وَاعْلَمْ أَنَّ الْأَلِفَ زُبْدَةُ الْعَالَمِ وَالْغَايَةُ الْقُصْوَى بَلْ هِيَ مَرْجِعُ كُلِّ عَالَمٍ سِرُّ التَّكْوِينِ
+وَقِيَامِ الْأَلِفِ مِنْ أَسْرَارِ اسْمِهِ الْقَيُّومِ وَهِيَ أَوَّلُ اسْمِ اللَّهِ الْأَعْظَمِ وَأَوَّلُ الْفَاتِحَةِ وَأَوَائِلِ السُّوَرِ وَهِيَ
+حَرْفٌ نُورَانِيٌّ قَائِمٌ بِنَفْسِهِ أُمَّةٌ مِنَ الْأُمَمِ وَلَهُ أَعْمَالٌ كَثِيرَةٌ بِغَيْرِ خَلْوَةٍ وَاسْتِخْدَامٍ وَأَعْمَالٌ بِهِمَا وَأَعْمَالٌ
+الْخَاصَّةِ فَمِنْ ذَلِكَ بِيَدِ الطَّبْعِ إِذَا كَتَبَ الْأَلِفَ مَرَّةً فِي خِرْقَةِ حَرِيرٍ وَعَلَّقَ عَلَى صَدْرِ الْبَلِيدِ
+فَتَقَ ذِهْنُهُ وَحَفِظَ كُلَّ مَا سَمِعَ وَإِذَا كَتَبَ حَرْفَ الْأَلِفِ عَدَدَهَا الْأَصْلِيَّ وَهُوَ ١١١ وَرَبَطْتَ مَعَ
+اسْمِكَ وَاسْمِ مَنْ تُرِيدُ وَحَمَلْتَهَا مَعَكَ فَإِنَّ اللَّهَ يَعْطِفُهُ عَلَيْكَ وَيُسَهِّلُ لَكَ الْأُمُورَ الصَّعْبَةَ وَإِذَا كَتَبْتَ
+الْأَلِفَ مَعَ اسْمِ الطَّالِبِ وَالْمَطْلُوبِ وَرَبَطَ الِاسْمَيْنِ مَعَ الْحَرْفِ يَوْمَ الْأَحَدِ سَاعَةَ الشَّمْسِ وَيَحْمِلُهَا فَإِنَّهُ
+يَرَى مِنْهُ مَا يُرِيدُ مِنَ الْأَلْفَةِ وَالْمَحَبَّةِ وَالْقَبُولِ وَإِذَا كَتَبَ حَرْفَ الْأَلِفِ عَلَى خَاتَمِ ذَهَبٍ وَالْقَمَرُ فِي
+الْحُوتِ وَجَمَعْتَهُ بِإِضْمَارِ الْأَحْرُفِ الْآتِيَةِ وَدَعَوْتَهُ وَكَتَبَ اسْمَ صَاحِبِ الْحَرْفِ كَانَ قَبُولًا لِكُلِّ مَنْ
+حَمَلَهُ مِنْ جَمِيعِ الْأَكَابِرِ وَهَذِهِ صُورَتُهُ بِالْوَجْهِ الثَّانِي
+
+وَذَا
+
+**English:**
+And to God belong the Most Beautiful Names, so call upon Him by them
+
+In the name of God, the Merciful, the Compassionate
+
+(The thirty-eighth chapter concerning the use of the letters and their seclusions and what they have of secrets)
+۞ Know, may God grant success to you and to me, that the letter Alif is the first created thing created from the letters, and it is the one in number
+because from it are the secrets of sayings, just as the letters are from the secrets of actions, and that the letters have no time that confines them, but rather
+they act by the special property for whom God has willed that, and this letter is from the ether of ascent to the degrees of the arrivants, the inheritors
+and whoever has realized what is in its manifest and hidden worlds, uses, by the فضل of God, all that is in the cosmos, and this resembles the bliss of
+Paradise ۞ And know that the Alif is the cream of the world and the utmost end, rather it is the return of every world, the secret of formation
+and the standing of the Alif is from the secrets of His name al-Qayyum, and it is the first of the Greatest Name of God and the first of al-Fatiha and the beginnings of the surahs, and it is
+a luminous letter, قائم by itself, a nation among the nations, and it has many works without seclusion and use, and works with both of them, and works
+of the special ones. Among that is, by the hand of nature, if one writes the Alif once on a piece of silk and hangs it upon the chest of the dull-witted
+his mind becomes opened and he memorizes everything he hears. And if one writes the letter Alif, its original number, and it is 111, and you bind it with
+your name and the name of whom you desire and carry it with you, then God will incline him toward you and make easy for you the difficult matters. And if you write
+the Alif with the name of the seeker and the sought, and bind the two names with the letter on Sunday at the hour of the sun, and he carries it, then he
+will see from it what he desires of affection and love and acceptance. And if one writes the letter Alif on a signet of gold and the moon is in
+Pisces, and you gather it with the concealment of the following letters and invoke it, and write the name of the owner of the letter, it will be an acceptance for everyone who
+carries it, from all the great ones. And this is its form in the second face
+
+And thus
+
+---
+_End of translation — 404 pages._
