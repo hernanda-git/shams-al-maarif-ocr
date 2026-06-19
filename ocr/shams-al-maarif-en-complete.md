@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 422 translated pages._
+_Auto-generated from 428 translated pages._
 
 ---
 ## Page 1
@@ -24318,4 +24318,260 @@ wa-al-umūr i‘mid ilā makān ṭāhir wa-‘mal fīhi 3 dawā’ira ṣiyāna
 taktubu al-asmā’ akshifū lī qadr ṭāqatī bāraka Allāhu fīkum fa-innaka tarā al-nūr kulla layla yakbaru wa-tasma‘u tasb
 
 ---
-_End of translation — 422 pages._
+## Page 423
+
+**Arabic (original):**
+- ٤١٧ -
+
+عون فانظر الى اول اسمه وتكلم على ذلك العون بإضمار ذلك الحرف فانه يأتي طائعا فاذا أردت
+تهييجا اكتب ٢٨ حرفا في ورقة واكتب الاضمارات ثم تأخذ مسمارا وتدفعه في ثلث الحرف وتتلو الدعوة
+وتدق المسمار في الحرف وتقول أجب يافلان وهات إفلان فأن جاء والأفاقل للذي بعده ولا تزال
+تفعل ذلك الى أن يأتي عند حرف فاذا أردت جلبه اطلبه من ذلك الحرف وكذلك في سائر
+الحروف واذا أردت ابطال مانع فاكتب اضمار حرف الالف والباء والجيم والدال على أربع بيضات
+فارغات وعلقتها في رقبة طير حمام أوديك وادخله الى المكان فان العيار هرب منه ومهما كان
+من الحركات وعلقتها وإن أردت تهييجا لا ينفك أبدا فاكتب صورته كآسيان واكتب كل حرف
+عدده والاضمار معه واعمل صورة برأسين واحملها معك وادفنها في مكان من تريد تحصل المطلوب
+وهذه صورته
+( وهذه قاعدة عظيمة ) لو شدت لها الرحال ما سمحت بها الرجال
+وهي أن تنظر الى العمل والى أول حروفه وآخرها وتأخذ ذلك مع
+الاضمار ثم تعرف على الوجه الذي يليق به فان كان خيرا فالاضمارات على
+ماهي عليه وان كان شرا فهي معكوسة وتبخر ببخوره الجامع وتعرف ذلك حيث شئت ولاذكرك
+سوى المعنى
+( فصل ) وإذا أردت استخدام تأخذ ٢٨ بيضة يوم الاحد والطالع الحمل واكتب على كل بيضة
+الحرف عدده والاضمار مرة واحدة ثم بعد ذلك اكتب الاضمارات في جام زجاج وقدح رصاص
+ثم ضع البيض تحت دجاجة واطعمها القمح واسقها من ذلك القدح حتى اذا فرخوا وخرجوا فاطعمهم
+صفار البيض والقمح المدشوش فاذا كبروا لابد ان يكون فيهم ديك فاذارأيته تحدر رأسه محروقة الى
+فوق وعند بلوغ اشده فاذبحه وخذ دمه وضعه في قنينة واختم عليه بالشمع ونشفه وارفعه عندك
+فكل من اكتحل بهذا الدم فانه يرى المكان الذي فيه الكنز والحجية عيانا بيانا ويقظة ويرى
+الارواح السفلية واذا كتب على ثلاث شقف طين وكتب اضمارات الاربعة أحرف الاول وعلق
+في عنق الديك فانه يمضي الى الحجية أو الكنز وتكتب للمحبة والقول وعقد الالسنة والعطف
+والقهر والى كل ما يخطر ببالك فاكتب الحروف النارية للاعمال اللائقة للغى والمناسبة له والى
+التهييج وجلب الغائب الحروف الهوائية والى أعمال التزييف والرجم والهجاج وشبه الحروف
+الترابية والى الطرد والعكس الحروف المائية سقيا أو رشا وتكتب الاضمارات للخير مستقيما وللطرد
+عكسوا اذا أردت شفاء مريض فالاداء وخذ أول حرف مع اضاره وعلجه كما يحصل المطلوب
+( الفصل التاسع والثلاثون في شرح أسماء الله الحسنى كما وردت بالايضاح والتفصيلات )
+اعلم أن أسماء الله تعالى ليس لها حصر بل أعظمها التي ذكرها الله في كتابه العزيز وقد ذكرنا
+الاسماء اجمالها وها نحن نذكرها تفصيلا فأول ما نبين لك كيفية التصرف بها واعلم أن الذي يريد
+تلاوة أسماء الله تعالى بطريق التصرف يف مثل تلاوة اسم لقضاء حاجة ذلك بمجرد التلاوة وذلك
+( ٢٧ - شمس المعارف - رابع )
+
+**English:**
+- 417 -
+
+a helper, so look to the first of its name and speak over that helper with the concealment of that letter, for it will come obediently. If you desire incitement, write 28 letters on a sheet and write the concealments, then take a nail and drive it into a third of the letter, and recite the invocation, and strike the nail into the letter, and say: Answer, O so-and-so, and bring so-and-so. If it comes, and the lower ones to the one after it, continue doing that until it comes at a letter. If you desire to bring him, seek him from that letter, and likewise in the rest of the letters. And if you desire to nullify an obstacle, write the concealment of the letter alif and ba and jim and dal on four empty eggs and hang them on the neck of a pigeon bird or a duck and put it into the place, for the measure will flee from it, whatever the movements may be, and hang them. And if you desire incitement that never ceases, write its image as Kāsiyān, and write every letter, its number, and the concealment with it, and make an image with two heads and carry it with you and bury it in the place of whom you want; you obtain the desired thing. And this is its image.
+(And this is a great rule) if journeys were made to it, men would not permit it.
+And it is that you look to the work and to the first of its letters and its last, and take that with the concealment, then know it in the manner that befits it. If it is good, then the concealments are as they are; and if it is evil, then they are reversed, and fumigate with its جامع incense, and know that wherever you wish, and I do not remind you except of the meaning.
+(Section) And if you desire an operation, take 28 eggs on Sunday and the ascendant is Aries, and write on each egg the letter, its number, and the concealment once. Then after that write the concealments in a glass bowl and a lead cup, then place the eggs under a hen and feed her wheat and give her to drink from that cup until, when they hatch and come out, feed them egg yolk and crushed wheat. When they grow, there must be among them a rooster; when you see it, its head lowered, burnt upward, and at the time of reaching its full strength, slaughter it and take its blood and put it in a bottle and seal it with wax and dry it and keep it with you. For everyone who applies kohl with this blood, he will see the place in which the treasure and the حجية are, openly, clearly, and awake, and he will see the lower spirits. And if it is written on three pieces of clay and the concealments of the first four letters are written and hung in the neck of the rooster, then it will go to the حجية or the treasure. And you write for love, speech, binding of tongues, affection, subjugation, and to everything that comes to your mind: write the fiery letters for the works fitting for the jinn and suitable to it, and for incitement and bringing the absent the airy letters, and for the works of falsification, stoning, الهجاج, and the like the earthy letters, and for expulsion and reversal the watery letters, watering or sprinkling. And you write the concealments for good straight, and for expulsion reversed. If you desire to heal a sick person, then the remedy, and take the first letter with its harm and treat it as the desired thing is obtained.
+(Chapter Thirty-Nine in the Explanation of the Beautiful Names of God as They Came in the Clarification and the Details)
+Know that the names of God تعالى have no limit, rather the greatest of them are those that God mentioned in His Mighty Book, and we have mentioned the names in their totality, and here we mention them in detail. The first thing we explain to you is the manner of acting with them. And know that whoever desires to recite the names of God تعالى by the way of acting, it is like reciting a name for the fulfillment of a need, that by mere recitation, and that
+(27 - Shams al-Ma'arif - Fourth)
+
+---
+## Page 424
+
+**Arabic (original):**
+— ٤١٨ —
+
+بشروط تأتي، وأما الأعمال الصحيحة فلا بد من أستاذ كامل يدخله الخلوة بشروطها ويأخذ عنه
+الأسماء، وليس بمجرد النظر إلى كتابنا هذا يفعل بما فيه ويفسد، بل لابد من استخدام روحانية
+الأسماء في الخلوة والرياضة. فالشروط الآتية ما يجب على التالي لقضاء الحاجة ٤ أقسام: الأول
+أن تنظر إلى تلك الحاجة وما يناسبها من أسماء الله، مثله للمحبة وتسخير القلوب قضاء الحوائج، هو على
+وجهين: الأول أن تنظر إلى طلبك مثل المحبة، فإنه اسمه ودود وما يناسبه بطريق الرياضة والتلاوة
+عدد الاسم دبر كل صلاة، ولتسخير القلوب اسمه تعالى رؤوف على عدد الحروف الاسمية والرياضة.
+وأما حروف التسليط مثل الحي والضار ووجع المفاصل والأمراض فيتربض ويتلو الأسماء
+الثلاثة لذلك مثل المنتقم والقابض وذو البطش الشديد مع الرياضة وتلاوة الاسم عدده. والقسم الثاني
+تلاوة الاسم عدده وتصرفه، فيأتي بدعمه الرياضة على ما يناسب ذلك من الأسماء. والقسم الثالث تدخل
+الخلوة وتجمع خاطرك وهمتك وتتوجه إلى العمل بكليتك على قدر بسط الاسم واضرب به في نفسه
+بأعظم الأعداد فإنه لا يتم العدد إلا والحاجة قضيت. والقسم الرابع هو أن تحسب اسمك واسم مطلوبك
+وانظر اسماً يوافق اسمك والحاجة واستعمله. ووجه آخر وهو أن تنظر إلى الشخص فإن كان من
+أرباب الحرف فأعطه من الأسماء المناسبة له مثل الرزاق والفتاح، وإن كان من أهل الصناعة مثل
+الغني. وأما بطريق الأسماء وفعلها في الحيوانات وهو طريق الخاصة مثل التوصل إلى درجة
+الكشف ومعرفة ما في الملكوت والتخلق بهذا الاسم والتحقق به والكشف على ما للملك الاسم من
+العوالم، ونيل درجة الصديقين والأولياء وتأتي إليه العوالم العلوية وتخدمه العوالم كلها من الإنس
+والجن، وهذه نتيجة الأعمال. قال تعالى: ولله الأسماء الحسنى فادعوه بها، ولولا حجب أسمائه لأحرقت
+سبحات وجه من انتهى إليه بصره من خلقه، وإن حقائق الأسماء لا يعلمها إلا الله. وقال عليه السلام: إن
+لله تسعة وتسعين اسماً من أحصاها دخل الجنة. واعلم أن سر الإحصاء هي الأمانة، ونتيجة معنى الإحصاء
+هو سكون الكشف عن حقيقة الثقة والأمانة من حيث المعرفة هي للأسماء كما أن الإيمان من
+نسبة العلم هو مدده. (تنبيه) روي أن الأمانة في معرفة الأسرار، قال عليه السلام: الأمانة نزلت في
+صدور قلوب الرجال، وكانت الأمانة قد جعلت في صلب الإنسان كأن المعرفة جبلت عليها. القول في
+العهد الأول وهو خطاب ألست بربكم قالوا بلى، الثانية أخذ الميثاق في النظر، الثالثة أخذ الميثاق على
+النفوس، الرابعة أخذ الميثاق الاختياري في التركيب، الخامسة ظهور الأحكام في البروز من الإجابة في
+الذر يظهر في التوحيد، السادسة في السماع الأول مع دوام اتصاله والإشارة في أخذ العهد في عالم الذر
+وهو ظهور الأمر الامتثالي في القبضتين كأصل حقيقة العلم الابتداء إشارة لابتداء حقيقة الحلية بما أودع
+الله فيها من السعادة والشقاوة، ولذلك قال عليه السلام: كل ميسر لما خلق له. وأخذ العهد على النفوس
+ظهور الحكم بسلطان القدرة والقدر وهو جمع الحواس وتسليم القلب والاختيار في التركيب ظهور
+الائتلاف وظهور الأحكام امتثال الأمر ظهور التسليم جاذبه، وحقيقة الأمر امتثال حكم الخلافة
+بالمندوبات.
+(فصل) واعلم أن كيفية الخلوة لهذه الأسماء في الشروط خلوة واحدة، فإذا أردت استعمال
+هذه
+
+**English:**
+— 418 —
+
+with conditions that come. As for the correct operations, there must be a complete master who admits him into seclusion with its conditions and takes the names from him. It is not by merely looking into this our book that one acts with what is in it and corrupts; rather, it is necessary to use the spirituality of the names in seclusion and discipline. So the following conditions are what is required of the reciter for the fulfillment of the need, in 4 sections: the first is that you look to that need and to the names of God that suit it, such as for love and subjugation of hearts and fulfillment of needs; it is in two aspects: the first is that you look to your request, such as love, for its name is Wadud, and what suits it by way of discipline and recitation is the number of the name after every prayer; and for subjugation of hearts, His تعالى name is Ra'uf, according to the number of the nominal letters and discipline. As for the letters of domination, such as al-Hayy and al-Darr and pain of the joints and illnesses, one lies in wait and recites the three names for that, such as al-Muntaqim and al-Qabid and Dhu al-Batsh al-Shadid, with discipline and recitation of the number of the name. And the second section is recitation of the number of the name and its disposition, then its support comes by discipline according to what suits that from the names. And the third section is that you enter seclusion and gather your thought and your resolve and turn to the work with your whole being according to the extent of the expansion of the name, and strike it by itself with the greatest numbers, for the number is not completed except when the need is fulfilled. And the fourth section is that you calculate your name and the name of your sought one and look to a name that agrees with your name and the need and use it. And another aspect is that you look to the person; if he is among the people of letters, then give him from the names suitable to him, such as al-Razzaq and al-Fattah, and if he is among the people of craft, such as al-Ghani. As for by way of the names and their action in animals, which is the way of the special ones, such as attaining the degree of unveiling and knowing what is in the ملكوت and characterizing oneself with this name and realizing it and unveiling what the kingdom has of the worlds of the name, and attaining the degree of the truthful ones and the saints, and the upper worlds come to him and all the worlds serve him, from mankind and jinn; and this is the result of the works. He تعالى said: And to God belong the most beautiful names, so call upon Him by them. And were it not for the veils of His names, the splendors of the Face of one whose sight reached Him from His creation would have burned. And the realities of the names are known only to God. And he عليه السلام said: Indeed God has ninety-nine names; whoever enumerates them enters Paradise. And know that the secret of enumeration is trustworthiness, and the result of the meaning of enumeration is the stillness of unveiling from the reality of trust and trustworthiness; from the aspect of knowledge it is for the names, just as faith from the relation of knowledge is its support. (Note) It is related that trustworthiness is in the knowledge of secrets. He عليه السلام said: Trustworthiness descended into the breasts of men’s hearts, and trustworthiness had been placed in the loins of man, as though knowledge were molded upon it. The statement concerning the first covenant, which is the address “Am I not your Lord?” They said: Yes. The second is taking the covenant in sight. The third is taking the covenant upon souls. The fourth is the voluntary covenant in composition. The fifth is the ظهور of rulings in manifestation from the response in the ذر, appearing in tawhid. The sixth is in the first hearing with the دوام of its connection, and the indication in taking the covenant in the world of the ذر, and it is the ظهور of the imperative command in the two graspings as the أصل of the reality of knowledge, the beginning being an indication of the beginning of the reality of the nature of what God deposited in it of happiness and misery. And for that he عليه السلام said: Everyone is facilitated for that for which he was created. And taking the covenant upon souls is the ظهور of judgment by the authority of power and decree, and it is the gathering of the senses and the surrender of the heart, and the choice in composition is the ظهور of harmony and the ظهور of rulings, the compliance with the command, the ظهور of surrender, its attractor, and the reality of the command is compliance with the ruling of the caliphate by the recommended acts.
+(Section) And know that the manner of seclusion for these names in the conditions is one seclusion. So if you desire to use
+these
+
+---
+## Page 425
+
+**Arabic (original):**
+— ٤١٩ —
+
+هذه الأسماء أو اسم منها فابتدي بالصيام والرياضة وتلاوة هذا الدعاء: إلهي أسألك ورابط حقيقي
+ويمحو زلاتي ويقيل عثراتي ويصلح ظاهري ويجمع شملي ويقدس سري ويسر أمري هبني
+معرفة ما أفوق به على أبناء جنسي إنك منور الأنوار وكاشف الأسرار وكل شيء عندك بمقدار. من
+عبد لازم على تلاوة هذا الذكر أرزقه الله الهيبة في القلوب والانسلاخ عن الخواطر النفسية ويظهره
+الله على كشف أحوال الأسماء وإياك أن تصرف بصرك حتى تتم الدعوة لأنه مقيد بالأشخاص
+الروحانية ولا تقرب النوم ولا البصل ولا تنم إلا قليلاً مستحضر القلب ولا تأكل إلا خبز الشعير وأكثر
+من الاستغفار في السحر وساعات الليل والنهار والذكر بالأسماء وقراءة يس وتبارك وافرش الخلوة
+فرشاً لطيفاً ولا تنم إلا وأنت جالس وعليك بتلاوة القرآن والاسم الشريف فإذا تلوته رأيت منه
+أسراراً واكتم السر وهذه الخلوة لا يقربك فيها أحد لا من الإنس ولا من الجن بل يهربون منك وأكثر
+من ذكر الباقيات الصالحات وهي سبحان الله والحمد لله ولا إله إلا الله والله أكبر ولا حول ولا قوة إلا بالله العلي
+العظيم وأكثر من تلاوة لا إله إلا الله الملك الحق المبين واحرص على أكل الحلال واجتنب كل ذي
+روح وما خرج منها وأكل الرطوبات وعليك بالصلوات في أوقاتها وملازمة الجماعة فيأتيك
+الروحاني في النوم واليقظة وبعض الروحانية يأتي نوراً وبعضهم مثل البرق الخاطف وبعضهم كنور
+المرآة وبعضهم يتشكل مثل ذلك النور وترى صوراً كالطير الأخضر ووجوههم كوجوه الآدميين
+فهذه صفة الرياضات كلها من طريق أهل الخلوة وأما التصريف بالأسماء فإني بحسب مراتب ذلك
+الاسم واعلم أن كل اسم له مربع ومثلث ومخمس وكل منها له خواص تأتي فإذا أردت التصريف
+بذلك الاسم تكتبه في يوم سعيد وطالع سعد على معدن مخصوص وكل اسم يأتي مربعه في محله وإذا
+عرضت للشخص حاجة يأت بمربع الاسم ويأتي حاجته ويوكل الروحاني صاحب الاسم وينل العدد
+فإنه يكون ذلك والله الموفق
+
+( فصل في تفصيل اسم الله )
+
+بسم الله الرحمن الرحيم اعلم أن هذا الاسم هو الاسم الأعظم باتفاق وإن حقيقة التسبيح هو الذكر
+باسمه الحسنى أقول ومن أراد تنزيه أوصافه ليظهر تقديس أوصاف سيده وباريه يجرد
+عن قلبه لذة المجازات والتأنس بالكرامات وعدم التعرفة في الدرجات بحقيقة الفناء في التوحيد على
+السر الذي أراده والحكيم الذي قدره وبين كتاب الطهارة الذاتية عن الأوصاف الذميمة بثبوت المحل
+عند يوم المقادير ومسكن الحيلة عند الصدمة الأولى وتبقى متفرقة عند الحقيقة فذلك عنق رقبة في
+الأزل وزج في السابقين الأول قال تعالى إن لك في النهار سبحاً طويلاً أي محيياً وذهاباً وفي معنى
+التسبيح يرد الأمم في كل نفس من الأنفاس وفي معنى اسمه الله اختلف العلماء هل مشتق أم لا فمنهم
+من قال إنه مشتق منها أو من أجل دلائل عدم الاشتقاق لهذا الاسم أن غيره من الأسماء تشتقه العرب
+إلا هذا الاسم لم يرد عند العرب وقد ورد أنهم كانوا يكتبون في صحفهم باسمك اللهم ومنه قوله تعالى
+هل تعلم له سمياً فالله الجيد ما عرف الله الإله وأعطى الخليقة الأسماء فحجبهم بها قال تعالى
+فسبح باسم ربك وأقول والله العظيم ما عرف الله الإله في السنن والمارين واليومين وحقيقة هذا
+
+**English:**
+— 419 —
+
+these names or a name from them, then begin with fasting and discipline and the recitation of this supplication: My God, I ask You, and a true bond, and it erases my slips and pardons my stumbles and rectifies my outward and gathers my affair and sanctifies my secret and makes easy my matter; grant me knowledge by which I surpass the sons of my kind. Indeed You are the illuminator of lights and the revealer of secrets, and everything with You is by measure. Whoever from a servant persists upon the recitation of this remembrance, God will provide him with awe in the hearts and detachment from psychic thoughts, and God will show him the unveiling of the states of the names. And beware that you turn your gaze until the supplication is completed, for it is bound to the spiritual persons. And do not approach sleep nor onions, and do not sleep except قليلاً with the heart present, and eat nothing but barley bread, and increase in seeking forgiveness at dawn and in the hours of night and day, and remembrance by the names, and the recitation of Yā Sīn and Tabārak, and spread the seclusion with a gentle bedding, and do not sleep except while you are sitting, and upon you is the recitation of the Qur’an and the noble name. For if you recite it, you will see from it secrets, so conceal the secret. And in this seclusion no one approaches you, neither from mankind nor from jinn; rather, they flee from you. And increase the remembrance of the enduring righteous deeds, and they are: Glory be to God, and praise be to God, and there is no god but God, and God is greater, and there is no might and no power except by God, the High, the Great. And increase the recitation of There is no god but God, the true, manifest King. And be keen upon eating the lawful, and avoid every living thing and what comes out of it, and eating moist things, and upon you are the prayers at their times and adherence to the congregation, and the spiritual one will come to you in sleep and wakefulness. Some of the spiritual ones come as light, and some of them like flashing lightning, and some of them as the light of a mirror, and some of them take shape like that light, and you see forms like the green bird, and their faces like the faces of human beings. So this is the description of all the disciplines by way of the people of seclusion. As for disposition by the names, then I according to the ranks of that name. And know that every name has a square and a triangle and a pentagon, and each of them has properties that come. So if you desire disposition by that name, write it on a fortunate day and a fortunate ascendant upon a specific metal. And every name comes, its square in its place. And if a need is presented to a person, he comes with the square of the name and his need comes, and the spiritual one, the owner of the name, is entrusted, and he attains the number, for that will be so, and God is the One who grants success.
+
+(Section on the detailing of the Name of God)
+
+In the name of God, the Merciful, the Compassionate. Know that this name is the Greatest Name by agreement, and that the reality of glorification is remembrance by His most beautiful name. I say: and whoever desires to declare His attributes transcendent, so that the sanctification of the attributes of his Lord and Creator may appear, let him strip from his heart the delight of metaphors and intimacy with miracles and the lack of acquaintance in the degrees by the reality of annihilation in tawhid, upon the secret that He intended and the Wise One that He decreed, and between the book of essential purification from blameworthy attributes by the establishment of the place at the day of decrees and the dwelling of stratagem at the first shock, and they remain scattered at the reality; so that is the neck of a neck in pre-eternity and a thrust in the first of the foremost. He تعالى said: Indeed for you in the day is a long سبحًا, that is, a reviving and a going. And in the meaning of glorification the الأمم recur in every breath of the breaths. And in the meaning of His name Allah the scholars differed: is it derived or not? Among them are those who said that it is derived from them, or because of the indications of the non-derivation of this name: that other names the Arabs derive, except this name, which did not occur among the Arabs. And it has been reported that they used to write in their sheets: by Your name, O Allah. And from it is His تعالى saying: Do you know of any equal to Him? So Allah, the good, did not know Allah the God and gave creation the names, so He veiled them by them. He تعالى said: So glorify with the name of your Lord. And I say, by God العظيم, Allah the God was not known in the sunan and the passers-by and the two days, and the reality of this
+
+---
+## Page 426
+
+**Arabic (original):**
+— ٤٢٠ —
+
+الاسم أنه التخلق لا التعلق، ومنهم من قال إنه مشتق من التوله وهو الفزع، ومنهم من قال إله ولا إله من قر به إليه يفزع إليه في الحوائج، فمن ذلك حروف الاسم الأعظم هـ الله، فخر فإن ساكنان وها الـ الأولى، وكتبت حركة الألف بالهمزة وهي أصل الألف ضرورة النطق، وكذلك أن الألف تجلت على الحروف فاتخذت حقة ثقها بحقيقة الألف، مع أن الحروف لما قهرت الحروف بتجليها القهري نزلت الحروف للرحمة فكملت ٢٨ نوعاً لذوات الحروف لم تجل في تجلي القدرة، ثم تجلى ثان وهو تخصيصها بالتعريف عرفت العلويات والسفليات، فهذا تجلى إرادة، ثم أخص حرفاً بسر الغناء المقرب من حضرته لتصرفه عند أسباب مشتقة لمن سواه، فكان الأمر الأول يقر بها من شكله إذا علاها قائم سر العناية مبسوط بسر التبليغ، ثم أخص حرفاً إحاطياً مقبول السر ومجمع الحروف في أعين الجميع بعد مرور التفرقة، فأوجد لها وجملها سر الصدر وبه المنة على النبي عليه السلام بقوله تعالى: ألم نشرح لك صدرك، ولما كان الألف جلت أن توصف بالحركة ومن بعدها السكون لانفصالها في الأوليات والنهايات وإليها ابتغاء الغايات والأخريات، والحركات منوطة بالرفع والنصب والخفض والضرب والتعريف وليست مفتقرة للتعريف، وأبرزت اللام الأولى ساكنة من نسبتها محركة من نسبة ما اتصل إليها من اللام الثانية، تلقى سر سكونها من سر سكون الألف ما في قواها، وذلك سر تلقي اللام الثانية بسر الحركة إذ هي حقيقة الثانية بسر إحاطتها، فتلقاها إلى سر إحاطتها فيجتمع فيها بسر الحركة والسكون، ولذلك كانت باطن الباطن، ولهما سر شرح الصدر، فالألف إشارة للذات، واللام الأولى للعهد الميثاق، والثانية لعهد النظر، واللام الثانية للعمق الإيماني يوم الدنيا لقبول التكليف الشرعي بما فيه من سر واسطة الألف، ثم الهاء لتمام الأمر يوم الآخرة لجميع الأولين والآخرين، فدارت هذه الحكمة ١٤ حرفاً أولها الألف وآخرها الألف، وسر ذلك أن الألف واللامين ٤ تضرب في ٣ تكون ١٢ وهما تبتين ١٤ حرفاً، والسموات والأرضين ١٤ وما بينهما من ملك وملكوت قام سر من هذه الأسماء، بل كل ذرة من الذرات قامت سر من اسمه الله كما قال تعالى: ولله يسجد من في السموات والأرض طوعاً وكرهاً، فالألف الأولى دلالة الذات، والثانية دلالة الصفات، وها دلالة أسماء الإشارة لبواطن الأسماء. ( تنبيه ) اعلم أن الألف في دلالة المخلوقات هو أعل لتقدمه على من سواه وكل مدرك فيه، ثم اللام وهي الروح من نسبة العقل، ثم اللام الثانية من نسبة ظاهر منها النطق والروح صفة الحياة، ثم اللام نسبة القلب إذ هو مشتق من النفس من نسبة الملك الثانية المتلقية مع اللام الأولى، ثم الهاء وهي الخامسة وهي الذات المعبر عنها بالخلوة هي الهاء، ووجه سر الألف كما قال الله السلام خلق الله الخلق في عماء ثم في هياء، وذلك سر اللام الأولى، وعلم الهاء هو علم الذر، وقال بعض العارفين اللام سر من سر إلى سو، وقال آخر ما بين الألف واللام سر، ومن الألف واللام من سر السر، فتدبر تجده أولاً وآخراً وظاهراً وباطناً.
+
+( فصل ) ولما كانت الهاء باطن الاسم الأعظم لقدمها في التوحيد لقوله تعالى هو الله الحي، وقد تقدم أن الهو إشارة التوحيد لباطنها فيتصل أول التوحيد بآخره لقوله عليه
+
+**English:**
+— 420 —
+
+The name: that it is the assuming of character, not attachment; and among them is one who said that it is derived from al-tawalluh, and it is fright; and among them is one who said: a god and no god, from one who is near to Him, he takes fright to Him in needs. So from that are the letters of the Greatest Name: هـ الله, Fakhra, for they are two silent ones and ha, the first al-. And the movement of the alif was written with the hamza, and it is the أصل of the alif, by necessity of pronunciation. Likewise, that the alif manifested upon the letters, so they took its right, its weight, by the reality of the alif. With that, when the letters overpowered the letters by their coercive manifestation, the letters descended for mercy, so 28 kinds were completed for the essences of the letters; they did not manifest in the manifestation of power. Then a second manifestation, and it is تخصيصها with definition: the upper and the lower were known. This is a manifestation of will. Then a letter is singled out with the secret of al-ghina’, drawing near to His presence, for its disposal at causes derived for other than it. So the first matter acknowledged them, of its form, when it rose over them, standing, the secret of care, spread out by the secret of conveying. Then a letter is singled out, encompassing, accepted in secret, and the gathering of the letters in the eyes of all after the passing of separation. So He brought it into existence and adorned it with the secret of the breast, and by it is the favor upon the Prophet, عليه السلام, by His saying تعالى: Did We not expand for you your breast. And when the alif was too exalted to be described by movement, and after it stillness, because of its separation in the primordials and the ends, and to it is the seeking of the goals and the latter things, and the movements are tied to raising, setting down, lowering, striking, and definition, and are not in need of definition. And the first lam was brought forth silent from its relation, moving from the relation of what was connected to it from the second lam. It receives the secret of its stillness from the secret of the stillness of the alif, what is in its powers. And that is the secret of the receiving of the second lam by the secret of movement, since it is the reality of the second by the secret of its encompassing. So it receives it to the secret of its encompassing, and in it are gathered by the secret of movement and stillness. Therefore it was the inward of the inward, and for them is the secret of the expansion of the breast. So the alif is an indication of the Essence, and the first lam for the covenant of the pact, and the second for the covenant of contemplation, and the second lam for the depth of faith on the day of the world for the acceptance of the legal charge with what is in it of the secret of the intermediary of the alif, then the ha for the completion of the matter on the day of the Hereafter for all the first and the last. So this wisdom revolved: 14 letters, its first being the alif and its last the alif. And the secret of that is that the alif and the two lams, 4, multiplied by 3, become 12, and they are two fixed points, 14 letters. And the heavens and the earths are 14, and what is between them of dominion and ملكوت, the secret of these names stood. Rather, every atom from among the atoms stood as a secret from the name of Allah, as He تعالى said: And to Allah prostrates whoever is in the heavens and the earth, willingly and unwillingly. So the first alif is an indication of the Essence, and the second an indication of the Attributes, and ha is an indication of the demonstrative names for the inward aspects of the names. (Notice) Know that the alif in the indication of the created things is the highest, because of its precedence over other than it and every apprehension in it. Then the lam, and it is the spirit from the relation of the intellect. Then the second lam from the relation of the ظاهر from it is speech, and the spirit is the attribute of life. Then the lam, the relation of the heart, since it is derived from the النفس from the relation of the second king receiving with the first lam. Then the ha, and it is the fifth, and it is the Essence expressed by seclusion; it is the ha. And the aspect of the secret of the alif, as Allah السلام said: Allah created creation in a cloud, then in a هيئة, and that is the secret of the first lam. And the knowledge of the ha is the knowledge of the atoms. And some of the knowers said: the lam is a secret from secret to سو, and another said: between the alif and the lam is a secret, and from the alif and the lam is the secret of the secret. So reflect: you will find it first and last, and outward and inward.
+
+( فصل ) And when the ha was the inward of the Greatest Name because of its precedence in tawhid, by His saying تعالى هو الله الحي, and it has already preceded that al-hu is an indication of tawhid for its inward, so the first of tawhid is connected to its last by His saying عليه
+
+---
+
+---
+## Page 427
+
+**Arabic (original):**
+— ٤٢١ —
+
+تعالى هو الأول والآخر والظاهر والباطن وهو مركب من حرفين وذلك لسر خفي وهو أن الله تعالى
+جعل الباطن محل الحرارات فمنها حرارة الشوق إلى الله ومنها حرارة الطمع فرحم الله الباطن
+باستواء هذه الحرارات فإذا قال العارف هو هو اجتمعت الحرارات المتحرقة وخرجت
+بنفس النفس إلى روح الهواء فترجع إلى روح الهواء وبرد الهواء وهو الألف في ظاهر رده في
+الباطن حر الإله هو سر الألف الزائد إلا أنه جمع بين باطن الهواء وظاهر الألف في التوحيد ثم
+الواو من هو يخرج من الشفتين بالإشمام فيجد النفس مخرجه بحرارة وإن الواو آخر وهي متوسطة
+في آخر الله متقدمة على ظاهر التوحيد لقوله تعالى هو الله وذلك توحيده بذاته وهي متقدمة على
+توحيد الموجودات بتوحيده في المعلومات لقوله تعالى وهو معكم بما كنتم وأحكام مشيئته هو تقدم
+الأول في معنى الباطن لقوله تعالى هو الأول والآخر وهو باطن الظاهر وباطن البطن تقديره وهو
+الأول والآخر والظاهر والباطن فهو والهواء حاملة لطيفة الحياة فرجع النفس الثاني إلى الصدر
+فروح الحياة ولطيف استرواح الهواء فافهم والله الموفق
+( فصل في معنى هو )
+اعلم أن هو هي هيئة حقيقة اليقين الداخل والخارج نطقت بها أولاً فإذا دخلت النفس نطق باطنك
+به فيكون بسطاً لسر الهواء فالنفس الداخل القبض الخارج البسط فالهاء خارجة بنفس الحياة
+والواو خارجة باحتراق الحرارات فتطفى الواو التي هي ممر الحرارات من الهاء التي قبلها بسر الحياة
+فتتصل الحياة بسر الإمداد وهي دائرة إلى أن يتم حكم الهاء والبسط فتلق بـ قوله
+تعالى وإليه ترجعون فتدبر تجد الموجودات لله
+( فصل ) واعلم أن اسم الجلالة هو اسم الله الأعظم وله خلوة وتصريف وصفة القيام بهذا الاسم أولاً
+الرياضة وهي ٦٦ يوماً وأنت تذكر الاسم دبر كل صلاة ٦٦ ثم تعمد إلى خلوة ظاهرة
+وتجاهد نفسك عن شهواتها واخلع عنك الأخلاق القبيحة واجعل قلبك في عالم الملكوت
+وأنت تذكر بقلبك في أول الخلوة وتقول الله دائماً بالقلب إلى أن يغلب عليك حال
+لا تدري بنفسك حتى تعلو همتك ويفتح لك باب فتنظر منه عوالم الأرض والملكوت المسكوت
+وتنظر أرواح الأنبياء وعباد الله الصالحين وتأتي إليك الروحانية في هذه الخلوة في النوم
+وهي الخلوة الأولى وتحصل لك رتبة الذاكرين ومن خصائص الربوبية القل بحقائق أسماء الله
+ولما كانت لا إله إلا الله محمد رسول الله ١٣ حرفاً وكانت حصن الله كأخبر بقوله تعالى لا إله إلا الله
+حصني فمن دخله أمن من عذابي وقال بعضهم لا إله إلا الله هكذا بسطها ل ا ل ا ل ه ا ل ل ا ل ه وهي ١٢
+حرفاً عدد البروج وببركتها بدور الفلك والكواكب والقمر وكل عمل يكون فيه فهو سريع الإجابة
+وأنها هي تدبر ذلك وهي سر الكلمة وهذه الكلمة ينطق بها الإنسان دون أنفاس العالم هي الحركة
+محكمة اقتضاها الباري للأفلاك وهي دائرة كمال الموجودات والنباتات والجمادات والحيوانات وهي
+كمال الفصول الأربعة والأشهر الكاملة ١٢ ولما كانت الساعات ١٢ وقيام كل حرف من
+هؤلاء بكل شهر ومن سر هذه الحروف تنزل الرحمة وتظهر البركة وتتفجر الحكمة وتقع الهداية
+
+**English:**
+— 421 —
+
+تعالى هو الأول والآخر والظاهر والباطن, and it is composed of two letters, and that is for a hidden secret, and it is that Allah تعالى جعل the inward the place of the heatings; among them is the heat of longing for Allah, and among them is the heat of greed. So Allah رحم the inward by the equality of these heatings. So when the knower says هو هو, the burning heatings gather and go out with the نفس of the نفس to the spirit of the air, so it returns to the spirit of the air and the coolness of the air, and it is the alif in the outward of its return in the inward, the heat of the God هو is the secret of the increased alif, except that it joined between the inward of the air and the outward of the alif in tawhid. Then the waw of هو comes out from the lips by ishmam, so the نفس finds its outlet with heat. And indeed the waw is the end, and it is intermediate in the end of Allah, preceding the outward of tawhid by His saying تعالى هو الله, and that is His tawhid by His Essence, and it precedes the tawhid of existents by His tawhid in the knowledges by His saying تعالى وهو معكم بما كنتم, and the rulings of His will, هو, the precedence of the first in the meaning of the inward by His saying تعالى هو الأول والآخر, and it is the inward of the outward and the inward of the inward; its estimation is: وهو الأول والآخر والظاهر والباطن. So it and the air are a subtle bearer of life, and the second نفس returned to the breast, so the spirit of life and the subtle seeking of rest in the air. So understand, and Allah is the One who grants success.
+
+( فصل في معنى هو )
+Know that هو is the form of the reality of certainty, inward and outward; it was uttered by it first. So when the النفس enters, your inward speaks by it, and it becomes an expansion for the secret of the air. So the inward النفس is contraction, the outward is expansion. So the ha is outgoing by the نفس of life, and the waw is outgoing by the burning of the heatings, so the waw, which is the passage of the heatings, is extinguished from the ha that preceded it by the secret of life. So life is connected to the secret of supply, and it is revolving until the ruling of the ha and the expansion is completed, then it is cast by His saying تعالى وإليه ترجعون. So reflect: you will find the existents for Allah.
+
+( فصل ) Know that the name of majesty is the Greatest Name of Allah, and it has seclusion and disposal, and the attribute of undertaking by this name first is spiritual exercise, and it is 66 days, and you mention the name after every prayer 66, then you proceed to an outward seclusion and struggle against your soul from its desires, and strip from yourself the ugly character traits, and make your heart in the world of the ملكوت, and you mention with your heart at the beginning of the seclusion and say Allah constantly with the heart until a state overcomes you, and you do not know yourself until your aspiration rises and a door is opened for you, and you look through it at the worlds of the earth and the silent ملكوت, and you look at the spirits of the prophets and the righteous servants of Allah, and the روحانية comes to you in this seclusion in sleep, and it is the first seclusion, and the rank of the rememberers is obtained for you. And from the properties of lordship: say with the realities of the names of Allah. And when لا إله إلا الله محمد رسول الله was 13 letters, and it was the fortress of Allah, as He informed by His saying تعالى لا إله إلا الله حصني فمن دخله أمن من عذابي, and some of them said: لا إله إلا الله thus, he spread it out: ل ا ل ا ل ه ا ل ل ا ل ه, and it is 12 letters, the number of the zodiacal signs, and by its blessing the orbits of the sphere, the stars, and the moon, and every work in which it is, it is swift in response, and that it is what manages that, and it is the secret of the word. And this word is uttered by man without the breaths of the world; it is the movement established, which the Creator required for the spheres, and it is the circle of the perfection of existents, plants, inanimate things, and animals, and it is the perfection of the four seasons and the complete months, 12. And when the hours were 12, and the standing of each letter from these with every month, and from the secret of these letters mercy descends, blessing appears, wisdom gushes forth, and guidance occurs.
+
+---
+
+---
+## Page 428
+
+**Arabic (original):**
+— ٢٢٢ —
+
+ويعظم النمو وتضاعف الحسنات هذا جملة، وأما تفصيلا فإن الله جعل من خفي لطفه ما أودعه في
+تصريف العالم في اليوم، وأعد ورتبه على ١٢ ساعة سر النهار ومنها سر الليل، ثم أحكم بلطيف حكمه
+فجعل ٣ ساعات سر الصيف و٣ سر الخريف و٣ سر الشتاء و٣ بسر الربيع، وهذا الزمان
+يدبره وهذه الحروف المستندة للتوحيد التي هي نتيجة لإله الإله والقيومية لا إله إلا القيوم، وإن
+العالم البشري مركب من حركة وسكون ولابد من اقتضائها وكشف ظواهرها، فجعل له الليل لوجود
+سره ورجوعه للعالم الحقيقة بسر الفعل والبعثة والارتقاء للأرواح وتصاعد العقول وركود البشرية
+تحت ملك الظلمة، فجعل تدبير الليل ١٢ ساعة لكل حرف ساعة، فإذا قال لا إله إلا الله لا يتم التوحيد
+إلا بها، وتمامها محمد رسول الله ١٢ حرفا تمام دائرة النهار، وقد كملت الحكمة بتمام الرحمة، فمن قال
+لا إله إلا الله محمد رسول الله باشتراط ما ذكرناه فقد أخلص في التوحيد، وهي أفضل ما قاله النبيون
+كما في الحديث الشريف، واعلم أن الحروف الأربعة والعشرين في مقابلتها ٢٤ عالما لكل عالم جمع
+في الألف، وقد تقدمت صورة الحروف، وأن هذه الكلمة كانت حقيقة العلم العلوي والسفلي، ونسبته في
+ذوات العرش كان من شأنهم فيه بالصورة المكتوبة بالنور الأبيض والأخضر، وهما السطران
+المعبران بقول لا إله إلا الله محمد رسول الله، فهؤلاء السطران المكتوبان بالنور قد استقبلا العرش
+وفيهم، وقد ورد أن العبد إذا قال لا إله إلا الله خرج من فيه عمود بالنور ويصعد إلى تحت العرش ويسبح
+إلى يوم القيامة، وهذا شاهد لانهائية في الملك وعروجا في الملكوت وصعودا في الجبروت لا يغلق
+ويقف دونها شيء من الحقائق، قال تعالى: إليه يصعد الكلم الطيب والعمل الصالح يرفعه، وورد أن من
+قال لا إله إلا الله ألف مرة كل يوم على طهارة كاملة يسر الله له أسباب الرزق عند سببه، وكذلك من
+قالها عند نومه ألف مرة باتت روحه تحت العرش، ومن قالها غدوة الظهيرة مع طلوع الشمس ضعف
+شيطان نفسه، ومن قالها عند رؤية الهلال أمن من الأسقام والآلام، ومن قالها بجمع همة وأرسلها إلى
+ظالم أو جبار هلك، ومن قالها العدد المذكور عند دخوله مدينة أمن من فتنتها، ومن قالها بقصد التعلم
+إلى مقام الارتقاء حصل له ذلك، وروي عنه عليه السلام أنه قال: من قال لا إله إلا الله غفر له، وعنه أيضا
+من كان آخر كلامه من الدنيا لا إله إلا الله، ومن كان له حاجة مهمة يلزم الخلوة ويجمع قلبه ثم
+يقول لا إله إلا الله وحده لا شريك له ويطلب ما أراد من الحوائج تقضى، وقال بعضهم: من ذكره
+هذا العدد فقد اشترى نفسه من الله، وقال بعض المحققين إن معنى هل جزاء الإحسان إلا الإحسان
+هي لا إله إلا الله، وإن العقل إذا كان مشكورا لم يسر في الأذكار أحسن من لا إله إلا الله، وإن القربة
+معرفة لا إله إلا الله، وقال عثمان بن عفان رضي الله عنه: بينما أنا جالس عند النبي صلى الله عليه وسلم
+وقد شخص نحوه، وإذا بجبريل عليه السلام أقبل إليه وقال: يا محمد إن الله تعالى يأمرك بالعدل
+والإحسان وشهادة أن لا إله إلا الله، فما سمعته يقولها غرس الإيمان في قلبي، وهذا هو العدل، وقد
+سأله عن الإخلاص فقال: القيام بالعبودية، وقال تعالى: يا أيها الذين آمنوا اتقوا الله وكونوا مع الصادقين
+أي أهل لا إله إلا الله، وورد أن جميع ما خلق الله من الخلق وعلمهم من جميع العلوم لا إله إلا الله، وأن
+علم الأولين والآخرين منطو في قول لا إله إلا الله، وورد أن جميع ما خلق الله من الخلق وعلمهم من
+
+**English:**
+— 222 —
+
+and growth is magnified and good deeds are multiplied; this is in general. As for in detail, Allah made from the hidden gentleness of His what He deposited in the management of the world in the day, and He prepared and arranged it upon 12 hours: the secret of the day, and from it the secret of the night. Then He perfected, by His subtle wisdom, and made 3 hours the secret of summer, and 3 the secret of autumn, and 3 the secret of winter, and 3 the secret of spring. And this time is managed by it, and these letters, based upon tawhid, which are the result of the God of the god and the Self-Subsisting: there is no god except the Self-Subsisting. And indeed the human world is composed of movement and stillness, and it is necessary for their implication and the unveiling of their outward aspects. So He made for it the night for the existence of its secret and its return to the world of reality by the secret of action and sending forth and ascent for the spirits and the rising of the intellects and the stagnation of humanity under the kingdom of darkness. So He made the management of the night 12 hours, for every letter an hour. So when he says لا إله إلا الله, tawhid is not completed except by it, and its completion is محمد رسول الله, 12 letters, the completion of the circle of the day, and wisdom has been completed by the completion of mercy. So whoever says لا إله إلا الله محمد رسول الله with the condition we mentioned has been sincere in tawhid, and it is the best of what the prophets said, as in the noble hadith. And know that the 24 letters, in their correspondence, are 24 worlds, for every world a gathering in the alif, and the form of the letters has already preceded, and that this word was the reality of the upper and lower knowledge, and its relation in the possessors of the Throne was from their affair in it by the written form in white and green light, and they are the two lines expressed by the saying لا إله إلا الله محمد رسول الله. So these two lines written in light have faced the Throne and are in it. And it has been transmitted that when the servant says لا إله إلا الله, a pillar of light comes out from his mouth and ascends to beneath the Throne and glorifies until the Day of Resurrection. And this is a witness to infinity in the dominion and an ascent in the ملكوت and an ascent in the جبروت; nothing of the realities closes or stands before it. He تعالى said: To Him ascends the good word, and the righteous deed raises it. And it has been transmitted that whoever says لا إله إلا الله one thousand times every day in complete purity, Allah makes easy for him the means of provision at its cause. Likewise, whoever says it at his sleep one thousand times, his spirit spends the night beneath the Throne. And whoever says it at the morning of midday with the rising of the sun, the devil of his soul is weakened. And whoever says it when seeing the crescent is safe from illnesses and pains. And whoever says it with gathered resolve and sends it to a wrongdoer or tyrant, he perishes. And whoever says it the mentioned number when entering a city is safe from its trial. And whoever says it with the intention of learning to the rank of ascent, that is obtained for him. And it was narrated from him عليه السلام that he said: Whoever says لا إله إلا الله, it is forgiven for him. And from him also: whoever’s last words from the world are لا إله إلا الله. And whoever has an important need, let him adhere to seclusion and gather his heart, then say لا إله إلا الله وحده لا شريك له and seek what he intended of needs; it is fulfilled. And some of them said: whoever remembers it this number has purchased himself from Allah. And some of the verifiers said that the meaning of هل جزاء الإحسان إلا الإحسان is لا إله إلا الله, and that if the intellect is thanked, nothing is better in the remembrances than لا إله إلا الله, and that nearness is the knowledge of لا إله إلا الله. And عثمان بن عفان رضي الله عنه said: while I was sitting with the Prophet صلى الله عليه وسلم, and he had fixed his gaze toward him, behold, جبريل عليه السلام came to him and said: O Muhammad, Allah تعالى commands you with justice and beneficence and the testimony that there is no god except Allah. So whatever I heard him say, faith was planted in my heart, and this is justice. And he asked him about sincerity, and he said: undertaking servitude. And He تعالى said: O you who believe, fear Allah and be with the truthful, meaning the people of لا إله إلا الله. And it has been transmitted that all that Allah created of creation and taught them of all the sciences is لا إله إلا الله, and that the knowledge of the first and the last is folded within the saying لا إله إلا الله, and it has been transmitted that all that Allah created of creation and taught them of
+
+---
+_End of translation — 428 pages._
