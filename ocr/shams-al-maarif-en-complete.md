@@ -1,6 +1,6 @@
 # Shams al-Ma'arif — Complete English Translation
 
-_Auto-generated from 365 translated pages._
+_Auto-generated from 368 translated pages._
 
 ---
 ## Page 1
@@ -21061,4 +21061,149 @@ And if the thousands are repeated with you, then act by the rule of the Imam to 
 of the letters of water. And the scribes distorted some things and imitated what the scholars brought and what was placed in the books, and took from the books, but the أصل of the error is from them, and it is necessary to increase the alif and the yā’ and the lām in every cube extracted from this meaning. * And know that every celestial one must have a terrestrial seclusion, and the rule of the terrestrial is that if you wish to extract an operation, then look to the bridle and take the dominant letters, then pronounce them celestial, and the terrestrial letters you gather and add to them three fiery letters, and they are ṭaysh; then entrust the celestial with the terrestrial for the extractor, and the terrestrial extracted with the terrestrial, the master of the day or the hour. And this is an original law upon which you rely in every operation among the operations. And if seven letters or five or three come out with you, you count the letters and add to that the word ṭaysh. Its example: the result was nine letters, and they are اطمهيطش. As for this speaking-out with the terrestrial, this original rule has clarified it in the increase of ṭaysh and in the increase of ail and the word ail and the word ṭaysh: ṭā’ and yā’ and shīn, and their number is 319. And this is taken from the law by the geometric hylē proof, and that has been verified and tried and tested by the five times and the measure of the hours, which are in the night and the day. * And know that the degrees of the sphere are 360 and are called degree because it is divided upon every sign thirty degrees, and the scholars derived it from the العظيم Qur’an from His saying تعالى: “Exalted in degrees,” because the number of rafīʿ is 360, and after it He mentioned the degrees. And if we add the two roots, their number is 360. And this science has a connection and linkage with the sphere. And if we add to the letters of the name of the celestial king the word ail, then that would have been subtracted from the number, which is 360; we subtracted fifty-one, there remained 360, return the other root to the terrestrial. Likewise, if we want the two celestial ones, and their number is 41, and my two terrestrial words, and whatever is subtracted from this, we add it to this. And all these are correct rules, acted upon. And if the seeker is standing at imitation, then imitate that operation and act by the rule of the صاحب الخافية. And if you wish to be a mujtahid and pronounce however you wish the laws, then do so with them. And if a number reaches you and you wish to divide it — and this occurs often in the magic squares — and 100 comes out with you, then if you wish to divide this letter by three letters, thus it reaches 3, and you add to it the root without omission. And for that reason, if 300 appears with you, and it is the letter shīn, and that is in the lower or the upper, then divide the letters by five letters, and this is in the lower and likewise in the upper, and it is not possible to state more than this. And likewise you do with the rest of the numbers, as if a letter of many-numbered value appears, such as the letter dhāl, and the letter ẓā’, and the letter ghayn, then you divide by four letters or five or seven. So on four letters you divide it thus: فسبعائيل. And if you wish to divide it by seven, divide it مضائيل. And measure on that. And the meaning of taking the Beautiful Names by various ways: among that, if the original number extracted from pronunciation upon any name of the names of God تعالى the Beautiful is such that that is translated by the possessor of that pronunciation, then this name is called the Greatest Name. And another aspect is that you take the first letter from the letters of the king and enter by it into the Beautiful Names, so you take the name whose beginning it is. An example of that: if the letter alif comes out, you take the name Allah; and if bā’ comes out, you take باقي; and if lām comes out, you take لطيف. And thus is the operation. * And know that for every letter there are worlds upon which none is informed except the one whom God has favored.
 
 ---
-_End of translation — 365 pages._
+## Page 366
+
+**Arabic (original):**
+- ٣٦٠ -
+
+تعالى، وإذا كشف لك عن عوالم هذه الحروف فإنك متى جمعت الحروف وأضفت لها الأس تمثل لك
+ملكاً روحانياً مقابلك فاقضِ حاجتك وسبح الله تعالى واستغفر لك إلى يوم القيامة، وعلامة وقوف
+الملك قبالك أنك تتأبت فاعلم ذلك وكلمه فما تريد. (فائدة) وهو أن تأخذ اسم المطلوب فقط وتأخذ
+عدد حروفه وتنظر الأسماء الموافقة لذلك الاسم ثم تنطق الاسم أيضاً وزد عليه لفظة "ائيل" وتقسم به
+لتجلب ذلك الشخص على هذه المسألة. * مثال ذلك إذا المطلوب محمد وعدد حروفه ٩٢ فكان
+الموافق لهذا الاسم باسط ودود ونطقنا الاسم كعائيل، فإذا أردت قضاء حاجة من محمد وأردت
+تسخيره أو أردت أمراً من الأمور فاتلُ هذين الاسمين على هذا الملك وأمره أن يتوكل له بهذا
+المطلوب فإنه يقضى حاجتك، وعلى هذا فقس ووكل هذا الروح في تلك الحاجة، وقد أظهرنا لك
+أمراً خفياً فاعرف قدره والله الموفق. * ووجه آخر وهو أن تأخذ اسم العون وأخرج الكعب
+بعد ذلك، وأبلِ الاسم المستخرج من وجه التكسير ووكله على القول العون فإنه يأتي به، وهذا من
+أعمال الحكماء العظام فاعلم ذلك والله الموفق. وأما معرفة استنطاق العوالم كلها من الأوفاق وهو
+أن تنظر إلى الوفق وتعده وتأخذ أضلاعه ومساحته واستنطقه وأضف إليه لفظة "ائيل" واصرفه على
+الأيام. (قاعدة عظيمة) وهو أن توكل العون المستخرج على ملك اليوم، فإذا أردت أن تعرف
+مساحة ذلك الوفق فخذ مساحة الوفق فأسقطه ٧٧ فإن فضل معك واحد فاعلم أنه على المذهب
+فوكله على ذلك العمل وتأخذ العلوية المستخرجة وتوكل بزجره، وإن بقي اثنان فإلى الحارس
+فاكتبه ووكل به في كل يوم الاثنين، وإن فضل أربعة فإلى برقان إلى تمام السبعة أيام، فإذا عرفت
+ذلك فتصرف بما تريد، وكذلك تستنطق الفتاح وأثبت فرسه والعدد والقطب والأربع أوتاد
+وحملة ذلك تمام عوالم فتنطق ذلك وقس عليه، وإن كان الوفق مثلثاً فخذ الوسط والمساحة وانطقه،
+وإن كان مربعاً فتنطق المفتاح والأوتاد والمساحة واصرفه على السفلية، وكذلك السبع تأخذ
+الأوتاد والوسط والقطب ثم استخرج العوالم واصرفه، وهكذا بقية الأوفاق، وكلما نطقت العوالم زاد
+قدرك، وكذلك تفعل إذا أخذت الحروف حروف سطر الوفق الأعلى تجمعها حروفاً وتنظمها،
+وبعد ذلك تأخذ الحرف السفل من الوفق لا تجمعها وانظمها حتى يظهر لك الجميع وتزيد
+في كل ثلاثة أو أربعة أو خمسة "ائيل"، وكذلك بقية الحروف السفلى تريد لفظة "طيش" إلى تمام ذلك
+واستخرج أمهاء العون من الوفق طولاً وعرضاً والله الموفق.
+(فصل في معرفة طالع الوقت)
+وهو أن تأخذ الوفق وأسقط منه ١٢١٢ فإن فضل واحدة لحمل أو اثنان فالثور وهكذا، ففي أي طالع
+انتهى العدد فيكون الخارج هو برج العمل، وكذلك الساعات اطرحها ٧٧ ففي أي مكان انتهى
+العدد من السبعة فيكون ذلك هو كوكب الساعة، وهذه القواعد هي ألطف القواعد وأحسنها
+وأقربها، وكذلك إذا أردت المنازل فاطرحها ٢٨٢٨ ففي أي منزلة انتهى العدد فتكون تلك
+المنزلة منزلة الطالع، وإذا أردت الأربع طبائع ففيه وجهان: الأول أن تأخذ الحروف وتزنها
+وتنظر أي الحروف الغالبة وأي الحروف الزائدة من الدرج والدقائق وأي الحروف من حروف
+الطالع.
+
+**English:**
+- 360 -
+
+Exalted be He, and if He reveals to you the worlds of these letters, then whenever you gather the letters and add to them the alif-s, a spiritual king will appear to you opposite you, so fulfill your need and glorify Allah تعالى and seek forgiveness for you until the Day of Resurrection. And the sign of the king’s standing before you is that you become hesitant, so know that and speak to him whatever you want. (Benefit) and it is that you take the name of the sought one only and take the number of its letters and look at the names corresponding to that name, then pronounce the name also and add to it the word “ā’īl” and swear by it in order to bring that person upon this matter. * An example of that: if the sought one is Muhammad and the number of its letters is 92, then the corresponding to this name was Bāsiṭ, Wadūd, and we pronounced the name as Ka’ā’īl. If you want the fulfillment of a need from Muhammad and want to subjugate him or want a matter from the matters, then recite these two names upon this king and command him to undertake for him with this sought one, for he will fulfill your need. And upon this measure, analogize, and assign this spirit in that need. And we have shown you a hidden matter, so know its قدر, and Allah is the One who grants success. * And another aspect is that you take the name of the helper and bring out the cube after that, and convey the extracted name from the aspect of breaking into pieces and assign it upon the saying of the helper, for he will bring it. And this is from the works of the great sages, so know that, and Allah is the One who grants success. As for knowing how to make all the worlds speak from the awfāq, it is that you look at the wafq and count it and take its sides and its area and make it speak and add to it the word “ā’īl” and dispose it upon the days. (A great rule) and it is that you assign the extracted helper upon the king of the day. So if you want to know the area of that wafq, then take the area of the wafq and subtract 77 from it; if one remains with you, then know that it is upon the doctrine, so assign it to that work, and take the extracted upper and assign by its warning. And if two remain, then to the guardian, so write it and assign by it on every Monday. And if four remain, then to Barqān until the completion of the seven days. So if you know that, then dispose as you wish. Likewise, make the opener speak and establish its horse, the number, the pole, and the four pegs, and the bearers of that, the completion of worlds, so make that speak and analogize upon it. And if the wafq is triangular, then take the middle and the area and make it speak. And if it is square, then make the key, the pegs, and the area speak and dispose it upon the lower ones. Likewise the seven: you take the pegs, the middle, and the pole, then extract the worlds and dispose it. And thus the rest of the awfāq. And whenever you make the worlds speak, your rank increases. Likewise you do if you take the letters, the letters of the upper line of the wafq, you gather them as letters and arrange them. After that you take the lower letter from the wafq; do not gather them and arrange them until all appears to you, and increase in every three or four or five “ā’īl.” Likewise the rest of the lower letters, you want the word “ṭaysh” until the completion of that. And extract the mothers of the helper from the wafq lengthwise and widthwise, and Allah is the One who grants success.
+
+(Chapter on knowing the Tali' of the time)
+And it is that you take the wafq and subtract 1212 from it; if one remains, then for Aries, or two, then Taurus, and so on. So in whichever Tali' the number ends, the outcome is the sign of the work. Likewise the hours: subtract 77 from them; in whichever place the number ends from the seven, that will be the planet of the hour. And these rules are the gentlest of the rules and the best of them and the nearest of them. Likewise, if you want the mansions, then subtract 2828 from them; in whichever mansion the number ends, that mansion will be the mansion of the Tali'. And if you want the four natures, then in it there are two aspects: the first is that you take the letters and weigh them and look at which letters are predominant and which letters are excess from the degrees and minutes and which letters are from the letters of the Tali'.
+
+---
+## Page 367
+
+**Arabic (original):**
+- ٣٦١ -
+
+الطبائع أكثر فتأمل ذلك وزنه واصرفه على ذلك العنصر * ووجه آخر في الوفق وفي أصل
+العمل عند أخذ الكعب تطرح العدد ٤٤ فان فضل معك واحد فطبع النار أو اثنان فطبع الهواء
+أو ثلاثة فطبع الماء أو أربعة فطبع التراب وهذا أقرب الطرق في هذا المعنى فقد أوضحت لك
+معرفة اليوم والطالع والكواكب والساعات والمنازل وسلطان الطالع * مثال ذلك كان الطالع
+برج الحمل فكان سلطانه الثور فكل أول ان كان طالعا فيكون السلطان الثاني وقس على ذلك
+وهذا آخر ما أردناه في هذا المعنى والله أعلم
+( فصل في معرفة استخراج البخور وكيفيته )
+وهو باب جليل القدر وهو أن تأخذ عدد الطالع واطرحه ٢٣ فان فضل ١ فالبخور من الحيوان
+أو ٢ فمن المعدن أو ٣ فمن النبات وان نظرت طبع البخور خذ الأوتاد الأربعة واجمع ذلك
+واطرحه ٤٤ فان فضل ١ فنار أو ٢ فهواء أو ٣ فماء أو ٤ فتراب فقسم التراب جمعه
+المعدن وجنس الهواء في مثل النبات والشجر والنار أيضا مثل النبات وقد ذكرنا أسماء البخور فيما
+تقدم وذكرنا ان لكل يوم بخورا فاذا عرفت ذلك اليوم فبخر به بخوره * ووجهان آخران
+هما أن تنظر الى مساحة الوفق أولى أى عمل وتنظر بيت العدد فان كان كثيرا فاطرحه ٢٨٢٨
+فما بقى يعطيه الحروف فذلك الحرف فبخر به بخور ذلك العمل وهذه قاعدة كلية يفهمها كل أحد
+وكذلك الأيام ينظر بخورها وتفعل به * والوجه الآخر فهو أن تأخذ مساحة الوفق وتقطعه
+حروفا وتنظر كم خرج من الحروف فان خرج معك ف فالبخور فلفل أو ح فصا لبان أو ع
+فعبر أو عر وقس على ذلك سائر الأعمال والكلام على هذا يطول وعلم الله لا يتناهى وفي هذا
+القدر كفاية لمن عرف الأصول
+( فصل في ذكر الموازين وكيفيتها )
+اعلم ان الميزان في هذا العلم معرفته أمر عظيم فاذا أردت عملا وكسرت حروفه فاجمع الحروف
+وانظر الى حروف المراتب لأنها على المراتب وان كل حرف من حروف المراتب مقاوم ستة
+أحرف من حروف الدرج وكل اثنى عشر حرفا من حروف الدقائق تماثل حرفا من حروف
+المراتب وذلك كل ثمانية عشر حرفا من حروف ثوانى بحرف واحد من حروف الاربعة
+وقس على ذلك وهذه صفة الموازين بالصحيفة الآتية
+
+**English:**
+- 361 -
+
+The natures are more, so reflect upon that, weigh it, and dispose it upon that element. * And another aspect in the wafq and in the أصل of the work, when taking the cube, subtract the number 44; if one remains with you, then the nature of fire, or two, then the nature of air, or three, then the nature of water, or four, then the nature of earth. And this is the nearest of the ways in this meaning. I have clarified to you the knowledge of the day and the Tali' and the planets and the hours and the mansions and the sovereignty of the Tali'. * An example of that: if the Tali' was the sign of Aries, then its sovereignty was Taurus, so every first, if it is a Tali', then the sovereignty is the second, and analogize upon that. And this is the last of what we intended in this meaning, and Allah knows best.
+
+(Chapter on knowing the extraction of incense and its manner)
+And it is a chapter of great value, and it is that you take the number of the Tali' and subtract 23 from it; if 1 remains, then the incense is from the animal, or 2, then from the mineral, or 3, then from the plant. And if you look at the nature of the incense, take the four pegs and gather that and subtract 44 from it; if 1 remains, then fire, or 2, then air, or 3, then water, or 4, then earth. So the division of earth gathers the mineral, and the genus of air is like the plant and the tree, and fire also is like the plant. And we have mentioned the names of the incense in what preceded, and we mentioned that for every day there is an incense. So if you know that day, then fumigate with its incense. * And two other aspects are that you look at the area of the wafq first, أي work, and you look at the house of the number; if it is much, then subtract 2828 from it. Whatever remains, the letters give it; that letter is the incense of that work. And this is a universal rule understood by every one. Likewise the days, their incense is looked at and done with it. * And the other aspect is that you take the area of the wafq and divide it into letters and look at how many letters came out. If f comes out with you, then the incense is pepper; or h, frankincense; or ʿ, ʿabr; or ʿr, and analogize upon that the rest of the works. And speech on this would be long, and the knowledge of Allah is without end, and in this amount there is sufficiency for whoever knows the principles.
+
+(Chapter on mentioning the scales and their manner)
+Know that the scale in this science, knowledge of it is a great matter. So if you want a work and break its letters, then gather the letters and look at the letters of the ranks, because they are upon the ranks, and every letter from the letters of the ranks is equivalent to six letters from the letters of the degrees, and every twelve letters from the letters of the minutes are equal to a letter from the letters of the ranks, and that is every eighteen letters from the letters of seconds by one letter from the letters of the four. And analogize upon that. And this is the description of the scales in the following page.
+
+---
+## Page 368
+
+**Arabic (original):**
+- ٢٦٢ -
+
+[Image: Two diagrams of scales with Arabic text]
+
+موازين
+الأعمال
+
+لوزن الحروف
+الجليلة المعدة
+
+( وهذه صفة الميزان الأعظم الحاوي للأسرار الجليلة التي قامت بها الحجج
+الواضحة والبراهين وهذه صورته كما ترى )
+
+[Image: Two diagrams of scales with Arabic text]
+
+الميزان
+الأعظم
+
+موازين
+
+[Text below the diagrams]
+* واعلم وفقني الله وإياك أن الميزان الأول المسمى بميزان المصادقة فهو ميزان يعرف منه طالع
+الحروف المتصادقة التي تحتاجها وقت الأعمال ويلقى منه الأحرف وقت الأعمال وأما الموازين
+المتضادة التي تحتاجها وقت أعمال الشر وما أشبهها * والثاني تعرف منه نسب الحروف المقلبة
+من
+
+**English:**
+- 262 -
+
+[Image: Two diagrams of scales with Arabic text]
+
+Scales
+of the
+works
+
+For weighing the letters
+the noble prepared
+
+(And this is the description of the greatest scale containing the noble secrets by which the clear proofs
+and evidences have stood, and this is its form as you see)
+
+[Image: Two diagrams of scales with Arabic text]
+
+The
+greatest
+scale
+
+Scales
+
+[Text below the diagrams]
+* And know, may Allah grant success to me and to you, that the first scale, called the scale of concordance, is a scale from which is known the Tali' of the concordant letters that you need at the time of works, and from it the letters are cast at the time of works. As for the opposing scales that you need at the time of works of evil and the like of them * and the second, from it you know the ratios of the inverted letters from
+
+---
+_End of translation — 368 pages._
