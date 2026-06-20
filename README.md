@@ -1,16 +1,16 @@
-# ╔═══════════════════════════════════════════════════════════════╗
-# ║   شمس المعارف الكبرى                                         ║
-# ║   Shams al-Ma'arif al-Kubra                                  ║
-# ║   — The Great Sun of Gnoses —                                ║
-# ║                                                              ║
-# ║   OCR · Enrichment · English Translation Pipeline            ║
-# ╚═══════════════════════════════════════════════════════════════╝
+# ╔════════════════════════════════════════════════════════════╗
+# ║  شمس المعارف الكبرى                                        ║
+# ║  Shams al-Ma'arif al-Kubra                                 ║
+# ║  — The Great Sun of Gnoses —                               ║
+# ║                                                            ║
+# ║  OCR · Enrichment · English Translation Pipeline           ║
+# ╚════════════════════════════════════════════════════════════╝
 
 [![Pages](https://img.shields.io/badge/Pages-604-blue)](#)
 [![OCR](https://img.shields.io/badge/OCR-100%25-success)](#)
 [![Enriched](https://img.shields.io/badge/Enriched-100%25-success)](#)
-[![Translated](https://img.shields.io/badge/Translation-24%25-yellow)](#)
-[![Model](https://img.shields.io/badge/Model-Gemini%202.0%20Flash-purple)](#)
+[![Translated](https://img.shields.io/badge/Translation-97%25-success)](#)
+[![Model](https://img.shields.io/badge/Model-Gemini%203.1%20Flash%20Lite-purple)](#)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](#)
 
 > *"A book of luminous secrets, divine names, and the hidden currents that move the spheres."*
@@ -25,7 +25,7 @@ A complete, production-grade pipeline to OCR, enrich, and translate Ahmad al-Bun
 |-------|------|--------|
 | **Raw OCR** | Gemini Arabic extraction, page by page, untouched | ✅ 604/604 |
 | **Enriched** | AI post-processing corrects OCR noise, preserves every word | ✅ 604/604 |
-| **Translation** | Verbatim English — no summarisation, no interpretation | 🔄 59/245 pages with text |
+| **Translation** | Verbatim English — no summarisation, no interpretation | ✅ 604/604 (589 with text) |
 | **HTML Codex** | Styled book manuscript from enriched output | ✅ Built |
 
 **The highest rule:** Translate what the author wrote, not what you think the author meant.
@@ -123,12 +123,12 @@ shams-al-maarif-ocr/
 │   ├── 📂 enriched/                      # OCR noise corrected, text preserved
 │   │   └── page_{001..604}.txt
 │   ├── 📂 enriched_en/                   # English translations
-│   │   └── page_{001..245}.txt           # (245 pages with actual content)
+│   │   └── page_{001..604}.txt           # (604 pages, 589 with text content)
 │   ├── translate_en.py                   # STAGE 3: English translation engine
 │   ├── translate_keys.py                 # 8 API keys (gitignored)
 │   ├── .translate_state.json             # Translation progress (gitignored)
-│   ├── shams-al-maarif-en-complete.md    # Combined English (3.7 MB, 3766 lines)
-│   ├── shams-al-maarif-en-complete.html  # Styled HTML version (4.1 MB)
+│   ├── shams-al-maarif-en-complete.md    # Combined English (4.9 MB, 35971 lines)
+│   ├── shams-al-maarif-en-complete.html  # Styled HTML version (5.4 MB)
 │   └── 📂 logs/                          # Runtime debug logs (gitignored)
 │
 ├── 📂 state/
@@ -147,7 +147,7 @@ shams-al-maarif-ocr/
 
 **Script:** `scripts/ocr_gemini.py`
 
-Sends each page PDF to Google Gemini 2.0 Flash with a carefully crafted Arabic-extraction prompt. Uses **8-key rotation** (via `gemini_rotate.py`) to bypass free-tier rate limits.
+Sends each page PDF to Google Gemini 3.1 Flash Lite with a carefully crafted Arabic-extraction prompt. Uses **8-key rotation** (via `gemini_rotate.py`) to bypass free-tier rate limits.
 
 ```bash
 # Single page
@@ -269,15 +269,16 @@ cd ocr && python3 translate_en.py --status
 | Metric | Value |
 |--------|-------|
 | Total pages | 604 |
-| Pages with text | 245 |
+| Pages with text | 589 (15 blank/folio placeholders) |
 | Raw OCR complete | 604 / 604 (✅ 100%) |
 | Enriched | 604 / 604 (✅ 100%) |
-| Translated | 59 / 245 (🔄 24.1%) |
+| Translated | 604 / 604 (✅ 100% — 589 with actual content) |
 | Failed | 0 |
-| Translation model | gpt-5.4-mini |
+| OCR/Enrich model | Gemini 3.1 Flash Lite (gemini-3.1-flash-lite) |
+| Translation model | OpenAI gpt-5.4-mini (Responses API) |
 | API keys | 8 (rotated on rate limit) |
-| Combined .md | 3.7 MB, 3766 lines |
-| Combined .html | 4.1 MB |
+| Combined .md | 4.9 MB, 35971 lines |
+| Combined .html | 5.4 MB |
 
 ---
 
@@ -321,9 +322,9 @@ Translation output files (`enriched_en/`, `shams-al-maarif-en-complete.*`) **are
 | **Edition** | Cairo printing, collated against Egypt & India editions + al-Hajj Mirza Husayn manuscript |
 | **Editor** | Shaykh 'Abd al-Rahman al-Jaziri (الشيخ عبد الرحمن الجزيرى) |
 | **Language** | Classical Arabic |
-| **Pages** | 604 (245 with text content, rest blank folios) |
+| **Pages** | 604 (589 with text content, 15 blank/folio placeholders) |
 | **Source** | Scanned PDF, 200 DPI, antique Naskh typeface |
-| **OCR Engine** | Gemini 2.0 Flash (google/gemini-2.0-flash-001) |
+| **OCR Engine** | Gemini 3.1 Flash Lite (gemini-3.1-flash-lite) |
 | **Translation** | OpenAI gpt-5.4-mini (Responses API) |
 | **Pipeline** | v1.0.0 |
 
