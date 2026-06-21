@@ -1,10 +1,18 @@
 # Secrets
 .env
+.envrc
 *.key
+*.pem
+*.p12
 secrets/
 translate_keys.py
 .translate_env
 .translate_state.json
+
+# Local tooling (developer environment, not project source)
+.openclaude/
+.claude/
+.claude.json
 
 # Python
 __pycache__/

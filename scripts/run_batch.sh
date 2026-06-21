@@ -46,9 +46,15 @@ if [ -f "$REPO_DIR/.env" ]; then
 fi
 
 # Log which Gemini key is active
-KEY_INDEX=$(python3 /home/it26/.hermes/scripts/gemini_rotate.py status 2>/dev/null | grep 'Current index' | awk '{print $NF}')
-KEY_LABEL=$(python3 /home/it26/.hermes/scripts/gemini_rotate.py status 2>/dev/null | grep 'Current label' | awk '{print $NF}')
-log "  Gemini key: index=$KEY_INDEX ($KEY_LABEL) — 8 keys, auto-rotates on 429"
+# GEMINI_ROTATOR may be overridden in cron env; default lives under ~/.hermes/scripts
+GEMINI_ROTATOR="${GEMINI_ROTATOR:-$HOME/.hermes/scripts/gemini_rotate.py}"
+if [ -f "$GEMINI_ROTATOR" ]; then
+    KEY_INDEX=$(python3 "$GEMINI_ROTATOR" status 2>/dev/null | grep 'Current index' | awk '{print $NF}')
+    KEY_LABEL=$(python3 "$GEMINI_ROTATOR" status 2>/dev/null | grep 'Current label' | awk '{print $NF}')
+    log "  Gemini key: index=$KEY_INDEX ($KEY_LABEL) — 8 keys, auto-rotates on 429"
+else
+    log "  Gemini rotator not found at $GEMINI_ROTATOR — skipping key status"
+fi
 
 # --- Step 1: Get next batch ---
 log "[STEP 1] Identifying next batch..."
