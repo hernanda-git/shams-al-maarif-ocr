@@ -1,6 +1,6 @@
 # Bahasa Indonesia Translation Checklist
 
-Progress: 24/604 pages translated (Hermes-authored, verbatim aligned to Arabic + English)
+Progress: 26/604 pages translated (Hermes-authored, verbatim aligned to Arabic + English)
 
 Format: each page gets a 3-layer file `ocr/enriched_id/page_NNN.txt` (Arabic / English / Indonesia).
 
@@ -36,11 +36,11 @@ Format: each page gets a 3-layer file `ocr/enriched_id/page_NNN.txt` (Arabic / E
 - [x] page_022
 - [x] page_023
 - [x] page_024
-- [ ] page_025
+- [x] page_025
 
 ## chapter_03_lunar_mansions  (pages 026-031, 6 pages)
 
-- [ ] page_026
+- [x] page_026
 - [ ] page_027
 - [ ] page_028
 - [ ] page_029
