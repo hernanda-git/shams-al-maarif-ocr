@@ -1,6 +1,6 @@
 # Bahasa Indonesia Translation Checklist
 
-Progress: 16/604 pages translated (Hermes-authored, verbatim aligned to Arabic + English)
+Progress: 18/604 pages translated (Hermes-authored, verbatim aligned to Arabic + English)
 
 Format: each page gets a 3-layer file `ocr/enriched_id/page_NNN.txt` (Arabic / English / Indonesia).
 
@@ -28,8 +28,8 @@ Format: each page gets a 3-layer file `ocr/enriched_id/page_NNN.txt` (Arabic / E
 ## chapter_02_breaking_expansion_times  (pages 016-025, 10 pages)
 
 - [x] page_016
-- [ ] page_017
-- [ ] page_018
+- [x] page_017
+- [x] page_018
 - [ ] page_019
 - [ ] page_020
 - [ ] page_021

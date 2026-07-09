@@ -27,7 +27,7 @@ def main():
     if not pages:
         print("no pages given")
         return
-    text = CHECKKLIST.read_text(encoding="utf-8")
+    text = CHECKLIST.read_text(encoding="utf-8")
     lines = text.split("\n")
 
     # progress line
@@ -57,7 +57,7 @@ def main():
             )
             break
 
-    CHECKKLIST.write_text("\n".join(lines), encoding="utf-8")
+    CHECKLIST.write_text("\n".join(lines), encoding="utf-8")
     print(f"updated: marked {len(pages)} page(s) done -> progress {done}/{total}")
 
 if __name__ == "__main__":
