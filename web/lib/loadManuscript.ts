@@ -100,7 +100,7 @@ export function normalizeManuscriptInput(
       scanSrc:
         (r.scanSrc as string) ??
         (r.scan as string) ??
-        `/scans/page-${String(ip).padStart(3, "0")}.png`,
+        `https://shamsmaarif.warga-digital.com/page-${String(ip).padStart(3, "0")}.pdf`,
       text: pickText(r),
     });
   }

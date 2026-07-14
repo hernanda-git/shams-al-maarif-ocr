@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import { getPage, getSectionTitle, TOTAL_PAGES } from "@/lib/manuscript";
+import { getPage, getSectionTitle, TOTAL_PAGES, hydrateManuscript } from "@/lib/manuscript";
 import { Lang, ViewMode, LANGS } from "@/lib/types";
 import { useReaderStore, THEMES, ThemeName } from "@/lib/useReaderStore";
 import { TopBar } from "@/components/TopBar";
@@ -15,7 +15,7 @@ import { ImportPanel } from "@/components/ImportPanel";
 
 const SCROLL_KEY = (p: number) => `shams-scroll-p${p}`;
 
-export default function ReaderApp() {
+export default function ReaderApp({ serverPages }: { serverPages?: unknown }) {
   const store = useReaderStore();
 
   const [lang, setLang] = useState<Lang>("en");
@@ -29,9 +29,23 @@ export default function ReaderApp() {
   const scrollRef = useRef<HTMLDivElement>(null);
   const jumpCounter = useRef(0);
 
-  // NOTE: manuscript data is already seeded at SSR time (see page.tsx), so
-  // there is NO client-side fetch here — the first paint shows real text.
-  // Deep-link + lastRead are applied once on mount for convenience only.
+  // NOTE: manuscript data is already seeded at SSR time (see page.tsx). The
+  // client runs in a separate module instance with an empty in-memory store,
+  // so we hydrate it from the server-passed array on mount — this is what
+  // makes the real OCR text + R2 scanSrc available to the client renderer
+  // (otherwise it would fall back to placeholder /scans/... paths).
+  useEffect(() => {
+    if (Array.isArray(serverPages) && serverPages.length) {
+      try {
+        hydrateManuscript(serverPages);
+      } catch {
+        /* ignore — placeholder fallback stays */
+      }
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  // Deep-link + lastRead applied once on mount for convenience only.
   useEffect(() => {
     try {
       const q = new URLSearchParams(window.location.search);

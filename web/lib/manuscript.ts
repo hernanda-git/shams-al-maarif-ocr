@@ -89,6 +89,20 @@ export function clearImportedData(): void {
 }
 
 /**
+ * Hydrate the (client-side) in-memory store from data passed down from the
+ * server component. Unlike loadManuscript(), this marks the source as
+ * "generator" so an explicit user import can still override it, and it never
+ * emits a relative /scans/... path — any missing scanSrc falls back to the
+ * absolute R2 URL.
+ */
+export function hydrateManuscript(input: ManuscriptInput): void {
+  const { pages, toc } = normalizeManuscriptInput(input, TOTAL_PAGES);
+  _override.pages = pages;
+  _override.toc = toc;
+  _override.source = "generator";
+}
+
+/**
  * Synchronously seed the real manuscript from the bundled static JSON at
  * build/SSR time. Called once from the server component (page.tsx) so the
  * prerendered HTML already contains real text — no client-side fetch and no
@@ -127,7 +141,7 @@ function generatePage(page: number): ManuscriptPage {
   return {
     page,
     sectionId: sec.id,
-    scanSrc: `/scans/page-${String(page).padStart(3, "0")}.png`,
+    scanSrc: `https://shamsmaarif.warga-digital.com/page-${String(page).padStart(3, "0")}.pdf`,
     text: {
       ar: lorem("ar", page, sec.title.ar),
       en: lorem("en", page, sec.title.en),
