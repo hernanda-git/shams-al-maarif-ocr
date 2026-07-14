@@ -1,49 +1,111 @@
 Arabic:
 — ٢٠٩ —
 
-| كَأَنَّهُ أُنْزِلَ مِنَ | السَّمَاءِ فَاخْتَلَطَ | بِهِ نَبَاتُ الأَرْضِ | فَأَصْبَحَ هَشِيمًا | تَذْرُوهُ الرِّيَاحُ |
+| كأنه أنزلناه من | السماء فاختلط | به نبات الأرض | فأصبح هشيماً | تذروه الرياح |
 | :--- | :--- | :--- | :--- | :--- |
-| يَوْمَ الآزِفَةِ إِذْ | القُلُوبُ لَدَى | الحَنَاجِرِ | كَاظِمِينَ مَا لِلظَّالِمِينَ | مِنْ حَمِيمٍ وَلَا شَفِيعٍ |
-| هُوَ اللَّهُ الَّذِي | لَا إِلَهَ إِلَّا هُوَ | عَالِمُ الغَيْبِ وَالشَّهَادَةِ | هُوَ الرَّحْمَنُ | الرَّحِيمُ |
-| عَلِمَتْ نَفْسٌ مَا | فَلَا أُقْسِمُ بِالخُنَّسِ | الجَوَارِ الكُنَّسِ | وَاللَّيْلِ إِذَا عَسْعَسَ | وَالصَّبْحِ إِذَا تَنَفَّسَ |
-| ص وَالقُرْآنِ | ذِي الذِّكْرِ | كَفَرُوا | فِي عِزَّةٍ وَشِقَاقٍ | |
-| اللَّهُ فَاطِرُ | رَبٌّ قَادِرُ | رَّحْمَنُ لَطِيفٌ | رَّحِيمٌ جَدِيرٌ | مَلِكٌ قَاهِرٌ |
-| السَّمَاءِ فَاخْتَلَطَ | ذَاتِ الأَرْضِ | فَأَصْبَحَ هَشِيمًا | تَذْرُوهُ الرِّيَاحُ | كَأَنَّهُ أُنْزِلَ مِنَ |
-| لَا إِلَهَ إِلَّا هُوَ | عَالِمُ الغَيْبِ وَالشَّهَادَةِ | هُوَ الرَّحْمَنُ | الرَّحِيمُ | هُوَ اللَّهُ الَّذِي |
-| إِذِ القُلُوبُ لَدَى | الحَنَاجِرِ كَاظِمِينَ | مَا لِلظَّالِمِينَ مِنْ | حَمِيمٍ وَلَا شَفِيعٍ | يَوْمَ الآزِفَةِ |
-| عَلِمَتْ نَفْسٌ مَا | الجَوَارِ الكُنَّسِ | وَاللَّيْلِ إِذَا عَسْعَسَ | وَالصَّبْحِ إِذَا تَنَفَّسَ | عَلِمَتْ نَفْسٌ مَا |
-| ذِي الذِّكْرِ | بَلِ الَّذِينَ | كَفَرُوا فِي عِزَّةٍ | وَشِقَاقٍ | ص وَالقُرْآنِ |
-| رَبٌّ قَادِرُ | رَّحْمَنُ لَطِيفٌ | وَشِقَاقٍ | حَمِيمٌ خَبِيرٌ | اللَّهُ فَاطِرُ |
-| بِهِ نَبَاتُ الأَرْضِ | فَأَصْبَحَ هَشِيمًا | تَذْرُوهُ الرِّيَاحُ | كَأَنَّهُ أُنْزِلَ مِنَ | السَّمَاءِ فَاخْتَلَطَ |
-| عَالِمُ الغَيْبِ وَالشَّهَادَةِ | هُوَ الرَّحْمَنُ | الرَّحِيمُ | هُوَ اللَّهُ الَّذِي | لَا إِلَهَ إِلَّا هُوَ |
-| الحَنَاجِرِ كَاظِمِينَ | مَا لِلظَّالِمِينَ | وَاللَّيْلِ إِذَا عَسْعَسَ | يَوْمَ الآزِفَةِ | يَوْمَ الآزِفَةِ |
-| الجَوَارِ الكُنَّسِ | بَلِ الَّذِينَ | كَفَرُوا فِي عِزَّةٍ | وَالصَّبْحِ إِذَا تَنَفَّسَ | وَالصَّبْحِ إِذَا تَنَفَّسَ |
-| رَّحْمَنُ لَطِيفٌ | رَّحْمَنُ خَبِيرٌ | رَّحِيمٌ | ذِي الذِّكْرِ | ذِي الذِّكْرِ |
-| فَأَصْبَحَ هَشِيمًا | تَذْرُوهُ الرِّيَاحُ | كَأَنَّهُ أُنْزِلَ مِنَ | رَبٌّ قَادِرُ | رَبٌّ قَادِرُ |
-| هُوَ الرَّحْمَنُ الرَّحِيمُ | هُوَ | اللَّهُ الَّذِي | بِهِ نَبَاتُ الأَرْضِ | بِهِ نَبَاتُ الأَرْضِ |
-| مَا لِلظَّالِمِينَ مِنْ | حَمِيمٍ وَلَا شَفِيعٍ | لَا إِلَهَ إِلَّا هُوَ | غَيْبٌ وَشَهَادَةٌ | غَيْبٌ وَشَهَادَةٌ |
-| وَاللَّيْلِ إِذَا عَسْعَسَ | وَالصَّبْحِ إِذَا تَنَفَّسَ | يَوْمَ الآزِفَةِ إِذْ | القُلُوبُ | الجَوَارِ الكُنَّسِ |
-| كَفَرُوا فِي عِزَّةٍ | وَشِقَاقٍ | وَالقُرْآنِ | ذِي الذِّكْرِ | بَلِ الَّذِينَ |
-| رَّحِيمٌ خَبِيرٌ | مَلِكٌ قَاهِرٌ | اللَّهُ فَاطِرُ | رَبٌّ قَادِرُ | رَّحْمَنُ لَطِيفٌ |
-| تَذْرُوهُ الرِّيَاحُ | كَأَنَّهُ أُنْزِلَ مِنَ | السَّمَاءِ فَاخْتَلَطَ | بِهِ نَبَاتُ الأَرْضِ | فَأَصْبَحَ هَشِيمًا |
-| الرَّحِيمُ وَلَا شَفِيعَ | لَا إِلَهَ إِلَّا هُوَ | عَالِمُ الغَيْبِ وَالشَّهَادَةِ | هُوَ الرَّحْمَنُ | الرَّحِيمُ |
-| وَالصَّبْحِ إِذَا تَنَفَّسَ | يَوْمَ الآزِفَةِ | عَلِمَتْ نَفْسٌ مَا | الحَنَاجِرِ كَاظِمِينَ | مَا لِلظَّالِمِينَ |
-| وَشِقَاقٍ | ص وَالقُرْآنِ | وَالقُرْآنِ | الجَوَارِ الكُنَّسِ | وَاللَّيْلِ إِذَا عَسْعَسَ |
-| اللَّهُ قَاهِرٌ | اللَّهُ فَاطِرُ | اللَّهُ فَاطِرُ | بَلِ الَّذِينَ | كَفَرُوا فِي عِزَّةٍ |
-| | | | رَّحْمَنُ لَطِيفٌ | رَّحْمَنُ خَبِيرٌ |
+| يوم الآزفة إذ | القلوب لدى | الحناجر | كاظمين ما للظالمين | من حميم ولا شفيع |
+| هو الله الذي | لا إله إلا هو | عالم الغيب والشهادة | هو الرحمن | الرحيم |
+| علمت نفس ما | فلا أقسم بالخنس | الجوار الكنس | والليل إذا عسعس | والصبح إذا تنفس |
+| ص والقرآن | ذي الذكر | كفروا | في عزة وشقاق | |
+| الله فاطر | رب قادر | رحمن لطيف | رحيم جدير | ملك قاهر |
+| السماء فاختلط | ذات الأرض | فأصبح هشيماً | تذروه الرياح | كأنه أنزلناه من |
+| لا إله إلا هو | عالم الغيب والشهادة | هو الرحمن | الرحيم | هو الله الذي |
+| إذ القلوب لدى | الحناجر كاظمين | ما للظالمين من | حميم ولا شفيع | يوم الآزفة |
+| علمت نفس ما | الجوار الكنس | والليل إذا عسعس | والصبح إذا تنفس | علمت نفس ما |
+| ذي الذكر | بل الذين | كفروا في عزة | وشقاق | ص والقرآن |
+| رب قادر | رحمن لطيف | وشقاق | حميم خبير | الله فاطر |
+| به نبات الأرض | فأصبح هشيماً | تذروه الرياح | كأنه أنزلناه من | السماء فاختلط |
+| عالم الغيب والشهادة | هو الرحمن | الرحيم | هو الله الذي | لا إله إلا هو |
+| الحناجر كاظمين | ما للظالمين | والليل إذا عسعس | يوم الآزفة | يوم الآزفة |
+| الجوار الكنس | بل الذين | كفروا في عزة | والصبح إذا تنفس | والصبح إذا تنفس |
+| رحمن لطيف | رحمن خبير | رحيم | ذي الذكر | ذي الذكر |
+| فأصبح هشيماً | تذروه الرياح | كأنه أنزلناه من | رب قادر | رب قادر |
+| هو الرحمن الرحيم | هو | الله الذي | به نبات الأرض | به نبات الأرض |
+| ما للظالمين من | حميم ولا شفيع | لا إله إلا هو | غيب وشهادة | غيب وشهادة |
+| والليل إذا عسعس | والصبح إذا تنفس | يوم الآزفة إذ | القلوب | الجوار الكنس |
+| كفروا في عزة | وشقاق | والقرآن | ذي الذكر | بل الذين |
+| رحيم خبير | ملك قاهر | الله فاطر | رب قادر | رحمن لطيف |
+| تذروه الرياح | كأنه أنزلناه من | السماء فاختلط | به نبات الأرض | فأصبح هشيماً |
+| الرحيم ولا شفيع | لا إله إلا هو | عالم الغيب والشهادة | هو الرحمن | الرحيم |
+| والصبح إذا تنفس | يوم الآزفة | علمت نفس ما | الحناجر كاظمين | ما للظالمين |
+| وشقاق | ص والقرآن | والقرآن | الجوار الكنس | والليل إذا عسعس |
+| الله قاهر | الله فاطر | الله فاطر | بل الذين | كفروا في عزة |
+| | | | رحمن لطيف | رحيم خبير |
 
-١٤ - شَمْسُ المَعَارِفِ -
+١٤ - شمس المعارف -
 
 English:
 — 209 —
 
-[The great composite magic square of the five verses — a 14-column grid weaving the phrases of the five noble verses (Āyat al-Kursī-like composite) into a protective talisman.]
+[Grid / magic-square table of Qur'ānic phrases — the original is a square arrangement of Quranic verse-fragments; the cells are reproduced exactly as in the source OCR.]
 
-(14 — Shams al-Ma'ārif —)
+| As if We sent it down from | the sky and it mixed | with the earth's vegetation | and it became straw | which the winds scatter |
+| :--- | :--- | :--- | :--- | :--- |
+| The imminent Day when | the hearts are at | the throats | restraining [anger]—for the wrongdoers there is | no friend nor intercessor |
+| He is Allah who | there is no god but He | Knower of the unseen and the witnessed | He is the Most Merciful | the Compassionate |
+| A soul knew what | so I swear not by the retreating [stars] | the planets that recede | and the night when it darkens | and the dawn when it breathes |
+| Ṣād, and the Qur'ān | of the Reminder | those who disbelieved | in pride and opposition | |
+| Allah, the Originator | Lord, Able | Merciful, Subtle | Compassionate, Worthy | King, Subduer |
+| the sky and it mixed | the earth itself | and it became straw | which the winds scatter | as if We sent it down from |
+| there is no god but He | Knower of the unseen and the witnessed | He is the Most Merciful | the Compassionate | He is Allah who |
+| when the hearts are at | the throats restraining | what the wrongdoers have | no friend nor intercessor | the imminent Day |
+| a soul knew what | the planets that recede | and the night when it darkens | and the dawn when it breathes | a soul knew what |
+| of the Reminder | but those who | disbelieved in pride | and opposition | Ṣād and the Qur'ān |
+| Lord, Able | Merciful, Subtle | and opposition | Compassionate, Aware | Allah, the Originator |
+| with the earth's vegetation | and it became straw | which the winds scatter | as if We sent it down from | the sky and it mixed |
+| Knower of the unseen and the witnessed | He is the Most Merciful | the Compassionate | He is Allah who | there is no god but He |
+| the throats restraining | what the wrongdoers have | and the night when it darkens | the imminent Day | the imminent Day |
+| the planets that recede | but those who | disbelieved in pride | and the dawn when it breathes | and the dawn when it breathes |
+| Merciful, Subtle | Compassionate, Aware | Compassionate | of the Reminder | of the Reminder |
+| and it became straw | which the winds scatter | as if We sent it down from | Lord, Able | Lord, Able |
+| He is the Most Merciful, the Compassionate | He | Allah who | with the earth's vegetation | with the earth's vegetation |
+| what the wrongdoers have | no friend nor intercessor | there is no god but He | unseen and witnessed | unseen and witnessed |
+| and the night when it darkens | and the dawn when it breathes | the imminent Day when | the hearts | the planets that recede |
+| disbelieved in pride | and opposition | and the Qur'ān | of the Reminder | but those who |
+| Compassionate, Aware | King, Subduer | Allah, the Originator | Lord, Able | Merciful, Subtle |
+| which the winds scatter | as if We sent it down from | the sky and it mixed | with the earth's vegetation | and it became straw |
+| the Compassionate, no intercessor | there is no god but He | Knower of the unseen and the witnessed | He is the Most Merciful | the Compassionate |
+| and the dawn when it breathes | the imminent Day | a soul knew what | the throats restraining | what the wrongdoers have |
+| and opposition | Ṣād and the Qur'ān | and the Qur'ān | the planets that recede | and the night when it darkens |
+| Allah, Subduer | Allah, the Originator | Allah, the Originator | but those who | disbelieved in pride |
+| | | | Merciful, Subtle | Compassionate, Aware |
+
+14 — Shams al-Ma'ārif —
 
 Indonesia:
-— 209 —
+— ٢٠٩ —
 
-[Bujur sangkar majemuk besar dari lima ayat — grid 14 kolom yang menenun frasa-frasa lima ayat mulia (komposit seperti Āyat al-Kursī) menjadi jimat pelindung.]
+[Petak / persegi ajaib berisi frasa-frasa Al-Qur'an — aslinya adalah susunan persegi dari potongan-potongan ayat Quran; sel-sel direproduksi persis seperti pada OCR sumber.]
 
-(14 — Shams al-Ma'ārif —)
+| Seolah-olah Kami turunkan dari | langit lalu bercampur | dengan tumbuhan bumi | dan jadilah ia jerami kering | yang disebarkan angin |
+| :--- | :--- | :--- | :--- | :--- |
+| Hari yang dekat ketika | hati di | tenggorokan | menahan [amurah]—bagi orang zalim tak ada | kawan nor penyembuh |
+| Dialah Allah yang | tiada tuhan selain Dia | Maha Tahu yang gaib dan yang nyata | Dia Maha Pengasih | Maha Penyayang |
+| Jiwa mengetahui apa | maka aku bersumpah tidak demi bintang yang surut | planet yang mundur | dan malam saat gelap | dan fajar saat bernapas |
+| Ṣād, dan Al-Qur'an | yang mengandung Peringatan | orang-orang kafir | dalam kesombongan dan penentangan | |
+| Allah, Sang Pencipta | Tuhan Mahakuasa | Maha Pengasih lagi Halus | Maha Penyayang lagi Layak | Raja Mahaperkasa |
+| langit lalu bercampur | bumi itu sendiri | dan jadilah jerami kering | yang disebarkan angin | seolah Kami turunkan dari |
+| tiada tuhan selain Dia | Maha Tahu gaib dan nyata | Dia Maha Pengasih | Maha Penyayang | Dialah Allah yang |
+| saat hati di | tenggorokan menahan | apa yang orang zalim punya | tiada kawan nor penyembuh | hari yang dekat |
+| jiwa mengetahui apa | planet yang mundur | dan malam saat gelap | dan fajar saat bernapas | jiwa mengetahui apa |
+| yang mengandung Peringatan | tetapi orang yang | kafir dalam kesombongan | dan penentangan | Ṣād dan Al-Qur'an |
+| Tuhan Mahakuasa | Maha Pengasih lagi Halus | dan penentangan | Maha Penyayang lagi Mengetahui | Allah Sang Pencipta |
+| dengan tumbuhan bumi | dan jadilah jerami | yang disebarkan angin | seolah Kami turunkan dari | langit lalu bercampur |
+| Maha Tahu gaib dan nyata | Dia Maha Pengasih | Maha Penyayang | Dialah Allah yang | tiada tuhan selain Dia |
+| tenggorokan menahan | apa yang orang zalim punya | dan malam saat gelap | hari yang dekat | hari yang dekat |
+| planet yang mundur | tetapi orang yang | kafir dalam kesombongan | dan fajar saat bernapas | dan fajar saat bernapas |
+| Maha Pengasih lagi Halus | Maha Penyayang lagi Mengetahui | Maha Penyayang | yang mengandung Peringatan | yang mengandung Peringatan |
+| dan jadilah jerami | yang disebarkan angin | seolah Kami turunkan dari | Tuhan Mahakuasa | Tuhan Mahakuasa |
+| Dia Maha Pengasih Maha Penyayang | Dia | Allah yang | dengan tumbuhan bumi | dengan tumbuhan bumi |
+| apa yang orang zalim punya | tiada kawan nor penyembuh | tiada tuhan selain Dia | gaib dan nyata | gaib dan nyata |
+| dan malam saat gelap | dan fajar saat bernapas | hari yang dekat saat | hati | planet yang mundur |
+| kafir dalam kesombongan | dan penentangan | dan Al-Qur'an | yang mengandung Peringatan | tetapi orang yang |
+| Maha Penyayang lagi Mengetahui | Raja Mahaperkasa | Allah Sang Pencipta | Tuhan Mahakuasa | Maha Pengasih lagi Halus |
+| yang disebarkan angin | seolah Kami turunkan dari | langit lalu bercampur | dengan tumbuhan bumi | dan jadilah jerami |
+| Maha Penyayang tiada penyembuh | tiada tuhan selain Dia | Maha Tahu gaib dan nyata | Dia Maha Pengasih | Maha Penyayang |
+| dan fajar saat bernapas | hari yang dekat | jiwa mengetahui apa | tenggorokan menahan | apa yang orang zalim punya |
+| dan penentangan | Ṣād dan Al-Qur'an | dan Al-Qur'an | planet yang mundur | dan malam saat gelap |
+| Allah Mahaperkasa | Allah Sang Pencipta | Allah Sang Pencipta | tetapi orang yang | kafir dalam kesombongan |
+| | | | Maha Pengasih lagi Halus | Maha Penyayang lagi Mengetahui |
+
+14 — Shams al-Ma'ārif —
