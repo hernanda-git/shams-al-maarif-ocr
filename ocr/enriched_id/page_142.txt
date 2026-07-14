@@ -1,0 +1,54 @@
+Arabic:
+— ١٢٦ —
+
+[Grid content]
+مُحَمَّدٌ رَسُولُ اللَّهِ
+الرَّحْمَنُ الرَّحِيمُ
+وَاللَّهُ الْبَاقِي دَائِمٌ
+مَعَ اللَّهِ السَّمِيعُ
+أَشَاكِضُ لَامٌ
+ضَوْنَا سِي
+الْكَمَالُ
+الدَّلِيلُ
+الْمَجِيدُ
+الرَّفِيعُ
+الْمُقِيتُ
+الْمُتَعَالِي
+الْمُتَعَالِي
+(×500 — repeated name within the grid cells)
+
+English:
+— 126 —
+
+[Grid content]
+Muḥammad is the Messenger of Allah.
+The Most Merciful, the Most Compassionate.
+And Allah the Ever-Lasting, the Eternal.
+With Allah the All-Hearing.
+Ashākiḍ Lām.
+Ḍawnā Sī.
+Al-Kamāl (Perfection).
+Al-Dalīl (the Guide).
+Al-Majīd (the Glorious).
+Al-Rafī' (the Exalted).
+Al-Muqīt (the Nourisher).
+Al-Muta'ālī (the Most High).
+[The grid then lists the name "Al-Muta'ālī" (الْمُتَعَالِي) repeated 500 times — preserved as-is; the source OCR contains only this repeated name within the grid cells, with no recoverable distinct content.]
+
+Indonesia:
+— 126 —
+
+[Isi petak]
+Muḥammad adalah Utusan Allah.
+Ar-Raḥmān Ar-Raḥīm.
+Dan Allah Yang Kekal, Yang Langgeng.
+Bersama Allah Yang Maha Mendengar.
+Ashākiḍ Lām.
+Ḍawnā Sī.
+Al-Kamāl (Kesempurnaan).
+Al-Dalīl (Pemberi Petunjuk).
+Al-Majīd (Yang Mulia).
+Al-Rafī' (Yang Tinggi).
+Al-Muqīt (Yang Memberi Rezeki).
+Al-Muta'ālī (Yang Maha Tinggi).
+[Petak tersebut kemudian mencantumkan nama "Al-Muta'ālī" (الْمُتَعَالِي) diulang 500 kali — dipertahankan apa adanya; OCR sumber hanya memuat nama yang berulang ini di dalam sel-sel petak, tanpa isi lain yang dapat dipulihkan.]
