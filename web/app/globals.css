@@ -1,0 +1,174 @@
+@import "tailwindcss";
+
+/* ============ Venusian Theme Tokens (Shams al-Ma'arif) ============ */
+@theme {
+  /* Surfaces */
+  --color-bg: #0e0c10;
+  --color-bg-2: #16131a;
+  --color-panel: #1b1620;
+  --color-panel-2: #221b29;
+  --color-border: #2c2533;
+  --color-border-soft: #241d2b;
+
+  /* Text */
+  --color-fg: #ece6dc;
+  --color-fg-soft: #cabfb2;
+  --color-muted: #8b857c;
+
+  /* Brand */
+  --color-accent: #903136;
+  --color-accent-soft: #b0494f;
+  --color-accent-dim: #5e2024;
+  --color-gold: #c9a24b;
+  --color-gold-soft: #e0c279;
+
+  /* Fonts (wired from next/font in layout) */
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-cormorant), ui-serif, Georgia, serif;
+  --font-arabic: var(--font-amiri), "Scheherazade New", serif;
+
+  /* Radii */
+  --radius-card: 14px;
+}
+
+:root {
+  color-scheme: dark;
+}
+
+/* ============ Reading themes (applied on <html data-theme>) ============ */
+:root[data-theme="night"] {
+  --color-bg: #0e0c10;
+  --color-bg-2: #16131a;
+  --color-panel: #1b1620;
+  --color-panel-2: #221b29;
+  --color-border: #2c2533;
+  --color-border-soft: #241d2b;
+  --color-fg: #ece6dc;
+  --color-fg-soft: #cabfb2;
+  --color-muted: #8b857c;
+  --color-accent: #903136;
+  --color-accent-soft: #b0494f;
+  --color-accent-dim: #5e2024;
+  --color-gold: #c9a24b;
+  --color-gold-soft: #e0c279;
+  color-scheme: dark;
+}
+:root[data-theme="sepia"] {
+  --color-bg: #2a2018;
+  --color-bg-2: #332619;
+  --color-panel: #3b2d1f;
+  --color-panel-2: #453322;
+  --color-border: #5a442c;
+  --color-border-soft: #4a3826;
+  --color-fg: #f3e6cc;
+  --color-fg-soft: #e2d2b4;
+  --color-muted: #b59b78;
+  --color-accent: #a8472f;
+  --color-accent-soft: #c25c3f;
+  --color-accent-dim: #6e2e1e;
+  --color-gold: #d8a657;
+  --color-gold-soft: #efc87e;
+  color-scheme: dark;
+}
+:root[data-theme="paper"] {
+  --color-bg: #efe7d6;
+  --color-bg-2: #e6dcc6;
+  --color-panel: #f4ecda;
+  --color-panel-2: #fbf5e8;
+  --color-border: #cdbf9f;
+  --color-border-soft: #ddd0b2;
+  --color-fg: #2c2418;
+  --color-fg-soft: #4a3f2c;
+  --color-muted: #897a5e;
+  --color-accent: #8c2f33;
+  --color-accent-soft: #a8474b;
+  --color-accent-dim: #c99a9c;
+  --color-gold: #9a6b1f;
+  --color-gold-soft: #b9852c;
+  color-scheme: light;
+}
+
+/* ============ Line-height (applied on <html data-line>) ============ */
+:root[data-line="cozy"] .reading-column { line-height: 1.7; }
+:root[data-line="normal"] .reading-column { line-height: 2.0; }
+:root[data-line="airy"] .reading-column { line-height: 2.4; }
+
+* {
+  border-color: var(--color-border-soft);
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background:
+    radial-gradient(1200px 800px at 80% -10%, rgba(144, 49, 54, 0.12), transparent 60%),
+    radial-gradient(900px 700px at -10% 110%, rgba(201, 162, 75, 0.08), transparent 55%),
+    var(--color-bg);
+  color: var(--color-fg);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* RTL: flip the whole layout when Arabic is active */
+[dir="rtl"] {
+  direction: rtl;
+}
+
+/* Ornamental divider */
+.ornament {
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(201, 162, 75, 0.5),
+    transparent
+  );
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-bg-2);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: 8px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-accent-dim);
+}
+
+/* Reading column */
+.reading-column {
+  font-family: var(--font-serif);
+  line-height: 1.9;
+  font-size: 1.18rem;
+  color: var(--color-fg);
+}
+.reading-column.arabic {
+  font-family: var(--font-arabic);
+  line-height: 2.4;
+  font-size: 1.6rem;
+  text-align: right;
+}
+.reading-column p {
+  margin-bottom: 1.1em;
+}
+
+/* Subtle gold-glow focus for interactive accents */
+.glow-accent {
+  box-shadow: 0 0 0 1px var(--color-accent-dim),
+    0 6px 24px -8px rgba(144, 49, 54, 0.6);
+}
+
+/* Selection */
+::selection {
+  background: var(--color-accent-dim);
+  color: var(--color-gold-soft);
+}

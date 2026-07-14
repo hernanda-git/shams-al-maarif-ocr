@@ -1,0 +1,2 @@
+# Vercel deploy ignores (keeps build fast + under asset limits)
+public/scans/
