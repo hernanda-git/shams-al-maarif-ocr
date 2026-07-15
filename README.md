@@ -408,6 +408,67 @@ The following are **never committed** (blocked by `.gitignore`):
 
 ---
 
+## 🌐 Web Reader (Deployed App)
+
+The OCR output is surfaced to readers through a **Next.js 16 web app**, deployed to Vercel.
+
+| | Path | Role |
+|---|---|---|
+| **Source repo** | `C:/Workspace/shams-al-maarif` | Canonical app code — **edit here** |
+| **Deploy repo** | this repo (`shams-al-maarif-ocr`), `web/` subdir | Push `main` → GitHub Actions → Vercel |
+| **Served data** | `web/public/manuscript.json` | Regenerated from `ocr/enriched*` via `scripts/build_manuscript_json.py` |
+
+> Prod: **https://shams-al-maarif.vercel.app**
+
+### Features
+- **3 languages** (Arabic / English / Indonesian) with RTL auto-flip for Arabic
+- **OCR text view + scanned-page (PDF) view**, toggleable per folio; Page mode falls
+  back to the OCR transcription when a scan is missing or errors (never a blank screen)
+- **Last-read resume**, **bookmarks**, **reading progress** (% read)
+- **Reading themes** (night / sepia / paper) + **line-height** control
+- **Font size 4–72px** (2px steps), theme + typography persisted to localStorage
+- **Deep links** `?page=N&lang=ar|en|id&mode=text|page` via SSR initial state (no flash)
+- **Full-text search** across all languages with snippets + highlight
+- **Auto-scroll**: one toggle cycles `Off → 1 → 2 → 3 → 4 → Off` (integer speed,
+  level N = N×40 px/s). When ON and the page bottom is reached, a **10-second countdown**
+  pill appears, then it auto-advances to the next page and keeps scrolling. When OFF,
+  reaching the bottom does **not** start a countdown and does **not** advance.
+- **Mobile parity**: a "More" (kebab) menu re-exposes desktop-only header controls
+  (import / theme / grid / font / auto-scroll) below 640px
+- **In-app import panel**: drag-drop a manuscript JSON to override data for the session
+  (global `manuscript.json` always wins on reload)
+
+### Stack
+- **Next.js 16** (App Router, `app/`, no `src/`), **React 19**, **TypeScript strict**
+- **Tailwind v4** (`@theme` design tokens)
+- Fonts via `next/font/google`: Amiri (Arabic), Cormorant Garamond (serif), Inter (sans)
+- Same-origin PDF proxy (`/api/scan/[page]`) → streams public R2 facsimiles
+  (Cloudflare cross-origin embeds are blocked for real browsers, so the proxy is required)
+
+### Deploy flow (two-repo, manual sync)
+The source repo is the **canonical source**. Sync is **one-way** (source → this repo's
+`web/`):
+
+```bash
+# after editing in C:/Workspace/shams-al-maarif, copy changed files into web/:
+SRC=/C/Workspace/shams-al-maarif
+DST="/c/Working Folder/Research/shams-al-maarif-ocr/web"
+for f in components/ReaderApp.tsx components/TopBar.tsx components/icons.tsx; do
+  cp -f "$SRC/$f" "$DST/$f"
+done
+# (data sync) cp "$SRC/public/manuscript.json" "$DST/public/manuscript.json"
+cd "$DST" && git add -A && git commit -m "…" && git push origin main
+# → GitHub Actions rebuilds + deploys; verify: gh run view <id> --json status,conclusion
+```
+
+**Commit discipline:** `git status` HANGS on this repo (untracked 7.7 MB `ocr/source/`),
+so use `git diff --cached --name-only` for fast checks and **NEVER `git add -A`** here
+from the OCR root — it would bulk-commit the untracked source dumps. Stage the `web/`
+changes explicitly. Full recipe in skill **`nextjs-manuscript-reader`**
+(`references/resync-ocr-translations.md`, `references/ocr-repo-commit-discipline.md`).
+
+---
+
 ## 🤝 Contributing
 
 Since this is a **verbatim preservation project**, any correction must be traceable:
