@@ -60,116 +60,116 @@ English:
 - 106 -
 
 The letter fā’ is for the sun, and its day is Sunday
-| ف | ج | ش | ث | خ | ز | ظ |
-| ظ | ش | ف | خ | ث | ج | ز |
-| ج | ز | ظ | ش | ف | خ | ث |
-| خ | ث | ج | ز | ظ | ش | ف |
-| ش | ف | خ | ث | ج | ز | ظ |
-| ز | ظ | ش | ف | خ | ث | ج |
-| ث | ج | ز | ظ | ش | ف | خ |
+| f | j | sh | th | kh | z | ẓ |
+| ẓ | sh | f | kh | th | j | z |
+| j | z | ẓ | sh | f | kh | th |
+| kh | th | j | z | ẓ | sh | f |
+| sh | f | kh | th | j | z | ẓ |
+| z | ẓ | sh | f | kh | th | j |
+| th | j | z | ẓ | sh | f | kh |
 
 The letter shīn is for Mars, and its day is Tuesday
-| ش | ف | خ | ث | ج | ز | ظ |
-| ز | ظ | ش | ف | خ | ث | ج |
-| ج | ز | ظ | ش | ف | خ | ث |
-| ف | خ | ث | ج | ز | ظ | ش |
-| ظ | ش | ف | خ | ث | ج | ز |
-| ج | ز | ظ | ش | ف | خ | ث |
-| خ | ث | ج | ز | ظ | ش | ف |
+| sh | f | kh | th | j | z | ẓ |
+| z | ẓ | sh | f | kh | th | j |
+| j | z | ẓ | sh | f | kh | th |
+| f | kh | th | j | z | ẓ | sh |
+| ẓ | sh | f | kh | th | j | z |
+| j | z | ẓ | sh | f | kh | th |
+| kh | th | j | z | ẓ | sh | f |
 
 The letter ẓā’ is for Jupiter, and its day is Thursday
-| ظ | ش | ف | خ | ث | ج | ز |
-| ث | ج | ز | ظ | ش | ف | خ |
-| ف | خ | ث | ج | ز | ظ | ش |
-| ش | خ | ف | ج | ث | ز | ظ |
-| ز | ظ | ش | ف | خ | ث | ج |
-| ج | ث | ز | ظ | ش | خ | ف |
-| خ | ف | ج | ث | ز | ظ | ش |
+| ẓ | sh | f | kh | th | j | z |
+| th | j | z | ẓ | sh | f | kh |
+| f | kh | th | j | z | ẓ | sh |
+| sh | kh | f | j | th | z | ẓ |
+| z | ẓ | sh | f | kh | th | j |
+| j | th | z | ẓ | sh | kh | f |
+| kh | f | j | th | z | ẓ | sh |
 
 The letter jīm is for the moon, and its day is Monday
-| ج | ث | ز | ظ | ش | ف | خ |
-| خ | ث | ج | ز | ظ | ش | ف |
-| ف | خ | ث | ج | ز | ظ | ش |
-| ز | ظ | ش | ف | خ | ث | ج |
-| ث | ج | ز | ظ | ش | ف | خ |
-| ف | خ | ث | ج | ز | ظ | ش |
-| ظ | ش | ف | خ | ث | ج | ز |
+| j | th | z | ẓ | sh | f | kh |
+| kh | th | j | z | ẓ | sh | f |
+| f | kh | th | j | z | ẓ | sh |
+| z | ẓ | sh | f | kh | th | j |
+| th | j | z | ẓ | sh | f | kh |
+| f | kh | th | j | z | ẓ | sh |
+| ẓ | sh | f | kh | th | j | z |
 
 The letter thā’ is for Mercury, and its day is Wednesday
-| ث | ج | ز | ظ | ش | ف | خ |
-| ش | ف | خ | ث | ج | ز | ظ |
-| ظ | ش | ف | خ | ث | ج | ز |
-| ج | ز | ظ | ش | ف | خ | ث |
-| ش | ف | خ | ث | ج | ز | ظ |
-| ظ | ش | ف | خ | ث | ج | ز |
-| ث | ج | ز | ظ | ش | ف | خ |
+| th | j | z | ẓ | sh | f | kh |
+| sh | f | kh | th | j | z | ẓ |
+| ẓ | sh | f | kh | th | j | z |
+| j | z | ẓ | sh | f | kh | th |
+| sh | f | kh | th | j | z | ẓ |
+| ẓ | sh | f | kh | th | j | z |
+| th | j | z | ẓ | sh | f | kh |
 
 The letter ḥā’ is for Venus, and its day is Friday
-| خ | ث | ج | ز | ظ | ش | ف |
-| ش | ف | خ | ث | ج | ز | ظ |
-| ز | ظ | ش | ف | خ | ث | ج |
-| ث | ج | ز | ظ | ش | ف | خ |
-| ف | خ | ث | ج | ز | ظ | ش |
-| ظ | ش | ف | خ | ث | ج | ز |
-| ج | ز | ظ | ش | ف | خ | ث |
+| kh | th | j | z | ẓ | sh | f |
+| sh | f | kh | th | j | z | ẓ |
+| z | ẓ | sh | f | kh | th | j |
+| th | j | z | ẓ | sh | f | kh |
+| f | kh | th | j | z | ẓ | sh |
+| ẓ | sh | f | kh | th | j | z |
+| j | z | ẓ | sh | f | kh | th |
 
 (Chapter)
 
 Indonesia:
-- ١٠٦ -
+- 106 -
 
 Huruf fa untuk matahari dan baginya hari الأحد
-| ف | ج | ش | ث | خ | ز | ظ |
-| ظ | ش | ف | خ | ث | ج | ز |
-| ج | ز | ظ | ش | ف | خ | ث |
-| خ | ث | ج | ز | ظ | ش | ف |
-| ش | ف | خ | ث | ج | ز | ظ |
-| ز | ظ | ش | ف | خ | ث | ج |
-| ث | ج | ز | ظ | ش | ف | خ |
+| f | j | sh | th | kh | z | ẓ |
+| ẓ | sh | f | kh | th | j | z |
+| j | z | ẓ | sh | f | kh | th |
+| kh | th | j | z | ẓ | sh | f |
+| sh | f | kh | th | j | z | ẓ |
+| z | ẓ | sh | f | kh | th | j |
+| th | j | z | ẓ | sh | f | kh |
 
 Huruf syin untuk Mars dan baginya hari Selasa
-| ش | ف | خ | ث | ج | ز | ظ |
-| ز | ظ | ش | ف | خ | ث | ج |
-| ج | ز | ظ | ش | ف | خ | ث |
-| ف | خ | ث | ج | ز | ظ | ش |
-| ظ | ش | ف | خ | ث | ج | ز |
-| ج | ز | ظ | ش | ف | خ | ث |
-| خ | ث | ج | ز | ظ | ش | ف |
+| sh | f | kh | th | j | z | ẓ |
+| z | ẓ | sh | f | kh | th | j |
+| j | z | ẓ | sh | f | kh | th |
+| f | kh | th | j | z | ẓ | sh |
+| ẓ | sh | f | kh | th | j | z |
+| j | z | ẓ | sh | f | kh | th |
+| kh | th | j | z | ẓ | sh | f |
 
 Huruf zha untuk Jupiter dan baginya hari Kamis
-| ظ | ش | ف | خ | ث | ج | ز |
-| ث | ج | ز | ظ | ش | ف | خ |
-| ف | خ | ث | ج | ز | ظ | ش |
-| ش | خ | ف | ج | ث | ز | ظ |
-| ز | ظ | ش | ف | خ | ث | ج |
-| ج | ث | ز | ظ | ش | خ | ف |
-| خ | ف | ج | ث | ز | ظ | ش |
+| ẓ | sh | f | kh | th | j | z |
+| th | j | z | ẓ | sh | f | kh |
+| f | kh | th | j | z | ẓ | sh |
+| sh | kh | f | j | th | z | ẓ |
+| z | ẓ | sh | f | kh | th | j |
+| j | th | z | ẓ | sh | kh | f |
+| kh | f | j | th | z | ẓ | sh |
 
 Huruf jim untuk bulan dan baginya hari Senin
-| ج | ث | ز | ظ | ش | ف | خ |
-| خ | ث | ج | ز | ظ | ش | ف |
-| ف | خ | ث | ج | ز | ظ | ش |
-| ز | ظ | ش | ف | خ | ث | ج |
-| ث | ج | ز | ظ | ش | ف | خ |
-| ف | خ | ث | ج | ز | ظ | ش |
-| ظ | ش | ف | خ | ث | ج | ز |
+| j | th | z | ẓ | sh | f | kh |
+| kh | th | j | z | ẓ | sh | f |
+| f | kh | th | j | z | ẓ | sh |
+| z | ẓ | sh | f | kh | th | j |
+| th | j | z | ẓ | sh | f | kh |
+| f | kh | th | j | z | ẓ | sh |
+| ẓ | sh | f | kh | th | j | z |
 
 Huruf tsa untuk Merkurius dan baginya hari Rabu
-| ث | ج | ز | ظ | ش | ف | خ |
-| ش | ف | خ | ث | ج | ز | ظ |
-| ظ | ش | ف | خ | ث | ج | ز |
-| ج | ز | ظ | ش | ف | خ | ث |
-| ش | ف | خ | ث | ج | ز | ظ |
-| ظ | ش | ف | خ | ث | ج | ز |
-| ث | ج | ز | ظ | ش | ف | خ |
+| th | j | z | ẓ | sh | f | kh |
+| sh | f | kh | th | j | z | ẓ |
+| ẓ | sh | f | kh | th | j | z |
+| j | z | ẓ | sh | f | kh | th |
+| sh | f | kh | th | j | z | ẓ |
+| ẓ | sh | f | kh | th | j | z |
+| th | j | z | ẓ | sh | f | kh |
 
 Huruf ha untuk Venus dan baginya hari Jumat
-| خ | ث | ج | ز | ظ | ش | ف |
-| ش | ف | خ | ث | ج | ز | ظ |
-| ز | ظ | ش | ف | خ | ث | ج |
-| ث | ج | ز | ظ | ش | ف | خ |
-| ف | خ | ث | ج | ز | ظ | ش |
-| ظ | ش | ف | خ | ث | ج | ز |
-| ج | ز | ظ | ش | ف | خ | ث |
+| kh | th | j | z | ẓ | sh | f |
+| sh | f | kh | th | j | z | ẓ |
+| z | ẓ | sh | f | kh | th | j |
+| th | j | z | ẓ | sh | f | kh |
+| f | kh | th | j | z | ẓ | sh |
+| ẓ | sh | f | kh | th | j | z |
+| j | z | ẓ | sh | f | kh | th |
 
 (الفصل)
