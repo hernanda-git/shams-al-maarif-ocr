@@ -202,7 +202,7 @@ export default function ReaderApp({
         themeLabel={themeLabel}
         fontSize={store.fontSize}
         onFont={(d) =>
-          store.setFontSize(Math.min(34, Math.max(14, store.fontSize + d * 2)))
+          store.setFontSize(Math.min(72, Math.max(4, store.fontSize + d * 2)))
         }
         page={page}
         total={TOTAL_PAGES}
