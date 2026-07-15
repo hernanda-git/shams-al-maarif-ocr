@@ -6,19 +6,26 @@ language and system prompt differ. NO generation, paraphrasing, or summarization
 the output must be EXACT Bahasa Indonesia translation following the same rules
 as the English workers in this repo.
 
-Uses OpenAI gpt-5.4-mini via Responses API with multi-key rotation.
+Uses OpenAI gpt-4.1-mini (default) or OpenRouter (TRANSLATE_PROVIDER=openrouter,
+e.g. tencent/hy3:free) via Responses API. OpenRouter's free reasoning models
+are run with reasoning disabled (effort: none) so they emit a clean translation.
+Multi-key rotation is used for the OpenAI path; OpenRouter uses a single key.
 
 Key rotation: 8 API keys shared across calls. On 429 rate limit, rotates
 to next key. Index persists in state file across runs.
 
 Batch mode: packs 3 pages per API call to respect free tier limits.
 
-Usage:
+Usage (OpenAI):
   python3 translate_id.py --gentle   # Process 6 pages (2 API calls, 15s apart)
   python3 translate_id.py --range 1-50
   python3 translate_id.py --status
   python3 translate_id.py --retry-failed
   python3 translate_id.py --all
+
+Usage (OpenRouter, e.g. free tencent/hy3):
+  TRANSLATE_PROVIDER=openrouter OPENROUTER_API_KEY=sk-or-... python3 translate_id.py --all
+  # optional: TRANSLATE_MODEL=tencent/hy3:free (default for openrouter)
 """
 
 import os
@@ -28,25 +35,55 @@ import time
 import sys
 import argparse
 import requests
-from translate_keys import DECODED_KEYS as API_KEYS
+from translate_keys import DECODED_KEYS as OPENAI_KEYS
 
 # ─────────────────────────────────────────────────────────
-# CONFIG
+# PROVIDER CONFIG
+#   Set TRANSLATE_PROVIDER=openrouter to use OpenRouter instead of OpenAI.
+#   OpenRouter key goes in OPENROUTER_API_KEY (env) — never committed.
+#   Endpoint mirrors the OpenAI Responses API shape, so the request/parse
+#   logic below is unchanged.
 # ─────────────────────────────────────────────────────────
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-SOURCE_DIR = os.path.join(BASE_DIR, "enriched")
-OUTPUT_DIR = os.path.join(BASE_DIR, "enriched_id")
-STATE_FILE = os.path.join(BASE_DIR, ".translate_state_id.json")
+PROVIDER = os.environ.get("TRANSLATE_PROVIDER", "openai").lower()
+if PROVIDER == "openrouter":
+    API_BASE = "https://openrouter.ai/api/v1/responses"
+    OR_KEY = os.environ.get("OPENROUTER_API_KEY", "")
+    if not OR_KEY:
+        print("ERROR: TRANSLATE_PROVIDER=openrouter but OPENROUTER_API_KEY not set")
+        sys.exit(1)
+    API_KEYS = [OR_KEY]
+    EXTRA_HEADERS = {
+        "HTTP-Referer": "https://localhost/shams",
+        "X-Title": "shams-al-maarif-id",
+    }
+    MODEL = os.environ.get("TRANSLATE_MODEL", "tencent/hy3:free")
+    # hy3:free is a reasoning model that starves its own answer of tokens.
+    # Disable the reasoning trace so it emits a clean message output.
+    PROVIDER_EXTRA = {"reasoning": {"effort": "none"}}
+else:
+    API_BASE = "https://api.openai.com/v1/responses"
+    API_KEYS = OPENAI_KEYS
+    EXTRA_HEADERS = {}
+    MODEL = "gpt-4.1-mini"
+    PROVIDER_EXTRA = {}
 
-MODEL = "gpt-4.1-mini"
 PAGES_PER_BATCH = 3     # pages packed in a single API call
 API_DELAY = 15           # seconds between API calls
 GENTLE_RUNS = 2          # API calls per --gentle run (= 6 pages)
 KEY_COUNT = len(API_KEYS)
 
 if KEY_COUNT == 0:
-    print("ERROR: No API keys loaded from translate_keys.py")
+    print("ERROR: No API keys loaded")
     sys.exit(1)
+
+
+# ─────────────────────────────────────────────────────────
+# PATHS
+# ─────────────────────────────────────────────────────────
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+SOURCE_DIR = os.path.join(BASE_DIR, "enriched")
+OUTPUT_DIR = os.path.join(BASE_DIR, "enriched_id")
+STATE_FILE = os.path.join(BASE_DIR, ".translate_state_id.json")
 
 
 # ─────────────────────────────────────────────────────────
@@ -166,12 +203,13 @@ def translate_batch(page_files):
     )
 
     tried_keys = set()
+    max_retry_after = 0  # longest Retry-After seen across keys (TPM recovery hint)
 
     for attempt in range(KEY_COUNT * 2):  # enough to try all keys + 1 full cycle
         # Mark current key as tried
         tried_keys.add(key_idx)
 
-        headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
+        headers = {**{"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}, **EXTRA_HEADERS}
         payload = {
             "model": MODEL,
             "input": [
@@ -179,27 +217,36 @@ def translate_batch(page_files):
                 {"role": "user", "content": user_msg}
             ],
             "max_output_tokens": 8192,
-            "temperature": 0.1
+            "temperature": 0.1,
+            **PROVIDER_EXTRA
         }
 
         try:
             resp = requests.post(
-                "https://api.openai.com/v1/responses",
+                API_BASE,
                 headers=headers,
                 json=payload,
                 timeout=300
             )
 
-            if resp.status_code == 429:
-                # Rate limited — rotate to next key
+            if resp.status_code in (429, 401):
+                # 429 = rate limited; 401 on OpenRouter's free models is a
+                # transient throttle (free-tier quota hit) — treat as retryable.
+                ra = resp.headers.get("Retry-After")
+                try:
+                    wait = int(ra) if ra else 10
+                except (TypeError, ValueError):
+                    wait = 10
+                max_retry_after = max(max_retry_after, wait)
                 old_idx = key_idx
                 key_idx, api_key = rotate_key(state)
-                print(f"⚠ key[{old_idx}] rate-limited → key[{key_idx}]", end=" ", flush=True)
-                time.sleep(2)
+                tag = "rate-limited" if resp.status_code == 429 else "throttled(401)"
+                print(f"⚠ key[{old_idx}] {tag} (retry-after {wait}s) → key[{key_idx}]", end=" ", flush=True)
+                time.sleep(wait)
                 continue
 
             if resp.status_code != 200:
-                # Non-429 error — also try next key as fallback
+                # Other non-200 error — try next key as fallback
                 old_idx = key_idx
                 key_idx, api_key = rotate_key(state)
                 print(f"⚠ key[{old_idx}] HTTP {resp.status_code} → key[{key_idx}]", end=" ", flush=True)
@@ -210,11 +257,23 @@ def translate_batch(page_files):
 
             # Extract output text
             output_text = ""
+            reasoning_text = ""
             for item in data.get("output", []):
                 if item.get("type") == "message":
                     for c in item.get("content", []):
                         if c.get("type") == "output_text":
                             output_text += c.get("text", "")
+                elif item.get("type") == "reasoning":
+                    # hy3:free (and other reasoning models) may put the entire
+                    # translation inside the reasoning trace with status=incomplete
+                    # and emit no message item. Fall back to parsing it.
+                    for c in item.get("content", []):
+                        if c.get("type") == "reasoning_text":
+                            reasoning_text += c.get("text", "")
+
+            # Prefer the real message output; fall back to reasoning trace.
+            if not output_text and reasoning_text and "Indonesia:" in reasoning_text:
+                output_text = reasoning_text
 
             if not output_text:
                 print(f"  key[{key_idx}] empty response → rotating...", end=" ", flush=True)
@@ -238,44 +297,60 @@ def translate_batch(page_files):
             time.sleep(5)
             continue
 
-    # All keys exhausted — wait 60s for TPM window to reset, then try once more from key[0]
-    print(f"\n  ⚠ All {KEY_COUNT} keys exhausted. Waiting 60s for TPM reset...")
-    time.sleep(60)
+    # All keys exhausted — wait for TPM window to reset, then retry a few times
+    # with progressive backoff so the job self-heals when quota recovers
+    # (instead of marking pages failed and needing a manual --retry-failed).
+    wait = max(60, max_retry_after)
+    for cycle in range(4):
+        print(f"\n  ⚠ All {KEY_COUNT} keys exhausted. Waiting {wait}s for TPM reset (cycle {cycle+1}/4)...")
+        time.sleep(wait)
 
-    # Reset to key[0] for last attempt
-    state = load_state()
-    state["key_index"] = 0
-    save_state(state)
-    api_key = API_KEYS[0]
-    print("  Retrying with key[0] after 60s pause...", end=" ", flush=True)
+        # Reset to key[0] for fresh attempt
+        state = load_state()
+        state["key_index"] = 0
+        save_state(state)
+        api_key = API_KEYS[0]
+        print("  Retrying with key[0] after pause...", end=" ", flush=True)
 
-    try:
-        headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
-        resp = requests.post(
-            "https://api.openai.com/v1/responses",
-            headers=headers,
-            json=payload,
-            timeout=300
-        )
-        if resp.status_code == 200:
-            data = resp.json()
-            output_text = ""
-            for item in data.get("output", []):
-                if item.get("type") == "message":
-                    for c in item.get("content", []):
-                        if c.get("type") == "output_text":
-                            output_text += c.get("text", "")
-            if output_text:
-                print("OK after reset!")
-                return _split_and_write(page_files, output_text)
-        print(f"Still failing: HTTP {resp.status_code}")
-    except Exception as e:
-        print(f"Still failing: {e}")
+        try:
+            headers = {**{"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}, **EXTRA_HEADERS}
+            resp = requests.post(
+                API_BASE,
+                headers=headers,
+                json=payload,
+                timeout=300
+            )
+            if resp.status_code == 200:
+                data = resp.json()
+                output_text = ""
+                for item in data.get("output", []):
+                    if item.get("type") == "message":
+                        for c in item.get("content", []):
+                            if c.get("type") == "output_text":
+                                output_text += c.get("text", "")
+                if output_text:
+                    print("OK after reset!")
+                    return _split_and_write(page_files, output_text)
+            elif resp.status_code == 429:
+                ra = resp.headers.get("Retry-After")
+                try:
+                    wait = max(wait, int(ra)) if ra else wait * 2
+                except (TypeError, ValueError):
+                    wait = wait * 2
+                wait = min(wait, 600)
+                print(f"Still rate-limited (HTTP 429), backing off to {wait}s")
+                continue
+            else:
+                print(f"Still failing: HTTP {resp.status_code}")
+        except Exception as e:
+            print(f"Still failing: {e}")
+            wait = min(wait * 2, 600)
+        wait = min(wait * 2, 600)
 
     # Definitely failed
     results = []
     for pf in page_files:
-        results.append((pf, None, "All keys exhausted + 60s wait failed"))
+        results.append((pf, None, "All keys exhausted + backoff retries failed"))
     return results
 
 
@@ -299,14 +374,30 @@ def _split_and_write(page_files, output_text):
             if pn in page_nums:
                 by_page[pn] = m.group(2).strip()
 
-    # Strategy 3: Split on "Arabic:" sections
+    # Strategy 3: Split on "Arabic:" sections.
+    # Reasoning models (hy3:free) may echo the system-prompt template
+    # ("Arabic: [teks asli] ...") BEFORE the real output. So we only accept
+    # a section whose Arabic part contains actual Arabic-script characters,
+    # and if several qualify we keep the LAST (the real translation).
     if len(by_page) < len(page_files):
         sections = re.split(r'\n(?=Arabic:)', output_text)
-        if len(sections) >= len(page_files):
-            for idx, pf in enumerate(page_files):
-                pn = get_page_num(pf)
-                if idx < len(sections):
-                    by_page[pn] = sections[idx].strip()
+        for idx, pf in enumerate(page_files):
+            pn = get_page_num(pf)
+            if pn in by_page:
+                continue
+            # candidate sections from the end (real output is last)
+            cands = [s for s in sections if s.strip().startswith("Arabic:")]
+            chosen = None
+            for s in reversed(cands):
+                arabic_seg = re.search(r'Arabic:\s*\n(.*?)(?=Indonesia:|Notes:|$)',
+                                       s, re.DOTALL)
+                body = arabic_seg.group(1).strip() if arabic_seg else ""
+                # real Arabic source must contain Arabic unicode block
+                if re.search(r'[\u0600-\u06FF]', body):
+                    chosen = s.strip()
+                    break
+            if chosen is not None:
+                by_page[pn] = chosen
 
     # Write files
     for pf in page_files:
@@ -508,24 +599,31 @@ def _translate_single(text):
             {"role": "user", "content": f"Terjemahkan halaman Arab ini secara verbatim ke Bahasa Indonesia (Arabic: lalu Indonesia:):\n\n{text}"}
         ],
         "max_output_tokens": 8192,
-        "temperature": 0.1
+        "temperature": 0.1,
+        **PROVIDER_EXTRA
     }
 
-    for attempt in range(KEY_COUNT * 2):
+    for attempt in range(max(KEY_COUNT * 2, 12)):  # more retries for single-key OpenRouter
         state = load_state()
         key_idx, api_key = get_api_key(state)
-        headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
+        headers = {**{"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}, **EXTRA_HEADERS}
 
         try:
             resp = requests.post(
-                "https://api.openai.com/v1/responses",
+                API_BASE,
                 headers=headers, json=payload_template, timeout=180
             )
 
-            if resp.status_code == 429:
+            if resp.status_code in (429, 401):
+                ra = resp.headers.get("Retry-After")
+                try:
+                    wait = int(ra) if ra else 10
+                except (TypeError, ValueError):
+                    wait = 10
                 rotate_key(state)
-                print(f"⚠ key[{key_idx}] rate-limited → key[{(key_idx+1)%KEY_COUNT}]", end=" ", flush=True)
-                time.sleep(2)
+                tag = "rate-limited" if resp.status_code == 429 else "throttled(401)"
+                print(f"⚠ key[{key_idx}] {tag} → retry in {wait}s", end=" ", flush=True)
+                time.sleep(wait)
                 continue
 
             if resp.status_code != 200:
@@ -536,11 +634,18 @@ def _translate_single(text):
 
             data = resp.json()
             output_text = ""
+            reasoning_text = ""
             for item in data.get("output", []):
                 if item.get("type") == "message":
                     for c in item.get("content", []):
                         if c.get("type") == "output_text":
                             output_text += c.get("text", "")
+                elif item.get("type") == "reasoning":
+                    for c in item.get("content", []):
+                        if c.get("type") == "reasoning_text":
+                            reasoning_text += c.get("text", "")
+            if not output_text and reasoning_text and "Indonesia:" in reasoning_text:
+                output_text = reasoning_text
             return output_text or None, ("Empty response" if not output_text else None)
 
         except Exception as e:
@@ -556,9 +661,9 @@ def _translate_single(text):
     state["key_index"] = 0
     save_state(state)
     try:
-        headers = {"Authorization": f"Bearer {API_KEYS[0]}", "Content-Type": "application/json"}
+        headers = {**{"Authorization": f"Bearer {API_KEYS[0]}", "Content-Type": "application/json"}, **EXTRA_HEADERS}
         resp = requests.post(
-            "https://api.openai.com/v1/responses",
+            API_BASE,
             headers=headers, json=payload_template, timeout=180
         )
         if resp.status_code == 200:

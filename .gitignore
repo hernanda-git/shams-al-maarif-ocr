@@ -8,6 +8,8 @@ secrets/
 translate_keys.py
 .translate_env
 .translate_state.json
+.openrouter_key
+.translate_id_daily.lock
 
 # Local tooling (developer environment, not project source)
 .openclaude/

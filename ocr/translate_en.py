@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Verbatin Arabic→English translation of Shams al-Ma'arif enriched OCR pages.
-Uses OpenAI gpt-5.4-mini via Responses API with multi-key rotation.
+Uses OpenAI gpt-4.1-mini via Responses API with multi-key rotation.
 
 Key rotation: 8 API keys shared across calls. On 429 rate limit, rotates
 to next key. Index persists in state file across runs.
@@ -33,7 +33,7 @@ SOURCE_DIR = os.path.join(BASE_DIR, "enriched")
 OUTPUT_DIR = os.path.join(BASE_DIR, "enriched_en")
 STATE_FILE = os.path.join(BASE_DIR, ".translate_state.json")
 
-MODEL = "gpt-5.4-mini"
+MODEL = "gpt-4.1-mini"
 PAGES_PER_BATCH = 3     # pages packed in a single API call
 API_DELAY = 15           # seconds between API calls
 GENTLE_RUNS = 2          # API calls per --gentle run (= 6 pages)

@@ -17,8 +17,9 @@ import os
 import re
 from pathlib import Path
 
-ENRICHED_DIR = Path("/mnt/c/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_en")
-OUTPUT_DIR   = Path("/mnt/c/Working Folder/Research/shams-al-maarif-ocr/ocr/chapters_en")
+ROOT         = Path(__file__).resolve().parent.parent
+ENRICHED_DIR = ROOT / "ocr" / "enriched_en"
+OUTPUT_DIR   = ROOT / "ocr" / "chapters_en"
 
 # ── Curated chapter-to-start-page mapping ──
 # Page numbers = enriched_en file numbers (page_001.txt .. page_604.txt)

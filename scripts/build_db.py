@@ -15,9 +15,10 @@ import re
 import sqlite3
 from pathlib import Path
 
-CHAPTERS_DIR = Path("/mnt/c/Working Folder/Research/shams-al-maarif-ocr/ocr/chapters_en")
-ENRICHED_DIR = Path("/mnt/c/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_en")
-DB_PATH      = Path("/mnt/c/Working Folder/Research/shams-al-maarif-ocr/ocr/shams_chapters.db")
+ROOT         = Path(__file__).resolve().parent.parent
+CHAPTERS_DIR = ROOT / "ocr" / "chapters_en"
+ENRICHED_DIR = ROOT / "ocr" / "enriched_en"
+DB_PATH      = ROOT / "ocr" / "shams_chapters.db"
 
 # Chapter metadata (same as group_by_chapters.py)
 CHAPTERS = {

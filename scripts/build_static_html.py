@@ -11,8 +11,9 @@ import re
 import sqlite3
 from pathlib import Path
 
-DB_PATH   = Path("/mnt/c/Working Folder/Research/shams-al-maarif-ocr/ocr/shams_chapters.db")
-HTML_PATH = Path("/mnt/c/Working Folder/Research/shams-al-maarif-ocr/ocr/shams-al-maarif-static.html")
+ROOT      = Path(__file__).resolve().parent.parent
+DB_PATH   = ROOT / "ocr" / "shams_chapters.db"
+HTML_PATH = ROOT / "ocr" / "shams-al-maarif-static.html"
 
 HTML_TEMPLATE = r'''<!DOCTYPE html>
 <html lang="en" dir="ltr">

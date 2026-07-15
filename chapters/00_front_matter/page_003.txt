@@ -1,0 +1,8 @@
+Arabic:
+هذا المستند عبارة عن صفحة فارغة (غلاف داخلي أو صفحة بيضاء) ولا يحتوي على أي نصوص عربية.
+
+English:
+This document is عبارة عن a blank page (an inner cover or a white page) and does not contain any Arabic texts.
+
+Indonesia:
+Dokumen ini adalah sebuah halaman kosong (sampul dalam atau halaman putih) dan tidak memuat teks Arab apa pun.

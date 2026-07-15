@@ -1,0 +1,3 @@
+ocr/enriched_id/page_105.txt
+ocr/enriched_id/page_109.txt
+ocr/enriched_id/page_129.txt
