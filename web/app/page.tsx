@@ -26,7 +26,33 @@ function readManuscriptArray(): unknown[] {
   return [];
 }
 
-export default function Page() {
+export default async function Page({
+  searchParams,
+}: {
+  searchParams: Promise<Record<string, string | string[] | undefined>>;
+}) {
   const pages = readManuscriptArray();
-  return <ReaderApp serverPages={pages} />;
+  const sp = await searchParams;
+
+  // Deep-link support: ?page=N&lang=ar|en|id&mode=text|page
+  const q = (k: string): string | undefined => {
+    const v = sp[k];
+    return Array.isArray(v) ? v[0] : v;
+  };
+  const p = parseInt(q("page") || "", 10);
+  const initialPage = Number.isFinite(p) && p >= 1 && p <= 600 ? p : 1;
+  const l = q("lang");
+  const initialLang =
+    l === "ar" || l === "en" || l === "id" ? (l as "ar" | "en" | "id") : "en";
+  const m = q("mode");
+  const initialMode = m === "text" || m === "page" ? (m as "text" | "page") : "text";
+
+  return (
+    <ReaderApp
+      serverPages={pages}
+      initialPage={initialPage}
+      initialLang={initialLang}
+      initialMode={initialMode}
+    />
+  );
 }

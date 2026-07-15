@@ -15,12 +15,22 @@ import { ImportPanel } from "@/components/ImportPanel";
 
 const SCROLL_KEY = (p: number) => `shams-scroll-p${p}`;
 
-export default function ReaderApp({ serverPages }: { serverPages?: unknown }) {
+export default function ReaderApp({
+  serverPages,
+  initialPage = 1,
+  initialLang = "en",
+  initialMode = "text",
+}: {
+  serverPages?: unknown;
+  initialPage?: number;
+  initialLang?: Lang;
+  initialMode?: ViewMode;
+}) {
   const store = useReaderStore();
 
-  const [lang, setLang] = useState<Lang>("en");
-  const [mode, setMode] = useState<ViewMode>("text");
-  const [page, setPage] = useState<number>(1);
+  const [lang, setLang] = useState<Lang>(initialLang);
+  const [mode, setMode] = useState<ViewMode>(initialMode);
+  const [page, setPage] = useState<number>(initialPage);
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [gridOpen, setGridOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
@@ -45,21 +55,11 @@ export default function ReaderApp({ serverPages }: { serverPages?: unknown }) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  // Deep-link + lastRead applied once on mount for convenience only.
+  // Restore last-read position on mount ONLY when there is no deep-link in
+  // the URL (deep-link values are already applied via initial state above).
   useEffect(() => {
-    try {
-      const q = new URLSearchParams(window.location.search);
-      const p = parseInt(q.get("page") || "", 10);
-      if (Number.isFinite(p) && p >= 1 && p <= TOTAL_PAGES) setPage(p);
-      const l = q.get("lang");
-      if (l === "ar" || l === "en" || l === "id") setLang(l);
-      const m = q.get("mode");
-      if (m === "text" || m === "page") setMode(m);
-    } catch {
-      /* ignore */
-    }
-    // lastRead overrides deep-link only if no deep-link was provided
-    if (store.lastRead && !window.location.search) {
+    if (window.location.search) return; // deep-link wins
+    if (store.lastRead) {
       setLang(store.lastRead.lang);
       setMode(store.lastRead.mode);
       setPage(store.lastRead.page);
