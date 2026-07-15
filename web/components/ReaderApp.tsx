@@ -15,6 +15,11 @@ import { ImportPanel } from "@/components/ImportPanel";
 
 const SCROLL_KEY = (p: number) => `shams-scroll-p${p}`;
 
+// Auto-scroll speed per integer level, in px/s (index 0 = off). Tuned so each
+// step is clearly perceptible: 1 ≈ gentle, 2 ≈ normal read, 3 ≈ brisk, 4 ≈ fast.
+// (Previously a fixed `speed * 40` made level 1 ≈ 0 due to a rAF re-init bug.)
+const AUTO_SPEED_PXPS = [0, 30, 60, 110, 180];
+
 export default function ReaderApp({
   serverPages,
   initialPage = 1,
@@ -152,7 +157,7 @@ export default function ReaderApp({
       last = now;
       const node = scrollRef.current;
       if (node) {
-        node.scrollTop += autoSpeed * 40 * dt; // px/s = speed * 40
+        node.scrollTop += AUTO_SPEED_PXPS[autoSpeed] * dt; // px/s from level table
         const atBottom =
           node.scrollHeight - node.scrollTop - node.clientHeight <= 4;
         if (atBottom) {
