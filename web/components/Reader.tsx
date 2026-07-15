@@ -1,6 +1,7 @@
 "use client";
 
 import { ManuscriptPage, Lang } from "@/lib/types";
+import { ReaderText } from "./ReaderText";
 
 export function Reader({
   page,
@@ -57,9 +58,7 @@ export function Reader({
         className={"reading-column " + (isAr ? "arabic" : "")}
         style={{ fontSize: `${fontSize}px` }}
       >
-        {data.text[lang].split("\n\n").map((para, i) => (
-          <p key={i}>{para}</p>
-        ))}
+        <ReaderText text={data.text[lang]} isAr={isAr} />
       </div>
 
       <div className="ornament my-8" />

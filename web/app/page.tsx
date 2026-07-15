@@ -3,6 +3,11 @@ import ReaderApp from "@/components/ReaderApp";
 import path from "path";
 import { readFileSync } from "fs";
 
+// Read the manuscript fresh on every request — never statically prerender from a
+// build-time snapshot (the JSON is large and updated out-of-band).
+export const dynamic = "force-dynamic";
+export const revalidate = 0;
+
 // Resolve the bundled manuscript JSON at build/SSR time so the first paint
 // already contains real text (no client fetch -> no content flash).
 const JSON_PATH = path.join(process.cwd(), "public", "manuscript.json");

@@ -1,6 +1,7 @@
 "use client";
 
 import { Lang } from "@/lib/types";
+import { ReaderText } from "./ReaderText";
 
 /**
  * Renders the "scanned" (non-OCR) page.
@@ -34,8 +35,10 @@ export function PageViewer({
   onBookmark: () => void;
   bookmarked: boolean;
 }) {
-  const src =
-    scanSrc || `https://shamsmaarif.warga-digital.com/page-${String(page).padStart(3, "0")}.pdf`;
+  // Route the scan through our same-origin proxy (/api/scan/N) so the PDF
+  // iframe is same-origin and never blocked by Cloudflare cross-origin / hotlink
+  // protection on the public R2 domain. (The proxy streams the public bucket.)
+  const src = `/api/scan/${page}`;
   const isRtl = lang === "ar";
 
   // --- Fallback: no scan source -> show OCR transcription ---
@@ -55,9 +58,7 @@ export function PageViewer({
         <div className="w-full rounded-[var(--radius-card)] border border-[var(--color-border)] bg-[var(--color-bg-2)] p-6 shadow-2xl">
           <div className="ornament mb-6" />
           <div className={"reading-column " + (isRtl ? "arabic" : "")} style={{ fontSize: "20px" }}>
-            {(fallbackText || "(no text for this page)").split("\n\n").map((para, i) => (
-              <p key={i}>{para}</p>
-            ))}
+            <ReaderText text={fallbackText || "(no text for this page)"} isAr={isRtl} />
           </div>
           <div className="ornament my-8" />
           <p className="text-center text-xs text-[var(--color-muted)]">
@@ -75,7 +76,7 @@ export function PageViewer({
         <span>Scanned facsimile · non-OCR</span>
         <div className="flex items-center gap-2">
           <a
-            href={src}
+            href={`/api/scan/${page}`}
             target="_blank"
             rel="noreferrer"
             className="rounded px-2 py-0.5 hover:bg-[var(--color-bg)]"
