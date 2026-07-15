@@ -1,0 +1,10 @@
+Arabic:
+---
+There is no text on this page.
+---
+
+English:
+[There is no text on this page.]
+
+Indonesia:
+[Tiada teks pada halaman ini.]

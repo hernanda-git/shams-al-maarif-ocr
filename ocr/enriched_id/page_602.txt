@@ -1,0 +1,31 @@
+Arabic:
+DATE DUE
+DUE | RETURNED
+--- | ---
+DEC 21 1990 | 
+JAN 18 1991 | 
+FEB 2 1991 | 
+FEB 18 1991 | rec'd Mar 5 paid
+MAR 19 1991 | 
+
+NO 306
+
+English:
+DATE DUE
+DUE | RETURNED
+DEC 21 1990 |
+JAN 18 1991 |
+FEB 2 1991 |
+FEB 18 1991 | rec'd Mar 5 paid
+MAR 19 1991 |
+NO 306
+
+Indonesia:
+TARIKH DUE
+DUE | RETURNED (DITERIMA)
+21 DIS 1990 |
+18 JAN 1991 |
+2 FEB 1991 |
+18 FEB 1991 | diterima 5 Mac dibayar
+19 MAC 1991 |
+NO 306
