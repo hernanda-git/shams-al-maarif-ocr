@@ -105,6 +105,14 @@ export const Upload = (p: P) => (
   </svg>
 );
 
+export const AutoScroll = (p: P) => (
+  <svg {...base(p)}>
+    <path d="M12 4v9" />
+    <path d="m8 10 4 4 4-4" />
+    <path d="M5 19h14" />
+  </svg>
+);
+
 export const MoreVertical = (p: P) => (
   <svg {...base(p)}>
     <circle cx="12" cy="5" r="1.6" />

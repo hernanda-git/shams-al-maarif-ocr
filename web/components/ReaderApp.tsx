@@ -133,7 +133,79 @@ export default function ReaderApp({
 
   const themeLabel = THEMES.find((t) => t.id === store.theme)?.label ?? "Night";
 
-  // ---- keyboard nav (T1c) ----
+  const [autoSpeed, setAutoSpeed] = useState(0); // 0 = off, 1..4 = integer speed levels
+  const [bottomCountdown, setBottomCountdown] = useState<number | null>(null); // 10 -> 0 when auto-scroll hits bottom
+
+  const autoSpeedRef = useRef(autoSpeed);
+  const bottomRef = useRef(false);
+  autoSpeedRef.current = autoSpeed;
+
+  // ---- auto-scroll (smooth rAF loop; integer speed 1..4) ----
+  useEffect(() => {
+    if (autoSpeed === 0) return; // off -> no loop, no countdown
+    const el = scrollRef.current;
+    if (!el) return;
+    let raf = 0;
+    let last = performance.now();
+    const step = (now: number) => {
+      const dt = (now - last) / 1000;
+      last = now;
+      const node = scrollRef.current;
+      if (node) {
+        node.scrollTop += autoSpeed * 40 * dt; // px/s = speed * 40
+        const atBottom =
+          node.scrollHeight - node.scrollTop - node.clientHeight <= 4;
+        if (atBottom) {
+          if (!bottomRef.current) {
+            bottomRef.current = true;
+            setBottomCountdown(10); // start 10s hold at bottom, then auto next page
+          }
+        } else {
+          if (bottomRef.current) {
+            bottomRef.current = false;
+            setBottomCountdown(null);
+          }
+        }
+      }
+      raf = requestAnimationFrame(step);
+    };
+    raf = requestAnimationFrame(step);
+    return () => cancelAnimationFrame(raf);
+  }, [autoSpeed]);
+
+  // ---- 10s bottom countdown -> auto advance to next page (only when auto-scroll on) ----
+  useEffect(() => {
+    if (bottomCountdown === null) return;
+    if (bottomCountdown <= 0) {
+      setBottomCountdown(null);
+      bottomRef.current = false;
+      saveScroll();
+      jump(page + 1); // auto-scroll restarts on the new page (autoSpeed still > 0)
+      return;
+    }
+    const t = setTimeout(() => setBottomCountdown((c) => (c === null ? null : c - 1)), 1000);
+    return () => clearTimeout(t);
+  }, [bottomCountdown, page, jump, saveScroll]);
+
+  const cycleAuto = useCallback(() => {
+    setAutoSpeed((s) => (s >= 4 ? 0 : s + 1)); // 0 -> 1 -> 2 -> 3 -> 4 -> 0 (off)
+    setBottomCountdown(null);
+    bottomRef.current = false;
+  }, []);
+
+  // Stop the bottom countdown if the user manually scrolls up off the bottom.
+  const onScrollHandler = useCallback(() => {
+    saveScroll();
+    const el = scrollRef.current;
+    if (el && bottomCountdown !== null) {
+      const atBottom = el.scrollHeight - el.scrollTop - el.clientHeight <= 4;
+      if (!atBottom) {
+        setBottomCountdown(null);
+        bottomRef.current = false;
+      }
+    }
+  }, [saveScroll, bottomCountdown]);
+
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
       const tag = (e.target as HTMLElement)?.tagName;
@@ -204,6 +276,9 @@ export default function ReaderApp({
         onFont={(d) =>
           store.setFontSize(Math.min(72, Math.max(4, store.fontSize + d * 2)))
         }
+        autoSpeed={autoSpeed}
+        onCycleAuto={cycleAuto}
+        bottomCountdown={bottomCountdown}
         page={page}
         total={TOTAL_PAGES}
         sectionTitle={sectionTitle}
@@ -236,7 +311,7 @@ export default function ReaderApp({
 
           <div
             ref={scrollRef}
-            onScroll={saveScroll}
+            onScroll={onScrollHandler}
             className="min-h-0 flex-1 overflow-y-auto px-4 py-8 sm:px-8"
           >
             {mode === "text" ? (
@@ -269,6 +344,13 @@ export default function ReaderApp({
             onNext={() => jump(page + 1)}
             onJump={jump}
           />
+
+          {/* auto-scroll bottom countdown pill */}
+          {autoSpeed > 0 && bottomCountdown !== null && (
+            <div className="pointer-events-none absolute bottom-20 left-1/2 z-30 -translate-x-1/2 rounded-full border border-[var(--color-accent)] bg-[var(--color-bg-2)]/90 px-4 py-1.5 text-sm text-[var(--color-gold-soft)] shadow-lg shadow-black/40 backdrop-blur-md">
+              Auto next in {bottomCountdown}s
+            </div>
+          )}
         </main>
       </div>
 

@@ -12,6 +12,7 @@ import {
   Search,
   Upload,
   MoreVertical,
+  AutoScroll,
 } from "./icons";
 import clsx from "clsx";
 
@@ -28,6 +29,9 @@ export function TopBar({
   themeLabel,
   fontSize,
   onFont,
+  autoSpeed,
+  onCycleAuto,
+  bottomCountdown,
   page,
   total,
   sectionTitle,
@@ -44,6 +48,9 @@ export function TopBar({
   themeLabel: string;
   fontSize: number;
   onFont: (delta: number) => void;
+  autoSpeed: number;
+  onCycleAuto: () => void;
+  bottomCountdown: number | null;
   page: number;
   total: number;
   sectionTitle: string;
@@ -149,6 +156,26 @@ export function TopBar({
           <Grid />
         </button>
 
+        {/* Auto-scroll: cycle off -> 1 -> 2 -> 3 -> 4 -> off */}
+        <button
+          onClick={onCycleAuto}
+          className={clsx(
+            "hidden sm:inline-flex h-9 items-center gap-1.5 rounded-full border px-2.5 text-sm transition-colors",
+            autoSpeed > 0
+              ? "border-[var(--color-accent)] bg-[var(--color-accent)] text-[var(--color-gold-soft)]"
+              : "border-[var(--color-border)] bg-[var(--color-bg-2)] text-[var(--color-muted)] hover:text-[var(--color-fg)]"
+          )}
+          aria-label="Auto-scroll speed"
+          title={
+            autoSpeed === 0
+              ? "Auto-scroll: off"
+              : `Auto-scroll: ${autoSpeed} (click to ${autoSpeed >= 4 ? "turn off" : "speed up"})`
+          }
+        >
+          <AutoScroll width={16} height={16} />
+          <span className="tabular-nums">{autoSpeed === 0 ? "Off" : autoSpeed}</span>
+        </button>
+
         {/* Font size */}
         <div className="hidden sm:flex items-center gap-1 rounded-full border border-[var(--color-border)] bg-[var(--color-bg-2)] px-1.5 py-0.5">
           <button
@@ -238,6 +265,27 @@ export function TopBar({
               >
                 <Grid width={18} height={18} className="text-[var(--color-muted)]" />
                 Page grid
+              </button>
+
+              {/* Auto-scroll (mobile) */}
+              <button
+                onClick={run(onCycleAuto)}
+                className="flex w-full items-center justify-between gap-3 rounded-xl px-3 py-2.5 text-left text-sm text-[var(--color-fg-soft)] hover:bg-[var(--color-panel)]"
+              >
+                <span className="flex items-center gap-3">
+                  <AutoScroll width={18} height={18} className="text-[var(--color-muted)]" />
+                  Auto-scroll
+                </span>
+                <span
+                  className={clsx(
+                    "rounded-full px-2 py-0.5 text-xs",
+                    autoSpeed > 0
+                      ? "bg-[var(--color-accent)] text-[var(--color-gold-soft)]"
+                      : "border border-[var(--color-border)] text-[var(--color-muted)]"
+                  )}
+                >
+                  {autoSpeed === 0 ? "Off" : `Speed ${autoSpeed}`}
+                </span>
               </button>
 
               {/* Font size slider */}
