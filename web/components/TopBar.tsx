@@ -1,5 +1,6 @@
 "use client";
 
+import { useEffect, useRef, useState } from "react";
 import { Lang, ViewMode } from "@/lib/types";
 import { LanguageSwitcher } from "./LanguageSwitcher";
 import {
@@ -7,10 +8,10 @@ import {
   TextMode,
   PageMode,
   Sun,
-  BookOpen,
   Grid,
   Search,
   Upload,
+  MoreVertical,
 } from "./icons";
 import clsx from "clsx";
 
@@ -47,6 +48,34 @@ export function TopBar({
   total: number;
   sectionTitle: string;
 }) {
+  const [moreOpen, setMoreOpen] = useState(false);
+  const moreRef = useRef<HTMLDivElement>(null);
+
+  // Close the mobile "More" menu on outside click / Escape.
+  useEffect(() => {
+    if (!moreOpen) return;
+    const onDown = (e: MouseEvent) => {
+      if (moreRef.current && !moreRef.current.contains(e.target as Node)) {
+        setMoreOpen(false);
+      }
+    };
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape") setMoreOpen(false);
+    };
+    document.addEventListener("mousedown", onDown);
+    document.addEventListener("keydown", onKey);
+    return () => {
+      document.removeEventListener("mousedown", onDown);
+      document.removeEventListener("keydown", onKey);
+    };
+  }, [moreOpen]);
+
+  // Shared action: run it then close the menu (mobile only).
+  const run = (fn: () => void) => () => {
+    fn();
+    setMoreOpen(false);
+  };
+
   return (
     <header className="sticky top-0 z-30 flex flex-wrap items-center gap-2 border-b border-[var(--color-border)] bg-[var(--color-bg-2)]/85 px-3 py-2 backdrop-blur-md">
       <button
@@ -170,6 +199,73 @@ export function TopBar({
         </div>
 
         <LanguageSwitcher lang={lang} onChange={onLang} />
+
+        {/* Mobile "More" overflow: exposes the desktop-only controls on < sm */}
+        <div ref={moreRef} className="relative sm:hidden">
+          <button
+            onClick={() => setMoreOpen((v) => !v)}
+            className={clsx(
+              "grid h-9 w-9 place-items-center rounded-lg text-[var(--color-muted)] hover:bg-[var(--color-panel)] hover:text-[var(--color-fg)] sm:hidden",
+              moreOpen && "bg-[var(--color-panel)] text-[var(--color-fg)]"
+            )}
+            aria-label="More controls"
+            aria-expanded={moreOpen}
+          >
+            <MoreVertical />
+          </button>
+
+          {moreOpen && (
+            <div className="absolute right-0 top-11 z-50 w-56 rounded-2xl border border-[var(--color-border)] bg-[var(--color-bg-2)] p-2 shadow-2xl shadow-black/50">
+              <button
+                onClick={run(onOpenImport)}
+                className="flex w-full items-center gap-3 rounded-xl px-3 py-2.5 text-left text-sm text-[var(--color-fg-soft)] hover:bg-[var(--color-panel)]"
+              >
+                <Upload width={18} height={18} className="text-[var(--color-muted)]" />
+                Import manuscript
+              </button>
+
+              <button
+                onClick={run(onCycleTheme)}
+                className="flex w-full items-center gap-3 rounded-xl px-3 py-2.5 text-left text-sm text-[var(--color-fg-soft)] hover:bg-[var(--color-panel)]"
+              >
+                <Sun width={18} height={18} className="text-[var(--color-muted)]" />
+                Theme: {themeLabel}
+              </button>
+
+              <button
+                onClick={run(onOpenGrid)}
+                className="flex w-full items-center gap-3 rounded-xl px-3 py-2.5 text-left text-sm text-[var(--color-fg-soft)] hover:bg-[var(--color-panel)]"
+              >
+                <Grid width={18} height={18} className="text-[var(--color-muted)]" />
+                Page grid
+              </button>
+
+              {/* Font size slider */}
+              <div className="flex items-center justify-between gap-3 rounded-xl px-3 py-2.5">
+                <span className="text-sm text-[var(--color-fg-soft)]">Font size</span>
+                <div className="flex items-center gap-1 rounded-full border border-[var(--color-border)] bg-[var(--color-bg-2)] px-1.5 py-0.5">
+                  <button
+                    onClick={() => onFont(-1)}
+                    className="grid h-7 w-7 place-items-center rounded-full text-[var(--color-muted)] hover:text-[var(--color-fg)]"
+                    aria-label="Decrease font"
+                  >
+                    A-
+                  </button>
+                  <span className="w-7 text-center text-xs text-[var(--color-muted)]">
+                    {fontSize}
+                  </span>
+                  <button
+                    onClick={() => onFont(1)}
+                    className="grid h-7 w-7 place-items-center rounded-full text-[var(--color-fg)] hover:text-[var(--color-gold-soft)]"
+                    aria-label="Increase font"
+                  >
+                    A+
+                  </button>
+                </div>
+              </div>
+            </div>
+          )}
+        </div>
       </div>
     </header>
   );

@@ -104,3 +104,11 @@ export const Upload = (p: P) => (
     <path d="M4 20h16" />
   </svg>
 );
+
+export const MoreVertical = (p: P) => (
+  <svg {...base(p)}>
+    <circle cx="12" cy="5" r="1.6" />
+    <circle cx="12" cy="12" r="1.6" />
+    <circle cx="12" cy="19" r="1.6" />
+  </svg>
+);
