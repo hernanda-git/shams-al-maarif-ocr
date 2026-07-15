@@ -16,11 +16,60 @@ import { Fragment, ReactNode } from "react";
  * type so the page reads like the manuscript instead of one wrapped string.
  */
 
-const NUMERAL_RE = /^\s*—\s*[٠-٩0-9]+\s*—\s*$/;
 const TABLE_ROW_RE = /^\s*\|.*\|\s*$/;
 const HALF_VERSE_RE = /\s*\*\s*/; // the " * " caesura between hemistichs
 // a "grid art" line: packed box/ornament glyphs with little prose
 const GRID_GLYPHS = /[𐍈▢◻◼▣▤▥▦▧▨▩⬛⬜⓪①②Ⅲ✶✵]/;
+
+// --- Page-numeral header detection -----------------------------------------
+// The manuscript uses several numeral glyph sets and wrapper marks that the
+// strict `— N —` pattern misses:
+//   • Arabic-Indic digits ٠-٩ (U+0660-0669)            — ٨٩ —
+//   • Persian/Extended Arabic-Indic ۰-۹ (U+06F0-06F9)   — ۷۹ —
+//   • ASCII digits                                       — 190 —
+//   • wrappers: em/en/figure dash, bars, tatweel ـ, tilde, minus, parens
+//       - ٨ -   ( ١١ )   ـ ٢١٧ ـ   -- ١٨ --
+//   • bare top-of-page numerals (1-3 digits): ١١٠
+// Anything that is NOT a genuine page numeral (years like 1927, "٤ مجلدات",
+// prose) must be left alone.
+const DIGIT_ONLY_RE = /^[٠-٩۰-۹0-9]+$/;
+const SEP_RE = /[—‒―⎯─━~−֊ـ()-]/;
+
+/**
+ * Detects a page-number header at the start of `firstLine` and returns the
+ * numeral string plus the character offset to slice from (so the numeral can
+ * be stripped from the block). Handles:
+ *   • isolated numerals:        — ٨٩ —   - ٨ -   ( ١١ )   ـ ٢١٧ ـ
+ *   • bare top numerals:        ١١٠
+ *   • numeral prepended to text on the same line:  — ۷۹ —  المعبر …   (common in OCR)
+ * Returns null when the line is not a page numeral (years, prose, tables).
+ */
+function detectNumeral(firstLine: string): { numeral: string; sliceFrom: number } | null {
+  const t = (firstLine || "").trim();
+  if (!t) return null;
+
+  const NUMERAL_WRAPPED = /^\s*[—‒―⎯─━~−֊ـ()-]*\s*[٠-٩۰-۹0-9]{1,5}\s*[—‒―⎯─━~−֊ـ()-]*\s*$/;
+  const NUMERAL_BARE = /^\s*[٠-٩۰-۹0-9]{1,3}\s*$/;
+  const NUMERAL_PREFIX = /^\s*[—‒―⎯─━~−֊ـ()-]*\s*([٠-٩۰-۹0-9]{1,5})\s*[—‒―⎯─━~−֊ـ()-]*\s+/;
+
+  if (NUMERAL_WRAPPED.test(t)) {
+    const m = t.match(/[٠-٩۰-۹0-9]{1,5}/);
+    if (m) return { numeral: m[0], sliceFrom: firstLine.length };
+  }
+  if (NUMERAL_BARE.test(t)) {
+    const m = t.match(/^\s*([٠-٩۰-۹0-9]{1,3})/);
+    if (m) return { numeral: m[1], sliceFrom: firstLine.length };
+  }
+  const pm = firstLine.match(NUMERAL_PREFIX);
+  if (pm) {
+    const numeral = pm[1];
+    // A bare (no separator) 4+ digit run at a line start is a year/number, not a page.
+    const hasSep = SEP_RE.test(pm[0].replace(/[٠-٩۰-۹0-9]{1,5}/, ""));
+    if (!hasSep && numeral.length > 3) return null;
+    return { numeral, sliceFrom: pm[0].length };
+  }
+  return null;
+}
 
 function isGridArtLine(line: string): boolean {
   const t = line.trim();
@@ -129,20 +178,21 @@ export function ReaderText({
   return (
     <>
       {rawBlocks.map((block, bi) => {
-        let body = block;
-        let numeral: string | null = null;
-
         // Page numeral header may be the first line of an otherwise-mixed block
-        // (e.g. "— ٨٩ —\n<verse> …"). Strip it so the rest renders as verse/grid.
+        // (e.g. "— ٨٩ —\n<verse> …") or prefixed to the text on the same line
+        // (e.g. "— ۷۹ —  المعبر …"). Detect it across digit scripts and wrapper
+        // marks, then strip it so the rest renders as verse/grid.
         const firstNewline = block.indexOf("\n");
         const firstLine = (firstNewline === -1 ? block : block.slice(0, firstNewline)).trim();
-        const numMatch = firstLine.match(/^—\s*([٠-٩0-9]+)\s*—$/);
-        if (numMatch) {
-          numeral = numMatch[1];
-          body = firstNewline === -1 ? "" : block.slice(firstNewline + 1).trim();
-        } else if (NUMERAL_RE.test(block)) {
-          numeral = block.match(/[٠-٩0-9]+/)?.[0] ?? null;
-          body = "";
+        const detected = detectNumeral(firstLine);
+        let body = block;
+        if (detected) {
+          // If the numeral is on its own line, drop that line; if it shares the
+          // first line with body text, slice it off the start of the line.
+          body =
+            firstNewline === -1
+              ? block.slice(detected.sliceFrom).trim()
+              : block.slice(firstNewline + 1).trim();
         }
 
         // Render the numeral rubric (if any) plus the rest of the block.
@@ -151,12 +201,12 @@ export function ReaderText({
             <BlockBody key={`b${bi}`} body={body} isAr={isAr} />
           ) : null;
 
-        if (numeral) {
+        if (detected) {
           return (
             <Fragment key={bi}>
               <div className="ms-numeral" dir="rtl">
                 <span className="ms-numeral-mark">—</span>
-                <span className="ms-numeral-num">{numeral}</span>
+                <span className="ms-numeral-num">{detected.numeral}</span>
                 <span className="ms-numeral-mark">—</span>
               </div>
               {rest}
