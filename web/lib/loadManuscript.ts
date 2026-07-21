@@ -146,6 +146,7 @@ export function normalizeManuscriptInput(
     pages.set(ip, {
       page: ip,
       sectionId: (r.sectionId as string) ?? (r.section as string) ?? "",
+      title: (r.title as Record<Lang, string>) ?? undefined,
       scanSrc:
         (r.scanSrc as string) ??
         (r.scan as string) ??

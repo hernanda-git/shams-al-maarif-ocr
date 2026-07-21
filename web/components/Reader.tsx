@@ -10,6 +10,7 @@ export function Reader({
   fontSize,
   onBookmark,
   bookmarked,
+  sectionTitle,
 }: {
   page: number;
   lang: Lang;
@@ -17,6 +18,7 @@ export function Reader({
   fontSize: number;
   onBookmark: () => void;
   bookmarked: boolean;
+  sectionTitle: string;
 }) {
   const isAr = lang === "ar";
 
@@ -34,7 +36,7 @@ export function Reader({
               (isAr ? "font-[var(--font-amiri)] text-right" : "")
             }
           >
-            {data.text[lang].slice(0, 0) /* title rendered by parent */}
+            {data.title?.[lang] || sectionTitle}
           </h1>
         </div>
         <button

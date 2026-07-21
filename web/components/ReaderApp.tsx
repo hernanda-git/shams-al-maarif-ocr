@@ -327,6 +327,7 @@ export default function ReaderApp({
                 fontSize={store.fontSize}
                 onBookmark={() => store.toggleBookmark(page)}
                 bookmarked={store.isBookmarked(page)}
+                sectionTitle={sectionTitle}
               />
             ) : (
               <PageViewer

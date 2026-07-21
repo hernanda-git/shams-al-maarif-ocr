@@ -104,7 +104,7 @@ export function PageViewer({
 
       <p className="mt-3 text-center text-xs text-[var(--color-muted)]">
         Facsimile of page {page}
-        {isRtl && sectionTitle ? ` · ${sectionTitle}` : ""} — authentic scan,
+        {sectionTitle ? ` · ${sectionTitle}` : ""} — authentic scan,
         served from R2.{fallbackText ? " Switch to Text mode for the OCR transcription." : ""}
       </p>
     </div>

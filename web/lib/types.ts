@@ -27,6 +27,8 @@ export interface ManuscriptPage {
   page: number; // 1..600
   sectionId: string;
   text: Record<Lang, string>;
+  /** Per-page generated title in all 3 languages */
+  title?: Record<Lang, string>;
   /** path to the scanned (non-OCR) PDF page image or pdf; generated sample used in dev */
   scanSrc?: string;
 }

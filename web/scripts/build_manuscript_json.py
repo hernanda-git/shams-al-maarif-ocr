@@ -34,7 +34,7 @@ OCR_DIR = os.environ.get(
 )
 OUT = os.environ.get(
     "SHAMS_OUT",
-    r"C:/Workspace/shams-al-maarif/public/manuscript.json",
+    r"C:/Working Folder/Research/shams-al-maarif-ocr/web/public/manuscript.json",
 )
 TOTAL = 600
 
