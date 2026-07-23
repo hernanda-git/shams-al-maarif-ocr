@@ -21,12 +21,13 @@ const SCROLL_KEY = (p: number) => `shams-scroll-p${p}`;
 const AUTO_SPEED_PXPS = [0, 30, 60, 110, 180];
 
 export default function ReaderApp({
-  serverPages,
+  serverPage,
   initialPage = 1,
   initialLang = "en",
   initialMode = "text",
 }: {
-  serverPages?: unknown;
+  /** Single-page data embedded at SSR (~15KB) instead of all 600 (~8MB). */
+  serverPage?: unknown;
   initialPage?: number;
   initialLang?: Lang;
   initialMode?: ViewMode;
@@ -44,21 +45,32 @@ export default function ReaderApp({
   const scrollRef = useRef<HTMLDivElement>(null);
   const jumpCounter = useRef(0);
 
-  // NOTE: manuscript data is already seeded at SSR time (see page.tsx). The
-  // client runs in a separate module instance with an empty in-memory store,
-  // so we hydrate it from the server-passed array on mount — this is what
-  // makes the real OCR text + R2 scanSrc available to the client renderer
-  // (otherwise it would fall back to placeholder /scans/... paths).
+  // Hydrate the single server-passed page immediately (no flash).
+  // Then fetch the full manuscript in the background.
+  const [manuscriptReady, setManuscriptReady] = useState(false);
   useEffect(() => {
-    if (Array.isArray(serverPages) && serverPages.length) {
+    // Step 1: use the server-embedded single page (always available)
+    if (serverPage) {
       try {
-        hydrateManuscript(serverPages);
-      } catch {
-        /* ignore — placeholder fallback stays */
-      }
+        hydrateManuscript([serverPage]);
+      } catch { /* ignore */ }
     }
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+    // Step 2: fetch the full manuscript in background
+    let cancelled = false;
+    fetch("/manuscript.json")
+      .then((r) => r.json())
+      .then((data) => {
+        if (cancelled) return;
+        if (Array.isArray(data) && data.length) {
+          try {
+            hydrateManuscript(data);
+          } catch { /* ignore */ }
+        }
+        setManuscriptReady(true);
+      })
+      .catch(() => setManuscriptReady(true));
+    return () => { cancelled = true; };
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Restore last-read position on mount ONLY when there is no deep-link in
   // the URL (deep-link values are already applied via initial state above).

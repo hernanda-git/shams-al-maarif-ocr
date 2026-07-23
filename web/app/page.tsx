@@ -3,27 +3,21 @@ import ReaderApp from "@/components/ReaderApp";
 import path from "path";
 import { readFileSync } from "fs";
 
-// Read the manuscript fresh on every request — never statically prerender from a
-// build-time snapshot (the JSON is large and updated out-of-band).
 export const dynamic = "force-dynamic";
 export const revalidate = 0;
 
-// Resolve the bundled manuscript JSON at build/SSR time so the first paint
-// already contains real text (no client fetch -> no content flash).
 const JSON_PATH = path.join(process.cwd(), "public", "manuscript.json");
 seedManuscriptFromDisk(JSON_PATH);
 
-// Read once at module load (server) and pass the real array down to the
-// client component so it never falls back to the placeholder generator.
-function readManuscriptArray(): unknown[] {
+function readSinglePage(n: number): unknown | null {
   try {
-    if (require("fs").existsSync(JSON_PATH)) {
-      return JSON.parse(readFileSync(JSON_PATH, "utf8"));
-    }
+    if (!require("fs").existsSync(JSON_PATH)) return null;
+    const all = JSON.parse(readFileSync(JSON_PATH, "utf8"));
+    if (!Array.isArray(all)) return null;
+    return all.find((p: Record<string, unknown>) => p.page === n) ?? null;
   } catch {
-    /* ignore */
+    return null;
   }
-  return [];
 }
 
 export default async function Page({
@@ -31,10 +25,8 @@ export default async function Page({
 }: {
   searchParams: Promise<Record<string, string | string[] | undefined>>;
 }) {
-  const pages = readManuscriptArray();
   const sp = await searchParams;
 
-  // Deep-link support: ?page=N&lang=ar|en|id&mode=text|page
   const q = (k: string): string | undefined => {
     const v = sp[k];
     return Array.isArray(v) ? v[0] : v;
@@ -47,9 +39,12 @@ export default async function Page({
   const m = q("mode");
   const initialMode = m === "text" || m === "page" ? (m as "text" | "page") : "text";
 
+  // Only embed the single page the user opens (~15KB) instead of all 600 (~8MB).
+  const serverPage = readSinglePage(initialPage);
+
   return (
     <ReaderApp
-      serverPages={pages}
+      serverPage={serverPage}
       initialPage={initialPage}
       initialLang={initialLang}
       initialMode={initialMode}
