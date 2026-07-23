@@ -5,16 +5,15 @@ Arabic:
 شمس
 المعارف
 
-English:
-4 volumes
-in one volume.
-
-Shams
-al-Maʿārif
-
 Indonesia:
 4 jilid
-dalam satu jilid.
+dalam 1 jilid.
 
-Syams
-al-Maʿārif
+Shams
+al-Ma'arif
+
+Notes:
+- Angka "٤" diterjemahkan sebagai "4" (angka Arab-Indonesia standar).
+- "مجلدات" (Mujalladāt) = jilid (jamak).
+- "مجلد" (Mujallad) = jilid (tunggal).
+- "شمس المعارف" (Shams al-Ma'arif) = Matahari Pengetahuan / Matahari Ilmu Pengetahuan. Dipertahankan dalam transliterasi sebagai judul karya.

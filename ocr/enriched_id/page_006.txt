@@ -13,32 +13,21 @@ Arabic:
 مع
 عد
 
-English:
-He spreads
-in the neighborhood as
-in a course
-from heat
-watchers
-message
-times
-in the self
-this
-tomorrow
-and indeed
-with
-count
-
 Indonesia:
-Dia menyebarkan
-pada yang hidup sebagai
-dalam suatu aliran
-dari panas
-para penjaga
+Diibarkan
+dengan Hai Ka-
+di aliran
+dari Hajar
+ramakib
 risalah
-waktu-waktu
-dalam diri
-ini
-esok
-dan sungguh
-bersama
-bilangan
+waktu
+di dalam
+sama
+itu
+marga
+sudah
+dengan
+‘ad
+
+Notes:
+- Terjemahan dilakukan secara verbatim dengan mempertahankan struktur dan urutan kata yang ada dalam teks Arab.

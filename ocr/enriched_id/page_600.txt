@@ -1,13 +1,4 @@
-Arabic:
-القدس
-المقدس
+Yerusalem
+Al-Quds
 
-البيت الـ
-
-English:
-al-Quds | al-Muqaddas
-The house al-...
-
-Indonesia:
-al-Quds | al-Muqaddas
-Rumah al-...
+Rumah ke-

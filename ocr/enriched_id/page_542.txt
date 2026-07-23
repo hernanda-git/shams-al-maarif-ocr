@@ -1,3 +1,4 @@
+
 Arabic:
 المكتبة الأزهرية بمصر
 حفظها الله تعالى
@@ -7,8 +8,14 @@ Arabic:
 على نفقة السيد أحمد أفندي
 بمصر المحروسة
 
-English:
-The Azhar Library in Egypt — may Allah preserve it. Preservation number 475, jurisprudence. Printed at the Būlāq Press in Egypt, in the year 1280 AH, at the expense of the Sayyid Aḥmad Afandī — in Protected Egypt.
-
 Indonesia:
-Perpustakaan al-Azhar di Mesir — semoga Allah memeliharanya. Nombor pemuliharaan 475, fiqh. Dicetak di Matba'ah Būlāq di Mesir, tahun 1280 H, atas belanja Sayyid Aḥmad Afandī — di Mesir yang Terpelihara.
+Perpustakaan Azhar di Mesir
+Hafizhā Allāh taʿālā
+Nomor penyimpanan ٤٧٥ Fiqh
+Dicetak di Cetak Bulak di Mesir
+Tahun ١٢٨٠ Hijriyah
+Dengan biaya oleh sirah Ahmad Afandi
+di Mesir al-Mahrousah
+
+Notes:
+[Pertahankan transliterasi angka dan istilah khusus seperti "٤٧٥ فقه", "١٢٨٠ هجرية", serta "مصر المحروسة" karena tidak ada padanan Bahasa Indonesia yang tepat.]

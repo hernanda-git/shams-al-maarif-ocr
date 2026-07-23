@@ -1,10 +1,8 @@
 Arabic:
----
-(No text visible)
----
-
-English:
 (No text visible)
 
 Indonesia:
-(Tiada teks kelihatan)
+[Tidak ada teks yang terlihat]
+
+Notes:
+[Tidak ada catatan]

@@ -32,18 +32,43 @@ Arabic:
 إقليم الخامس
 إقليم السابع
 
-English:
-[Index fragments — closing the appended-treatise indexes]
-The outward | the inward | the outward [again] | the inward [again] | al-Sadiq | al-Ijtima' | etc. — [their] specificities
-The Moon | Venus | Mars | Jupiter | Saturn
-The signs: the First — Aries | the followers of Cancer | al-Mizan [Libra] | the Eighth — Sagittarius | the Eleventh — Aquarius
-In the specificities of: Saturn | Mars | Venus
-The First Clime | the Third Clime | the Fifth Clime | the Seventh Clime
-
 Indonesia:
-[Fragmen indeks — penutup indeks risalah tambahan]
-Luar | dalam | luar | dalam | al-Sadiq | al-Ijtima' | dll — khususnya
-Bulan | Zuhrah | Marikh | Musytari | Zuhal
-Tanda: Pertama — Aries | pengikut Cancer | al-Mizan [Libra] | Kelapan — Sagittarius | Sebelas — Aquarius
-Dalam khusus: Zuhal | Marikh | Zuhrah
-Iklim Pertama | Ketiga | Kelima | Ketujuh
+Keluar
+Yang Masuk
+Yang Keluar
+Yang Batin
+Sahabat
+Pertemuan
+dst.
+Khususiyat
+
+Kوكب Al-Qamar
+Kوكب Az-Zuhrah
+Kوكب Al-Marrikh
+Kوكب Al-Musytari
+Kوكب Zuhal
+Al-Buruj
+Jim Al-Awwal Al-Hamal
+
+Tawabi' Li Al-Sarathan
+
+Jasah Al-Mizan
+Wa Al-Tsamin Al-Qaus
+Hadi 'Asyar Al-Dalu
+
+Fi Khususiyat
+Kوكب Zuhal
+Kوكب Al-Marrikh
+Kوكب Az-Zuhrah
+
+Iqlim Al-Awwal
+Iqlim Al-Tsalits
+Iqlim Al-Khamis
+Iqlim Al-Sabi'
+
+Notes:
+- "الخ." disingkat dari "والخ" (wa al-kha) yang bermakna "dan lain-lain" / "dst."
+- "ج" kemungkinan besar singkatan dari "الجواب" (Al-Jawab - jawaban/hasil) atau "الجهة" (Al-Jihah - arah/sisi) atau "الدرجة" (Al-Darajah - derajat) dalam konteks perhitungan Raml/Falak. Dibiarkan sebagai "Jim" (nama huruf) atau transliterasi hurufnya saja sesuai aturan verbatim.
+- "جاسه" (Jasah) kemungkinan salah tulis/varia dari "الجواب" (Al-Jawab) atau "الجهة" (Al-Jihah) atau nama istilah khusus dalam tabel ini. Diterjemahkan verbatim sebagai "Jasah".
+- Nama-nama planet (Kوكب...) dan wilayah (إقليم...) ditransliterasikan dengan mempertahankan struktur "Kوكب" (Kaukab/Planet) dan "إقليم" (Iqlim/Wilayah) serta nama-nama Arabnya.
+- "توابع لسرطان" diterjemahkan "Tawabi' Li Al-Sarathan" (Pengikut/Anak-anak Karkinoma/Cancer).
