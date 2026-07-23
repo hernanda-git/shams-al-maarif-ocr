@@ -1,10 +1,12 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useMemo, useState, useRef, useCallback, useEffect, useDeferredValue } from "react";
 import { getToc, getAllPages } from "@/lib/manuscript";
 import { LANGS, Lang, LastRead } from "@/lib/types";
 import { X, Search, Clock, Bookmark, BookOpen, FileText, Play } from "./icons";
 import clsx from "clsx";
+
+const ROW_HEIGHT = 44; // px — matches py-2 (16) + text-sm (20) + gap (8)
 
 function timeAgo(at: number): string {
   const s = Math.floor((Date.now() - at) / 1000);
@@ -15,6 +17,71 @@ function timeAgo(at: number): string {
   if (h < 24) return `${h}h ago`;
   const d = Math.floor(h / 24);
   return `${d}d ago`;
+}
+
+/**
+ * Minimal virtual list — only renders rows in the visible viewport + overscan.
+ * Assumes fixed row height (ROW_HEIGHT). Re-renders on scroll.
+ */
+function VirtualList<T>({
+  items,
+  currentKey,
+  getKey,
+  renderItem,
+}: {
+  items: T[];
+  currentKey: number;
+  getKey: (item: T) => number;
+  renderItem: (item: T, active: boolean) => React.ReactNode;
+}) {
+  const ref = useRef<HTMLDivElement>(null);
+  const [scrollTop, setScrollTop] = useState(0);
+  const [viewH, setViewH] = useState(600);
+
+  // Observe container size + scroll
+  useEffect(() => {
+    const el = ref.current;
+    if (!el) return;
+    const ro = new ResizeObserver(() => setViewH(el.clientHeight));
+    ro.observe(el);
+    return () => ro.disconnect();
+  }, []);
+
+  const onScroll = useCallback(() => {
+    const el = ref.current;
+    if (el) setScrollTop(el.scrollTop);
+  }, []);
+
+  const totalH = items.length * ROW_HEIGHT;
+  const overscan = 5;
+  const startIdx = Math.max(0, Math.floor(scrollTop / ROW_HEIGHT) - overscan);
+  const endIdx = Math.min(items.length, Math.ceil((scrollTop + viewH) / ROW_HEIGHT) + overscan);
+
+  const visibleRows = useMemo(() => {
+    const rows: React.ReactNode[] = [];
+    for (let i = startIdx; i < endIdx; i++) {
+      const item = items[i];
+      rows.push(
+        <div key={getKey(item)} style={{ height: ROW_HEIGHT, position: "absolute", top: i * ROW_HEIGHT, left: 0, right: 0 }}>
+          {renderItem(item, getKey(item) === currentKey)}
+        </div>
+      );
+    }
+    return rows;
+  }, [items, startIdx, endIdx, currentKey, renderItem]);
+
+  return (
+    <div ref={ref} onScroll={onScroll} className="flex-1 overflow-y-auto px-2 py-2" style={{ willChange: "scroll-position" }}>
+      <div style={{ height: totalH, position: "relative" }}>
+        {visibleRows}
+      </div>
+      {items.length === 0 && (
+        <p className="px-3 py-6 text-center text-sm text-[var(--color-muted)]">
+          No results.
+        </p>
+      )}
+    </div>
+  );
 }
 
 export function Sidebar({
@@ -38,24 +105,31 @@ export function Sidebar({
 }) {
   const [tab, setTab] = useState<"toc" | "pages" | "bookmarks">("toc");
   const [q, setQ] = useState("");
+  const deferredQ = useDeferredValue(q);
+  const isStale = q !== deferredQ;
 
   const TOC = getToc();
-  const ALL_PAGES = useMemo(() => getAllPages(), []);
+
+  // Lazy: only build the full page list when pages tab is active
+  const allPages = useMemo(() => {
+    if (tab !== "pages") return [];
+    return getAllPages();
+  }, [tab]);
 
   const filteredToc = useMemo(() => {
-    const t = q.trim().toLowerCase();
+    const t = deferredQ.trim().toLowerCase();
     if (!t) return TOC;
     return TOC.filter((s) => s.title[lang].toLowerCase().includes(t));
-  }, [q, lang, TOC]);
+  }, [deferredQ, lang, TOC]);
 
   const filteredPages = useMemo(() => {
-    const t = q.trim().toLowerCase();
-    if (!t) return ALL_PAGES;
-    return ALL_PAGES.filter((p) => {
+    const t = deferredQ.trim().toLowerCase();
+    if (!t) return allPages;
+    return allPages.filter((p) => {
       const title = p.title?.[lang] ?? "";
       return title.toLowerCase().includes(t);
     });
-  }, [q, lang, ALL_PAGES]);
+  }, [deferredQ, lang, allPages]);
 
   const bookmarkedEntries = useMemo(
     () =>
@@ -75,6 +149,81 @@ export function Sidebar({
       : tab === "pages"
         ? "Search pages…"
         : "Search bookmarks…";
+
+  // Stable callbacks to avoid re-creating renderItem every render
+  const renderToc = useCallback(
+    (s: (typeof TOC)[number], active: boolean) => (
+      <button
+        onClick={() => onJump(s.startPage)}
+        className={clsx(
+          "flex w-full items-center gap-2 rounded-lg px-3 text-left text-sm transition-colors h-full",
+          active
+            ? "bg-[var(--color-panel-2)] text-[var(--color-gold-soft)]"
+            : "text-[var(--color-fg-soft)] hover:bg-[var(--color-panel)]"
+        )}
+      >
+        <span className="shrink-0 text-xs tabular-nums text-[var(--color-muted)]">
+          {String(s.startPage).padStart(3, "0")}
+        </span>
+        <span
+          className={clsx(
+            "truncate",
+            lang === "ar" && "font-[var(--font-amiri)] text-base"
+          )}
+        >
+          {s.title[lang]}
+        </span>
+      </button>
+    ),
+    [onJump, lang]
+  );
+
+  const renderPage = useCallback(
+    (item: (typeof allPages)[number], active: boolean) => (
+      <button
+        onClick={() => onJump(item.page)}
+        className={clsx(
+          "flex w-full items-center gap-2 rounded-lg px-3 text-left text-sm transition-colors h-full",
+          active
+            ? "bg-[var(--color-panel-2)] text-[var(--color-gold-soft)]"
+            : "text-[var(--color-fg-soft)] hover:bg-[var(--color-panel)]"
+        )}
+      >
+        <span className="shrink-0 text-xs tabular-nums text-[var(--color-muted)] w-7">
+          {String(item.page).padStart(3, "0")}
+        </span>
+        <span
+          className={clsx(
+            "truncate",
+            lang === "ar" && "font-[var(--font-amiri)] text-base"
+          )}
+        >
+          {item.title?.[lang] ?? ""}
+        </span>
+      </button>
+    ),
+    [onJump, lang]
+  );
+
+  const renderBookmark = useCallback(
+    (b: { page: number; section: string }, _active: boolean) => (
+      <button
+        onClick={() => onJump(b.page)}
+        className="flex w-full items-center gap-2 rounded-lg px-3 text-left text-sm text-[var(--color-fg-soft)] hover:bg-[var(--color-panel)] h-full"
+      >
+        <Bookmark
+          width={14}
+          height={14}
+          className="shrink-0 text-[var(--color-gold)]"
+        />
+        <span className="shrink-0 text-xs tabular-nums text-[var(--color-muted)]">
+          {String(b.page).padStart(3, "0")}
+        </span>
+        <span className="truncate">{b.section}</span>
+      </button>
+    ),
+    [onJump]
+  );
 
   return (
     <>
@@ -112,7 +261,7 @@ export function Sidebar({
 
         {/* Last read */}
         {lastRead && (
-          <div className="m-3 rounded-[var(--radius-card)] border border-[var(--color-accent-dim)] bg-gradient-to-br from-[var(--color-accent-dim)]/40 to-[var(--color-panel)] p-3">
+          <div className="m-3 rounded-[var(--radius-card)] border border-[var(--color-accent-dim)] bg-gradient-to-br from-[var(--color-accent-dim)]/40 to-[var(--color-panel)] p-3 shrink-0">
             <div className="flex items-center gap-1.5 text-[11px] uppercase tracking-widest text-[var(--color-gold)]">
               <Clock width={13} height={13} /> Last Read
             </div>
@@ -136,24 +285,27 @@ export function Sidebar({
         )}
 
         {/* Search */}
-        <div className="px-3 pb-2">
+        <div className="px-3 pb-2 shrink-0">
           <div className="flex items-center gap-2 rounded-lg border border-[var(--color-border)] bg-[var(--color-bg)] px-2.5 py-1.5">
             <Search width={15} height={15} className="text-[var(--color-muted)]" />
             <input
               value={q}
               onChange={(e) => setQ(e.target.value)}
               placeholder={placeholder}
-              className="w-full bg-transparent text-sm text-[var(--color-fg)] placeholder:text-[var(--color-muted)] focus:outline-none"
+              className={clsx(
+                "w-full bg-transparent text-sm placeholder:text-[var(--color-muted)] focus:outline-none",
+                isStale ? "text-[var(--color-muted)]" : "text-[var(--color-fg)]"
+              )}
             />
           </div>
         </div>
 
         {/* Tabs */}
-        <div className="flex gap-1 px-3 pb-2">
+        <div className="flex gap-1 px-3 pb-2 shrink-0">
           {(["toc", "pages", "bookmarks"] as const).map((t) => (
             <button
               key={t}
-              onClick={() => setTab(t)}
+              onClick={() => { setTab(t); setQ(""); }}
               className={clsx(
                 "inline-flex flex-1 items-center justify-center gap-1.5 rounded-lg py-1.5 text-sm capitalize transition-colors",
                 tab === t
@@ -169,106 +321,21 @@ export function Sidebar({
           ))}
         </div>
 
-        <div className="ornament mx-3" />
+        <div className="ornament mx-3 shrink-0" />
 
-        {/* List */}
-        <div className="flex-1 overflow-y-auto px-2 py-2">
-          {tab === "toc" &&
-            filteredToc.map((s) => {
-              const active = page >= s.startPage && page <= s.endPage;
-              return (
-                <button
-                  key={s.id}
-                  onClick={() => onJump(s.startPage)}
-                  className={clsx(
-                    "mb-0.5 flex w-full items-center gap-2 rounded-lg px-3 py-2 text-left text-sm transition-colors",
-                    active
-                      ? "bg-[var(--color-panel-2)] text-[var(--color-gold-soft)]"
-                      : "text-[var(--color-fg-soft)] hover:bg-[var(--color-panel)]"
-                  )}
-                >
-                  <span className="shrink-0 text-xs tabular-nums text-[var(--color-muted)]">
-                    {String(s.startPage).padStart(3, "0")}
-                  </span>
-                  <span
-                    className={clsx(
-                      "truncate",
-                      lang === "ar" && "font-[var(--font-amiri)] text-base"
-                    )}
-                  >
-                    {s.title[lang]}
-                  </span>
-                </button>
-              );
-            })}
-          {tab === "toc" && filteredToc.length === 0 && (
-            <p className="px-3 py-6 text-center text-sm text-[var(--color-muted)]">
-              No sections match &ldquo;{q}&rdquo;.
-            </p>
-          )}
+        {/* List — virtualized for pages, plain for small lists */}
+        {tab === "toc" && (
+          <VirtualList items={filteredToc} currentKey={page} getKey={(s) => s.startPage} renderItem={renderToc} />
+        )}
+        {tab === "pages" && (
+          <VirtualList items={filteredPages} currentKey={page} getKey={(p) => p.page} renderItem={renderPage} />
+        )}
+        {tab === "bookmarks" && (
+          <VirtualList items={bookmarkedEntries} currentKey={-1} getKey={(b) => b.page} renderItem={renderBookmark} />
+        )}
 
-          {tab === "pages" &&
-            filteredPages.map((p) => {
-              const active = p.page === page;
-              return (
-                <button
-                  key={p.page}
-                  onClick={() => onJump(p.page)}
-                  className={clsx(
-                    "mb-0.5 flex w-full items-center gap-2 rounded-lg px-3 py-2 text-left text-sm transition-colors",
-                    active
-                      ? "bg-[var(--color-panel-2)] text-[var(--color-gold-soft)]"
-                      : "text-[var(--color-fg-soft)] hover:bg-[var(--color-panel)]"
-                  )}
-                >
-                  <span className="shrink-0 text-xs tabular-nums text-[var(--color-muted)] w-7">
-                    {String(p.page).padStart(3, "0")}
-                  </span>
-                  <span
-                    className={clsx(
-                      "truncate",
-                      lang === "ar" && "font-[var(--font-amiri)] text-base"
-                    )}
-                  >
-                    {p.title?.[lang] ?? ""}
-                  </span>
-                </button>
-              );
-            })}
-          {tab === "pages" && filteredPages.length === 0 && (
-            <p className="px-3 py-6 text-center text-sm text-[var(--color-muted)]">
-              No pages match &ldquo;{q}&rdquo;.
-            </p>
-          )}
-
-          {tab === "bookmarks" &&
-            (bookmarkedEntries.length === 0 ? (
-              <p className="px-3 py-6 text-center text-sm text-[var(--color-muted)]">
-                No bookmarks yet. Tap the ribbon on a page to save it.
-              </p>
-            ) : (
-              bookmarkedEntries.map((b) => (
-                <button
-                  key={b.page}
-                  onClick={() => onJump(b.page)}
-                  className="mb-0.5 flex w-full items-center gap-2 rounded-lg px-3 py-2 text-left text-sm text-[var(--color-fg-soft)] hover:bg-[var(--color-panel)]"
-                >
-                  <Bookmark
-                    width={14}
-                    height={14}
-                    className="shrink-0 text-[var(--color-gold)]"
-                  />
-                  <span className="shrink-0 text-xs tabular-nums text-[var(--color-muted)]">
-                    {String(b.page).padStart(3, "0")}
-                  </span>
-                  <span className="truncate">{b.section}</span>
-                </button>
-              ))
-            ))}
-        </div>
-
-        <div className="ornament mx-3" />
-        <div className="px-4 py-2.5 text-[11px] text-[var(--color-muted)]">
+        <div className="ornament mx-3 shrink-0" />
+        <div className="px-4 py-2.5 text-[11px] text-[var(--color-muted)] shrink-0">
           {TOC.length} sections · 600 pages
         </div>
       </aside>
