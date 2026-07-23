@@ -1,11 +1,13 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useMemo, useState, useRef, useCallback, useEffect } from "react";
 import { getToc, getPageTitles } from "@/lib/manuscript";
 import type { PageTitleEntry } from "@/lib/manuscript";
 import { LANGS, Lang, LastRead } from "@/lib/types";
-import { X, Search, Clock, Bookmark, BookOpen, FileText, Play } from "./icons";
+import { X, Search, Clock, Bookmark, BookOpen, FileText, Play, Loader } from "./icons";
 import clsx from "clsx";
+
+const PAGE_CHUNK = 100;
 
 function timeAgo(at: number): string {
   const s = Math.floor((Date.now() - at) / 1000);
@@ -40,6 +42,13 @@ export function Sidebar({
   const [tab, setTab] = useState<"toc" | "pages" | "bookmarks">("toc");
   const [q, setQ] = useState("");
 
+  // Lazy loading: render PAGE_CHUNK items at a time
+  const [visibleCount, setVisibleCount] = useState(PAGE_CHUNK);
+  const sentinelRef = useRef<HTMLDivElement>(null);
+
+  // Reset pagination when tab or query changes
+  useEffect(() => { setVisibleCount(PAGE_CHUNK); }, [tab, q]);
+
   const TOC = getToc();
 
   // Lightweight: only page + title, no full text
@@ -63,6 +72,25 @@ export function Sidebar({
     });
   }, [q, lang, pageTitles]);
 
+  const visiblePages = useMemo(
+    () => filteredPages.slice(0, visibleCount),
+    [filteredPages, visibleCount]
+  );
+
+  const hasMore = visibleCount < filteredPages.length;
+
+  // IntersectionObserver: auto-load more when sentinel enters viewport
+  useEffect(() => {
+    const el = sentinelRef.current;
+    if (!el || !hasMore) return;
+    const io = new IntersectionObserver(
+      ([entry]) => { if (entry.isIntersecting) setVisibleCount((c) => c + PAGE_CHUNK); },
+      { rootMargin: "200px" }
+    );
+    io.observe(el);
+    return () => io.disconnect();
+  }, [hasMore]);
+
   const bookmarkedEntries = useMemo(
     () =>
       bookmarks
@@ -74,6 +102,18 @@ export function Sidebar({
         }),
     [bookmarks, lang]
   );
+
+  // Stable jump callback for Sections (no useCallback needed — trivial)
+  const jumpTo = useCallback((p: number) => { onJump(p); }, [onJump]);
+
+  // Loader shown briefly while page data builds on first tab switch
+  const [loading, setLoading] = useState(false);
+  useEffect(() => {
+    if (tab !== "pages") return;
+    setLoading(true);
+    const id = requestAnimationFrame(() => setLoading(false));
+    return () => cancelAnimationFrame(id);
+  }, [tab]);
 
   const placeholder =
     tab === "toc"
@@ -178,8 +218,9 @@ export function Sidebar({
 
         {/* Scrollable list area */}
         <div className="flex-1 overflow-y-auto px-2 py-2 min-h-0">
-          {tab === "toc" && (
-            filteredToc.length === 0 ? (
+          {/* SECTIONS TAB */}
+          {tab === "toc" &&
+            (filteredToc.length === 0 ? (
               <p className="px-3 py-6 text-center text-sm text-[var(--color-muted)]">
                 No sections match &ldquo;{q}&rdquo;.
               </p>
@@ -189,7 +230,7 @@ export function Sidebar({
                 return (
                   <button
                     key={s.id}
-                    onClick={() => onJump(s.startPage)}
+                    onClick={() => jumpTo(s.startPage)}
                     className={clsx(
                       "mb-0.5 flex w-full items-center gap-2 rounded-lg px-3 py-2 text-left text-sm transition-colors",
                       active
@@ -211,22 +252,28 @@ export function Sidebar({
                   </button>
                 );
               })
-            )
-          )}
+            ))}
 
-          {tab === "pages" && (
-            filteredPages.length === 0 ? (
-              <p className="px-3 py-6 text-center text-sm text-[var(--color-muted)]">
-                No pages match &ldquo;{q}&rdquo;.
-              </p>
-            ) : (
-              filteredPages.map((p) => {
+          {/* PAGES TAB */}
+          {tab === "pages" && loading && (
+            <div className="flex items-center justify-center gap-2 py-10 text-[var(--color-muted)]">
+              <Loader width={18} height={18} className="animate-spin" />
+              <span className="text-sm">Loading pages…</span>
+            </div>
+          )}
+          {tab === "pages" && !loading && visiblePages.length === 0 && (
+            <p className="px-3 py-6 text-center text-sm text-[var(--color-muted)]">
+              No pages match &ldquo;{q}&rdquo;.
+            </p>
+          )}
+          {tab === "pages" && !loading && visiblePages.length > 0 && (
+            <>
+              {visiblePages.map((p) => {
                 const active = p.page === page;
                 return (
                   <button
                     key={p.page}
-                    onClick={() => onJump(p.page)}
-                    style={{ contentVisibility: "auto" }}
+                    onClick={() => jumpTo(p.page)}
                     className={clsx(
                       "mb-0.5 flex w-full items-center gap-2 rounded-lg px-3 py-2 text-left text-sm transition-colors",
                       active
@@ -247,10 +294,23 @@ export function Sidebar({
                     </span>
                   </button>
                 );
-              })
-            )
+              })}
+              {/* Sentinel for infinite scroll */}
+              {hasMore && (
+                <div ref={sentinelRef} className="flex items-center justify-center gap-2 py-4 text-[var(--color-muted)]">
+                  <Loader width={14} height={14} className="animate-spin" />
+                  <span className="text-xs">Loading more…</span>
+                </div>
+              )}
+              {!hasMore && (
+                <p className="py-3 text-center text-xs text-[var(--color-muted)]">
+                  All {filteredPages.length} pages loaded
+                </p>
+              )}
+            </>
           )}
 
+          {/* BOOKMARKS TAB */}
           {tab === "bookmarks" &&
             (bookmarkedEntries.length === 0 ? (
               <p className="px-3 py-6 text-center text-sm text-[var(--color-muted)]">
@@ -260,7 +320,7 @@ export function Sidebar({
               bookmarkedEntries.map((b) => (
                 <button
                   key={b.page}
-                  onClick={() => onJump(b.page)}
+                  onClick={() => jumpTo(b.page)}
                   className="mb-0.5 flex w-full items-center gap-2 rounded-lg px-3 py-2 text-left text-sm text-[var(--color-fg-soft)] hover:bg-[var(--color-panel)]"
                 >
                   <Bookmark
