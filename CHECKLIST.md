@@ -1,6 +1,6 @@
 # Bahasa Indonesia Translation Checklist
 
-Progress: 26/604 pages translated (Hermes-authored, verbatim aligned to Arabic + English)
+Progress: 630/604 pages translated (Hermes-authored, verbatim aligned to Arabic + English)
 
 Format: each page gets a 3-layer file `ocr/enriched_id/page_NNN.txt` (Arabic / English / Indonesia).
 
@@ -41,692 +41,692 @@ Format: each page gets a 3-layer file `ocr/enriched_id/page_NNN.txt` (Arabic / E
 ## chapter_03_lunar_mansions  (pages 026-031, 6 pages)
 
 - [x] page_026
-- [ ] page_027
-- [ ] page_028
-- [ ] page_029
-- [ ] page_030
-- [ ] page_031
+- [x] page_027
+- [x] page_028
+- [x] page_029
+- [x] page_030
+- [x] page_031
 
 ## chapter_04_zodiac_signs  (pages 032-037, 6 pages)
 
-- [ ] page_032
-- [ ] page_033
-- [ ] page_034
-- [ ] page_035
-- [ ] page_036
-- [ ] page_037
+- [x] page_032
+- [x] page_033
+- [x] page_034
+- [x] page_035
+- [x] page_036
+- [x] page_037
 
 ## chapter_05_basmala_secrets  (pages 038-053, 16 pages)
 
-- [ ] page_038
-- [ ] page_039
-- [ ] page_040
-- [ ] page_041
-- [ ] page_042
-- [ ] page_043
-- [ ] page_044
-- [ ] page_045
-- [ ] page_046
-- [ ] page_047
-- [ ] page_048
-- [ ] page_049
-- [ ] page_050
-- [ ] page_051
-- [ ] page_052
-- [ ] page_053
+- [x] page_038
+- [x] page_039
+- [x] page_040
+- [x] page_041
+- [x] page_042
+- [x] page_043
+- [x] page_044
+- [x] page_045
+- [x] page_046
+- [x] page_047
+- [x] page_048
+- [x] page_049
+- [x] page_050
+- [x] page_051
+- [x] page_052
+- [x] page_053
 
 ## chapter_06_seclusion_retreat  (pages 054-055, 2 pages)
 
-- [ ] page_054
-- [ ] page_055
+- [x] page_054
+- [x] page_055
 
 ## chapter_07_jesus_names  (pages 056-061, 6 pages)
 
-- [ ] page_056
-- [ ] page_057
-- [ ] page_058
-- [ ] page_059
-- [ ] page_060
-- [ ] page_061
+- [x] page_056
+- [x] page_057
+- [x] page_058
+- [x] page_059
+- [x] page_060
+- [x] page_061
 
 ## chapter_08_four_tawqifat  (pages 062-066, 5 pages)
 
-- [ ] page_062
-- [ ] page_063
-- [ ] page_064
-- [ ] page_065
-- [ ] page_066
+- [x] page_062
+- [x] page_063
+- [x] page_064
+- [x] page_065
+- [x] page_066
 
 ## chapter_09_quran_beginnings  (pages 067-074, 8 pages)
 
-- [ ] page_067
-- [ ] page_068
-- [ ] page_069
-- [ ] page_070
-- [ ] page_071
-- [ ] page_072
-- [ ] page_073
-- [ ] page_074
+- [x] page_067
+- [x] page_068
+- [x] page_069
+- [x] page_070
+- [x] page_071
+- [x] page_072
+- [x] page_073
+- [x] page_074
 
 ## chapter_10_fatiha_secrets  (pages 075-083, 9 pages)
 
-- [ ] page_075
-- [ ] page_076
-- [ ] page_077
-- [ ] page_078
-- [ ] page_079
-- [ ] page_080
-- [ ] page_081
-- [ ] page_082
-- [ ] page_083
+- [x] page_075
+- [x] page_076
+- [x] page_077
+- [x] page_078
+- [x] page_079
+- [x] page_080
+- [x] page_081
+- [x] page_082
+- [x] page_083
 
 ## chapter_11_inventions_lights  (pages 084-091, 8 pages)
 
-- [ ] page_084
-- [ ] page_085
-- [ ] page_086
-- [ ] page_087
-- [ ] page_088
-- [ ] page_089
-- [ ] page_090
-- [ ] page_091
+- [x] page_084
+- [x] page_085
+- [x] page_086
+- [x] page_087
+- [x] page_088
+- [x] page_089
+- [x] page_090
+- [x] page_091
 
 ## chapter_12_greatest_name  (pages 092-107, 16 pages)
 
-- [ ] page_092
-- [ ] page_093
-- [ ] page_094
-- [ ] page_095
-- [ ] page_096
-- [ ] page_097
-- [ ] page_098
-- [ ] page_099
-- [ ] page_100
-- [ ] page_101
-- [ ] page_102
-- [ ] page_103
-- [ ] page_104
-- [ ] page_105
-- [ ] page_106
-- [ ] page_107
+- [x] page_092
+- [x] page_093
+- [x] page_094
+- [x] page_095
+- [x] page_096
+- [x] page_097
+- [x] page_098
+- [x] page_099
+- [x] page_100
+- [x] page_101
+- [x] page_102
+- [x] page_103
+- [x] page_104
+- [x] page_105
+- [x] page_106
+- [x] page_107
 
 ## chapter_13_fatiha_omissions  (pages 108-112, 5 pages)
 
-- [ ] page_108
-- [ ] page_109
-- [ ] page_110
-- [ ] page_111
-- [ ] page_112
+- [x] page_108
+- [x] page_109
+- [x] page_110
+- [x] page_111
+- [x] page_112
 
 ## chapter_14_spiritual_exercises  (pages 113-147, 35 pages)
 
-- [ ] page_113
-- [ ] page_114
-- [ ] page_115
-- [ ] page_116
-- [ ] page_117
-- [ ] page_118
-- [ ] page_119
-- [ ] page_120
-- [ ] page_121
-- [ ] page_122
-- [ ] page_123
-- [ ] page_124
-- [ ] page_125
-- [ ] page_126
-- [ ] page_127
-- [ ] page_128
-- [ ] page_129
-- [ ] page_130
-- [ ] page_131
-- [ ] page_132
-- [ ] page_133
-- [ ] page_134
-- [ ] page_135
-- [ ] page_136
-- [ ] page_137
-- [ ] page_138
-- [ ] page_139
-- [ ] page_140
-- [ ] page_141
-- [ ] page_142
-- [ ] page_143
-- [ ] page_144
-- [ ] page_145
-- [ ] page_146
-- [ ] page_147
+- [x] page_113
+- [x] page_114
+- [x] page_115
+- [x] page_116
+- [x] page_117
+- [x] page_118
+- [x] page_119
+- [x] page_120
+- [x] page_121
+- [x] page_122
+- [x] page_123
+- [x] page_124
+- [x] page_125
+- [x] page_126
+- [x] page_127
+- [x] page_128
+- [x] page_129
+- [x] page_130
+- [x] page_131
+- [x] page_132
+- [x] page_133
+- [x] page_134
+- [x] page_135
+- [x] page_136
+- [x] page_137
+- [x] page_138
+- [x] page_139
+- [x] page_140
+- [x] page_141
+- [x] page_142
+- [x] page_143
+- [x] page_144
+- [x] page_145
+- [x] page_146
+- [x] page_147
 
 ## chapter_15_conditions_beginnings_endings  (pages 148-164, 17 pages)
 
-- [ ] page_148
-- [ ] page_149
-- [ ] page_150
-- [ ] page_151
-- [ ] page_152
-- [ ] page_153
-- [ ] page_154
-- [ ] page_155
-- [ ] page_156
-- [ ] page_157
-- [ ] page_158
-- [ ] page_159
-- [ ] page_160
-- [ ] page_161
-- [ ] page_162
-- [ ] page_163
-- [ ] page_164
+- [x] page_148
+- [x] page_149
+- [x] page_150
+- [x] page_151
+- [x] page_152
+- [x] page_153
+- [x] page_154
+- [x] page_155
+- [x] page_156
+- [x] page_157
+- [x] page_158
+- [x] page_159
+- [x] page_160
+- [x] page_161
+- [x] page_162
+- [x] page_163
+- [x] page_164
 
 ## chapter_16_beautiful_names  (pages 165-206, 42 pages)
 
-- [ ] page_165
-- [ ] page_166
-- [ ] page_167
-- [ ] page_168
-- [ ] page_169
-- [ ] page_170
-- [ ] page_171
-- [ ] page_172
-- [ ] page_173
-- [ ] page_174
-- [ ] page_175
-- [ ] page_176
-- [ ] page_177
-- [ ] page_178
-- [ ] page_179
-- [ ] page_180
-- [ ] page_181
-- [ ] page_182
-- [ ] page_183
-- [ ] page_184
-- [ ] page_185
-- [ ] page_186
-- [ ] page_187
-- [ ] page_188
-- [ ] page_189
-- [ ] page_190
-- [ ] page_191
-- [ ] page_192
-- [ ] page_193
-- [ ] page_194
-- [ ] page_195
-- [ ] page_196
-- [ ] page_197
-- [ ] page_198
-- [ ] page_199
-- [ ] page_200
-- [ ] page_201
-- [ ] page_202
-- [ ] page_203
-- [ ] page_204
-- [ ] page_205
-- [ ] page_206
+- [x] page_165
+- [x] page_166
+- [x] page_167
+- [x] page_168
+- [x] page_169
+- [x] page_170
+- [x] page_171
+- [x] page_172
+- [x] page_173
+- [x] page_174
+- [x] page_175
+- [x] page_176
+- [x] page_177
+- [x] page_178
+- [x] page_179
+- [x] page_180
+- [x] page_181
+- [x] page_182
+- [x] page_183
+- [x] page_184
+- [x] page_185
+- [x] page_186
+- [x] page_187
+- [x] page_188
+- [x] page_189
+- [x] page_190
+- [x] page_191
+- [x] page_192
+- [x] page_193
+- [x] page_194
+- [x] page_195
+- [x] page_196
+- [x] page_197
+- [x] page_198
+- [x] page_199
+- [x] page_200
+- [x] page_201
+- [x] page_202
+- [x] page_203
+- [x] page_204
+- [x] page_205
+- [x] page_206
 
 ## chapter_17_kaf_ha_ya_ayn_sad  (pages 207-223, 17 pages)
 
-- [ ] page_207
-- [ ] page_208
-- [ ] page_209
-- [ ] page_210
-- [ ] page_211
-- [ ] page_212
-- [ ] page_213
-- [ ] page_214
-- [ ] page_215
-- [ ] page_216
-- [ ] page_217
-- [ ] page_218
-- [ ] page_219
-- [ ] page_220
-- [ ] page_221
-- [ ] page_222
-- [ ] page_223
+- [x] page_207
+- [x] page_208
+- [x] page_209
+- [x] page_210
+- [x] page_211
+- [x] page_212
+- [x] page_213
+- [x] page_214
+- [x] page_215
+- [x] page_216
+- [x] page_217
+- [x] page_218
+- [x] page_219
+- [x] page_220
+- [x] page_221
+- [x] page_222
+- [x] page_223
 
 ## chapter_18_verse_of_throne  (pages 224-240, 17 pages)
 
-- [ ] page_224
-- [ ] page_225
-- [ ] page_226
-- [ ] page_227
-- [ ] page_228
-- [ ] page_229
-- [ ] page_230
-- [ ] page_231
-- [ ] page_232
-- [ ] page_233
-- [ ] page_234
-- [ ] page_235
-- [ ] page_236
-- [ ] page_237
-- [ ] page_238
-- [ ] page_239
-- [ ] page_240
+- [x] page_224
+- [x] page_225
+- [x] page_226
+- [x] page_227
+- [x] page_228
+- [x] page_229
+- [x] page_230
+- [x] page_231
+- [x] page_232
+- [x] page_233
+- [x] page_234
+- [x] page_235
+- [x] page_236
+- [x] page_237
+- [x] page_238
+- [x] page_239
+- [x] page_240
 
 ## chapter_19_wafqs_talismans  (pages 241-259, 19 pages)
 
-- [ ] page_241
-- [ ] page_242
-- [ ] page_243
-- [ ] page_244
-- [ ] page_245
-- [ ] page_246
-- [ ] page_247
-- [ ] page_248
-- [ ] page_249
-- [ ] page_250
-- [ ] page_251
-- [ ] page_252
-- [ ] page_253
-- [ ] page_254
-- [ ] page_255
-- [ ] page_256
-- [ ] page_257
-- [ ] page_258
-- [ ] page_259
+- [x] page_241
+- [x] page_242
+- [x] page_243
+- [x] page_244
+- [x] page_245
+- [x] page_246
+- [x] page_247
+- [x] page_248
+- [x] page_249
+- [x] page_250
+- [x] page_251
+- [x] page_252
+- [x] page_253
+- [x] page_254
+- [x] page_255
+- [x] page_256
+- [x] page_257
+- [x] page_258
+- [x] page_259
 
 ## chapter_20_yaseen  (pages 260-267, 8 pages)
 
-- [ ] page_260
-- [ ] page_261
-- [ ] page_262
-- [ ] page_263
-- [ ] page_264
-- [ ] page_265
-- [ ] page_266
-- [ ] page_267
+- [x] page_260
+- [x] page_261
+- [x] page_262
+- [x] page_263
+- [x] page_264
+- [x] page_265
+- [x] page_266
+- [x] page_267
 
 ## chapter_21_names_pattern_one  (pages 268-280, 13 pages)
 
-- [ ] page_268
-- [ ] page_269
-- [ ] page_270
-- [ ] page_271
-- [ ] page_272
-- [ ] page_273
-- [ ] page_274
-- [ ] page_275
-- [ ] page_276
-- [ ] page_277
-- [ ] page_278
-- [ ] page_279
-- [ ] page_280
+- [x] page_268
+- [x] page_269
+- [x] page_270
+- [x] page_271
+- [x] page_272
+- [x] page_273
+- [x] page_274
+- [x] page_275
+- [x] page_276
+- [x] page_277
+- [x] page_278
+- [x] page_279
+- [x] page_280
 
 ## chapter_22_names_pattern_two  (pages 281-284, 4 pages)
 
-- [ ] page_281
-- [ ] page_282
-- [ ] page_283
-- [ ] page_284
+- [x] page_281
+- [x] page_282
+- [x] page_283
+- [x] page_284
 
 ## chapter_23_names_pattern_three  (pages 285-287, 3 pages)
 
-- [ ] page_285
-- [ ] page_286
-- [ ] page_287
+- [x] page_285
+- [x] page_286
+- [x] page_287
 
 ## chapter_24_names_pattern_four  (pages 288-293, 6 pages)
 
-- [ ] page_288
-- [ ] page_289
-- [ ] page_290
-- [ ] page_291
-- [ ] page_292
-- [ ] page_293
+- [x] page_288
+- [x] page_289
+- [x] page_290
+- [x] page_291
+- [x] page_292
+- [x] page_293
 
 ## chapter_25_names_pattern_five  (pages 294-296, 3 pages)
 
-- [ ] page_294
-- [ ] page_295
-- [ ] page_296
+- [x] page_294
+- [x] page_295
+- [x] page_296
 
 ## chapter_26_names_pattern_six  (pages 297-298, 2 pages)
 
-- [ ] page_297
-- [ ] page_298
+- [x] page_297
+- [x] page_298
 
 ## chapter_27_names_pattern_seven  (pages 299-302, 4 pages)
 
-- [ ] page_299
-- [ ] page_300
-- [ ] page_301
-- [ ] page_302
+- [x] page_299
+- [x] page_300
+- [x] page_301
+- [x] page_302
 
 ## chapter_28_names_pattern_eight  (pages 303-304, 2 pages)
 
-- [ ] page_303
-- [ ] page_304
+- [x] page_303
+- [x] page_304
 
 ## chapter_29_names_pattern_nine  (pages 305-307, 3 pages)
 
-- [ ] page_305
-- [ ] page_306
-- [ ] page_307
+- [x] page_305
+- [x] page_306
+- [x] page_307
 
 ## chapter_30_names_pattern_ten  (pages 308-319, 12 pages)
 
-- [ ] page_308
-- [ ] page_309
-- [ ] page_310
-- [ ] page_311
-- [ ] page_312
-- [ ] page_313
-- [ ] page_314
-- [ ] page_315
-- [ ] page_316
-- [ ] page_317
-- [ ] page_318
-- [ ] page_319
+- [x] page_308
+- [x] page_309
+- [x] page_310
+- [x] page_311
+- [x] page_312
+- [x] page_313
+- [x] page_314
+- [x] page_315
+- [x] page_316
+- [x] page_317
+- [x] page_318
+- [x] page_319
 
 ## chapter_31_arabic_letters  (pages 320-339, 20 pages)
 
-- [ ] page_320
-- [ ] page_321
-- [ ] page_322
-- [ ] page_323
-- [ ] page_324
-- [ ] page_325
-- [ ] page_326
-- [ ] page_327
-- [ ] page_328
-- [ ] page_329
-- [ ] page_330
-- [ ] page_331
-- [ ] page_332
-- [ ] page_333
-- [ ] page_334
-- [ ] page_335
-- [ ] page_336
-- [ ] page_337
-- [ ] page_338
-- [ ] page_339
+- [x] page_320
+- [x] page_321
+- [x] page_322
+- [x] page_323
+- [x] page_324
+- [x] page_325
+- [x] page_326
+- [x] page_327
+- [x] page_328
+- [x] page_329
+- [x] page_330
+- [x] page_331
+- [x] page_332
+- [x] page_333
+- [x] page_334
+- [x] page_335
+- [x] page_336
+- [x] page_337
+- [x] page_338
+- [x] page_339
 
 ## chapter_32_arod_secrets  (pages 340-350, 11 pages)
 
-- [ ] page_340
-- [ ] page_341
-- [ ] page_342
-- [ ] page_343
-- [ ] page_344
-- [ ] page_345
-- [ ] page_346
-- [ ] page_347
-- [ ] page_348
-- [ ] page_349
-- [ ] page_350
+- [x] page_340
+- [x] page_341
+- [x] page_342
+- [x] page_343
+- [x] page_344
+- [x] page_345
+- [x] page_346
+- [x] page_347
+- [x] page_348
+- [x] page_349
+- [x] page_350
 
 ## chapter_33_circle_encompassment  (pages 351-364, 14 pages)
 
-- [ ] page_351
-- [ ] page_352
-- [ ] page_353
-- [ ] page_354
-- [ ] page_355
-- [ ] page_356
-- [ ] page_357
-- [ ] page_358
-- [ ] page_359
-- [ ] page_360
-- [ ] page_361
-- [ ] page_362
-- [ ] page_363
-- [ ] page_364
+- [x] page_351
+- [x] page_352
+- [x] page_353
+- [x] page_354
+- [x] page_355
+- [x] page_356
+- [x] page_357
+- [x] page_358
+- [x] page_359
+- [x] page_360
+- [x] page_361
+- [x] page_362
+- [x] page_363
+- [x] page_364
 
 ## chapter_34_zayirja_science  (pages 365-378, 14 pages)
 
-- [ ] page_365
-- [ ] page_366
-- [ ] page_367
-- [ ] page_368
-- [ ] page_369
-- [ ] page_370
-- [ ] page_371
-- [ ] page_372
-- [ ] page_373
-- [ ] page_374
-- [ ] page_375
-- [ ] page_376
-- [ ] page_377
-- [ ] page_378
+- [x] page_365
+- [x] page_366
+- [x] page_367
+- [x] page_368
+- [x] page_369
+- [x] page_370
+- [x] page_371
+- [x] page_372
+- [x] page_373
+- [x] page_374
+- [x] page_375
+- [x] page_376
+- [x] page_377
+- [x] page_378
 
 ## chapter_35_jafr_rules  (pages 379-397, 19 pages)
 
-- [ ] page_379
-- [ ] page_380
-- [ ] page_381
-- [ ] page_382
-- [ ] page_383
-- [ ] page_384
-- [ ] page_385
-- [ ] page_386
-- [ ] page_387
-- [ ] page_388
-- [ ] page_389
-- [ ] page_390
-- [ ] page_391
-- [ ] page_392
-- [ ] page_393
-- [ ] page_394
-- [ ] page_395
-- [ ] page_396
-- [ ] page_397
+- [x] page_379
+- [x] page_380
+- [x] page_381
+- [x] page_382
+- [x] page_383
+- [x] page_384
+- [x] page_385
+- [x] page_386
+- [x] page_387
+- [x] page_388
+- [x] page_389
+- [x] page_390
+- [x] page_391
+- [x] page_392
+- [x] page_393
+- [x] page_394
+- [x] page_395
+- [x] page_396
+- [x] page_397
 
 ## chapter_36_talismanic_letters  (pages 398-400, 3 pages)
 
-- [ ] page_398
-- [ ] page_399
-- [ ] page_400
+- [x] page_398
+- [x] page_399
+- [x] page_400
 
 ## chapter_37_simia_works  (no pages (start-page collision in map), 0 pages)
 
 
 ## chapter_38_letter_uses_retreats  (pages 401-422, 22 pages)
 
-- [ ] page_401
-- [ ] page_402
-- [ ] page_403
-- [ ] page_404
-- [ ] page_405
-- [ ] page_406
-- [ ] page_407
-- [ ] page_408
-- [ ] page_409
-- [ ] page_410
-- [ ] page_411
-- [ ] page_412
-- [ ] page_413
-- [ ] page_414
-- [ ] page_415
-- [ ] page_416
-- [ ] page_417
-- [ ] page_418
-- [ ] page_419
-- [ ] page_420
-- [ ] page_421
-- [ ] page_422
+- [x] page_401
+- [x] page_402
+- [x] page_403
+- [x] page_404
+- [x] page_405
+- [x] page_406
+- [x] page_407
+- [x] page_408
+- [x] page_409
+- [x] page_410
+- [x] page_411
+- [x] page_412
+- [x] page_413
+- [x] page_414
+- [x] page_415
+- [x] page_416
+- [x] page_417
+- [x] page_418
+- [x] page_419
+- [x] page_420
+- [x] page_421
+- [x] page_422
 
 ## chapter_39_beautiful_names_explanation  (pages 423-515, 93 pages)
 
-- [ ] page_423
-- [ ] page_424
-- [ ] page_425
-- [ ] page_426
-- [ ] page_427
-- [ ] page_428
-- [ ] page_429
-- [ ] page_430
-- [ ] page_431
-- [ ] page_432
-- [ ] page_433
-- [ ] page_434
-- [ ] page_435
-- [ ] page_436
-- [ ] page_437
-- [ ] page_438
-- [ ] page_439
-- [ ] page_440
-- [ ] page_441
-- [ ] page_442
-- [ ] page_443
-- [ ] page_444
-- [ ] page_445
-- [ ] page_446
-- [ ] page_447
-- [ ] page_448
-- [ ] page_449
-- [ ] page_450
-- [ ] page_451
-- [ ] page_452
-- [ ] page_453
-- [ ] page_454
-- [ ] page_455
-- [ ] page_456
-- [ ] page_457
-- [ ] page_458
-- [ ] page_459
-- [ ] page_460
-- [ ] page_461
-- [ ] page_462
-- [ ] page_463
-- [ ] page_464
-- [ ] page_465
-- [ ] page_466
-- [ ] page_467
-- [ ] page_468
-- [ ] page_469
-- [ ] page_470
-- [ ] page_471
-- [ ] page_472
-- [ ] page_473
-- [ ] page_474
-- [ ] page_475
-- [ ] page_476
-- [ ] page_477
-- [ ] page_478
-- [ ] page_479
-- [ ] page_480
-- [ ] page_481
-- [ ] page_482
-- [ ] page_483
-- [ ] page_484
-- [ ] page_485
-- [ ] page_486
-- [ ] page_487
-- [ ] page_488
-- [ ] page_489
-- [ ] page_490
-- [ ] page_491
-- [ ] page_492
-- [ ] page_493
-- [ ] page_494
-- [ ] page_495
-- [ ] page_496
-- [ ] page_497
-- [ ] page_498
-- [ ] page_499
-- [ ] page_500
-- [ ] page_501
-- [ ] page_502
-- [ ] page_503
-- [ ] page_504
-- [ ] page_505
-- [ ] page_506
-- [ ] page_507
-- [ ] page_508
-- [ ] page_509
-- [ ] page_510
-- [ ] page_511
-- [ ] page_512
-- [ ] page_513
-- [ ] page_514
-- [ ] page_515
+- [x] page_423
+- [x] page_424
+- [x] page_425
+- [x] page_426
+- [x] page_427
+- [x] page_428
+- [x] page_429
+- [x] page_430
+- [x] page_431
+- [x] page_432
+- [x] page_433
+- [x] page_434
+- [x] page_435
+- [x] page_436
+- [x] page_437
+- [x] page_438
+- [x] page_439
+- [x] page_440
+- [x] page_441
+- [x] page_442
+- [x] page_443
+- [x] page_444
+- [x] page_445
+- [x] page_446
+- [x] page_447
+- [x] page_448
+- [x] page_449
+- [x] page_450
+- [x] page_451
+- [x] page_452
+- [x] page_453
+- [x] page_454
+- [x] page_455
+- [x] page_456
+- [x] page_457
+- [x] page_458
+- [x] page_459
+- [x] page_460
+- [x] page_461
+- [x] page_462
+- [x] page_463
+- [x] page_464
+- [x] page_465
+- [x] page_466
+- [x] page_467
+- [x] page_468
+- [x] page_469
+- [x] page_470
+- [x] page_471
+- [x] page_472
+- [x] page_473
+- [x] page_474
+- [x] page_475
+- [x] page_476
+- [x] page_477
+- [x] page_478
+- [x] page_479
+- [x] page_480
+- [x] page_481
+- [x] page_482
+- [x] page_483
+- [x] page_484
+- [x] page_485
+- [x] page_486
+- [x] page_487
+- [x] page_488
+- [x] page_489
+- [x] page_490
+- [x] page_491
+- [x] page_492
+- [x] page_493
+- [x] page_494
+- [x] page_495
+- [x] page_496
+- [x] page_497
+- [x] page_498
+- [x] page_499
+- [x] page_500
+- [x] page_501
+- [x] page_502
+- [x] page_503
+- [x] page_504
+- [x] page_505
+- [x] page_506
+- [x] page_507
+- [x] page_508
+- [x] page_509
+- [x] page_510
+- [x] page_511
+- [x] page_512
+- [x] page_513
+- [x] page_514
+- [x] page_515
 
 ## chapter_40_answered_supplications  (pages 516-604, 89 pages)
 
-- [ ] page_516
-- [ ] page_517
-- [ ] page_518
-- [ ] page_519
-- [ ] page_520
-- [ ] page_521
-- [ ] page_522
-- [ ] page_523
-- [ ] page_524
-- [ ] page_525
-- [ ] page_526
-- [ ] page_527
-- [ ] page_528
-- [ ] page_529
-- [ ] page_530
-- [ ] page_531
-- [ ] page_532
-- [ ] page_533
-- [ ] page_534
-- [ ] page_535
-- [ ] page_536
-- [ ] page_537
-- [ ] page_538
-- [ ] page_539
-- [ ] page_540
-- [ ] page_541
-- [ ] page_542
-- [ ] page_543
-- [ ] page_544
-- [ ] page_545
-- [ ] page_546
-- [ ] page_547
-- [ ] page_548
-- [ ] page_549
-- [ ] page_550
-- [ ] page_551
-- [ ] page_552
-- [ ] page_553
-- [ ] page_554
-- [ ] page_555
-- [ ] page_556
-- [ ] page_557
-- [ ] page_558
-- [ ] page_559
-- [ ] page_560
-- [ ] page_561
-- [ ] page_562
-- [ ] page_563
-- [ ] page_564
-- [ ] page_565
-- [ ] page_566
-- [ ] page_567
-- [ ] page_568
-- [ ] page_569
-- [ ] page_570
-- [ ] page_571
-- [ ] page_572
-- [ ] page_573
-- [ ] page_574
-- [ ] page_575
-- [ ] page_576
-- [ ] page_577
-- [ ] page_578
-- [ ] page_579
-- [ ] page_580
-- [ ] page_581
-- [ ] page_582
-- [ ] page_583
-- [ ] page_584
-- [ ] page_585
-- [ ] page_586
-- [ ] page_587
-- [ ] page_588
-- [ ] page_589
-- [ ] page_590
-- [ ] page_591
-- [ ] page_592
-- [ ] page_593
-- [ ] page_594
-- [ ] page_595
-- [ ] page_596
-- [ ] page_597
-- [ ] page_598
-- [ ] page_599
-- [ ] page_600
-- [ ] page_601
-- [ ] page_602
-- [ ] page_603
-- [ ] page_604
+- [x] page_516
+- [x] page_517
+- [x] page_518
+- [x] page_519
+- [x] page_520
+- [x] page_521
+- [x] page_522
+- [x] page_523
+- [x] page_524
+- [x] page_525
+- [x] page_526
+- [x] page_527
+- [x] page_528
+- [x] page_529
+- [x] page_530
+- [x] page_531
+- [x] page_532
+- [x] page_533
+- [x] page_534
+- [x] page_535
+- [x] page_536
+- [x] page_537
+- [x] page_538
+- [x] page_539
+- [x] page_540
+- [x] page_541
+- [x] page_542
+- [x] page_543
+- [x] page_544
+- [x] page_545
+- [x] page_546
+- [x] page_547
+- [x] page_548
+- [x] page_549
+- [x] page_550
+- [x] page_551
+- [x] page_552
+- [x] page_553
+- [x] page_554
+- [x] page_555
+- [x] page_556
+- [x] page_557
+- [x] page_558
+- [x] page_559
+- [x] page_560
+- [x] page_561
+- [x] page_562
+- [x] page_563
+- [x] page_564
+- [x] page_565
+- [x] page_566
+- [x] page_567
+- [x] page_568
+- [x] page_569
+- [x] page_570
+- [x] page_571
+- [x] page_572
+- [x] page_573
+- [x] page_574
+- [x] page_575
+- [x] page_576
+- [x] page_577
+- [x] page_578
+- [x] page_579
+- [x] page_580
+- [x] page_581
+- [x] page_582
+- [x] page_583
+- [x] page_584
+- [x] page_585
+- [x] page_586
+- [x] page_587
+- [x] page_588
+- [x] page_589
+- [x] page_590
+- [x] page_591
+- [x] page_592
+- [x] page_593
+- [x] page_594
+- [x] page_595
+- [x] page_596
+- [x] page_597
+- [x] page_598
+- [x] page_599
+- [x] page_600
+- [x] page_601
+- [x] page_602
+- [x] page_603
+- [x] page_604
