@@ -47,7 +47,6 @@ export default function ReaderApp({
 
   // Hydrate the single server-passed page immediately (no flash).
   // Then fetch the full manuscript in the background.
-  const [manuscriptReady, setManuscriptReady] = useState(false);
   useEffect(() => {
     // Step 1: use the server-embedded single page (always available)
     if (serverPage) {
@@ -66,9 +65,8 @@ export default function ReaderApp({
             hydrateManuscript(data);
           } catch { /* ignore */ }
         }
-        setManuscriptReady(true);
       })
-      .catch(() => setManuscriptReady(true));
+      .catch(() => { /* fallback text stays */ });
     return () => { cancelled = true; };
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
 

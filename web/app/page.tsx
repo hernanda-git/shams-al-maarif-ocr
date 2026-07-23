@@ -1,4 +1,4 @@
-import { seedManuscriptFromDisk } from "@/lib/manuscript";
+import { seedSinglePage } from "@/lib/manuscript";
 import ReaderApp from "@/components/ReaderApp";
 import path from "path";
 import { readFileSync } from "fs";
@@ -7,14 +7,13 @@ export const dynamic = "force-dynamic";
 export const revalidate = 0;
 
 const JSON_PATH = path.join(process.cwd(), "public", "manuscript.json");
-seedManuscriptFromDisk(JSON_PATH);
 
-function readSinglePage(n: number): unknown | null {
+function readSinglePage(n: number): Record<string, unknown> | null {
   try {
     if (!require("fs").existsSync(JSON_PATH)) return null;
-    const all = JSON.parse(readFileSync(JSON_PATH, "utf8"));
+    const all: unknown[] = JSON.parse(readFileSync(JSON_PATH, "utf8"));
     if (!Array.isArray(all)) return null;
-    return all.find((p: Record<string, unknown>) => p.page === n) ?? null;
+    return (all as Record<string, unknown>[]).find((p) => p.page === n) ?? null;
   } catch {
     return null;
   }
@@ -39,8 +38,10 @@ export default async function Page({
   const m = q("mode");
   const initialMode = m === "text" || m === "page" ? (m as "text" | "page") : "text";
 
-  // Only embed the single page the user opens (~15KB) instead of all 600 (~8MB).
+  // Read + seed only the current page (~15 KB) into the override store for SSR.
+  // This avoids parsing the full 7.8 MB manuscript on every request.
   const serverPage = readSinglePage(initialPage);
+  if (serverPage) seedSinglePage(serverPage);
 
   return (
     <ReaderApp

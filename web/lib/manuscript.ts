@@ -66,27 +66,18 @@ export function hydrateManuscript(input: ManuscriptInput): void {
 }
 
 /**
- * Synchronously seed the real manuscript from the bundled static JSON at
- * build/SSR time. Called once from the server component (page.tsx) so the
- * prerendered HTML already contains real text — no client-side fetch and no
- * "content flashes then swaps" on load. Falls back silently if the file is
- * absent (generator text is shown instead).
+ * Seed a single page into the override store for SSR (avoids parsing the
+ * full 7.8 MB manuscript on every request).
  */
-export function seedManuscriptFromDisk(jsonPath: string): void {
-  if (_override.source === "imported") return; // never clobber an explicit import
+export function seedSinglePage(pageData: Record<string, unknown>): void {
+  if (_override.source === "imported") return;
   try {
-    // Read with Node fs (server only). Use require to avoid bundling in client.
-    // eslint-disable-next-line @typescript-eslint/no-var-requires
-    const fs = require("fs") as typeof import("fs");
-    if (!fs.existsSync(jsonPath)) return;
-    const raw = fs.readFileSync(jsonPath, "utf8");
-    const json = JSON.parse(raw);
-    if (Array.isArray(json) && json.length) {
-      loadManuscript(json);
-      _override.source = "generator"; // still "real" data, not "imported"
+    const { pages } = normalizeManuscriptInput([pageData], TOTAL_PAGES);
+    for (const [k, v] of pages) {
+      _override.pages.set(k, v);
     }
   } catch {
-    /* ignore — generator fallback stays */
+    /* ignore */
   }
 }
 
