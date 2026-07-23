@@ -1,9 +1,9 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { getToc } from "@/lib/manuscript";
+import { getToc, getAllPages } from "@/lib/manuscript";
 import { LANGS, Lang, LastRead } from "@/lib/types";
-import { X, Search, Clock, Bookmark, BookOpen, Play } from "./icons";
+import { X, Search, Clock, Bookmark, BookOpen, FileText, Play } from "./icons";
 import clsx from "clsx";
 
 function timeAgo(at: number): string {
@@ -36,16 +36,26 @@ export function Sidebar({
   onJump: (p: number) => void;
   onResume: () => void;
 }) {
-  const [tab, setTab] = useState<"toc" | "bookmarks">("toc");
+  const [tab, setTab] = useState<"toc" | "pages" | "bookmarks">("toc");
   const [q, setQ] = useState("");
 
   const TOC = getToc();
+  const ALL_PAGES = useMemo(() => getAllPages(), []);
 
   const filteredToc = useMemo(() => {
     const t = q.trim().toLowerCase();
     if (!t) return TOC;
     return TOC.filter((s) => s.title[lang].toLowerCase().includes(t));
   }, [q, lang, TOC]);
+
+  const filteredPages = useMemo(() => {
+    const t = q.trim().toLowerCase();
+    if (!t) return ALL_PAGES;
+    return ALL_PAGES.filter((p) => {
+      const title = p.title?.[lang] ?? "";
+      return title.toLowerCase().includes(t);
+    });
+  }, [q, lang, ALL_PAGES]);
 
   const bookmarkedEntries = useMemo(
     () =>
@@ -58,6 +68,13 @@ export function Sidebar({
         }),
     [bookmarks, lang]
   );
+
+  const placeholder =
+    tab === "toc"
+      ? "Search sections…"
+      : tab === "pages"
+        ? "Search pages…"
+        : "Search bookmarks…";
 
   return (
     <>
@@ -125,7 +142,7 @@ export function Sidebar({
             <input
               value={q}
               onChange={(e) => setQ(e.target.value)}
-              placeholder="Search sections…"
+              placeholder={placeholder}
               className="w-full bg-transparent text-sm text-[var(--color-fg)] placeholder:text-[var(--color-muted)] focus:outline-none"
             />
           </div>
@@ -133,7 +150,7 @@ export function Sidebar({
 
         {/* Tabs */}
         <div className="flex gap-1 px-3 pb-2">
-          {(["toc", "bookmarks"] as const).map((t) => (
+          {(["toc", "pages", "bookmarks"] as const).map((t) => (
             <button
               key={t}
               onClick={() => setTab(t)}
@@ -146,7 +163,8 @@ export function Sidebar({
             >
               {t === "bookmarks" && <Bookmark width={14} height={14} />}
               {t === "toc" && <BookOpen width={14} height={14} />}
-              {t === "toc" ? "Sections" : `Saved (${bookmarks.length})`}
+              {t === "pages" && <FileText width={14} height={14} />}
+              {t === "toc" ? "Sections" : t === "pages" ? "Pages" : `Saved (${bookmarks.length})`}
             </button>
           ))}
         </div>
@@ -185,7 +203,41 @@ export function Sidebar({
             })}
           {tab === "toc" && filteredToc.length === 0 && (
             <p className="px-3 py-6 text-center text-sm text-[var(--color-muted)]">
-              No sections match “{q}”.
+              No sections match &ldquo;{q}&rdquo;.
+            </p>
+          )}
+
+          {tab === "pages" &&
+            filteredPages.map((p) => {
+              const active = p.page === page;
+              return (
+                <button
+                  key={p.page}
+                  onClick={() => onJump(p.page)}
+                  className={clsx(
+                    "mb-0.5 flex w-full items-center gap-2 rounded-lg px-3 py-2 text-left text-sm transition-colors",
+                    active
+                      ? "bg-[var(--color-panel-2)] text-[var(--color-gold-soft)]"
+                      : "text-[var(--color-fg-soft)] hover:bg-[var(--color-panel)]"
+                  )}
+                >
+                  <span className="shrink-0 text-xs tabular-nums text-[var(--color-muted)] w-7">
+                    {String(p.page).padStart(3, "0")}
+                  </span>
+                  <span
+                    className={clsx(
+                      "truncate",
+                      lang === "ar" && "font-[var(--font-amiri)] text-base"
+                    )}
+                  >
+                    {p.title?.[lang] ?? ""}
+                  </span>
+                </button>
+              );
+            })}
+          {tab === "pages" && filteredPages.length === 0 && (
+            <p className="px-3 py-6 text-center text-sm text-[var(--color-muted)]">
+              No pages match &ldquo;{q}&rdquo;.
             </p>
           )}
 

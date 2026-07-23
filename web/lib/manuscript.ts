@@ -115,6 +115,24 @@ function generatePage(page: number): ManuscriptPage {
 
 const _cache = new Map<number, ManuscriptPage>();
 
+/** Return all 600 pages sorted by page number, with real data when available. */
+export function getAllPages(): ManuscriptPage[] {
+  const arr: ManuscriptPage[] = [];
+  for (let p = 1; p <= TOTAL_PAGES; p++) {
+    const imp = _override.pages.get(p);
+    if (imp) {
+      arr.push(imp);
+    } else if (_cache.has(p)) {
+      arr.push(_cache.get(p)!);
+    } else {
+      const mp = generatePage(p);
+      _cache.set(p, mp);
+      arr.push(mp);
+    }
+  }
+  return arr;
+}
+
 export function getPage(page: number): ManuscriptPage {
   const p = Math.min(TOTAL_PAGES, Math.max(1, page));
   // 1) imported data wins
