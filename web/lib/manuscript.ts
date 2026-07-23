@@ -115,19 +115,23 @@ function generatePage(page: number): ManuscriptPage {
 
 const _cache = new Map<number, ManuscriptPage>();
 
-/** Return all 600 pages sorted by page number, with real data when available. */
-export function getAllPages(): ManuscriptPage[] {
-  const arr: ManuscriptPage[] = [];
+/** Page title entry — lightweight, no full text. */
+export interface PageTitleEntry {
+  page: number;
+  title: Record<Lang, string>;
+}
+
+/** Return all 600 page titles. Only reads the `title` field — no full text. */
+export function getPageTitles(): PageTitleEntry[] {
+  const arr: PageTitleEntry[] = [];
   for (let p = 1; p <= TOTAL_PAGES; p++) {
     const imp = _override.pages.get(p);
-    if (imp) {
-      arr.push(imp);
-    } else if (_cache.has(p)) {
-      arr.push(_cache.get(p)!);
+    if (imp && imp.title) {
+      arr.push({ page: p, title: imp.title });
     } else {
-      const mp = generatePage(p);
-      _cache.set(p, mp);
-      arr.push(mp);
+      // fallback: use section title
+      const sec = sectionOfPage(p);
+      arr.push({ page: p, title: sec.title });
     }
   }
   return arr;
