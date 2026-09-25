@@ -3,7 +3,7 @@
   "total_pages": 604,
   "sequence_policy": "strict-lowest-uncommitted",
   "created_at": "2026-09-25T03:54:12+00:00",
-  "updated_at": "2026-09-25T05:08:44+00:00",
+  "updated_at": "2026-09-25T05:13:55+00:00",
   "active_page": null,
   "pages": {
     "1": {
@@ -278,17 +278,30 @@
     },
     "11": {
       "page": 11,
-      "status": "pending",
-      "attempts": 0,
-      "owner": null,
-      "claimed_at": null,
-      "heartbeat_at": null,
-      "review_submitted_at": null,
-      "reviewer": null,
-      "validator": null,
+      "status": "committed",
+      "attempts": 1,
+      "owner": "hermes-translation-v2-20260925",
+      "claimed_at": "2026-09-25T05:08:52+00:00",
+      "heartbeat_at": "2026-09-25T05:13:48+00:00",
+      "review_submitted_at": "2026-09-25T05:13:48+00:00",
+      "reviewer": "independent-reviewer",
+      "validator": {
+        "ok": true,
+        "page": 11,
+        "source_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched/page_011.txt",
+        "english_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_en/page_011.txt",
+        "indonesian_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_id/page_011.txt",
+        "json_path": "C:/Working Folder/Research/shams-al-maarif-ocr/web/public/manuscript.json",
+        "blank_source": false,
+        "english_block": "5\n\nApplications of the letters and their retreats in general and in detail (the thirty-ninth chapter) in the explanation of the Beautiful Names of God\nas set out by way of explanation and detail (the fortieth chapter) in the individual supplications recited throughout\nall the nights and times\n\n(The first chapter concerning the dotted letters and what is in them of secrets and hidden meanings)\n\nI say, and with God is success and guidance, the aims of the seekers have been divided into two parts, worldly and otherworldly, and each\none of them is divided into sections according to the purposes. And people have spoken concerning the opposition or correspondence of times and the observation of the stars\nand the exercises and the acts of talismans before the setting down of this book and the discourse upon it. And this science is expansive; many people\nhave desired it, especially those who found it to have a great effect. So I wanted to address this with an account that operates like a form of perception in the practices of\nthose versed in this science. And the early sages spoke concerning it, and many people agreed to that saying. If such practices multiply\nin this world, they harm in the Hereafter. What I mention to you will benefit you in this world and the Hereafter.\n(Chapter concerning the mention of the dotted letters: are they the roots of speech and its foundation, and by them its building is raised)\n(And know) that for numbers there are secrets just as for letters there are effects, and that the upper world supplies the lower world; so the world of the Throne supplies the world of\nthe Kursi, and the world of the Kursi supplies the sphere of Saturn, and the sphere of Saturn supplies the sphere of Jupiter, and the sphere of Jupiter supplies the sphere of Mars, and the sphere of Mars\nsupplies the sphere of the Sun, and the sphere of the Sun supplies the sphere of Venus, and the sphere of Venus supplies the sphere of Mercury, and the sphere of Mercury supplies the sphere of the Moon,\nand the sphere of the Moon supplies the sphere of heat, and the sphere of heat supplies the sphere of moisture, and the sphere of moisture supplies the sphere of cold, and the sphere of\ncold supplies the sphere of dryness, and the sphere of dryness supplies the sphere of air, and the sphere of air supplies the sphere of water, and the sphere of water supplies the sphere of\nearth, and the sphere of earth supplies the sphere of Saturn. In the upper realm, the letter is jīm, and its number is three in general;\nin detail it is fifty-three: mīm is four and bāʾ is three. It also consists of three letters; in the lower realm it is the letter ṣād, whose number is ninety, while its general number\nin the upper realm is five, represented by hāʾ. Its fivefold wafq is associated with the sphere of Jupiter; its number is six, represented by wāw, and it has a sixfold wafq\nThe operation of the sphere of Venus uses the letter zāy and a sevenfold wafq. The operation of the sphere of Mercury has number eight,\nrepresented by ḥāʾ, and an eightfold wafq. The operation of the sphere of the Moon has number nine, represented by ṭāʾ,\nand a ninefold wafq. Saturn has the triangle well known among scholars; understand this.\n(Chapter concerning the correspondence of the human essence)\nSo the Throne has the letter alif, and the Kursi has the letter ba, and Saturn has the letter jim, and so on to the Moon, as stated above.\n(Chapter) And the letters are of kinds: some begin on the right—the Arabic letters—and some begin\non the left—the Roman, Greek, and Coptic letters. And every writing on the right is connected, and every writing on the left\nis separate, so understand that. The letters number twenty-eight, excluding lām-alif; together they complete twenty-nine, the number of the lunar mansions.\nSince fourteen of the mansions appear above the earth, these letters\ninclude fourteen that assimilate with the lām of the definite article: tāʾ, thāʾ, dāl, dhāl, rāʾ, zāy, sīn, shīn, ṣād, ḍād, ṭāʾ, ẓāʾ, lām, nūn",
+        "indonesian_block": "5\n\nPenggunaan huruf-huruf dan khalwat-khalwatnya secara umum dan terperinci (bab yang ke-39) dalam penjelasan Nama-nama Allah\nYang Paling Indah sebagaimana dijelaskan secara terperinci (bab yang ke-40) dalam doa-doa khusus yang dibaca pada\nseluruh malam dan waktu\n\n(Bab pertama tentang huruf-huruf bertitik dan rahasia serta makna tersembunyi di dalamnya)\n\nAku berkata, dan dengan Allah taufik dan petunjuk, sungguh telah terbagi tuntutan-tuntutan para pencari menjadi dua bagian: duniawi dan ukhrawi, dan masing-masing\ndari keduanya terbagi menjadi bagian-bagian menurut tujuan-tujuan. Orang-orang telah membahas pertentangan atau penyesuaian waktu dan pengamatan terhadap bintang-bintang\nserta latihan rohani dan praktik-praktik talisman sebelum penulisan kitab ini dan pembicaraan tentangnya. Dan ilmu ini luas; banyak orang\nmenginginkannya, terutama mereka yang menemukan pengaruh besar di dalamnya. Maka aku ingin membahasnya dengan uraian yang dapat menjadi semacam persepsi dalam praktik\npara ahli ilmu ini. Para filsuf terdahulu telah membicarakannya, dan banyak manusia menyetujui ucapan itu. Jika hal-hal semacam itu berlipat ganda\ndi dunia, ia akan merusak di akhirat. Apa yang kusebutkan kepadamu ini akan bermanfaat di dunia dan di akhirat.\n(Pasal tentang huruf-huruf bertitik: apakah ia merupakan akar dan dasar ucapan, dan dengannya bangunan ucapan ditegakkan)\n(Dan ketahuilah) bahwa bagi bilangan-bilangan ada rahasia-rahasia sebagaimana bagi huruf-huruf ada pengaruh-pengaruh, dan bahwa alam atas menopang alam bawah; maka alam\nArsy menopang alam Kursi, dan alam Kursi menopang falak Zuhal, dan falak Zuhal menopang falak Musytari, dan falak Musytari menopang falak Marikh, dan falak Marikh\nmenopang falak Matahari, dan falak Matahari menopang falak Zuhrah, dan falak Zuhrah menopang falak ‘Utarid, dan falak ‘Utarid menopang falak Bulan,\ndan falak Bulan menopang falak panas, dan falak panas menopang falak kelembapan, dan falak kelembapan menopang falak dingin, dan falak\ndingin menopang falak kekeringan, dan falak kekeringan menopang falak udara, dan falak udara menopang falak air, dan falak air menopang falak\ntanah, dan falak tanah menopang falak Zuhal. Dalam alam atas, hurufnya adalah jīm, dan bilangan yang terkait dengannya adalah tiga\nsecara umum; secara terperinci nilainya lima puluh tiga: mīm bernilai empat dan bāʾ bernilai tiga. Ia juga terdiri atas tiga huruf; di alam bawah ia adalah huruf ṣād, bernilai sembilan puluh, sedangkan nilainya di alam atas secara umum adalah lima,\nyaitu huruf hāʾ. Wafq lima sisi dan falak Musytari terkait dengannya pada angka enam, yaitu huruf wāw, dan ia memiliki wafq enam sisi\nPengaturan falak Zuhrah menggunakan huruf zāy dan wafq tujuh sisi. Pengaturan falak ‘Utarid terkait dengan angka delapan,\nyaitu huruf ḥāʾ, dan wafq delapan sisi. Pengaturan falak Bulan terkait dengan angka sembilan, yaitu huruf ṭāʾ,\ndan wafq sembilan sisi. Zuhal memiliki segitiga yang masyhur di kalangan para ulama; pahamilah hal ini.\n(Pasal tentang hubungan zat manusia)\nMaka Arsy memiliki huruf alif, dan Kursi memiliki huruf ba, dan Zuhal memiliki huruf jim, dan demikian seterusnya hingga Bulan, sebagaimana telah dijelaskan.\n(Pasal) Dan huruf-huruf itu berbagai jenis: sebagian dimulai dari kanan—yaitu huruf-huruf Arab—dan sebagian dimulai\ndari kiri—yaitu huruf-huruf Rumawi, Yunani, dan Qibti. Dan setiap tulisan di kanan tersambung, dan setiap tulisan di kiri\nterpisah. Pahamilah hal ini. Huruf-huruf itu berjumlah dua puluh delapan, selain lām-alif; bersama-sama melengkapi dua puluh sembilan, yaitu jumlah manzilah bulan.\nKarena empat belas manzilah tampak di atas bumi, di antara huruf-huruf ini ada yang diidgamkan dengan lām al-ta‘rīf; keempat belas huruf itu adalah: tāʾ, thāʾ, dāl, dhāl, rāʾ, zāy, sīn, shīn, ṣād, ḍād, ṭāʾ, ẓāʾ, lām, nūn.",
+        "record_found": true,
+        "errors": [],
+        "warnings": []
+      },
       "last_error": null,
-      "commit_sha": null,
-      "committed_at": null
+      "commit_sha": "bff688b",
+      "committed_at": "2026-09-25T05:13:55+00:00"
     },
     "12": {
       "page": 12,
