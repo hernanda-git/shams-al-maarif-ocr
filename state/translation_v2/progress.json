@@ -3,7 +3,7 @@
   "total_pages": 604,
   "sequence_policy": "strict-lowest-uncommitted",
   "created_at": "2026-09-25T03:54:12+00:00",
-  "updated_at": "2026-09-25T06:11:40+00:00",
+  "updated_at": "2026-09-25T06:14:29+00:00",
   "active_page": null,
   "pages": {
     "1": {
@@ -629,17 +629,30 @@
     },
     "24": {
       "page": 24,
-      "status": "pending",
-      "attempts": 0,
-      "owner": null,
-      "claimed_at": null,
-      "heartbeat_at": null,
-      "review_submitted_at": null,
-      "reviewer": null,
-      "validator": null,
+      "status": "committed",
+      "attempts": 1,
+      "owner": "hermes-translation-v2-20260925",
+      "claimed_at": "2026-09-25T06:11:46+00:00",
+      "heartbeat_at": "2026-09-25T06:14:21+00:00",
+      "review_submitted_at": "2026-09-25T06:14:21+00:00",
+      "reviewer": "independent-reviewer",
+      "validator": {
+        "ok": true,
+        "page": 24,
+        "source_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched/page_024.txt",
+        "english_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_en/page_024.txt",
+        "indonesian_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_id/page_024.txt",
+        "json_path": "C:/Working Folder/Research/shams-al-maarif-ocr/web/public/manuscript.json",
+        "blank_source": false,
+        "english_block": "18\n\n[Chapter on the iḍmār, the concealed forms of the letter-angels without which the work is not complete]\n\nIf you desire to perform a work, examine the letters of the name of the seeker, the sought object, and the name of that day. Subtract 33 from them; if a remainder less than 33 remains, the final letter determines the iḍmār for that exact letter. The people associated with the names cannot depart from this even for the blink of an eye. This is among the most extensive operations. The form of the iḍmār of the angels is as follows.\n\nThe angel of alif is Talhaṭayāʾīl, and its iḍmār consists of these names: Hadhayūb, Samṭā, Yāsamkhalaq. The angel of bāʾ: its iḍmār is Tasīkh, Halīīj, Marīkh. The angel of jīm: its iḍmār is Mahlīīj, Salāk, Bihalūh. The angel of dāl: its iḍmār is Muḥaṭṭamatka. The angel of hāʾ: its iḍmār is Maḥṭamalak. The angel of rāʾ: its iḍmār is Mahlūh, Salīmūḥ, Barākh. The angel of zāy: its iḍmār is Saʿdabūāh, Ṭalṭam. The angel of ḥāʾ: its iḍmār is Laylā, Ṭalḥ. The angel of ṭāʾ: its iḍmār is Shamhaṭ, Salīsāḥ, Ṭamh. The angel of yāʾ: its iḍmār is Maqh, Hakahf, Suwaydaḥ. The angel of kāf: its iḍmār is Sabʿūdah, Naftā, Madīḥ. The angel of lām: its iḍmār is ʿAṭīṭ, Ṭamsh. The angel of nūn: its iḍmār is Madīḥ, Kalīl. The angel of sīn: its iḍmār is Ḥamṭ, Maṭlaʿ, Mamlaṭ, Jism. The angel of ʿayn: its iḍmār is Lajlīm, ʿan Fawādir. The angel of fāʾ: its iḍmār is Kayṭam, Warṭsh, Ḥafīẓ. The angel of ṣād: its iḍmār is Masʿūd, Hamīsh. The angel of qāf: its iḍmār is ʿAdʿaqīr, al-Ṭalḥayāsh. The angel of zāy: its iḍmār is Saṭīt, Halīl, Dahyūm. The angel of shīn: its iḍmār is ʿAslasīn, Hahfaʿal, Maḥṭ. The angel of tāʾ: its iḍmār is Yamrīlūh, Ḥafīṭ. The angel of thāʾ: its iḍmār is Maḥfaṭ. The angel of ḥāʾ: its iḍmār is Hajīḥ, Hahyahal. The angel of dhāl: its iḍmār is ʿĀmiṣ, Muḥad, Salīṭ. The angel of ḍād: its iḍmār is ʿĀlamiṣ, Ṣahdaʿ, Shabāṭ. The angel of ẓāʾ: its iḍmār is Nūʿ, Radgh, Ahmūsh, Ahmūsh.\n\n[UNCLEAR: the source's wording about the shared iḍmār of the angels of ḍād and ṭāʾ.] The angel of ghayn: its iḍmār is Saʿaltu, Kalakat, Ahyūdh, and Niʿmat. The complete set of iḍmārs is this. Allah, Glorified and Exalted, knows best what is correct. May Allah bless our master Muḥammad, his family, and his companions, and grant them peace.\n\n[The third chapter: on the rulings of the twenty-eight celestial mansions]\n\nKnow — may Allah grant me and you success in obeying Him — that there are matters by which the crescent of each month can be identified in relation to each mansion. Look at the last day of the Arabic month, for the Sun and Moon will be in one mansion. Then determine, at the end of that day, whether it falls in the first, second, or third third of the Roman month, or in the first or second half. Enter the elapsed days of the Arabic month under that third or half, and you will find the mansion in which the Moon is; take note of it. Then enter the elapsed days of the Coptic month across the mansions, and you will know the mansion in which it is.\n\nFor example, suppose the crescent is in al-Sharaṭayn on the first night and seven days have elapsed from the Arabic month. If we want to know the mansion in which the Moon is on that day, we count seven mansions from al-Sharaṭayn and arrive at al-Dhirāʿ. We therefore know that the Moon is in al-Dhirāʿ. Apply the same method. This is the form of the circle, as you can see; understand, and you will be guided.\n\n[CONTINUES ON NEXT PAGE]",
+        "indonesian_block": "18\n\n[Bab tentang iḍmār, bentuk-bentuk tersembunyi para malaikat huruf yang tanpanya pekerjaan tidak sempurna]\n\nApabila engkau hendak melakukan suatu pekerjaan, perhatikan huruf-huruf dari nama pencari, objek yang dicari, dan nama hari tersebut. Kurangkan 33 dari semuanya; apabila tersisa sisa yang kurang dari 33, huruf terakhir menentukan iḍmār untuk huruf itu sendiri. Orang-orang yang terkait dengan nama-nama tersebut tidak dapat menyimpang darinya bahkan sekejap mata. Ini termasuk pekerjaan yang paling luas. Inilah bentuk iḍmār para malaikat tersebut.\n\nMalaikat alif adalah Talhaṭayāʾīl, dan iḍmār-nya terdiri dari nama-nama ini: Hadhayūb, Samṭā, Yāsamkhalaq. Malaikat bāʾ: iḍmār-nya adalah Tasīkh, Halīīj, Marīkh. Malaikat jīm: iḍmār-nya adalah Mahlīīj, Salāk, Bihalūh. Malaikat dāl: iḍmār-nya adalah Muḥaṭṭamatka. Malaikat hāʾ: iḍmār-nya adalah Maḥṭamalak. Malaikat rāʾ: iḍmār-nya adalah Mahlūh, Salīmūḥ, Barākh. Malaikat zāy: iḍmār-nya adalah Saʿdabūāh, Ṭalṭam. Malaikat ḥāʾ: iḍmār-nya adalah Laylā, Ṭalḥ. Malaikat ṭāʾ: iḍmār-nya adalah Shamhaṭ, Salīsāḥ, Ṭamh. Malaikat yāʾ: iḍmār-nya adalah Maqh, Hakahf, Suwaydaḥ. Malaikat kāf: iḍmār-nya adalah Sabʿūdah, Naftā, Madīḥ. Malaikat lām: iḍmār-nya adalah ʿAṭīṭ, Ṭamsh. Malaikat nūn: iḍmār-nya adalah Madīḥ, Kalīl. Malaikat sīn: iḍmār-nya adalah Ḥamṭ, Maṭlaʿ, Mamlaṭ, Jism. Malaikat ʿayn: iḍmār-nya adalah Lajlīm, ʿan Fawādir. Malaikat fāʾ: iḍmār-nya adalah Kayṭam, Warṭsh, Ḥafīẓ. Malaikat ṣād: iḍmār-nya adalah Masʿūd, Hamīsh. Malaikat qāf: iḍmār-nya adalah ʿAdʿaqīr, al-Ṭalḥayāsh. Malaikat zāy: iḍmār-nya adalah Saṭīt, Halīl, Dahyūm. Malaikat shīn: iḍmār-nya adalah ʿAslasīn, Hahfaʿal, Maḥṭ. Malaikat tāʾ: iḍmār-nya adalah Yamrīlūh, Ḥafīṭ. Malaikat thāʾ: iḍmār-nya adalah Maḥfaṭ. Malaikat ḥāʾ: iḍmār-nya adalah Hajīḥ, Hahyahal. Malaikat dhāl: iḍmār-nya adalah ʿĀmiṣ, Muḥad, Salīṭ. Malaikat ḍād: iḍmār-nya adalah ʿĀlamiṣ, Ṣahdaʿ, Shabāṭ. Malaikat ẓāʾ: iḍmār-nya adalah Nūʿ, Radgh, Ahmūsh, Ahmūsh.\n\n[UNCLEAR: redaksi sumber tentang iḍmār bersama milik malaikat ḍād dan ṭāʾ.] Malaikat ghayn: iḍmār-nya adalah Saʿaltu, Kalakat, Ahyūdh, dan Niʿmat. Jumlah seluruh iḍmār adalah ini. Allah Yang Maha Suci dan Maha Tinggi paling mengetahui kebenaran. Semoga Allah melimpahkan selawat kepada junjungan kami Muḥammad, keluarganya, dan para sahabatnya, serta memberikan keselamatan.\n\n[Bab ketiga: tentang hukum-hukum dua puluh delapan manzilah falakiyah]\n\nKetahuilah — semoga Allah memberiku dan memberimu taufik untuk menaati-Nya — bahwa terdapat perkara-perkara yang dengannya hilal setiap bulan dapat diketahui dalam kaitannya dengan setiap manzilah. Perhatikan hari terakhir bulan Arab, karena Matahari dan Bulan berada dalam satu manzilah. Kemudian tentukan, pada akhir hari itu, apakah ia berada pada sepertiga pertama, kedua, atau ketiga dari bulan Romawi, atau pada separuh pertama atau kedua. Masukkan hari-hari yang telah berlalu dari bulan Arab di bawah sepertiga atau separuh tersebut, dan engkau akan menemukan manzilah tempat Bulan berada; catatlah. Kemudian masukkan hari-hari yang telah berlalu dari bulan Koptik pada manzilah-manzilah itu, dan engkau akan mengetahui manzilah tempat ia berada.\n\nSebagai contoh, anggaplah hilal berada di al-Syaraṭayn pada malam pertama dan tujuh hari telah berlalu dari bulan Arab. Jika kita ingin mengetahui manzilah tempat Bulan berada pada hari itu, kita menghitung tujuh manzilah dari al-Syaraṭayn dan sampai di al-Dzirāʿ. Dengan demikian kita mengetahui bahwa Bulan berada di al-Dzirāʿ. Terapkan cara yang sama. Inilah bentuk lingkaran, sebagaimana dapat engkau lihat; pahamilah, niscaya engkau mendapat petunjuk.\n\n[BERSAMBUNG KE HALAMAN BERIKUTNYA]",
+        "record_found": true,
+        "errors": [],
+        "warnings": []
+      },
       "last_error": null,
-      "commit_sha": null,
-      "committed_at": null
+      "commit_sha": "f79d91f",
+      "committed_at": "2026-09-25T06:14:29+00:00"
     },
     "25": {
       "page": 25,
