@@ -3,7 +3,7 @@
   "total_pages": 604,
   "sequence_policy": "strict-lowest-uncommitted",
   "created_at": "2026-09-25T03:54:12+00:00",
-  "updated_at": "2026-09-25T04:33:33+00:00",
+  "updated_at": "2026-09-25T04:36:24+00:00",
   "active_page": null,
   "pages": {
     "1": {
@@ -35,17 +35,30 @@
     },
     "2": {
       "page": 2,
-      "status": "pending",
-      "attempts": 0,
-      "owner": null,
-      "claimed_at": null,
-      "heartbeat_at": null,
-      "review_submitted_at": null,
-      "reviewer": null,
-      "validator": null,
+      "status": "committed",
+      "attempts": 1,
+      "owner": "hermes-translation-v2-20260925",
+      "claimed_at": "2026-09-25T04:33:57+00:00",
+      "heartbeat_at": "2026-09-25T04:36:11+00:00",
+      "review_submitted_at": "2026-09-25T04:36:11+00:00",
+      "reviewer": "independent-reviewer",
+      "validator": {
+        "ok": true,
+        "page": 2,
+        "source_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched/page_002.txt",
+        "english_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_en/page_002.txt",
+        "indonesian_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_id/page_002.txt",
+        "json_path": "C:/Working Folder/Research/shams-al-maarif-ocr/web/public/manuscript.json",
+        "blank_source": false,
+        "english_block": "RBSC Islamic\nBF 1410\nB8\n1927\n\nMcGill\nUniversity\nLibraries\nIslamic Studies Library\n\n3537621",
+        "indonesian_block": "RBSC Islamic\nBF 1410\nB8\n1927\n\nMcGill\nUniversitas\nPerpustakaan\nPerpustakaan Studi Islam\n\n3537621",
+        "record_found": true,
+        "errors": [],
+        "warnings": []
+      },
       "last_error": null,
-      "commit_sha": null,
-      "committed_at": null
+      "commit_sha": "d9cc0fb",
+      "committed_at": "2026-09-25T04:36:24+00:00"
     },
     "3": {
       "page": 3,
