@@ -3,7 +3,7 @@
   "total_pages": 604,
   "sequence_policy": "strict-lowest-uncommitted",
   "created_at": "2026-09-25T03:54:12+00:00",
-  "updated_at": "2026-09-25T05:04:41+00:00",
+  "updated_at": "2026-09-25T05:08:44+00:00",
   "active_page": null,
   "pages": {
     "1": {
@@ -251,17 +251,30 @@
     },
     "10": {
       "page": 10,
-      "status": "pending",
-      "attempts": 0,
-      "owner": null,
-      "claimed_at": null,
-      "heartbeat_at": null,
-      "review_submitted_at": null,
-      "reviewer": null,
-      "validator": null,
+      "status": "committed",
+      "attempts": 1,
+      "owner": "hermes-translation-v2-20260925",
+      "claimed_at": "2026-09-25T05:04:47+00:00",
+      "heartbeat_at": "2026-09-25T05:08:37+00:00",
+      "review_submitted_at": "2026-09-25T05:08:37+00:00",
+      "reviewer": "independent-reviewer",
+      "validator": {
+        "ok": true,
+        "page": 10,
+        "source_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched/page_010.txt",
+        "english_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_en/page_010.txt",
+        "indonesian_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_id/page_010.txt",
+        "json_path": "C:/Working Folder/Research/shams-al-maarif-ocr/web/public/manuscript.json",
+        "blank_source": false,
+        "english_block": "— 2 —\nThe dotted letters and the secrets and hidden meanings arranged within them. ﴿ Chapter Two ﴾ in contraction and expansion and the arrangement of\nworks in the times and hours. ﴿ Chapter Three ﴾ in the twenty-eight celestial mansions of the moon. ﴿ Chapter Four ﴾ in the rulings of the twelve signs of the zodiac and their indications and correspondences.\n﴿ Chapter Five ﴾ in the secrets of the basmala and its hidden properties and blessings. ﴿ Chapter Six ﴾\nin seclusion and the people of retreat that lead to the higher realms. ﴿ Chapter Seven ﴾ in the names by which Jesus\n(peace be upon him) used to bring the dead to life. ﴿ Chapter Eight ﴾ in the four tawqīfāt and their sections\nand the circles. ﴿ Chapter Nine ﴾ in the properties of the beginnings of the Qur’an and the clear verses. ﴿ Chapter Ten ﴾\nin the secrets of al-Fātiḥa and its supplications and its famous properties. ﴿ Chapter Eleven ﴾ in the inventions\nand in the lights of the realm of mercy. ﴿ Chapter Twelve ﴾ in the Greatest Name of Allah and its hidden operations.\n﴿ Chapter Thirteen ﴾ in the omitted elements of al-Fātiḥa and their wafqs and supplications. ﴿ Chapter\nFourteen ﴾ in the spiritual exercises and the remembrances and supplications that are answered and made effective. ﴿ Chapter Fifteen ﴾\nin the conditions required for some but not others, from the beginnings to the suns of the endings. ﴿ Chapter Sixteen ﴾ in the Beautiful Names of Allah and their beneficial, tested times. ﴿ Chapter Seventeen ﴾ in\nthe properties of Kāf Hā Yā ʿAyn Ṣād and its divine, most holy letters. ﴿ Chapter Eighteen ﴾ in the properties of the Verse\nof the Throne and its hidden blessings. ﴿ Chapter Nineteen ﴾ in the properties of some wafqs\nand the beneficial talismans. ﴿ Chapter Twenty ﴾ in Sūrat Yā Sīn and its answered supplications.\n﴿ Chapter Twenty-One ﴾ in the Beautiful Names of Allah and their patterns and the supplications and operations associated with each pattern.\n﴿ Chapter Twenty-Two ﴾ in the second pattern and the names that bestow gifts. ﴿ Chapter Twenty-Three ﴾\nin the third pattern and what indicates the [UNCLEAR: Ādiyāt] attributes. ﴿ Chapter Twenty-Four ﴾ in the fourth pattern and the secrets of the Lord of creation. ﴿ Chapter Twenty-Five ﴾ in the fifth pattern and its selected properties. ﴿ Chapter Twenty-Six ﴾ in the sixth pattern and the secrets of the requisite obligations.\n﴿ Chapter Twenty-Seven ﴾ in the seventh pattern from the Names of Allah (exalted is He) and their blessings. ﴿ Chapter\nTwenty-Eight ﴾ in the eighth pattern from the Beautiful Names and their hidden secrets. ﴿ Chapter Twenty-Nine ﴾ in the ninth\npattern from the Beautiful Names and their operations. ﴿ Chapter Thirty ﴾ in the\ntenth pattern from the Beautiful Names and their beneficial secrets. ﴿ Chapter Thirty-One ﴾ in the letters\nof Arabic and the planets, attendants, minerals, and retreats associated with them. ﴿ Chapter Thirty-Two ﴾ in the secrets\nof uncovering the metaphysical aspects of ʿarūḍ. ﴿ Chapter Thirty-Three ﴾ in the explanation of the secrets of the Circle of Encompassment and the foundations and definitions that emerge from it. ﴿ Chapter Thirty-Four ﴾ in the science of the Zāyirja and the correspondences of letters and zodiac signs, and the well-known balances. ﴿ Chapter Thirty-Five ﴾ in the hidden letter science according to the rules of Jafr. ﴿ Chapter\nThirty-Six ﴾ in the divine effusion, the radiant light and the honored stone and the properties of plants.\n﴿ Chapter Thirty-Seven ﴾ in the works of Sīmiyāʾ and all related discussions. ﴿ Chapter Thirty-Eight ﴾ in\napplications",
+        "indonesian_block": "— 2 —\nHuruf-huruf mu‘jamah (bertitik) dan rahasia serta makna-makna tersembunyi yang tersusun di dalamnya. [ Pasal Kedua ] tentang penyusutan dan pengembangan serta penyusunan\namal-amal dalam waktu-waktu dan jam-jam. [ Pasal Ketiga ] tentang hukum-hukum dua puluh delapan manzil (tempat menetap) bulan,\nyang bersifat samawi. [ Pasal Keempat ] tentang hukum-hukum dua belas buruj zodiak beserta isyarat dan keterkaitannya.\n[ Pasal Kelima ] tentang rahasia basmalah beserta keutamaan dan berkah tersembunyinya. [ Pasal Keenam ]\ntentang khalwat (menyendiri) dan orang-orang yang ber-i‘tikaf yang mengantarkan menuju alam-alam tinggi. [ Pasal Ketujuh ] tentang nama-nama yang dengannya ‘Isa\n‘alaihis salam menghidupkan orang-orang mati. [ Pasal Kedelapan ] tentang empat tawqifāt beserta bagian-bagian\ndan lingkaran-lingkaran. [ Pasal Kesembilan ] tentang sifat-sifat awal-awal al-Qur’an dan ayat-ayat yang nyata. [ Pasal Kesepuluh ]\ntentang rahasia al-Fatihah dan doa-doanya serta sifat-sifatnya yang masyhur. [ Pasal Kesebelas ] tentang penemuan-penemuan\ndan cahaya-cahaya rahmat. [ Pasal Kedua Belas ] tentang Nama Allah Yang Paling Agung beserta operasi-operasi\nyang tersembunyi. [ Pasal Ketiga Belas ] tentang bagian-bagian yang dihilangkan dari al-Fatihah beserta wafq-wafq dan doa-doanya. [ Pasal\nEmpat Belas ] tentang latihan rohani, zikir, dan doa-doa yang terkabul serta berdaya guna. [ Pasal Lima Belas ]\ntentang syarat-syarat yang diwajibkan bagi sebagian, tetapi tidak bagi yang lain, dari permulaan hingga matahari-matahari penghujung. [ Pasal Enam Belas ] tentang Nama-nama Allah Yang Paling Indah dan waktu-waktu yang bermanfaat dan telah teruji. [ Pasal Tujuh Belas ] tentang\nkeutamaan Kāf Hā Yā ʿAyn Ṣād dan huruf-hurufnya yang bersifat rabbani dan sangat suci. [ Pasal Delapan Belas ] tentang sifat-sifat Ayat\nKursi beserta berkah-berkah yang tersembunyi. [ Pasal Sembilan Belas ] tentang sifat-sifat sebagian wafq-wafq\ndan talisman-talisman yang bermanfaat. [ Pasal Dua Puluh ] tentang Surah Ya Sin beserta doa-doa yang terkabul.\n[ Pasal Dua Puluh Satu ] tentang Nama-nama Allah Yang Paling Indah dan pola-pola nama itu serta doa-doa dan operasi yang terkait dengan setiap pola.\n[ Pasal Dua Puluh Dua ] tentang pola kedua serta nama-nama pemberi anugerah. [ Pasal Dua Puluh Tiga ]\ntentang pola ketiga dan apa yang menunjukkan sifat-sifat [UNCLEAR: Ādiyāt]. [ Pasal Dua Puluh Empat ] tentang pola keempat dan rahasia-rahasia Rabb seluruh makhluk. [ Pasal Dua Puluh Lima ] tentang pola kelima dan keutamaan-keutamaan\nterpilih. [ Pasal Dua Puluh Enam ] tentang pola keenam dan rahasia-rahasia kewajiban yang harus dipenuhi.\n[ Pasal Dua Puluh Tujuh ] tentang pola ketujuh dari Nama-nama Allah (Mahasuci dan Mahatinggi Dia) beserta berkah-berkahnya. [ Pasal\nDua Puluh Delapan ] tentang pola kedelapan dari Nama-nama Yang Paling Indah dan rahasia-rahasia mereka yang tersembunyi. [ Pasal Dua Puluh Sembilan ] tentang pola kesembilan\ndari Nama-nama Yang Paling Indah serta operasi-operasinya. [ Pasal Tiga Puluh ] tentang\npola kesepuluh dari Nama-nama Yang Paling Indah serta rahasia-rahasia yang bermanfaat. [ Pasal Tiga Puluh Satu ] tentang huruf-huruf\nArab dan planet, khadam, mineral, dan khalwat yang berkaitan dengannya. [ Pasal Tiga Puluh Dua ] tentang rahasia\nmenyingkap aspek-aspek maknawi dari ‘arūḍ. [ Pasal Tiga Puluh Tiga ] tentang penjelasan rahasia Lingkaran Peliputan dan apa yang tampak\ndaripadanya dari fondasi-fondasi dan definisi-definisi. [ Pasal Tiga Puluh Empat ] tentang ilmu Zāyirja dan korespondensi huruf-huruf dan buruj\nserta timbangan-timbangan yang masyhur. [ Pasal Tiga Puluh Lima ] tentang ilmu tersembunyi tentang huruf menurut kaidah-kaidah Jafr. [ Pasal\nTiga Puluh Enam ] tentang limpahan rabbani, cahaya yang berkilauan, batu yang mulia, dan sifat-sifat tumbuh-tumbuhan.\n[ Pasal Tiga Puluh Tujuh ] tentang amal-amal Sīmiyāʾ dan seluruh uraian. [ Pasal Tiga Puluh Delapan ] tentang\npenggunaan",
+        "record_found": true,
+        "errors": [],
+        "warnings": []
+      },
       "last_error": null,
-      "commit_sha": null,
-      "committed_at": null
+      "commit_sha": "92b80db",
+      "committed_at": "2026-09-25T05:08:44+00:00"
     },
     "11": {
       "page": 11,
