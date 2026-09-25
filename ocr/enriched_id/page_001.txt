@@ -1,5 +1,7 @@
 Arabic:
-Tidak ada teks pada halaman ini.
+---
+There is no text on this page.
+---
 
 Indonesia:
-Tidak ada teks pada halaman ini.
+[TIDAK ADA TEKS TERLIHAT]
