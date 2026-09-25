@@ -3,7 +3,7 @@
   "total_pages": 604,
   "sequence_policy": "strict-lowest-uncommitted",
   "created_at": "2026-09-25T03:54:12+00:00",
-  "updated_at": "2026-09-25T09:56:11+00:00",
+  "updated_at": "2026-09-25T09:59:21+00:00",
   "active_page": null,
   "pages": {
     "1": {
@@ -1250,17 +1250,30 @@
     },
     "47": {
       "page": 47,
-      "status": "pending",
-      "attempts": 0,
-      "owner": null,
-      "claimed_at": null,
-      "heartbeat_at": null,
-      "review_submitted_at": null,
-      "reviewer": null,
-      "validator": null,
+      "status": "committed",
+      "attempts": 1,
+      "owner": "hermes-translation-v2-20260925",
+      "claimed_at": "2026-09-25T09:56:25+00:00",
+      "heartbeat_at": "2026-09-25T09:59:11+00:00",
+      "review_submitted_at": "2026-09-25T09:59:11+00:00",
+      "reviewer": "independent-reviewer",
+      "validator": {
+        "ok": true,
+        "page": 47,
+        "source_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched/page_047.txt",
+        "english_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_en/page_047.txt",
+        "indonesian_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_id/page_047.txt",
+        "json_path": "C:/Working Folder/Research/shams-al-maarif-ocr/web/public/manuscript.json",
+        "blank_source": false,
+        "english_block": "- 41 -\n\nAl-Ḥasan al-Baṣrī, may God Most High have mercy on him, said concerning the meaning of His saying: {“When you mention your Lord alone in the Qur’an, they turn their backs in aversion”}: the meaning of that is Bismillah al-Raḥmān al-Raḥīm. And concerning His saying, {“He made them adhere to the word of piety, and they were most deserving of it and worthy of it”}, he said that it was Bismillah al-Raḥmān al-Raḥīm; and it was also said: “There is no deity except God.”\n\nWhoever writes Bismillah al-Raḥmān al-Raḥīm and writes it beautifully, honoring it, will be recorded by God among those brought near. It is related from ʿIkrimah that he said: “God Most High existed and there was nothing with Him. Then God created the light, and from the light He created the Tablet and the Pen. Then God Most High commanded the Pen to write upon the Tablet what is to be. The first thing the Pen wrote on the Tablet was Bismillah al-Raḥmān al-Raḥīm. So God Most High made it a safeguard for His creation for whoever persists in reciting it. It is recited by the inhabitants of the seven heavens and the inhabitants of the pavilions of Paradise, including the cherubic angels, the truthful, and those who glorify God.\n\n“The first thing sent down to Adam, peace be upon him, was Bismillah al-Raḥmān al-Raḥīm. He said: ‘Now I know that my descendants will not be punished by the Fire so long as they persist in reciting it.’ Then it was taken up after him until the time of Abraham, peace be upon him, and it descended upon him while he was in the catapult, so God Most High saved him from the Fire.\n\n“Then it was taken up after him until the time of Solomon. When it descended upon him, the angels said: ‘Now Solomon’s kingdom is complete.’ God Most High commanded that it be proclaimed among all the tribes, the ascetics, and the worshippers: ‘Whoever wishes to hear the sign of faith, let him come to Solomon son of David, peace be upon them both, in his father’s prayer niche.’\n\n“He said: So they gathered before him. Solomon stood, ascended the pulpit, and recited to them the sign of faith, which was Bismillah al-Raḥmān al-Raḥīm. When they heard it, their joy increased, and they said: ‘We bear witness that you are truly the Messenger of God, O son of David.’\n\n“Then it was taken up after him until the time of Moses. When it descended upon him, he subdued with it Pharaoh and his armies, Qarun, Haman, and their armies. Then it was taken up after him until the time of Jesus, peace be upon him. God revealed to him: ‘O son of Mary, do you know which sign has been sent down?’ He said: ‘Yes, my Lord.’ He said: ‘The sign of faith has been sent down to you, namely Bismillah al-Raḥmān al-Raḥīm. Therefore persist in reciting it during your night and your day, on your journey and when you come, while sitting and standing, while eating, and in all your states. Whoever comes on the Day of Resurrection with it in his scroll, God will forgive him his preceding sins.’”\n\nAnd it is related of one of the righteous that he went to one of the saints to visit him and seek his supplication and blessing. He found people gathered at the saint’s door, waiting for him to come out, and Qaws Quzaḥ had set down its foot and said: “Bismillah al-Raḥmān al-Raḥīm.” The shaykh who had come to visit him was called al-Madīḥī. When he saw what the shaykh had done, he cried out and said: “The men have gone ahead, while we remain as we are!” Then the shaykh took up earnest effort and striving.",
+        "indonesian_block": "- 41 -\n\nAl-Ḥasan al-Baṣrī, semoga Allah Yang Mahatinggi merahmatinya, berkata tentang makna firman-Nya: {“Apabila engkau menyebut Tuhanmu sendirian dalam al-Qur’an, mereka berbalik ke belakang karena enggan”}: maknanya adalah Bismillah al-Raḥmān al-Raḥīm. Mengenai firman-Nya, {“Dia mewajibkan mereka berpegang pada kalimat takwa, dan mereka lebih berhak atasnya serta layak memilikinya”}, ia berkata bahwa itu adalah Bismillah al-Raḥmān al-Raḥīm; dan dikatakan pula: “Tiada tuhan selain Allah.”\n\nBarang siapa menulis Bismillah al-Raḥmān al-Raḥīm dan menulisnya dengan indah sebagai bentuk pengagungan terhadapnya, ia akan dicatat oleh Allah sebagai salah seorang yang didekatkan. Diriwayatkan dari ʿIkrimah bahwa ia berkata: “Allah Yang Mahatinggi telah ada dan tidak ada sesuatu pun bersama-Nya. Kemudian Allah menciptakan cahaya, dan dari cahaya itu Dia menciptakan Lauh dan Pena. Lalu Allah Yang Mahatinggi memerintahkan Pena untuk menulis pada Lauh segala sesuatu yang akan terjadi. Hal pertama yang ditulis Pena pada Lauh adalah Bismillah al-Raḥmān al-Raḥīm. Maka Allah Yang Mahatinggi menjadikannya perlindungan bagi makhluk-Nya, bagi siapa pun yang terus-menerus membacanya. Ia dibaca oleh penghuni tujuh langit dan penghuni paviliun-paviliun surga, termasuk para malaikat kerubim, orang-orang yang benar, dan mereka yang bertasbih kepada Allah.\n\n“Hal pertama yang diturunkan kepada Adam, semoga keselamatan tercurah kepadanya, adalah Bismillah al-Raḥmān al-Raḥīm. Ia berkata: ‘Sekarang aku mengetahui bahwa keturunanku tidak akan disiksa dengan api selama mereka terus membacanya.’ Kemudian ia diangkat setelahnya hingga masa Ibrahim, semoga keselamatan tercurah kepadanya, dan diturunkan kepadanya ketika ia berada di dalam manjaniq; maka Allah Yang Mahatinggi menyelamatkannya dari api.\n\n“Kemudian ia diangkat setelahnya hingga masa Sulaiman. Ketika ia diturunkan kepadanya, para malaikat berkata: ‘Sekarang kerajaan Sulaiman telah sempurna.’ Allah Yang Mahatinggi memerintahkan agar diumumkan di antara seluruh suku, kaum zuhud, dan para ahli ibadah: ‘Barang siapa ingin mendengar tanda iman, hendaklah ia datang kepada Sulaiman bin Dawud, semoga keselamatan tercurah kepada keduanya, di mihrab ayahnya.’\n\n“Ia berkata: Maka mereka berkumpul menghadapnya. Sulaiman berdiri, naik ke mimbar, dan membacakan kepada mereka tanda iman, yaitu Bismillah al-Raḥmān al-Raḥīm. Ketika mendengarnya, kegembiraan mereka bertambah dan mereka berkata: ‘Kami bersaksi bahwa engkau benar-benar utusan Allah, wahai putra Dawud.’\n\n“Kemudian ia diangkat setelahnya hingga masa Musa. Ketika ia diturunkan kepadanya, dengan itu ia menundukkan Fir‘aun dan bala tentaranya, Qarun, Haman, dan bala tentara mereka. Kemudian ia diangkat setelahnya hingga masa Isa, semoga keselamatan tercurah kepadanya. Allah mewahyukan kepadanya: ‘Wahai putra Maryam, tidakkah engkau mengetahui tanda apa yang telah diturunkan?’ Ia berkata: ‘Ya, wahai Tuhanku.’ Dia berkata: ‘Telah diturunkan kepadamu tanda iman, yaitu Bismillah al-Raḥmān al-Raḥīm. Karena itu, teruslah membacanya pada malam dan siangmu, dalam perjalanan dan ketika datang, saat duduk dan berdiri, saat makan, dan dalam seluruh keadaanmu. Barang siapa datang pada Hari Kiamat dengan membawanya dalam catatannya, Allah akan mengampuni dosa-dosanya yang telah lalu.’”\n\nDiriwayatkan tentang salah seorang yang saleh bahwa ia datang kepada salah seorang wali untuk menziarahinya serta memohon doa dan berkahnya. Ia mendapati orang-orang berkumpul di pintu wali itu, menunggu keluarnya, dan Qaws Quzaḥ telah menjejakkan kakinya lalu berkata: “Bismillah al-Raḥmān al-Raḥīm.” Syekh yang datang menziarahinya itu bernama al-Madīḥī. Ketika melihat perbuatan syekh tersebut, ia berteriak dan berkata: “Para lelaki telah mendahului, sedangkan kita masih seperti ini!” Kemudian syekh itu menekuni kesungguhan dan perjuangan.",
+        "record_found": true,
+        "errors": [],
+        "warnings": []
+      },
       "last_error": null,
-      "commit_sha": null,
-      "committed_at": null
+      "commit_sha": "6269a1b",
+      "committed_at": "2026-09-25T09:59:21+00:00"
     },
     "48": {
       "page": 48,
