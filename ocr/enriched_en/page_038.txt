@@ -31,7 +31,7 @@ Arabic:
 { فَصْلٌ فِيمَا لِكُلِّ كَوْكَبٍ مِنَ الْأَيَّامِ السَّبْعِ } الْأَحَدُ لِلشَّمْسِ وَالِاثْنَيْنِ لِلْقَمَرِ وَالثُّلَاثَاءِ لِلْمِرِّيخِ
 وَالْأَرْبِعَاءِ لِعُطَارِدَ وَالْخَمِيسِ لِلْمُشْتَرِي وَالْجُمُعَةِ لِلزُّهَرَةِ وَالسَّبْتِ لِزُحَلَ
 { فَصْلٌ فِي اقْتِرَانِ الْكَوَاكِبِ } وَمَعْنَى الِاقْتِرَانِ أَنْ يَكُونَ الْكَوْكَبُ فِي بُرْجٍ وَالْآخَرُ فِي
-نَظِيرِهِ وَالِاجْتِمَاعِ أَنْ يَجْتَمِعَا فِي بُرْجٍ وَاحِدٍ فَيُؤَثِّرُ بِأَمْرِ اللَّهِ تَعَالَى كُلَّ فِعْلٍ ذَلِكَ فِي الْقُرْآنِ فَافْهَمْ ذَلِكَ فَإِذَا
+نَظِيرِهِ وَالِاجْتِمَاعِ أَنْ يَجْتِمِعَا فِي بُرْجٍ وَاحِدٍ فَيُؤَثِّرُ بِأَمْرِ اللَّهِ تَعَالَى كُلَّ فِعْلٍ ذَلِكَ فِي الْقُرْآنِ فَافْهَمْ ذَلِكَ فَإِذَا
 قَارَبَ زُحَلُ الْمُشْتَرِي عَمَّتِ الْحُرُوبُ فِي الْأَقَالِيمِ وَيَمُوتُ مَلِكٌ مِنْ مُلُوكِ الدُّنْيَا وَالْأَرْضِ وَإِذَا قَارَبَ الْمِرِّيخُ
 زُحَلَ كَانَ ذَلِكَ وَإِذَا قَارَبَ زُحَلُ الشَّمْسَ كَانَ ذَلِكَ وَإِذَا قَارَنَ زُحَلُ الزُّهَرَةَ دَلَّ عَلَى غَلَاءِ الْأَسْعَارِ
 وَالْقَحْطِ وَإِذَا قَارَنَ زُحَلُ عُطَارِدَ دَلَّ عَلَى صَلَاحِ حَالِ الْكِتَابِ وَإِذَا قَارَنَ الْقَمَرُ دَلَّ عَلَى ظُهُورِ الْجُورِ
@@ -42,40 +42,34 @@ Arabic:
 English:
 — 32 —
 
-{ Chapter on their bodies and what is connected to them }
-Know that the body of the sun is the measure of the world one hundred and a half, and the body of the moon is the measure of the world thirty-nine times,
-and likewise Venus and Mercury and Mars, and the body of Jupiter is the measure of the world eighty-two times, and the body of Saturn is the measure of the world
-ninety-nine times, and some of our scholars said that the body of the sun is fifteen degrees in front of it and likewise behind it, and the body of
-the moon is twelve degrees in front of it and likewise behind it, and the body of Mars is eight degrees behind it and likewise in front of it, and the body of Venus
-seven degrees in front of it and likewise behind it, and the body of Mercury likewise, and God Most High knows.
-{ Chapter that every star in the heaven is the measure of the world many times } And as for the fixed stars, and they are fifteen
-stars, al-shiʿrā al-ʿabūr and al-simāk and al-nasr al-ṭāʾir and the heart of the lion and the like of them, every star among them is the measure of
-the world sixty-four times.
+[Chapter on their bodies and what is connected to them]
 
-{ Chapter on the traversing of the seven stars the spheres }
-Know that the moon traverses the sphere in twenty-nine days and a third of a day, and Mercury traverses it in twenty-eight days,
-and Venus traverses it in two hundred and twenty-four days and a quarter of a day, and the sun traverses it in three hundred and sixty-five
-days and a quarter of a day, and Mars traverses it in six hundred and thirty, and Jupiter traverses it in eleven years, and Saturn traverses it
-in twenty-nine years, and God knows.
+Know that the Sun’s body is one hundred and a half times the measure of the world, and the Moon’s body is thirty-nine times the measure of the world. The same applies to Venus, Mercury, and Mars. Jupiter’s body is eighty-two times the measure of the world, and Saturn’s body is ninety-nine times the measure of the world. Some of our scholars said that the Sun’s body extends fifteen degrees before it and likewise behind it; the Moon’s body extends twelve degrees before it and likewise behind it; Mars’s body extends eight degrees behind it and likewise before it; Venus’s body extends seven degrees before it and likewise behind it; and Mercury’s body is likewise. God, exalted is He, knows best.
 
-{ Chapter on the stations of the signs }
-Know that the station of the moon in every sign is two days and three nights, and the station of Mercury in every sign is fifteen days, and the station of
-Venus in every sign is twenty-five days, and the station of Jupiter in every sign is a year, and the station of Saturn in every
-sign is thirty months.
+[Chapter: every star in the heaven is many times the measure of the world]
 
-{ Chapter on the dignity of the star }
-Know that the dignity of the moon is Taurus, and the dignity of Mercury is Virgo, and the dignity of Venus is Pisces, and the dignity of the sun is Aries,
-and the dignity of Mars is Capricorn, and the dignity of Jupiter is Cancer, and Saturn is Libra, and the Pleiades it was said are the lamp of the world in
-the heaven because they are the gathering of the stars like the knot, and it is in the heaven, and the Arabs call it the stars because there is not in the heaven a spot
-more starry than it.
+As for the fixed stars, there are fifteen of them, including al-Shiʿrā al-ʿAbūr, al-Simāk, al-Nasr al-Ṭāʾir, Qalb al-Asad, and similar stars. Each of these stars is sixty-four times the measure of the world.
 
-{ Chapter on what belongs to each star of the seven days } Sunday is for the sun, and Monday for the moon, and Tuesday for Mars,
-and Wednesday for Mercury, and Thursday for Jupiter, and Friday for Venus, and Saturday for Saturn.
-{ Chapter on the conjunction of the stars } And the meaning of conjunction is that the star be in a sign and the other in
-its opposite, and of meeting is that they meet in one sign, so it affects by the command of God Most High every act; that in the Qurʾan, so understand that. If
-Saturn approaches Jupiter, wars become general in the regions, and a king from the kings of the world and the earth dies; and if Mars approaches
-Saturn, that is; and if Saturn approaches the sun, that is; and if Saturn conjoins Venus, it indicates the highness of prices
-and drought; and if Saturn conjoins Mercury, it indicates the rectification of the state of the book; and if the moon conjoins, it indicates the ظهور of injustice
-in judgments; and if Jupiter conjoins Mars, in the world are many hardships.
+[Chapter on the seven stars traversing the spheres]
 
-{ Chapter }
+Know that the Moon traverses the sphere in twenty-nine days and one-third of a day; Mercury traverses it in twenty-eight days; Venus traverses it in two hundred and twenty-four days and one-quarter of a day; the Sun traverses it in three hundred and sixty-five days and one-quarter of a day; Mars traverses it in six hundred and thirty [UNCLEAR: the source omits the unit]; Jupiter traverses it in eleven years; and Saturn traverses it in twenty-nine years. God knows best.
+
+[Chapter on the stations of the zodiac signs]
+
+Know that the Moon’s station in each sign is two days and three nights; Mercury’s station in each sign is fifteen days; Venus’s station in each sign is twenty-five days; Jupiter’s station in each sign is one year; and Saturn’s station in each sign is thirty months.
+
+[Chapter on the dignity of the planets]
+
+Know that the Moon’s dignity is Taurus; Mercury’s dignity is Virgo; Venus’s dignity is Pisces; the Sun’s dignity is Aries; Mars’s dignity is Capricorn; Jupiter’s dignity is Cancer; and Saturn’s dignity is Libra. As for the Pleiades, it is said that they are the lamp of the world in the heaven because they are a gathering of stars like a knot. They are in the heaven, and the Arabs call them “the stars,” because there is no place in the heaven with more stars than them.
+
+[Chapter on the day belonging to each of the seven planets]
+
+Sunday belongs to the Sun; Monday to the Moon; Tuesday to Mars; Wednesday to Mercury; Thursday to Jupiter; Friday to Venus; and Saturday to Saturn.
+
+[Chapter on the conjunction of the planets]
+
+The meaning of conjunction is that one planet is in a sign while the other is in its counterpart. “Meeting” means that the two come together in one sign. Thus, by the command of God, exalted is He, it influences every action. [UNCLEAR: the source then refers to this as being in the Qurʾan and says to understand it.]
+
+When Saturn approaches Jupiter, wars spread throughout the regions, and a king from among the kings of the world and the earth dies. When Mars approaches Saturn, [UNCLEAR: the source says “that is what happens.”] When Saturn approaches the Sun, [UNCLEAR: the source again says “that is what happens.”] When Saturn conjoins Venus, it indicates high prices and drought. When Saturn conjoins Mercury, it indicates [UNCLEAR: the good condition of writing or the scribes]. When the Moon conjoins [another planet; the source omits the counterpart], it indicates the appearance of injustice in judgments. When Jupiter conjoins Mars, there are many hardships in the world.
+
+[Chapter heading continues]

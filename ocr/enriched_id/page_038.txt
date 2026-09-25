@@ -1,5 +1,6 @@
 Arabic:
 — ٣٢ —
+
 { فَصْلٌ فِي أَجْرَامِهَا وَمَا يَتَعَلَّقُ بِهَا }
 اعْلَمْ أَنَّ جِرْمَ الشَّمْسِ قَدْرُ الدُّنْيَا مِائَةٍ وَنِصْفٍ وَجِرْمُ الْقَمَرِ قَدْرُ الدُّنْيَا تِسْعَةٍ وَثَلَاثِينَ مَرَّةً
 وَكَذَلِكَ الزُّهَرَةُ وَعُطَارِدُ وَالْمِرِّيخُ وَجِرْمُ الْمُشْتَرِي قَدْرُ الدُّنْيَا اثْنَيْنِ وَثَمَانِينَ مَرَّةً وَجِرْمُ زُحَلَ قَدْرُ الدُّنْيَا
@@ -38,86 +39,37 @@ Arabic:
 
 { فَصْلٌ }
 
-English:
-— 32 —
-
-{ Chapter on their bodies and what is connected to them }
-Know that the body of the sun is the measure of the world one hundred and a half, and the body of the moon is the measure of the world thirty-nine times,
-and likewise Venus and Mercury and Mars, and the body of Jupiter is the measure of the world eighty-two times, and the body of Saturn is the measure of the world
-ninety-nine times, and some of our scholars said that the body of the sun is fifteen degrees in front of it and likewise behind it, and the body of
-the moon is twelve degrees in front of it and likewise behind it, and the body of Mars is eight degrees behind it and likewise in front of it, and the body of Venus
-seven degrees in front of it and likewise behind it, and the body of Mercury likewise, and God Most High knows.
-{ Chapter that every star in the heaven is the measure of the world many times } And as for the fixed stars, and they are fifteen
-stars, al-shiʿrā al-ʿabūr and al-simāk and al-nasr al-ṭāʾir and the heart of the lion and the like of them, every star among them is the measure of
-the world sixty-four times.
-
-{ Chapter on the traversing of the seven stars the spheres }
-Know that the moon traverses the sphere in twenty-nine days and a third of a day, and Mercury traverses it in twenty-eight days,
-and Venus traverses it in two hundred and twenty-four days and a quarter of a day, and the sun traverses it in three hundred and sixty-five
-days and a quarter of a day, and Mars traverses it in six hundred and thirty, and Jupiter traverses it in eleven years, and Saturn traverses it
-in twenty-nine years, and God knows.
-
-{ Chapter on the stations of the signs }
-Know that the station of the moon in every sign is two days and three nights, and the station of Mercury in every sign is fifteen days, and the station of
-Venus in every sign is twenty-five days, and the station of Jupiter in every sign is a year, and the station of Saturn in every
-sign is thirty months.
-
-{ Chapter on the dignity of the star }
-Know that the dignity of the moon is Taurus, and the dignity of Mercury is Virgo, and the dignity of Venus is Pisces, and the dignity of the sun is Aries,
-and the dignity of Mars is Capricorn, and the dignity of Jupiter is Cancer, and Saturn is Libra, and the Pleiades it was said are the lamp of the world in
-the heaven because they are the gathering of the stars like the knot, and it is in the heaven, and the Arabs call it the stars because there is not in the heaven a spot
-more starry than it.
-
-{ Chapter on what belongs to each star of the seven days } Sunday is for the sun, and Monday for the moon, and Tuesday for Mars,
-and Wednesday for Mercury, and Thursday for Jupiter, and Friday for Venus, and Saturday for Saturn.
-{ Chapter on the conjunction of the stars } And the meaning of conjunction is that the star be in a sign and the other in
-its opposite, and of meeting is that they meet in one sign, so it affects by the command of God Most High every act; that in the Qurʾan, so understand that. If
-Saturn approaches Jupiter, wars become general in the regions, and a king from the kings of the world and the earth dies; and if Mars approaches
-Saturn, that is; and if Saturn approaches the sun, that is; and if Saturn conjoins Venus, it indicates the highness of prices
-and drought; and if Saturn conjoins Mercury, it indicates the rectification of the state of the book; and if the moon conjoins, it indicates the ظهور of injustice
-in judgments; and if Jupiter conjoins Mars, in the world are many hardships.
-
-{ Chapter }
-
 Indonesia:
 — 32 —
 
-{ BAB TENTANG JISIM-JISIMNYA DAN APA YANG BERKAITAN DENGANNYA }
-Ketahuilah bahwa jisim matahari sebesar dunia seratus dan setengah, dan jisim bulan sebesar dunia sembilan puluh sembilan kali
-dan demikian juga Zuhrah dan ‘Uṭārid dan al-Mirrīkh, dan jisim al-Musytarī sebesar dunia delapan puluh dua kali dan jisim Zuhal sebesar dunia
-sembilan puluh sembilan kali, dan sebagian ulama kami berkata bahwa jisim matahari lima belas derajat di depannya dan demikian juga di belakangnya, dan jisim
-bulan dua belas derajat di depannya dan demikian juga di belakangnya, dan jisim al-Mirrīkh delapan derajat di belakangnya dan demikian juga di depannya, dan jisim al-Zuhrah
-tujuh derajat di depannya dan demikian juga di belakangnya, dan jisim ‘Uṭārid demikian juga, dan Allah (subhanahu wa ta’ala) lebih mengetahui.
+[Bab tentang jisim-jisimnya dan apa yang berkaitan dengannya]
 
-{ BAB bahwa setiap bintang di langit ukurannya dunia berulang-ulang } Adapun bintang-bintang tetap, dan mereka lima belas
-bintang: al-Shi‘rā al-‘Abūr dan al-Simāk dan al-Nasr al-Ṭā’ir dan Qalb al-Asad dan semisalnya, setiap bintang darinya ukurannya
-dunia enam puluh empat kali.
+Ketahuilah bahwa jisim Matahari berukuran seratus setengah kali ukuran dunia, dan jisim Bulan berukuran tiga puluh sembilan kali ukuran dunia. Demikian pula Venus, Merkurius, dan Mars. Jisim Jupiter berukuran delapan puluh dua kali ukuran dunia, sedangkan jisim Saturnus berukuran sembilan puluh sembilan kali ukuran dunia. Sebagian ulama kami berkata bahwa jisim Matahari membentang lima belas derajat di depannya dan demikian pula di belakangnya; jisim Bulan membentang dua belas derajat di depannya dan demikian pula di belakangnya; jisim Mars membentang delapan derajat di belakangnya dan demikian pula di depannya; jisim Venus membentang tujuh derajat di depannya dan demikian pula di belakangnya; dan jisim Merkurius juga demikian. Allah Yang Mahatinggi lebih mengetahui.
 
-{ BAB TENTANG PEMOTONGAN TUJUH BINTANG ATAS AFALAK }
-Ketahuilah bahwa bulan memotong falak dalam dua puluh sembilan hari dan sepertiga hari, dan ‘Uṭārid memotongnya dalam delapan puluh delapan hari
-dan Zuhrah memotongnya dalam dua ratus empat dan dua puluh hari dan seperempat hari, dan matahari memotongnya dalam tiga ratus dan lima dan enam puluh
-hari dan seperempat hari, dan al-Mirrīkh memotongnya dalam enam ratus tiga puluh, dan al-Musytarī memotongnya dalam sebelas tahun, dan Zuhal memotongnya
-dalam sembilan puluh sembilan tahun, dan Allah lebih mengetahui.
+[Bab: setiap bintang di langit berukuran berkali-kali ukuran dunia]
 
-{ BAB TENTANG MUKIM-MUKIM BURUJ }
-Ketahuilah bahwa mukim bulan pada setiap buruj dua hari dan tiga malam, dan mukim ‘Uṭārid pada setiap buruj lima belas hari, dan mukim
-Zuhrah pada setiap buruj dua puluh lima hari, dan mukim al-Musytarī pada setiap buruj satu tahun, dan mukim Zuhal pada setiap
-buruj tiga puluh bulan.
+Adapun bintang-bintang tetap, jumlahnya lima belas, termasuk al-Shiʿrā al-ʿAbūr, al-Simāk, al-Nasr al-Ṭāʾir, Qalb al-Asad, dan bintang-bintang semisalnya. Setiap bintang itu berukuran enam puluh empat kali ukuran dunia.
 
-{ BAB TENTANG KEMULIAAN BINTANG }
-Ketahuilah bahwa kemuliaan bulan adalah al-Taur, dan kemuliaan ‘Uṭārid adalah al-Sunbulah, dan kemuliaan Zuhrah adalah al-Ḥūt, dan kemuliaan matahari adalah al-Ḥamal,
-dan kemuliaan al-Mirrīkh adalah al-Jady, dan kemuliaan al-Musytarī adalah al-Sarathān, dan Zuhal adalah al-Mīzān, dan al-Thurayyā dikatakan ia adalah pelita alam di
-langit karena ia adalah kumpulan bintang seperti ikatan dan ia di langit, dan orang Arab menamakannya bintang-bintang karena tidak ada di langit satu tempat
-yang lebih banyak bintangnya darinya.
+[Bab tentang tujuh bintang yang melintasi falak]
 
-{ BAB TENTANG APA YANG BAGI SETIAP BINTANG DARI HARI-HARI YANG TUJUH } Ahad untuk matahari, dan Senin untuk bulan, dan Selasa untuk al-Mirrīkh
-dan Rabu untuk ‘Uṭārid, dan Kamis untuk al-Musytarī, dan Jumat untuk Zuhrah, dan Sabtu untuk Zuhal.
+Ketahuilah bahwa Bulan melintasi falaknya dalam dua puluh sembilan hari dan sepertiga hari; Merkurius melintasinya dalam dua puluh delapan hari; Venus melintasinya dalam dua ratus dua puluh empat hari dan seperempat hari; Matahari melintasinya dalam tiga ratus enam puluh lima hari dan seperempat hari; Mars melintasinya dalam enam ratus tiga puluh [UNCLEAR: satuannya tidak disebutkan dalam sumber]; Jupiter melintasinya dalam sebelas tahun; dan Saturnus melintasinya dalam dua puluh sembilan tahun. Allah lebih mengetahui.
 
-{ BAB TENTANG IKTIRAN BINTANG-BINTANG } Dan makna iktirān adalah bahwa bintang itu berada dalam satu buruj dan yang lain dalam
-yang sepadannya, dan ijtimā‘ adalah bahwa keduanya berkumpul dalam satu buruj, maka ia memengaruhi dengan perintah Allah (subhanahu wa ta’ala) setiap perbuatan itu dalam al-Qur’an, maka pahamilah ذلك; maka apabila
-Zuhal mendekati al-Musytarī, meluaslah peperangan di negeri-negeri dan wafatlah seorang raja dari raja-raja dunia dan bumi, dan apabila al-Mirrīkh
-mendekati Zuhal, terjadilah ذلك, dan apabila Zuhal mendekati matahari, terjadilah ذلك, dan apabila Zuhal mengiringi Zuhrah, itu menunjukkan mahalnya harga-harga
-dan kekeringan, dan apabila Zuhal mengiringi ‘Uṭārid, itu menunjukkan kebaikan keadaan kitab, dan apabila bulan mengiringi, itu menunjukkan tampaknya kezaliman
-dalam hukum-hukum, dan apabila al-Musytarī mengiringi al-Mirrīkh di alam, banyaklah kesengsaraan.
+[Bab tentang persinggahan rasi-rasi zodiak]
 
-{ BAB }
+Ketahuilah bahwa persinggahan Bulan di setiap rasi adalah dua hari dan tiga malam; persinggahan Merkurius di setiap rasi adalah lima belas hari; persinggahan Venus di setiap rasi adalah dua puluh lima hari; persinggahan Jupiter di setiap rasi adalah satu tahun; dan persinggahan Saturnus di setiap rasi adalah tiga puluh bulan.
+
+[Bab tentang kemuliaan planet-planet]
+
+Ketahuilah bahwa kemuliaan Bulan adalah Taurus; kemuliaan Merkurius adalah Virgo; kemuliaan Venus adalah Pisces; kemuliaan Matahari adalah Aries; kemuliaan Mars adalah Capricorn; kemuliaan Jupiter adalah Cancer; dan kemuliaan Saturnus adalah Libra. Adapun al-Thurayyā, dikatakan bahwa ia adalah pelita alam di langit karena ia merupakan kumpulan bintang seperti sebuah simpul. Ia berada di langit, dan orang-orang Arab menyebutnya “bintang-bintang” karena tidak ada tempat di langit yang lebih banyak bintangnya daripada tempat itu.
+
+[Bab tentang hari yang menjadi milik masing-masing dari tujuh planet]
+
+Hari Minggu untuk Matahari; Senin untuk Bulan; Selasa untuk Mars; Rabu untuk Merkurius; Kamis untuk Jupiter; Jumat untuk Venus; dan Sabtu untuk Saturnus.
+
+[Bab tentang konjungsi planet-planet]
+
+Makna konjungsi adalah bahwa satu planet berada dalam suatu rasi sementara planet yang lain berada dalam padanannya. “Pertemuan” berarti keduanya berkumpul dalam satu rasi. Dengan demikian, atas perintah Allah Yang Mahatinggi, hal itu memengaruhi setiap tindakan. [UNCLEAR: sumber kemudian merujuk hal ini sebagai sesuatu yang terdapat dalam Al-Qur’an dan berkata agar memahaminya.]
+
+Apabila Saturnus mendekati Jupiter, peperangan meluas di berbagai negeri dan seorang raja dari raja-raja dunia dan bumi meninggal. Apabila Mars mendekati Saturnus, [UNCLEAR: sumber berkata, “demikianlah yang terjadi.”] Apabila Saturnus mendekati Matahari, [UNCLEAR: sumber kembali berkata, “demikianlah yang terjadi.”] Apabila Saturnus berkonjungsi dengan Venus, hal itu menunjukkan mahalnya harga-harga dan kekeringan. Apabila Saturnus berkonjungsi dengan Merkurius, hal itu menunjukkan [UNCLEAR: baiknya keadaan penulisan atau para juru tulis]. Apabila Bulan berkonjungsi [dengan planet lain; sumber tidak menyebut padanannya], hal itu menunjukkan munculnya kezaliman dalam hukum-hukum. Apabila Jupiter berkonjungsi dengan Mars, banyak kesusahan terjadi di dunia.
+
+[Judul bab berlanjut]
