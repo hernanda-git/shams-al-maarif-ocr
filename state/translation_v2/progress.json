@@ -3,7 +3,7 @@
   "total_pages": 604,
   "sequence_policy": "strict-lowest-uncommitted",
   "created_at": "2026-09-25T03:54:12+00:00",
-  "updated_at": "2026-09-25T09:25:16+00:00",
+  "updated_at": "2026-09-25T09:28:06+00:00",
   "active_page": null,
   "pages": {
     "1": {
@@ -1088,17 +1088,30 @@
     },
     "41": {
       "page": 41,
-      "status": "pending",
-      "attempts": 0,
-      "owner": null,
-      "claimed_at": null,
-      "heartbeat_at": null,
-      "review_submitted_at": null,
-      "reviewer": null,
-      "validator": null,
+      "status": "committed",
+      "attempts": 1,
+      "owner": "hermes-translation-v2-20260925",
+      "claimed_at": "2026-09-25T09:25:30+00:00",
+      "heartbeat_at": "2026-09-25T09:27:53+00:00",
+      "review_submitted_at": "2026-09-25T09:27:53+00:00",
+      "reviewer": "independent-reviewer",
+      "validator": {
+        "ok": true,
+        "page": 41,
+        "source_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched/page_041.txt",
+        "english_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_en/page_041.txt",
+        "indonesian_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_id/page_041.txt",
+        "json_path": "C:/Working Folder/Research/shams-al-maarif-ocr/web/public/manuscript.json",
+        "blank_source": false,
+        "english_block": "- 35 -\n\n[UNCLEAR: the page begins mid-sentence with “and the blowing.”]\n\nIsrāfīl is the bearer of the Trumpet and the blowing. He has three blasts: the blast of terror, of which the Most High said, “Then those in the heavens and those on the earth were terrified”; the blast of swooning, of which the Most High said, “Then those in the heavens and those on the earth swooned”; and the blast of resurrection, of which the Most High said, “Then it is blown into it again, and behold, they are standing and looking.” Each blast has matters peculiar to it.\n\nʿIzrāʾīl, peace be upon him, is entrusted with taking the souls and bringing about their extinction. Through him tyrants are subdued and the roots of the disbelievers and the arrogant are cut off. Through him the believer finds rest, reaches his Lord, and rejoices in what God has prepared for him of generosity, bounty, pardon, and forgiveness.\n\nMīkāʾīl, peace be upon him, is entrusted with the provisions and sustenance of God’s servants and with preserving their existence. There is no sesame seed on earth without an angelic helper assigned to it for its owner. Jibrīl, peace be upon him, has assistants too numerous to count, and he has invocations and works that distinguish them from one another.\n\nThese four are kings of days, with particular days assigned to them. Jibrīl, peace be upon him, has Monday because it is cold and moist. Isrāfīl, peace be upon him, has Thursday, which is hot and moist. ʿIzrāʾīl, peace be upon him, has Saturday because it is cold and moist; [UNCLEAR: the source then associates his domain with earth, death, and extinction]. Mīkāʾīl, peace be upon him, has Wednesday, which is composed of the four natures.\n\nThere are four awfāq associated with them: the sevenfold for Jibrīl, peace be upon him; the square for Isrāfīl, peace be upon him; the triangular for ʿIzrāʾīl, peace be upon him; and the eightfold for Mīkāʾīl, peace be upon him. These are the four awfāq, and this is their form, as you see.\n\nPicture of the triangular awfaq for ʿIzrāʾīl, peace be upon him\nPicture of the square awfaq for Isrāfīl, peace be upon him\n\n4 | 9 | 2\n3 | 5 | 7\n8 | 1 | 6\n\n1 | 12 | 5 | 2\n9 | 7 | 6 | 12\n5 | 11 | 10 | 8\n16 | 3 | 13 | 4\n\nPicture of the sevenfold awfaq for Jibrīl, peace be upon him\nPicture of the eightfold awfaq for Mīkāʾīl, peace be upon him\n\n22 | 22 | 61 | 24 | 9 | 26 | 1\n20 | 22 | 23 | 74 | 25 | 10 | 21\n41 | 4 | 22 | 24 | 36 | 56 | 21\n41 | 4 | 23 | 34 | 36 | 56 | 21\n26 | 20 | 12 | 28 | 5 | 4 | 7\n27 | 14 | 9 | 6 | 2 | 7 | 58\n15 | 26 | 7 | 18 | 8 | 9 | 41\n27 | 6 | 8 | 5 | 54 | 12 | 1\n20 | 20 | 80 | 6 | 7 | 52 | 2\n5 | 2 | 35 | 9 | 43 | 3 | 20\n11 | 18 | 17 | 8 | 10 | 2 | 8\n19 | 12 | 32 | 22 | 9 | 26 | 7\n9 | 2 | 9 | 5 | 8 | 21 | 10\n8 | 5 | 22 | 52 | 9 | 2\n4 | 7 | 16 | 6 | 7 | 4 | 72 | 22\n\nKnow—may God grant me and you success in obeying Him—that these awfāq have a tremendous influence on everything you desire. Whoever contemplates them finds them very accurate and can do with them whatever he wishes. Fear God, your Lord, in all your circumstances.\n\nIf you want to carry out an operation using one of the four awfāq, write its khātimah, or seal, after counting it and verifying its correctness, and add to it the name of the object sought; you will obtain what you want. The sevenfold is written on paper or pure white silver on Monday at sunrise, during the hour of the Moon. If it is for a stone, write it during the Moon’s increase [UNCLEAR: the sentence continues with “and if…”].",
+        "indonesian_block": "- 35 -\n\n[UNCLEAR: halaman dimulai di tengah kalimat dengan “dan peniupan”.]\n\nIsrāfīl adalah pembawa sangkakala dan peniupan. Ia memiliki tiga tiupan: tiupan ketakutan, yang tentangnya Yang Mahatinggi berfirman, “Maka orang-orang yang berada di langit dan di bumi ketakutan”; tiupan pingsan, yang tentangnya Yang Mahatinggi berfirman, “Maka orang-orang yang berada di langit dan di bumi jatuh pingsan”; dan tiupan kebangkitan, yang tentangnya Yang Mahatinggi berfirman, “Kemudian ditiupkan lagi ke dalamnya, maka tiba-tiba mereka berdiri sambil melihat.” Setiap tiupan memiliki perkara-perkara yang khusus baginya.\n\nʿIzrāʾīl, semoga keselamatan atasnya, ditugaskan mengambil ruh-ruh dan menyebabkan kefanaannya. Melaluinya para tiran ditundukkan dan akar orang-orang kafir serta orang-orang sombong diputus. Melaluinya orang beriman memperoleh ketenteraman, sampai kepada Tuhannya, dan bergembira atas apa yang Allah siapkan baginya berupa kemurahan, kedermawanan, pemaafan, dan ampunan.\n\nMīkāʾīl, semoga keselamatan atasnya, ditugaskan mengurus rezeki dan penghidupan para hamba Allah serta menjaga keberadaan mereka. Tidak ada sebutir biji wijen di bumi kecuali ada penolong dari para malaikat yang ditugaskan untuknya bagi pemiliknya. Jibrīl, semoga keselamatan atasnya, juga memiliki para pembantu yang tidak terhitung, serta zikir-zikir dan amalan-amalan yang membedakan mereka satu sama lain.\n\nKeempatnya adalah raja-raja hari, dengan hari-hari tertentu yang dikhususkan bagi mereka. Jibrīl, semoga keselamatan atasnya, memiliki hari Senin karena hari itu dingin dan lembap. Isrāfīl, semoga keselamatan atasnya, memiliki hari Kamis, yang panas dan lembap. ʿIzrāʾīl, semoga keselamatan atasnya, memiliki hari Sabtu karena hari itu dingin dan lembap; [UNCLEAR: sumber kemudian mengaitkan wilayahnya dengan tanah, kematian, dan kefanaan]. Mīkāʾīl, semoga keselamatan atasnya, memiliki hari Rabu, yang tersusun dari empat tabiat.\n\nAda empat awfāq yang berkaitan dengan mereka: yang tujuh untuk Jibrīl, semoga keselamatan atasnya; yang berbentuk persegi untuk Isrāfīl, semoga keselamatan atasnya; yang berbentuk segitiga untuk ʿIzrāʾīl, semoga keselamatan atasnya; dan yang delapan untuk Mīkāʾīl, semoga keselamatan atasnya. Inilah empat awfāq tersebut, dan inilah bentuknya sebagaimana yang engkau lihat.\n\nGambar awfaq segitiga untuk ʿIzrāʾīl, semoga keselamatan atasnya\nGambar awfaq persegi untuk Isrāfīl, semoga keselamatan atasnya\n\n4 | 9 | 2\n3 | 5 | 7\n8 | 1 | 6\n\n1 | 12 | 5 | 2\n9 | 7 | 6 | 12\n5 | 11 | 10 | 8\n16 | 3 | 13 | 4\n\nGambar awfaq tujuh untuk Jibrīl, semoga keselamatan atasnya\nGambar awfaq delapan untuk Mīkāʾīl, semoga keselamatan atasnya\n\n22 | 22 | 61 | 24 | 9 | 26 | 1\n20 | 22 | 23 | 74 | 25 | 10 | 21\n41 | 4 | 22 | 24 | 36 | 56 | 21\n41 | 4 | 23 | 34 | 36 | 56 | 21\n26 | 20 | 12 | 28 | 5 | 4 | 7\n27 | 14 | 9 | 6 | 2 | 7 | 58\n15 | 26 | 7 | 18 | 8 | 9 | 41\n27 | 6 | 8 | 5 | 54 | 12 | 1\n20 | 20 | 80 | 6 | 7 | 52 | 2\n5 | 2 | 35 | 9 | 43 | 3 | 20\n11 | 18 | 17 | 8 | 10 | 2 | 8\n19 | 12 | 32 | 22 | 9 | 26 | 7\n9 | 2 | 9 | 5 | 8 | 21 | 10\n8 | 5 | 22 | 52 | 9 | 2\n4 | 7 | 16 | 6 | 7 | 4 | 72 | 22\n\nKetahuilah—semoga Allah memberiku dan memberimu taufik untuk menaati-Nya—bahwa awfāq-awfāq ini memiliki pengaruh yang sangat besar atas segala sesuatu yang engkau kehendaki. Barang siapa merenungkannya akan mendapatinya sangat tepat dan dapat melakukan dengannya apa saja yang ia kehendaki. Bertakwalah kepada Allah, Tuhanmu, dalam segala keadaanmu.\n\nApabila engkau ingin melakukan suatu pekerjaan dengan salah satu dari empat awfāq, tulislah khātimah atau segelnya setelah menghitungnya dan memeriksa kebenarannya, lalu tambahkan nama yang dimaksud; niscaya engkau memperoleh apa yang engkau kehendaki. Adapun yang tujuh, ia ditulis di atas kertas atau perak putih murni pada hari Senin ketika matahari terbit, pada saat jam Bulan. Jika diperuntukkan bagi batu, tulislah pada masa pertambahan Bulan [UNCLEAR: kalimat berlanjut dengan “dan jika…”].",
+        "record_found": true,
+        "errors": [],
+        "warnings": []
+      },
       "last_error": null,
-      "commit_sha": null,
-      "committed_at": null
+      "commit_sha": "57facff",
+      "committed_at": "2026-09-25T09:28:06+00:00"
     },
     "42": {
       "page": 42,
