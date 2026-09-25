@@ -104,7 +104,6 @@ class TranslationV2TrackerTests(unittest.TestCase):
         subprocess.run(["git", "config", "user.email", "test@example.invalid"], cwd=self.root, check=True)
         subprocess.run(["git", "config", "user.name", "Translation Test"], cwd=self.root, check=True)
         expected = [
-            self.root / "ocr" / "enriched_en" / "page_001.txt",
             self.root / "ocr" / "enriched_id" / "page_001.txt",
             self.root / "web" / "public" / "manuscript.json",
         ]

@@ -608,9 +608,18 @@ class Tracker:
             f"ocr/enriched_id/page_{page:03d}.txt",
             "web/public/manuscript.json",
         }
-        if not expected.issubset(changed):
-            missing = ", ".join(sorted(expected - changed))
-            raise TrackerError(f"commit {sha} is missing page evidence: {missing}")
+        if "web/public/manuscript.json" not in changed:
+            raise TrackerError(
+                f"commit {sha} is missing generated evidence: web/public/manuscript.json"
+            )
+        target_changes = changed & {
+            f"ocr/enriched_en/page_{page:03d}.txt",
+            f"ocr/enriched_id/page_{page:03d}.txt",
+        }
+        if not target_changes:
+            raise TrackerError(
+                f"commit {sha} changes no EN/ID target for page {page:03d}"
+            )
         unexpected = changed - expected
         if unexpected:
             raise TrackerError(
