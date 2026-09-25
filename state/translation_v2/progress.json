@@ -3,7 +3,7 @@
   "total_pages": 604,
   "sequence_policy": "strict-lowest-uncommitted",
   "created_at": "2026-09-25T03:54:12+00:00",
-  "updated_at": "2026-09-25T09:11:39+00:00",
+  "updated_at": "2026-09-25T09:14:26+00:00",
   "active_page": null,
   "pages": {
     "1": {
@@ -1007,17 +1007,30 @@
     },
     "38": {
       "page": 38,
-      "status": "pending",
-      "attempts": 0,
-      "owner": null,
-      "claimed_at": null,
-      "heartbeat_at": null,
-      "review_submitted_at": null,
-      "reviewer": null,
-      "validator": null,
+      "status": "committed",
+      "attempts": 1,
+      "owner": "hermes-translation-v2-20260925",
+      "claimed_at": "2026-09-25T09:12:08+00:00",
+      "heartbeat_at": "2026-09-25T09:14:15+00:00",
+      "review_submitted_at": "2026-09-25T09:14:15+00:00",
+      "reviewer": "independent-reviewer",
+      "validator": {
+        "ok": true,
+        "page": 38,
+        "source_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched/page_038.txt",
+        "english_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_en/page_038.txt",
+        "indonesian_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_id/page_038.txt",
+        "json_path": "C:/Working Folder/Research/shams-al-maarif-ocr/web/public/manuscript.json",
+        "blank_source": false,
+        "english_block": "— 32 —\n\n[Chapter on their bodies and what is connected to them]\n\nKnow that the Sun’s body is one hundred and a half times the measure of the world, and the Moon’s body is thirty-nine times the measure of the world. The same applies to Venus, Mercury, and Mars. Jupiter’s body is eighty-two times the measure of the world, and Saturn’s body is ninety-nine times the measure of the world. Some of our scholars said that the Sun’s body extends fifteen degrees before it and likewise behind it; the Moon’s body extends twelve degrees before it and likewise behind it; Mars’s body extends eight degrees behind it and likewise before it; Venus’s body extends seven degrees before it and likewise behind it; and Mercury’s body is likewise. God, exalted is He, knows best.\n\n[Chapter: every star in the heaven is many times the measure of the world]\n\nAs for the fixed stars, there are fifteen of them, including al-Shiʿrā al-ʿAbūr, al-Simāk, al-Nasr al-Ṭāʾir, Qalb al-Asad, and similar stars. Each of these stars is sixty-four times the measure of the world.\n\n[Chapter on the seven stars traversing the spheres]\n\nKnow that the Moon traverses the sphere in twenty-nine days and one-third of a day; Mercury traverses it in twenty-eight days; Venus traverses it in two hundred and twenty-four days and one-quarter of a day; the Sun traverses it in three hundred and sixty-five days and one-quarter of a day; Mars traverses it in six hundred and thirty [UNCLEAR: the source omits the unit]; Jupiter traverses it in eleven years; and Saturn traverses it in twenty-nine years. God knows best.\n\n[Chapter on the stations of the zodiac signs]\n\nKnow that the Moon’s station in each sign is two days and three nights; Mercury’s station in each sign is fifteen days; Venus’s station in each sign is twenty-five days; Jupiter’s station in each sign is one year; and Saturn’s station in each sign is thirty months.\n\n[Chapter on the dignity of the planets]\n\nKnow that the Moon’s dignity is Taurus; Mercury’s dignity is Virgo; Venus’s dignity is Pisces; the Sun’s dignity is Aries; Mars’s dignity is Capricorn; Jupiter’s dignity is Cancer; and Saturn’s dignity is Libra. As for the Pleiades, it is said that they are the lamp of the world in the heaven because they are a gathering of stars like a knot. They are in the heaven, and the Arabs call them “the stars,” because there is no place in the heaven with more stars than them.\n\n[Chapter on the day belonging to each of the seven planets]\n\nSunday belongs to the Sun; Monday to the Moon; Tuesday to Mars; Wednesday to Mercury; Thursday to Jupiter; Friday to Venus; and Saturday to Saturn.\n\n[Chapter on the conjunction of the planets]\n\nThe meaning of conjunction is that one planet is in a sign while the other is in its counterpart. “Meeting” means that the two come together in one sign. Thus, by the command of God, exalted is He, it influences every action. [UNCLEAR: the source then refers to this as being in the Qurʾan and says to understand it.]\n\nWhen Saturn approaches Jupiter, wars spread throughout the regions, and a king from among the kings of the world and the earth dies. When Mars approaches Saturn, [UNCLEAR: the source says “that is what happens.”] When Saturn approaches the Sun, [UNCLEAR: the source again says “that is what happens.”] When Saturn conjoins Venus, it indicates high prices and drought. When Saturn conjoins Mercury, it indicates [UNCLEAR: the good condition of writing or the scribes]. When the Moon conjoins [another planet; the source omits the counterpart], it indicates the appearance of injustice in judgments. When Jupiter conjoins Mars, there are many hardships in the world.\n\n[Chapter heading continues]",
+        "indonesian_block": "— 32 —\n\n[Bab tentang jisim-jisimnya dan apa yang berkaitan dengannya]\n\nKetahuilah bahwa jisim Matahari berukuran seratus setengah kali ukuran dunia, dan jisim Bulan berukuran tiga puluh sembilan kali ukuran dunia. Demikian pula Venus, Merkurius, dan Mars. Jisim Jupiter berukuran delapan puluh dua kali ukuran dunia, sedangkan jisim Saturnus berukuran sembilan puluh sembilan kali ukuran dunia. Sebagian ulama kami berkata bahwa jisim Matahari membentang lima belas derajat di depannya dan demikian pula di belakangnya; jisim Bulan membentang dua belas derajat di depannya dan demikian pula di belakangnya; jisim Mars membentang delapan derajat di belakangnya dan demikian pula di depannya; jisim Venus membentang tujuh derajat di depannya dan demikian pula di belakangnya; dan jisim Merkurius juga demikian. Allah Yang Mahatinggi lebih mengetahui.\n\n[Bab: setiap bintang di langit berukuran berkali-kali ukuran dunia]\n\nAdapun bintang-bintang tetap, jumlahnya lima belas, termasuk al-Shiʿrā al-ʿAbūr, al-Simāk, al-Nasr al-Ṭāʾir, Qalb al-Asad, dan bintang-bintang semisalnya. Setiap bintang itu berukuran enam puluh empat kali ukuran dunia.\n\n[Bab tentang tujuh bintang yang melintasi falak]\n\nKetahuilah bahwa Bulan melintasi falaknya dalam dua puluh sembilan hari dan sepertiga hari; Merkurius melintasinya dalam dua puluh delapan hari; Venus melintasinya dalam dua ratus dua puluh empat hari dan seperempat hari; Matahari melintasinya dalam tiga ratus enam puluh lima hari dan seperempat hari; Mars melintasinya dalam enam ratus tiga puluh [UNCLEAR: satuannya tidak disebutkan dalam sumber]; Jupiter melintasinya dalam sebelas tahun; dan Saturnus melintasinya dalam dua puluh sembilan tahun. Allah lebih mengetahui.\n\n[Bab tentang persinggahan rasi-rasi zodiak]\n\nKetahuilah bahwa persinggahan Bulan di setiap rasi adalah dua hari dan tiga malam; persinggahan Merkurius di setiap rasi adalah lima belas hari; persinggahan Venus di setiap rasi adalah dua puluh lima hari; persinggahan Jupiter di setiap rasi adalah satu tahun; dan persinggahan Saturnus di setiap rasi adalah tiga puluh bulan.\n\n[Bab tentang kemuliaan planet-planet]\n\nKetahuilah bahwa kemuliaan Bulan adalah Taurus; kemuliaan Merkurius adalah Virgo; kemuliaan Venus adalah Pisces; kemuliaan Matahari adalah Aries; kemuliaan Mars adalah Capricorn; kemuliaan Jupiter adalah Cancer; dan kemuliaan Saturnus adalah Libra. Adapun al-Thurayyā, dikatakan bahwa ia adalah pelita alam di langit karena ia merupakan kumpulan bintang seperti sebuah simpul. Ia berada di langit, dan orang-orang Arab menyebutnya “bintang-bintang” karena tidak ada tempat di langit yang lebih banyak bintangnya daripada tempat itu.\n\n[Bab tentang hari yang menjadi milik masing-masing dari tujuh planet]\n\nHari Minggu untuk Matahari; Senin untuk Bulan; Selasa untuk Mars; Rabu untuk Merkurius; Kamis untuk Jupiter; Jumat untuk Venus; dan Sabtu untuk Saturnus.\n\n[Bab tentang konjungsi planet-planet]\n\nMakna konjungsi adalah bahwa satu planet berada dalam suatu rasi sementara planet yang lain berada dalam padanannya. “Pertemuan” berarti keduanya berkumpul dalam satu rasi. Dengan demikian, atas perintah Allah Yang Mahatinggi, hal itu memengaruhi setiap tindakan. [UNCLEAR: sumber kemudian merujuk hal ini sebagai sesuatu yang terdapat dalam Al-Qur’an dan berkata agar memahaminya.]\n\nApabila Saturnus mendekati Jupiter, peperangan meluas di berbagai negeri dan seorang raja dari raja-raja dunia dan bumi meninggal. Apabila Mars mendekati Saturnus, [UNCLEAR: sumber berkata, “demikianlah yang terjadi.”] Apabila Saturnus mendekati Matahari, [UNCLEAR: sumber kembali berkata, “demikianlah yang terjadi.”] Apabila Saturnus berkonjungsi dengan Venus, hal itu menunjukkan mahalnya harga-harga dan kekeringan. Apabila Saturnus berkonjungsi dengan Merkurius, hal itu menunjukkan [UNCLEAR: baiknya keadaan penulisan atau para juru tulis]. Apabila Bulan berkonjungsi [dengan planet lain; sumber tidak menyebut padanannya], hal itu menunjukkan munculnya kezaliman dalam hukum-hukum. Apabila Jupiter berkonjungsi dengan Mars, banyak kesusahan terjadi di dunia.\n\n[Judul bab berlanjut]",
+        "record_found": true,
+        "errors": [],
+        "warnings": []
+      },
       "last_error": null,
-      "commit_sha": null,
-      "committed_at": null
+      "commit_sha": "8f30e18",
+      "committed_at": "2026-09-25T09:14:26+00:00"
     },
     "39": {
       "page": 39,
