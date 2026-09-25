@@ -49,3 +49,6 @@ ocr/logs/
 
 # Transient state files
 state/run_batch.lock
+state/translation_v2/worker.lock
+state/translation_v2/state.lock
+state/translation_v2/*.tmp

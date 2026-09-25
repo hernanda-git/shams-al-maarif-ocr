@@ -138,6 +138,20 @@ python3 scripts/build_html_book.py
 # → manuscript/shams-al-maarif-verbatim.html
 ```
 
+### Translation Alignment V2 — page-locked worker
+
+The legacy translation commands above are historical batch tools. For the V2 correction campaign, use the repository-local worker and tracker so the LLM can claim only one physical page, pass deterministic validation, receive independent review, and record a page-scoped commit before page N+1 becomes available:
+
+```bash
+uv run --no-project python scripts/translation_v2_worker.py init
+uv run --no-project python scripts/translation_v2_worker.py status --json
+uv run --no-project python scripts/translation_v2_worker.py claim-next --worker-id hermes-page-worker --json
+uv run --no-project python scripts/translation_v2_worker.py packet --page 1 --worker-id hermes-page-worker --json
+uv run --no-project python scripts/translation_v2_worker.py validate --page 1 --json
+```
+
+The full state machine and recovery procedure are in `state/translation_v2/README.md`; the implementation plan is `.hermes/plans/2026-09-25_translation-v2-worker.md`. Do not use `--all` or the legacy multi-page translators for this V2 campaign.
+
 <details>
 <summary>📋 <b>One-line summary of the most-used commands</b></summary>
 
@@ -165,7 +179,10 @@ shams-al-maarif-ocr/
 ├── 📂 scripts/                           ← pipeline engines
 │   ├── ocr_gemini.py                     ← STAGE 1: Gemini Arabic OCR
 │   ├── enrich_gemini.py                  ← STAGE 2: AI post-correction
-│   ├── progress_manager.py               ← shared state tracker
+│   ├── progress_manager.py               ← shared OCR state tracker
+│   ├── translation_v2_tracker.py         ← strict 604-page V2 state machine
+│   ├── translation_v2_worker.py          ← one-page LLM worker boundary
+│   ├── verify_translation_v2_page.py     ← deterministic page gate
 │   ├── run_batch.sh                      ← cron: OCR + enrich (10 pp)
 │   ├── batch_process_all.sh              ← backfill: pages 363 → 604
 │   ├── git_auto_push.sh                  ← commit & push after batch
