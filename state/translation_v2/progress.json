@@ -3,7 +3,7 @@
   "total_pages": 604,
   "sequence_policy": "strict-lowest-uncommitted",
   "created_at": "2026-09-25T03:54:12+00:00",
-  "updated_at": "2026-09-25T05:51:04+00:00",
+  "updated_at": "2026-09-25T05:56:28+00:00",
   "active_page": null,
   "pages": {
     "1": {
@@ -494,17 +494,30 @@
     },
     "19": {
       "page": 19,
-      "status": "pending",
-      "attempts": 0,
-      "owner": null,
-      "claimed_at": null,
-      "heartbeat_at": null,
-      "review_submitted_at": null,
-      "reviewer": null,
-      "validator": null,
+      "status": "committed",
+      "attempts": 1,
+      "owner": "hermes-translation-v2-20260925",
+      "claimed_at": "2026-09-25T05:51:12+00:00",
+      "heartbeat_at": "2026-09-25T05:56:15+00:00",
+      "review_submitted_at": "2026-09-25T05:56:15+00:00",
+      "reviewer": "independent-reviewer",
+      "validator": {
+        "ok": true,
+        "page": 19,
+        "source_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched/page_019.txt",
+        "english_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_en/page_019.txt",
+        "indonesian_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_id/page_019.txt",
+        "json_path": "C:/Working Folder/Research/shams-al-maarif-ocr/web/public/manuscript.json",
+        "blank_source": false,
+        "english_block": "— 13 —\n\nTherefore, the conjunction described above was good. It has a great wafq, prepared during its exaltation and carried. Through it, Abū Jaʿfar al-Barmakī was accepted by al-Rashīd and obtained what he wanted from him. Whoever carries it, when he enters with it before kings and great ones, obtains what he seeks from them, and no one opposes him in what he wants. This is its form; understand, and you will be guided. God knows best.\n\n(The fourth mansion,) the mansion of al-Dabarān, has the letter dāl. When the moon descends into it, an evil spiritual force descends from it. Perform in it the harmful and corrupt works appropriate to it and to such purposes.\n\n(The fifth mansion,) the mansion of al-Haqʿah, has the letter hāʾ. When the moon descends into it, a spiritual force mixed with moderate heat descends from it. Perform works of goodness in it, along with some of their opposite.\n\n(The sixth mansion,) the mansion of al-Hanʿah, has the letter wāw. It is a fortunate mansion, suitable for affection and reunion between those who are far apart, because a good spiritual force descends with it, helping illnesses through treatments and assisting works of piety, righteousness, and success.\n\n(The seventh mansion,) the mansion of al-Dhirāʿ, has the letter zāy. When the moon descends into it, a good spiritual force descends from it, helping illnesses through treatments. Perhaps whoever persists in its remembrance will have something of the unseen kingdom opened to him. It is good for retreats and the pursuit of truth, and it is suitable for all works.\n\n(The eighth mansion,) the mansion of al-Nathrah, has the letter ḥāʾ. When the moon descends into it, a spiritual force appears from it that does not assist goodness; perform in it works of corruption.\n\n(The ninth mansion,) the mansion of al-Ṭarfah, has the letter ṭāʾ. When the moon descends into it, a spiritual force like the preceding one descends from it.\n\n(The tenth mansion,) the mansion of al-Jabhah, has the letter yāʾ. When the moon descends into it, a spiritual force mixed between good and evil descends from it; perform in it what is appropriate to it.\n\n(The eleventh mansion,) the mansion of al-Zubrah, has the letter kāf. When the moon descends into it, a spiritual force suitable for the growth of provisions and the pursuit of needs descends from it; perform in it what is appropriate to it.\n\n(The twelfth mansion,) al-Ṣarfah, has the letter lām. When the moon descends into it, a spiritual force mixed between good and evil descends from it; perform in it what is appropriate to it.\n\n(The thirteenth mansion,) the mansion of al-ʿAwāʾ, has the letter mīm. When the moon descends into it, a spiritual force descends from it in which nothing moves except for sailing the sea, and nothing else.\n\n(The fourteenth mansion,) the mansion of al-Simāk, has the letter nūn. When the moon descends into it, a spiritual force descends from it that does not assist goodness, so do not do anything in it at all.\n\n(The fifteenth mansion,) the mansion of al-Ghafr, has the letter sīn. When the moon descends into it, a good spiritual force descends from it, assisting all worldly and otherworldly movements. Do whatever you wish in it; your work will succeed.\n\n(The sixteenth mansion,) the mansion of al-Zubānā, has the letter ʿayn. When the moon descends into it, a mixed spiritual force descends from it; nothing moves in it except goodness.\n\n(The seventeenth mansion,) the mansion of al-Iklīl, has the letter fāʾ. When the moon descends into it, a spiritual force descends from it …\n\n[CONTINUES ON NEXT PAGE]",
+        "indonesian_block": "— 13 —\n\nOleh karena itu, konjungsi yang telah kami sebutkan adalah baik. Ia memiliki wafq yang agung, dibuat pada saat kemuliaannya dan dibawa. Dengan perantaraannya, Abū Jaʿfar al-Barmakī diterima oleh al-Rasyīd dan memperoleh apa yang diinginkannya dari beliau. Pembawanya, apabila masuk dengannya menghadap para raja dan pembesar, akan memperoleh apa yang dicarinya dari mereka, dan tidak seorang pun menentangnya dalam hal yang dikehendakinya. Inilah bentuknya; pahamilah, niscaya engkau mendapat petunjuk. Allah lebih mengetahui.\n\n(Manzilah keempat,) manzilah al-Dabarān, memiliki huruf dāl. Apabila bulan turun padanya, turun darinya suatu kekuatan ruhani yang buruk. Lakukanlah di dalamnya amal-amal yang merugikan dan merusak yang sesuai dengannya dan dengan tujuan semacam itu.\n\n(Manzilah kelima,) manzilah al-Ḥaqʿah, memiliki huruf hāʾ. Apabila bulan turun padanya, turun darinya suatu kekuatan ruhani yang bercampur dengan panas sedang. Lakukanlah amal-amal kebaikan di dalamnya, beserta sebagian dari kebalikannya.\n\n(Manzilah keenam,) manzilah al-Hanʿah, memiliki huruf wāw. Ia adalah manzilah yang beruntung, sesuai untuk kasih sayang dan pertemuan antara orang-orang yang berjauhan, karena turun bersamanya suatu kekuatan ruhani yang baik, membantu penyakit melalui pengobatan dan membantu amal kebajikan, kesalehan, serta keberhasilan.\n\n(Manzilah ketujuh,) manzilah al-Dhirāʿ, memiliki huruf zāy. Apabila bulan turun padanya, turun darinya suatu kekuatan ruhani yang baik, membantu penyakit melalui pengobatan. Barangkali orang yang tekun menyebutnya akan dibukakan baginya sesuatu dari alam gaib. Ia baik untuk uzlah dan mencari kebenaran, serta sesuai untuk semua amal.\n\n(Manzilah kedelapan,) manzilah al-Nathrah, memiliki huruf ḥāʾ. Apabila bulan turun padanya, tampak darinya suatu kekuatan ruhani yang tidak membantu kebaikan; lakukanlah di dalamnya urusan-urusan kerusakan.\n\n(Manzilah kesembilan,) manzilah al-Ṭarfah, memiliki huruf ṭāʾ. Apabila bulan turun padanya, turun darinya kekuatan ruhani seperti yang sebelumnya.\n\n(Manzilah kesepuluh,) manzilah al-Jabhah, memiliki huruf yāʾ. Apabila bulan turun padanya, turun darinya suatu kekuatan ruhani yang bercampur antara kebaikan dan keburukan; lakukanlah di dalamnya apa yang sesuai dengannya.\n\n(Manzilah kesebelas,) manzilah al-Zubrah, memiliki huruf kāf. Apabila bulan turun padanya, turun darinya suatu kekuatan ruhani yang sesuai untuk pertumbuhan rezeki dan pencarian hajat; lakukanlah di dalamnya apa yang sesuai dengannya.\n\n(Manzilah kedua belas,) al-Ṣarfah, memiliki huruf lām. Apabila bulan turun padanya, turun darinya suatu kekuatan ruhani yang bercampur antara kebaikan dan keburukan; lakukanlah di dalamnya apa yang sesuai dengannya.\n\n(Manzilah ketiga belas,) manzilah al-ʿAwāʾ, memiliki huruf mīm. Apabila bulan turun padanya, turun darinya suatu kekuatan ruhani yang tidak bergerak di dalamnya kecuali untuk mengarungi laut, tidak untuk yang lain.\n\n(Manzilah keempat belas,) manzilah al-Simāk, memiliki huruf nūn. Apabila bulan turun padanya, turun darinya suatu kekuatan ruhani yang tidak membantu kebaikan; maka jangan lakukan apa pun di dalamnya sama sekali.\n\n(Manzilah kelima belas,) manzilah al-Ghafr, memiliki huruf sīn. Apabila bulan turun padanya, turun darinya suatu kekuatan ruhani yang baik, membantu seluruh gerak duniawi dan ukhrawi. Lakukanlah di dalamnya apa yang engkau kehendaki; amalmu akan berhasil.\n\n(Manzilah keenam belas,) manzilah al-Zubānā, memiliki huruf ʿayn. Apabila bulan turun padanya, turun darinya suatu kekuatan ruhani yang bercampur; tidak ada yang bergerak di dalamnya kecuali kebaikan.\n\n(Manzilah ketujuh belas,) manzilah al-Iklīl, memiliki huruf fāʾ. Apabila bulan turun padanya, turun darinya suatu kekuatan ruhani …\n\n[BERSAMBUNG KE HALAMAN BERIKUTNYA]",
+        "record_found": true,
+        "errors": [],
+        "warnings": []
+      },
       "last_error": null,
-      "commit_sha": null,
-      "committed_at": null
+      "commit_sha": "34bcab8",
+      "committed_at": "2026-09-25T05:56:28+00:00"
     },
     "20": {
       "page": 20,
