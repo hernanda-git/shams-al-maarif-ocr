@@ -2,4 +2,4 @@ Arabic:
 هذا المستند عبارة عن صفحة فارغة (غلاف داخلي أو صفحة بيضاء) ولا يحتوي على أي نصوص عربية.
 
 Indonesia:
-Dokumen ini berupa halaman kosong (lubang dalam atau halaman putih) dan tidak mengandung teks Arab yang ada.
+Dokumen ini merupakan halaman kosong (sampul bagian dalam atau halaman putih) dan tidak berisi teks Arab apa pun.
