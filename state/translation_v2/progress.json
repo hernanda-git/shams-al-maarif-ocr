@@ -3,7 +3,7 @@
   "total_pages": 604,
   "sequence_policy": "strict-lowest-uncommitted",
   "created_at": "2026-09-25T03:54:12+00:00",
-  "updated_at": "2026-09-25T04:51:48+00:00",
+  "updated_at": "2026-09-25T04:57:36+00:00",
   "active_page": null,
   "pages": {
     "1": {
@@ -197,17 +197,30 @@
     },
     "8": {
       "page": 8,
-      "status": "pending",
-      "attempts": 0,
-      "owner": null,
-      "claimed_at": null,
-      "heartbeat_at": null,
-      "review_submitted_at": null,
-      "reviewer": null,
-      "validator": null,
+      "status": "committed",
+      "attempts": 1,
+      "owner": "hermes-translation-v2-20260925",
+      "claimed_at": "2026-09-25T04:54:40+00:00",
+      "heartbeat_at": "2026-09-25T04:57:29+00:00",
+      "review_submitted_at": "2026-09-25T04:57:29+00:00",
+      "reviewer": "independent-reviewer",
+      "validator": {
+        "ok": true,
+        "page": 8,
+        "source_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched/page_008.txt",
+        "english_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_en/page_008.txt",
+        "indonesian_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_id/page_008.txt",
+        "json_path": "C:/Working Folder/Research/shams-al-maarif-ocr/web/public/manuscript.json",
+        "blank_source": false,
+        "english_block": "And to Allah belong the Most Beautiful Names, so call upon Him by them.\n\nIn the name of Allah, the Most Compassionate, the Most Merciful.\n\nA testimony of pre-eternity; from the light of this testimony the chosen ones drew knowledge. Understand this, and the order that appeared in the two testimonies\nconnected with the noble angels and those endowed with knowledge. This is the testimony of eternity, for within them lies the secret of these two testimonies: the witness\nof the two realms and what they deposited through the secret of connection with revelatory unveilings; and for every form there is a path to all wisdoms.\n\nI ask Allah, the Living, the Self-Subsisting, to make it sincere and an accepted offering before my private supplication, and to let its spirit of comfort accompany me\nin my movements and my dwelling; to make the path clear to me and to you; and to bestow upon us and upon you the lights of realization. Indeed, this mercy-filled flash\nand the radiant, illuminating suns are the paths of the knowers, the way of the truthful, and the broad road of the righteous,\nleading to the holy presence of the Lord of the worlds, Lord of lords, Opener of causes, and Lifter of the veil, which He originated without a model,\ntranscendent above forms, everlasting, never ceasing to be described by the attributes of beauty, eternally existent in pre-eternity, raising the higher realms\nby His determination and wisdom, and spreading the lower realms by His power and will. There is no god but Him, the Great, the Most High,\nveiled by the veils of light, hidden from all secrets, concealed from the enclosures of vision; yet He perceives all vision through His inward aspect, by His Essence, in His pre-eternity.\nHe became manifest through His attributes in His eternity, revealed Himself through His instruments in His sempiternity, and manifested through His acts in His eternity.\nHe is the First in pre-eternity, the Last in eternity, and the Manifest in sempiternity. Exalted is He above\nsubstances and accidents, bodies and parts, and being subject to purposes. Directions and regions cannot contain Him;\nthe succession of cycles does not follow Him, and the passing of night and day does not annihilate Him. I praise Him,\nglorified and exalted is He. Everything with Him is measured. He is the Knower of the unseen and the witnessed, the Great, the Most High. And I bear witness that there is no god but\nAllah alone, without partner. It is a testimony that accompanies souls with steadfast confirmation in the barzakh realms. And I bear witness to you: His creation has encompassed it,\nliving and dead. He sees the dead and their provisions, knows what has passed and what is to come, and revives the dead\nafter they have become remains. And I bear witness that Muhammad is His servant and Messenger, the sun of the religious community and the deliverer of the servants from polytheism\nand humiliation.",
+        "indonesian_block": "Dan milik Allah-lah nama-nama yang paling indah, maka berdoalah kepada-Nya dengan nama-nama itu.\n\nDengan nama Allah Yang Maha Pengasih, Maha Penyayang.\n\nKesaksian tentang keazalian; dari cahaya kesaksian ini orang-orang pilihan menimba ilmu. Pahamilah hal itu dan susunan yang tampak dalam dua kesaksian\nyang berhubungan dengan para malaikat yang mulia dan orang-orang berilmu. Inilah kesaksian tentang keabadian; di dalamnya terdapat rahasia kedua kesaksian itu: saksi\natas dua alam dan apa yang mereka titipkan melalui rahasia hubungan dengan berbagai penyingkapan; dan bagi setiap wujud terdapat jalan menuju seluruh hikmah.\n\nAku memohon kepada Allah Yang Mahahidup, Yang Berdiri Sendiri, agar menjadikannya tulus dan sebagai persembahan yang diterima di hadapan munajatku, serta agar ruh ketenteramannya menyertaiku\ndalam segala gerak dan tempat tinggalku; agar Dia menjelaskan jalan kepadaku dan kepada kalian; serta menganugerahkan kepada kami dan kepada kalian cahaya-cahaya hakikat. Sesungguhnya kilatan yang penuh rahmat ini\ndan matahari-matahari yang terbit lagi bercahaya adalah jalan para arif, manhaj para shiddiq, dan jalan luas orang-orang saleh,\nmenuju hadirat kesucian Tuhan semesta alam, Tuhan segala tuhan, Pembuka segala sebab, dan Pengangkat hijab yang Dia ciptakan tanpa contoh,\nYang Mahasuci dari segala bentuk, Yang Kekal, yang senantiasa disifati dengan sifat-sifat keindahan, selalu ada dalam keazalian, Yang mengangkat alam-alam tinggi\ndengan takdir dan hikmah-Nya, serta membentangkan alam-alam rendah dengan kekuasaan dan kehendak-Nya. Tiada tuhan selain Dia, Yang Maha Besar, Yang Mahatinggi,\nYang tersembunyi di balik tabir-tabir cahaya, terlindung dari seluruh rahasia, tersembunyi dari tirai-tirai penglihatan; namun Dia menangkap segala penglihatan dengan batin-Nya, dengan Zat-Nya, dalam keazalian-Nya.\nDia menampakkan diri melalui sifat-sifat-Nya dalam keabadian-Nya, menyatakan diri melalui sarana-sarana-Nya dalam kekekalan-Nya, dan menampakkan diri melalui perbuatan-perbuatan-Nya dalam keabadian-Nya.\nDialah Yang Awal dalam keazalian, Yang Akhir dalam keabadian, dan Yang Zahir dalam kekekalan. Mahasuci Dia dari\nsubstansi dan aksiden, tubuh dan bagian-bagian, serta dari tunduk pada tujuan-tujuan. Arah dan penjuru tidak dapat meliputi-Nya;\npergantian siklus tidak mengikuti-Nya, dan berlalunya malam dan siang tidak membinasakan-Nya. Aku memuji-Nya,\nMahasuci dan Mahatinggi Dia. Segala sesuatu di sisi-Nya berada dalam ukuran. Dia Maha Mengetahui yang gaib dan yang nyata, Yang Maha Besar, Yang Mahatinggi. Dan aku bersaksi bahwa tiada tuhan selain\nAllah semata, tiada sekutu bagi-Nya. Kesaksian itu menyertai ruh-ruh dengan peneguhan di alam-alam barzakh. Dan aku bersaksi kepada kalian: makhluk-Nya telah meliputinya,\nbaik yang hidup maupun yang mati. Dia melihat orang-orang mati dan rezeki-rezeki, mengetahui apa yang telah berlalu dan apa yang akan datang, serta menghidupkan orang-orang mati\nsetelah mereka menjadi sisa-sisa jasad. Dan aku bersaksi bahwa Muhammad adalah hamba dan Rasul-Nya, matahari umat beragama dan penyelamat para hamba dari kesyirikan\ndan kehinaan.",
+        "record_found": true,
+        "errors": [],
+        "warnings": []
+      },
       "last_error": null,
-      "commit_sha": null,
-      "committed_at": null
+      "commit_sha": "a350609",
+      "committed_at": "2026-09-25T04:57:36+00:00"
     },
     "9": {
       "page": 9,
