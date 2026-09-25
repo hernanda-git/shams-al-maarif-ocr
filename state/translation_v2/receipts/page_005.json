@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "type": "verification",
+  "page": 5,
+  "worker_id": "hermes-translation-v2-20260925",
+  "reviewer": "independent-reviewer",
+  "validator": {
+    "ok": true,
+    "page": 5,
+    "source_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched/page_005.txt",
+    "english_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_en/page_005.txt",
+    "indonesian_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_id/page_005.txt",
+    "json_path": "C:/Working Folder/Research/shams-al-maarif-ocr/web/public/manuscript.json",
+    "blank_source": false,
+    "english_block": "This page is empty and does not contain any text.",
+    "indonesian_block": "Halaman ini kosong dan tidak mengandung teks apa pun.",
+    "record_found": true,
+    "errors": [],
+    "warnings": []
+  },
+  "file_hashes": {
+    "ocr/enriched/page_005.txt": "9fbeb628d923308d08544fed69228ba97cf57e2e5233bb63fcf03e917c7c14b1",
+    "ocr/enriched_en/page_005.txt": "4d55af967cf7ebc6a7c711531fcd5cb7fedf6a889f5e33ee7167ccb2d986f10f",
+    "ocr/enriched_id/page_005.txt": "02ea174320898b36f90c8f4d97e1b70ebefd8e7218db7210346bed5cfa0e2e87",
+    "web/public/manuscript.json": "f7c8c36d1f23628d34ae190c28d2c286d2ff788fd254528a2b3d2366c47f2244"
+  }
+}
