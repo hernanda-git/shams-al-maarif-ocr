@@ -3,7 +3,7 @@
   "total_pages": 604,
   "sequence_policy": "strict-lowest-uncommitted",
   "created_at": "2026-09-25T03:54:12+00:00",
-  "updated_at": "2026-09-25T06:14:29+00:00",
+  "updated_at": "2026-09-25T06:16:37+00:00",
   "active_page": null,
   "pages": {
     "1": {
@@ -656,17 +656,30 @@
     },
     "25": {
       "page": 25,
-      "status": "pending",
-      "attempts": 0,
-      "owner": null,
-      "claimed_at": null,
-      "heartbeat_at": null,
-      "review_submitted_at": null,
-      "reviewer": null,
-      "validator": null,
+      "status": "committed",
+      "attempts": 1,
+      "owner": "hermes-translation-v2-20260925",
+      "claimed_at": "2026-09-25T06:14:36+00:00",
+      "heartbeat_at": "2026-09-25T06:16:29+00:00",
+      "review_submitted_at": "2026-09-25T06:16:29+00:00",
+      "reviewer": "independent-reviewer",
+      "validator": {
+        "ok": true,
+        "page": 25,
+        "source_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched/page_025.txt",
+        "english_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_en/page_025.txt",
+        "indonesian_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_id/page_025.txt",
+        "json_path": "C:/Working Folder/Research/shams-al-maarif-ocr/web/public/manuscript.json",
+        "blank_source": false,
+        "english_block": "19\n\n[Discourse on the mansions, their forms, and the rulings connected with them]\n\nThe discourse on the mansion of al-Sharṭayn: this is its form, hāʾ hāʾ, and its letter is alif. When the Moon descends in al-Sharṭayn, it is fiery and inauspicious. Perform in it works connected with worldly affairs, corruption, and bloodshed. The sages at this time would incline toward sleep and stillness. Some of them said that in sleep a person sees what frightens him and disturbs his disposition, and that not sleeping at this time is beneficial. If you desire to perform a work, perform works of evil in it for one who deserves them. Whoever is born in this mansion will be highly corrupt. Its incense is pepper and black seed. God knows best.\n\n[Discourse on the mansion of al-Buṭayn]\n\nIts form is hāʾ hāʾ, and its letter is bāʾ. When the Moon descends in al-Buṭayn, which is hot and moist, a righteous spiritual being descends through it into the world by the permission of God, Exalted is He. It is suitable for matters specific to men rather than women. Perform talismans in it; alchemy is sound in it, as is every craft of high rank. It is suitable for beginning the sciences, making rings, engraving, figures and numerals, incantations for illnesses, and treatment. Whoever is born in it will live happy, rightly guided, successful, and beloved by creatures. Its incense is aloeswood, saffron, and mastic. God knows best.\n\n[Discourse on the mansion of al-Thurayyā, and this is its form]\n\nIts form is hāʾ hāʾ hāʾ hāʾ, and its letter is jīm. When the Moon descends in al-Thurayyā, a spiritual being mixed of heat and cold is generated from it into the world by the permission of God, Exalted is He. Perform talismans in it and what is suitable for women; manage suitable medicines and cooling remedies. It is suitable for travelers, who may hope for increased profit. It is suitable for kings, marriage, and the purchase of slave women and male slaves. Everything managed in it is good, because it is the Moon's equilibrium rather than the Sun's, and everything made in it is praiseworthy.",
+        "indonesian_block": "19\n\n[Pernyataan tentang manzilah-manzilah, bentuk-bentuknya, dan hukum-hukum yang terkait dengannya]\n\nPernyataan tentang manzilah asy-Syarṭayn: inilah bentuknya, hāʾ hāʾ, dan hurufnya adalah alif. Apabila Bulan turun di asy-Syarṭayn, ia berapi dan sial. Kerjakan di dalamnya pekerjaan-pekerjaan yang berkaitan dengan urusan dunia, kerusakan, dan penumpahan darah. Para hukama pada waktu ini cenderung untuk tidur dan diam. Sebagian dari mereka mengatakan bahwa ketika tidur seseorang melihat hal-hal yang menakutkan dan mengganggu tabiatnya, dan bahwa tidak tidur pada waktu ini bermanfaat. Jika engkau hendak melakukan suatu pekerjaan, kerjakan di dalamnya pekerjaan-pekerjaan kejahatan bagi orang yang memang layak menerimanya. Siapa pun yang dilahirkan dalam manzilah ini akan sangat rusak. Dupanya adalah lada dan habbatussauda. Allah lebih mengetahui.\n\n[Pernyataan tentang manzilah al-Buṭayn]\n\nBentuknya adalah hāʾ hāʾ, dan hurufnya adalah bāʾ. Apabila Bulan turun di al-Buṭayn, yang bersifat panas dan lembap, turunlah melaluinya ke alam, dengan izin Allah Yang Mahatinggi, suatu makhluk spiritual yang saleh. Manzilah ini sesuai untuk perkara-perkara yang khusus bagi laki-laki, bukan perempuan. Kerjakan talisman di dalamnya; ilmu kimia berjalan baik di dalamnya, demikian pula setiap kerajinan yang tinggi nilainya. Manzilah ini sesuai untuk memulai ilmu-ilmu, membuat cincin, mengukir, membuat bentuk dan angka, merapal untuk penyakit, serta pengobatan. Siapa pun yang dilahirkan di dalamnya akan hidup bahagia, mendapat petunjuk, berhasil, dan dicintai makhluk. Dupanya adalah gaharu, zaʿfaran, dan mastik. Allah lebih mengetahui.\n\n[Pernyataan tentang manzilah al-Thurayyā, dan inilah bentuknya]\n\nBentuknya adalah hāʾ hāʾ hāʾ hāʾ, dan hurufnya adalah jīm. Apabila Bulan turun di al-Thurayyā, lahirlah darinya ke alam, dengan izin Allah Yang Mahatinggi, suatu makhluk spiritual yang bercampur panas dan dingin. Kerjakan talisman di dalamnya dan hal-hal yang sesuai untuk perempuan; aturlah obat-obatan yang sesuai dan obat-obatan yang mendinginkan. Manzilah ini sesuai untuk para musafir, yang mengharapkan keuntungan tambahan. Manzilah ini sesuai untuk para raja, pernikahan, serta pembelian budak perempuan dan budak laki-laki. Segala sesuatu yang diatur di dalamnya adalah baik, karena ia merupakan keseimbangan Bulan, bukan Matahari, dan segala sesuatu yang dibuat di dalamnya adalah terpuji.",
+        "record_found": true,
+        "errors": [],
+        "warnings": []
+      },
       "last_error": null,
-      "commit_sha": null,
-      "committed_at": null
+      "commit_sha": "ab38980",
+      "committed_at": "2026-09-25T06:16:37+00:00"
     },
     "26": {
       "page": 26,
