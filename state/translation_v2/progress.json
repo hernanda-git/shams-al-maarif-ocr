@@ -3,7 +3,7 @@
   "total_pages": 604,
   "sequence_policy": "strict-lowest-uncommitted",
   "created_at": "2026-09-25T03:54:12+00:00",
-  "updated_at": "2026-09-25T05:48:58+00:00",
+  "updated_at": "2026-09-25T05:51:04+00:00",
   "active_page": null,
   "pages": {
     "1": {
@@ -467,17 +467,30 @@
     },
     "18": {
       "page": 18,
-      "status": "pending",
-      "attempts": 0,
-      "owner": null,
-      "claimed_at": null,
-      "heartbeat_at": null,
-      "review_submitted_at": null,
-      "reviewer": null,
-      "validator": null,
+      "status": "committed",
+      "attempts": 1,
+      "owner": "hermes-translation-v2-20260925",
+      "claimed_at": "2026-09-25T05:49:05+00:00",
+      "heartbeat_at": "2026-09-25T05:50:57+00:00",
+      "review_submitted_at": "2026-09-25T05:50:57+00:00",
+      "reviewer": "independent-reviewer",
+      "validator": {
+        "ok": true,
+        "page": 18,
+        "source_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched/page_018.txt",
+        "english_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_en/page_018.txt",
+        "indonesian_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_id/page_018.txt",
+        "json_path": "C:/Working Folder/Research/shams-al-maarif-ocr/web/public/manuscript.json",
+        "blank_source": false,
+        "english_block": "— 12 —\n\n“From the upper and lower realms and all the servants of the letter alif—[I adjure you] to hear, obey, and stir up so-and-so and so-and-so—by the right of what I have sworn you by, by the right of the letter alif and the secrets that God has placed in it, which no one perceives except those who know God, and by the right of Abjad and the properties within it: respond obediently, as I have called you to do, and by what I have sworn you by. This is its form, as you see; understand, and you will be guided.”\n\nApply this by analogy to whatever works and actions suit it; your work will succeed, and God grants success to what is right. If you desire works of corruption, do as we first described: hatred, destruction, ruin, and whatever resembles them. Apply the same analogy and act, and you will attain the intended result. God speaks the truth, and He guides the way.\n\nThis is the invocation of the letter alif with which you invoke the preceding number:\n\n“Glory be to You; there is no god but You, O Lord of everything, its Inheritor, and the earth.”\n\n(The second mansion,) the mansion of al-Buṭayn, belongs to the letter bāʾ. When the moon descends into it, a spiritual force descends from it by God's command, suitable for anger and for what was mentioned earlier. Medicine is drunk in it, and the nobles, worldly people, and kings of the earth become active in it, because it is the second face of Aries and the face of the Sun. Its exaltation is there at nineteen degrees of it, on the fourth day of April. The Sun is fortunate, although hot and dry. Its fortune and exaltation in this face make it suitable for working for acceptance, approaching kings, and whatever is sought from them, for needs are fulfilled. Work for affection, acceptance, and attracting hearts; bring them forth through it. It is also suitable for the practice of the wisdom-crafts, golden elixirs, and their preparation.\n\n(The third mansion,) the mansion of al-Thurayyā, has the letter jīm. When the moon descends into it, a spiritual force descends from it compounded of heat, moisture, and cold. It has a moderate fortune, is good for travel, for associating with nobles, for approaching the great ones, the lords of the world, and people of the pen, because al-Thurayyā is a dense gathering of stars.\n\nTherefore\n\n[CONTINUES ON NEXT PAGE]",
+        "indonesian_block": "— 12 —\n\n“Dari alam atas dan alam bawah serta seluruh pelayan huruf alif—[aku menyeru kalian] untuk mendengar, menaati, dan membangkitkan si fulan dan si fulan—demi hak apa yang telah aku bersumpah atas kalian dengannya, demi hak huruf alif dan rahasia-rahasia yang Allah turunkan di dalamnya, yang tidak diketahui seorang pun kecuali orang-orang yang mengenal Allah, dan demi hak Abjad serta khasiat-khasiat yang ada di dalamnya: jawablah dengan ketaatan sebagaimana aku menyeru kalian kepadanya dan demi apa yang telah aku bersumpah atas kalian dengannya. Inilah bentuknya, sebagaimana engkau lihat; pahamilah, niscaya engkau mendapat petunjuk.”\n\nQiyaskanlah hal ini pada amal dan perbuatan yang sesuai dengannya; amalmu akan berhasil, dan Allah memberi taufik kepada kebenaran. Jika engkau menghendaki amal-amal kerusakan, lakukanlah sebagaimana yang pertama-tama kami sebutkan: kebencian, kebinasaan, kehancuran, dan apa pun yang menyerupainya. Qiyaskanlah kepadanya dan lakukanlah, niscaya engkau memperoleh maksudnya. Allah berfirman benar, dan Dialah yang memberi petunjuk jalan.\n\nInilah seruan huruf alif yang dengannya engkau menyeru bilangan sebelumnya:\n\n“Mahasuci Engkau; tiada tuhan selain Engkau, wahai Tuhan segala sesuatu, Pewarisnya, dan bumi.”\n\n(Manzilah kedua,) manzilah al-Buṭayn, adalah untuk huruf bāʾ. Apabila bulan turun padanya, turun darinya—dengan perintah Allah—suatu kekuatan ruhani yang sesuai untuk kemarahan dan hal-hal yang telah disebutkan sebelumnya. Obat diminum di dalamnya, dan para bangsawan, para penghuni dunia, serta raja-raja bumi bergerak aktif di dalamnya, karena ia adalah wajah kedua Hamal dan wajah Matahari. Kemuliaan Matahari berada di dalamnya pada sembilan belas derajat, pada hari keempat bulan April. Matahari itu membawa keberuntungan, meskipun panas dan kering. Keberuntungan dan kemuliaannya pada wajah ini menjadikannya sesuai untuk amal penerimaan, mendatangi raja-raja, dan apa pun yang diminta dari mereka, karena berbagai hajat akan terkabul. Beramallah untuk kasih sayang, penerimaan, dan penarikan hati; wujudkanlah hal-hal itu dengannya. Ia juga sesuai untuk pembuatan kerajinan hikmah, eliksir emas, dan pengolahannya.\n\n(Manzilah ketiga,) manzilah al-Thurayyā, memiliki huruf jīm. Apabila bulan turun padanya, turun darinya suatu kekuatan ruhani yang bercampur antara panas, kelembapan, dan dingin. Ia memiliki keberuntungan sedang, baik untuk perjalanan, bergaul dengan para bangsawan, mendatangi para pembesar, para penguasa dunia, dan para ahli pena, karena al-Thurayyā merupakan kumpulan bintang yang sangat banyak.\n\nOleh karena itu\n\n[BERSAMBUNG KE HALAMAN BERIKUTNYA]",
+        "record_found": true,
+        "errors": [],
+        "warnings": []
+      },
       "last_error": null,
-      "commit_sha": null,
-      "committed_at": null
+      "commit_sha": "f9a82a8",
+      "committed_at": "2026-09-25T05:51:04+00:00"
     },
     "19": {
       "page": 19,
