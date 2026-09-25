@@ -1,1 +1,8 @@
 {"timestamp": "2026-09-25T03:54:12+00:00", "action": "initialize", "total_pages": 604, "reset": false}
+{"timestamp": "2026-09-25T04:31:13+00:00", "action": "claim", "page": 1, "worker_id": "hermes-translation-v2-20260925", "attempt": 1}
+{"timestamp": "2026-09-25T04:31:13+00:00", "action": "start", "page": 1, "worker_id": "hermes-translation-v2-20260925"}
+{"timestamp": "2026-09-25T04:32:08+00:00", "action": "heartbeat", "page": 1, "worker_id": "hermes-translation-v2-20260925"}
+{"timestamp": "2026-09-25T04:33:07+00:00", "action": "heartbeat", "page": 1, "worker_id": "hermes-translation-v2-20260925"}
+{"timestamp": "2026-09-25T04:33:21+00:00", "action": "submit_review", "page": 1, "worker_id": "hermes-translation-v2-20260925", "validator": {"ok": true, "page": 1, "source_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched/page_001.txt", "english_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_en/page_001.txt", "indonesian_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_id/page_001.txt", "json_path": "C:/Working Folder/Research/shams-al-maarif-ocr/web/public/manuscript.json", "blank_source": true, "english_block": "[NO VISIBLE TEXT]", "indonesian_block": "[TIDAK ADA TEKS TERLIHAT]", "record_found": true, "errors": [], "warnings": []}}
+{"timestamp": "2026-09-25T04:33:21+00:00", "action": "approve", "page": 1, "reviewer_id": "independent-reviewer", "self_review": false}
+{"timestamp": "2026-09-25T04:33:33+00:00", "action": "record_commit", "page": 1, "worker_id": "hermes-translation-v2-20260925", "sha": "3f14056"}
