@@ -565,6 +565,7 @@ class Tracker:
         sha: str,
         worker_id: str,
         verify_git: bool = True,
+        verification_only: bool = False,
     ) -> dict[str, Any]:
         if not COMMIT_SHA_RE.fullmatch(sha):
             raise TrackerError("commit SHA must be 7-64 hexadecimal characters")
@@ -577,17 +578,25 @@ class Tracker:
                     f"page {page} must be approved before recording a commit"
                 )
             if verify_git:
-                self._verify_page_commit(page, sha)
+                self._verify_page_commit(page, sha, verification_only=verification_only)
             record["status"] = "committed"
             record["commit_sha"] = sha
             record["committed_at"] = utc_now()
             state["active_page"] = None
             self._write_state(state)
             self._remove_worker_lock(page)
-            self._append_event("record_commit", page=page, worker_id=worker_id, sha=sha)
+            self._append_event(
+                "record_commit",
+                page=page,
+                worker_id=worker_id,
+                sha=sha,
+                verification_only=verification_only,
+            )
             return {"page": page, "status": record["status"], "commit_sha": sha}
 
-    def _verify_page_commit(self, page: int, sha: str) -> None:
+    def _verify_page_commit(
+        self, page: int, sha: str, verification_only: bool = False
+    ) -> None:
         check = subprocess.run(
             ["git", "-C", str(self.root), "cat-file", "-e", f"{sha}^{{commit}}"],
             text=True,
@@ -602,7 +611,41 @@ class Tracker:
         )
         if show.returncode != 0:
             raise TrackerError(f"cannot inspect commit {sha}: {show.stderr.strip()}")
-        changed = {line.strip().replace("\\", "/") for line in show.stdout.splitlines() if line.strip()}
+        changed = {
+            line.strip().replace("\\", "/")
+            for line in show.stdout.splitlines()
+            if line.strip()
+        }
+        receipt_path = f"state/translation_v2/receipts/page_{page:03d}.json"
+        if verification_only:
+            if changed != {receipt_path}:
+                raise TrackerError(
+                    f"verification-only commit {sha} must contain only {receipt_path}"
+                )
+            receipt = subprocess.run(
+                ["git", "-C", str(self.root), "show", f"{sha}:{receipt_path}"],
+                text=True,
+                capture_output=True,
+            )
+            if receipt.returncode != 0:
+                raise TrackerError(f"cannot read verification receipt from {sha}")
+            try:
+                value = json.loads(receipt.stdout)
+            except json.JSONDecodeError as exc:
+                raise TrackerError(f"verification receipt is not valid JSON: {exc}") from exc
+            if (
+                not isinstance(value, dict)
+                or value.get("type") != "verification"
+                or value.get("page") != page
+                or not isinstance(value.get("validator"), dict)
+                or value["validator"].get("ok") is not True
+                or not value.get("reviewer")
+            ):
+                raise TrackerError(
+                    f"verification receipt {receipt_path} is missing approved page evidence"
+                )
+            return
+
         expected = {
             f"ocr/enriched_en/page_{page:03d}.txt",
             f"ocr/enriched_id/page_{page:03d}.txt",
@@ -721,6 +764,11 @@ def _build_parser() -> argparse.ArgumentParser:
     commit.add_argument("--sha", required=True)
     commit.add_argument("--worker-id", required=True)
     commit.add_argument("--skip-git-verify", action="store_true")
+    commit.add_argument(
+        "--verification-only",
+        action="store_true",
+        help="verify a committed state/translation receipt instead of content files",
+    )
     events = common("events")
     events.add_argument("--limit", type=int, default=0)
     reclaim = common("reclaim-lock")
@@ -770,6 +818,7 @@ def main(argv: list[str] | None = None) -> int:
                 args.sha,
                 args.worker_id,
                 verify_git=not args.skip_git_verify,
+                verification_only=args.verification_only,
             )
         elif command == "events":
             result = tracker.events()

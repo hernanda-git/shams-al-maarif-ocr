@@ -122,6 +122,37 @@ class TranslationV2TrackerTests(unittest.TestCase):
         self.tracker.approve(1, "reviewer-b")
         result = self.tracker.record_commit(1, sha, "worker-a")
         self.assertEqual(result["status"], "committed")
+    def test_verification_only_commit_may_contain_a_page_receipt(self):
+        subprocess.run(["git", "init", "-q"], cwd=self.root, check=True)
+        subprocess.run(["git", "config", "user.email", "test@example.invalid"], cwd=self.root, check=True)
+        subprocess.run(["git", "config", "user.name", "Translation Test"], cwd=self.root, check=True)
+        receipt = self.root / "state" / "translation_v2" / "receipts" / "page_001.json"
+        receipt.parent.mkdir(parents=True, exist_ok=True)
+        receipt.write_text(
+            json.dumps(
+                {
+                    "type": "verification",
+                    "page": 1,
+                    "validator": {"ok": True},
+                    "reviewer": "reviewer-b",
+                }
+            ),
+            encoding="utf-8",
+        )
+        subprocess.run(["git", "add", str(receipt.relative_to(self.root))], cwd=self.root, check=True)
+        subprocess.run(["git", "commit", "-q", "-m", "verify-page-1"], cwd=self.root, check=True)
+        sha = subprocess.run(
+            ["git", "rev-parse", "HEAD"], cwd=self.root, check=True, text=True, capture_output=True
+        ).stdout.strip()
+
+        self.tracker.claim_next("worker-a")
+        self.tracker.start(1, "worker-a")
+        self.tracker.submit_review(1, "worker-a", {"ok": True})
+        self.tracker.approve(1, "reviewer-b")
+        result = self.tracker.record_commit(
+            1, sha, "worker-a", verification_only=True
+        )
+        self.assertEqual(result["status"], "committed")
 
 
 if __name__ == "__main__":

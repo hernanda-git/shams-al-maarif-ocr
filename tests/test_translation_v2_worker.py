@@ -8,7 +8,7 @@ SCRIPT_DIR = Path(__file__).resolve().parents[1] / "scripts"
 sys.path.insert(0, str(SCRIPT_DIR))
 
 from translation_v2_tracker import Tracker, TrackerError, WorkerBusy  # noqa: E402
-from translation_v2_worker import build_packet  # noqa: E402
+from translation_v2_worker import build_packet, prepare_verification  # noqa: E402
 
 
 class TranslationV2WorkerTests(unittest.TestCase):
@@ -68,6 +68,19 @@ class TranslationV2WorkerTests(unittest.TestCase):
             build_packet(self.tracker, 1, "worker-b")
         with self.assertRaises(WorkerBusy):
             self.tracker.claim_next("worker-b")
+    def test_prepare_verification_writes_a_page_receipt_after_approval(self):
+        self.tracker.claim_next("worker-a")
+        self.tracker.start(1, "worker-a")
+        self.tracker.submit_review(1, "worker-a", {"ok": True})
+        self.tracker.approve(1, "reviewer-b")
+
+        receipt_path = prepare_verification(self.tracker, 1, "worker-a")
+        self.assertTrue(receipt_path.exists())
+        receipt = json.loads(receipt_path.read_text(encoding="utf-8"))
+        self.assertEqual(receipt["type"], "verification")
+        self.assertEqual(receipt["page"], 1)
+        self.assertTrue(receipt["validator"]["ok"])
+        self.assertIn("ocr/enriched/page_001.txt", receipt["file_hashes"])
 
 
 if __name__ == "__main__":

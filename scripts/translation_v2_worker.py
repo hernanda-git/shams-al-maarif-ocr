@@ -9,6 +9,7 @@ later page without validation, review, and a page-scoped commit.
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import sys
 from pathlib import Path
@@ -74,6 +75,56 @@ def build_packet(tracker: Tracker, page: int, worker_id: str) -> dict[str, Any]:
     }
 
 
+def prepare_verification(tracker: Tracker, page: int, worker_id: str) -> Path:
+    """Write a durable receipt for a page that needed no content edit."""
+    record = tracker.page_record(page)
+    lock = tracker.active_lock()
+    if lock is None or lock.get("page") != page or lock.get("worker_id") != worker_id:
+        raise TrackerError(f"worker {worker_id!r} does not own page {page}")
+    if record["status"] != "approved":
+        raise TrackerError(
+            f"page {page} must be approved before preparing a verification receipt"
+        )
+    report = validate_page(tracker.root, page)
+    if not report["ok"]:
+        raise TrackerError(
+            "page validator failed; refusing verification receipt: "
+            + "; ".join(report["errors"])
+        )
+
+    page_name = f"page_{page:03d}.txt"
+    paths = {
+        f"ocr/enriched/{page_name}": tracker.root / "ocr" / "enriched" / page_name,
+        f"ocr/enriched_en/{page_name}": tracker.root / "ocr" / "enriched_en" / page_name,
+        f"ocr/enriched_id/{page_name}": tracker.root / "ocr" / "enriched_id" / page_name,
+        "web/public/manuscript.json": tracker.root / "web" / "public" / "manuscript.json",
+    }
+    file_hashes: dict[str, str] = {}
+    for relative, path in paths.items():
+        try:
+            file_hashes[relative] = hashlib.sha256(path.read_bytes()).hexdigest()
+        except OSError as exc:
+            raise TrackerError(f"cannot hash verification evidence {path}: {exc}") from exc
+
+    receipt_path = tracker.root / "state" / "translation_v2" / "receipts" / f"page_{page:03d}.json"
+    if receipt_path.exists():
+        raise TrackerError(f"verification receipt already exists: {receipt_path}")
+    receipt = {
+        "schema_version": 1,
+        "type": "verification",
+        "page": page,
+        "worker_id": worker_id,
+        "reviewer": record.get("reviewer"),
+        "validator": report,
+        "file_hashes": file_hashes,
+    }
+    receipt_path.parent.mkdir(parents=True, exist_ok=True)
+    temp = receipt_path.with_name(f".{receipt_path.name}.{worker_id}.tmp")
+    temp.write_text(json.dumps(receipt, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    temp.replace(receipt_path)
+    return receipt_path
+
+
 def _emit(value: Any, as_json: bool) -> None:
     if as_json or isinstance(value, (dict, list)):
         print(json.dumps(value, ensure_ascii=False, indent=2))
@@ -112,6 +163,9 @@ def _parser() -> argparse.ArgumentParser:
     submit = common("submit-review")
     submit.add_argument("--page", type=int, required=True)
     submit.add_argument("--worker-id", required=True)
+    prepare = common("prepare-verification")
+    prepare.add_argument("--page", type=int, required=True)
+    prepare.add_argument("--worker-id", required=True)
     approve = common("approve")
     approve.add_argument("--page", type=int, required=True)
     approve.add_argument("--reviewer-id", required=True)
@@ -132,6 +186,7 @@ def _parser() -> argparse.ArgumentParser:
     commit.add_argument("--page", type=int, required=True)
     commit.add_argument("--worker-id", required=True)
     commit.add_argument("--sha", required=True)
+    commit.add_argument("--verification-only", action="store_true")
     reclaim = common("reclaim-lock")
     reclaim.add_argument("--operator-id", required=True)
     reclaim.add_argument("--reason", required=True)
@@ -168,6 +223,9 @@ def main(argv: list[str] | None = None) -> int:
             report = validate_page(tracker.root, args.page)
             result = tracker.submit_review(args.page, args.worker_id, report)
             result["validator"] = report
+        elif command == "prepare-verification":
+            receipt_path = prepare_verification(tracker, args.page, args.worker_id)
+            result = {"page": args.page, "receipt_path": receipt_path.as_posix()}
         elif command == "approve":
             result = tracker.approve(args.page, args.reviewer_id, args.allow_self_review)
         elif command == "rework":
@@ -183,7 +241,12 @@ def main(argv: list[str] | None = None) -> int:
                     "page validator failed; refusing to record commit: "
                     + "; ".join(report["errors"])
                 )
-            result = tracker.record_commit(args.page, args.sha, args.worker_id)
+            result = tracker.record_commit(
+                args.page,
+                args.sha,
+                args.worker_id,
+                verification_only=args.verification_only,
+            )
             result["validator"] = report
         elif command == "reclaim-lock":
             result = tracker.reclaim_lock(
