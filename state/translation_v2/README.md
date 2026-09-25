@@ -50,6 +50,18 @@ uv run --no-project python scripts/translation_v2_worker.py approve --page 1 --r
 uv run --no-project python scripts/translation_v2_worker.py record-commit --page 1 --worker-id hermes-page-worker --sha <exact-commit-sha> --json
 ```
 
+If a page already passes the V2 validator and needs no content edit, do not change wording merely to create a diff. After independent approval, create and commit a verification receipt instead:
+
+```text
+uv run --no-project python scripts/translation_v2_worker.py prepare-verification --page 5 --worker-id hermes-page-worker --json
+git add state/translation_v2/receipts/page_005.json
+git commit -m "verify: translation v2 page 005"
+uv run --no-project python scripts/translation_v2_worker.py record-commit --page 5 --worker-id hermes-page-worker --sha <receipt-commit-sha> --verification-only --json
+```
+
+The verification receipt hashes the canonical source, both target files, and generated JSON. It is accepted only when the receipt commit contains exactly that page receipt and the validator/reviewer evidence is positive.
+
+
 The worker packet is the LLM boundary. It contains the page number, exact source and target paths, current drafts, acceptance rules, and forbidden actions. The worker must not use the legacy three-page batch translators for this campaign.
 
 ## Recovery
