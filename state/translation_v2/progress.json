@@ -3,8 +3,8 @@
   "total_pages": 604,
   "sequence_policy": "strict-lowest-uncommitted",
   "created_at": "2026-09-25T03:54:12+00:00",
-  "updated_at": "2026-09-25T06:24:07+00:00",
-  "active_page": null,
+  "updated_at": "2026-09-25T07:23:14+00:00",
+  "active_page": 28,
   "pages": {
     "1": {
       "page": 1,
@@ -737,11 +737,11 @@
     },
     "28": {
       "page": 28,
-      "status": "pending",
-      "attempts": 0,
-      "owner": null,
-      "claimed_at": null,
-      "heartbeat_at": null,
+      "status": "in_progress",
+      "attempts": 1,
+      "owner": "hermes-translation-v2-20260925",
+      "claimed_at": "2026-09-25T06:24:14+00:00",
+      "heartbeat_at": "2026-09-25T07:23:14+00:00",
       "review_submitted_at": null,
       "reviewer": null,
       "validator": null,
