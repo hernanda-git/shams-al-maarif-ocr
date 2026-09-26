@@ -1,7 +1,7 @@
 "use client";
 
 import { useMemo, useState, useRef, useCallback, useEffect } from "react";
-import { getToc, getPageTitles } from "@/lib/manuscript";
+import { getToc, getPageTitles, TOTAL_PAGES } from "@/lib/manuscript";
 import type { PageTitleEntry } from "@/lib/manuscript";
 import { LANGS, Lang, LastRead } from "@/lib/types";
 import { X, Search, Clock, Bookmark, BookOpen, FileText, Play, Loader } from "./icons";
@@ -339,7 +339,7 @@ export function Sidebar({
 
         <div className="ornament mx-3 shrink-0" />
         <div className="px-4 py-2.5 text-[11px] text-[var(--color-muted)] shrink-0">
-          {TOC.length} sections · 600 pages
+          {TOC.length} sections · {TOTAL_PAGES} pages
         </div>
       </aside>
     </>

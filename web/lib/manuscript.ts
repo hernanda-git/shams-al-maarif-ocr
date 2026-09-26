@@ -1,7 +1,10 @@
 import { TocEntry, ManuscriptPage, Lang } from "./types";
 import { normalizeManuscriptInput, buildFallbackToc, ManuscriptInput } from "./loadManuscript";
 
-export const TOTAL_PAGES = 600;
+/** Canonical physical page count. Must match manifest.json and
+ *  web/scripts/build_manuscript_json.py (TOTAL). Do not hard-code elsewhere —
+ *  import this constant instead. */
+export const TOTAL_PAGES = 604;
 
 /**
  * Canonical ~30 treatise sections of the Shams al-Ma'arif, each spanning a
@@ -112,7 +115,7 @@ export interface PageTitleEntry {
   title: Record<Lang, string>;
 }
 
-/** Return all 600 page titles. Only reads the `title` field — no full text. */
+/** Return all {TOTAL_PAGES} page titles. Only reads the `title` field — no full text. */
 export function getPageTitles(): PageTitleEntry[] {
   const arr: PageTitleEntry[] = [];
   for (let p = 1; p <= TOTAL_PAGES; p++) {

@@ -11,7 +11,7 @@ export interface SearchHit {
 
 /**
  * Full-text search across the (OCR) manuscript for one language.
- * Scans all pages lazily; deterministic, no external index needed for 600 pages.
+ * Scans all pages lazily; deterministic, no external index needed.
  */
 export function searchAll(
   query: string,

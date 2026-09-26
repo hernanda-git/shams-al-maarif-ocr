@@ -24,7 +24,7 @@ export interface TocEntry {
 }
 
 export interface ManuscriptPage {
-  page: number; // 1..600
+  page: number; // 1..TOTAL_PAGES (see lib/manuscript.ts)
   sectionId: string;
   text: Record<Lang, string>;
   /** Per-page generated title in all 3 languages */

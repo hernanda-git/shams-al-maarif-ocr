@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useRef, useState } from "react";
 import { searchAll } from "@/lib/search";
+import { TOTAL_PAGES } from "@/lib/manuscript";
 import { Lang } from "@/lib/types";
 import { X } from "./icons";
 
@@ -82,7 +83,7 @@ export function SearchModal({
         <div className="flex-1 overflow-y-auto p-2">
           {q.trim().length < 2 && (
             <p className="px-3 py-8 text-center text-sm text-[var(--color-muted)]">
-              Type at least 2 characters to search all 600 pages.
+              Type at least 2 characters to search all {TOTAL_PAGES} pages.
             </p>
           )}
           {q.trim().length >= 2 && hits.length === 0 && (

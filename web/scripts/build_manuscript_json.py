@@ -36,7 +36,9 @@ OUT = os.environ.get(
     "SHAMS_OUT",
     r"C:/Working Folder/Research/shams-al-maarif-ocr/web/public/manuscript.json",
 )
-TOTAL = 600
+# Canonical physical page count. Must match manifest.json and
+# web/lib/manuscript.ts (TOTAL_PAGES). Do not hard-code elsewhere.
+TOTAL = 604
 
 LABEL_RE = re.compile(r"^\s*(Arabic|English|Indonesia)\s*[:：]?\s*$", re.IGNORECASE)
 

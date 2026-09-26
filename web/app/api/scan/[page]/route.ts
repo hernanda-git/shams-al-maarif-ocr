@@ -1,4 +1,5 @@
 import { NextRequest } from "next/server";
+import { TOTAL_PAGES } from "@/lib/manuscript";
 
 /**
  * Same-origin PDF proxy for per-page facsimiles.
@@ -31,7 +32,7 @@ export async function GET(
     return new Response("Invalid page", { status: 400 });
   }
   const num = parseInt(page, 10);
-  if (num < 1 || num > 600) {
+  if (num < 1 || num > TOTAL_PAGES) {
     return new Response("Page out of range", { status: 400 });
   }
   const key = `page-${String(num).padStart(3, "0")}.pdf`;

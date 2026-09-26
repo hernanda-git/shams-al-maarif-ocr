@@ -25,7 +25,7 @@ const amiri = Amiri({
 export const metadata: Metadata = {
   title: "شمس المعارف · Shams al-Ma'arif",
   description:
-    "Digital manuscript reader for the 600-page Shams al-Ma'arif grimoire — Arabic, English, Indonesian. OCR text + scanned PDF page view, last-read, bookmarks.",
+    "Digital manuscript reader for the 604-page Shams al-Ma'arif grimoire — Arabic, English, Indonesian. OCR text + scanned PDF page view, last-read, bookmarks.",
 };
 
 export default function RootLayout({

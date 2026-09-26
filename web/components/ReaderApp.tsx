@@ -26,7 +26,7 @@ export default function ReaderApp({
   initialLang = "en",
   initialMode = "text",
 }: {
-  /** Single-page data embedded at SSR (~15KB) instead of all 600 (~8MB). */
+  /** Single-page data embedded at SSR (~15KB) instead of the full corpus (~8MB). */
   serverPage?: unknown;
   initialPage?: number;
   initialLang?: Lang;

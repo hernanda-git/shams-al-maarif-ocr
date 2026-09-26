@@ -1,4 +1,4 @@
-import { seedSinglePage } from "@/lib/manuscript";
+import { seedSinglePage, TOTAL_PAGES } from "@/lib/manuscript";
 import ReaderApp from "@/components/ReaderApp";
 import path from "path";
 import { readFileSync } from "fs";
@@ -31,7 +31,8 @@ export default async function Page({
     return Array.isArray(v) ? v[0] : v;
   };
   const p = parseInt(q("page") || "", 10);
-  const initialPage = Number.isFinite(p) && p >= 1 && p <= 600 ? p : 1;
+  const initialPage =
+    Number.isFinite(p) && p >= 1 && p <= TOTAL_PAGES ? p : 1;
   const l = q("lang");
   const initialLang =
     l === "ar" || l === "en" || l === "id" ? (l as "ar" | "en" | "id") : "en";
