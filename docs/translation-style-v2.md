@@ -59,9 +59,9 @@ Honorifics and fixed phrases (counts are occurrences across accepted pages 1–5
 | صلى الله عليه وسلم | the Prophet, peace and blessings be upon him | Nabi, semoga selawat dan salam tercurah kepadanya |
 | اسم الله الأعظم | the Greatest Name of God | Nama Allah Yang Paling Agung |
 | اسم العزيز الرحمن | the Name of the Mighty, the Merciful | nama Yang Maha Mulia lagi Maha Pengasih |
-| الصلاة | the prayer | shalat |
+| الصلاة | the prayer | salat |
 | القبلة | the qiblah | kiblat |
-| التقوى | God-fearers / God-consciousness | bertakwa |
+| التقوى | God-fearers / God-consciousness | bertakwalah |
 | رقابة / الحجاب | barāʾāt (written slips) | barāʾāt (lembaran bertulis) |
 | الجن | jinn | jin |
 | وفق | wafq | wafq |
