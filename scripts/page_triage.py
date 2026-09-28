@@ -67,6 +67,16 @@ def arabic_prose_runs(body: str) -> list[str]:
     ]
 
 
+def needs_honorific(source: str) -> bool:
+    """Does this page's source actually carry الله تعالى?
+
+    Not merely الله - that word appears in ordinary sentences ('no god but
+    God', 'the Names of God') far more often than it carries the honorific.
+    تعالى is the honorific marker, so the two are required together.
+    """
+    return "\u0627\u0644\u0644\u0647" in source and "\u062a\u0639\u0627\u0644\u0649" in source
+
+
 def leading_folio(text: str) -> str | None:
     """The page number on the first non-blank line, or None.
 
@@ -136,9 +146,18 @@ def triage(page: int) -> list[str]:
         if short == "en":
             if "exalted is He" in body:
                 problems.append("en: BANNED honorific 'exalted is He'")
-            elif "God Most High" not in body and "Most High" not in body:
-                if re.search(r"\bGod\b", body):
-                    problems.append("en: honorific not the mandated 'God Most High'")
+            elif needs_honorific(source) and "Most High" not in body:
+                # Only flag a MISSING honorific when the source actually
+                # carries الله تعالى. My first version flagged any page
+                # mentioning 'God' at all, which caught 68 pages - almost all
+                # of them correct: 'God says', 'God knows best', 'no god but
+                # God', 'the Names of God'. Those are plain God, and الله
+                # appears in ordinary sentences as readily as it does in the
+                # honorific phrase. Requiring the honorific is the only way
+                # to tell them apart, and p402 proved the point from the
+                # other side: its body reads 'name of God can be read' while
+                # its source contains no الله at all.
+                problems.append("en: honorific not the mandated 'God Most High'")
         else:
             if "Ta\u2018ala" in body or "Ta\u2019ala" in body:
                 problems.append("id: honorific not the mandated 'Yang Mahatinggi'")
