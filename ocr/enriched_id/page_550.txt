@@ -1985,4 +1985,1991 @@ Arabic:
 انكيس
 طريق
 قبض خارج
-نصرة
+
+Indonesia:
+- 544 -
+
+al-Jawdah
+al-Sa'ādah
+al-Ijtimā'
+al-'Aqlah
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
+al-Naṣrah al-Dākhilah
+al-Bayāḍ
+al-Ḥumrah
+Naqī
+al-Naṣrah al-Khārijah
+al-Inkīs
+al-Ṭarīq
+al-Qabḍ al-Khārij
