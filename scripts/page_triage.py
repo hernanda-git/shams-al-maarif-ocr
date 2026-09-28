@@ -41,6 +41,31 @@ AR_DIGITS = str.maketrans("٠١٢٣٤٥٦٧٨٩", "0123456789")
 # a run this long is prose, not a one-letter grid cell
 PROSE_RUN = 4
 
+# Quotation and citation markers that are CORRECT to leave in the source
+# script. ذكره ('he mentioned') appears 33 times in p065's English; it is how
+# the manuscript attributes a statement, and rendering it into English would
+# be wrong. Flagging these sent workers to repair pages that were fine.
+# 81 blocks across the corpus are in this category.
+BENIGN_ARABIC = {
+    "ذكره", "ذكرها", "ذكرهم", "ذكر",      # he/she mentioned it
+    "الله", "تعالى", "صلى", "عليه", "وسلم",  # the formulaic honorific
+    "قسم", "صدق", " amen",
+}
+
+
+def arabic_prose_runs(body: str) -> list[str]:
+    """Arabic runs that are untranslated PROSE, ignoring citation markers.
+
+    Single letters are magic-square or table cells, which the style guide
+    requires preserving. A citation marker is attribution, not a gap. What
+    remains is a word or clause a translator left unrendered.
+    """
+    return [
+        r
+        for r in AR_RUN.findall(body)
+        if len(r) >= PROSE_RUN and r not in BENIGN_ARABIC
+    ]
+
 
 def leading_folio(text: str) -> str | None:
     for line in text.splitlines():
@@ -82,11 +107,14 @@ def triage(page: int) -> list[str]:
             problems.append(f"{short}: EMPTY ({len(body)}c)")
             continue
 
-        runs = AR_RUN.findall(body)
-        longest = max((len(r) for r in runs), default=0)
-        if longest >= PROSE_RUN:
+        runs = arabic_prose_runs(body)
+        if runs:
             total = sum(len(r) for r in runs)
-            problems.append(f"{short}: UNTRANSLATED {total} Arabic letters (longest {longest})")
+            longest = max(len(r) for r in runs)
+            problems.append(
+                f"{short}: UNTRANSLATED {total} Arabic letters in {len(runs)} "
+                f"run(s), longest {longest} (e.g. {runs[0]!r})"
+            )
 
         got = leading_folio(body)
         if want and got and got != want:
