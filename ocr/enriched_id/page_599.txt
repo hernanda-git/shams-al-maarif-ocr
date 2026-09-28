@@ -37,38 +37,31 @@ Keluar
 Yang Masuk
 Yang Keluar
 Yang Batin
-Sahabat
-Pertemuan
+Teman (shadiq)
+Konjungsi (al-Ijtima')
 dst.
-Khususiyat
+Khususiyat (ciri-ciri khusus)
 
-Kوكب Al-Qamar
-Kوكب Az-Zuhrah
-Kوكب Al-Marrikh
-Kوكب Al-Musytari
-Kوكب Zuhal
-Al-Buruj
-Jim Al-Awwal Al-Hamal
+Planet Al-Qamar (Bulan)
+Planet Az-Zuhrah (Venus)
+Planet Al-Marrikh (Mars)
+Planet Al-Musytari (Jupiter)
+Planet Zuhal (Saturnus)
+Al-Buruj (zodiak)
+Jim [huruf jim], yang pertama: Al-Hamal (Aries)
 
-Tawabi' Li Al-Sarathan
+Tawabi' li Sarathan (lampiran bagi Karsiting / Cancer)
 
-Jasah Al-Mizan
-Wa Al-Tsamin Al-Qaus
-Hadi 'Asyar Al-Dalu
+[UNCLEAR: kata Arab sebelum "Al-Mizan" tidak terbaca jelas pada naskah; kemungkinan "Al-Sabi'" (yang ketujuh)] Al-Mizan (Libra)
+Wa al-Tsamin Al-Qaus (dan yang kedelapan: Qaus / Sagittarius)
+Hadi 'Asyar Al-Dalu (yang kesebelas: Al-Dalu / Aquarius)
 
-Fi Khususiyat
-Kوكب Zuhal
-Kوكب Al-Marrikh
-Kوكب Az-Zuhrah
+Fi khususiyat (dalam ciri-ciri khusus)
+Planet Zuhal (Saturnus)
+Planet Al-Marrikh (Mars)
+Planet Az-Zuhrah (Venus)
 
-Iqlim Al-Awwal
-Iqlim Al-Tsalits
-Iqlim Al-Khamis
-Iqlim Al-Sabi'
-
-Notes:
-- "الخ." disingkat dari "والخ" (wa al-kha) yang bermakna "dan lain-lain" / "dst."
-- "ج" kemungkinan besar singkatan dari "الجواب" (Al-Jawab - jawaban/hasil) atau "الجهة" (Al-Jihah - arah/sisi) atau "الدرجة" (Al-Darajah - derajat) dalam konteks perhitungan Raml/Falak. Dibiarkan sebagai "Jim" (nama huruf) atau transliterasi hurufnya saja sesuai aturan verbatim.
-- "جاسه" (Jasah) kemungkinan salah tulis/varia dari "الجواب" (Al-Jawab) atau "الجهة" (Al-Jihah) atau nama istilah khusus dalam tabel ini. Diterjemahkan verbatim sebagai "Jasah".
-- Nama-nama planet (Kوكب...) dan wilayah (إقليم...) ditransliterasikan dengan mempertahankan struktur "Kوكب" (Kaukab/Planet) dan "إقليم" (Iqlim/Wilayah) serta nama-nama Arabnya.
-- "توابع لسرطان" diterjemahkan "Tawabi' Li Al-Sarathan" (Pengikut/Anak-anak Karkinoma/Cancer).
+Iklim Al-Awwal (wilayah pertama)
+Iklim Al-Tsalits (wilayah ketiga)
+Iklim Al-Khamis (wilayah kelima)
+Iklim Al-Sabi' (wilayah ketujuh)

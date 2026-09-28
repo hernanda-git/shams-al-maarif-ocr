@@ -1,4 +1,3 @@
-
 Arabic:
 المكتبة الأزهرية بمصر
 حفظها الله تعالى
@@ -9,13 +8,10 @@ Arabic:
 بمصر المحروسة
 
 Indonesia:
-Perpustakaan Azhar di Mesir
-Hafizhā Allāh taʿālā
-Nomor penyimpanan ٤٧٥ Fiqh
-Dicetak di Cetak Bulak di Mesir
-Tahun ١٢٨٠ Hijriyah
-Dengan biaya oleh sirah Ahmad Afandi
-di Mesir al-Mahrousah
-
-Notes:
-[Pertahankan transliterasi angka dan istilah khusus seperti "٤٧٥ فقه", "١٢٨٠ هجرية", serta "مصر المحروسة" karena tidak ada padanan Bahasa Indonesia yang tepat.]
+Perpustakaan al-Azhar di Mesir
+dihafalkan Allah Yang Mahatinggi
+Nomor simpanan 475 (Fiqh)
+Dicetak di Percetakan Bulak, Mesir
+Tahun 1280 Hijriah
+Atas biaya Bapak Ahmad Afandi
+di Mesir al-Mahrusah, negeri yang dilindungi
