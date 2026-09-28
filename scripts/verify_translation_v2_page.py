@@ -95,28 +95,38 @@ def _validate_target(
     source: str,
     language: str,
     errors: list[str],
+    role: str = "",
 ) -> tuple[str | None, dict[str, str]]:
+    """Validate one target file.
+
+    ``role`` is an explicit prefix for every message. Both target files are
+    named ``page_NNN.txt``, so ``path.name`` alone makes the three-layer defect
+    unreadable ("page_059.txt: unexpected labels: English" points at the wrong
+    file, since the English file is correct and the Indonesian file is the one
+    carrying a stray English block).
+    """
     if text is None:
         return None, {}
+    tag = f"{role} {path.name}" if role else path.name
     blocks, counts, parse_errors = _parse_blocks(text, path)
     errors.extend(parse_errors)
     actual = set(blocks)
     missing = required - actual
     extra = actual - required
     if missing:
-        errors.append(f"{path.name}: missing required labels: {', '.join(sorted(missing))}")
+        errors.append(f"{tag}: missing required labels: {', '.join(sorted(missing))}")
     if extra:
-        errors.append(f"{path.name}: unexpected labels: {', '.join(sorted(extra))}")
+        errors.append(f"{tag}: unexpected labels: {', '.join(sorted(extra))}")
     for label, count in counts.items():
         if count > 1:
             # _parse_blocks already reports this, but this message makes the
             # structured report useful even when duplicate blocks are empty.
-            errors.append(f"{path.name}: duplicate {label} label ({count} occurrences)")
+            errors.append(f"{tag}: duplicate {label} label ({count} occurrences)")
 
     embedded = blocks.get("Arabic")
     if embedded is not None and _clean(embedded) != _clean(source):
         errors.append(
-            f"{path.name}: embedded Arabic differs from canonical ocr/enriched source"
+            f"{tag}: embedded Arabic differs from canonical ocr/enriched source"
         )
 
     target_label = "English" if language == "en" else "Indonesia"
@@ -125,19 +135,19 @@ def _validate_target(
         return None, blocks
     body_clean = _clean(body)
     if not body_clean:
-        errors.append(f"{path.name}: {target_label} block is empty")
+        errors.append(f"{tag}: {target_label} block is empty")
     blank_source = _is_explicit_no_text(source)
     if blank_source:
         expected_marker = EN_NO_TEXT_MARKER if language == "en" else ID_NO_TEXT_MARKER
         if body_clean != expected_marker:
             errors.append(
-                f"{path.name}: blank source requires exact marker {expected_marker!r}"
+                f"{tag}: blank source requires exact marker {expected_marker!r}"
             )
     else:
         fallbacks = EN_FALLBACKS if language == "en" else ID_FALLBACKS
         if body_clean.casefold() in fallbacks:
             errors.append(
-                f"{path.name}: fallback text is not allowed on a content page"
+                f"{tag}: fallback text is not allowed on a content page"
             )
     return body_clean, blocks
 
@@ -162,10 +172,10 @@ def validate_page(root: Path | str | None, page: int) -> dict[str, Any]:
         source = ""
 
     en_body, en_blocks = _validate_target(
-        en_path, en_text, {"Arabic", "English"}, source, "en", errors
+        en_path, en_text, {"Arabic", "English"}, source, "en", errors, role="en"
     )
     id_body, id_blocks = _validate_target(
-        id_path, id_text, {"Arabic", "Indonesia"}, source, "id", errors
+        id_path, id_text, {"Arabic", "Indonesia"}, source, "id", errors, role="id"
     )
 
     record: dict[str, Any] | None = None
