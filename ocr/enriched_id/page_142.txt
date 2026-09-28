@@ -1,5 +1,6 @@
 Arabic:
 - ١٢٦ -
+
 [Grid content]
 مُحَمَّدٌ رَسُولُ اللَّهِ
 الرَّحْمَنُ الرَّحِيمُ
@@ -1020,24 +1021,6 @@ Arabic:
 الْمُتَعَالِي
 الْمُتَعَالِي
 الْمُتَعَالِي
-
-English:
-— 126 —
-
-[Grid content]
-Muḥammad is the Messenger of Allah.
-The Most Merciful, the Most Compassionate.
-And Allah the Ever-Lasting, the Eternal.
-With Allah the All-Hearing.
-Ashākiḍ Lām.
-Ḍawnā Sī.
-Al-Kamāl (Perfection).
-Al-Dalīl (the Guide).
-Al-Majīd (the Glorious).
-Al-Rafī' (the Exalted).
-Al-Muqīt (the Nourisher).
-Al-Muta'ālī (the Most High).
-[The grid then lists the name "Al-Muta'ālī" (الْمُتَعَالِي) repeated 500 times — preserved as-is; the source OCR contains only this repeated name within the grid cells, with no recoverable distinct content.]
 
 Indonesia:
 — 126 —

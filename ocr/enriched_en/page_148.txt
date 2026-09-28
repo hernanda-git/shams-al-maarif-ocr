@@ -33,27 +33,10 @@ Arabic:
 أوله الفصل الخامس عشر في الشروط اللازمة لبعض دون بعض
 
 English:
-- 142 -
+— 142 —
 
-[Grid content preserved as-is]
-| قل | هو | الله | أحد | الله | الصمد | لم | يلد | ولم | يولد |
-|---|---|---|---|---|---|---|---|---|---|
-| قل | هو | الله | أحد | الله | الصمد | لم | يلد | ولم | يولد |
-| قل | هو | الله | أحد | الله | الصمد | لم | يلد | ولم | يولد |
-| قل | هو | الله | أحد | الله | الصمد | لم | يلد | ولم | يولد |
-| الله | الصمد | لم | يلد | ولم | يولد | | | | |
-| الله | الصمد | لم | يلد | ولم | يولد | | | | |
-| قل | هو | الله | أحد | | | | | | |
-| لم | يلد | ولم | يولد | | | | | | |
-| قل | هو | الله | أحد | | | | | | |
-| يلد | ولم | يولد | | | | | | | |
+[Wafq / magic-square grid of Sūrat al-Ikhlāṣ arranged in ten columns, repeated rows, ending in partial rows — as printed in the source.]
 
-(Chapter: mention here a benefit) It is related in the noble hadith that a man came to the Messenger of Allah صلى الله عليه وسلم and said: O Messenger of Allah, the world has turned away and my hand has become scant. So the Messenger of Allah صلى الله عليه وسلم said: Where are you from the prayer of the angels and the glorification of the creatures, and by it they are provided for? He said: And what is that, O Messenger of Allah? He said: Glory be to Allah العظيم, glory be to Him who bestows and none bestows upon Him, glory be to Him who grants refuge and none is granted refuge against Him, glory be to Him who is free from might and power except by Him, glory be to Him from whom glorification is from him upon whoever relies upon Him, glory be to Him: everything glorifies Him with His praise, glory be to You, there is no god except You, and with Your praise. O You to whom all glorify, take me in hand, for I am panic-stricken. Then seek forgiveness from Allah تعالى one hundred times, and you do that between the صلاة of dawn and the صلاة of Friday. And from him صلى الله عليه وسلم that Jibril عليه السلام said to him: Say, O Allah, conceal me with well-being in the world and the Hereafter. And he عليه الصلاة والسلام said: Whoever says every day one hundred times لا اله الا الله الملك الحق المبين, the doors of provision are opened for him and poverty is negated from him, and the doors of Paradise are sought, and by it the trial of the grave is warded off, and the world comes to him while it is
-spiteful, and Allah تعالى creates from every word an angel
-glorifying Allah تعالى, and his sins are forgiven. And this
-is the end of what was cited. And Allah says
-the truth, and He guides
-the way.
+( Section — mention here a benefit ) It is related in the noble hadith that a man came to the Messenger of Allah, may Allah bless him and grant him peace, and said: "O Messenger of Allah, the world has turned away and my wealth has diminished." The Messenger of Allah, may Allah bless him and grant him peace, said: "Where are you from the prayer of the angels and the glorification of the creatures, by which they are provided?" He said: "And what is that, O Messenger of Allah?" He said: 'Glory be to Allah the Great; glory be to Him who withholds and is not withheld against; glory be to Him who gives refuge and is not given refuge against; glory be to Him who is free of movement and power except by Him; glory be to Him whose glorification is from Him upon whoever relies upon Him; glory be to Him from whom everything glorifies with His praise — glory be to You, there is no god but You, and with Your praise, O You whom all glorify — succour me, for I am impatient.' Then seek forgiveness of Allah, exalted, a hundred times, and do that between the dawn prayer and the Friday prayer. And from him, may Allah bless him and grant him peace, that Jibril, upon him peace, said to him: 'Say: O Allah, veil me with well-being in this world and the next.' And he, upon him peace, said: 'Whoever says every day a hundred times "There is no god but Allah, the Sovereign, the Manifest Truth," the doors of provision are opened for him, poverty is driven from him, the doors of Paradise are knocked upon, and he is protected thereby from the trial of the grave; and the world comes to him in submission, and Allah, exalted, creates from every word an angel who glorifies Allah, exalted, and his sins are forgiven.' And this is what the citation reached, and Allah says the truth and He guides to the way.
 
-The first part of the book Shams al-Ma'arif al-Kubra by Imam al-Buni is completed, and after it comes the second part,
-the beginning of which is the fifteenth chapter on the conditions necessary for some and not for others.
+Thus ends Part One of the book Shams al-Ma'ārif al-Kubrā by al-Imām al-Būnī, followed by Part Two, whose beginning is Chapter Fifteen on the conditions necessary for some without others.

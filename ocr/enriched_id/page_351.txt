@@ -1,5 +1,6 @@
 Arabic:
 - ٣٤٥ -
+
 فإن سلم وصل إلى المدة الأخيرة وكذلك الحكم والله تعالى أعلم وإن كان الاسم خماسياً وتكرر فيه
 حرف واحد مثل مكارم فافعل به ما تقدم وهو طرح اثنين من العدد وما بقي اضرب به في نفسه وزد
 على الخارج من الضرب مثله وهي جملة ثانية وكذا إذا تكرر فيه الحرف كل ثلاث مرات فزده
@@ -32,41 +33,6 @@ Arabic:
 البسطي وقسم يسمى الموضوع الرجزي قائم بنفسه فالقسم الأول مثل الفأل ويسمى المركز
 والثاني يؤخذ من الأوفاق المربعة والمسدسة الدورية وهو أقرب الطرق ويخرج مثل الرجز أو
 النثر
-
-English:
-— 345 —
-
-And if it is safe and reaches the last duration — and likewise the judgment, and Allah (exalted) knows best. And if the name is quinary and in it repeats
-a single letter, like Makārim, then do with it what preceded: dropping two from the number, and what remains multiply by itself, and add
-to the result of the multiplication the like of it — that is a second total. And likewise if in it the letter repeats all three times, add a
-third total, and do with it what preceded — the sought is obtained. And if the name is ternary and in it are no single letters nor
-doubled ones, then multiply the number of the letters of the name by itself; and what comes from the multiplication, drop from it the three-hundred of the date that
-is with you, until there remains less than two years of the date. So do with the reversed [method] the remainder of the hundreds outside the multiplication
-if it is; so what it reaches. And if it is more than the hundreds of the date, drop from it the hundreds of the date until there remains less than them;
-then return it to what is in the rank of the units and tens — the sought is obtained. An example of that: the count of the name Ṭaffaf is 189.
-We dropped from it 2 and multiplied 114 by itself, reaching 12966. We dropped from it the date, which is six hundred and one
-and twenty — once; so there remained after the dropping, of the thousands, 6556. Take the reversal: it becomes 856; and after the dropping
-it becomes 356; and the whole becomes 13 — days of the rule, and the year, and its five months — so the duration of his rule is 8 months
-and twenty days. And if in the first of his name is a doubled letter and a repeated letter, then multiply the letters by themselves as
-preceded, and add to them the like of them, and add to the total the like of the count of the name; and what gathered, drop from it what passed of the complete
-centuries, and what remains below a century or the like — reverse it from there to what precedes it of the number. An example of that: Ruqūq, the total of his name
-is 408; its double is 816; and we added to it the like of the count of the name, 408, so it became 816. Then we dropped from the thousand
-past of the centuries, which is 700, there remained 100 — which is less than the date; so we added it reversed to what is in the rank
-preceding it, so it became 7 — which is years; and before it four months — which are months. And if you drop from the date the count of the days
-of the Arabic months that are in it, with some of the past months, there comes out the remainder of the days of the sought duration from 4. So what remained of
-the months, which is 101 — the remainder 19, and some months four days from 19 remained 15, which are the days of the duration. So his rule was
-7 years and 15 days. And measure by that; and Allah knows best. And know that the judgment in the quadriletter name — like
-Aḥmad and Qā — is manifest, never erring. And all these are universal sound rules taken from the principles of the Jafr; the Jam' came, the master
-Sinīh solved them, 12 strings from the Jafr, and by them the unknowns were extracted; and the scholars after that took from it according to
-their readiness. So for that reason the Zā'irja was named after al-Shaykh al-Sabtī. And this science is taken from the science of breaking
-and expanding, which is upon diverse aspects — may Allah guide you to its ends and its realities, and lead you to the subtleties of its symbols; He is
-over what He wills Powerful. And may Allah bless our master Muḥammad and his family and his companions and grant peace.
-The Thirty-Fourth Chapter, on knowing the science of the Zā'irja and its manner, and knowing the interrogation
-of the attribution of the letters, the zodiacal signs, the lunar mansions, and the balances — the witnessed [things].
-Know — and may Allah grant me and you success in His obedience, and understanding the knowledge of His sciences, and preserving what is in His figures — the science of the Zā'irja is a
-noble science for whoever knows it and acts by it; and it is upon three divisions: a division called the "borrowed placed" (al-mawḍū' al-mustā'ār), a division called the "expansive placed" (al-mawḍū' al-basṭī), and a division called the "rajaz-placed" (al-mawḍū' al-rajazī) standing by itself. So the first division, like the augury (al-fa'l), is called the center (al-markaz);
-and the second is taken from the squared and hexagonal periodic magic-squares, and it is the nearest of the ways, and it produces like the rajaz or
-prose.
 
 Indonesia:
 — 345 —

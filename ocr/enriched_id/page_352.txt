@@ -1,5 +1,6 @@
 Arabic:
 - ٢٤٦ -
+
 النثر المقفى والثالث قائم على قوانين شتى وذلك أن يظهر لك نظم على ميزان الشعر المسمى بالرجز
 فالقانون الأول المسمى بالمركز وهو أن تأخذ اسم الطالب وكسره كبيناه لك سابقا في معرفة التكسير
 ثم امزجهم بالحروف وهي حروف السؤال المسماة بالوتر الثابت الآتي ذكره ثم بعد ذلك انظر
@@ -31,41 +32,6 @@ Arabic:
 س ف ص (وتر السنبلة) ق ح ن س د هـ ش أ ب خ د هـ و ز ط ي ل ك ل م ص ق ت و ل ا ر ب و ك ل
 ع ف و ل م (حروف وتر الميزان) ك س و ح ف ق ف ط ح س ش أ و ك ل م ن ص ق س ت
 ولا
-
-English:
-- 246 -
-
-The rhymed prose; and the third stands upon various laws — that there appears to you a composition upon the meter of poetry called the rajaz.
-So the first law, called the center (al-markaz), is that you take the name of the seeker and break it as We explained to you previously in knowing the breaking;
-then mix them with the letters — and they are the letters of the question, called the fixed watar (string) mentioned below — then after that look
-at the letters and mix them, and count all the letters by the numeral, and drop that upon the balances and the four natures mentioned
-below; and whatever remains with you of the number, pick it up and make it a key. So if with you remains the balance of air, sit upon it;
-and likewise the rest of the letters until the number is exhausted; and gather the letters as speech, and if a word is lacking, return it from yourself.
-And that is its melody — and this is the lowest of the ranks; and from this law most of the scholars excelled, like Imam Muḥammad al-Marmawī
-and al-Khaṭṭābī in the time of al-Ma'mūn, and they authored many books on the arts, and they are easy for whoever reflects on them * And the second law is
-that you take the name of the need and break it, and mix its letters with the letters of the pole (al-quṭb), and gather that by the reckoning, and divide the number
-and descend it in a square or hexagon up to ten, until it reaches a great number; then drop the number upon the four balances
-which are placed upon the natures; then drop that, and whatever remains with you, establish it as letters and make it a key; then the pole
-after that [is] the number — and thus you do in all the operations of all the magic-squares * And in it is another law: that you take the need
-and the name of the person and break it, and mix the letters with the letters of the name of the pole in complete mixing; then descend those
-letters upon the descending [arrangement] of the letters of the natures; so in whichever balance the number ends, it is the key for that — so understand. Then after
-that you count the balance upon the succession of the degrees and the pole [of] the letters; so it produces for you, according to your readiness, a law of composition,
-prose, and rajaz. And the picture of the operation by it will come, if Allah (exalted) wills * And the picture of the operation: that you take the name of the need
-and the name of the possessor of the need, and the day, the hour, the rising [sign], the companion, the medium, the string, and what is between them of the zodiac signs, and the balance
-of poetry, and the balance of music; and gather these letters and break them with letter-breaking upon the law below; then
-know the letters, and take the letter that does not repeat, and establish it in a place apart, and it is called the letter of the remainder (ḥarf al-faḍla);
-then begin with mixing the letters that are not repeated, and gather with their letters what is in itself, and what increases
-from the number — drop it upon the order of the four natures, so there comes out from the letters that which is the key of that letter;
-so arrange that with its pole, and there comes out a composition in whatever rhyme you wish, nearest to it the ṭawīl meter. And if you need a letter
-from the letters, take the completion from the letters, and gather that according to your readiness * And these laws that
-were mentioned are upon three divisions * And as for the strings (awtār) of the zodiac mentioned below: when you wish an operation, the first of that is ( the string
-of al-Jamal ) a b j d h-w z ḥ ṭ y k l m n s ' f ṣ q r sh t th kh dh ḍ gh ( the string of al-Thawr )
-s ' ṭ w t n t s r d ṭ f ' s y r w h-w d b j a-letters (string of al-Jawzā') ṭ ' ḥ th
-n s q ḍ b ' l k r w h-w d b a (string of al-Saraṭān) w q sh b ḥ d ṣ ' s a b j d h-w z ṭ y
-k l m n r ' ṣ (letters of the string of al-Asad) l m ṭ a b j d h-w y q ' ṣ m h-w r ḥ y k l m n
-s f ṣ (string of al-Sunbula) q ḥ n s d h-w sh a b kh d h-w z ṭ y l k l m ṣ q t w l a r b w k l
-' f w l m (letters of the string of al-Mīzān) k s w ḥ f q f ṭ ḥ s sh a w k l m n ṣ q s t
-and not
 
 Indonesia:
 - 246 -

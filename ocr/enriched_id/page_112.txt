@@ -1,5 +1,6 @@
 Arabic:
 - ١٠٦ -
+
 حرف الفاء للشمس وله يوم الأحد
 | ف | ج | ش | ث | خ | ز | ظ |
 | ظ | ش | ف | خ | ث | ج | ز |
@@ -55,65 +56,6 @@ Arabic:
 | ج | ز | ظ | ش | ف | خ | ث |
 
 (الفصل)
-
-English:
-- 106 -
-
-The letter fā’ is for the sun, and its day is Sunday
-| f | j | sh | th | kh | z | ẓ |
-| ẓ | sh | f | kh | th | j | z |
-| j | z | ẓ | sh | f | kh | th |
-| kh | th | j | z | ẓ | sh | f |
-| sh | f | kh | th | j | z | ẓ |
-| z | ẓ | sh | f | kh | th | j |
-| th | j | z | ẓ | sh | f | kh |
-
-The letter shīn is for Mars, and its day is Tuesday
-| sh | f | kh | th | j | z | ẓ |
-| z | ẓ | sh | f | kh | th | j |
-| j | z | ẓ | sh | f | kh | th |
-| f | kh | th | j | z | ẓ | sh |
-| ẓ | sh | f | kh | th | j | z |
-| j | z | ẓ | sh | f | kh | th |
-| kh | th | j | z | ẓ | sh | f |
-
-The letter ẓā’ is for Jupiter, and its day is Thursday
-| ẓ | sh | f | kh | th | j | z |
-| th | j | z | ẓ | sh | f | kh |
-| f | kh | th | j | z | ẓ | sh |
-| sh | kh | f | j | th | z | ẓ |
-| z | ẓ | sh | f | kh | th | j |
-| j | th | z | ẓ | sh | kh | f |
-| kh | f | j | th | z | ẓ | sh |
-
-The letter jīm is for the moon, and its day is Monday
-| j | th | z | ẓ | sh | f | kh |
-| kh | th | j | z | ẓ | sh | f |
-| f | kh | th | j | z | ẓ | sh |
-| z | ẓ | sh | f | kh | th | j |
-| th | j | z | ẓ | sh | f | kh |
-| f | kh | th | j | z | ẓ | sh |
-| ẓ | sh | f | kh | th | j | z |
-
-The letter thā’ is for Mercury, and its day is Wednesday
-| th | j | z | ẓ | sh | f | kh |
-| sh | f | kh | th | j | z | ẓ |
-| ẓ | sh | f | kh | th | j | z |
-| j | z | ẓ | sh | f | kh | th |
-| sh | f | kh | th | j | z | ẓ |
-| ẓ | sh | f | kh | th | j | z |
-| th | j | z | ẓ | sh | f | kh |
-
-The letter ḥā’ is for Venus, and its day is Friday
-| kh | th | j | z | ẓ | sh | f |
-| sh | f | kh | th | j | z | ẓ |
-| z | ẓ | sh | f | kh | th | j |
-| th | j | z | ẓ | sh | f | kh |
-| f | kh | th | j | z | ẓ | sh |
-| ẓ | sh | f | kh | th | j | z |
-| j | z | ẓ | sh | f | kh | th |
-
-(Chapter)
 
 Indonesia:
 - 106 -

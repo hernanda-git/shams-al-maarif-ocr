@@ -27,15 +27,16 @@ import json
 import os
 import re
 import sys
+from pathlib import Path
 
-OCR_DIR = os.environ.get(
-    "SHAMS_OCR_DIR",
-    r"C:/Working Folder/Research/shams-al-maarif-ocr/ocr",
-)
-OUT = os.environ.get(
-    "SHAMS_OUT",
-    r"C:/Working Folder/Research/shams-al-maarif-ocr/web/public/manuscript.json",
-)
+# Resolve paths relative to THIS checkout, never to a hard-coded absolute path.
+# A git worktree (or any second clone) must write only to its own tree: an
+# absolute default silently overwrote the main clone's manuscript.json and
+# clobbered a live translation worker's in-flight output.
+REPO_ROOT = Path(__file__).resolve().parents[2]
+
+OCR_DIR = os.environ.get("SHAMS_OCR_DIR", str(REPO_ROOT / "ocr"))
+OUT = os.environ.get("SHAMS_OUT", str(REPO_ROOT / "web" / "public" / "manuscript.json"))
 # Canonical physical page count. Must match manifest.json and
 # web/lib/manuscript.ts (TOTAL_PAGES). Do not hard-code elsewhere.
 TOTAL = 604

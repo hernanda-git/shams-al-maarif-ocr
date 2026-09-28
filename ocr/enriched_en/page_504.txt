@@ -2,7 +2,7 @@ Arabic:
 - ٤٩٨ -
 
 | ل | ك | ذ | و | ل | ج | ل | ل | ك | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | م | ل | ك | ذ | و | ل | ج | ل | ل | ك | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل |
 | ل | م | ل | ك | ذ | و | ل | ج | ل | ل | ك | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل |
 | ل | ل | م | ل | ك | ذ | و | ل | ج | ل | ل | ك | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل |
@@ -36,35 +36,8 @@ Arabic:
 تعالى
 
 English:
-- 498 -
+— 498 —
 
-[Grid content preserved as-is]
-| ل | ك | ذ | و | ل | ج | ل | ل | ك | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| م | ل | ك | ذ | و | ل | ج | ل | ل | ك | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل |
-| ل | م | ل | ك | ذ | و | ل | ج | ل | ل | ك | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل |
-| ل | ل | م | ل | ك | ذ | و | ل | ج | ل | ل | ك | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل |
-| ل | ل | ل | م | ل | ك | ذ | و | ل | ج | ل | ل | ك | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل |
-| ل | ل | ل | ل | م | ل | ك | ذ | و | ل | ج | ل | ل | ك | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل |
-| ل | ل | ل | ل | ل | م | ل | ك | ذ | و | ل | ج | ل | ل | ك | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل |
-| ل | ل | ل | ل | ل | ل | م | ل | ك | ذ | و | ل | ج | ل | ل | ك | ل | ل | ل | ل | ل | ل | ل | ل | ل |
-| ل | ل | ل | ل | ل | ل | ل | م | ل | ك | ذ | و | ل | ج | ل | ل | ك | ل | ل | ل | ل | ل | ل | ل | ل |
-| ل | ل | ل | ل | ل | ل | ل | ل | م | ل | ك | ذ | و | ل | ج | ل | ل | ك | ل | ل | ل | ل | ل | ل | ل |
-| ل | ل | ل | ل | ل | ل | ل | ل | ل | م | ل | ك | ذ | و | ل | ج | ل | ل | ك | ل | ل | ل | ل | ل | ل |
-| ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | م | ل | ك | ذ | و | ل | ج | ل | ل | ك | ل | ل | ل | ل | ل |
-| ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | م | ل | ك | ذ | و | ل | ج | ل | ل | ك | ل | ل | ل | ل |
-| ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | م | ل | ك | ذ | و | ل | ج | ل | ل | ك | ل | ل | ل |
-| ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | م | ل | ك | ذ | و | ل | ج | ل | ل | ك | ل | ل |
-| ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | م | ل | ك | ذ | و | ل | ج | ل | ل | ك | ل |
-| ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | م | ل | ك | ذ | و | ل | ج | ل | ل | ك |
-| ك | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | م | ل | ك | ذ | و | ل | ج | ل | ل |
-| ل | ك | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | م | ل | ك | ذ | و | ل | ج | ل |
-| ل | ل | ك | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | م | ل | ك | ذ | و | ل | ج |
-| ج | ل | ل | ك | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | م | ل | ك | ذ | و | ل |
-| و | ج | ل | ل | ك | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | م | ل | ك | ذ | و |
-| ذ | و | ج | ل | ل | ك | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | م | ل | ك | ذ |
-| ك | ذ | و | ج | ل | ل | ك | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | م | ل | ك |
-| م | ك | ذ | و | ج | ل | ل | ك | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | ل | م | ل |
+[The great square of MĀLIK AL-MULK — the Greatest Name (al-Ism al-A'ẓam) — a 25-by-25 magic square, reproduced verbatim in the Arabic layer above. The header row is the letters l ك dh و l ج repeated across 25 columns; each following row shifts the sequence by one place to the right, with the remaining cells filled by l, forming the spiral of the Name. This is the figure referenced at the end of the preceding page (— 497 —).]
 
-( Chapter on His, تعالى, name al-Muqsiṭ )
-He is the One who gives the wronged one justice from the wrongdoer and crushes injustice in its throat, or satisfies a wronged one from a wrongdoer, and that is in the utmost of justice and fairness, and none is able to do that except Allah تعالى. And among it is what is narrated from the Prophet صلى الله عليه وسلم, when he was sitting and laughed until his molars appeared. Then ʿUmar ibn al-Khaṭṭāb رضي الله تعالى عنه said: By my father and my mother, what made you laugh, O Messenger of Allah? He صلى الله عليه وسلم said: Two men from my community stood before the Creator; one of them said: O Lord, take my grievance from this one. So Allah تعالى said
+(Section on His name the Exalted, al-Muqsiṭ) He is He who gives justice to the wronged from the wrong-doer and crushes the wrong in his throat, or satisfies a wronged one from a wrong-doer — and that is in the utmost justice and equity, and none is capable of that but Allah the Exalted. And of it is what is related from the Prophet (may Allah bless him and grant him peace): that he was sitting and laughed until his molars showed, so 'Umar ibn al-Khaṭṭāb (may Allah be pleased with him) said 'May my father and mother be ransomed for you — what made you laugh, O Messenger of Allah?' So he (may Allah bless him and grant him peace) said: 'Two men of my nation stood before the Originator…' [page ends]
