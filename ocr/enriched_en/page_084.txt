@@ -100,78 +100,87 @@ Arabic:
 English:
 - 78 -
 
-[Grid content preserved as-is]
-المالك
-القدوس
-السلام
-المؤمن
-المهيمن
-العزيز
-الجبار
-المتكبر
+[Grid contents, reading from top right to bottom left, row by row]
 
-الخالق
-البارئ
-المصور
-الغفار
-القهار
-الوهاب
-الرزاق
-الفتاح
+[Row 1]
+al-Malik
+al-Quddus
+as-Salam
+al-Muʾmin
+al-Muhaymin
+al-ʿAzīz
+al-Jabbār
+al-Mutakabbir
 
-العليم
-القابض
-الباسط
-الخافض
-الرافع
-المعز
-المذل
-السميع
+[Row 2]
+al-Khāliq
+al-Bāriʾ
+al-Muṣawwir
+al-Ghafār
+al-Qahhār
+al-Wahhāb
+al-Razzāq
+al-Fattāḥ
 
-البصير
-الحكم
-العدل
-اللطيف
-الخبير
-الحليم
-العظيم
-الغفور
+[Row 3]
+al-ʿAlīm
+al-Qābiḍ
+al-Bāsiṭ
+al-Khāfiḍ
+al-Rāfiʿ
+al-Muʿizz
+al-Mudhill
+as-Samīʿ
 
-الشكور
-العلي
-الكبير
-الحفيظ
-المقيت
-الحسيب
-الجليل
-الكريم
+[Row 4]
+al-Baṣīr
+al-Ḥakam
+al-ʿAdl
+al-Laṭīf
+al-Khabīr
+al-Ḥalīm
+al-ʿAẓīm
+al-Ghafūr
 
-الرقيب
-المجيب
-الواسع
-الحكيم
-الودود
-المجيد
-الباعث
-الشهيد
+[Row 5]
+ash-Shakūr
+al-ʿAlī
+al-Kabīr
+al-Ḥafīẓ
+al-Muqīt
+al-Ḥasīb
+al-Jalīl
+al-Karīm
 
-الحق
-الوكيل
-القوي
-المتين
-الولي
-الحميد
-المحصي
-المبدئ
+[Row 6]
+ar-Raqīb
+al-Mujīb
+al-Wāsiʿ
+al-Ḥakīm
+al-Wadūd
+al-Majīd
+al-Bāʿith
+ash-Shahīd
 
-المعيد
-المحيي
-المميت
-الحي
-القيوم
-الواجد
-الماجد
-الواحد
+[Row 7]
+al-Ḥaqq
+al-Wakīl
+al-Qawiyy
+al-Matīn
+al-Walī
+al-Ḥamīd
+al-Muḥṣī
+al-Mubdiʾ
 
-( The eleventh chapter in the inventions of the Rahmutiyyat and the shining lights from the secrets of the Malakutiyyat )
-☆ Know, may God grant me and you success in obedience to Him, that God wrote a book in His pre-eternity before He created the spirits by seventy thousand years, from the proportion of those years whose day is the measure of fifty thousand years, which are among the signs of God تعالى, so He wrote in it what none other than Him knew, except that what has reached us from it is what our master Muhammad عليه السلام alerted us to by his saying: Indeed God تعالى wrote a book before He created the heavens and the earth by seventy thousand years, and it is with Him upon His Throne, in it: My mercy preceded My punishment. And this is a truth over which the possessors of intellect, whom God guided to a straight path and loved, grew great; so this truth they knew, and they became absorbed in the seas of the bounties for their tawhid, so their thoughts spoke, and they are the inheritors concerning whom God تعالى said: Those are the inheritors, who inherit Paradise; they will abide therein forever, the pure ones from the realities of the lofty ranks, throughout the continuance of the ages, they do not tire from their looking at their possessions and their witnessing the absolute Rahmutiyyah fire upon the reality of what that presence was able to encompass of the composite letters, an indication for one in whom his knowledge is subtler than that ☆ And know that the Creator, exalted is His power, when He brought down the highest saradiq and seated it upon the Kursi of the divine standing and clothed it with the robe of splendid light and crowned it with the تاج of the highest wisdom and displayed it upon the realities in the degree of the day of contentment from the absolute light, expressed
+[Row 8]
+al-Muʿīd
+al-Muḥayyī
+al-Mumīt
+al-Ḥayy
+al-Qayyūm
+al-Wājid
+al-Mājid
+al-Wāḥid
+
+( The eleventh chapter on the inventions of the raḥmawiyyāt and the shining lights from the secrets of the malakūtiyyāt )
+☆ Know, and may God grant wafq to me and to you in obeying Him, that God wrote a book in His pre-eternity before He created the souls, seventy thousand years, by the reckoning of those years whose day is the measure of fifty thousand years, and those years are among the signs of God Most High; and He wrote in it what no one knew but Himself, except that what has reached us of it is what our master Muhammad, the Prophet, peace and blessings be upon him, alerted us to by his saying: Indeed God Most High wrote a book before He created the heavens and the earth seventy thousand years, and it is with Him upon His Throne, in it: “My raḥmah preceded My punishment.” And this is a truth at which the possessors of understanding, ulū al-albāb, were magnified, those whom God guided to a straight path and whom He loves. So they came to know this truth, and so they immersed themselves in the seas of the divine bounties for the sake of their tawḥīd, and so their thoughts spoke; and they are the inheritors concerning whom God Most High said: Those are the inheritors who inherit the Paradise; they abide therein forever, the pure ones from the realities of the exalted ranks, throughout the continuance of the ages. Those men do not tire, neither in their looking at their possessions nor in their witnessing the absolute raḥmawiyyah fire upon the reality of what that Presence was able to encompass of the composite letters, an indication for the one in whom it is subtler than His knowledge. ☆ And know that the Creator, exalted is His power, when He sent down the highest sarādiq and seated it upon the al-Kursi of the divine standing, and clothed it with the robe of radiant light, and adorned it with the crown of the highest wisdom, and displayed it upon the realities in the degree of the Day of Contentment from the absolute light, expressed.
