@@ -6,6 +6,7 @@ Durable files:
 
 - `progress.json` — one record for each physical page 1–604.
 - `events.jsonl` — append-only state-transition audit log.
+- `reviews/` — page-scoped independent-review evidence, committed with the tracker checkpoint.
 
 Transient files (ignored by Git):
 
@@ -45,6 +46,12 @@ uv run --no-project python scripts/translation_v2_worker.py submit-review --page
 
 # A different reviewer ID is required by default.
 uv run --no-project python scripts/translation_v2_worker.py approve --page 1 --reviewer-id human-reviewer --json
+
+# Persist the reviewer report under reviews/page_NNN-rN-<verdict>.md.
+# The report starts with APPROVED PAGE N/TOTAL or REWORK PAGE N/TOTAL,
+# carries source/target hashes, and is staged only with the tracker checkpoint.
+# After REWORK, repair, validate, and send a fresh reviewer; an old verdict
+# does not apply to changed files.
 
 # Record the exact page-scoped commit only after approval.
 uv run --no-project python scripts/translation_v2_worker.py record-commit --page 1 --worker-id hermes-page-worker --sha <exact-commit-sha> --json
