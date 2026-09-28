@@ -1,5 +1,6 @@
 Arabic:
 - ٤٩ -
+
 زاوية الخطين وعلى طرف الخط الأيمن الملاقي لقطر الدائرة حرف الدال ومكتوب في قطر الخط
 اسم الصمد أوله من خط المثلث وآخره إلى قريب من الدائرة وعلى دائرة القطر دال وتحت الدائرة
 الألف والاسم الواحد تعالى قدام اسم الصمد ومن زاوية اسم القهار يكون في أعلى الخط
@@ -29,54 +30,11 @@ Arabic:
 
 ( ٤ - شمس المعارف - أول )
 
-English:
-- 49 -
-
-the corner of the two lines, and on the end of the right line meeting the diameter of the circle is the letter dāl, and written in the diameter of the line
-the name al-Ṣamad, its beginning from the line of the triangle and its end to near the circle, and on the circle of the diameter dāl, and beneath the circle
-the alif and the name al-Wāḥid (exalted is He) before the name al-Ṣamad, and from the corner of the name al-Qahhār it is in the upper of the line
-and the circle from within the line, that is, the northern line of the triangle meeting the diameter of the circle, and on the diameter from its narration, that is
-the line meeting the diameter of the circle, the name al-Raḥmān and the name al-Raḥīm from the line of the triangle to the circle, and behind it the name al-Ghafūr
-and in the inner part of the triangle on the diameter the letter ṭāʾ, and the lower half on the diameter a line of a quarter of the circle and another line
-out of it ending to half of the circle, and inside this line is written: sijl in it, inside the other from the diameter
-written with light on the opposite side to the circle the letter zāy from outside, and inside that which is a quarter of the circle
-written the letter hāʾ in Hindi, and outside it written ʿabdalnā, and from inside the other line a quarter circle to
-half of the circle written mukhtār, and from the corner of the meeting of the other two lines to half of the circle written the wāw
-and written that is ten complete, taking to half of the diameter, and written opposite the head of the wāw to the upper diameter of the
-outer circle alif mīm Allah lā ilāha illā Huwa al-Ḥayy al-Qayyūm separated letters opposite to the jīm that is inside the triangle, and yāʾ of al-Ḥayy
-opposite the letter wāw that is at the bottom of the circle, and mīm of al-Qayyūm opposite the mother of the circle at its edge, written from outside
-and Allah is encompassing them from behind, and on the other side written outside the circle: Nay, rather it is a glorious Qurʾān in a preserved tablet
-He said: as soon as I faced the كيفية with the predominant, the form disappeared from me. Then when I prayed and sat, I took to reading
-my wird, and sleep overcame me. So while I was sleeping, then I saw the Commander of the Faithful ʿAlī ibn Abī Ṭālib, and he said to me: where is the tablet that
-you saw, and it was depicted with me? So I handed it to him, and he took it and said concerning its meaning things I did not understand, and I knew from it nothing except one word,
-and it is that the Commander of the Faithful May Allah be pleased with him placed his forefinger on the letter jīm that is in the corner of the triangle that is in
-the upper half of the circle, and said: from here majesty is sent forth. So I knew that it is the Greatest Name of Allah and that the names indicate
-the sacred essence. So I said to him: O Commander of the Faithful, I did not understand what you said to me. So he said to me: Muhammad ibn Ṭalḥah will explain it to you
-if Allah (exalted is He) wills. Then my wird ended and I went to Muhammad ibn Ṭalḥah, and there was between me and him a covenant of brotherhood in Allah
-(exalted is He), so I related to him the story. So he praised Allah (exalted is He) and began the explanation of the circle, and named it al-Durr al-Munazzam fī Sharḥ al-Ism
-al-Aʿẓam and it was said: in the secret al-Aʿẓam. Then after that I saw the Messenger of Allah (peace be upon him), and he was sitting in the miḥrāb,
-and the Commander of the Faithful ʿAlī was mentioning the tablet. So ʿAlī said to me: the sacred name did not stop upon other than it in indication. So the Prophet
-(peace be upon him) said to him: by the truth of the Truth, thus Jibrīl (peace be upon him) taught it to me. So when I awoke from my sleep I came to the shaykh
-and informed him of the occurrence. So he was silent for an hour and extended his hand behind him and brought out a sheet in which was this very wording, meaning the sacred name
-
-( 4 - شمس المعارف - أول )
-
 Indonesia:
 - 49 -
 
-Sudut dari dua garis dan pada ujung garis kanan yang bertemu dengan diameter lingkaran huruf dal, dan tertulis pada diameter garis
-nama al-Shamad, awalnya dari garis segitiga dan akhirnya hingga dekat lingkaran, dan pada lingkaran diameter dal, dan di bawah lingkaran
-alif dan nama al-Wahid, Ta'ala, di depan nama al-Shamad, dan dari sudut nama al-Qahhar berada di atas garis
-dan lingkaran dari dalam garis, yakni garis segitiga utara yang bertemu dengan diameter lingkaran, dan pada diameter dari riwayatnya, yakni
-garis yang bertemu dengan diameter lingkaran, nama al-Rahman dan nama al-Rahim dari garis segitiga ke lingkaran, dan di belakangnya nama al-Ghafur
-dan di dalam segitiga pada diameter huruf ta, dan setengah bagian bawah pada diameter garis seperempat lingkaran dan garis lain
-keluar darinya yang berakhir إلى setengah lingkaran, dan di dalam garis ini tertulis sijjil di dalamnya, yang lain dari diameter
-tertulis dengan cahaya pada ujung yang berhadapan dengan lingkaran huruf zay dari luar dan dari dalam yang merupakan seperempat lingkaran
-tertulis huruf ha dengan Hindi, dan di luarnya tertulis abdalna, dan dari dalam garis yang lain seperempat lingkaran hingga
-setengah lingkaran tertulis mukhtar, dan dari sudut pertemuan dua garis yang lain hingga setengah lingkaran tertulis waw
-dan tertulis itu sepuluh sempurna, mengambil hingga setengah diameter, dan tertulis berhadapan dengan kepala waw untuk diameter atas lingkaran
-yang keluar alif, mim, Allah, la ilaha illa Huwa, al-Hayy, al-Qayyum, huruf-huruf terpisah berhadapan dengan jim yang di dalam segitiga d
+Pada sudut dua garis, dan pada ujung garis kanan yang bertemu dengan diameter lingkaran, terdapat huruf dāl. Di sepanjang garis diameter tertulis nama al-Ṣamad: awalnya pada garis segitiga dan akhirnya sampai dekat lingkaran; pada lingkaran diameter terdapat dāl. Di bawah lingkaran terdapat alif dan nama al-Wāḥid, Yang Mahatinggi, di hadapan nama al-Ṣamad. Dari sudut itu, nama al-Qahhār berada pada bagian atas garis dan lingkaran, di dalam garis—yang dimaksud ialah garis utara segitiga yang bertemu dengan diameter lingkaran. Pada diameter, [UNCLEAR: sumber memiliki istilah diagramatis riwāyatih], yakni garis yang bertemu dengan diameter lingkaran, terdapat nama al-Raḥmān dan nama al-Raḥīm, dari garis segitiga sampai lingkaran; di belakangnya terdapat nama al-Ghafūr. Di dalam segitiga, pada diameter, terdapat huruf ṭāʾ; dan pada bagian bawah, di atas diameter, terdapat garis seperempat lingkaran dan garis lain yang keluar darinya dan berakhir pada setengah lingkaran. Di dalam garis ini tertulis "Sijill"; di dalam garis lainnya [UNCLEAR: frasa diagramatis sumber dari diameter tidak pasti] tertulis "bi-l-nūr." Pada ujung yang berhadapan dengan lingkaran, huruf zāy tertulis di bagian luar. Di dalamnya—seperempat lingkaran itu—tertulis huruf hāʾ dalam aksara India, dan di luarnya tertulis [UNCLEAR: ʿAbdalnā, inskripsi diagram tanpa spasi]. Di dalam garis yang lain, dari seperempat lingkaran sampai setengah lingkaran, tertulis "Mukhtār". Dari sudut pertemuan dua garis lainnya sampai setengah lingkaran tertulis wāw; dan tertulis "Itulah sepuluh yang lengkap," yang memanjang [UNCLEAR: istilah posisi ākhidh dalam sumber tidak pasti] sampai setengah diameter. Berhadapan dengan kepala wāw, pada diameter atas lingkaran luar, tertulis: "Alif-lām-mīm. Allah—tidak ada tuhan selain Dia, Yang Maha Hidup, Yang Maha Berdiri Sendiri." Huruf-huruf terpisah itu berhadapan dengan jīm yang berada di dalam segitiga; yāʾ dari al-Ḥayy berhadapan dengan wāw di bagian bawah lingkaran; dan mīm dari al-Qayyūm berhadapan dengan "ibu lingkaran" [UNCLEAR: istilah diagramatis] pada tepinya. Di bagian luar tertulis: "Dan Allah meliputi mereka dari belakang." Pada sisi lainnya, di luar lingkaran, tertulis: "Bahkan, ia adalah Qurʾān yang mulia, pada sebuah lauh yang terpelihara."
 
-Notes:
-[Konten petak dipertahankan apa adanya]
-كهيعص الم اله l له لال اله اه w كيعص
+Ia berkata: "[UNCLEAR: klausa sumber istaqbalta al-kayfiyyah bi-l-ghālib tidak dapat dipastikan maknanya]; bentuk itu lenyap dariku." Lalu aku salat dan duduk, mulai membaca wiridku, dan tidur menguasaiku. Ketika aku sedang tidur, aku melihat Amir al-Mu'minin, ʿAlī ibn Abī Ṭālib. Ia berkata kepadaku, "Di manakah lauh yang engkau lihat, yang tergambar di hadapanku [UNCLEAR: idiom dan rujukan sumber tidak pasti]?" Maka aku menyerahkannya kepadanya. Ia mengambilnya dan mengatakan beberapa hal tentang maknanya yang tidak kupahami; dari semuanya itu aku hanya mengenali satu kata—yakni bahwa Amir al-Mu'minin, semoga Allah meridainya, meletakkan jari telunjuknya pada jīm di sudut segitiga pada separuh atas lingkaran dan berkata, "Dari sini keagungan memancar." Maka aku tahu bahwa itu adalah Nama Allah Yang Paling Agung dan bahwa nama-nama menunjuk kepada Zat Yang Suci. Aku berkata kepadanya, "Wahai Amir al-Mu'minin, aku tidak memahami apa yang engkau katakan kepadaku." Ia berkata kepadaku, "Muḥammad ibn Ṭalḥah akan menjelaskannya kepadamu, jika Allah Yang Mahatinggi menghendaki." Lalu wiridku berakhir dan aku pergi kepada Muḥammad ibn Ṭalḥah. Antara dia dan aku terjalin ikatan persaudaraan karena Allah Yang Mahatinggi. Aku menceritakan kisah itu kepadanya; ia memuji Allah Yang Mahatinggi, dan mulai menjelaskan lingkaran itu. Ia menamakannya al-Durr al-Munazzam fī Sharḥ al-Ism al-Aʿẓam; [UNCLEAR: sumber kemudian memuat susunan kata yang tidak lengkap, fī al-sirr al-aʿẓam]. Sesudah itu aku melihat Rasul Allah, semoga Allah melimpahkan selawat dan salam kepadanya, duduk di mihrab, sementara Amir al-Mu'minin ʿAlī sedang menyebut lauh itu. ʿAlī berkata kepadaku, "Nama yang suci itu tidak bergantung pada selain dirinya dalam penunjukannya." Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, berkata kepadanya, "Demi kebenaran Sang Kebenaran, demikianlah Jibrīl, salam atasnya, mengajarkannya kepadaku." Ketika aku terbangun dari mimpiku, aku datang kepada sang syekh dan memberitahukannya tentang peristiwa itu. Ia terdiam sejenak, mengulurkan tangannya ke belakang, lalu mengeluarkan secarik lembaran yang memuat lafal ini persis sama—yakni nama yang suci itu.
+
+(4 — Shams al-Ma‘ārif — Bagian Pertama)
