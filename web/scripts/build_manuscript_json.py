@@ -35,33 +35,38 @@ from pathlib import Path
 # clobbered a live translation worker's in-flight output.
 REPO_ROOT = Path(__file__).resolve().parents[2]
 
+# The canonical parser lives in scripts/ and handles every real file shape:
+# a label alone on its line, a label trailing source text on the same line
+# (p543), and two labels sharing one line (p543's Indonesian layer). This
+# module used to carry its own LABEL_RE, which only matched a label ALONE on
+# its line and therefore read those blocks as empty - p543's 750 characters of
+# real Indonesian were replaced with "(tidak ada teks pada halaman ini)" in
+# production. One parser, not two.
+sys.path.insert(0, str(REPO_ROOT / "scripts"))
+from recover_sibling_blocks import clean as _clean  # noqa: E402
+from recover_sibling_blocks import parse_blocks as _parse_blocks  # noqa: E402
+
 OCR_DIR = os.environ.get("SHAMS_OCR_DIR", str(REPO_ROOT / "ocr"))
 OUT = os.environ.get("SHAMS_OUT", str(REPO_ROOT / "web" / "public" / "manuscript.json"))
 # Canonical physical page count. Must match manifest.json and
 # web/lib/manuscript.ts (TOTAL_PAGES). Do not hard-code elsewhere.
 TOTAL = 604
 
-LABEL_RE = re.compile(r"^\s*(Arabic|English|Indonesia)\s*[:：]?\s*$", re.IGNORECASE)
+_LANG_KEY = {"arabic": "ar", "english": "en", "indonesia": "id"}
 
 
 def parse_blocks(text: str) -> dict:
-    """Return {lang_key: body} from a labelled-block file."""
+    """Return ``{lang_key: body}`` from a labelled-block file.
+
+    Delegates to the shared parser so this builder and the validators agree on
+    what a label is. A page is reported missing only when the shared parser also
+    finds no block for it.
+    """
     blocks = {"ar": "", "en": "", "id": ""}
-    cur = None
-    buf = []
-    for line in text.splitlines():
-        m = LABEL_RE.match(line)
-        if m:
-            if cur is not None:
-                blocks[cur] = "\n".join(buf).strip()
-            label = m.group(1).lower()
-            cur = {"arabic": "ar", "english": "en", "indonesia": "id"}.get(label)
-            buf = []
-        else:
-            if cur is not None:
-                buf.append(line)
-    if cur is not None:
-        blocks[cur] = "\n".join(buf).strip()
+    for label, body, _ in _parse_blocks(text or ""):
+        key = _LANG_KEY.get(label.lower())
+        if key and body.strip():
+            blocks[key] = body
     return blocks
 
 
