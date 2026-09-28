@@ -68,13 +68,24 @@ def arabic_prose_runs(body: str) -> list[str]:
 
 
 def leading_folio(text: str) -> str | None:
+    """The page number on the first non-blank line, or None.
+
+    Deliberately tolerant about the SURROUNDINGS, because the corpus is not
+    consistent about them. p022's English opens with a bare '16' - no
+    dashes at all - and an earlier version required '-' or an em-dash, so it
+    reported 39 pages as having NO folio when they plainly have one. The
+    question being asked is 'what number is this page', not 'is this
+    formatted the way I would format it', so a bare numeral counts.
+
+    Returns None only when the first line carries no number at all, which
+    is the genuine missing-folio case (p130's English before its repair).
+    """
     for line in text.splitlines():
         if not line.strip():
             continue
-        if "-" in line or "\u2014" in line or "(" in line:
-            m = re.search(r"[\u0660-\u0669]+|\d{1,3}", line)
-            if m:
-                return str(int(m.group().translate(AR_DIGITS)))
+        m = re.search(r"[\u0660-\u0669]+|\d{1,3}", line)
+        if m:
+            return str(int(m.group().translate(AR_DIGITS)))
         return None
     return None
 
