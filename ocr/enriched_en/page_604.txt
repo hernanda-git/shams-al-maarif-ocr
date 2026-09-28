@@ -1,5 +1,7 @@
 Arabic:
-(لا يوجد نص مرئي)
+---
+(No text visible)
+---
 
 English:
-(No text visible)
+[NO VISIBLE TEXT]

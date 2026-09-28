@@ -31,8 +31,8 @@
 "page": 3,
 "text": {
 "ar": "هذا المستند عبارة عن صفحة فارغة (غلاف داخلي أو صفحة بيضاء) ولا يحتوي على أي نصوص عربية.",
-"en": "This document is a blank page (an inner cover or a white page) and does not contain any Arabic text.",
-"id": "Dokumen ini merupakan halaman kosong (sampul bagian dalam atau halaman putih) dan tidak berisi teks Arab apa pun."
+"en": "[NO VISIBLE TEXT]",
+"id": "[TIDAK ADA TEKS TERLIHAT]"
 },
 "scanSrc": "https://shamsmaarif.warga-digital.com/page-003.pdf",
 "title": {
@@ -59,8 +59,8 @@
 "page": 5,
 "text": {
 "ar": "هذه الصفحة فارغة ولا تحتوي على أي نص.",
-"en": "This page is empty and does not contain any text.",
-"id": "Halaman ini kosong dan tidak mengandung teks apa pun."
+"en": "[NO VISIBLE TEXT]",
+"id": "[TIDAK ADA TEKS TERLIHAT]"
 },
 "scanSrc": "https://shamsmaarif.warga-digital.com/page-005.pdf",
 "title": {
@@ -8403,8 +8403,8 @@
 "page": 601,
 "text": {
 "ar": "---\nThere is no visible Arabic text on this page.\n---",
-"en": "---\nThere is no visible Arabic text on this page.\n---",
-"id": "Tidak ada teks Arab yang terlihat pada halaman ini."
+"en": "[NO VISIBLE TEXT]",
+"id": "[TIDAK ADA TEKS TERLIHAT]"
 },
 "scanSrc": "https://shamsmaarif.warga-digital.com/page-601.pdf",
 "title": {
@@ -8431,8 +8431,8 @@
 "page": 603,
 "text": {
 "ar": "---\nThere is no text on this page.\n---",
-"en": "There is no text on this page.",
-"id": "(tidak ada teks pada halaman ini)"
+"en": "[NO VISIBLE TEXT]",
+"id": "[TIDAK ADA TEKS TERLIHAT]"
 },
 "scanSrc": "https://shamsmaarif.warga-digital.com/page-603.pdf",
 "title": {
@@ -8445,8 +8445,8 @@
 "page": 604,
 "text": {
 "ar": "---\n(No text visible)\n---",
-"en": "(No text visible)",
-"id": "[Tidak ada teks yang terlihat]\n\nNotes:\n[Tidak ada catatan]"
+"en": "[NO VISIBLE TEXT]",
+"id": "[TIDAK ADA TEKS TERLIHAT]"
 },
 "scanSrc": "https://shamsmaarif.warga-digital.com/page-604.pdf",
 "title": {
