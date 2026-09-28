@@ -87,6 +87,57 @@ def scan() -> tuple[list[str], list[str]]:
     return fixable, escalate
 
 
+def scan_filler() -> list[str]:
+    """Pages whose source is a scan FILL run rather than prose.
+
+    Degenerate pages are not a defect class - they are a documented
+    condition, and six of them already explain themselves in the target
+    block. But one of them failed in a way this tool could not see: p095's
+    source is 1,630 repetitions of U+10348 GOTHIC LETTER HWAIR, a scan
+    fill-placeholder rather than a character. The two target files carried
+    794 and 8,183 copies of it respectively - the SAME page, filler counted
+    three different ways, all byte-compatible on the prose prefix, so
+    nothing flagged them.
+
+    What gives them away is a COUNT mismatch rather than a content
+    mismatch, so it is checked separately here.
+    """
+    glyph = "\U00010348"
+    canonical: dict[int, int] = {}
+    for page in range(1, TOTAL + 1):
+        src = REPO_ROOT / "ocr" / "enriched" / f"page_{page:03d}.txt"
+        if src.exists():
+            count = clean(src.read_text(encoding="utf-8")).count(glyph)
+            if count:
+                canonical[page] = count
+
+    flags = []
+    for page, want in sorted(canonical.items()):
+        for folder, label in FOLDERS.items():
+            path = REPO_ROOT / "ocr" / folder / f"page_{page:03d}.txt"
+            if not path.exists():
+                continue
+            text = clean(path.read_text(encoding="utf-8"))
+            # The count belongs on the EMBEDDED ARABIC BLOCK, not on the
+            # translation. My first version checked the target body, where
+            # 0 is the CORRECT answer - a translation must not reproduce
+            # 1,630 filler glyphs, it should say `[UNCLEAR: ...]` about them
+            # as p095 now does. Checking the translation would have flagged
+            # a correct page as broken, which is the mirror image of the bug
+            # that started this.
+            arabic = blocks_for(text, "Arabic")
+            if not arabic:
+                continue
+            got = arabic[0].count(glyph)
+            if got != want:
+                flags.append(
+                    f"p{page:03d} {folder[-2:]}: Arabic block has {got} "
+                    f"U+10348 fillers, canonical has {want}"
+                )
+    return flags
+
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("pages", nargs="*", type=int)
@@ -109,6 +160,13 @@ def main() -> int:
     for line in escalate:
         print("  " + line)
     print(f"  {len(escalate)} file(s)")
+
+    filler = scan_filler()
+    print()
+    print("=== SCAN-FILL COUNT MISMATCH ===")
+    for line in filler:
+        print("  " + line)
+    print(f"  {len(filler)} file(s)")
     return 0
 
 
