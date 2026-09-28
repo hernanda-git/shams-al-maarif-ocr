@@ -68,11 +68,21 @@ def choose(id_copy: str, en_copy: str) -> tuple[str, str]:
         return id_copy, "id-copy has no Arabic script (V2 rule 3)"
     if en_arabic == 0 and id_arabic > 0:
         return en_copy, "en-copy has no Arabic script (V2 rule 3)"
-    if len(id_copy) > len(en_copy):
-        return id_copy, "id-copy is longer, both have Arabic"
-    if len(en_copy) > len(id_copy):
-        return en_copy, "en-copy is longer, both have Arabic"
-    return en_copy, "identical length, keeping the EN file's copy"
+    # Both copies carry Arabic script. Length is NOT a quality signal here: a
+    # V2-revised block can be SHORTER than the stale one, because transliterating
+    # an Arabic-script run compresses it. Page 57 proved the failure -- the
+    # worker-aligned copy (0 Arabic, 4722c) lost to a stale longer copy
+    # (56 Arabic, 4445c) and the page regressed.
+    #
+    # So when neither copy is compliant, do not guess: keep the EN file's copy
+    # and report the page for a human/translator to settle. A rewrite needs a
+    # real signal, not a length coin-flip.
+    if id_arabic == 0 and en_arabic == 0:
+        return en_copy, "both compliant, keeping the EN file's copy"
+    return en_copy, (
+        f"both copies have Arabic script (id={id_arabic}, en={en_arabic}); "
+        "keeping the EN file's copy for review"
+    )
 
 
 def scan() -> list[dict]:
