@@ -17,6 +17,7 @@ from recover_sibling_blocks import (  # noqa: E402
     is_blank_marker,
     is_blank_source,
     is_translation_like,
+    parse_blocks,
     plan_page,
     prose_score,
     symbol_load,
@@ -112,3 +113,47 @@ def test_language_probe_tolerates_proper_noun_pages():
     body = "RBSC Islamic\nBF 1410\nB8\n1927\n\nMcGill\nUniversity\nLibraries\nIslamic Studies Library\n\n3537621"
     assert is_translation_like(body, "en")
     assert is_translation_like(body.replace("University", "Universitas"), "id")
+
+
+def test_english_prose_mentioning_arabic_is_not_a_label():
+    """p333: 'Its meaning in Arabic: I am He who...' must not split the block.
+
+    The inline-label rule exists for page 543's real shape, where untranslated
+    Arabic source is followed by `Indonesia: <indonesian>` on the same line.
+    Without a guard it also fires on ordinary English prose, and page 333
+    carries the phrase TWICE. The result was a 4,880c English block parsed as
+    7c plus a 4,256c spurious `Arabic:` block - a correct file that failed
+    every gate.
+    """
+    text = (
+        "Arabic:\n"
+        "- ٣٢٧ -\n\nواجعلـوهم\n\n"
+        "English:\n"
+        "- 327 -\n\n"
+        '"He is called so." Its meaning in Arabic: I am He who gives everything.\n'
+        'Another: "He has a name." its meaning in Arabic: He who has a name.\n'
+    )
+    blocks = parse_blocks(text)
+    assert [label for label, _, _ in blocks] == ["Arabic", "English"]
+    assert "I am He who gives everything" in blocks[1][1]
+    assert "He who has a name" in blocks[1][1]
+    assert "meaning in Arabic" in blocks[1][1]  # the prose is preserved verbatim
+
+
+def test_single_line_both_labels_still_splits():
+    """p543 keeps its inline labels: both live on ONE line, no line breaks."""
+    text = "Arabic: — ٥٣٧ — مجموعة أربع رسائل Indonesia: — ٥٣٧ — Kelompok empat surat"
+    blocks = parse_blocks(text)
+    assert [label for label, _, _ in blocks] == ["Arabic", "Indonesia"]
+    assert blocks[0][1].startswith("— ٥٣٧")
+    assert "Indonesia" not in blocks[0][1]
+    assert blocks[1][1].startswith("— ٥٣٧")
+
+
+def test_label_on_own_line_body_starts_next_line():
+    """The canonical two-line shape must be unaffected by the same-line support."""
+    text = "Arabic:\nsource text\n\nEnglish:\ntranslated text\n"
+    blocks = parse_blocks(text)
+    assert [label for label, _, _ in blocks] == ["Arabic", "English"]
+    assert blocks[0][1] == "source text"
+    assert blocks[1][1] == "translated text"

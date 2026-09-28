@@ -21,8 +21,9 @@ import unicodedata
 
 LABELS = ("Arabic", "English", "Indonesia")
 
-# A label heading: either on its own line or trailing other text on the line.
-_LABEL_LINE = re.compile(r"^[ \t]*(Arabic|English|Indonesia)[ \t]*:[ \t]*$")
+# A label heading, matched anywhere on a line: a label is a token followed by
+# a colon. parse_blocks decides whether a match is a REAL label by context, so
+# the regex itself stays deliberately permissive.
 _LABEL_INLINE = re.compile(r"(Arabic|English|Indonesia)[ \t]*:")
 _ANY_LABEL = re.compile(r"(?m)^[ \t]*(Arabic|English|Indonesia)[ \t]*:")
 
@@ -159,26 +160,53 @@ def parse_blocks(text: str) -> list[tuple[str, str, int]]:
     # (label_line, body_line, body_col, label)
     positions: list[tuple[int, int, int, str]] = []
     for index, line in enumerate(lines):
-        own_line = _LABEL_LINE.match(line)
-        if own_line:
-            # canonical shape: body begins on the following line
-            positions.append((index, index + 1, 0, own_line.group(1)))
-            continue
-        inline = _LABEL_INLINE.search(line)
-        if inline:
-            # p543 shape: body begins right after the label's colon, same line
-            positions.append((index, index, inline.end(), inline.group(1)))
+        # A line may carry more than one label: p543 has
+        # `Arabic: <arabic> Indonesia: <indonesian>` all on one line once the
+        # file's own line breaks are gone, so scan every match, not just the
+        # first.
+        #
+        # A match is a genuine label when EITHER it heads the line (the
+        # canonical shape, and p543's first label) OR the text before it is
+        # untranslated source containing Arabic script (p543's second label).
+        # The second condition is what keeps ordinary English prose out: p333
+        # contains "Its meaning in Arabic: I am He who gives everything" TWICE,
+        # and reading those as labels split a correct 4,880c block into 7c plus
+        # a spurious 4,256c `Arabic:` block.
+        for match in _LABEL_INLINE.finditer(line):
+            heading = match.start() == 0 or not line[: match.start()].strip()
+            if not heading and not _ARABIC_IN_TARGET.search(line[: match.start()]):
+                continue
+            tail = line[match.end() :].strip()
+            if tail:
+                # body continues on this same line, bounded by the next label
+                positions.append((index, index, match.end(), match.group(1), match.start()))
+            else:
+                # body begins on the following line
+                positions.append((index, index + 1, 0, match.group(1), match.start()))
 
     blocks: list[tuple[str, str, int]] = []
-    for order, (label_line, body_line, body_col, label) in enumerate(positions):
-        end_line = positions[order + 1][0] if order + 1 < len(positions) else len(lines)
+    for order, (label_line, body_line, body_col, label, _label_col) in enumerate(positions):
+        if order + 1 < len(positions):
+            nxt_line, _, _nxt_col, _, nxt_label_col = positions[order + 1]
+            if nxt_line == label_line:
+                # the next label is on the SAME line: bound this body at the
+                # START of that label token, so the label itself is excluded.
+                # Using the offset just past the label's colon would leave a
+                # stray `Indonesia:` at the end of the previous body.
+                end_line = label_line
+                end_col = nxt_label_col
+            else:
+                end_line, end_col = nxt_line, None
+        else:
+            end_line, end_col = len(lines), None
 
         collected: list[str] = []
-        if body_line < end_line:
-            tail = lines[body_line][body_col:].strip()
+        if body_line < end_line or (end_col is not None and body_line == end_line):
+            tail = lines[body_line][body_col:end_col].strip() if end_col is not None else lines[body_line][body_col:].strip()
             if tail:
                 collected.append(tail)
-            collected.extend(lines[body_line + 1 : end_line])
+            if end_line > body_line:
+                collected.extend(lines[body_line + 1 : end_line])
         body = "\n".join(collected).strip()
         blocks.append((label, body, label_line))
     return blocks
