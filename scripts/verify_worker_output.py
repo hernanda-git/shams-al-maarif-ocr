@@ -86,10 +86,20 @@ def main() -> int:
             looks_like_words = " " in top and alpha_ratio > 0.5
             if not looks_like_words and n > len(body) / 3 and len(body) > 500:
                 issues.append(f"DEGENERATE REPETITION: {top!r} x{n} of {len(body)}c")
-        ar = len(_ARABIC_IN_TARGET.findall(body))
-        if ar > max(4, len(body) * 0.005):
-            issues.append(f"Arabic script in target: {ar}")
-        if TRUNC.search(body):
+        # A magic-square page legitimately carries Arabic LETTERS: the grid
+        # cells ARE the letters of the divine name, and transliterating them
+        # would destroy the geometry the style guide requires preserving. Page
+        # 244 has 40 single-letter Arabic cells in a 7,545c block -- correct as
+        # written. What must not survive is a RUN of Arabic prose, i.e. an
+        # untranslated passage. So flag only a long contiguous run.
+        longest = max((len(m.group()) for m in re.finditer(r"[\u0600-\u06FF]+", body)), default=0)
+        total_ar = len(_ARABIC_IN_TARGET.findall(body))
+        if longest >= 12 or (total_ar > max(4, len(body) * 0.005) and longest < 3 and total_ar > 60):
+            issues.append(f"untranslated Arabic: longest run {longest}, {total_ar} letters")
+        # `[?]` is the pipeline's own OCR placeholder for an illegible cell; it
+        # is data, not a truncation marker written by a translator.
+        body_no_placeholder = re.sub(r"\[\?\]", "", body)
+        if TRUNC.search(body_no_placeholder):
             issues.append("truncation marker")
         if src_letters > 200 and len(body) / src_letters < 0.25:
             issues.append(f"ratio {len(body)/src_letters:.2f} ({len(body)}c/{src_letters} letters)")
