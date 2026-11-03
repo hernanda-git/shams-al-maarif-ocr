@@ -124,7 +124,9 @@ def triage(page: int) -> list[str]:
             problems.append(f"{short}: no {label} block")
             continue
         body = body[0]
-        if len(body) < 40:
+        if body.strip() in ("[NO VISIBLE TEXT]", "[TIDAK ADA TEKS TERLIHAT]"):
+            pass
+        elif len(body) < 40:
             problems.append(f"{short}: EMPTY ({len(body)}c)")
             continue
 
