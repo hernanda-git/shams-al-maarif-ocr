@@ -1,0 +1,886 @@
+{
+  "range": [
+    13,
+    24
+  ],
+  "auditor_id": "0c28f7fe-1ac1-4735-a2d6-27744d14ffd4",
+  "kind": "independent_model_initial_audit",
+  "baseline_commit": "6b67481be58a3511472f2e6653352b77895e298a",
+  "note": "Repair proposals, not final acceptance. Subsequent independent review must bind exact resulting hashes.",
+  "pages": [
+    {
+      "page": 13,
+      "verdict": "repair",
+      "coverage": "Checked full folio7, three heart cavities and their faculties/luminous eyes; all three revelation spirits and the repeated second rank; two negated hearing clauses, exclusive attribution to Muhammad, both prophetic blessings; book reference, affection verse and complete heart/soul/spirit/intellect cultivation continuation. Eleven Most-High occurrences checked independently; no diagram.",
+      "uncertainties": [
+        "الأطوار القرآت is corrupt; do not silently normalize it to a familiar Qur'anic practice."
+      ],
+      "patches": [
+        {
+          "language": "en",
+          "old": "God's creation",
+          "new": "the creation of God Most High",
+          "reason": "Preserve the separate تعالى in قال تعالى / صنع الله تعالى / عباد الله تعالى / لتعظيم الله تعالى / إن شاء الله تعالى / ود من الله تعالى / ما أعد الله تعالى / الرجعة إلى الله تعالى, respectively; no honorific may be silently dropped."
+        },
+        {
+          "language": "en",
+          "old": "God's servants",
+          "new": "the servants of God Most High",
+          "reason": "Preserve the separate تعالى in قال تعالى / صنع الله تعالى / عباد الله تعالى / لتعظيم الله تعالى / إن شاء الله تعالى / ود من الله تعالى / ما أعد الله تعالى / الرجعة إلى الله تعالى, respectively; no honorific may be silently dropped."
+        },
+        {
+          "language": "en",
+          "old": "glorifying God by knowing Him",
+          "new": "glorifying God Most High by knowing Him",
+          "reason": "Preserve the separate تعالى in قال تعالى / صنع الله تعالى / عباد الله تعالى / لتعظيم الله تعالى / إن شاء الله تعالى / ود من الله تعالى / ما أعد الله تعالى / الرجعة إلى الله تعالى, respectively; no honorific may be silently dropped."
+        },
+        {
+          "language": "en",
+          "old": "God says to His Prophet",
+          "new": "God Most High says to His Prophet",
+          "reason": "Preserve the separate تعالى in قال تعالى / صنع الله تعالى / عباد الله تعالى / لتعظيم الله تعالى / إن شاء الله تعالى / ود من الله تعالى / ما أعد الله تعالى / الرجعة إلى الله تعالى, respectively; no honorific may be silently dropped."
+        },
+        {
+          "language": "en",
+          "old": "God willing",
+          "new": "if God Most High wills",
+          "reason": "Preserve the separate تعالى in قال تعالى / صنع الله تعالى / عباد الله تعالى / لتعظيم الله تعالى / إن شاء الله تعالى / ود من الله تعالى / ما أعد الله تعالى / الرجعة إلى الله تعالى, respectively; no honorific may be silently dropped."
+        },
+        {
+          "language": "en",
+          "old": "God says: “Indeed",
+          "new": "God Most High says: “Indeed",
+          "reason": "Preserve the separate تعالى in قال تعالى / صنع الله تعالى / عباد الله تعالى / لتعظيم الله تعالى / إن شاء الله تعالى / ود من الله تعالى / ما أعد الله تعالى / الرجعة إلى الله تعالى, respectively; no honorific may be silently dropped."
+        },
+        {
+          "language": "en",
+          "old": "affection from God is obtained",
+          "new": "affection from God Most High is obtained",
+          "reason": "Preserve the separate تعالى in قال تعالى / صنع الله تعالى / عباد الله تعالى / لتعظيم الله تعالى / إن شاء الله تعالى / ود من الله تعالى / ما أعد الله تعالى / الرجعة إلى الله تعالى, respectively; no honorific may be silently dropped."
+        },
+        {
+          "language": "en",
+          "old": "what God has prepared",
+          "new": "what God Most High has prepared",
+          "reason": "Preserve the separate تعالى in قال تعالى / صنع الله تعالى / عباد الله تعالى / لتعظيم الله تعالى / إن شاء الله تعالى / ود من الله تعالى / ما أعد الله تعالى / الرجعة إلى الله تعالى, respectively; no honorific may be silently dropped."
+        },
+        {
+          "language": "en",
+          "old": "seeks return to God and",
+          "new": "seeks return to God Most High and",
+          "reason": "Preserve the separate تعالى in قال تعالى / صنع الله تعالى / عباد الله تعالى / لتعظيم الله تعالى / إن شاء الله تعالى / ود من الله تعالى / ما أعد الله تعالى / الرجعة إلى الله تعالى, respectively; no honorific may be silently dropped."
+        },
+        {
+          "language": "id",
+          "old": "sebagaimana firman Allah:",
+          "new": "sebagaimana firman Allah Yang Mahatinggi:",
+          "reason": "Restore each source تعالى at its own occurrence, including separate invocations and quotations; the two prophetic blessings are already retained."
+        },
+        {
+          "language": "id",
+          "old": "segala ciptaan Allah yang",
+          "new": "segala ciptaan Allah Yang Mahatinggi yang",
+          "reason": "Restore each source تعالى at its own occurrence, including separate invocations and quotations; the two prophetic blessings are already retained."
+        },
+        {
+          "language": "id",
+          "old": "perkara-perkara besar yang Allah titipkan",
+          "new": "perkara-perkara besar yang Allah Yang Mahatinggi titipkan",
+          "reason": "Restore each source تعالى at its own occurrence, including separate invocations and quotations; the two prophetic blessings are already retained."
+        },
+        {
+          "language": "id",
+          "old": "anugerah bagi hamba-hamba Allah dan sarana untuk mengagungkan Allah",
+          "new": "anugerah bagi hamba-hamba Allah Yang Mahatinggi dan sarana untuk mengagungkan Allah Yang Mahatinggi",
+          "reason": "Restore each source تعالى at its own occurrence, including separate invocations and quotations; the two prophetic blessings are already retained."
+        },
+        {
+          "language": "id",
+          "old": "Allah berfirman kepada Nabi-Nya",
+          "new": "Allah Yang Mahatinggi berfirman kepada Nabi-Nya",
+          "reason": "Restore each source تعالى at its own occurrence, including separate invocations and quotations; the two prophetic blessings are already retained."
+        },
+        {
+          "language": "id",
+          "old": "insya Allah. Allah berfirman:",
+          "new": "insya Allah Yang Mahatinggi. Allah Yang Mahatinggi berfirman:",
+          "reason": "Restore each source تعالى at its own occurrence, including separate invocations and quotations; the two prophetic blessings are already retained."
+        },
+        {
+          "language": "id",
+          "old": "kasih sayang dari Allah.",
+          "new": "kasih sayang dari Allah Yang Mahatinggi.",
+          "reason": "Restore each source تعالى at its own occurrence, including separate invocations and quotations; the two prophetic blessings are already retained."
+        },
+        {
+          "language": "id",
+          "old": "apa yang Allah siapkan",
+          "new": "apa yang Allah Yang Mahatinggi siapkan",
+          "reason": "Restore each source تعالى at its own occurrence, including separate invocations and quotations; the two prophetic blessings are already retained."
+        },
+        {
+          "language": "id",
+          "old": "jalan kembali kepada Allah dan",
+          "new": "jalan kembali kepada Allah Yang Mahatinggi dan",
+          "reason": "Restore each source تعالى at its own occurrence, including separate invocations and quotations; the two prophetic blessings are already retained."
+        },
+        {
+          "language": "en",
+          "old": "various forms of remembrance and Qurʾanic spiritual practice",
+          "new": "various forms of remembrance and [UNCLEAR: the following phrase about modes/readings is corrupt]",
+          "reason": "بأنواع الأذكار والأطوار القرآت does not support the definite reconstruction Qurʾanic spiritual practice."
+        },
+        {
+          "language": "id",
+          "old": "berbagai bentuk zikir dan laku spiritual Qurani",
+          "new": "berbagai bentuk zikir dan [UNCLEAR: frasa berikut tentang tahapan/bacaan rusak]",
+          "reason": "بأنواع الأذكار والأطوار القرآت is corrupt; explicitly describe the uncertainty rather than inventing a definite practice."
+        },
+        {
+          "language": "en",
+          "old": "by knowing Him through it",
+          "new": "by knowing them through Him",
+          "reason": "بمعرفتها به has the letters as object of knowing and Him as the mediating pronoun; the existing target reverses them."
+        },
+        {
+          "language": "id",
+          "old": "dengan mengenal-Nya melalui hal tersebut",
+          "new": "dengan mengenal huruf-huruf itu melalui-Nya",
+          "reason": "بمعرفتها به refers to knowing the letters through Him, not knowing Him through those letters."
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "verdict": "repair",
+      "coverage": "Checked cross-page ties/customs continuation, dāl and al-Dāʾim instructions; both 35-fold counts, white/yellow silk, lunar/Jupiter/Cancer conditions, purity/fasting; four prophetic blessings and three Most-High occurrences; fever/poison instructions and unfinished next instruction. Checked diagram geometry: 35 rows x5 invocations inside, 3x3 square 4/9/2;3/5/7;8/1/6, seven x5 dāl rows, 35x5 outside, and four corner dāl labels.",
+      "uncertainties": [],
+      "patches": [
+        {
+          "language": "en",
+          "old": "— 8 —",
+          "new": "- 8 -",
+          "reason": "Source folio - ٨ - uses single hyphens, not em dashes."
+        },
+        {
+          "language": "id",
+          "old": "— 8 —",
+          "new": "- 8 -",
+          "reason": "Source folio - ٨ - uses single hyphens."
+        },
+        {
+          "language": "en",
+          "old": "He cultivates it through the ties and familiar customs, and he loves Him by obeying His command while in a state of purity; he commands only beneficial good.",
+          "new": "ties and familiar customs; he cultivates it by obeying His command while in a state of purity; He commands only beneficial good.",
+          "reason": "العلائق والمألوفات continues page13 بترك جميع: these are abandoned, not means of cultivation. ويوده continues the cultivated intellect; avoid changing it to loving God as object."
+        },
+        {
+          "language": "id",
+          "old": "Ia membina hal itu melalui ikatan-ikatan dan kebiasaan-kebiasaan, serta mencintai-Nya dengan menaati perintah-Nya dalam keadaan suci; ia tidak memerintahkan kecuali kebaikan yang bermanfaat.",
+          "new": "ikatan-ikatan dan kebiasaan-kebiasaan; ia membinanya dengan menaati perintah-Nya dalam keadaan suci; Dia tidak memerintahkan kecuali kebaikan yang bermanfaat.",
+          "reason": "العلائق والمألوفات continues بترك جميع on p13: abandonment, not cultivation through attachments; ويوده retains the preceding object."
+        },
+        {
+          "language": "en",
+          "old": "May God Most High perpetuate provision and goodness for him.",
+          "new": "God Most High will perpetuate provision and goodness for him.",
+          "reason": "أدام الله تعالى عليه الرزق والخير is the result of من كتب, not a separate translator wish."
+        },
+        {
+          "language": "id",
+          "old": "Semoga Allah melanggengkan rezeki dan kebaikan baginya.",
+          "new": "Allah Yang Mahatinggi akan melanggengkan rezeki dan kebaikan baginya.",
+          "reason": "أدام الله تعالى is the conditional result and includes تعالى."
+        },
+        {
+          "language": "en",
+          "old": "of dāl among the praises",
+          "new": "of the dāl in al-ḥamd",
+          "reason": "الدال من الحمد denotes the letter in the word al-ḥamd, not a class of praises."
+        },
+        {
+          "language": "id",
+          "old": "huruf dāl di antara pujian-pujian",
+          "new": "huruf dāl dalam al-ḥamd",
+          "reason": "الدال من الحمد identifies dāl in al-ḥamd."
+        },
+        {
+          "language": "en",
+          "old": "God will grant him strength",
+          "new": "God Most High will grant him strength",
+          "reason": "رزقه الله تعالى requires Most High here."
+        },
+        {
+          "language": "en",
+          "old": "will be protected by God from harmful enemies",
+          "new": "will be protected by God Most High from harmful enemies",
+          "reason": "أمنه الله تعالى includes a separate تعالى."
+        },
+        {
+          "language": "id",
+          "old": "Allah akan memberinya kekuatan",
+          "new": "Allah Yang Mahatinggi akan memberinya kekuatan",
+          "reason": "رزقه الله تعالى includes تعالى."
+        },
+        {
+          "language": "id",
+          "old": "Allah akan melindunginya dari musuh-musuh",
+          "new": "Allah Yang Mahatinggi akan melindunginya dari musuh-musuh",
+          "reason": "أمنه الله تعالى includes تعالى."
+        },
+        {
+          "language": "id",
+          "old": "(Sebagian ulama menyebutkan)",
+          "new": "(Sebagian orang menyebutkan)",
+          "reason": "وذكر بعضهم does not identify the people as scholars."
+        },
+        {
+          "language": "en",
+          "old": "(Whoever writes it), erases it, and gives it to someone suffering from a persistent fever to drink will benefit greatly from it.",
+          "new": "(Whoever writes it), erases it, and gives it to someone suffering from a persistent fever to drink: it will benefit that sufferer greatly.",
+          "reason": "نفعه ذلك كثيراً refers to the fever sufferer, not the person writing and giving the drink."
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "verdict": "repair",
+      "coverage": "Checked numerical/letter forms; enemy, memory/chest/ear/scorpion claims; four alifs and all cosmological even/odd counts, senses, directions, humors, planets, abodes; two-week fast and corrupt qualification; two rakahs, one Kursi and 100 Ikhlas, Jupiter hour/sunrise, lunar/ascendant conditions, Thursday incense, shop/box; all three تعالى and malformed prophetic blessing; 4x4 letter grid retained.",
+      "uncertainties": [
+        "Canonical ويَحْمِيهِ مِنَ الدَّارِ is obscure; no silently reconstructed instruction.",
+        "Canonical كَلَوْتٍ وَكَلَوْتٍ ... is corrupt.",
+        "Canonical لِأَنَّ كُلَّ فِيهَا لَيْلًا إِلَّا الْجُزْءَ وَحْدَهُ is corrupt and currently omitted.",
+        "Source calls six directions eight boundaries and gives inconsistent pair totals; preserve source counts rather than silently correcting."
+      ],
+      "patches": [
+        {
+          "language": "en",
+          "old": "protects him by God's permission",
+          "new": "is a means by which God Most High protects him",
+          "reason": "أمنه الله تعالى names God Most High as protector; permission is added and تعالى omitted."
+        },
+        {
+          "language": "id",
+          "old": "akan menjadi sebab Allah melindunginya",
+          "new": "akan menjadi sebab Allah Yang Mahatinggi melindunginya",
+          "reason": "أمنه الله تعالى includes تعالى."
+        },
+        {
+          "language": "en",
+          "old": "it protects him from [UNCLEAR: al-dār]",
+          "new": "[UNCLEAR: the clause involving protection/heating and the house is obscure]",
+          "reason": "ويحميه من الدار is not adequately handled by pretending only a transliterated noun is unclear."
+        },
+        {
+          "language": "id",
+          "old": "ia melindunginya dari [UNCLEAR: al-dār]",
+          "new": "[UNCLEAR: klausa tentang perlindungan/pemanasan dan rumah tidak jelas]",
+          "reason": "ويحميه من الدار requires descriptive Indonesian uncertainty, not only a transliterated al-dār."
+        },
+        {
+          "language": "en",
+          "old": "The sixteen is composed of fourteen pairs: the pair of the heavens and earths, namely the seven heavens and the seven earths;",
+          "new": "Within sixteen is the even number fourteen, namely the seven heavens and the seven earths;",
+          "reason": "يتألف الستة عشر شفعة الأربعة عشر وهي السماوات السبع والأرضون السبع means the even number fourteen, not fourteen pairs (=28)."
+        },
+        {
+          "language": "id",
+          "old": "Enam belas itu tersusun dari empat belas pasangan: pasangan langit dan bumi, yaitu tujuh langit dan tujuh bumi;",
+          "new": "Di dalam enam belas terdapat bilangan genap empat belas, yaitu tujuh langit dan tujuh bumi;",
+          "reason": "شفعة الأربعة عشر means even fourteen, not fourteen pairs."
+        },
+        {
+          "language": "en",
+          "old": "peace and blessings be upon him. These are seven pairs.",
+          "new": "peace be upon him [UNCLEAR: the blessing formula is incomplete in the source]. These are seven pairs.",
+          "reason": "Canonical عَلَيْهِ وَسَلَّمَ lacks the beginning of the blessing formula; do not restore unprinted صلى الله."
+        },
+        {
+          "language": "id",
+          "old": "semoga selawat dan salam Allah tercurah kepadanya. Semuanya menjadi tujuh pasangan.",
+          "new": "semoga salam tercurah kepadanya [UNCLEAR: rumusan selawat dalam sumber tidak lengkap]. Semuanya menjadi tujuh pasangan.",
+          "reason": "عليه وسلم is incomplete; do not supply an unprinted blessing clause."
+        },
+        {
+          "language": "en",
+          "old": "[UNCLEAR: Each pair receives an odd and an odd, and each odd receives a pair.]",
+          "new": "[UNCLEAR: the wording about what each even number receives is corrupt]",
+          "reason": "وكل شفع يتلقى كلوت وكلوت ويتلقى كل شفع is corrupt; existing marker asserts a guessed odd/even relation."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: Setiap pasangan menerima satu ganjil dan satu ganjil, dan setiap ganjil menerima satu pasangan.]",
+          "new": "[UNCLEAR: redaksi tentang apa yang diterima setiap bilangan genap rusak]",
+          "reason": "كلوت وكلوت ... does not support a definite odd/even pairing explanation."
+        },
+        {
+          "language": "en",
+          "old": "after a fast of two weeks, with the condition",
+          "new": "after a fast of two weeks, [UNCLEAR: the following nighttime/exception clause is corrupt], with the condition",
+          "reason": "لأن كل فيها ليلا إلا الجزء وحده is present but omitted; mark its corruption rather than suppressing it."
+        },
+        {
+          "language": "id",
+          "old": "setelah berpuasa selama dua pekan, dengan syarat",
+          "new": "setelah berpuasa selama dua pekan, [UNCLEAR: klausa berikut tentang malam dan pengecualian rusak], dengan syarat",
+          "reason": "لأن كل فيها ليلا إلا الجزء وحده must not disappear."
+        },
+        {
+          "language": "en",
+          "old": "The moon must be protected from Jupiter, the Sun, and the ascendant of Gemini.",
+          "new": "The moon must be protected from Jupiter and the Sun, and the ascendant must be Gemini.",
+          "reason": "والقمر محفوظ من المشتري والشمس والطالع الجوزاء makes Gemini the ascendant, not something from which the moon is protected."
+        },
+        {
+          "language": "id",
+          "old": "Bulan harus terlindung dari Musytari, Matahari, dan ascendant Gemini.",
+          "new": "Bulan harus terlindung dari Musytari dan Matahari, dan ascendant harus Gemini.",
+          "reason": "والطالع الجوزاء is a separate ascendant condition."
+        },
+        {
+          "language": "en",
+          "old": "| dāl | yad | yah | alif |",
+          "new": "| dāl | yā-dāl | yā-hāʾ | alif |",
+          "reason": "Source grid first row د | يد | يه | ا has two-letter cells yā-dāl and yā-hāʾ; yad/yah obscure letter identity and read as words rather than preserving cells."
+        },
+        {
+          "language": "id",
+          "old": "| dāl | yad | yah | alif |",
+          "new": "| dāl | yā-dāl | yā-hāʾ | alif |",
+          "reason": "Source grid first row د | يد | يه | ا has two-letter cells yā-dāl and yā-hāʾ; yad/yah obscure letter identity and read as words rather than preserving cells."
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "verdict": "repair",
+      "coverage": "Checked blessing/thief protection and all numerical/Name claims; full invocation and each divine Name; exact dotted/undotted lists and anomalous counts; dot fortune classifications; secrecy/unbelief qualification; Chapter Two, lunar alif and anger, devotion/purity instructions; 3x4 displayed letter table including separator retained. No prophetic honorific on this page.",
+      "uncertainties": [
+        "Source says 28 letters yet 15 dotted+14 undotted and displays 13 dotted; preserved source counts and literal lists.",
+        "Final anger qualification is already explicitly marked unclear in both targets."
+      ],
+      "patches": [
+        {
+          "language": "en",
+          "old": "by God's help",
+          "new": "by the help of God Most High",
+          "reason": "بعون الله تعالى includes تعالى."
+        },
+        {
+          "language": "en",
+          "old": "knowledge of God's Greatest, Grandest Name",
+          "new": "knowledge of God's Greatest, Great, Greatest Name",
+          "reason": "اسم الله الأعظم الكبير الأكبر has three successive qualifiers, not two; preserve even the repetition."
+        },
+        {
+          "language": "en",
+          "old": "in His Mighty Book, saying:",
+          "new": "in His Mighty Book, with the words of Him, Most High:",
+          "reason": "بقوله تعالى is separate from ذكرهما الله تعالى; both occurrences require representation."
+        },
+        {
+          "language": "id",
+          "old": "dalam Kitab-Nya yang mulia dengan firman-Nya:",
+          "new": "dalam Kitab-Nya yang mulia dengan firman-Nya, Yang Mahatinggi:",
+          "reason": "بقوله تعالى repeats تعالى independently of ذكرهما الله تعالى."
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "verdict": "repair",
+      "coverage": "Checked entire alif distress operation, 111 writing/invocation counts, four temperaments, exact expanded letter list and inconsistent totals, complete vengeance invocation including 652, all divine Names, first-mansion designation and love instruction/closing cut-off invocation. Two تعالى occurrences and source anomalies checked; no diagram.",
+      "uncertainties": [
+        "Source list/count mismatches are retained and already marked.",
+        "إلا ما كنت عدتي is readable as an adjuration to be the speaker’s equipment/resource; do not hide that readable clause.",
+        "روحانية هذا الخيار الطاغي... has an obscure relationship between the spiritual entity and described tyrant; do not repair to remembered text."
+      ],
+      "patches": [
+        {
+          "language": "id",
+          "old": "sebuah nama dari Nama-nama Allah,",
+          "new": "sebuah nama dari Nama-nama Allah Yang Mahatinggi,",
+          "reason": "اسمًا من أسماء الله تعالى includes تعالى."
+        },
+        {
+          "language": "id",
+          "old": "Dari Nama-nama Allah keluarlah",
+          "new": "Dari Nama-nama Allah Yang Mahatinggi keluarlah",
+          "reason": "من أسماء الله تعالى includes a second تعالى."
+        },
+        {
+          "language": "en",
+          "old": "—[UNCLEAR: source wording]—I have empowered you over 652",
+          "new": "—be my resource, for I have empowered you over 652",
+          "reason": "إلا ما كنت عدتي فإني سلطتك على ٦٥٢ retains the readable demand be my resource/equipment; do not replace with opaque uncertainty."
+        },
+        {
+          "language": "id",
+          "old": "—[UNCLEAR: redaksi sumber]—sungguh aku telah membuatmu berkuasa atas 652",
+          "new": "—jadilah bekalku, karena sungguh aku telah membuatmu berkuasa atas 652",
+          "reason": "إلا ما كنت عدتي فإني سلطتك على ٦٥٢ has a readable resource/equipment clause, not wholly unreadable."
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "verdict": "repair",
+      "coverage": "Checked full upper/lower servant adjuration, only-knowers exception, analogical good/corrupt operations; literal alif invocation including anomalous earth ending; second mansion bāʾ, 19 degrees/April4/Sun attributes and alchemical work; third mansion jīm and heat/moisture/cold, travel/nobles/scribes. No diagram; two تعالى occurrences checked.",
+      "uncertainties": [
+        "Invocation ends ووارثه والأرض without a coherent connection for earth; preserve the words and explicitly flag the broken ending."
+      ],
+      "patches": [
+        {
+          "language": "en",
+          "old": "by God's command",
+          "new": "by the command of God Most High",
+          "reason": "بأمر الله تعالى includes تعالى."
+        },
+        {
+          "language": "id",
+          "old": "orang-orang yang mengenal Allah,",
+          "new": "orang-orang yang mengenal Allah Yang Mahatinggi,",
+          "reason": "العارفون بالله تعالى includes تعالى."
+        },
+        {
+          "language": "id",
+          "old": "dengan perintah Allah—",
+          "new": "dengan perintah Allah Yang Mahatinggi—",
+          "reason": "بأمر الله تعالى includes the second تعالى."
+        },
+        {
+          "language": "en",
+          "old": "its Inheritor, and the earth.”",
+          "new": "its Inheritor, and the earth [UNCLEAR: the connection of the final words is incomplete].”",
+          "reason": "ووارثه والأرض has an incomplete syntactic ending; do not silently restore a familiar invocation."
+        },
+        {
+          "language": "id",
+          "old": "Pewarisnya, dan bumi.”",
+          "new": "Pewarisnya, dan bumi [UNCLEAR: hubungan kata-kata terakhir tidak lengkap].”",
+          "reason": "ووارثه والأرض is not to be normalized to a remembered formula."
+        },
+        {
+          "language": "en",
+          "old": "\n\n[CONTINUES ON NEXT PAGE]",
+          "new": "",
+          "reason": "Source ends ولذلك; there is no additional continuation notice."
+        },
+        {
+          "language": "id",
+          "old": "\n\n[BERSAMBUNG KE HALAMAN BERIKUTNYA]",
+          "new": "",
+          "reason": "Source ends ولذلك with no added notice."
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "verdict": "repair",
+      "coverage": "Checked conjunction/gathering continuation and Abu Jaʿfar al-Barmaki/al-Rashid account, wafq and royal acceptance; every mansion4–17, exact letter assignments and beneficial/harmful/mixed attributes, healing and retreat qualifications, sea-only restriction, absolute prohibition at mansion14, good-only mansion16, and incomplete mansion17 ending. No diagram in canonical source; no تعالى or prophetic blessings.",
+      "uncertainties": [
+        "Final ينزل is only the incomplete verb descends; its object is on the next page, not to be supplied here."
+      ],
+      "patches": [
+        {
+          "language": "en",
+          "old": "— 13 —",
+          "new": "- 13 -",
+          "reason": "Preserve the exact source folio dash style; the printed Arabic number is content."
+        },
+        {
+          "language": "id",
+          "old": "— 13 —",
+          "new": "- 13 -",
+          "reason": "Preserve the exact source folio dash style; the printed Arabic number is content."
+        },
+        {
+          "language": "en",
+          "old": "a spiritual force descends from it …",
+          "new": "there descends",
+          "reason": "The final source says إذا نزل القمر بها ينزل, stopping before منها روحانية on p20. Remove the anticipated next-page object."
+        },
+        {
+          "language": "id",
+          "old": "turun darinya suatu kekuatan ruhani …",
+          "new": "turun",
+          "reason": "Source p19 ends ينزل and does not yet contain the object منها روحانية."
+        },
+        {
+          "language": "en",
+          "old": "\n\n[CONTINUES ON NEXT PAGE]",
+          "new": "",
+          "reason": "No such notice exists in the canonical Arabic; preserve the actual source ending instead."
+        },
+        {
+          "language": "id",
+          "old": "\n\n[BERSAMBUNG KE HALAMAN BERIKUTNYA]",
+          "new": "",
+          "reason": "No such notice exists in the canonical Arabic; preserve the actual source ending instead."
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "verdict": "repair",
+      "coverage": "Checked mansion17 continuation and complete mansions18–28, all letter assignments, three prohibitions/no-benefit/no-harm scopes, mixed/pure qualities and scholarly/devotional claims; four تعالى occurrences, angel-versus-human distinction, three human categories, confession verse, forty-day point/cycle account and final section heading. No diagram.",
+      "uncertainties": [
+        "هو الاسم القائم به is readable as the name subsisting in him, despite an obscure referent; preserve those words rather than suppress them behind a generic syntax marker."
+      ],
+      "patches": [
+        {
+          "language": "en",
+          "old": "— 14 —",
+          "new": "- 14 -",
+          "reason": "Preserve the exact source folio dash style; the printed Arabic number is content."
+        },
+        {
+          "language": "id",
+          "old": "— 14 —",
+          "new": "- 14 -",
+          "reason": "Preserve the exact source folio dash style; the printed Arabic number is content."
+        },
+        {
+          "language": "en",
+          "old": "His Names are ordered through them",
+          "new": "the Names of God Most High are ordered through them",
+          "reason": "وبها تصرف أسماء الله تعالى has its own تعالى; earlier Most High occurrences cannot substitute for it."
+        },
+        {
+          "language": "id",
+          "old": "Nama-nama-Nya diatur melaluinya",
+          "new": "Nama-nama Allah Yang Mahatinggi diatur melaluinya",
+          "reason": "أسماء الله تعالى is a separate divine honorific occurrence."
+        },
+        {
+          "language": "en",
+          "old": "—[UNCLEAR: the source's syntax here]—",
+          "new": "—the Name subsisting in him [UNCLEAR: the referent of the Name is obscure]—",
+          "reason": "هو الاسم القائم به is legible; retain the readable content and flag only its unclear referent."
+        },
+        {
+          "language": "id",
+          "old": "—[UNCLEAR: sintaks sumber di bagian ini]—",
+          "new": "—Nama yang berdiri padanya [UNCLEAR: rujukan Nama tersebut tidak jelas]—",
+          "reason": "هو الاسم القائم به must not be entirely omitted under a syntax marker."
+        },
+        {
+          "language": "en",
+          "old": "\n\n[CONTINUES ON NEXT PAGE]",
+          "new": "",
+          "reason": "No such notice exists in the canonical Arabic; preserve the actual source ending instead."
+        },
+        {
+          "language": "id",
+          "old": "\n\n[BERSAMBUNG KE HALAMAN BERIKUTNYA]",
+          "new": "",
+          "reason": "No such notice exists in the canonical Arabic; preserve the actual source ending instead."
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "verdict": "repair",
+      "coverage": "Checked twelve-sign/six-division declaration and entire explicit letter sequence; fixed/mutable affirmation/negation, proximity and lunar increase claims; two تعالى quotation occurrences; hot/moist/cold/dry letter lists preserving repeated thāʾ and missing seventh dry letter; four elements/humors and fever/cold claims; every Sunday hour1–10 including prohibitions; full 6x8 grid cell order/geometry.",
+      "uncertainties": [
+        "Final source group اه contains alif+hāʾ, not hāʾ alone; declared twelve-letter count conflicts with displayed thirteen letters.",
+        "Dry list has six letters after an implied seven; existing explicit marker retained.",
+        "Severe-cold/yellow-bile relationship is already marked unclear; no canonical formula restored."
+      ],
+      "patches": [
+        {
+          "language": "en",
+          "old": "lām, alif, lām, alif, hāʾ, alif, lām, alif, lām, alif, lām, hāʾ.",
+          "new": "lām, alif, lām, alif, hāʾ, alif, lām, alif, lām, alif, lām, alif, hāʾ [UNCLEAR: the source declares twelve letters but its final group alif-hāʾ makes thirteen].",
+          "reason": "هكذا ل ا ل ا ه ا ل ا ل ا ل اه explicitly includes the extra alif; do not normalize a familiar confession formula."
+        },
+        {
+          "language": "id",
+          "old": "lām, alif, lām, alif, hāʾ, alif, lām, alif, lām, alif, lām, hāʾ.",
+          "new": "lām, alif, lām, alif, hāʾ, alif, lām, alif, lām, alif, lām, alif, hāʾ [UNCLEAR: sumber menyebut dua belas huruf, tetapi kelompok akhir alif-hāʾ membuatnya tiga belas].",
+          "reason": "Final اه includes alif as well as hāʾ; retain source list/count conflict."
+        },
+        {
+          "language": "en",
+          "old": "and: “One who makes the angels messengers.”",
+          "new": "and as He, Most High, says: “One who makes the angels messengers.”",
+          "reason": "وقوله تعالى repeats تعالى in the second quotation."
+        },
+        {
+          "language": "id",
+          "old": "sebagaimana firman-Nya: “Yang menjadikan seorang khalifah di bumi,” dan: “Yang menjadikan para malaikat sebagai para utusan.”",
+          "new": "sebagaimana firman-Nya, Yang Mahatinggi: “Yang menjadikan seorang khalifah di bumi,” dan firman-Nya, Yang Mahatinggi: “Yang menjadikan para malaikat sebagai para utusan.”",
+          "reason": "لقوله تعالى ... وقوله تعالى contains two separate honorifics, both omitted."
+        },
+        {
+          "language": "en",
+          "old": "a heptagonal figure",
+          "new": "a sevenfold figure",
+          "reason": "مسبع specifies a sevenfold figure but does not establish a seven-sided polygon; avoid invented geometry."
+        },
+        {
+          "language": "id",
+          "old": "bentuk segi tujuh",
+          "new": "bentuk berunsur tujuh",
+          "reason": "مسبع does not require heptagonal geometry."
+        },
+        {
+          "language": "en",
+          "old": "\n\n[CONTINUES ON NEXT PAGE]",
+          "new": "",
+          "reason": "No such notice exists in the canonical Arabic; preserve the actual source ending instead."
+        },
+        {
+          "language": "id",
+          "old": "\n\n[BERSAMBUNG KE HALAMAN BERIKUTNYA]",
+          "new": "",
+          "reason": "No such notice exists in the canonical Arabic; preserve the actual source ending instead."
+        }
+      ]
+    },
+    {
+      "page": 22,
+      "verdict": "repair",
+      "coverage": "Checked opening Sunday hours11–12; complete Monday12, Tuesday12, Wednesday12 and Thursday1–6, with each planet, attributed activity, negatives and harmful purpose; Wednesday9 لا retained, Monday3 corrupt mark retained, unfinished Thursday6 travel-in ending checked. No divine/prophetic honorific or diagram.",
+      "uncertainties": [
+        "Monday3 [~] remains explicitly marked; كتب الكتاب والمحاكات can mean book-writing/imitations, but context is uncertain and should not be silently reconstructed as marriage contracts."
+      ],
+      "patches": [
+        {
+          "language": "en",
+          "old": "16",
+          "new": "— 16 —",
+          "reason": "Preserve the exact source folio dash style; the printed Arabic number is content."
+        },
+        {
+          "language": "id",
+          "old": "16",
+          "new": "— 16 —",
+          "reason": "Preserve the exact source folio dash style; the printed Arabic number is content."
+        },
+        {
+          "language": "en",
+          "old": "The sixth hour belongs to the Moon; it is suitable for travel\n\n[CONTINUES ON NEXT PAGE]",
+          "new": "The sixth hour belongs to the Moon; it is suitable for travel in",
+          "reason": "Source ends تصلح للسفر في: preserve the final in and do not append an invented notice."
+        },
+        {
+          "language": "id",
+          "old": "Jam keenam untuk Bulan; ia sesuai untuk bepergian\n\n[BERSAMBUNG KE HALAMAN BERIKUTNYA]",
+          "new": "Jam keenam untuk Bulan; ia sesuai untuk bepergian di",
+          "reason": "Source ends للسفر في with an incomplete prepositional phrase; preserve di, omit the invented notice."
+        }
+      ]
+    },
+    {
+      "page": 23,
+      "verdict": "repair",
+      "coverage": "Checked Thursday6–12 continuation without duplicating prior-page heading; full Friday and Saturday hours including bare planet-only hours and planetless Saturday12; corrupt Saturday1/next commentary kept explicit; seeker/mother/object names and element timing conditions; five addition and hāʾ-hāʾ allocation, colophon; full 4-column/three-content-row zodiac/element table with source omissions preserved. No divine or prophetic honorific.",
+      "uncertainties": [
+        "Saturday1 source is corrupt and already descriptively marked.",
+        "Saturday12 genuinely names no planet: do not infer Venus from a sequence.",
+        "هـ هـ in the lunar-sign rule is retained as source notation, not silently recast as a different arithmetic rule."
+      ],
+      "patches": [
+        {
+          "language": "en",
+          "old": "17",
+          "new": "— 17 —",
+          "reason": "Preserve the exact source folio dash style; the printed Arabic number is content."
+        },
+        {
+          "language": "id",
+          "old": "17",
+          "new": "— 17 —",
+          "reason": "Preserve the exact source folio dash style; the printed Arabic number is content."
+        },
+        {
+          "language": "en",
+          "old": "The sixth hour belongs to the Moon; it is suitable for travel on land and sea and for every good work you wish.",
+          "new": "on land and sea, and it is suitable for every good work you wish.",
+          "reason": "Source starts في البر والبحر وتصلح, continuing p22; the sixth-hour/Moon/travel introduction was imported from p22."
+        },
+        {
+          "language": "id",
+          "old": "Jam keenam untuk Bulan; ia sesuai untuk bepergian di darat dan laut serta untuk setiap amal kebaikan yang engkau kehendaki.",
+          "new": "di darat dan laut, dan ia sesuai untuk setiap amal kebaikan yang engkau kehendaki.",
+          "reason": "The opening repeats prior-page prose absent from p23; source begins في البر والبحر وتصلح."
+        },
+        {
+          "language": "en",
+          "old": "deepening eyes and wells",
+          "new": "causing springs and wells to sink away",
+          "reason": "تغوير العيون والآبار concerns making water disappear from springs/wells; العيون here is springs, not human eyes."
+        },
+        {
+          "language": "id",
+          "old": "memperdalam mata dan sumur",
+          "new": "menyurutkan mata air dan sumur",
+          "reason": "تغوير العيون والآبار means causing springs/wells to recede or dry up; mata is the wrong sense of العيون."
+        }
+      ]
+    },
+    {
+      "page": 24,
+      "verdict": "repair",
+      "coverage": "Checked 33 reduction/remainder instruction, exact angel-letter order including repeated zāy/ḥāʾ and absent letters, every listed formula and duplicated Ahmūsh, shared-formula corrupt clause, complete glorification and Muhammad/family/companions blessing; Chapter3 month/mansion method, Roman thirds/halves and Coptic elapsed days, seven-day al-Sharatayn→al-Dhiraʿ example, final partial heading. No displayed circle data to invent.",
+      "uncertainties": [
+        "مَهْطَمَلَكِ الرَّاءِ merges the hāʾ formula with the following rāʾ angel label: cannot confidently allocate the whole string as a formula.",
+        "Shared iḍmār clause after ḍād/ṭāʾ remains corrupt and already explicitly marked; do not fabricate a formula.",
+        "Final (القول is an incomplete heading and must remain represented."
+      ],
+      "patches": [
+        {
+          "language": "en",
+          "old": "18",
+          "new": "-- 18 --",
+          "reason": "Preserve the exact source folio dash style; the printed Arabic number is content."
+        },
+        {
+          "language": "id",
+          "old": "18",
+          "new": "-- 18 --",
+          "reason": "Preserve the exact source folio dash style; the printed Arabic number is content."
+        },
+        {
+          "language": "en",
+          "old": "Glorified and God Most High, knows best what is correct.",
+          "new": "God, glorified and Most High, knows best what is correct.",
+          "reason": "والله سبحانه وتعالى أعلم بالصواب has God as subject and both glorification/Most High attached to Him; current English is malformed."
+        },
+        {
+          "language": "en",
+          "old": "its iḍmār consists of these names:",
+          "new": "its iḍmār consists of these letters:",
+          "reason": "وإضماره هذه الحروف explicitly says letters, not names."
+        },
+        {
+          "language": "id",
+          "old": "iḍmār-nya terdiri dari nama-nama ini:",
+          "new": "iḍmār-nya terdiri dari huruf-huruf ini:",
+          "reason": "هذه الحروف means these letters."
+        },
+        {
+          "language": "en",
+          "old": "The angel of hāʾ: its iḍmār is Maḥṭamalak. The angel of rāʾ:",
+          "new": "The angel of hāʾ: its iḍmār is [UNCLEAR: the formula runs into the following angel label in the source]. The angel of rāʾ:",
+          "reason": "إضماره مهطملك الراء is fused: current Maḥṭamalak absorbs the next ملك as formula and invents the division."
+        },
+        {
+          "language": "id",
+          "old": "Malaikat hāʾ: iḍmār-nya adalah Maḥṭamalak. Malaikat rāʾ:",
+          "new": "Malaikat hāʾ: iḍmār-nya adalah [UNCLEAR: rumusan menyatu dengan sebutan malaikat berikutnya dalam sumber]. Malaikat rāʾ:",
+          "reason": "مهطملك الراء is not a safely segmented Maḥṭamalak formula."
+        },
+        {
+          "language": "en",
+          "old": "Talhaṭayāʾīl",
+          "new": "Ṭalhaṭayāʾīl",
+          "reason": "طَلْهَطَيَائِيل begins with ṭāʾ. Formula consonants are content, not stylistic diacritics."
+        },
+        {
+          "language": "en",
+          "old": "Naftā",
+          "new": "Nafṭā",
+          "reason": "نَفْطَا contains ṭāʾ, not tāʾ. Formula consonants are content, not stylistic diacritics."
+        },
+        {
+          "language": "en",
+          "old": "Salīsāḥ",
+          "new": "Salīsaḥ",
+          "reason": "سَلِيسَح has short a after sīn, not a long alif. Formula consonants are content, not stylistic diacritics."
+        },
+        {
+          "language": "en",
+          "old": "Ḥafīẓ",
+          "new": "Hafīẓ",
+          "reason": "هَفِيظ begins with hāʾ, not ḥāʾ. Formula consonants are content, not stylistic diacritics."
+        },
+        {
+          "language": "en",
+          "old": "Maḥṭ.",
+          "new": "Mahṭ.",
+          "reason": "مَهْط has hāʾ, not ḥāʾ. Formula consonants are content, not stylistic diacritics."
+        },
+        {
+          "language": "en",
+          "old": "Ḥafīṭ",
+          "new": "Hafīṭ",
+          "reason": "هَفِيط begins with hāʾ, not ḥāʾ. Formula consonants are content, not stylistic diacritics."
+        },
+        {
+          "language": "en",
+          "old": "Maḥfaṭ",
+          "new": "Mahfaṭ",
+          "reason": "مَهْفَط has hāʾ, not ḥāʾ. Formula consonants are content, not stylistic diacritics."
+        },
+        {
+          "language": "en",
+          "old": "Hahyahal",
+          "new": "Hahyaḥal",
+          "reason": "هَهْيَحَل contains ḥāʾ after yāʾ. Formula consonants are content, not stylistic diacritics."
+        },
+        {
+          "language": "id",
+          "old": "Talhaṭayāʾīl",
+          "new": "Ṭalhaṭayāʾīl",
+          "reason": "طَلْهَطَيَائِيل begins with ṭāʾ. Formula consonants are content, not stylistic diacritics."
+        },
+        {
+          "language": "id",
+          "old": "Naftā",
+          "new": "Nafṭā",
+          "reason": "نَفْطَا contains ṭāʾ, not tāʾ. Formula consonants are content, not stylistic diacritics."
+        },
+        {
+          "language": "id",
+          "old": "Salīsāḥ",
+          "new": "Salīsaḥ",
+          "reason": "سَلِيسَح has short a after sīn, not a long alif. Formula consonants are content, not stylistic diacritics."
+        },
+        {
+          "language": "id",
+          "old": "Ḥafīẓ",
+          "new": "Hafīẓ",
+          "reason": "هَفِيظ begins with hāʾ, not ḥāʾ. Formula consonants are content, not stylistic diacritics."
+        },
+        {
+          "language": "id",
+          "old": "Maḥṭ.",
+          "new": "Mahṭ.",
+          "reason": "مَهْط has hāʾ, not ḥāʾ. Formula consonants are content, not stylistic diacritics."
+        },
+        {
+          "language": "id",
+          "old": "Ḥafīṭ",
+          "new": "Hafīṭ",
+          "reason": "هَفِيط begins with hāʾ, not ḥāʾ. Formula consonants are content, not stylistic diacritics."
+        },
+        {
+          "language": "id",
+          "old": "Maḥfaṭ",
+          "new": "Mahfaṭ",
+          "reason": "مَهْفَط has hāʾ, not ḥāʾ. Formula consonants are content, not stylistic diacritics."
+        },
+        {
+          "language": "id",
+          "old": "Hahyahal",
+          "new": "Hahyaḥal",
+          "reason": "هَهْيَحَل contains ḥāʾ after yāʾ. Formula consonants are content, not stylistic diacritics."
+        },
+        {
+          "language": "en",
+          "old": "[CONTINUES ON NEXT PAGE]",
+          "new": "(The discussion",
+          "reason": "Source ends (القول, a partial heading omitted and replaced by an invented notice."
+        },
+        {
+          "language": "id",
+          "old": "[BERSAMBUNG KE HALAMAN BERIKUTNYA]",
+          "new": "(Pembahasan",
+          "reason": "Source ends (القول, an incomplete heading that must be represented."
+        }
+      ]
+    }
+  ]
+}

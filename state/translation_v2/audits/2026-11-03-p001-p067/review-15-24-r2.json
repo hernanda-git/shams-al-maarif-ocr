@@ -1,0 +1,263 @@
+{
+  "reviewer_id": "43ce355a-0059-40b9-a50a-40703a3803bf",
+  "reviewer_kind": "independent_model",
+  "pages": [
+    {
+      "page": 15,
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_015.txt",
+          "sha256": "e717d4d4b1f1d27eddff2ecdd192b97159be6438e5dbfb037f97660907be2f43"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_015.txt",
+          "sha256": "b15822c8ab0ccc5fb95660aeda8cc7ebe2ceb2d13dc95b1bf6342aa1833358e2"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_015.txt",
+          "sha256": "7525c95d09bb6935818255fb479e1cdfa13f1169a70e14453ecd45d2b2109104"
+        }
+      },
+      "verdict": "rework",
+      "coverage": "Complete folio 9; numerical form/enemy protection; letter-form drinking, chest/ear, Scorpio/Mars/copper/house/scorpion clauses; four alifs and secrets; all even and odd enumerations, contradictory eight boundaries and seven pairs preserved, incomplete Muḥammad honorific disclosed; repeated even-number clause and 1,1,2,3,6 example; Indian pen, two-week fast/nighttime exception, purity/remembrance of God Most High; tin plate/qiblah/two cycles/recitations 1 and 100/Jupiter/sunrise/Gemini/Thursday fumigation; wearer/shop/box/provision formula; all 16 cells of 4x4 letter-number grid. EN-ID parity and all three God Most High occurrences checked.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the wording about what each even number receives is corrupt]",
+          "new": "Every even number receives “klwt” and “klwt”, and each even number receives [UNCLEAR: the repeated term klwt and the completion of the clause are obscure].",
+          "reason": "Source وَكُلُّ شَفْعٍ يَتَلَقَّى كَلَوْتٍ وَكَلَوْتٍ وَيَتَلَقَّى كُلُّ شَفْعٍ has readable repeated every-even-number/receives wording and two occurrences of the odd token كلوت. Preserve these rather than deleting the entire clause; klwt only transliterates its consonants, without inventing an interpretation."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: redaksi tentang apa yang diterima setiap bilangan genap rusak]",
+          "new": "Setiap bilangan genap menerima “klwt” dan “klwt”, dan setiap bilangan genap menerima [UNCLEAR: istilah klwt yang berulang dan kelanjutan klausa ini tidak jelas].",
+          "reason": "وَكُلُّ شَفْعٍ يَتَلَقَّى كَلَوْتٍ وَكَلَوْتٍ وَيَتَلَقَّى كُلُّ شَفْعٍ retains readable repeated subject/verb and two identical odd tokens; preserve them with the precise ambiguity disclosed, in parity with EN."
+        },
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the following nighttime/exception clause is corrupt]",
+          "new": "because each is in it at night, except the part alone [UNCLEAR: the referents and syntax of this clause are obscure]",
+          "reason": "لِأَنَّ كُلَّ فِيهَا لَيْلًا إِلَّا الْجُزْءَ وَحْدَهُ is syntactically obscure but visibly includes because, each, in it, at night, and the explicit restriction except the part alone. The marker currently removes all of these readable fragments instead of preserving the odd source literally."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: klausa berikut tentang malam dan pengecualian rusak]",
+          "new": "karena masing-masing ada di dalamnya pada malam hari, kecuali bagian itu saja [UNCLEAR: rujukan dan susunan klausa ini tidak jelas]",
+          "reason": "لِأَنَّ كُلَّ فِيهَا لَيْلًا إِلَّا الْجُزْءَ وَحْدَهُ includes the readable causal/nighttime/exception words, especially إلا الجزء وحده. Preserve them literally without supplying a referent or restoring a remembered rule."
+        }
+      ],
+      "uncertainties": [
+        "The house/protection connection and incomplete blessing formula are accurately disclosed. Numerical/list inconsistencies remain literal. The two broad omitted-clause markers require the minimal repairs above; their referents/odd token remain uncertain, not normalized."
+      ]
+    },
+    {
+      "page": 16,
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_016.txt",
+          "sha256": "5b92e75e910b6da7ded9e1260d934badcf92961f572ddd60399d3dbf2ebe7c70"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_016.txt",
+          "sha256": "e11a74d95e44a1e8b30beba191f9e6a5253d47c7436df95c2e180a3b6bc079e5"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_016.txt",
+          "sha256": "759b3f06ab039729ebf38121810942eef018e4a8308e8f02a24b04c0e7349412"
+        }
+      },
+      "verdict": "approved",
+      "coverage": "Complete folio 10; blessing and Thursday gazelle parchment/sewn seam protection; number/letter/divine-name exposition with every Most High; complete ten-letter series and 19 invocation names; 28 mansions, 14 above/14 below, fifteenth rising, 15 dotted/14 undotted assertion and both exact lists; one/two/three-dot gradation including source tāʾ; divine circle, round moon/sun, secrecy; Chapter Two and success prayer; both Most High attributions around orbit quotation; alif anger/actors/restraint/devotion/purity; And say; all 12 cells and separator in 3x4 table. Both complete targets checked against source.",
+      "findings": [],
+      "uncertainties": [
+        "Source count/list inconsistencies and shīn/tāʾ example are preserved without canonical correction."
+      ]
+    },
+    {
+      "page": 17,
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_017.txt",
+          "sha256": "79457112495fe06f743b972706f90ca0c1a785c2fa10a41d54664ac63c782287"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_017.txt",
+          "sha256": "bbae4a1f5ecab533a0054d98c7c3dfd328b4a1902ac867894a3a239e15ef5022"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_017.txt",
+          "sha256": "61b1914e329c6aa0e6077e7d78f647ffee370d8d84b1d86d73b42978a9a4c9b2"
+        }
+      },
+      "verdict": "approved",
+      "coverage": "Complete folio 11; continuation on pre-period distress, alif/units/fire/red one/eastern rising; two source-symbol uncertainties; 111 inscription and 111 invocations, copper/iron/pottery and verb gap, burial/fumigation; four natures and letters of name/Mars/Moon, mouth/subjugation; full 14-letter assertion and actual sequence, wāw-yāʾ-nūn, qāf, four-hot/three-listed inconsistency and full dry list; full Samsāʾīl adjuration, 652 and all actions/actors/divine epithets; first mansion al-Sharṭayn/alif/wafq/Mars/red servant; alif analogy, love/kābāynāh/fortunate hour/name mixing and unfinished second adjuration. Both God Most High occurrences and EN-ID parity checked.",
+      "findings": [],
+      "uncertainties": [
+        "Source symbols, pottery verb, list/classification and count inconsistencies are disclosed; all readable lists remain represented."
+      ]
+    },
+    {
+      "page": 19,
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_019.txt",
+          "sha256": "d9ef8bc345be03591953df1a81b61c2193e281201f1b6e6f40025d0a9e8bec5c"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_019.txt",
+          "sha256": "cf2627d4879b657f317a77c39a8b008f70b8a0d4f5e473ba07d92ae177d89607"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_019.txt",
+          "sha256": "f3391947e4bf1f9027839020e31b4354fcb067a976ae2848d7d7cddfa37e5829"
+        }
+      },
+      "verdict": "approved",
+      "coverage": "Complete folio 13; conjunction/wafq/exaltation/carrying, Abū Jaʿfar al-Barmakī and al-Rashīd/kings/no opposition/God knows best; all mansion headings 4–17 in exact sequence, mansion names and assigned dāl/hāʾ/wāw/zāy/ḥāʾ/ṭāʾ/yāʾ/kāf/lām/mīm/nūn/sīn/ʿayn/fāʾ; each descending force, moral mixture and permitted/prohibited work; literal illnesses assisted, tentative opening of kingdom, sea-only exception, absolute fourteenth prohibition, sixteenth only-good assertion and unfinished seventeenth. Complete EN and ID checked; no table or additional source honorific.",
+      "findings": [],
+      "uncertainties": [
+        "Odd wording about illnesses being assisted and only-good movement is retained literally."
+      ]
+    },
+    {
+      "page": 20,
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_020.txt",
+          "sha256": "056b6d2a4624f918cec2e9de02230b199dc110b5bda6210c49053ff4881d0f3b"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_020.txt",
+          "sha256": "dbdbc0d2670b8dd8c85c765b4bba54ce644b53b1ab39e05ff12bcb8f3b24efc6"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_020.txt",
+          "sha256": "1a2bd0a7a66a8445aef9f503f7b1d9e174c44972d7cf7c4e94412ea06a63340c"
+        }
+      },
+      "verdict": "approved",
+      "coverage": "Complete folio 14; continuation of seventeenth with non-assistance yet good worldly work; all headings 18–28, names and ṣād/qāf/rāʾ/shīn/tāʾ/thāʾ/ḥāʾ/dhāl/ḍād/ẓāʾ/ghayn; every mixed/pure/fortunate qualifier and activity/prohibition including neutral 21st and 22nd; letters as divine speech/name/address, all four God Most High occurrences; mercy/punishment angels and human-relative moral classification, obscure Name retained with disclosure; complete non-normalized sins quotation; cycles/point/zodiac/world/forty days/last letters/fortune and misfortune/children of Adam; final Section heading. Full EN-ID parity checked.",
+      "findings": [],
+      "uncertainties": [
+        "The Name subsisting in the human being is obscure and accurately disclosed; source moral and cosmic claims remain literal."
+      ]
+    },
+    {
+      "page": 21,
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_021.txt",
+          "sha256": "fda02ba408485948ae47a8ab8d395a5e61ffb52e81e8e41df820cf576e7b09aa"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_021.txt",
+          "sha256": "4dc5353454b02eb6010ca8247aed7f22515a80458a1bd69b47fac11045242238"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_021.txt",
+          "sha256": "fcbbd181a66acbc32f94c74e5c3a9c017876e37baeb23d3e0e52232094b25bcd"
+        }
+      },
+      "verdict": "approved",
+      "coverage": "Complete folio 15 and first Section; twelve signs/six divisions, full displayed 13-letter series versus twelve assertion; fixed/mutable, affirmation/negation/existence, moon proximity/human implantation/growth/darkness and section sign; seven planets and both Most High quote attributions, both short quotations; four exact elemental letter lists including duplicated thāʾ and six dry letters; elements/humors and heat/dryness/cold/moisture pairings; fever/severe cold, al-ʿAdl/al-Shadīd/sevenfold/wafq literal yellow-bile claim; full fortunate-time heading and Sunday hours 1–10, each planet/action/prohibition including speech and no buying; every cell and row of 6x8 grid. Both complete targets checked.",
+      "findings": [],
+      "uncertainties": [
+        "Twelve-versus-thirteen sequence and seven-versus-six dry-letter discrepancy disclosed; duplicate thāʾ and burning yellow bile retained."
+      ]
+    },
+    {
+      "page": 22,
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_022.txt",
+          "sha256": "ad32b5c2e17d089577358fb7b1e2bed3fa87953cc1a26c0323a7a72ae2105a65"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_022.txt",
+          "sha256": "2aaf7040e0ea474290a8932978300bc15637ed7a360c5e115c18d8c7bbb74f7f"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_022.txt",
+          "sha256": "7dc14bd96f2da0a789d833d282d79c50caa5c4d020cfeab40d4606f3404dd89c"
+        }
+      },
+      "verdict": "approved",
+      "coverage": "Complete folio 16; Sunday continuation and hours 11–12 with harmful-only exception; Monday all 12 planets/operations and explicit source mark plus readable book/imitations; Tuesday all 12 planets and every operation, absolute prohibitions, blood-casting, women-binding/travel and marriage hindrance; Wednesday all 12 planets/operations, children crying/protective slips/eye/glance, explicit ninth-hour negation and literal whatever-was phrase; Thursday hours 1–6 and terminal in, including do-not-go-out/do-not-travel, punishments and binding women/men. Full clause/negation/actor EN-ID comparison; no source honorific/table omitted.",
+      "findings": [],
+      "uncertainties": [
+        "Monday third-hour source mark accurately disclosed; readable surrounding book/imitations retained; Wednesday ninth-hour negation preserved."
+      ]
+    },
+    {
+      "page": 23,
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_023.txt",
+          "sha256": "105202b6bd3a52713becee48ec08bbf5e7f41f30237e5af435f20ddeab9d8f49"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_023.txt",
+          "sha256": "e1a0a7b28a7a061d4f60a67c4b702463f6264cc97cd30c7b601df5b4b39b35fb"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_023.txt",
+          "sha256": "6793f2db30af56d03d6876df222c65f3e363d4562055543bac16b27a82bc4826"
+        }
+      },
+      "verdict": "approved",
+      "coverage": "Complete folio 17; Thursday continuation and hours 7–12 preserving duplicate Jupiter and Sun phrase; Friday all 12 hour assignments/operations and empty tenth/eleventh; Saturday all 12 hours, corrupt first-hour phrase disclosed, separate fortunate beginning-of-month sentence retained, unnamed final planet not invented; seeker/mother/object letter separation and third arrangement, elemental conditions/delay/fortune; Moon-sign rule elapsed Arabic month plus five and hāʾ hāʾ notation without converting into invented numerals; both God-knows-best; imprint (2, title, First); exact two zodiac rows and element row with four columns and alignment markers. Both targets complete.",
+      "findings": [],
+      "uncertainties": [
+        "Saturday first-hour corrupt phrase and incomplete whoever-knows phrase disclosed; absent twelfth-hour planet not supplied; hāʾ hāʾ and anomalous Thursday planetary wording retained."
+      ]
+    },
+    {
+      "page": 24,
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_024.txt",
+          "sha256": "be8b6e4ef84984f2b925032d17824194205460398bb3126d02b8e0da0464bf83"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_024.txt",
+          "sha256": "1d1196f8e1172d8accdb75f39a2420fabe9947b6002413edae95d1b0d70fdc8a"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_024.txt",
+          "sha256": "e1d9a00bd22ef2a3dfe5f90ce9bd661b8425c5e0cadd7be70e903297483da661"
+        }
+      },
+      "verdict": "rework",
+      "coverage": "Complete folio 18; iḍmār heading/necessity, seeker/sought/day, 33/remainder/last-letter/no-delay instructions; every angel and formula token from alif through ghayn, including duplicate zāy and ḥāʾ, absent mīm/wāw not supplied, repeated Ahmūsh twice; hāʾ fused formula and shared ḍād/ṭāʾ formula coverage reviewed separately; complete glorified-and-Most-High and blessing on our master Muḥammad/family/companions/peace; Chapter Three/28 celestial mansions; success prayer; last Arabic day/sun-moon, Roman thirds/halves, Arabic and Coptic elapsed-day procedures; seven-day al-Sharaṭayn to al-Dhirāʿ example/circle/understanding-guidance; unfinished final Discussion heading. All clauses and EN-ID parity checked.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the formula runs into the following angel label in the source]",
+          "new": "Mahṭ [UNCLEAR: the formula is fused to the following angel label in the source]",
+          "reason": "إِضْمَارُهُ مَهْطَمَلَكِ الرَّاءِ displays the segment مهط before the fused ملك الراء. The fusion warrants uncertainty about the boundary, not deletion of the visible formula segment."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: rumusan menyatu dengan sebutan malaikat berikutnya dalam sumber]",
+          "new": "Mahṭ [UNCLEAR: rumusan menyatu dengan sebutan malaikat berikutnya dalam sumber]",
+          "reason": "إِضْمَارُهُ مَهْطَمَلَكِ الرَّاءِ visibly retains مهط before ملك الراء; preserve that segment while keeping the accurate fusion warning."
+        },
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the following formula and its boundary are corrupt]",
+          "new": "Wa-l-khudh [UNCLEAR: the reading and boundary of this formula are uncertain]",
+          "reason": "لَهُمَا فَرْدٌ إِضْمَارُهُ وَالْخُذْ مَلَكَ الْغَيْنِ displays the odd token والخذ immediately before the ghayn angel label. Its interpretation/boundary can be disclosed as uncertain, but its visible letters should not be erased; Wa-l-khudh is a literal transliteration, not a restored magical name."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: rumusan berikut dan batasnya rusak]",
+          "new": "Wa-l-khudh [UNCLEAR: bacaan dan batas rumusan ini tidak pasti]",
+          "reason": "لَهُمَا فَرْدٌ إِضْمَارُهُ وَالْخُذْ مَلَكَ الْغَيْنِ preserves the visible token والخذ. Retain it in Latin transliteration without claiming a normalized formula or removing the accurate uncertainty."
+        }
+      ],
+      "uncertainties": [
+        "Fused hāʾ formula boundary and shared formula reading remain uncertain; visible segments must still be retained as specified. Duplicate angel labels, repeated formula token, absent letters and calendar instructions not normalized."
+      ]
+    }
+  ]
+}

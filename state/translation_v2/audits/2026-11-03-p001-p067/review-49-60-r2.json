@@ -1,0 +1,259 @@
+{
+  "reviewer_id": "5f83979a-0887-482d-9b9b-2d41374c9c7c",
+  "reviewer_kind": "independent_model",
+  "pages": [
+    {
+      "page": 49,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_049.txt",
+          "sha256": "4c6886a445f5ded77308523165bfb237871cf950c3a99f52b152ecf9cc5b90d0"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_049.txt",
+          "sha256": "9a3e9b3152b6fa2bc56b398726435e266e262f030ef19ad430d4fa33e46128e9"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_049.txt",
+          "sha256": "0f476aee9301fd87a64f28ee498275335f46f844a24fcdb0f1d76e2f05b401a3"
+        }
+      },
+      "coverage": "Complete canonical lines 1–32 and complete EN/ID blocks: folio 43; opening Satan/travel fragment; Talhah/camel report and Prophet honorific; angels/devils/poison, permission and no doubt; Jesus healing; Friday/preceding Thursday/right upper arm; appearing angelic form/light and uncertainty; dry/difficult pains and all seven divine-name mentions; alif/bāʾ relation; al-Barr righteousness/parents; 233 repetitions and Amr mixing with every transmitted letter sequence and four-line inconsistency; pocket/recitation and damaged invocation with surviving petitions; al-Bari illnesses/swellings and al-Baith dual reference; sin creation/9,800 angels, Greatest Name outward/inward heavens/Footstool/Throne; ba/power and damaged dialogue; Yasin rainwater/qiblah/days, sixteen letters/two above/two below/five words/sin/mim and name list; final incomplete continuation. No actual table on this page.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "Its name has sixteen letters",
+          "new": "The sūrah has sixteen letters",
+          "reason": "Canonical line 30: وهو وسط السورة وعدد حروفها ستة عشر حرفاً. The feminine suffix ـها refers to السورة, not the masculine اسم. Preserve the unusual transmitted count rather than silently repairing its referent to the name."
+        },
+        {
+          "language": "id",
+          "old": "Namanya terdiri dari enam belas huruf",
+          "new": "Surah itu terdiri dari enam belas huruf",
+          "reason": "Canonical line 30: وهو وسط السورة وعدد حروفها ستة عشر حرفاً. Feminine حروفها refers to السورة; changing it to Namanya silently normalizes the unusual source."
+        }
+      ],
+      "uncertainties": [
+        "Source-damaged mixing/invocation fragments and four-lines discrepancy are already explicitly marked; no conjectural reconstruction accepted. The feminine referent/count correction is required despite its unusual literal meaning."
+      ]
+    },
+    {
+      "page": 50,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_050.txt",
+          "sha256": "2ee83ba6640f3340b9bbc0e7a2aa093e25dc97ee94b7997c89aa1acf4b2e754e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_050.txt",
+          "sha256": "206d2e2d18b2dd5e332a8b2a7044e4635b7d90f126f3b33539cc5a72cf18f990"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_050.txt",
+          "sha256": "73bba8a63cdee79eb587bedf1be5942fb68d93c1a1687954ad0e7e9b48152d79"
+        }
+      },
+      "coverage": "Complete canonical lines 1–33 and complete EN/ID blocks: folio 44; al-Sari damaged opening and palm/name/day multiplication, 4,277 repetitions and spirits; al-Sami plus al-Basir, fainting recovery/Ibrahim ibn Jaruh/700/gold/jinn/hidden hearts; al-Salam safety and Prophet honorific; mim/waw/nun, Tablet/light/intellect/fourth solar sphere, kingdom/dominion, Bism; forty-year quotation, forty mim value and ninety angels; beginning/middle Prophet name; forty daily looks and Quran incipit/endpoint; Wednesday; forty-day fast/purity/qiblah/auspicious Moon/hour Sun; explicit bearer benefit, Friday fast/remembrance, livelihood/hearts; seven forms/seven days; mim enclosure/worlds/colors; Thursday pure/qiblah/Prophet name forty times, erase/drink water/bee honey, petition and forty days; damaged closing clause and letter-form continuation. All actors, conditions and numerals compared; no table.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "Whoever draws its numerical secret after fasting forty days, maintaining ritual purity and the remembrance of God Most High, facing the qiblah in complete purity, when the Moon is in the auspicious mansions and during the hour of the Sun, will not have a blameworthy thought occur to him.",
+          "new": "If someone draws its numerical secret after fasting forty days, maintaining ritual purity and the remembrance of God Most High, facing the qiblah in complete purity, when the Moon is in the auspicious mansions and during the hour of the Sun, no blameworthy thought will occur to its bearer.",
+          "reason": "Canonical lines 22–24 distinguish من رسم (whoever draws) from فإن حامله لا يخطر له خاطر مذموم (its bearer has no blameworthy thought). The existing English makes the writer, not explicitly the bearer, the recipient."
+        },
+        {
+          "language": "id",
+          "old": "Barang siapa menggambar rahasia numeriknya setelah berpuasa empat puluh hari, terus-menerus menjaga kesucian dan berzikir kepada Allah Yang Mahatinggi, menghadap kiblat dalam keadaan suci sempurna, ketika Bulan berada di mansilah yang menguntungkan dan pada jam Matahari, tidak akan terlintas dalam pikirannya pikiran yang tercela.",
+          "new": "Jika seseorang menggambar rahasia numeriknya setelah berpuasa empat puluh hari, terus-menerus menjaga kesucian dan berzikir kepada Allah Yang Mahatinggi, menghadap kiblat dalam keadaan suci sempurna, ketika Bulan berada di mansilah yang menguntungkan dan pada jam Matahari, tidak akan terlintas pikiran yang tercela dalam benak pembawanya.",
+          "reason": "Canonical lines 22–24: من رسم ... فإن حامله لا يخطر له خاطر مذموم. The benefit explicitly concerns its bearer (حامله), not simply whoever draws it."
+        }
+      ],
+      "uncertainties": [
+        "Damaged initial phrase, Ibrahim location, light description, Wednesday wording and final opening clause remain explicitly uncertain in targets."
+      ]
+    },
+    {
+      "page": 52,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_052.txt",
+          "sha256": "7b1425b9af375680bb603e9feffaabe2aa7a3a88447a92ce8d5e3377b3dcd4a9"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_052.txt",
+          "sha256": "c2afc2d3fae93324e554613bdda8fcbd465773013f5cbdeaa77a0f80ea2aa271"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_052.txt",
+          "sha256": "2ef3c8c9afec54ea6722d1ba8e3d670f857b590ec02d9f2f4194d3307da4cd22"
+        }
+      },
+      "coverage": "Complete canonical lines 1–30 and complete EN/ID blocks: folio 46; firm-heart/seclusion qualifications, summoning danger and octagonal seal sufficiency; gazelle parchment/fevers/chills, numerical versus letter worlds; revelation question and both replies with honorifics, animal bell simile and hardest revelation; mim closure/roundness; Israfil honorific/strength/obedience, Throne leg/Tablet, Trumpet five-hundred-year width, feet/seventh earth; terror/swoon/resurrection and lip closure repeated; Musawi ringing uncertainty; upper/lower mim and moist ya between two heats, two mountains; concealed Name/Bism and damaged carry instruction; kings/rulers/judges/governors, lion, war/enemy clauses, beloved/honored and final love-direction clause; closing guidance/form. No visible diagram beyond closing reference.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "everyone who sees him will love him and naturally incline toward him.",
+          "new": "he will love everyone who sees him and naturally incline toward that person.",
+          "reason": "Canonical line 29 reads يحب كل من يراه ويميل إليه بطبعه, not يحبه كل من يراه. With the bearer as the continuing implicit subject, يحب كل من يراه says he loves everyone who sees him. The current text reverses the direction of love, apparently harmonizing it with the preceding محبوباً عند الناس; preserve the unusual literal clause."
+        },
+        {
+          "language": "id",
+          "old": "setiap orang yang melihatnya akan mencintainya dan secara naluriah condong kepadanya.",
+          "new": "ia akan mencintai setiap orang yang melihatnya dan secara naluriah condong kepada orang itu.",
+          "reason": "Canonical line 29: يحب كل من يراه ويميل إليه بطبعه. The transmitted verb lacks the object suffix in يحبه; the continuing subject loves everyone who sees him, rather than everyone loving him. Do not normalize to the surrounding claim that he is beloved."
+        }
+      ],
+      "uncertainties": [
+        "Source connective/Musawi phrase/concealed-name/carry wording remain uncertain. Love-direction finding follows the transmitted يحب, not a conjectured يحبه."
+      ]
+    },
+    {
+      "page": 54,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_054.txt",
+          "sha256": "43ed54f333a9ba4fbbd217b955aa6e6f212013be364952cc9dba12c279270c16"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_054.txt",
+          "sha256": "e81d4ff56dad31050fc5e6d50f537210a7bff76038b207414dafb652982424c5"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_054.txt",
+          "sha256": "a30ffb666e24e67e6d2291a0575485ccf9d50720a3931111be0ee53b24650a6b"
+        }
+      },
+      "coverage": "Complete canonical lines 1–6 including every long-line chunk and complete EN/ID blocks: folio 48; knowability argument, present/absent, negative vision verse, eternity/unity/attributes/limits/annihilation; al-Muhasibi/Jibril/Paradise sheet/musk seal, full name chain, Anas/woman/prohibition; scholars/imams and complete extended prayer, corrupt every-state clause retained as uncertain, all petitions/honorifics and eye comparison uncertainty; chapter six title; Aleppo dark sermon room/light/door, congregational timing/backward exit/re-entry/qiblah/no looking, Greatest Name request; light tablet/distraction/reminder uncertainty and take command; four lines in four positions, nested circles/gap/bisector/upper-half triangle/pole; literal final inscription and corrupt final words. Diagram described only as present in source, not invented.",
+      "findings": [
+        {
+          "language": "id",
+          "old": "{Sekali-kali, melainkan Dialah Allah}",
+          "new": "{Sekali-kali tidak, melainkan Dialah Allah}",
+          "reason": "Canonical final inscription is {كلا بل هو الله}. كلا is a denial/rejection (Nay / Sekali-kali tidak). Sekali-kali without tidak drops its negating force."
+        }
+      ],
+      "uncertainties": [
+        "Corrupt invocation state-clause, eye comparison, reminder wording and final inscription fragment remain explicitly uncertain."
+      ]
+    },
+    {
+      "page": 55,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_055.txt",
+          "sha256": "fcc04ecec5fbe4b4d40a0aeaafb8b7421afddab79d3e3382e4978d477bf7bce3"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_055.txt",
+          "sha256": "4361a47a03abfd78f9538364fc33143d21d944b0f3c39d050268e50b29163649"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_055.txt",
+          "sha256": "d2884a0073c479a5217467334954263b98ecff0cda2c5978c7e1a7ab41aa7781"
+        }
+      },
+      "coverage": "Complete canonical lines 1–30 and complete EN/ID blocks: folio 49 and printing footer 4/Shams al-Maarif/first; complete geometry continuation with right line/diameter/dal, al-Samad start/end, lower alif/al-Wahid, al-Qahhar/northern line, al-Rahman/al-Rahim/al-Ghafur; ta/quarter-circle/semicircle/Sijill/bi-l-nur/zay/Indian ha/Abdalna/Mukhtar/waw; ten complete, outer alif-lam-mim verse, jim/ya/waw/mim/mother-of-circle positions and both outer inscriptions; figure vanishes, wird/sleep/Ali/tablet transfer/one understood word/index finger/jim/majesty; Greatest Name inference, Muhammad ibn Talhah, brotherhood/praise/treatise titles; later Prophet/Ali/Jibril dialogue with honorifics, awakening/shaykh/silence/reaching behind/exact-word slip. All uncertain diagram terms compared without inferred correction.",
+      "findings": [],
+      "uncertainties": [
+        "Unstable diagram terms/positions and opening vision clause remain explicitly uncertain; no reconstructed figure used."
+      ]
+    },
+    {
+      "page": 57,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_057.txt",
+          "sha256": "75167123f0ce0a6d29aaec9d18ee71d60e67b884562e052682acabcdc427076d"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_057.txt",
+          "sha256": "e07e46ffac1995689789ba984fb18516bd5a41d5090217fc008910cac202255f"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_057.txt",
+          "sha256": "a36ece255d3a4cb7687b28bb3fc96ab6949490994c1b993a0d601fd3a702f9da"
+        }
+      },
+      "coverage": "Complete canonical lines 1–37 and complete EN/ID blocks: folio 51; midnight/latter part/presence/negative distraction, twenty names and 1,773 or 130, knowledge paths and unutterable/unattachable uncertainty; possessions travel/residence, right upper arm/enemies/tyrant/heart and will; rosewater/musk/saffron/literal hair/camphor, bodily and psychic illness, bearer body/self/spirit and awe; dawn 77, revenge first hour/before week, all seven named invocations; reconciliation/write/erase/two drinkers and love Sunday/Sun or Mercury, all six incense items; stated twenty versus nineteen transmitted names with every item checked; full circle prayer including all name chains, multiplicity/unity and truncated jabarut continuation; four-row circle marker and all eleven entries including repeated Alim, row order and absence of supplied missing name.",
+      "findings": [],
+      "uncertainties": [
+        "Source says twenty names but lists nineteen vocative units; both targets preserve and flag it. Other damaged continuations and tyrant/will relations are explicitly marked."
+      ]
+    },
+    {
+      "page": 58,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_058.txt",
+          "sha256": "685b6e5329c30bf125ac4db166f183e39cb463b7358704aab2d8ae7c12a2a51d"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_058.txt",
+          "sha256": "89a4268a6e1c4b31e831d0356e96360d743964c3c10b457d979b119e315773ff"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_058.txt",
+          "sha256": "4ed84633c15c25052d708f2462cce416f7d674566a57611af77548cfe72afa7d"
+        }
+      },
+      "coverage": "Complete canonical lines 1–33 and complete EN/ID blocks: folio 52; continued malakut/divinity/intellect/mercy/veiling/measured being/symbols/oaths/inner revelation; protection from Satan voice/nakhat/incitements/taunts, literal good-to-evil/sea-to-land/benefit-to-harm; luminous angel relation and life/death/knowledge petitions; another chapter, Jesus honorific/permission, complete Greatest Name adjective chain; Asad/Musa/al-Sulami/Abu Salih transmission, corrupt books clause without silently repairing to writing, Sunday sunrise/fast/purity/Indian oud/red mandal/gazelle or paper/forearm; Moses sending uncertainty and divine-speaker quote; Zubayda controlling Harun and exclusive word/opinion, books/slaughter/sun ambiguity; full invocation with repeated Qadir and Qadim, Qarin uncertainty; prophets/awliya/enemies, might/rank/wealth/dependence petitions and damaged existential clause; secret/whisper/judgment/piety/opening, sleepless eye and black ant/mute rock/dust/dark night; all four hearing/sight clauses and damaged my-hearing/others relation; light/watchfulness/self-accounting, all-good/all-harm, final names/negative sleep/perishing, master/family blessings and all needs/wanted/not wanted/kingdoms corruption, trailing benediction. No table.",
+      "findings": [],
+      "uncertainties": [
+        "Numerous syntactically corrupt clauses are preserved literally or marked, including books/slaughter wording, sending, luminosity relation, hearing/sight and final kingdoms; no familiar ritual wording supplied."
+      ]
+    },
+    {
+      "page": 59,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_059.txt",
+          "sha256": "51053129d41232da1ac6dbea40b62de7508198a5adffb6505c4bdf4457f86595"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_059.txt",
+          "sha256": "478c0766ed9e835b2fc1875b1c5b61f5540ec5a3601b9314cf0eb8d5b3286980"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_059.txt",
+          "sha256": "f257e69ccfba963c2ca814ee581398a36c05fb4590c4958f92804f161a1a49db"
+        }
+      },
+      "coverage": "Complete canonical lines 1–29 and complete EN/ID blocks: folio 53, opening master/family/companions blessing, chapter seven Jesus honorific; understanding/names petition, al-Khwarizmi years/scholar/Himyaritic restriction; al-Khurasani seven-day fast/seventh-day gazelle/rosewater/saffron/Thaquqah quarter-year, wind oath/Khalil ambiguity, running water preference/sun/angels/helpers/winds/stars; shaykh questions and narrator shifts, Bilam ibn Baurā and Yusuf Thaquqahs, no prior access, damaged visitor comparison/discussion verb, Moses staff/honorific/dictation; son/address/full superlatives, foreign/Hebrew concealment; Ziyad honorific/Night of Decree/Friday comparisons; Qazwin/guarding/God fear/alarm/anxiety/tenesmus/palpitations; three days/clean white parchment/saffron/wind/evil-eye/other harm, Saturday fast/purity/moon house; ornament, Jesus/permission/blind-born/leper/lowest heaven/agreed interpretation/Ali honorific; perseverance/extraordinary events/aims/no dishonoring/greatest concern/litany literal days-and-daytime/ascent. No table.",
+      "findings": [],
+      "uncertainties": [
+        "Thaquqah/oath, visitor comparison, discussion verb and interpretation antecedents are honestly marked where needed; literal days/daytime retained."
+      ]
+    },
+    {
+      "page": 60,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_060.txt",
+          "sha256": "da2e618c3a3775bf4541aea07e395eb3afd6e4ea44b036c5c2299bbcd01f46df"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_060.txt",
+          "sha256": "4a22081a6fdbc230c691e6295258b198cd9b68a26748f0cc1a09cf2f24220906"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_060.txt",
+          "sha256": "72c456051b042b7d554a24aaa5c9de3d43dcdaeedd093e4c8bb89528f0d824da"
+        }
+      },
+      "coverage": "Complete canonical lines 1–31 and complete EN/ID blocks: folio 54/circle guidance; Abu Hudhayl honorific, Jesus/two rakahs/prostration and five calls with repeated Ahad; Muqatil ibn Sulayman honorific/forty-year search; dawn one hundred/request and wrongdoer destruction, seated/no speech, basmala/no power, entire extended name series and no begetting/comparable, hundred/immediate result; circle/taqs/damaged operation honestly uncertain/carry; Jibril honorific/literal ascent to Throne, Allah three times; seven angel names and al-Malik ambiguity, noble angels/pure spirits/unity/preferred divine name and all-name qualifiers; requested need qualified by divine pleasure, envy/Bilam/signs quotation; guarding/name/practitioners/knowledge/righteousness/aims/guidance; purity/write/carry/outward/inward/obedience/enemy victory/tyrant awe; head carrying/humbled tyrants/security/inner-and-outer deeds, contest/victory/permission, battle/no harm, king/soldiers/commanders/notables/support/victory. No visible table.",
+      "findings": [],
+      "uncertainties": [
+        "The unresolved وخرها operation, al-Malik status and compressed name-preference attachment are marked rather than normalized."
+      ]
+    }
+  ]
+}

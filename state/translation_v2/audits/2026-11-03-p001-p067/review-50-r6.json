@@ -1,0 +1,27 @@
+{
+  "reviewer_id": "1b906405-d990-401b-9a8f-7194a9012399",
+  "reviewer_kind": "independent_model",
+  "pages": [
+    {
+      "page": 50,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_050.txt",
+          "sha256": "2ee83ba6640f3340b9bbc0e7a2aa093e25dc97ee94b7997c89aa1acf4b2e754e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_050.txt",
+          "sha256": "11d2160ca28058747847bc7f705bd858326bfbedb299d9ce0ca23fb2c7e66c74"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_050.txt",
+          "sha256": "3e82f2e99d1ba79aa151cc793ebc4daeaf9d0ec029a7dfe5d6184321ee54c1cf"
+        }
+      },
+      "coverage": "Fresh full reading of all 151 lines of docs/translation-style-v2.md; original canonical Arabic page_050 lines 1–33 and both entire current target files, including their Arabic blocks; all lossless numbered <=1000-character wrapper chunks independently read and reconstructed exactly. Adjacent canonical pages 049 and 051 read for the opening al-Sariʿ continuation and closing letter-form/secrets continuation. Checked folio - 44 -; al-Sariʿ invocation, damaged opening phrase honestly marked, request/gift actor, palm drawing, Names multiplied by days, invocation count 4,277, seeing/questioning/responding spirits, hidden secrets/manifest works and imperatives; al-Samiʿ plus al-Basir, two invocations, auspicious writing, fainting carrier and immediate recovery, people of secrets, damaged destination/location honestly marked, Ibrahim ibn Jaruh, wafq, 700 Name repetitions, recovery by divine permission, gold/carrying, jinn languages and authority over spirits, persistence and disclosure of creation/secrets/inner thoughts/all servants; al-Salam safety/security and Prophetic invocation/honorific. Checked every mim proposition: realm among letter realms; end/beginning equivalence and waw/mim/nun list; totality/union and stillness/awe; Tablet, concealed light and uncertain whispered-light description; intellect/encompassing, sun/fourth sphere, kingdom/dominion/world manifestation and aid via mim-light; final rank in Bism; full-strength quotation and age 40; value 40 and 90 spirit angels; Prophet-name beginning/middle, ease of dominion/kingdom and their union. Checked daily 40 looks, quotation opening/endpoint without expanding absent verses, divine facilitation and unknown provision origin, forthcoming form and Wednesday occurrence with honest uncertainty; numerical-secret drawing after 40 fasting days, sustained purity/remembrance, qiblah/full purity, auspicious Moon and Sun hour, negated blameworthy thoughts, faith realities/sacred lights and safety from every harm; Friday fasting/continuous remembrance/any need/divine permission, livelihood bearer and unexpected provision, heart uniting/affection/drawing toward seeker; contemplation/addition, form/image, seven forms/seven days and God-willing phrase despite abrupt source. Checked mim encompassing/conformity/worlds and color wonders; Thursday memorization procedure, purity/qiblah, Prophet name and honorific, 40 repetitions, erasure/drinking with water/bee honey, entire prayer including blessing of what was drunk, memorization and understanding, continuation for 40 days, outward/inward opening/understanding, concealed power from every world and establishing mim, final corrupt li-hadhihi ahimmah clause honestly described, final letter-form/secrets boundary. Checked actors, pronoun/possessive scope, negation, numbers, conditions, repetitions, named entities, divine/Prophetic honorifics, source ordering and star separators across EN and ID; no actual formula grid/table/diagram exists on this page to reconstruct. No memory-based normalization or stylistic-only changes requested; source obscurities already conveyed by target-language uncertainty descriptions do not leave an unresolved translation accuracy defect.",
+      "findings": [],
+      "uncertainties": []
+    }
+  ]
+}

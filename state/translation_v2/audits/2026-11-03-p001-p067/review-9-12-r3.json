@@ -1,0 +1,61 @@
+{
+  "reviewer_id": "32a4a55c-b832-4f64-aa28-261e173b43ad",
+  "reviewer_kind": "independent_model",
+  "pages": [
+    {
+      "page": 9,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_009.txt",
+          "sha256": "6f73db2442de6d33bce5a70d60c298247b3cbb14a35fe2968defbfe98bd7bb7e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_009.txt",
+          "sha256": "6ad104486b2f08cc526930b60140a5b499c0165b30bfd733ddb3eb7156dcaccb"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_009.txt",
+          "sha256": "f69734de107ec8ea0d61fb77938cde6b6c641e89b78158afcc646643438dbe4e"
+        }
+      },
+      "coverage": "Read canonical Arabic and both complete targets, including repeated Arabic blocks, from original reads plus every numbered <=1000-character lossless copy. Checked folio 3; all four opening guide/tawhid images; prayer on him and family, both Companion approval clauses and prayer for ranks; truth/reality/souls/means/gifted capacity/felicity/eternal experience; ranks of workers and guides; both no-benefit negations; distance from felicity, religious rulings and qiblah conditions; eminent predecessors, writing on Names/Attributes/letters/remembrances/supplications, affectionate requester, acknowledged incapacity, spirits of their spirits and assistance; help/reliance; book purpose, Names and sea of wisdom/divine subtleties, invocation names and surah/verse letters; chapters and worldly/divine aims; full book title and descriptive qualifiers; disclosure prohibitions, divine deprivation, purity/remembrance/licit-use conditions; six beneficiary categories; guarding/no omission/certainty/faith; intention maxim and subsequent belief instruction; three prophetic quotations and honorifics; repeated correctness injunction; uncertain لا يكره and certainty fragment without remembered supplementation; no haste, continuous purity and waiting; forty chapters, meanings/indications/hidden-and-manifest symbols, intellectual reflection; first chapter on letters. No table or diagram occurs. Checked actors, possessives, quantifiers, negation and full clause sequence; EN-ID used only as a secondary comparison. No unresolved target defect found.",
+      "findings": [],
+      "uncertainties": []
+    },
+    {
+      "page": 12,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_012.txt",
+          "sha256": "20094ff5c30a6304e35fc820d7026146fefd4d421a7c58b8331ddb524d084bc6"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_012.txt",
+          "sha256": "2b7953aa323e49678e238e090ce77152a253481136bbc356d47c0a193aaaa294"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_012.txt",
+          "sha256": "ffc3afbed31d67f32bfc2f69cacb4d4aeac624b945db4ad706fb9ff7c0697593"
+        }
+      },
+      "coverage": "Read all 34 canonical Arabic lines and both complete targets, including repeated Arabic blocks, from original reads plus every numbered <=1000-character lossless copy. Checked folio 6; claimed fourteen letters against all thirteen actually listed in order; alif first and unusual obedience/definitions/ra clauses without remembered substitutions; correspondence in soul before form; alif/one and subtle numerical power; secrets of utterances versus acts; divine arrangement of benefits and secrets within letters, supplication/incantation/names; letters without time restriction, discipline/property versus numbers/talismans/higher correspondences; dal/four; all three 4-by-4 references; Monday birth/commission/death and prophetic honorific; lunar exaltation, three Taurus degrees, freedom from malefics and lunar hour; complete purification, two prayer cycles, Kursi/Ikhlas one hundred times, clean parchment; memorization/understanding/rank, prisoner release, banner enemies and disputant conquest conditions; four elements and four humors in their unusual source order; uncertain four/not rabaa contrast; temperaments/balance; Daim/Wadud, precedence and incomplete Ahmad/Muhammad/permanence clauses; first/last permanence, servants and afterlife; Throne unchanged/first world repetitions, spirit ascents, intellect ranks and mercy lights; knowers and Harithah allocation, every speaker and exchange, all honorifics, stone/gold/living/dead/rich/poor list, reckoning/paradise/fire and steadfastness; spirits separation/purity/prostration without imported narrative; dal permanence; Wadud/wudd sharedness, outward/inward love, affection and repeated two-part division; heart residence and akshaf; unusual shaqq/shaghaf/ahabb/passion fragment with honest uncertainty rather than normalization; fuad, three cavities, upper denser part, radiant light, and unfinished final place clause. No table or diagram occurs. Checked actors, possessives, negations, quantities and list scope; EN-ID used only as secondary comparison.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "just as letters are arranged: secrets of benefit",
+          "new": "as with the arrangement within letters of secrets of benefit",
+          "reason": "Arabic وللأعداد ... أسرار ومنافع رتبها جلت قدرته كارتيب في الحروف أسرار النفع compares the arrangement of numerical secrets/benefits with secrets of benefit within letters (في الحروف). The existing English instead makes the letters themselves the object arranged and detaches the secrets after a colon. Preserve letters as the location, without changing the source."
+        },
+        {
+          "language": "id",
+          "old": "Wudd merupakan istilah yang mencakup dua sisi",
+          "new": "Wudd bersifat bersama",
+          "reason": "Arabic والود مشترك says that wudd is shared/common. It does not say here that wudd is a term encompassing two sides; that substitutes the later outward/inward division for this separate readable predicate. Preserve مشترك literally rather than replacing it with a contextual explanation."
+        }
+      ],
+      "uncertainties": []
+    }
+  ]
+}

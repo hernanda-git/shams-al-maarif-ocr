@@ -1,0 +1,111 @@
+{
+  "reviewer_id": "a806c1e1-e509-42a5-b0e6-464fbaad79b0",
+  "reviewer_kind": "independent_model",
+  "pages": [
+    {
+      "page": 37,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_037.txt",
+          "sha256": "20886d9d600c256cb5779f5105daf0c4b1742d13f2e65a084d35f361555cd47a"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_037.txt",
+          "sha256": "faa95d992c0e0c03cf4f85db070eb28eadea8b86a557a2da1130afd1a6b740f7"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_037.txt",
+          "sha256": "c32caad6a7c1db528d544d5874bb9457b9a7a2f8ef7d2c84ee2230961876cd68"
+        }
+      },
+      "coverage": "Full original canonical Arabic (32 lines) and both complete bilingual files read; every segment of all three lossless numbered wrappers read. Compared each clause directly to Arabic, then EN to ID only as cross-check. Checked folio 31; literal opening ten versus twelve against p36; 360/21 and 316/15 groupings and nondivision statement; Abū Muḥammad ʿAbd al-Jabbār, incomplete epithet and al-Baṣrah attribution; Lesser Bear standing/paws/7/4-square/3-tail/8-outside/7-included/north pole; Great Bear 27/8/7/4-body/3-tail/al-Suhā; Dragon 31/coils/4/inclined square/head/corrupt scorpion clause/sky and greatest serpent; Northern Crown/corrupt eight clause/round stars/behind al-Simāk; kneeler 27; al-Sabʿāt/al-Lawz/al-Ṣubḥ; Tortoise 10/al-Nasr; Hen 19/2-outside/largest/Milky Way; Triangle 4/Fish-Eagle-al-Ghūl positions; northern 360 versus southern 312 retained literally; Qayqaṭus 22/bare animal/two legs/whale tail; Orion 38/running/staff/belt/sword/red star/rabbit12/west-east; Great Dog28/outside11/al-Jawzāʾ/al-Sunbulah/al-Shiʿrā/al-Abbān/rising order; Cancer/arm/two sisters/Suhayl; Southern Crown13/outside6/great fish/south al-Dālī/east head/west tail; damaged southern location; famous versus other numerous stars/future/God Most High. Checked every actor, possessive, number, qualifier, negation and uncertainty; adjacent p38 confirms new section. No prayer or table.",
+      "findings": [],
+      "uncertainties": []
+    },
+    {
+      "page": 42,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_042.txt",
+          "sha256": "78641769833ab32f1e7f03719c6814ad17423cb0638ca3ca3e855fd3dd44c584"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_042.txt",
+          "sha256": "b6b95f7733820c7b4ad7ee5cdc6c93304397a7b86ba35c1f4ae3ea3f5af7cb59"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_042.txt",
+          "sha256": "6a1f1da2e8f720fc6bb4f4676d2c64e8ff286bab584962b47c336e1d13d57492"
+        }
+      },
+      "coverage": "Full original canonical Arabic (33 lines), both complete bilingual originals, and every segment of all three lossless wrappers read. P41 establishes Moon subject; p43 resolves final continuation. Checked folio36; exaltation/fortune/free of malefics/effectiveness; enemy vengeance/tyrant corruption/Moon disappearance-combustion/Saturn-Mars/deserving recipient/pardon and both full scriptural quotations; good-versus-evil incense; air/fire/water/near-water/earth alternatives, sunlit Fāris reed, sending/recitation/both doorways/bringing target/bone answer. Entire prayer checked: translated basmalah, all Beautiful Names/praise junction/submission/good sought/evils averted/perfect words/trees as pens/sea plus seven seas/nonexhaustion/might-wisdom; all 24 vocative Names in order; majesty (not canonical-memory lawful), forbidden/obedience/disobedience/bounty/other than You/Most Merciful; complete second Name list including Swift and both bounty titles. Checked bearer/remembrancer/character/generosity/mercy/acceptance/outward-inward/Greatest Name/call-answer/ask-give; persistence/desired matters/half-night/aspiration and separate persistence-opens-secrets causal statement/higher realm/every angelic knowledge; missing connector/al-Kāfī/status/obscure syntax; lost thing/al-Kāfī-al-Jāmiʿ/find-return/al-Tafwīḥ/al-Raʾūf/fear-tranquility; empty stomach/overcoming state/fire/corrupt harm-breathing connector/continued boiling/permission/added three Names; lunar hour/encounter/protection/seeing/three Names/desire removal; damaged return transition; descent/heavens/angels/Throne/uncountable except God/increased faith/spheres/kings/And it was. Every action, actor, possessive, negation, condition, list, quantity, honorific and uncertainty checked independently against Arabic. No table.",
+      "findings": [],
+      "uncertainties": []
+    },
+    {
+      "page": 44,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_044.txt",
+          "sha256": "7b34403aa7d13cbd0b098460b52d3a3325878bb658669f54130eedd430d2ef4e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_044.txt",
+          "sha256": "85d76d99fc15246bd05e7387480f1a18e1144c31395f1fb47b18ead6304a2930"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_044.txt",
+          "sha256": "a369748db2e00d4cafbbe6364020ea25eca37023453396f7c51d869389f6709d"
+        }
+      },
+      "coverage": "Full original canonical Arabic (33 lines), both full bilingual originals and every lossless wrapper segment read. P43 glass vessel/forty writings/Zamzam or fresh well-water/drinking establishes initial water antecedent; p45 resolves final whoever. Checked folio31; sick drinker/healing/Most High, difficult childbirth/immediate delivery; 35-paper/house/no Satan-jinn/blessing, same sheet/shop/customers-profit-merchandise/blinded onlookers; first Muḥarram/107/person and household/lifetime; 110/non-surviving children/barrenness/three days purification/carried sheet/husband intercourse/conception/odd no-putting-down after60/righteous child/no pain-hardship;61/children survive/tested-confirmed/omnipotence;101/crops/all pests;70/shroud/Munkar-Nakīr/light-until-Resurrection; lead tablet/net/catch;once/card/ring bezel/menstrual milk/stung drinker/damaged words/poison leaves. Every item of separate-letter attribution checked, including both alifs and lāms, glory plus dominion, pain of kingship, mercy/wisdom/kingdom/favor. Bāʾ21/wealth blessing/corrupt transitions/Noah verse/erase/drink/immediate cure; mīm40 daily/Owner quotation through in-Your-hand/good/blessing; al-Raḥmān-al-Raḥīm50/basmalah150/carriage/ruler-tyrant/no harm;1000 daily/sincerity/humility/fasting-discipline/14days/variant1000 after each prayer/stated number/angels reciprocal speech/direction. Exact eight-letter broken sequence/target and mother names/turning/need; split al-Raḥ-man7/slave name/burial/stone/full prayer including translated basmalah/Lord of worlds/no flight or departure. Knife/corrupt material-purpose phrase/331/rooster/slaughter/head separated/damaged condition/threshold/all insects and jinn; head fried in good oil/anointing pain sufferer/bleeding woman carries/benefit; al-Raḥīm190/banner/battle/no weapon/no illness/final continuation. All conditions, actions, actors, possessives, counts, formulas, honorifics, negations and uncertainty propositions checked in both targets. No table.",
+      "findings": [],
+      "uncertainties": []
+    },
+    {
+      "page": 45,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_045.txt",
+          "sha256": "14292650e595d38a95e006483450dfdba44f32911148776dc7077cab4bcedc33"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_045.txt",
+          "sha256": "f87676db57de40e553cba9c484861c5ef099d0c8dcf72e541e3d43756fb243cf"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_045.txt",
+          "sha256": "9fe7f1907e2f2b4eb0e7df695605b49571895f167b879b0df3a55e6f6555ea9b"
+        }
+      },
+      "coverage": "Full original canonical Arabic (38 lines), both full bilingual originals and all wrapper segments read, including the two-part Indonesian quoted prayer. P44 supplies al-Raḥīm antecedent; p46 supplies final first circle continuation. Checked folio39;21/paper/headache/hanging/benefit;seven almonds/yellow-copper needle/Friday/Venus hour/name count/feeding desired person/intense love;Monday/sunrise/new mirror/frequent gaze/obscure lūqah/healing;al-rīḥī/silver ring/two dirhams/carry/awe-obedience. Lead wafq/desired name/khintīt/red garlic/burial near continuously fueled fire/do not touch lead/target death/accountability before Most High. Compared all20 cells of exactly4 rows by5 columns in order, retaining no invented fifth row. Entire invocation: full translated basmalah/Living/Self-Subsisting/faces/voices/hearts/fear; bless-and-peace/master Muḥammad/family/Companions/repeated peace/my need/Fulan; conditional reform versus refusal/guidance-success versus affliction-wrath-destruction; five Names/7/700/two outcomes/fear God. Circle center8/surrounding Muḥammad verse through sūrah end/pleasant incense/fortunate time/carry/awe-honor/love-natural inclination/all aims/permission. Entire basmalah/Pisces/fortunate ascendant/gazelle parchment/head/obscure number/life happiness/martyr/no disliked self-wealth-child. Blessing for me-and-you/obedience; hidden Bism/Greatest Name/world-Raḥmān/hereafter-Raḥīm; full praise-basmalah correspondence and Bismillah/praise/Raḥmān-Raḥīm/Lord mappings; Master Day of Judgment/lordship/King-Owner/clarifying speech-lights imperative/obscure seeking connector/ownership/King of kings/souls/subjugation-victory/kingship/corrupt recipient/conferring ownership/Powerful Sovereign quotation. Comprehensive sayings/al-ant/tongue/ascent corruption; lāhūt/second beginning versus basmalah/first beginning; secret of beginning/unity ranks/witness/no deity/angels-Raḥmān/learned-Raḥīm; quadrangular world/Most High/prophets-truthful-martyrs-righteous/raḥīmiyyah to raḥmāniyyah/degrees/ascent/first continuation. Every clause, actor, possessive, negation, geometry, quoted formula, list, honorific and uncertainty checked against Arabic; technical formula transliterations retained as such.",
+      "findings": [],
+      "uncertainties": []
+    },
+    {
+      "page": 48,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_048.txt",
+          "sha256": "ea584c86c368ff75fd53d3982b7826be1407daf42f294465f77fac4518638c75"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_048.txt",
+          "sha256": "9f3fd3b5823d6ec699c720f606506ed087464c8edaf8cdbb96a2045264631da5"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_048.txt",
+          "sha256": "a6b33794552f851c62363e3d9e49f9c70a4d200b2000464104ba794ab9839ef0"
+        }
+      },
+      "coverage": "Full original canonical Arabic (34 lines), both full bilingual originals and every segment of all three wrappers read, including split Indonesian poison anecdote. P47 consulted for opening anecdote/حق لحق; p49 for final Satan invocation continuation. Checked folio42; damaged initial word/joining al-afrād/Qaws Quzaḥ action corruption/Abū ʿAbd Allāh al-Raḥāḥī/full Most High blessing/brother address/placer corruption; Solomon quotation with fully translated basmalah. Technical letter analysis checked literally:19/dots/nonrepetition/mīm3/lām4/rāʾ2/bāʾ-sīn-hāʾ repetition/total9/corrupt connector/exact mm-aaa-lll-rr-ḥḥ sequence/ten unrepeated/bāʾ/good/cold/faith/remaining until Judgment/jauhari/al-watr/Essence/Reality/from-Him-to-Him/* separators. Abraham first scriptures/honorific/first revelation/Messenger honorific/full Recite-created-man-clinging-substance quotation/obscure bāʾ connector/created angels/literal one-and-eight/glorify-sanctify Most High. Morning three repetitions/Greatest Name/full earth-heaven-no-harm/hearing-knowing/sudden affliction versus paralysis variant. Khālid blessing/deadly poison/sending corruption/unknown challenge speaker/truth-claim/these words/drink/Companions and others/full translated basmalah/drink/stand unharmed/ordinary-Name variant/perspiration corruption/power/brother address/noble Name/prevent poison harm. Noah ship/honorific/Abraham-fire/coolness-peace/enter-leave house/Prophetic honorific/odd causative arḥalnā faithfully sent forth/reliance; door closure/no entry/full basmalah/no approach;bed/full basmalah/Prophetic way and honorific/no harm; ablution negation/damaged added fragment/leper/trust-entrusting/no harm/ʿUmar blessing/ʿUtb al-Sūmī/leprosy/food/presence/invite/eat/full utterance. Eye/evil-eye uncertainty/hand strike/full prayer/heat-affliction;foot among riders/intention travel/no disliked harm/believing servant/basmalah/Satan small as fly/Prophet recitation for traveler/mounting/Name and Prophetic way/honorific/begin journey/refuge-from-Satan continuation. Every actor, action, possessive, negation, quantity, letter list, formula, honorific and uncertainty checked directly against Arabic; no table. Technical references distinguished from fully translated quoted invocations.",
+      "findings": [],
+      "uncertainties": []
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "reviewer_id": "eab9f183-2902-4022-9fb8-1716e36d8669",
+  "reviewer_kind": "independent_model",
+  "pages": [
+    {
+      "page": 61,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_061.txt",
+          "sha256": "4b83ac4c93859b960d03e5bea0e30decf7aad05175687c5cf46de7fc12f91668"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_061.txt",
+          "sha256": "3e975da55eeb916c36f09111a5405ec312538f6593807467f28881eac35b21e5"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_061.txt",
+          "sha256": "9e7fc3b36bb531c15d220bc961c61f6c9f7075dc3ec2bc3540b5f09c2b8249b5"
+        }
+      },
+      "coverage": "Complete canonical lines 1–43 against both complete target files, including folio55; permission and abundance/no-expectation clause; seven days and both divine-willing honorifics; mim enclosure/worlds; Thursday purity/qiblah, prophetic name and its sole peace-and-blessings occurrence, forty repetitions, fumigation, water/honey, invocation and forty days; inward/outward opening and mim/secret agency; right upper arm, enemies and tyrant actors/possessives; sun proximity and all-day rays; every numeric/table cell in eight ragged rows (7,7,8,8,8,8,8,8), both anha cells and their localized uncertainty notes; Chapter8 heading and success prayer; all twelve/four/three quantities, season order and literal June24/September24/December24 anomalies; all four rulers with direction-season correspondences; final eastern helpers. All seven تعالى occurrences and the one prophetic honorific accounted for.",
+      "findings": [
+        {
+          "language": "id",
+          "old": "dalam rahasia yang ditegakkan oleh mim",
+          "new": "dalam rahasia yang menjadi penopang mim",
+          "reason": "في السر الذي قام به الميم: الميم is the subject of قام and به refers to the secret; mim stands by that secret, not a secret established by mim."
+        },
+        {
+          "language": "id",
+          "old": "semoga Allah memberikan wafq kepadaku dan kepadamu",
+          "new": "semoga Allah memberikan taufik kepadaku dan kepadamu",
+          "reason": "وفقني الله وإياك is a supplication for God to grant us success, not to give a wafq (the technical square)."
+        }
+      ],
+      "uncertainties": []
+    },
+    {
+      "page": 62,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_062.txt",
+          "sha256": "0605763b57e62b8b63f850642130957197b28170dd3a2f3414ed8464a0acd7fa"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_062.txt",
+          "sha256": "76fd26f178c98f83e5785e8bf09fe0c1a79b89c92e2fa68b24751df6753b643a"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_062.txt",
+          "sha256": "b5eafcc8bbd72728f6cd9be148b589cdef4eb6c4ca392ede5ee01c51a9bf3b06"
+        }
+      },
+      "coverage": "Complete canonical lines1–33, Arabic blocks and both complete target blocks, including folio56; continuation helpers for west/north/south and every name; gathering supplications, honey-binding, covenant prohibition and pure egg oddities; spring condition, thaqf uncertainty, entire spring invocation including spirit possessive, winds, sun/moon, garbled sequences and all readable Names; every negation and Throne/Seat possessive; imperative anzil and its flagged third-person grammatical anomaly; numeral3; autumn condition and every angel/wind/sun-moon name; entire paired attribute/negation sequence including doubt, uncertain tasih, OR Samad/not fed, no sleep/default/wrong/need/exhaustion/haste/denial/duplication/refusal/distraction/error/decay/weariness/perishing and no racing; complete need/subjugation oaths, allā mā uncertainty, تعالى honorific and urgency/blessing; southern condition, every name, strong wind, descent place, obedience clauses, divine Names, exclusions and final numeral3. No table or geometry present.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "what was enticed",
+          "new": "what enticed",
+          "reason": "وَمَا سَوَّلَ uses active سَوَّلَ, not passive سُوِّلَ; preserve the readable odd wording without reversing its voice."
+        },
+        {
+          "language": "id",
+          "old": "apa yang dibujuk",
+          "new": "apa yang membujuk",
+          "reason": "وَمَا سَوَّلَ uses an active verb, not a passive verb; dibujuk reverses that voice."
+        },
+        {
+          "language": "en",
+          "old": "Yā Ḥayā’īl",
+          "new": "O Ḥayā’īl",
+          "reason": "يَا حَيَائِيلَ contains the vocative invocation يا, which must be translated rather than retained as part of the name."
+        }
+      ],
+      "uncertainties": []
+    },
+    {
+      "page": 63,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_063.txt",
+          "sha256": "56dec5eed29a90d77683c1322b622b24dc0bcaedc6cce946f9b31428e85c4de3"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_063.txt",
+          "sha256": "fb01f5b566d4bfb78bb3c87791c0186352942eb3734e88fe6981bf511922ccaa"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_063.txt",
+          "sha256": "b13322d2d681e53447a70011c825b879bf7ef5028da6659fecbfe2e96f9df891"
+        }
+      },
+      "coverage": "Complete canonical lines1–26, both Arabic blocks and both complete targets; all five numbered wrapped chunks of long English line32 read losslessly. Folio57; opening divine Names and numeral3; every begetting/equality negation; might/Throne possessives and requests for day/thaqūfa/four quarters; decree negation, veiling/light, belief/reliance, all creation and majesty/light clauses; partner negation, praise, perishing/endurance, refuge, mercy/happiness/Garden beneficiaries; isolated U+FBAA glyph described rather than guessed; winter condition, western ruler and every helper/spirit/sun/moon name; praise and complete ordered invocation inventory including two adjacent Seeing occurrences, every repeated Name, life/death, Master/Helper, ṣamad and all numeral3 occurrences; day/hour/thaqūfa/four-quarters request; spirits help, Ṣalūb instruction, explicitly marked broken link to He who said; dual heavens/earth command, willing/unwilling alternatives and response; final four tawāqīf/form clause. No source table or diagram omitted; no U+FD4A honorific occurs on these pages.",
+      "findings": [
+        {
+          "language": "id",
+          "old": "Yang Ṥamad",
+          "new": "Yang Ṣamad",
+          "reason": "صمد starts with ṣād, represented by Ṣ, not Ṥ (an s with acute and dot above); the same Name earlier on this page is correctly Ṣamad."
+        },
+        {
+          "language": "en",
+          "old": "“We come willingly.”",
+          "new": "“We have come willingly.”",
+          "reason": "قالتا أتينا طائعين: أتينا is past/perfect (we have come), not a present-tense promise to come."
+        }
+      ],
+      "uncertainties": []
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "status": "complete_pages_1_67",
+  "observed_at": "2026-11-03T06:56:53.096Z",
+  "parent_session_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+  "branch": "fix/translation-audit-p001-p067-20261103",
+  "base_commit": "6b67481be58a3511472f2e6653352b77895e298a",
+  "tests": {
+    "command": ".cache/test-env/Scripts/python.exe -B -m pytest tests -q -p no:cacheprovider",
+    "result": "168 passed, 49 subtests passed in 80.64s",
+    "exit_code": 0
+  },
+  "scope": {
+    "first_page": 1,
+    "last_page": 67,
+    "pages_accepted": 67
+  },
+  "manifest": {
+    "path": "state/translation_v2/audits/2026-11-03-p001-p067/manifest.json",
+    "verifier_result": "ok true, pages_checked 67, errors []"
+  },
+  "checks": {
+    "canonical_source_unchanged": true,
+    "embedded_arabic_preserved": true,
+    "validator_all_67_pass": true,
+    "triage_all_67_clean": true,
+    "dataset_records": 604,
+    "titles_restored": 604,
+    "records_beyond_67_unchanged": true,
+    "historical_progress_byte_identical": true,
+    "historical_events_454_prefix_blob": "f2b01d354d53189b2fa5ae1da1f913f7044104e6"
+  },
+  "limits": [
+    "Independent model review is not human review; manifest declarations cannot authenticate identities by themselves.",
+    "Reviewed raw bytes are CRLF in this checkout; a differently configured checkout may correctly fail the raw-byte gate."
+  ],
+  "notes": [
+    "All 67 pages repaired against canonical Arabic and approved by fresh independent reviewers of exact final snapshots.",
+    "Page 68 not advanced; no push and no deployment performed by this campaign."
+  ]
+}

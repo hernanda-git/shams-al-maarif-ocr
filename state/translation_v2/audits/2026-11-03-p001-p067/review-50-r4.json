@@ -1,0 +1,52 @@
+{
+  "reviewer_id": "1a76ee3c-ce42-466b-b171-22c16215e19f",
+  "reviewer_kind": "independent_model",
+  "pages": [
+    {
+      "page": 50,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_050.txt",
+          "sha256": "2ee83ba6640f3340b9bbc0e7a2aa093e25dc97ee94b7997c89aa1acf4b2e754e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_050.txt",
+          "sha256": "b133471d077085b02a289b12d7fc8224f2529e1bcbb84b18644049e940604280"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_050.txt",
+          "sha256": "38a481c56141d1bd7ce906f95a033b4d96715961b2edfde9ff10d8216ee59612"
+        }
+      },
+      "coverage": "Read full translation-style-v2 (151 lines), original canonical p050 L1-33 and both entire current target files; reread every lossless <=900-character numbered wrapper chunk. Arabic alone supplied evidence. Checked p049 L26-32 for opening al-Sari continuation and p051 L1-8 for final letter-form boundary. Checked folio 44; al-Sari invocation with damaged aya muiddahu phrase, palm drawing, Names multiplied by days, complete count 4,277, spirit questions/answers and hidden/manifest works; al-Sami plus al-Basir, auspicious writing/carrying/fainting, damaged arrival/location of Ibrahim ibn Jaruh, wafq, 700 invocations, recovery permission, gold/jinn languages/spirit authority, persevering revelation and hearts/all servants; al-Salam safety/security and Prophet invocation. Checked each divine taala and all three Prophet blessings. Checked mim realm, end/beginning examples waw/mim/nun, union/stillness/awe, Tablet/intellect, concealed and damaged whispered light, sun/fourth sphere, kingdom/dominion/world/mim-light, final Bism rank, full-strength quotation/40 years, numerical 40, 90 spirit angels, Prophet name beginning/middle and two realms. Checked daily 40 views and quotation endpoints, unknown provenance of provision, Wednesday occurrence, 40-day fast/purity/remembrance/qiblah/Moon auspiciousness/Sun hour, no blameworthy thought and protection/all harms, Friday fast/constant remembrance/any need/permission, livelihood/unexpected provision and hearts attraction. Checked addition and seven forms/seven days, mysteries/encompassing/conformity/worlds/colors, Thursday writing pure/facing qiblah with Prophet name 40 times, erase/drink water/bee honey, full supplication, 40-day persistence, outward/inward opening, power concealed from every world, damaged li-hadhihi ahimmah phrase, final letter-form/secrets continuation. Checked whole clauses, actors, possessives, repetitions, conditional scopes and negation. No tables or actual diagram geometry occurs on this canonical page; references to forms are prose. Retained honest source-damage markers and readable odd claims rather than normalizing them.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "The numerical occurrences of the mīm upon it are forty",
+          "new": "The numerical value assigned to the mīm is forty",
+          "reason": "Canonical L17: وأعداد الميم الواقعة عليه أربعون states the number/value assigned to mīm; it does not say that the letter occurs forty times. “Occurrences” changes a numerical value into a frequency count."
+        },
+        {
+          "language": "id",
+          "old": "Jumlah kemunculan numerik mīm padanya adalah empat puluh",
+          "new": "Nilai numerik yang ditetapkan bagi mīm adalah empat puluh",
+          "reason": "Canonical L17: وأعداد الميم الواقعة عليه أربعون gives the assigned numerical value forty, not forty occurrences (kemunculan) of mīm."
+        },
+        {
+          "language": "en",
+          "old": " and brings its form and image together with the seven forms for the seven days",
+          "new": "; its form and image come with the seven forms for the seven days",
+          "reason": "Canonical L26-27: هو زائد لمن تأمل ذلك وأتى شكله وصورته مع الأشكال السبعة للأيام السبعة. The arrival/appearance clause أتى شكله وصورته concerns its form and image; it does not instruct the contemplator to bring them together. Keep the existing uncertainty marker for the awkward overall sentence, but remove the invented human actor/action."
+        },
+        {
+          "language": "id",
+          "old": " dan menghadirkan bentuk serta gambarnya bersama tujuh bentuk untuk tujuh hari",
+          "new": "; bentuk serta gambarnya hadir bersama tujuh bentuk untuk tujuh hari",
+          "reason": "Canonical L26-27: هو زائد لمن تأمل ذلك وأتى شكله وصورته مع الأشكال السبعة للأيام السبعة. أتى شكله وصورته describes the form and image coming/appearing, not an act of the contemplator presenting them. Retain the surrounding uncertainty marker without assigning an unsupported actor."
+        }
+      ],
+      "uncertainties": []
+    }
+  ]
+}

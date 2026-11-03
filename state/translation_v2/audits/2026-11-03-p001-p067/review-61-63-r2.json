@@ -1,0 +1,75 @@
+{
+  "reviewer_id": "76ce3e9a-684f-4b15-a91d-15dc90a450b3",
+  "reviewer_kind": "independent_model",
+  "pages": [
+    {
+      "page": 61,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_061.txt",
+          "sha256": "4b83ac4c93859b960d03e5bea0e30decf7aad05175687c5cf46de7fc12f91668"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_061.txt",
+          "sha256": "3e975da55eeb916c36f09111a5405ec312538f6593807467f28881eac35b21e5"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_061.txt",
+          "sha256": "34321d6d97ed262173fd4f8dc4816bc606e026268977a464b8772e05e26ac63f"
+        }
+      },
+      "coverage": "Read full style v2 and every line of canonical Arabic and both complete bilingual files through lossless numbered <=850-character payload copies (43/126/91 inspection lines). Compared all opening benefit claims, seven-day reference, mim/worlds passage, Thursday/purity/qiblah conditions, forty repetitions and forty days, water/honey/fumigation and invocation; six separate تعالى occurrences and the one prophetic blessing; right upper arm, enemies, bearer versus feared person/tyrant, divine actions and sun exposure with its negation. Checked every cell and row of the irregular 8-row grid, both ʿanhā cells and their uncertainty notes. Checked Chapter Eight, prayer for author/reader, twelve months/four parts/three months, all four seasons, first/third/fourth taquqah and 24 June/September/December without correcting the source chronology, all four directional rulers and seasonal assignments, and Wajhā’īl/Ḥamrā’īl ending. Folio 55 and Arabic blocks checked.",
+      "findings": [],
+      "uncertainties": [
+        "The two source grid cells عنها are retained as ʿanhā; existing bilingual markers correctly leave their intended numerical values unresolved. The irregular row widths are preserved rather than repaired."
+      ]
+    },
+    {
+      "page": 62,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_062.txt",
+          "sha256": "0605763b57e62b8b63f850642130957197b28170dd3a2f3414ed8464a0acd7fa"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_062.txt",
+          "sha256": "8464678d0a3205fce1b778cdbee35c1ef6bddde074aed88da5bdf92ef5ad3e15"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_062.txt",
+          "sha256": "8baf61d35ed790f9f62e9ec39e56e47ac2f3ad6e5585206f243a5ca9170508cc"
+        }
+      },
+      "coverage": "Read every line of canonical Arabic and both full bilingual files through lossless numbered copies (33/82/73 inspection lines). Independently checked continuation Samā’īl, all west/north/south helper lists including the two-part Ḥajramīkā Kayā’īl, chapter opening and literal honey/covenant/pure egg. Compared complete spring invocation, Tayā’īl/helpers, spirit in His hand, Ṭāḥūl/winds/Maysūr, all ambiguous sequences and uncertainty markers, sun/moon, every divine epithet, negation and actor; preserved decree versus decreed-against and imperative Send down upon His servant without canonical smoothing. Compared autumn invocation in full: Danāyā’īl and three helpers, four winds, Mā Ḥūd/Sādūn, repeated basmalah, all paired epithets/negations including seeing/not doubting, or Ṣamad/not fed, and mighty/not racing; all requests, concealed/hoarded Name distinction, incomplete allā mā marker, تعالى honorific, haste and blessing. Compared complete southern invocation and names, fierce wind, commanded descent/compliance and switch back to addressing God. Both literal numeral 3 occurrences and folio 56 checked; no grid on this page.",
+      "findings": [],
+      "uncertainties": [
+        "Source ثَقْفٍ, وَمِمَّا وَطِشَ, وَمَا حَفَتْ سَمَّ اللَّهِ, لَا تَصِهُ and أَلَّا مَا carry matching localized uncertainty notes in both targets. The imperative أَنْزِلْ with third-person عَبْدِهِ is translated literally and its syntactic discontinuity marked; no remembered canonical wording substituted."
+      ]
+    },
+    {
+      "page": 63,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_063.txt",
+          "sha256": "56dec5eed29a90d77683c1322b622b24dc0bcaedc6cce946f9b31428e85c4de3"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_063.txt",
+          "sha256": "af2fec0a1480c5255681aac62861522cabd9b25ebc48c438a64b15646d87efa3"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_063.txt",
+          "sha256": "3dc5ed4ff29179a5c5a8f5fe2bbaa522dd859b1c1c7ec6e2c751c73f18713c17"
+        }
+      },
+      "coverage": "Read every line of canonical Arabic and both full bilingual files through lossless numbered copies (26/36/63 inspection lines), including all five wrapped portions of the long English line. Checked opening continuation, entire initial Name list, all four literal numeral 3 occurrences, both neither begot/nor was begotten/equality passages, Throne/veiling/light/faith/reliance, all creation submitting, exaltation and partner denial, refuge/happiness/Garden requests, plural we versus singular me, isolated glyph uncertainty. Checked winter/west Dardā’īl, all helpers and spirits and Khādim/Ḥāsid/ʿAyn. Compared every invocation Name in order from O God/O Merciful through O One/O Ṣamad, including both consecutive O Seeing occurrences, both provider forms, two originator forms, excellent Master/Helper, every repeated Name and qualifier. Checked day/hour/thaqūfa/four directions, spirit addressees, Ṣalūb, broken grammatical connection marker, heavens/earth speech and willingly/unwillingly contrast, four tawāqīf completion and figure lead-in; no actual grid present. Folio 57 and Arabic blocks checked.",
+      "findings": [],
+      "uncertainties": [
+        "The isolated ﮪ glyph and missing grammatical link before الذي قال are explicitly localized in both targets. Literal ولا حد من خلقك is retained, not silently changed to a remembered أحد reading."
+      ]
+    }
+  ]
+}

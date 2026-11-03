@@ -1,0 +1,515 @@
+{
+  "reviewer_id": "0a21060f-e101-4812-b9b7-415be05256b8",
+  "reviewer_kind": "independent_model",
+  "pages": [
+    {
+      "page": 13,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_013.txt",
+          "sha256": "ff9b36d955d40efdc727dfdcefafcc169c82e297bc305877b94844fd432c1f5e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_013.txt",
+          "sha256": "49fd5563356a9c8fb57cba8c09e05008a828e8cc3fc5d18bf7065e2d2ffd8cd8"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_013.txt",
+          "sha256": "ddda7772551d4b491c1d05cddd1387994ad31a8a1ca02005fe2a91c1e9024eed"
+        }
+      },
+      "coverage": "Folio 7; three heart cavities and every locus/faculty list; luminous eyes and sensory/malakūt distinctions; three revelation spirits, repeated second rank, both negated hearing/death explanations and divine speaker; both Prophetic blessings; named book, faith/affection quotation and heart/soul/spirit/intellect sequence through terminal continuation; all Most High occurrences; no table. Complete canonical and both entire targets read; embedded Arabic checked against canonical; target script and EN–ID parity checked. Only p013 targets exceed2000 characters per line; both were fully reread in lossless numbered900-character inspection copies.",
+      "findings": [],
+      "uncertainties": [
+        "الأطوار القرآت is corrupt; both targets retain a localized marker about modes/readings without supplying remembered wording. Repeated second rank is retained literally."
+      ]
+    },
+    {
+      "page": 14,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_014.txt",
+          "sha256": "d2c220c9ae0d638601f4bb55d44385e1c1419a4fb434d7f63c4106fbba83e41d"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_014.txt",
+          "sha256": "3a8a049c3f76f4a0dbc6724aa1c842b504555854d36cfbd63f59f833e0dc4f43"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_014.txt",
+          "sha256": "b47ba791fdecacc14662352a331eb288e876769f89e122a1264b9cef73c816a0"
+        }
+      },
+      "coverage": "Folio -8-; opening continuation, purity/command restriction; dāl 35 twice, white/yellow silk, lunar/Jupiter/Cancer conditions, ring/fasting/incense, named book; paired Muḥammad/Aḥmad names and every blessing, Friday/sunrise/35; numerical protection, fever and poison claims and terminal its-form fragment; diagram: 35 rows x5 Allah inside, 3x3 square 4/9/2;3/5/7;8/1/6, 7x5 dāl around, 35x5 Allah outside, all four named corners and invocations. Complete canonical and both entire targets read; embedded Arabic checked against canonical; target script and EN–ID parity checked. Only p013 targets exceed2000 characters per line; both were fully reread in lossless numbered900-character inspection copies.",
+      "findings": [],
+      "uncertainties": []
+    },
+    {
+      "page": 15,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_015.txt",
+          "sha256": "e717d4d4b1f1d27eddff2ecdd192b97159be6438e5dbfb037f97660907be2f43"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_015.txt",
+          "sha256": "1fc74138bca0f8a31b0cc1b628a4e5dec6e447308f40b4b1bd0445be5975dd9e"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_015.txt",
+          "sha256": "426377312b5eb9676ad3193de71aeb57e306477f68639c0f7e552bc8853490da"
+        }
+      },
+      "coverage": "Folio 9 and carried-form continuation; letter form, rain/honey/chest/ears, Scorpio/Mars/copper/protection clause; four alifs, 4x4=16 and Throne/Footstool/7+7; all even and odd number lists, directions, senses, humours, planets, days, prayers, abodes and counts, including contradictory eight boundaries/six directions; broken receiving/night clauses; two-week fast, tin/qiblah/two cycles/1 and100 recitations, Jupiter/sunrise/Gemini/Thursday incense; shop/box formula; full 4x4 letter grid including terminal16 and both prose asterisks; incomplete honorific. Complete canonical and both entire targets read; embedded Arabic checked against canonical; target script and EN–ID parity checked. Only p013 targets exceed2000 characters per line; both were fully reread in lossless numbered900-character inspection copies.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the clause involving protection/heating and the house is obscure]",
+          "new": "and it protects him from the house [UNCLEAR: the connection of this phrase to the preceding instruction is obscure]",
+          "reason": "وَيَحْمِيهِ مِنَ الدَّارِ is lexically readable, however odd: “and it protects him from the house.” Preserve those words instead of replacing the whole clause with commentary. Do not silently repair الدار to النار."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: klausa tentang perlindungan/pemanasan dan rumah tidak jelas]",
+          "new": "dan ia melindunginya dari rumah [UNCLEAR: hubungan frasa ini dengan petunjuk sebelumnya tidak jelas]",
+          "reason": "وَيَحْمِيهِ مِنَ الدَّارِ remains readable: “dan ia melindunginya dari rumah.” Odd content must be translated, not entirely replaced by a marker; do not normalize الدار."
+        },
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the wording about what each even number receives is corrupt] An example",
+          "new": "[UNCLEAR: the wording about what each even number receives is corrupt] * An example",
+          "reason": "Source line 24 places an explicit * before مِثَالُ; preserve that layout marker."
+        },
+        {
+          "language": "en",
+          "old": "and likewise with the pairs. As for the numerical form",
+          "new": "and likewise with the pairs. * As for the numerical form",
+          "reason": "Source line 25 has وَكَذَلِكَ الْأَشْفَاعُ * وَأَمَّا الشَّكْلُ; second explicit asterisk is omitted."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: redaksi tentang apa yang diterima setiap bilangan genap rusak] Contohnya:",
+          "new": "[UNCLEAR: redaksi tentang apa yang diterima setiap bilangan genap rusak] * Contohnya:",
+          "reason": "Source line 24 retains * before مِثَالُ."
+        },
+        {
+          "language": "id",
+          "old": "demikian pula halnya dengan pasangan-pasangan. Adapun bentuk numerik",
+          "new": "demikian pula halnya dengan pasangan-pasangan. * Adapun bentuk numerik",
+          "reason": "Source line 25 has a second * before وَأَمَّا الشَّكْلُ."
+        }
+      ],
+      "uncertainties": [
+        "Broken كلوت receiving clause and لأن كل فيها ليلاً إلا الجزء وحده remain localized uncertainty; incomplete عَلَيْهِ وَسَلَّمَ honorific is flagged rather than expanded from memory. Numeric/list contradictions remain literal."
+      ]
+    },
+    {
+      "page": 16,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_016.txt",
+          "sha256": "5b92e75e910b6da7ded9e1260d934badcf92961f572ddd60399d3dbf2ebe7c70"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_016.txt",
+          "sha256": "518deb641a9a10ea15662946efdd9275751cb7e2e2a883fe34d4638172970c0e"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_016.txt",
+          "sha256": "8779214de463781563467b80361a61ff3b4b1f43ca6ebbe713b0e440a52242a8"
+        }
+      },
+      "coverage": "Folio10; Thursday gazelle parchment/sunrise/seam and all protective claims; numeric and Divine Name topics and superlatives; ten-letter list and yāʾ repetition; complete 19-name invocation; 28/14/14/15 counts, every dotted/undotted item and three-dot tāʾ anomaly; all mansion secrecy clauses; Chapter Two heading, author/reader blessing, divine verse speaker, alif/anger/group/qualification/purity conditions; And say and all 3x4 grid cells/separator. Complete canonical and both entire targets read; embedded Arabic checked against canonical; target script and EN–ID parity checked. Only p013 targets exceed2000 characters per line; both were fully reread in lossless numbered900-character inspection copies.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "most of all among the nobles of the people of the world.",
+          "new": "most of all among the nobles of the people of the world and their greatest.",
+          "reason": "أَكْثَرُهُ فِي أَشْرَافِ أَهْلِ الدُّنْيَا وَأَكْبَرِهَا includes the additional greatest/biggest group; وأكبرها is omitted."
+        },
+        {
+          "language": "id",
+          "old": "terutama di kalangan para bangsawan penduduk dunia.",
+          "new": "terutama di kalangan para bangsawan penduduk dunia dan orang-orang terbesarnya.",
+          "reason": "Source وأكثره في أشراف أهل الدنيا وأكبرها includes وأكبرها; preserve the additional qualifier/group."
+        },
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the source's final qualification of this condition]",
+          "new": "whoever examines that finds it",
+          "reason": "تفقد ذلك وجده is readable: examining/checking that, one finds it. It is not an unreadable source gap."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: keterangan akhir sumber tentang keadaan ini]",
+          "new": "siapa yang memeriksa hal itu akan mendapatinya",
+          "reason": "تفقد ذلك وجده is readable and must be translated, not replaced with uncertainty."
+        }
+      ],
+      "uncertainties": [
+        "No legitimate final-qualification gap: تفقد ذلك وجده is readable and findings require translation; source numeric/list anomalies are retained literally."
+      ]
+    },
+    {
+      "page": 17,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_017.txt",
+          "sha256": "79457112495fe06f743b972706f90ca0c1a785c2fa10a41d54664ac63c782287"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_017.txt",
+          "sha256": "6c6f4ed5579fdf16f384925fc366ef748a520630d0f75d3ec71a3283920de939"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_017.txt",
+          "sha256": "93c538fb4e56d594ff2962a938b67e98f64311f23f77845522bbde2c42257ba9"
+        }
+      },
+      "coverage": "Folio11; preceding-period continuation, distress/cause, alif/unit/fire/heat/dryness, rising east and confirmation; alif111, all substrates/name/burial/incense/nature selections, Mars/Moon mixing and concentration; Zayd/ʿAmr 13 displayed letters versus stated14, every hot/dry/moist classification and contradictory counts; complete Samsāʾīl adjuration including652, vengeance target, body parts and all names, fire/Red Planet/God; first mansion al-Sharṭayn, alif/wafq/servant, multiplication and love formula kābāynāh and terminal oath. Complete canonical and both entire targets read; embedded Arabic checked against canonical; target script and EN–ID parity checked. Only p013 targets exceed2000 characters per line; both were fully reread in lossless numbered900-character inspection copies.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "[UNCLEAR: source symbol and confirmation of the preceding claim]",
+          "new": "what was mentioned proves true [UNCLEAR: source symbol]",
+          "reason": "ويصح ما ذكر is a clear confirmation clause; only the following ﵆ symbol needs uncertainty."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: simbol sumber dan penegasan atas pernyataan sebelumnya]",
+          "new": "apa yang telah disebutkan terbukti benar [UNCLEAR: simbol sumber]",
+          "reason": "ويصح ما ذكر is readable confirmation, not a gap; retain uncertainty only for ﵆."
+        },
+        {
+          "language": "en",
+          "old": "Concentrate your intention on his mouth and his subjugation; [UNCLEAR: source wording].",
+          "new": "Concentrate your intention on his mouth and his subjugation; that will happen [UNCLEAR: source symbol].",
+          "reason": "واجمع همتك في فمه وقهره يكون ذلك ﵆: يكون ذلك clearly says “that will happen”; current marker swallows it."
+        },
+        {
+          "language": "id",
+          "old": "Pusatkan tekadmu pada mulut dan penundukannya; [UNCLEAR: redaksi sumber].",
+          "new": "Pusatkan tekadmu pada mulut dan penundukannya; hal itu akan terjadi [UNCLEAR: simbol sumber].",
+          "reason": "يكون ذلك is readable and must not be replaced by a source-wording marker; ﵆ remains uncertain."
+        }
+      ],
+      "uncertainties": [
+        "أهر remains corrupt and locally marked; isolated ﵆ symbols unresolved. Displayed13 versus stated14 and four versus listed3 remain literal, with descriptive notes rather than invented letters."
+      ]
+    },
+    {
+      "page": 18,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_018.txt",
+          "sha256": "196b971ea3dea22dcf1f375228c44650aa9d1241a0280d3b4765983342d15ebd"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_018.txt",
+          "sha256": "d82f064e9054bd32f6511f52a148ac7258351d8a257d2f02b6c4dd0555c6fe67"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_018.txt",
+          "sha256": "1f4f5be64c7b8309873d0ebd4ea5c489b5595122d8e5868160d45c7e6308e103"
+        }
+      },
+      "coverage": "Folio12; complete continuation of plural oath, upper/lower servants, restricted knowers and Abjad; analogy and destructive-work conditions; alif invocation and earth fragment; second mansion bāʾ/al-Buṭayn, medicines, elites, second Aries/Sun face,19 degrees and April4, hot/dry yet fortunate, all acceptance/love/elixir activities; third jīm/al-Thurayyā mixed heat/moisture/cold and moderate fortune/travel/nobles/pen/stars; terminal Therefore. Complete canonical and both entire targets read; embedded Arabic checked against canonical; target script and EN–ID parity checked. Only p013 targets exceed2000 characters per line; both were fully reread in lossless numbered900-character inspection copies.",
+      "findings": [],
+      "uncertainties": [
+        "Final والأرض is retained as “and the earth” with marker for incomplete connection; no canonical invocation completion is invented."
+      ]
+    },
+    {
+      "page": 19,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_019.txt",
+          "sha256": "d9ef8bc345be03591953df1a81b61c2193e281201f1b6e6f40025d0a9e8bec5c"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_019.txt",
+          "sha256": "cf2627d4879b657f317a77c39a8b008f70b8a0d4f5e473ba07d92ae177d89607"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_019.txt",
+          "sha256": "fe8b81f5b55671fd3c4d5b26c23d7d27b5d47ca4f455d54645f99f2e6b8bda2e"
+        }
+      },
+      "coverage": "Folio -13-; conjunction, carried exaltation wafq, Abū Jaʿfar al-Barmakī/al-Rashīd, no-opposition claim and closing guidance; every mansion4–16 name/ordinal/letter/force/condition/action including healing-illness oddity, retreats/truth, non-assisting eighth, ninth parallel, mixed10/12, provisions11, sea-only13, absolute prohibition14, all-worlds15, good-only16; unfinished17 al-Iklīl/fāʾ/moon/descent; Latin transliteration/parity. Complete canonical and both entire targets read; embedded Arabic checked against canonical; target script and EN–ID parity checked. Only p013 targets exceed2000 characters per line; both were fully reread in lossless numbered900-character inspection copies.",
+      "findings": [
+        {
+          "language": "id",
+          "old": "al-Ḥaqʿah",
+          "new": "al-Haqʿah",
+          "reason": "Canonical الهقعة begins with ه, not ح. English correctly uses al-Haqʿah; ID transliteration changes the letter."
+        }
+      ],
+      "uncertainties": []
+    },
+    {
+      "page": 20,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_020.txt",
+          "sha256": "056b6d2a4624f918cec2e9de02230b199dc110b5bda6210c49053ff4881d0f3b"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_020.txt",
+          "sha256": "82435ba3fd973bc63a101691b25028f5ac3ea679d926258b216ff95e88fc8373"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_020.txt",
+          "sha256": "2be8aef5b150c6550e522d54d9cc19b96cb477e1190cbbef71992a03ec183ee2"
+        }
+      },
+      "coverage": "Folio -14-; seventeenth-mansion continuation and conditional prosperity; every ordinal/name/letter18–28 including sourceḥāʾ at24, every mixed/fortunate/pure/moderate qualifier, negative/no-harm/no-benefit scopes19/21/22, all movements/activities27, supplication/repetition28; all Most High mentions; letters/Divine Names/speech chain, mercy/punishment angels and mixed/pure human categories, divine sins quotation; point/cycle/zodiac/40days, all causal contrasts/Adam and closing Section. Complete canonical and both entire targets read; embedded Arabic checked against canonical; target script and EN–ID parity checked. Only p013 targets exceed2000 characters per line; both were fully reread in lossless numbered900-character inspection copies.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "a spiritual force not appointed to perform good",
+          "new": "a spiritual force that does not assist in doing good",
+          "reason": "غير معينة على فعل الخير means not assisting good action (as in p019 غير معينة على الخير), not “not appointed.”"
+        },
+        {
+          "language": "id",
+          "old": "suatu kekuatan ruhani yang tidak ditentukan untuk melakukan kebaikan",
+          "new": "suatu kekuatan ruhani yang tidak membantu melakukan kebaikan",
+          "reason": "غير معينة على فعل الخير means not helping good action, not not designated for it."
+        },
+        {
+          "language": "en",
+          "old": "Supplication in it is answered,",
+          "new": "Supplication in it is answered for a response,",
+          "reason": "والدعاء فيها مجاب للإجابة includes the explicit, odd/redundant للإجابة; do not omit it when auditing repetitions literally."
+        },
+        {
+          "language": "id",
+          "old": "Doa di dalamnya dikabulkan,",
+          "new": "Doa di dalamnya dikabulkan untuk memperoleh jawaban,",
+          "reason": "والدعاء فيها مجاب للإجابة contains للإجابة after مجاب; preserve the readable repetition rather than abridge it."
+        }
+      ],
+      "uncertainties": [
+        "هو الاسم القائم به is translated literally with localized note that the Name referent is obscure, not silently replaced by a remembered theological reading."
+      ]
+    },
+    {
+      "page": 21,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_021.txt",
+          "sha256": "fda02ba408485948ae47a8ab8d395a5e61ffb52e81e8e41df820cf576e7b09aa"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_021.txt",
+          "sha256": "7967bd6a38546e17416ab56078beda17af6624290c3573ffbd12632e83b9fcaf"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_021.txt",
+          "sha256": "bbec45233964d628716b8a2e828b1cc16cb726da0627da34f75f42ba13ecf8bd"
+        }
+      },
+      "coverage": "Bare folio15; initial Section and 12-sign/6-division/13-displayed-letter discrepancy, fixed/mutable/existence/nonexistence; negated Moon-sphere relation and growth/darkness mark; both divine quotations and powers chain; every hot/moist/cold/dry letter including repeatedthāʾ and six dry letters; all elements/humours and qualities; fever/cold names/al-ʿAdl/al-Shadīd/sevenfold figure/yellow-bile clause; complete times heading; Sunday hours1–10, each planet/action/prohibition/condition; full6x8 grid, digit6 and all letter cells. Complete canonical and both entire targets read; embedded Arabic checked against canonical; target script and EN–ID parity checked. Only p013 targets exceed2000 characters per line; both were fully reread in lossless numbered900-character inspection copies.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "for their wisdom to appear in them",
+          "new": "for His wisdom to appear in them",
+          "reason": "ليظهر فيها حكمته has singular possessive ـه (His wisdom), not plural their wisdom. ID correctly retains hikmah-Nya."
+        },
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the source's final identification of these with burning yellow bile]",
+          "new": "they are the burning yellow bile",
+          "reason": "وهي الصفراء المحرقة is readable, despite odd attribution. Translate the identification literally rather than replace it with an uncertainty description."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: identifikasi akhir sumber tentang empedu kuning yang membakar]",
+          "new": "ia adalah empedu kuning yang membakar",
+          "reason": "وهي الصفراء المحرقة is readable and must be rendered literally; its unexpected meaning does not make it illegible."
+        }
+      ],
+      "uncertainties": [
+        "Source declared12 versus displayed13 letters and likewise seven versus six dry items are described without inventing missing letters. Repeatedث and unusual dotted-letter assignments remain literal."
+      ]
+    },
+    {
+      "page": 22,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_022.txt",
+          "sha256": "ad32b5c2e17d089577358fb7b1e2bed3fa87953cc1a26c0323a7a72ae2105a65"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_022.txt",
+          "sha256": "a9b3a1037f67761138d9844f3d5775bed097a016ac928ed9f174a8dd9e362ead"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_022.txt",
+          "sha256": "5c22e3df56f6b786e23643f6d408e219990e8e069125c8d26c5e2430d9c189c2"
+        }
+      },
+      "coverage": "Folio16; Sunday10 continuation and hours11/12; all Monday1–12, Tuesday1–12, Wednesday1–12, Thursday1–6 partial; each named planet, ordinal, item, repeated ailment term and evil/good activity; every negation including Wednesday9 and Thursday2/3; Monday3 source gap and definite book; Wednesday7 also and11 double continuation; all marriage/binding/travel distinctions; page ends at in. Complete canonical and both entire targets read; embedded Arabic checked against canonical; target script and EN–ID parity checked. Only p013 targets exceed2000 characters per line; both were fully reread in lossless numbered900-character inspection copies.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "and writing books and imitations",
+          "new": "and writing the book and imitations",
+          "reason": "وكتب الكتاب والمحاكات: الكتاب is singular definite, not plural books. Do not resolve the possible katb al-kitāb idiom by inventing a plural."
+        },
+        {
+          "language": "id",
+          "old": "serta penulisan kitab-kitab dan peniruan",
+          "new": "serta penulisan kitab itu dan peniruan",
+          "reason": "الكتاب is singular definite, not kitab-kitab; preserve singular without silently choosing an unsupported plural."
+        },
+        {
+          "language": "en",
+          "old": "The seventh hour belongs to Venus: do in it whatever you wish, for its actions are praiseworthy.",
+          "new": "The seventh hour belongs to Venus: also do in it whatever you wish, for its actions are praiseworthy.",
+          "reason": "Wednesday الساعة السابعة للزهرة اعمل فيها أيضاً ما شئت includes أيضاً (also), omitted here."
+        },
+        {
+          "language": "id",
+          "old": "Jam ketujuh untuk Venus: lakukanlah di dalamnya apa pun yang engkau kehendaki, karena perbuatan-perbuatannya terpuji.",
+          "new": "Jam ketujuh untuk Venus: lakukanlah juga di dalamnya apa pun yang engkau kehendaki, karena perbuatan-perbuatannya terpuji.",
+          "reason": "Wednesday اعمل فيها أيضاً ما شئت includes أيضاً, omitted in ID as in EN."
+        },
+        {
+          "language": "id",
+          "old": "pengeluaran darah, kelemahan, dan penyakit",
+          "new": "pengeluaran darah, sakit, dan penyakit",
+          "reason": "Tuesday نزف الدم والأسقام والأمراض names ailments and diseases, not weakness; keep both illness terms."
+        },
+        {
+          "language": "id",
+          "old": "menulis ikatan, penyakit, kelemahan, dan hal-hal yang menyerupainya",
+          "new": "menulis ikatan, penyakit, sakit, dan hal-hal yang menyerupainya",
+          "reason": "Tuesday لكتابة العقد والمرض والأسقام: الأسقام means ailments/sickness, not kelemahan."
+        },
+        {
+          "language": "id",
+          "old": "pengeluaran darah, pelemparan darah, kelemahan, dan hal-hal yang menyerupainya",
+          "new": "pengeluaran darah, pelemparan darah, sakit, dan hal-hal yang menyerupainya",
+          "reason": "Tuesday النزف ورمي الدم والأسقام: الأسقام is ailments/sickness. EN retains ailments; ID changes it to weakness."
+        },
+        {
+          "language": "en",
+          "old": "it is good for writing wafqs, meeting rulers, and whatever else resembles that.",
+          "new": "it is good for writing wafqs, meeting rulers, whatever was, and what resembles that.",
+          "reason": "Wednesday اكتب فيها الأوفاق ومقابلة الحكام وما كان وما أشبه ذلك contains separate وما كان and وما أشبه ذلك; current single “whatever else resembles” collapses them. Preserve the odd readable wording."
+        },
+        {
+          "language": "id",
+          "old": "ia baik untuk menulis wafq, menghadap para penguasa, dan hal-hal lain yang menyerupainya.",
+          "new": "ia baik untuk menulis wafq, menghadap para penguasa, apa pun yang telah ada, dan hal-hal yang menyerupainya.",
+          "reason": "Wednesday ومقابلة الحكام وما كان وما أشبه ذلك contains distinct وما كان before the resemblance clause; it is omitted."
+        }
+      ],
+      "uncertainties": [
+        "Explicit [~] gap at Monday3 remains a localized uncertainty marker in each target."
+      ]
+    },
+    {
+      "page": 23,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_023.txt",
+          "sha256": "105202b6bd3a52713becee48ec08bbf5e7f41f30237e5af435f20ddeab9d8f49"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_023.txt",
+          "sha256": "e1a0a7b28a7a061d4f60a67c4b702463f6264cc97cd30c7b601df5b4b39b35fb"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_023.txt",
+          "sha256": "06f9ea457c0d59215081137a8d086d570e2c0fffee058ff406970766bbb9070e"
+        }
+      },
+      "coverage": "Folio17; Thursday6 continuation and7–12 including repeated Jupiter8 and Sun clause; every Friday1–12 and Saturday1–12 planet/action/empty entry/negation, incitement repetition, springs/wells, Saturday11 also, absent planet12 and corrupt first-hour clause; incomplete knows clause; zodiac elemental operations, seeker/mother/object names, third element and delay/fortunate condition; lunar rule elapsed days+5 and hāʾhāʾ from Sun, both God-knows-best closures; printing line and full3x4 zodiac/element table/separator. Complete canonical and both entire targets read; embedded Arabic checked against canonical; target script and EN–ID parity checked. Only p013 targets exceed2000 characters per line; both were fully reread in lossless numbered900-character inspection copies.",
+      "findings": [
+        {
+          "language": "id",
+          "old": "untuk kelemahan, penyakit, dan pendarahan",
+          "new": "untuk sakit, penyakit, dan pendarahan",
+          "reason": "Saturday للأسقام والأمراض والنزوفات names ailments, diseases, bleedings; kelemahan shifts الأسقام to weakness."
+        }
+      ],
+      "uncertainties": [
+        "فإن ما زحل الأهذه remains corrupt; أن من عرف منه فيها remains incomplete. Saturday12 has no planet supplied; targets explicitly retain that absence rather than infer Venus."
+      ]
+    },
+    {
+      "page": 24,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_024.txt",
+          "sha256": "be8b6e4ef84984f2b925032d17824194205460398bb3126d02b8e0da0464bf83"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_024.txt",
+          "sha256": "620b9eb565b56239968fa8b9fbb49655aefe46a25664220960dbce7a589da8d6"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_024.txt",
+          "sha256": "840c861d27a30f6e43e58d41a8efc4c332f4c67b5c1aa60c7426b09d53fd036c"
+        }
+      },
+      "coverage": "Folio --18--; both chapter headings and incomplete terminal discussion; seeker/object/day letters, subtraction33/remainder, cannot delay/blink; every angel/formula entry in source order, repeated zāy andḥāʾ, omitted mīm/wāw not invented, all formula tokens and repeated Ahmūsh, merged hāʾ boundary and sharedḍād/ṭāʾ clause; closing God honorific and blessing on Muḥammad/family/companions; third-chapter author/reader blessing, after-that transition, Arabic/Roman thirds/halves/Coptic procedure, crescentfirstnight/sevendays/sevenmansions/al-Sharaṭayn→al-Dhirāʿ and circle/guidance. Complete canonical and both entire targets read; embedded Arabic checked against canonical; target script and EN–ID parity checked. Only p013 targets exceed2000 characters per line; both were fully reread in lossless numbered900-character inspection copies.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the source's wording about the shared iḍmār of the angels of ḍād and ṭāʾ.]",
+          "new": "(And know) that the angels of ḍād and ṭāʾ have a single iḍmār: [UNCLEAR: the following formula and its boundary are corrupt].",
+          "reason": "﴿واعلم﴾ أن ملك الضاد وملك الطاء لهما فرد إضماره is readable through the shared/single iḍmār statement; only the continuation وَالْخُذْ is corrupt. Preserve the heading/imperative and readable clause."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: redaksi sumber tentang iḍmār bersama milik malaikat ḍād dan ṭāʾ.]",
+          "new": "(Dan ketahuilah) bahwa malaikat ḍād dan malaikat ṭāʾ memiliki satu iḍmār: [UNCLEAR: rumusan berikut dan batasnya rusak].",
+          "reason": "﴿واعلم﴾ أن ملك الضاد وملك الطاء لهما فرد إضماره supplies a readable imperative and shared/single iḍmār clause; do not replace all of it with commentary about the damaged continuation."
+        },
+        {
+          "language": "en",
+          "old": "that there are matters by which the crescent",
+          "new": "that after that there are matters by which the crescent",
+          "reason": "أن بعد ذلك أموراً explicitly contains بعد ذلك, omitted from the transition."
+        },
+        {
+          "language": "id",
+          "old": "bahwa terdapat perkara-perkara yang dengannya hilal",
+          "new": "bahwa setelah itu terdapat perkara-perkara yang dengannya hilal",
+          "reason": "أن بعد ذلك أموراً includes بعد ذلك (“setelah itu”), omitted in ID."
+        },
+        {
+          "language": "en",
+          "old": "Saʿdabūāh",
+          "new": "Saʿdabuwāh",
+          "reason": "Formula سَعْدَبُوَاهِ has wāw with fatḥah (وَ): buwāh, not būāh. Do not turn this consonant into a long ū and omit w."
+        },
+        {
+          "language": "id",
+          "old": "Saʿdabūāh",
+          "new": "Saʿdabuwāh",
+          "reason": "Canonical سَعْدَبُوَاهِ marks وَ, a consonantal w with fatḥah; preserve it as buwāh."
+        }
+      ],
+      "uncertainties": [
+        "hāʾ formula merges into following ملك label in مَهْطَمَلَكِ; uncertainty remains localized. Sharedḍād/ṭāʾ continuation وَالْخُذْ is corrupt, but findings require preserving the preceding readable clause."
+      ]
+    }
+  ]
+}

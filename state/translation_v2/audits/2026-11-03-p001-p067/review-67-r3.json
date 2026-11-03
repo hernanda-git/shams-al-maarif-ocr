@@ -1,0 +1,27 @@
+{
+  "reviewer_id": "9b220b30-b546-4e6b-8342-2a2cb5f1f786",
+  "reviewer_kind": "independent_model",
+  "pages": [
+    {
+      "page": 67,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_067.txt",
+          "sha256": "0a9abf8cb714223711b4c3bb5c9d9cac65ded0e28cc3896cb68a3856120f141c"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_067.txt",
+          "sha256": "6ee22c1c9659986ab87e77eea28de4b77be05d2188133e51115e86235fe086a3"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_067.txt",
+          "sha256": "0950a902c75d1b82773910a486568b96f2ce6435585cc7339fb6ed7646c1d0ae"
+        }
+      },
+      "coverage": "Read the complete translation-style-v2.md and every canonical Arabic line 1–38, both complete embedded Arabic blocks, and every English and Indonesian target character using lossless numbered wraps of at most 900 content characters. Checked opening Compassionate/Merciful fragment and folio - 61 -; all sixteen Names from Mālik al-Mulk through al-Ṣabūr with their conditions, actors, pronouns, outcomes, harm/healing claims, negations and repeated remembrance; lost property and runaway slave; wealth and independence; city perimeter, exactly 161 repetitions, explicit hour of Venus in both languages, sages and Mardin citadel; al-Ḍārr any person or oppressor and the locally scoped la-arā fī fajr taṣrīfihi uncertainty; al-Nāfiʿ sincere state, realms, sick-person hand-wiping exception, silver ring, locally scoped fī ṣarīʿ uncertainty, Moon exaltation and sick wearer, Muʿāfī and two healing Names; al-Nūr combination, intractable pain, writing/drinking and square; al-Hādī outward/inward worldly/Hereafter affairs, two rakʿahs, Āyat al-Kursī/al-Ikhlāṣ, repetition until breath ceases; divine sciences/ladunī secrets, all movements/outcomes, steadfastness; all 35 تعالى occurrences individually accounted for in each target, truth/path declaration, blessing and peace upon our master Muḥammad, family and companions; Chapter Nine title, dotted letters versus whole alphabet, affirmative belief, scholars and their honorific, His words Most High, Alif Lām Mīm Ṣād and literal “I am God,” al-Ḥasan, pre-eternity/post-eternity, mīm/ṣād connection/separation, explicit double negation, conventional expressions, protection from words, Names/stations and unfinished final lead-in. Checked four-column table header w/n/ā/faʿ, separator, all three data rows, Maṭlaʿ/Majīd/Wajad/ʿĀṣim, 66/57/509/54/8/60, and two empty leading cells in the last row. Verified EN–ID semantic parity, sole-source Arabic identity under allowed trim/newline normalization, single labels, Latin target script, and exactly two appropriately localized uncertainty markers in each target without canonical-memory repair or loss of readable surrounding claims. No accuracy defects found; no synonym-polishing findings.",
+      "findings": [],
+      "uncertainties": []
+    }
+  ]
+}

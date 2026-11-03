@@ -1,0 +1,120 @@
+{
+  "reviewer_id": "85bd9be8-6036-42bd-a357-73a0758e61b0",
+  "reviewer_kind": "independent_model",
+  "pages": [
+    {
+      "page": 6,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_006.txt",
+          "sha256": "cee8e9fe33b73fde772072123b1ff62a493602bad833da61b0f5d0d848ae3a19"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_006.txt",
+          "sha256": "5af46d0d1a6e2c5d5620f99c9602b7ac09215fe8aceb9f8bd6a944581f93fc10"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_006.txt",
+          "sha256": "0ce988de9cbb8838b0273a89ab299a65cfb7196958b28c4d616a57d0b61eb1b8"
+        }
+      },
+      "coverage": "All 13 disconnected source lines checked separately against both targets: spreading; neighborhood/comparison prefix; channel; min hur; raqaib; message; times; self; demonstrative; tomorrow; wa-qad; with; unvocalized ʿ-d. Checked line order, no invented continuity, uncertainty scope, no missing honorifics (none in source), and EN–ID parity.",
+      "findings": [],
+      "uncertainties": [
+        "Disconnected hur, raqaib and unvocalized ʿ-d are explicitly disclosed rather than filled with invented continuous prose; incomplete ka- comparison preserved."
+      ]
+    },
+    {
+      "page": 8,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_008.txt",
+          "sha256": "41cc390462d4691673837ee2cf7d37bb4c216520dc1514b275dd3a1f4d933a38"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_008.txt",
+          "sha256": "524b96bb32c0fcfa2cebf299297f77a554987153818c7f77870413f42838cf02"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_008.txt",
+          "sha256": "9017a2530c75cc227307b16c7a461fd07851410edca3bb66fd5e4eaf1b44abbf"
+        }
+      },
+      "coverage": "Entire 25-line source and complete Arabic embeds/targets checked: Beautiful Names invocation; basmala; pre-eternal testimony, chosen ones, two testimonies/noble angels/people of knowledge, two realms and unveilings; supplication for acceptance, comfort, path and lights; all divine epithets, higher/lower realms and agency; veils, perception, Essence/attributes/family/acts; first/last/manifest; every transcendence and negation; glorification and Most High; sole God/no partner; barzakh testimony; damaged creation/living/dead/provisions segment; past/future and revival; Muhammad as servant/Messenger and deliverance from polytheism/humiliation; terminal 16053. No table/diagram; uncertainty literal content and EN–ID coverage checked.",
+      "findings": [],
+      "uncertainties": [
+        "Originated-without-model epithet and His family are preserved literally with attachment/referent uncertainty disclosed.",
+        "Damaged creation/counting/living/dead/seeing dead/provisions segment retains its lexical inventory inside a descriptive uncertainty marker without restoring a remembered formula."
+      ]
+    },
+    {
+      "page": 9,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_009.txt",
+          "sha256": "6f73db2442de6d33bce5a70d60c298247b3cbb14a35fe2968defbfe98bd7bb7e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_009.txt",
+          "sha256": "6ad104486b2f08cc526930b60140a5b499c0165b30bfd733ddb3eb7156dcaccb"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_009.txt",
+          "sha256": "5d9ab41b8e97f24ab66d329c37dc3b99ccc1f7205ecb55748dffa6c5f1871842"
+        }
+      },
+      "coverage": "Entire source including all long-line chunks and both complete targets checked: folio — 3 —; each ❊ divider; guide and four cosmic praise clauses; prayer on him and family, both Companion approval prayers and highest ranks; (Now then); truth/reality/souls/means/capability/felicity/eternal experience and ritual means; rank of workers/guides and both no-benefit negations; religious rulings and conditions; author motivation/request/admitted inability/spiritual help; (so I say), reliance, Names and both Most High honorifics, jewels/invocation/surah/verse scope; chapters and worldly desires; full book title; disclosure prohibitions and deprivation; purity/remembrance/use conditions and all six readership groups; guarding and certainty; intentions maxim; three separately honored Prophetic sayings and repeated certainty injunction; damaged compulsion/answer clause; haste/answer negation; continual purity/waiting; forty chapters, hidden/manifest symbols, reflection, first-chapter heading. EN–ID semantic parity and Latin target scripts checked.",
+      "findings": [
+        {
+          "language": "id",
+          "old": "pengetahuan abadi tentang pengamalan syariat dianugerahkan",
+          "new": "pengalaman abadi dianugerahkan melalui pengamalan ritus-ritus syariat",
+          "reason": "Canonical Arabic والخبرة الأبدية باستعمال مناسك الشريعة موهوبة makes eternal experience bestowed through use/practice of the rites of Sharia. “tentang” changes the instrumental relation into a topic and omits مناسك (rites). EN retains both relations."
+        }
+      ],
+      "uncertainties": [
+        "Unvocalized لا يكره and following certainty-of-answer fragment have alternative readings and uncertainty accurately disclosed; no canonical hadith completion supplied."
+      ]
+    },
+    {
+      "page": 12,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_012.txt",
+          "sha256": "20094ff5c30a6304e35fc820d7026146fefd4d421a7c58b8331ddb524d084bc6"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_012.txt",
+          "sha256": "32de40353fe91dd416c745538f971f00704b624550e81c5713742ac61085eb79"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_012.txt",
+          "sha256": "dc859fa966f3fe22bc8cdf75f07874895bda5f3a9ecba50a8d641db67a50d5f9"
+        }
+      },
+      "coverage": "All 34 source lines and both complete targets including long-line chunks checked: folio — 6 —; stated fourteen versus actual thirteen-letter sequence; alif and odd examples; soul/form and number/action/utterance distinctions; glorified power; letters/time/discipline/property versus numbers/talismans; dāl value four; every 4-by-4 occurrence; Monday birth/commission/death; moon three degrees Taurus, malefic exclusion/hour; complete purity, two rakahs, Kursi/Ikhlas hundred times and pure parchment; every carrier/prisoner/banner/dispute conditional and Most High; four ordered elements and four ordered substances, uncertain rabaʿa contrast; temperaments; al-Daim/al-Wadud/Ahmad/Muhammad and damaged permanence clause; after-annihilation hereafter; Throne repetition, spirits/intellects/lights; God Most High and Harithah approval honorific; all five Prophet blessing occurrences; all questions/replies, world-stones/gold/living/dead/rich/poor, reckoning/Paradise/Fire; spirit-purity report; permanence; wudd/love outward/inward repetitions; uncertain al-shaqq/ahabb fragment; fuad and three cavities, upper/dense/radiant light and trailing place fragment. Parenthesized headings, list order, quantities and EN–ID parity checked; no source table to reproduce.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "It belongs to the four elements—fire, air, earth, and water—and to the four humors: yellow bile, phlegm, blood, and black bile.",
+          "new": "It belongs to the four elements—fire, air, earth, and water—which are yellow bile, phlegm, blood, and black bile.",
+          "reason": "Canonical Arabic وهو للعناصر الأربعة النار والهواء والتراب والماء وهي الصفراء والبلغم والدم والسوداء identifies the listed elements with the following substances through وهي (“and they are”). Keep this readable odd identification literally; “and to the four humors” instead invents a separate parallel association."
+        },
+        {
+          "language": "id",
+          "old": "Ia berkaitan dengan empat unsur—api, udara, tanah, dan air—serta empat humor: empedu kuning, dahak, darah, dan empedu hitam.",
+          "new": "Ia berkaitan dengan empat unsur—api, udara, tanah, dan air—yang merupakan empedu kuning, dahak, darah, dan empedu hitam.",
+          "reason": "Canonical Arabic وهو للعناصر الأربعة النار والهواء والتراب والماء وهي الصفراء والبلغم والدم والسوداء uses وهي to identify the elements with the following list. “serta empat humor” replaces that readable odd identification with a separate parallel list; source must not be normalized."
+        }
+      ],
+      "uncertainties": [
+        "Fourteen versus thirteen source-letter discrepancy disclosed without adding a letter.",
+        "Odd obedience/definitions/ras examples, rabaʿa contrast, permanence/names clause, banat sense, and al-shaqq/ahabb fragment retain literal information and disclose insecure connections."
+      ]
+    }
+  ]
+}

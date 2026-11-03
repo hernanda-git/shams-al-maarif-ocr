@@ -7,6 +7,7 @@ Durable files:
 - `progress.json` — one record for each physical page 1–604.
 - `events.jsonl` — append-only state-transition audit log.
 - `reviews/` — page-scoped independent-review evidence, committed with the tracker checkpoint.
+- `audits/` — supplemental snapshot-bound retrospective audits and transparent provenance corrections. Terminal workflow records are historical; a changed translation requires fresh review evidence.
 
 Transient files (ignored by Git):
 
@@ -86,4 +87,6 @@ Use `--force` only when the process/lock cannot be proven stale and the reason i
 
 ## Current baseline
 
-The tracker records 604 pending pages when initialized. Existing translated files are drafts until they pass the V2 validator. The current web JSON contains 600 pages, so pages 601–604 intentionally fail the generated-record gate until the separate 604-page web-scope change is implemented. This failure is expected and must not be weakened or marked complete.
+The tracker initializes 604 pending pages. The generated reader dataset now contains physical pages 1–604; the old 600-page limitation no longer applies. Existing translations remain drafts until deterministic validation and genuine independent review of the exact snapshot.
+
+The 2026-11-03 retrospective audit covers pages 1–67. See `audits/2026-11-03-p001-p067-provenance.md`: earlier `human-reviewer` approvals for pages 64–67 did not come from a human or an independent reviewer and are invalid as acceptance evidence. The original events and terminal workflow records are preserved, with append-only corrections. Fresh supplemental review evidence, not a historical reviewer label or `committed` count, establishes acceptance of repaired files. Page 68 is outside this audit and must not be advanced as part of it.

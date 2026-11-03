@@ -1,0 +1,48 @@
+{
+  "reviewer_id": "0521128d-9862-4407-aa08-c7b48b87c0aa",
+  "reviewer_kind": "independent_model",
+  "pages": [
+    {
+      "page": 15,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_015.txt",
+          "sha256": "e717d4d4b1f1d27eddff2ecdd192b97159be6438e5dbfb037f97660907be2f43"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_015.txt",
+          "sha256": "8b37a5ce854b889550d91d78d2af0fb91333e6e83513730b70d47f9321188ad7"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_015.txt",
+          "sha256": "8ea3f30bf141d90b9f2015843d05512158f6153c190c8cb20f189203c5a51d32"
+        }
+      },
+      "coverage": "Complete source and both complete targets read, including all numbered wrapped chunks and Arabic mirrors. Checked folio 9; numerical form, carrier and harmful enemies of every world; letter-form forgetfulness/intellect, rainwater/bee honey, chest/ears, Scorpio/Mars hostile aspect/copper, explicitly obscure house clause, ring-water/scorpion condition; four alifs and four secrets, 4 squared = 16, Throne/Footstool/seven heavens/seven earths; every even enumeration (14/12/8/6/4/two verses), all classes and six listed directions despite eight-boundary wording, testimony negation and incomplete honorific; seven-pair assertion; every odd enumeration (15/13/11/9/7/five prayers/3/1), all entities/senses/directions/natures/humours/planets/days/abodes; eight pairs and eight odds, both klwt tokens and repeated receives fragment, 1,1,2,3,6 and asterisk separators; Indian natural pen, letters replacing numbers, two-week fast and literal nighttime/exception fragments with precise uncertainty; discipline/purity/remembrance of God Most High; refined square tin, engraving/qiblah/two cycles/Fatihah/Kursi once/Ikhlas 100, Jupiter hour/sunrise/Moon protected from Jupiter and Sun/Gemini, mastic/white sandalwood/every Thursday; wearer and divine action, world/Hereafter/religion/good works/obedience/provision/blessing, writer/shop-or-box/wealth/associated provision formula. All 16 grid cells checked in original four-row four-column order, including multi-letter cells and terminal 16. Actors, possessives, conditions, quantities, negations, all Most High attributions and EN-ID semantic parity checked; no unresolved translation accuracy/coverage defect.",
+      "findings": [],
+      "uncertainties": []
+    },
+    {
+      "page": 24,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_024.txt",
+          "sha256": "be8b6e4ef84984f2b925032d17824194205460398bb3126d02b8e0da0464bf83"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_024.txt",
+          "sha256": "0a0db984bbb0d928ad9836424c43571209387d1058725a07f651039615d2066b"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_024.txt",
+          "sha256": "7023728682eba2d480794014937a127d70454d6ea81313ecedd1aa0da3ea0778"
+        }
+      },
+      "coverage": "Complete source and both complete targets read, including every numbered wrapped chunk and Arabic mirror. Checked folio 18; iḍmār chapter heading and necessity/negation; seeker/sought/day names, subtraction 33 and remainder below 33, final exact letter and impossibility of departure even for blink; complete ordered angel/formula sequence alif, ba, jim, dal, ha, ra, zay, ha, ta, ya, kaf, lam, nun, sin, ayn, fa, sad, qaf, repeated zay, shin, ta, tha, repeated ha, dhal, dad, za, then ghayn; each formula token and repeated Ahmush, fused Mahṭ/angel boundary explicitly disclosed, shared dad/ta formula Wa-l-khudh with source uncertainty disclosed rather than restored; concluding total statement, God glorified/Most High/best knowledge and full blessing on our master Muhammad/family/companions/peace. Checked third-chapter heading and 28 mansions; prayer for both speaker and addressee to obey God; each-month crescent, Arabic last day/Sun-Moon same mansion, Roman thirds 1/2/3 and halves 1/2, elapsed Arabic and Coptic days and ordered lookup instructions; example first-night Sharatayn/seven elapsed Arabic days/count seven mansions/Dhira/result, analogy, circle-description statement without invented diagram, guidance, incomplete final discussion heading. No source table on this page. All actors, possessives, negations, conditions, numbers, repetitions, formula order and EN-ID semantic parity checked; no unresolved translation accuracy/coverage defect.",
+      "findings": [],
+      "uncertainties": []
+    }
+  ]
+}

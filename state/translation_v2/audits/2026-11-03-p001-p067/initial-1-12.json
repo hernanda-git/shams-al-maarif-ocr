@@ -1,0 +1,833 @@
+{
+  "range": [
+    1,
+    12
+  ],
+  "auditor_id": "66529956-3e16-4427-a9dd-acd0c3b49bb0",
+  "kind": "independent_model_initial_audit",
+  "baseline_commit": "6b67481be58a3511472f2e6653352b77895e298a",
+  "note": "Repair proposals, not final acceptance. Subsequent independent review must bind exact resulting hashes.",
+  "pages": [
+    {
+      "page": 1,
+      "verdict": "pass",
+      "coverage": "No-text folio: canonical three-line no-text notice, exact EN/ID blank markers, no invented prose.",
+      "uncertainties": [],
+      "patches": []
+    },
+    {
+      "page": 2,
+      "verdict": "pass",
+      "coverage": "Library label: RBSC Islamic; BF 1410; B8; 1927; McGill University Libraries; Islamic Studies Library; 3537621. Every line, digit and blank separator retained; ID institution translation checked.",
+      "uncertainties": [],
+      "patches": []
+    },
+    {
+      "page": 3,
+      "verdict": "pass",
+      "coverage": "Explicit blank/internal-cover notice: exact EN/ID no-text markers and immutable embedded Arabic checked.",
+      "uncertainties": [],
+      "patches": []
+    },
+    {
+      "page": 4,
+      "verdict": "pass",
+      "coverage": "Four volumes in one volume; two-line Shams/al-Maarif title; quantity, title order and line geometry checked.",
+      "uncertainties": [],
+      "patches": []
+    },
+    {
+      "page": 5,
+      "verdict": "pass",
+      "coverage": "Explicit blank-page notice: exact EN/ID no-text markers; no invented prose.",
+      "uncertainties": [],
+      "patches": []
+    },
+    {
+      "page": 6,
+      "verdict": "repair",
+      "coverage": "All thirteen isolated fragments in order: circulation, neighborhood/incomplete ka-, channel, min hur, raqaib, message, times, self, demonstrative, tomorrow, qad, with, count. No continuous sentence or missing object inferred.",
+      "uncertainties": [
+        "Disconnected fragments; the comparison بالحي كـ is incomplete, حر is unvocalized/contextless, and رقائب has no secure contextual sense. Do not reconstruct continuity."
+      ],
+      "patches": [
+        {
+          "language": "en",
+          "old": "It circulates\r\nin the neighborhood, as [UNCLEAR]\r\nin a channel\r\nof heat\r\n[UNCLEAR: raqāʾib]\r\na message\r\ntimes\r\nwithin the self\r\nthis\r\ntomorrow\r\nand indeed\r\nwith\r\ncount",
+          "new": "It circulates\r\nin the neighborhood, as [UNCLEAR: the comparison ends after the prefix ka-]\r\nin a channel\r\nfrom [UNCLEAR: the isolated word hur may concern heat or a free person; context is absent]\r\n[UNCLEAR: the isolated word raqāʾib has no secure meaning in these disconnected fragments]\r\na message\r\ntimes\r\nwithin the self\r\nthis\r\ntomorrow\r\nand indeed\r\nwith\r\ncount",
+          "reason": "بالحي كـ ends with an incomplete comparison; من حر is unvocalized and contextless; رقائب is not explained by merely transliterating it in a marker. Retain all thirteen readable fragments and line geometry, with explicit local descriptions instead of a bare marker."
+        },
+        {
+          "language": "id",
+          "old": "Menyebar\r\ndi lingkungan, seperti [UNCLEAR]\r\ndi dalam aliran\r\ndari panas\r\n[UNCLEAR: raqāʾib]\r\nsebuah pesan\r\nwaktu-waktu\r\ndi dalam diri\r\nini\r\nhari esok\r\ndan sungguh\r\nbersama\r\nhitungan",
+          "new": "Menyebar\r\ndi lingkungan, seperti [UNCLEAR: perbandingan terputus setelah awalan ka-]\r\ndi dalam aliran\r\ndari [UNCLEAR: kata hur dapat berkaitan dengan panas atau orang merdeka; konteks tidak tersedia]\r\n[UNCLEAR: makna kata terpisah raqāʾib tidak dapat dipastikan dalam fragmen-fragmen ini]\r\nsebuah pesan\r\nwaktu-waktu\r\ndi dalam diri\r\nini\r\nhari esok\r\ndan sungguh\r\nbersama\r\nhitungan",
+          "reason": "بالحي كـ ends with an incomplete comparison; من حر is unvocalized and contextless; رقائب is not explained by merely transliterating it in a marker. Retain all thirteen readable fragments and line geometry, with explicit local descriptions instead of a bare marker."
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "verdict": "repair",
+      "coverage": "Full title/publisher page: five title lines; Ahmad ibn Ali al-Buni, sanctification prayer, death year 622 repeated in words; Kashf al-Zunun and book purpose; God Most High; Names/invocations/letters; both no-hardship clauses; four appended treatises and author; benefit/Amen prayer; repeated Egypt/India editions, errors and absent correct copies, collated printed and Hajj Mirza Husayn manuscript copies; Egyptian committee, Abd al-Rahman al-Jaziri recorrection, praise, publisher/sons/location. All actors, quantities, negations and separators checked.",
+      "uncertainties": [],
+      "patches": [
+        {
+          "language": "en",
+          "old": "he died in the year 622 AH.",
+          "new": "he died in the year 622, six hundred and twenty-two.",
+          "reason": "المتوفى سنة ٦٢٢ اثنين وعشرين وستمائة gives the year twice, numerically and in words. Preserve the repetition; AH is not explicitly present."
+        },
+        {
+          "language": "id",
+          "old": "ia wafat pada tahun 622 H.",
+          "new": "ia wafat pada tahun 622, enam ratus dua puluh dua.",
+          "reason": "المتوفى سنة ٦٢٢ اثنين وعشرين وستمائة repeats the year in words. Preserve the repeated quantity; H is not explicit."
+        },
+        {
+          "language": "en",
+          "old": "Rules of Sand",
+          "new": "Rules of Geomancy",
+          "reason": "أحكام الرمل names the divinatory discipline raml, not ordinary rules governing sand. ID Raml is acceptable."
+        },
+        {
+          "language": "en",
+          "old": "the eminent scholar, Sayyid",
+          "new": "the eminent, distinguished scholar, Sayyid",
+          "reason": "العلامة الفاضل السيد includes both scholarly eminence and the additional qualifier الفاضل; retain the second qualifier without changing the name."
+        },
+        {
+          "language": "id",
+          "old": "ulama terkemuka, Sayyid",
+          "new": "ulama terkemuka lagi utama, Sayyid",
+          "reason": "العلامة الفاضل السيد includes الفاضل as well as العلامة. The existing ID drops the additional qualifier."
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "verdict": "repair",
+      "coverage": "Beautiful Names verse, basmala, two testimonies, chosen ones/angels/learned people, two realms/unveiling, prayer to Living/Self-Subsisting God, accepted charity before private supplication, movements/dwelling/path/realization, mercy flash/suns and three classes; every divine attribute and negation; upper/lower worlds; veiling/vision; three eternity clauses; substances/accidents/bodies/parts/purposes/directions/cycles/night/day; praise honorific; measured things; unseen/witnessed; monotheism/partner negation/barzakh; damaged witness/creation/living/dead/provisions clause; knowing/resurrection; Muhammad servant/messenger/sun/deliverer from polytheism/humiliation; final 16053. No source Prophet blessing here, so none added.",
+      "uncertainties": [
+        "المخترع بلا مثال is a problematic passive epithet whose attachment must not be guessed as a relative clause about the veil.",
+        "بآله normally means through His family, not instruments; retain the actual reading and flag the unclear intended referent.",
+        "وأشهد لكم أحصاه خليقته أحياء وأمواتا وقد رأى الأموات والأقوات is grammatically unstable; descriptive uncertainty must retain readable witness/creation/living/dead/provisions elements."
+      ],
+      "patches": [
+        {
+          "language": "en",
+          "old": "Lifter of the veil, which He originated without a model,",
+          "new": "Lifter of the veil, [UNCLEAR: the following epithet literally reads “originated without a model”; its attachment and intended reading are uncertain],",
+          "reason": "رافع الحجاب المخترع بلا مثال does not securely say that God created the veil; the vocalized المخترع is passive. Flag the broken attachment rather than add a relative clause."
+        },
+        {
+          "language": "id",
+          "old": "Pengangkat hijab yang Dia ciptakan tanpa contoh,",
+          "new": "Pengangkat hijab, [UNCLEAR: sifat berikutnya secara harfiah berbunyi “diadakan tanpa contoh”; rujukan dan bacaan yang dimaksud tidak pasti],",
+          "reason": "رافع الحجاب المخترع بلا مثال does not securely support the added relative clause about God creating the veil."
+        },
+        {
+          "language": "en",
+          "old": "revealed Himself through His instruments in His sempiternity",
+          "new": "revealed Himself through His family [UNCLEAR: the intended referent of “His family” in this clause is uncertain] in His sempiternity",
+          "reason": "واستعلن بآله: آل is family, not آلات instruments. Retain the actual lexical content, without inventing instruments or silently correcting the Arabic."
+        },
+        {
+          "language": "id",
+          "old": "menyatakan diri melalui sarana-sarana-Nya dalam kekekalan-Nya",
+          "new": "menyatakan diri melalui keluarga-Nya [UNCLEAR: rujukan “keluarga-Nya” yang dimaksud dalam klausa ini tidak pasti] dalam kekekalan-Nya",
+          "reason": "واستعلن بآله does not say sarana-sarana-Nya. Retain the literal family wording and flag its referent."
+        },
+        {
+          "language": "en",
+          "old": "glorified and God Most High.",
+          "new": "glorified and exalted is He.",
+          "reason": "سبحانه وتعالى is a two-part glorification/exaltation honorific."
+        },
+        {
+          "language": "en",
+          "old": "And I bear witness to you: His creation has encompassed it,\r\nliving and dead. He sees the dead and their provisions, knows what has passed and what is to come, and revives the dead",
+          "new": "And I bear witness to you [UNCLEAR: the following damaged wording mentions His creation counting or encompassing it, living and dead, seeing the dead, and provisions; the grammatical relationships are uncertain]. The Knower of what has passed and what is to come, and the Reviver of the dead",
+          "reason": "وأشهد لكم أحصاه خليقته أحياء وأمواتا وقد رأى الأموات والأقوات is corrupt; EN invents relationships, including “their” provisions, and a coherent present-tense clause. Retain the following readable العالم بما مضى وما هو آت ومحيي الأموات as divine attributes."
+        },
+        {
+          "language": "id",
+          "old": "Dan aku bersaksi kepada kalian: makhluk-Nya telah meliputinya,\r\nbaik yang hidup maupun yang mati. Dia melihat orang-orang mati dan rezeki-rezeki, mengetahui apa yang telah berlalu dan apa yang akan datang, serta menghidupkan orang-orang mati",
+          "new": "Dan aku bersaksi kepada kalian [UNCLEAR: susunan yang rusak berikutnya menyebut makhluk-Nya menghitung atau meliputinya, yang hidup dan mati, melihat orang-orang mati, serta rezeki; hubungan gramatikalnya tidak pasti]. Yang Mengetahui apa yang telah berlalu dan apa yang akan datang, serta Yang Menghidupkan orang-orang mati",
+          "reason": "وأشهد لكم أحصاه خليقته أحياء وأمواتا وقد رأى الأموات والأقوات is unstable; fluent clauses conceal uncertainty. Keep the following readable divine knowing and resurrection attributes."
+        },
+        {
+          "language": "en",
+          "old": "and humiliation.",
+          "new": "and humiliation.\r\n\r\n16053",
+          "reason": "Final standalone canonical number 16053 is omitted. Preserve the digits without assigning a function."
+        },
+        {
+          "language": "id",
+          "old": "dan kehinaan.",
+          "new": "dan kehinaan.\r\n\r\n16053",
+          "reason": "Final canonical line 16053 is omitted. Preserve the standalone number."
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "verdict": "repair",
+      "coverage": "Entire folio 3 and complete long line read through wrapped copies: guide/four images; blessing on him/family, two companion pleasure prayers, ranks; truth/reality/spirits/means/ability/felicity/rites; active scholars and unbeneficial scholar negation; author request/motive/earlier sages/spirits; purpose and four God Most High occurrences; book title; disclosure prohibition/consequence; purity/remembrance/permitted uses and recipients; certainty/intentions; three sayings and EACH blessing; repeated confirmation command; patience/purity; forty chapters/hidden and manifest symbols/reflection/chapter-one lead-in. Malformed second saying not normalized to remembered hadith.",
+      "uncertainties": [
+        "فإنه لا يكره ويقين الإجابة is malformed: the unvocalized verb, its referent, and connection to certainty are uncertain. Do not supply a remembered hadith."
+      ],
+      "patches": [
+        {
+          "language": "en",
+          "old": "And the one by whose call",
+          "new": "And the guide by whose call",
+          "reason": "والدالّ explicitly describes a guide; “the one” drops this actor description."
+        },
+        {
+          "language": "id",
+          "old": "Dan beliau, yang melalui seruannya",
+          "new": "Dan sang pembimbing, yang melalui seruannya",
+          "reason": "والدالّ explicitly describes a guide; the pronoun drops this epithet."
+        },
+        {
+          "language": "en",
+          "old": "may the best of prayers be upon him and upon his family",
+          "new": "may Allah bestow the best of prayers upon him and upon his family",
+          "reason": "صلى الله عليه وعلى آله أفضل الصلوات explicitly names Allah as bestower."
+        },
+        {
+          "language": "id",
+          "old": "semoga shalawat terbaik tercurah atasnya dan atas keluarganya",
+          "new": "semoga Allah mencurahkan selawat terbaik atasnya dan atas keluarganya",
+          "reason": "صلى الله عليه وعلى آله أفضل الصلوات explicitly names Allah as actor; do not add a salam absent from this occurrence."
+        },
+        {
+          "language": "id",
+          "old": "melalui ruh-ruh mereka, bantuan yang lembut",
+          "new": "melalui ruh-ruh dari ruh-ruh mereka, bantuan yang lembut",
+          "reason": "من أرواح أرواحهم repeats spirits twice; ID collapses the nested phrase."
+        },
+        {
+          "language": "id",
+          "old": "Nama-Nama Allah (Mahasuci dan Mahatinggi Dia)",
+          "new": "Nama-Nama Allah Yang Mahatinggi",
+          "reason": "This corresponding occurrence is الله تعالى only; Mahasuci adds glorification not in the occurrence. Retain Mahatinggi at EACH of the four places."
+        },
+        {
+          "language": "id",
+          "old": "yang Allah (Mahasuci dan Mahatinggi Dia) letakkan",
+          "new": "yang Allah Yang Mahatinggi letakkan",
+          "reason": "This corresponding occurrence is الله تعالى only; Mahasuci adds glorification not in the occurrence. Retain Mahatinggi at EACH of the four places."
+        },
+        {
+          "language": "id",
+          "old": "Allah (Mahasuci dan Mahatinggi Dia) akan menghalanginya",
+          "new": "Allah Yang Mahatinggi akan menghalanginya",
+          "reason": "This corresponding occurrence is الله تعالى only; Mahasuci adds glorification not in the occurrence. Retain Mahatinggi at EACH of the four places."
+        },
+        {
+          "language": "id",
+          "old": "yang diridai Allah (Mahasuci dan Mahatinggi Dia)",
+          "new": "yang diridai Allah Yang Mahatinggi",
+          "reason": "This corresponding occurrence is الله تعالى only; Mahasuci adds glorification not in the occurrence. Retain Mahatinggi at EACH of the four places."
+        },
+        {
+          "language": "en",
+          "old": "how to work with the Names and supplications",
+          "new": "how to work with the names of the invocations",
+          "reason": "التصرف بأسماء الدعوات is a construct, names of invocations, not two coordinated objects. Do not silently use the different source phrase from page7."
+        },
+        {
+          "language": "id",
+          "old": "cara menggunakan nama-nama dan doa-doa",
+          "new": "cara menggunakan nama-nama doa",
+          "reason": "التصرف بأسماء الدعوات is a construct rather than names AND prayers."
+        },
+        {
+          "language": "en",
+          "old": "“When one of you asks, let him be resolute in his asking,” trusting in the answer.",
+          "new": "“When one of you asks, let him be resolute in his asking.” [UNCLEAR: the next clause can read “for he/it is not compelled” or “for he does not dislike”; the verb reading and referent are uncertain, followed by a fragment about certainty of the answer.]",
+          "reason": "إذا سأل أحدكم فليعزم المسألة فإنه لا يكره ويقين الإجابة: EN drops the entire problematic فإنه لا يكره clause and smooths the final fragment. Flag uncertainty, do not repair the hadith from memory."
+        },
+        {
+          "language": "id",
+          "old": "sesuai sabda beliau shallallahu ‘alaihi wa sallam: “Hendaklah salah seorang dari kalian berdoa hanya dalam keadaan yakin akan dikabulkan.”",
+          "new": "sesuai sabda Nabi, semoga selawat dan salam tercurah kepadanya: “Hendaklah salah seorang dari kalian berdoa hanya dalam keadaan yakin akan dikabulkan.”",
+          "reason": "First لقوله عليه الصلاة والسلام: translate blessing fully in Indonesian and identify Prophet instead of an ambiguous beliau."
+        },
+        {
+          "language": "id",
+          "old": "sesuai sabda beliau shallallahu ‘alaihi wa sallam: “Apabila salah seorang dari kalian memohon, hendaklah ia meneguhkan permintaannya dan yakin akan terkabul.”",
+          "new": "sesuai sabda Nabi, semoga selawat dan salam tercurah kepadanya: “Apabila salah seorang dari kalian memohon, hendaklah ia meneguhkan permintaannya.” [UNCLEAR: klausa berikutnya dapat dibaca “sebab ia tidak dipaksa” atau “sebab ia tidak membenci”; bacaan kata kerja dan rujukannya tidak pasti, lalu terdapat fragmen tentang keyakinan akan pengabulan.]",
+          "reason": "Second عليه الصلاة والسلام needs its own translated blessing. فإنه لا يكره ويقين الإجابة is malformed/partly omitted; do not turn it into a fluent extra command inside the quotation."
+        },
+        {
+          "language": "id",
+          "old": "sesuai sabda beliau shallallahu ‘alaihi wa sallam: “Doa salah seorang dari kalian akan dikabulkan",
+          "new": "sesuai sabda Nabi, semoga selawat dan salam tercurah kepadanya: “Doa salah seorang dari kalian akan dikabulkan",
+          "reason": "Third صلى الله عليه وسلم is a separate occurrence requiring a full translated blessing, stable with preceding two."
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "verdict": "repair",
+      "coverage": "Full contents continuation, folio 2: EVERY chapter 2–38 and initial dotted-letter continuation; 28 lunar mansions, 12 zodiac signs, four tawqifat, Jesus and peace honorific; basmala/seclusion/opening Quran/Fatihah/mercy lights/Greatest Name/omitted elements/exercises/conditions; divine Names, Kaf Ha Ya Ayn Sad, Throne verse/wafqs/talismans/Ya Sin; patterns 1–10, God possessor in chapters 27–30; letters/planets/attendants/minerals/retreats; arud/circle/zayirja/jafr/effusion/light/stone/plants/simiya; incomplete chapter38 ending. Every quantity/list entry/delimiter checked.",
+      "uncertainties": [
+        "الصفات الآديات is an uncertain adjective; the marker needs a target-language description, not just transliteration.",
+        "التواقيف الأربعة retained as a technical source term, not silently replaced with a remembered heading.",
+        "The technical sense of كشف العروض المعنويات is uncertain; retain the literal components without guessing prosody."
+      ],
+      "patches": [
+        {
+          "language": "en",
+          "old": "in the twenty-eight celestial mansions of the moon",
+          "new": "in the rulings concerning the twenty-eight celestial mansions of the moon",
+          "reason": "في أحكام منازل القمر الثمانية والعشرين الفلكيات: EN drops أحكام."
+        },
+        {
+          "language": "en",
+          "old": "supplications that are answered and made effective",
+          "new": "supplications that are answered and bring things into subjection",
+          "reason": "الأدعية المستجابات المسخرات includes subjugating, not merely generic efficacy."
+        },
+        {
+          "language": "id",
+          "old": "doa-doa yang terkabul serta berdaya guna",
+          "new": "doa-doa yang terkabul serta menundukkan",
+          "reason": "الأدعية المستجابات المسخرات explicitly includes subjugating, not merely usefulness."
+        },
+        {
+          "language": "en",
+          "old": "[UNCLEAR: Ādiyāt]",
+          "new": "[UNCLEAR: the meaning of the adjective read as Ādiyāt is uncertain here]",
+          "reason": "الآديات is an uncertain adjective; the marker must describe its uncertainty."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: Ādiyāt]",
+          "new": "[UNCLEAR: makna sifat yang terbaca Ādiyāt di sini tidak pasti]",
+          "reason": "الآديات requires a descriptive Indonesian explanation, not bare transliteration."
+        },
+        {
+          "language": "id",
+          "old": "Nama-nama Allah (Mahasuci dan Mahatinggi Dia) beserta berkah-berkahnya",
+          "new": "Nama-nama Allah Yang Mahatinggi beserta berkah-berkahnya",
+          "reason": "Chapter27 أسماء الله تعالى has no سبحانه: Mahasuci is added."
+        },
+        {
+          "language": "en",
+          "old": "eighth pattern from the Beautiful Names and their hidden secrets",
+          "new": "eighth pattern from the Beautiful Names of Allah and their hidden secrets",
+          "reason": "Chapters28,29,30 EACH explicitly say أسماء الله الحسنى. Restore the omitted possessor Allah at this occurrence; earlier chapters do not supply it."
+        },
+        {
+          "language": "en",
+          "old": "pattern from the Beautiful Names and their operations",
+          "new": "pattern from the Beautiful Names of Allah and their operations",
+          "reason": "Chapters28,29,30 EACH explicitly say أسماء الله الحسنى. Restore the omitted possessor Allah at this occurrence; earlier chapters do not supply it."
+        },
+        {
+          "language": "en",
+          "old": "tenth pattern from the Beautiful Names and their beneficial secrets",
+          "new": "tenth pattern from the Beautiful Names of Allah and their beneficial secrets",
+          "reason": "Chapters28,29,30 EACH explicitly say أسماء الله الحسنى. Restore the omitted possessor Allah at this occurrence; earlier chapters do not supply it."
+        },
+        {
+          "language": "id",
+          "old": "pola kedelapan dari Nama-nama Yang Paling Indah",
+          "new": "pola kedelapan dari Nama-nama Allah Yang Paling Indah",
+          "reason": "Chapters28,29,30 EACH explicitly say أسماء الله الحسنى. Restore the omitted possessor Allah at this occurrence; earlier chapters do not supply it."
+        },
+        {
+          "language": "id",
+          "old": "dari Nama-nama Yang Paling Indah serta operasi-operasinya",
+          "new": "dari Nama-nama Allah Yang Paling Indah serta operasi-operasinya",
+          "reason": "Chapters28,29,30 EACH explicitly say أسماء الله الحسنى. Restore the omitted possessor Allah at this occurrence; earlier chapters do not supply it."
+        },
+        {
+          "language": "id",
+          "old": "pola kesepuluh dari Nama-nama Yang Paling Indah",
+          "new": "pola kesepuluh dari Nama-nama Allah Yang Paling Indah",
+          "reason": "Chapters28,29,30 EACH explicitly say أسماء الله الحسنى. Restore the omitted possessor Allah at this occurrence; earlier chapters do not supply it."
+        },
+        {
+          "language": "en",
+          "old": "of uncovering the metaphysical aspects of ʿarūḍ.",
+          "new": "of unveiling [UNCLEAR: the construction combines ʿarūḍ and “immaterial/meaning-related”; its technical sense is uncertain].",
+          "reason": "كشف العروض المعنويات is an uncertain technical construction. Retain unveiling and describe the unclear combination rather than assert a definite interpretation."
+        },
+        {
+          "language": "id",
+          "old": "menyingkap aspek-aspek maknawi dari ‘arūḍ.",
+          "new": "penyingkapan [UNCLEAR: susunan ini menggabungkan ‘arūḍ dan “maknawi”; maksud teknisnya tidak pasti].",
+          "reason": "كشف العروض المعنويات is not a secure technical interpretation; mark the ambiguity descriptively."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Two ﴾",
+          "new": "[ Chapter Two ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Three ﴾",
+          "new": "[ Chapter Three ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Four ﴾",
+          "new": "[ Chapter Four ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Five ﴾",
+          "new": "[ Chapter Five ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Six ﴾",
+          "new": "[ Chapter Six ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Seven ﴾",
+          "new": "[ Chapter Seven ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Eight ﴾",
+          "new": "[ Chapter Eight ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Nine ﴾",
+          "new": "[ Chapter Nine ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Ten ﴾",
+          "new": "[ Chapter Ten ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Eleven ﴾",
+          "new": "[ Chapter Eleven ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Twelve ﴾",
+          "new": "[ Chapter Twelve ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Thirteen ﴾",
+          "new": "[ Chapter Thirteen ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter\r\nFourteen ﴾",
+          "new": "[ Chapter\r\nFourteen ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Fifteen ﴾",
+          "new": "[ Chapter Fifteen ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Sixteen ﴾",
+          "new": "[ Chapter Sixteen ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Seventeen ﴾",
+          "new": "[ Chapter Seventeen ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Eighteen ﴾",
+          "new": "[ Chapter Eighteen ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Nineteen ﴾",
+          "new": "[ Chapter Nineteen ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Twenty ﴾",
+          "new": "[ Chapter Twenty ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Twenty-One ﴾",
+          "new": "[ Chapter Twenty-One ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Twenty-Two ﴾",
+          "new": "[ Chapter Twenty-Two ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Twenty-Three ﴾",
+          "new": "[ Chapter Twenty-Three ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Twenty-Four ﴾",
+          "new": "[ Chapter Twenty-Four ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Twenty-Five ﴾",
+          "new": "[ Chapter Twenty-Five ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Twenty-Six ﴾",
+          "new": "[ Chapter Twenty-Six ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Twenty-Seven ﴾",
+          "new": "[ Chapter Twenty-Seven ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter\r\nTwenty-Eight ﴾",
+          "new": "[ Chapter\r\nTwenty-Eight ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Twenty-Nine ﴾",
+          "new": "[ Chapter Twenty-Nine ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Thirty ﴾",
+          "new": "[ Chapter Thirty ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Thirty-One ﴾",
+          "new": "[ Chapter Thirty-One ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Thirty-Two ﴾",
+          "new": "[ Chapter Thirty-Two ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Thirty-Three ﴾",
+          "new": "[ Chapter Thirty-Three ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Thirty-Four ﴾",
+          "new": "[ Chapter Thirty-Four ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Thirty-Five ﴾",
+          "new": "[ Chapter Thirty-Five ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter\r\nThirty-Six ﴾",
+          "new": "[ Chapter\r\nThirty-Six ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Thirty-Seven ﴾",
+          "new": "[ Chapter Thirty-Seven ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "en",
+          "old": "﴿ Chapter Thirty-Eight ﴾",
+          "new": "[ Chapter Thirty-Eight ]",
+          "reason": "The source chapter delimiters are punctuation. Preserve this heading and its position using Latin-target square brackets instead of Arabic presentation-form punctuation; embedded Arabic stays untouched."
+        },
+        {
+          "language": "id",
+          "old": "‘alaihis salam menghidupkan",
+          "new": "semoga salam tercurah kepadanya, menghidupkan",
+          "reason": "عيسى عليه السلام: the peace honorific must be fully translated in Indonesian, not only transliterated."
+        },
+        {
+          "language": "en",
+          "old": "the omitted elements of al-Fātiḥa",
+          "new": "the elements absent from al-Fātiḥa",
+          "reason": "سواقط الفاتحة denotes elements not occurring in al-Fatihah, not a claim that parts have been removed from its text. Avoid implying textual deletion."
+        },
+        {
+          "language": "id",
+          "old": "bagian-bagian yang dihilangkan dari al-Fatihah",
+          "new": "bagian-bagian yang tidak terdapat dalam al-Fatihah",
+          "reason": "سواقط الفاتحة means absent elements; dihilangkan wrongly asserts they have been removed."
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "verdict": "repair",
+      "coverage": "Full folio5: chapters39–40, chapter-one and section headings, worldly/otherworldly goals, earlier timing/planet/exercise/talisman discourse and this-world/afterlife contrast. Complete support chain Throne→Kursi→Saturn→Jupiter→Mars→Sun→Venus→Mercury→Moon→heat→moisture→cold→dryness→air→water→earth→Saturn. Source numbers 3/53/4/3/90/5/6/8/9 and each associated letter/wafq; Saturn triangle; human-essence correspondence; script direction/joining; 28+lam-alif=29; lunar mansions claim;14 visible;all14 assimilating letters in exact order. No canonical harmonization of inconsistent source numbers.",
+      "uncertainties": [
+        "The source gives 53, mim4 and ba3; preserve these values and flag the numerical inconsistency instead of replacing them from abjad memory.",
+        "The transition to jim and the later sad/five/ha passage is poorly connected. Do not assign an absent planet or harmonize it."
+      ],
+      "patches": [
+        {
+          "language": "en",
+          "old": "in detail it is fifty-three: mīm is four and bāʾ is three.",
+          "new": "in detail it is fifty-three: mīm is four and bāʾ is three [UNCLEAR: these are the source values, but their numerical relationship is inconsistent].",
+          "reason": "فثلاثة وخمسون هكذا الميم بأربع والباء بثلاثة contains conflicting source values. Preserve53/4/3 and the letters, with explicit uncertainty."
+        },
+        {
+          "language": "id",
+          "old": "secara terperinci nilainya lima puluh tiga: mīm bernilai empat dan bāʾ bernilai tiga.",
+          "new": "secara terperinci nilainya lima puluh tiga: mīm bernilai empat dan bāʾ bernilai tiga [UNCLEAR: angka-angka ini sesuai sumber, tetapi hubungan perhitungannya tidak konsisten].",
+          "reason": "فثلاثة وخمسون هكذا الميم بأربع والباء بثلاثة gives inconsistent quantities; do not replace them or the letters."
+        },
+        {
+          "language": "en",
+          "old": "Its fivefold wafq is associated with the sphere of Jupiter; its number is six, represented by wāw, and it has a sixfold wafq",
+          "new": "It has a fivefold wafq. The sphere of Jupiter has six, represented by wāw, and it has a sixfold wafq.",
+          "reason": "وله من الأوفاق المخمس وفلك المشتري ستة begins a NEW Jupiter clause after the fivefold wafq. Existing EN wrongly associates fivefold with Jupiter. Do not invent the prior unnamed antecedent."
+        },
+        {
+          "language": "id",
+          "old": "Wafq lima sisi dan falak Musytari terkait dengannya pada angka enam, yaitu huruf wāw, dan ia memiliki wafq enam sisi",
+          "new": "Ia memiliki wafq berordo lima. Falak Musytari memiliki angka enam, yaitu huruf wāw, dan memiliki wafq berordo enam.",
+          "reason": "وله من الأوفاق المخمس وفلك المشتري ستة distinguishes prior fivefold from Jupiter six/sixfold. Sisi also confuses a square order with polygon side count."
+        },
+        {
+          "language": "id",
+          "old": "wafq tujuh sisi",
+          "new": "wafq berordo tujuh",
+          "reason": "المسبع / المثمن / المتسع denote a wafq square order, not seven/eight/nine-sided polygons. Preserve the numeric order without changing geometry."
+        },
+        {
+          "language": "id",
+          "old": "wafq delapan sisi",
+          "new": "wafq berordo delapan",
+          "reason": "المسبع / المثمن / المتسع denote a wafq square order, not seven/eight/nine-sided polygons. Preserve the numeric order without changing geometry."
+        },
+        {
+          "language": "id",
+          "old": "wafq sembilan sisi",
+          "new": "wafq berordo sembilan",
+          "reason": "المسبع / المثمن / المتسع denote a wafq square order, not seven/eight/nine-sided polygons. Preserve the numeric order without changing geometry."
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "verdict": "repair",
+      "coverage": "Full folio6 and long targets through wrapped reads: fourteen claimed letters versus thirteen listed; alif, numbers/letters/utterances/actions and power honorific; timing/discipline/talismans; dal4 and three 4×4 formulations; Monday birth/commission/death and EACH Prophet blessing; Moon3degrees Taurus/no malefics/hour/purification/2prayerunits/100recitations/parchment; each carrying benefit, prisoner, banner enemies/disputant; four elements/humors in order; four/not-raba; Names al-Daim/al-Wadud and God Most High, Ahmad/Muhammad, permanence explanation; Throne/firstworld/spirits/intellects/mercy; God Most High and Harithah pleasure prayer; every dialogue actor, three worldly pairs and three destinations; spirits/purity/prostration; wudd/hubb repetitions, al-shaqq/ahabb wording, shaghaf/fuad, three cavities and unfinished ending. No supplied diagram: none invented.",
+      "uncertainties": [
+        "The source claims14 letters but lists13. Retain both claim and actual entries; do not add a remembered missing lunar letter.",
+        "كالطاعات والتعريفات والراءات is a damaged letter-example phrase. Translate its visible words within a descriptive uncertainty marker rather than assert a coherent taxonomy.",
+        "أربعة لا ربعة has an uncertain second term; ربعة is not securely ربع (quarter).",
+        "The transition from dal/al-Daim to Ahmad/Muhammad and the subsequent permanence clause is grammatically incomplete; preserve these named items but do not invent a causal explanation.",
+        "الشّق and أحب باطن العشق are problematic in the love-term passage. Keep the actual al-shaqq reading and readable heart/shaghaf/fuad content; never silently substitute remembered al-ishq or al-hubb.",
+        "The page ends at محل (place). Do not complete the next-page referent."
+      ],
+      "patches": [
+        {
+          "language": "en",
+          "old": "and they are fourteen letters, as you see: alif, bāʾ, jīm, ḥāʾ, kāf, mīm, ʿayn, ghayn, fāʾ, qāf, hāʾ, wāw, and yāʾ.",
+          "new": "and they are fourteen letters, as you see: alif, bāʾ, jīm, ḥāʾ, kāf, mīm, ʿayn, ghayn, fāʾ, qāf, hāʾ, wāw, and yāʾ [UNCLEAR: the source says fourteen but lists only thirteen letters].",
+          "reason": "أربعة عشر حرفاً followed by أ ب ج ح ك م ع غ ف ق هـ و ي has13 entries. Preserve the source contradiction explicitly; do not supply an absent letter."
+        },
+        {
+          "language": "id",
+          "old": "dan jumlahnya empat belas huruf sebagaimana engkau lihat: alif, bāʾ, jīm, ḥāʾ, kāf, mīm, ʿayn, ghayn, fāʾ, qāf, hāʾ, wāw, dan yāʾ.",
+          "new": "dan jumlahnya empat belas huruf sebagaimana engkau lihat: alif, bāʾ, jīm, ḥāʾ, kāf, mīm, ʿayn, ghayn, fāʾ, qāf, hāʾ, wāw, dan yāʾ [UNCLEAR: sumber menyatakan empat belas, tetapi hanya mencantumkan tiga belas huruf].",
+          "reason": "أربعة عشر حرفاً and the thirteen listed entries disagree. Keep both, do not add a canonical missing entry."
+        },
+        {
+          "language": "en",
+          "old": "followed by letters such as acts of obedience, definiteness forms, and rāʾs, all belonging to the side of alif and what follows it.",
+          "new": "followed by other letters [UNCLEAR: the examples literally read “acts of obedience, definitions, and rāʾs”; their intended connection to the letters is uncertain], on the side of alif and what follows it.",
+          "reason": "كالطاعات والتعريفات والراءات is not a coherent letter classification. Preserve each visible word without guessing a remembered letter-name sequence."
+        },
+        {
+          "language": "id",
+          "old": "disusul huruf-huruf seperti amalan ketaatan, bentuk-bentuk definitif, dan huruf rāʾ; semuanya berada pada sisi alif dan apa yang mengikutinya.",
+          "new": "disusul huruf-huruf lain [UNCLEAR: contoh-contohnya secara harfiah berbunyi “amalan ketaatan, definisi-definisi, dan rāʾ”; hubungan yang dimaksud dengan huruf-huruf tidak pasti], pada sisi alif dan apa yang mengikutinya.",
+          "reason": "كالطاعات والتعريفات والراءات is a damaged example sequence, not a secure classification; translate visible terms without canonical reconstruction."
+        },
+        {
+          "language": "en",
+          "old": "for whomever He wills",
+          "new": "for whoever wishes",
+          "reason": "لمن شاء does not explicitly introduce God as the willing actor. Avoid inserting a capitalized divine He into this operational clause."
+        },
+        {
+          "language": "id",
+          "old": "bagi siapa yang Dia kehendaki",
+          "new": "bagi siapa yang menghendakinya",
+          "reason": "لمن شاء does not explicitly name God as the willing actor; do not invent Dia."
+        },
+        {
+          "language": "en",
+          "old": "the day the Prophet was born,",
+          "new": "the day the Prophet, peace and blessings be upon him, was born,",
+          "reason": "يوم ولد النبي صلى الله عليه وسلم: first of FIVE Prophet blessing occurrences on this page is missing in EN."
+        },
+        {
+          "language": "id",
+          "old": "hari kelahiran Nabi,",
+          "new": "hari kelahiran Nabi, semoga selawat dan salam tercurah kepadanya,",
+          "reason": "يوم ولد النبي صلى الله عليه وسلم: first Prophet blessing is missing. Translate fully, keeping birth/commission/death all on Monday."
+        },
+        {
+          "language": "id",
+          "old": "Allah akan memudahkannya menghafal",
+          "new": "Allah Yang Mahatinggi akan memudahkannya menghafal",
+          "reason": "يسر الله تعالى له الحفظ والفهم: first تعالى is missing in ID."
+        },
+        {
+          "language": "id",
+          "old": "ia akan terbebas dengan izin Allah.",
+          "new": "ia akan terbebas dengan izin Allah Yang Mahatinggi.",
+          "reason": "تخلص بإذن الله تعالى: second تعالى is omitted."
+        },
+        {
+          "language": "en",
+          "old": "These are four, not a quarter;",
+          "new": "These are four, not [UNCLEAR: the following source word is rabaʿa; the intended contrast is uncertain];",
+          "reason": "أربعة لا ربعة does not securely read four not a quarter; quarter is normally ربع, not the given ربعة. Retain four and negation, flag only the damaged contrast."
+        },
+        {
+          "language": "id",
+          "old": "Ini adalah empat, bukan seperempat;",
+          "new": "Ini adalah empat, bukan [UNCLEAR: kata berikutnya dalam sumber berbunyi rabaʿa; pertentangan yang dimaksud tidak pasti];",
+          "reason": "أربعة لا ربعة is not securely four not a quarter. Keep four and the negation without silently changing the source word."
+        },
+        {
+          "language": "en",
+          "old": "This noble letter appears especially in His name al-Dāʾim,",
+          "new": "This noble letter appears especially in His name—exalted is He—al-Dāʾim,",
+          "reason": "في اسمه تعالى الدائم خصوصاً: this تعالى occurrence is omitted."
+        },
+        {
+          "language": "id",
+          "old": "Huruf mulia ini muncul secara khusus dalam nama-Nya al-Dāʾim",
+          "new": "Huruf mulia ini muncul secara khusus dalam nama-Nya—Mahatinggi Dia—al-Dāʾim",
+          "reason": "في اسمه تعالى الدائم خصوصاً: third تعالى omitted."
+        },
+        {
+          "language": "en",
+          "old": "and for that reason the two noble and generous names are Aḥmad and Muḥammad. This indicates that permanence is the final end of its beginning: it follows dāl in the word for permanence.",
+          "new": "[UNCLEAR: the following incomplete clause connects this with the two noble, generous names Aḥmad and Muḥammad, then speaks of permanence as the final limit of its beginning and of what follows dāl for permanence; the grammatical connections are uncertain].",
+          "reason": "ولذلك كان الاسمين الشريفين الكريمين أحمد ومحمد وهو يشير إلى أن الدوام آخر المنتهى لأوله فهو بعد الدال للدوام is syntactically incomplete. Do not assert that this explains why the two names ARE Ahmad/Muhammad or invent a definite antecedent; retain all readable concepts."
+        },
+        {
+          "language": "id",
+          "old": "karena itu, dua nama yang mulia dan pemurah tersebut adalah Aḥmad dan Muḥammad. Hal ini menunjukkan bahwa keabadian merupakan akhir dari permulaannya: ia berada setelah dāl dalam kata yang berarti keabadian.",
+          "new": "[UNCLEAR: klausa tidak lengkap berikutnya menghubungkan hal ini dengan dua nama mulia dan pemurah, Aḥmad dan Muḥammad, lalu menyebut keabadian sebagai batas akhir dari permulaannya dan sesuatu yang mengikuti dāl untuk keabadian; hubungan gramatikalnya tidak pasti].",
+          "reason": "ولذلك كان الاسمين الشريفين الكريمين أحمد ومحمد ... فهو بعد الدال للدوام is incomplete. Retain both names and permanence/dal concepts, but do not invent their causal connection."
+        },
+        {
+          "language": "en",
+          "old": "Some people who know God have disclosed this",
+          "new": "Some people who know God Most High have disclosed this",
+          "reason": "بعض العارفين بالله تعالى: fourth تعالى is missing in EN."
+        },
+        {
+          "language": "id",
+          "old": "Sebagian orang yang mengenal Allah telah menyingkap",
+          "new": "Sebagian orang yang mengenal Allah Yang Mahatinggi telah menyingkap",
+          "reason": "بعض العارفين بالله تعالى: fourth تعالى is missing in ID."
+        },
+        {
+          "language": "en",
+          "old": "Ḥārithah, may God be pleased with him,",
+          "new": "Ḥārithah, may God Most High be pleased with him,",
+          "reason": "حارثة رضي الله تعالى عنه: pleasure prayer retains God but omits تعالى; restore this fifth exaltation occurrence."
+        },
+        {
+          "language": "id",
+          "old": "Ḥārithah, semoga Allah meridainya,",
+          "new": "Ḥārithah, semoga Allah Yang Mahatinggi meridainya,",
+          "reason": "حارثة رضي الله تعالى عنه: retain the pleasure prayer AND fifth تعالى occurrence."
+        },
+        {
+          "language": "id",
+          "old": "Rasulullah, semoga selawat dan salam Allah tercurah kepadanya, bertanya,",
+          "new": "Rasulullah, semoga selawat dan salam tercurah kepadanya, bertanya,",
+          "reason": "حين سأله رسول الله صلى الله عليه وسلم: full second blessing is already present; align wording with the other four occurrences on this page, not omit it."
+        },
+        {
+          "language": "id",
+          "old": "Rasulullah bertanya, “Apakah hakikat imanmu?”",
+          "new": "Rasulullah, semoga selawat dan salam tercurah kepadanya, bertanya, “Apakah hakikat imanmu?”",
+          "reason": "فقال رسول الله صلى الله عليه وسلم ما حقيقة إيمانك: third blessing missing."
+        },
+        {
+          "language": "id",
+          "old": "Nabi berkata kepadanya, “Engkau telah mengetahui",
+          "new": "Nabi, semoga selawat dan salam tercurah kepadanya, berkata kepadanya, “Engkau telah mengetahui",
+          "reason": "فقال له النبي صلى الله عليه وسلم قد عرفت فالزم: fourth blessing missing."
+        },
+        {
+          "language": "id",
+          "old": "Nabi juga bersabda tentang ruh-ruh,",
+          "new": "Nabi, semoga selawat dan salam tercurah kepadanya, juga bersabda tentang ruh-ruh,",
+          "reason": "وقال النبي صلى الله عليه وسلم في الأرواح: fifth blessing missing; do not assume an earlier one covers it."
+        },
+        {
+          "language": "en",
+          "old": "Al-shaqq is a subtlety between love and wudd; its dwelling is shaghaf, and the most beloved inward aspect of passion dwells in the fuʾād,",
+          "new": "Al-shaqq is a subtlety between love and wudd; its dwelling is shaghaf [UNCLEAR: the term al-shaqq is uncertain in this context, and the next fragment reads “most beloved/love, the inward aspect of passion” without a secure grammatical connection]; its dwelling is the fuʾād,",
+          "reason": "والشق لطيفة بين الحب والود مسكنه الشغف وأحب باطن العشق ومسكنه الفؤاد has problematic الشق and أحب. Keep the visible al-shaqq, subtlety, love/wudd, shaghaf and fuad rather than silently substitute al-ishq/al-hubb or create a fluent superlative relation."
+        },
+        {
+          "language": "id",
+          "old": "Al-syaqq adalah suatu kelembutan di antara cinta dan wudd; tempatnya adalah syaghaf, sedangkan sisi batin kerinduan yang paling dicintai bertempat di fuʾād,",
+          "new": "Al-syaqq adalah suatu kelembutan di antara cinta dan wudd; tempatnya adalah syaghaf [UNCLEAR: istilah al-syaqq tidak pasti dalam konteks ini, dan fragmen berikutnya berbunyi “paling dicintai/cinta, sisi batin kerinduan” tanpa hubungan gramatikal yang pasti]; tempatnya adalah fuʾād,",
+          "reason": "والشق لطيفة بين الحب والود مسكنه الشغف وأحب باطن العشق ومسكنه الفؤاد has unstable source terms/syntax. Preserve the actual words and residences; do not repair from remembered love taxonomy."
+        }
+      ]
+    }
+  ]
+}

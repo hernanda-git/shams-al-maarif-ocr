@@ -1,0 +1,354 @@
+{
+  "reviewer_id": "f40cdcc7-f73e-4163-a96c-e1e01ee15a92",
+  "reviewer_kind": "independent_model",
+  "pages": [
+    {
+      "page": 26,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_026.txt",
+          "sha256": "e648a3ce22271e358e23014d667464b4d752a7283977e2c41f380256c1a4c1b2"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_026.txt",
+          "sha256": "bcbb87f5d02a1b396d91fd866d8c2356840fa1a4221c9f8d98efc5acd4750bf9"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_026.txt",
+          "sha256": "44d7892c2ff0233f7555f44b42d16651cc2d9cf5e793a4ead0ee359802828934"
+        }
+      },
+      "coverage": "Full canonical lines 1–34 and both complete targets: folio -20-; repeated opening birth/outcome clauses; Dabarān, two separately retained Haqʿah headings, Dhirāʿ, Nathrah, Ṭarfah, Jabhah; every letter and 3/7-dot/colon form; elements and fortune qualifiers; descending spirits and all three God-Most-High permission honorifics; every imperative/negation, permitted burial/secrecy/well/channel exceptions, poison antidotes, rulers/brothers, marriage/medicine/slaves/horses/trees/building/measure/weigh/travel/trade, sciences/talismans/naranjiyyāt, weapons/signaling, solitude, iron; every natal prognosis, incense ingredient, God-knows-best, and terminal seed fragment. No poetry or table.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the source verb before “with a fragrant scent” reads “wa-khurr”]",
+          "new": "fall down in it with a fragrant scent",
+          "reason": "وخر فيه بالرائحة العطرة: خُرّ is the readable imperative “fall down”; odd context does not make the verb unreadable. Preserve the fragrant-scent adjunct as translated content."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: kata kerja sebelum “dengan aroma harum” terbaca “wa-khurr”]",
+          "new": "tersungkurlah di dalamnya dengan aroma harum",
+          "reason": "وخر فيه بالرائحة العطرة: خُرّ is the readable imperative “fall down”; preserve the odd literal instruction and its adjunct, rather than replacing them with a reading note."
+        },
+        {
+          "language": "en",
+          "old": "Do not [UNCLEAR: the verb reads “tamal”] a qasam.",
+          "new": "Do not dictate an oath.",
+          "reason": "ولا تمل قسما: تمل is a regular jussive of أملى (to dictate), with final weak letter removed after لا الناهية. The readable prohibition need not be suppressed."
+        },
+        {
+          "language": "id",
+          "old": "Jangan [UNCLEAR: kata kerjanya terbaca “tamal”] suatu qasam.",
+          "new": "Jangan mendiktekan suatu sumpah.",
+          "reason": "ولا تمل قسما: تمل can be read as the regular prohibitive jussive of أملى, “dictate”; translate the prohibition and قسما instead of treating the verb as unreadable."
+        }
+      ],
+      "uncertainties": [
+        "No missing incense species supplied at the final حب fragment."
+      ]
+    },
+    {
+      "page": 27,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_027.txt",
+          "sha256": "df6dc04487c0fb2c29ba3951646358cab776e62942df2d64a62c155c6e97aa9b"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_027.txt",
+          "sha256": "2513af92ca1231d7a013508a743334d22ed95a692aa8e153850b674368834e13"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_027.txt",
+          "sha256": "12ddc22890e04c54445f0acc29568ff970f5e9631653dbfcdea455f4f1873b40"
+        }
+      },
+      "coverage": "Full canonical lines 1–32 and both complete targets: double-dash folio 21; opening myrtle/saffron continuation; Ḥarthān, Ṣarfah, ʿAwāʾ, Simāk, Ghafr, Zubānā, Iklīl, Qalb, Shawlah; all dot/colon/hāʾ patterns and kāf/lām/mīm/nūn/ʿayn/ʿayn/fāʾ/ṣād/qāf letters; hot/dry/watery/earthy and fortune qualifiers; spirit actions and both God-Most-High permissions; complete medical/trade/ruler/travel/clothing/science/stone/poison/love/iron-blow/dog-bite/enemies/illness/weapons/veterinary/agricultural/medicine/bloodletting lists; every prohibition, natal sex qualification and prognosis, incense list and only-exclusion, God-knows-best; trailing incomplete Shawlah planet clause. No poetry/table.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "pomegranate peel and [UNCLEAR: a further incense term]",
+          "new": "pomegranate peel [UNCLEAR: the following words read “ḥulūlan ghayr”]",
+          "reason": "قشر رمان حلولاً غير has no conjunction introducing another incense ingredient. The following corrupt words must not be presented as evidence of an additional ingredient."
+        },
+        {
+          "language": "id",
+          "old": "kulit delima dan [UNCLEAR: istilah dupa tambahan]",
+          "new": "kulit delima [UNCLEAR: kata-kata berikutnya terbaca “ḥulūlan ghayr”]",
+          "reason": "قشر رمان حلولاً غير has no conjunction or identifiable further ingredient; “dan ... dupa tambahan” asserts a list member not established by the Arabic."
+        }
+      ],
+      "uncertainties": [
+        "The canonical incense tail حلولاً غير is corrupt; no extra ingredient can be established."
+      ]
+    },
+    {
+      "page": 29,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_029.txt",
+          "sha256": "cfe64dd6346484ca999db115e247802ea572375236ecfe1800b2d25259d10274"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_029.txt",
+          "sha256": "f7a0ab443b0f7b42d2fa9f62c8d699649d5d4377b58165befce31a5d780127d6"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_029.txt",
+          "sha256": "c1f05b1ced10d8830404d2f2baae55776818d5b9d486ad669553b3b3076398d6"
+        }
+      },
+      "coverage": "Full canonical lines 1–32 and both complete targets: unusual folio 12; ḍād continuation with love/desire/qualities/spirits/talismans/incomplete medicines/rulers/birth/incense; Muʾakhkhar and Rashā forms/letters/watery qualities, every God-Most-High permission, action, prohibition, medical/intercourse/bath/hair/nail/movement/social list, natal and incense clauses; all twelve star-delimited zodiac allocations with every third/two-thirds and source irregularity (duplicated Haqʿah, Dhirāʿ for Capricorn, embedded star, source الاخية); origins heading, two Sharṭayn directions/horns/brighter name/ten cubits/Simāk neighbor, Buṭayn three-stars versus two-dot geometry and Aries anatomy, Thurayyā seven/six/one eyesight/dew naming, verse and its God-Most-High honorific, corrupt mā clause, Messenger honorific and fruit-afflictions quotation, final Suʿūd/Muqaddam attribution fragment.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the subject or addressee of “acts in it for love and stirs desire” is not explicit.]",
+          "new": "It acts in it for love and stirs desire [UNCLEAR: the subject or addressee is not explicit].",
+          "reason": "تفعل فيه للمحبة وتثير الشهوة contains readable predicates. Uncertainty concerns the subject/addressee, not the existence or meaning of the love/desire clauses."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: subjek atau pihak yang disapa dalam “bertindak di dalamnya untuk kasih sayang dan membangkitkan syahwat” tidak dinyatakan secara jelas.]",
+          "new": "Ia bertindak di dalamnya untuk kasih sayang dan membangkitkan syahwat [UNCLEAR: subjek atau pihak yang disapa tidak dinyatakan secara jelas].",
+          "reason": "تفعل فيه للمحبة وتثير الشهوة: retain both readable actions as translation; confine uncertainty to their subject/addressee."
+        },
+        {
+          "language": "en",
+          "old": "al-Akhbiyah, and al-Fargh al-Muqaddam belong to Pisces.",
+          "new": "al-Akhiyah, and al-Fargh al-Muqaddam belong to Pisces.",
+          "reason": "والاخية والفرغ المقدم: this page reads الاخية, without ب. Do not silently replace this source name with the familiar الأخبية."
+        },
+        {
+          "language": "id",
+          "old": "al-Akhbiyah, dan al-Fargh al-Muqaddam termasuk Pisces.",
+          "new": "al-Akhiyah, dan al-Fargh al-Muqaddam termasuk Pisces.",
+          "reason": "والاخية والفرغ المقدم reads الاخية, not الأخبية; the target currently regularizes the readable name by adding b."
+        }
+      ],
+      "uncertainties": [
+        "Opening action subject/addressee is not explicit; the name mā and فعل رماها in the Thurayyā naming passage are anomalous. No familiar canonical wording used as evidence."
+      ]
+    },
+    {
+      "page": 30,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_030.txt",
+          "sha256": "b1d80ab7116c4703f39348d8781a096d463b033f0628c0e0c8702eee368774fe"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_030.txt",
+          "sha256": "97b9a32eb295046802679fea8469c007c3fcd31a68c33376a3f9d1b1c0c53233"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_030.txt",
+          "sha256": "e6aeaab4a5b779c22ace7eca19eef25920e4b01e26a279cf022b5ecf2445e9bd"
+        }
+      },
+      "coverage": "Full canonical lines 1–34 and both complete targets: folio 24; both full poetic lines with half-line separators and odd liver/splint/knee/wrist imagery; Thurayyā/Kaff/Jazmā/Ayyūq/Aʿlām names and spatial statements; Dabarān Aries rump/five-Taurus/two-dot/red-one-dot/mountain/young-she-camels/cow-head imagery; Haqʿah three/fingers/mount-side and Ibn ʿAbbās BOTH-person honorific/divorce question/reply; Hanʿah five/two-large/three-small/bending etymology; Dhirāʿ two stars/whip/extended-clenched/highness, Shiʿrā companion/Milky-Way/Suhayl/weeping clauses; Nathrah whiteness/nose/three-dot/location/name; Ṭarfah two-versus-four/Yamāniyy/whip and absent shape; Jabhah corrupt comparison/shoulders/whip/three-dot; both Simāk, lunar inclusion/exclusion, legs/shanks/spear/isolation/rising, absent Aʿzal shape/two-dot Rāmiḥ, hindquarters and corrupt Yemeni/Syrian relation; Ghafr three-versus-two-dot/tail/Libra; Zubānān two/two-dot; Iklīl four/four-dot/alternative three/scorpion-head ending.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the source’s clause about catching up and its companion has an unclear subject]",
+          "new": "and he caught up with its companion [UNCLEAR: the subject of “caught up” is unspecified]",
+          "reason": "وَلَحِقَ صَاحِبَهَا is readable: the vocalized صاحبَها is the object, “its companion.” Only the masculine subject is unclear; translate the actual catching-up assertion."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: subjek klausa sumber tentang menyusul dan pasangannya tidak jelas]",
+          "new": "dan ia menyusul pasangannya [UNCLEAR: subjek kata kerja “menyusul” tidak disebutkan secara jelas]",
+          "reason": "وَلَحِقَ صَاحِبَهَا gives the readable act “caught up with its companion”; uncertainty in the subject does not justify replacing the entire clause with commentary."
+        }
+      ],
+      "uncertainties": [
+        "ka-ahlā al-asad and fa-khadamāyā remain corrupt; naming relation of Aʿlām is uncertain. No absent source diagrams reconstructed."
+      ]
+    },
+    {
+      "page": 32,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_032.txt",
+          "sha256": "b9151fbbcd3f51f1f868bd338f77f5ab0685c28552373e6fb7aaa005a60e233b"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_032.txt",
+          "sha256": "bc8391ad1f3130b03ce6a52300277e025f16ebddc5e625bdc20cdd4191ce335e"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_032.txt",
+          "sha256": "f11271e80482e86384a8cd1b40183900a754f5a94effb4ff087dfbfbcee27a10"
+        }
+      },
+      "coverage": "Full canonical lines 1–34 and both complete targets: folio 26; complete rising calendar from fourth Tammūz fragment through Rashā fourth Nīsān, every day/month and remaining-two-nights relation, undated Shiʿrā; four seasonal lists including six listed summer mansions and claimed seven each; rhymed-sayings heading and full Kindī/Abū Manṣūr Khawlānī/Abū Muḥammad Manāwī chain, Kindī God-Most-High mercy honorific; every saying in source order, all actors/objects, conditionals, negatives, cloak/waterskin tomorrow, fires/pools, faḥmah, protection, solar rays/drink, calf/no milk-drop, Abū Ḍayf, snakes/air, property/owners, Farghān/Nasr/bridge, muʿyān, maqālīl, difficulty, old man/urination, blessings, ʿaṣīdah/butter/ghee/pot, Dhābiḥ, cloaks, shining earth, corrupt Shawlā/pasture fragment, serve/no regret, hurry/no delay, movement/thorn; ending God-knows-best and chapter-four twelve-signs heading/Know fragment.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "The rising of al-Dhirāʿ is on the fourth night of Tammūz;",
+          "new": "On the fourth night of Tammūz [UNCLEAR: the opening subject is not present on this page];",
+          "reason": "The page opens لأربع خلون من تموز. It does not itself name al-Dhirāʿ or repeat “rising”; do not supply a specific mansion from outside the reviewed page."
+        },
+        {
+          "language": "id",
+          "old": "Terbitnya al-Dhirāʿ terjadi pada malam keempat Tammūz;",
+          "new": "Pada malam keempat Tammūz [UNCLEAR: subjek pembuka tidak terdapat pada halaman ini];",
+          "reason": "لأربع خلون من تموز is an opening continuation without a named subject on this page. The specific added al-Dhirāʿ is unsupported here."
+        },
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the jisr flows]",
+          "new": "a bridge flows [UNCLEAR: the intended image is uncertain]",
+          "reason": "وسال جسر literally says “and a bridge flowed”; جسر is a readable noun, not an unreadable technical term. Preserve the odd literal image."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: jisr mengalir]",
+          "new": "sebuah jembatan mengalir [UNCLEAR: gambaran yang dimaksud tidak pasti]",
+          "reason": "وسال جسر contains readable جسر, “bridge/jembatan”; the odd image should be translated, with uncertainty confined to its intended sense."
+        },
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the old man's urination is delayed]",
+          "new": "urination delays the old man [UNCLEAR: the intended sense is uncertain]",
+          "reason": "أجلت الشيخ البولة: الشيخ is the object and البولة the following subject (the verb is feminine). The existing rendering reverses these roles into a passive delay of the urination. Preserve the unusual actor/object relation."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: buang air kecil orang tua tertunda]",
+          "new": "buang air kecil menunda orang tua itu [UNCLEAR: maksudnya tidak pasti]",
+          "reason": "أجلت الشيخ البولة: the feminine verb agrees with the following البولة, while الشيخ is its object. The existing passive makes the urination the patient instead."
+        },
+        {
+          "language": "en",
+          "old": "[UNCLEAR: al-ḥasakah attaches]",
+          "new": "the thorn attaches",
+          "reason": "وتعلقت الحسكة: الحسكة is the readable “thorn”; an odd proverbial image is not a reason to conceal it under UNCLEAR."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: al-ḥasakah melekat]",
+          "new": "duri melekat",
+          "reason": "وتعلقت الحسكة gives the readable noun “thorn/duri” and action “attaches/melekat”; preserve the literal proverbial clause."
+        }
+      ],
+      "uncertainties": [
+        "muʿyān, maqālīl, عديل الناح and الشولا [~] رر الكلا have uncertain lexical/syntactic sense. Old-man/urination and bridge imagery are readable but contextually odd; proposed literal renderings do not claim recovery of a canonical proverb."
+      ]
+    },
+    {
+      "page": 33,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_033.txt",
+          "sha256": "4daf3cae9b6ded5a91df66d803a1be88cf5d6dd07239097a72fb26b08245d18a"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_033.txt",
+          "sha256": "96ee50b94c50908cf110eef908723bdd1a98fff5a9e1f1ad21474347cbd69bbf"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_033.txt",
+          "sha256": "ac19cfba79c79631779a72f5d0edc91a84dd2acfb59da7fb55fdbee0e2222e6d"
+        }
+      },
+      "coverage": "Full canonical lines 1–33 and both complete targets: folio 27; repeated-you invocation; twelve signs/twenty-eight mansions and every verse/speaker with all God-Most-High honorifics; burj singular/palace/fortress senses; complete twelve-sign sequence; all planetary domicile assignments without adding absent Sagittarius; four elemental triplicities, all twelve members; table exactly 12 month headers, 12 sign cells, 12 first mansion-row cells, 11 last-row cells including Mahj/Kabl/Khurtān and absent final cell; interpretation alternatives palace/star/lamp/gates/Milky-Way; Ibn ʿAbbās dual honorific; quadrants/triads/seven planets/32; corrupt figure fragments including five/three/eleven, both directional descriptions, head/horns/cutting-half, Thurayyā/Dabarān; Gemini eighteen plus seven outside/twins/hand/shoulder/head/north/east/west; Cancer six plus four outside/crab/directions/twins/two lambs/eight/upright/Leo; fifth Virgo/Virgin/twenty-six cutoff.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the source’s next count and relation mention three, Taurus and its stars, and eleven stars outside Taurus.]",
+          "new": "It is three [UNCLEAR: the relation of “Taurus and its stars” is corrupt], and there are eleven stars outside Taurus.",
+          "reason": "وهي ثلاثة والثور كواكبه والخارج من الثور أحد عشر كوكبا: the middle syntax is corrupt, but the opening three and complete outside-Taurus count of eleven stars are readable statements, not merely topics to summarize."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: hitungan dan hubungan berikutnya dalam sumber menyebut tiga, Taurus beserta bintang-bintangnya, dan sebelas bintang di luar Taurus.]",
+          "new": "Jumlahnya tiga [UNCLEAR: hubungan frasa “Taurus dan bintang-bintangnya” rusak], dan terdapat sebelas bintang di luar Taurus.",
+          "reason": "وهي ثلاثة والثور كواكبه والخارج من الثور أحد عشر كوكبا: only the middle relationship is corrupt; preserve the readable count statements, especially eleven stars outside Taurus."
+        }
+      ],
+      "uncertainties": [
+        "Source has corrupt figure syntax, especially نكبتا رأسه النطح, and irreconcilable-looking counts/directions; readable independent counts must nevertheless be translated."
+      ]
+    },
+    {
+      "page": 35,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_035.txt",
+          "sha256": "15a65b1b23f4374d2fd8a29cd9b363c296679ed22ff846adddccd5789bd1b59e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_035.txt",
+          "sha256": "b3702f008ee3f93499b52d4b6c511567aea5e743c6ded4a5a9f347621e0d1d7f"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_035.txt",
+          "sha256": "c69cf718f434608ad7f113993fee88f924d032db005c32988888e33ebb17d950"
+        }
+      },
+      "coverage": "Full canonical lines 1–35 and both complete targets: folio 29; ancients versus legal scholars; Ibn ʿAbbās versus ʿAbbās ibn ʿAbd Muṭṭalib attribution, Baṭḥāʾ/cloud/muzn/ʿanān dialogue, all three opening Prophet blessings; 500-year separation/500 thickness/seventh heaven/sea/world/corrupt son phrase/God-Most-High/hidden-deeds negation/creation verse/total human journey/one-hour angel/devil order; Abū Razīn ʿUqaylī God-Most-High pleasure honorific, supplication/day answers; Thaʿlabī/Ibn ʿAbbās/360 apertures/corrupt uppermost clause; all five solar indications and six benefits, Creator glorification and EACH Most-High occurrence, every negation and reason; fourth sphere/transparent heavens/dense rising cloud; Moon chapter; Abū Hurayrah full-moon/sun questions with BOTH yes answers preserved and two Prophet blessings; two reasons, Gabriel/wing/broken heart, two compensations/every month/Muḥammad blessing, God-Most-High occurrences, sight/encompassing negation and final ray fragment.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "Thus the distance of all of them is [UNCLEAR: described in relation to] the journey of the children of Adam.",
+          "new": "Thus the distance of all of them is this journey of the children of Adam.",
+          "reason": "فتكون مسافة الجميع مسيرة بني آدم هذه is a readable equative clause with demonstrative هذه (“this”). The existing insertion obscures the equative assertion and drops the demonstrative."
+        },
+        {
+          "language": "id",
+          "old": "Dengan demikian, jarak seluruhnya [UNCLEAR: digambarkan dengan mengaitkannya pada] perjalanan anak-anak Adam.",
+          "new": "Dengan demikian, jarak seluruhnya adalah perjalanan anak-anak Adam ini.",
+          "reason": "فتكون مسافة الجميع مسيرة بني آدم هذه: preserve the equative relation and demonstrative “this/ini”; the clause itself is readable even if its wider cosmological import is odd."
+        }
+      ],
+      "uncertainties": [
+        "The above-world phrase وأطلقهن كابن السماء والأرض and aperture clause فلا تطلع الأعلى كوة ذلك اليوم إلى العام القابل remain grammatically corrupt; familiar cosmological/hadith versions were not substituted."
+      ]
+    },
+    {
+      "page": 36,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_036.txt",
+          "sha256": "2caf20950865a029bdc1cc753f3bc9b4d5035cc48b85b6d8f9b9f4c734342e7c"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_036.txt",
+          "sha256": "9ec7b82304cd661135380b4a30b3b67c842eb52e7a27a51b47ad846d9bc460ce"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_036.txt",
+          "sha256": "8d3df07bd2308075b58be78f2dfef6731b69ce82735c3dd46b1f6eafbf2fe733"
+        }
+      },
+      "coverage": "Full canonical lines 1–36 and both complete targets: folio 20; opening corrupt predicate with Creator glorification/Most-High; lunar lamp/miracle/Prophet blessing, Hour/splitting verse and Most-High, mansions/time/99 erased parts/night-day verse and Most-High/counterfactual, ʿAlī commander title/face honorific/naked-sleep/leprosy/washed-hung garment; all 28 mansion names including Khurthān/source order; four-stars heading; both divine verses/Most-High occurrences, Saʿīd ibn Jubayr/Ibn ʿAbbās pleasure honorific/science/rulings fragment; Moon-from-Sun and 22 stars, Jady/pole/two 3-above+3-below groups/Farqadān/dual irregularity/butterfly, no-Moon and bright-Moon/only sharp-eyed conditions, Suhā eyesight, corrupt three/four/two relation and last-Jady; proverb; Sham back/Iraq right ear/Egypt left and above/House/Station/Kaʿbah directions; seven=4+3 Banāt and lesser group, neither Sun nor Moon reaches poles; southern Jady/Suhayl/Arabian-only then Iraq-Sham versus Armenia/Ḥijāz irregularity, southern wind/west/prayer-qiblah/setting/left of qiblah/Yemeni separation/ten-odd nights; Arab-star/torrent prohibition, 1022 count, final tenth-star/twelve fragment.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the source’s final phrase says something about a tenth of a star in twelve and is not clear.]",
+          "new": "And it is a tenth of a star in twelve [UNCLEAR: the referent and intended relation are uncertain].",
+          "reason": "وأنه عُشر كوكب في اثني عشر is readable literally, with عُشر vocalized as one tenth. Preserve the assertion and both quantities, while localizing uncertainty to the referent and relation."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: frasa terakhir sumber menyebut sesuatu tentang sepersepuluh bintang dalam dua belas dan tidak jelas.]",
+          "new": "Dan ia adalah sepersepuluh bintang dalam dua belas [UNCLEAR: rujukan dan hubungan yang dimaksud tidak pasti].",
+          "reason": "وأنه عُشر كوكب في اثني عشر gives the literal equative assertion and quantities “one tenth” and “twelve”; translate these rather than summarizing that the source mentions something about them."
+        }
+      ],
+      "uncertainties": [
+        "Opening yastaḥīlu ʿannā al-wujūd, lāʾalā rulings connector, three/four/two Banāt relation, and Ḥijāz/rising syntax remain source-corrupt; no canonical astronomical reconstruction supplied."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "reviewer_id": "e0798ee7-dbbd-4f23-98f1-489af87d623b",
+  "reviewer_kind": "independent_model",
+  "pages": [
+    {
+      "page": 49,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_049.txt",
+          "sha256": "4c6886a445f5ded77308523165bfb237871cf950c3a99f52b152ecf9cc5b90d0"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_049.txt",
+          "sha256": "d414d271b0f7b70ec5912bcc97322b012a2ea39a2d2da8211727c4f11aa38661"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_049.txt",
+          "sha256": "c288f51aa91c05b990b504df6c57918f553fb6e96a84f83479f440ad8748e329"
+        }
+      },
+      "coverage": "Complete canonical lines 1-32 and both complete target blocks: folio 43; opening travel fragment; Talhah/neck injury and Prophet blessing; three complete basmalahs, oath and doubt prohibition; Jesus ruqyah; Friday/preceding Thursday/right upper arm; angel forms/light; four ba names and three further names; righteousness/parents; 233 repetitions; Amr/al-Barr interleaving, all three literal letter sequences and four-lines discrepancy; pocket instruction; entire damaged invocation including four earth/heaven protection domains and four final epithets; al-Bari/al-Baith; parenthesized sin heading; 9800 angels; Greatest Name/outward/inward/Footstool/Throne; ba/He-He/speaker damage; Ya Sin rainwater/qiblah/days; 16 letters, two dotted above/two below, five words, sin/mim endpoints; three sin names and final continuation. Every Most High and Prophet honorific checked. Embedded Arabic in both originals verified equal to canonical after newline normalization and outer trim; complete target-script scan found Latin/Common/Inherited only. All originals read first, then every numbered <=950-character segment in the lossless inspection copy read; Arabic alone grounds semantic judgments.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "and [UNCLEAR: protect me] from the evil",
+          "new": "and [UNCLEAR: the preceding fragment reads waq] protect me from the evil",
+          "reason": "Canonical line22 has وق وقني شر: only the stray وق is disrupted; وقني is the readable imperative protect me. Do not label the readable protection request itself uncertain."
+        },
+        {
+          "language": "id",
+          "old": "dan [UNCLEAR: lindungilah aku] dari kejahatan",
+          "new": "dan [UNCLEAR: fragmen sebelumnya terbaca waq] lindungilah aku dari kejahatan",
+          "reason": "Canonical line22 وق وقني شر has a damaged preceding وق but clear وقني, lindungilah aku; restrict uncertainty to the stray fragment."
+        }
+      ],
+      "uncertainties": [
+        "Source retains malformed letter-manipulation complement, four-lines/three-groups discrepancy, damaged invocation sequences and stray waq, unresolved masculine speaker/dhabni, and awkward days/names relation; no recovered occult formula supplied."
+      ]
+    },
+    {
+      "page": 50,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_050.txt",
+          "sha256": "2ee83ba6640f3340b9bbc0e7a2aa093e25dc97ee94b7997c89aa1acf4b2e754e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_050.txt",
+          "sha256": "6a8ba6dbb22b77bc850cba6a1172feb9758d6de6f0ce01fb2006c463edb441fa"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_050.txt",
+          "sha256": "4934dab82832d951565fa2ba6d8fc13e9007b0178b9c34878c4c7238664fdcca"
+        }
+      },
+      "coverage": "Complete canonical lines 1-33 and both complete target blocks: folio 44; al-Sari palm, multiplication by days, 4277, spirits and star separator; al-Sami/al-Basir invocations, fainted bearer, Ibrahim ibn Jaruh, wafq/700/gold/jinn/hearts; al-Salam and Prophet invocation; mim/waw/nun, Tablet/intellect/fourth sphere, kingdom/dominion/Bism, forty-year quotation; 40 mim/90 angels; Prophet name beginning/middle; daily40 quotation endpoints, Wednesday; fasting40/purity/qiblah/auspicious Moon/Sun hour, Friday condition, livelihood and hearts; seven forms/seven days; Thursday/name40/water/honey/prayer/40days; all concluding readable fragments and damaged opening clause; final letter-form continuation. All three Prophet blessings and all Most High occurrences checked. Embedded Arabic in both originals verified equal to canonical after newline normalization and outer trim; complete target-script scan found Latin/Common/Inherited only. All originals read first, then every numbered <=950-character segment in the lossless inspection copy read; Arabic alone grounds semantic judgments.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the source’s final explanation of the hidden power of the mīm in every world and the resulting opening is damaged.]",
+          "new": "There he witnesses the power of what it conceals from every world, in the secret by which He established the mīm. [UNCLEAR: the following phrase reads li-hādhihi ahimmah; its relation to the statement that the opening occurs is damaged.]",
+          "reason": "Canonical lines31-32 حيث يشاهد قوة ما يبطنه من كل عالم في السر الذي أقام به الميم is a readable witnessing/power clause. The damaged لهذه أهمة does not justify replacing this entire clause with a thematic description. Preserve the readable concluding يكون الفتح as well, while describing the damaged connection."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: penjelasan akhir sumber tentang kekuatan tersembunyi mīm dalam setiap alam dan pembukaan yang dihasilkannya rusak.]",
+          "new": "Di sana ia menyaksikan kekuatan apa yang disembunyikannya dari setiap alam, dalam rahasia yang dengannya Dia menegakkan mīm. [UNCLEAR: frasa berikutnya terbaca li-hādhihi ahimmah; hubungannya dengan pernyataan bahwa pembukaan terjadi rusak.]",
+          "reason": "Canonical lines31-32 حيث يشاهد قوة ما يبطنه من كل عالم في السر الذي أقام به الميم gives a readable witnessing/power clause; restrict uncertainty to لهذه أهمة and its connection to يكون الفتح rather than suppressing the whole assertion."
+        }
+      ],
+      "uncertainties": [
+        "Aya muiddah, mahmusan bi-l-nur, arrival/location wording, Wednesday warid, seven-forms syntax, and final li-hadhihi ahimmah remain source uncertainties; counts are retained literally."
+      ]
+    },
+    {
+      "page": 51,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_051.txt",
+          "sha256": "1e93284857f930770a515646b66c673cd01bf792e4266e5c1c7cb76c307a6875"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_051.txt",
+          "sha256": "767017cc3e0a321011b473271b4f4d976399bb88115948b84285fde3981ed807"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_051.txt",
+          "sha256": "0f92bc060e04fb6d4ae31b074227966a8ee0fa69b9695f49ecf97d89a0714ea0"
+        }
+      },
+      "coverage": "Complete canonical lines 1-32 and both complete target blocks: folio45; hidden-secrets continuation; sincere day-fast/bread/Mulk/purity/right side/head/silence/dream outcome and restriction to pure hearts/disciplined; glass bowl/hanging/wisdom; full shahadah80/right arm/garment/awe/compassion; believing jinn brothers; Wednesday through fourth day Saturday, washed clothes/body; Ikhlas1000 and four once-read surahs; Saturday afternoon/tenth hour/clean seclusion; all seven slips and complete verse fragments with each Most High; four rakahs and explicitly absent fourth reading; all ten glorifications including negation/repetition/Throne/Tablet/Pen/Light; entire helper supplication; seven nobles; before-names/before-prayer/thread/headpiece/wax; naming/sealing each through seventh; oath and damaged short command; pure storage, food/drink/knowledge/treasure/hidden-object list and final warning. Embedded Arabic in both originals verified equal to canonical after newline normalization and outer trim; complete target-script scan found Latin/Common/Inherited only. All originals read first, then every numbered <=950-character segment in the lossless inspection copy read; Arabic alone grounds semantic judgments.",
+      "findings": [],
+      "uncertainties": [
+        "Fourth rakah recitation is absent; the final oath and short command are damaged. No canonical wording or missing recitation reconstructed."
+      ]
+    },
+    {
+      "page": 52,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_052.txt",
+          "sha256": "7b1425b9af375680bb603e9feffaabe2aa7a3a88447a92ce8d5e3377b3dcd4a9"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_052.txt",
+          "sha256": "3926aea8a0cf9f47dfa0a7ba388667cba7b688bee381e20b51d3f110aea8d8bc"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_052.txt",
+          "sha256": "8bd0a6b809bea0f6c8c50abd1dd0eaa787e2bd48853cfe29c7224594000f6247"
+        }
+      },
+      "coverage": "Complete canonical lines 1-30 and both complete target blocks: folio46; firm-heart/resolve/mind/seclusion conditions and prohibition; octagonal seal/gazelle parchment/fevers/chills; numbers spiritual versus letters corporeal; bell/revelation question and full answer with Prophet blessings, hardest form; roundness/closure/severity; Prophet peace and Israfil peace, Throne leg/Tablet/500-year Trumpet/two feet/seventh earth; terror/swoon/resurrection and waiting to blow; repeated lip-closure negations; Musawi ringing; upper/lower mim, higher/lower numbers/letters; letter outside totality/moisture/two heats/yā separation/two mountains; concealed Name/Bism Allah/Prophet blessing; mim/form/wafq/recitation damaged step; kings/rulers/judges/governors, lion/battle/enemy/love/honor claims; closing truth/guidance/form. Embedded Arabic in both originals verified equal to canonical after newline normalization and outer trim; complete target-script scan found Latin/Common/Inherited only. All originals read first, then every numbered <=950-character segment in the lossless inspection copy read; Arabic alone grounds semantic judgments.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the source’s next technical sentence calls this a letter outside the totality and describes moisture between two heats.]",
+          "new": "This is a letter outside the totality, and in it is moisture between two heats, in detail.",
+          "reason": "Canonical line22 وهذا حرف خارج عن الجملة وفيه رطوبة بين حرارتين على التفصيل is legible and syntactically complete. Its unusual doctrine is not source corruption; translate literally, including على التفصيل, instead of an uncertainty synopsis."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: kalimat teknis berikutnya menyebut huruf yang berada di luar keseluruhan dan kelembapan di antara dua panas.]",
+          "new": "Ini adalah huruf di luar keseluruhan, dan di dalamnya terdapat kelembapan di antara dua panas, secara terperinci.",
+          "reason": "Canonical line22 وهذا حرف خارج عن الجملة وفيه رطوبة بين حرارتين على التفصيل is readable; unusual technical claims remain literal. Restore the complete assertion including على التفصيل instead of uncertainty description."
+        }
+      ],
+      "uncertainties": [
+        "Connective wording, Musawi ringing, concealed-Name syntax and post-recitation operation remain unresolved; extraordinary imagery is retained literally, not normalized."
+      ]
+    },
+    {
+      "page": 53,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_053.txt",
+          "sha256": "82040c75c28fa157f4f0f495f5cbf5a68379394df4feeacbf1a9d8d3babab0b5"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_053.txt",
+          "sha256": "0d455c605691f5301a64080e59c760127e28c1c60d5ebf93ab3a4b20210c172f"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_053.txt",
+          "sha256": "05d6b12a1fe40ab22db4160f07fac9b41f7f21b5b32d4fa0dab7ea86d33de4b7"
+        }
+      },
+      "coverage": "Complete canonical lines 1-19 and both complete target blocks: folio47 and table marker; all discipline conditions (desire/anger/traits/deeds/seclusion/senses/sight/hearing/heart); heart-only Allah remembrance and no independent existence; awake/sleep, angels/prophets/beautiful forms/heaven/earth/indescribability; Prophet blessing and earth-folding quote; God as distinct speaker to His Prophet with second blessing and devotion quote; total withdrawal/purification/supplication/Sufi path; beautiful Names/attributes/Greatest Name/oneness/no child/no parent; saint/scholar dialogue, repeated Allah, no other remembrance, fasting/night-prayer/silence/seclusion7/another7/40/karamah/control; literal trailing people-spoke fragment. Embedded Arabic in both originals verified equal to canonical after newline normalization and outer trim; complete target-script scan found Latin/Common/Inherited only. All originals read first, then every numbered <=950-character segment in the lossless inspection copy read; Arabic alone grounds semantic judgments.",
+      "findings": [],
+      "uncertainties": [
+        "Trailing and-people-have-spoken is a page-break fragment, not an invented continuation."
+      ]
+    },
+    {
+      "page": 54,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_054.txt",
+          "sha256": "43ed54f333a9ba4fbbd217b955aa6e6f212013be364952cc9dba12c279270c16"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_054.txt",
+          "sha256": "a97c4cb057e0fbc79d74a4748c1fc46b6ceb1c852b673d20e0d1430e52f54e02"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_054.txt",
+          "sha256": "c346c2bec5297df082bd16efc74846066684fe7eb894265a6c9acaab7cf24b1e"
+        }
+      },
+      "coverage": "Complete canonical lines 1-6, including both long lines without truncation, and both complete target blocks: folio48; knowability/observation/comparison/vision verse and all negations; eternity/permanence/oneness/attributes/limit/annihilation; al-Muhasibi mercy, Gabriel descent/Paradise sheet/musk seal; full Name-epithet invocation; Anas/woman/request/Prophet refusal, both blessings; scholars/imam provenance; full long prayer including corrupt every-state clause, four oppositional terms, all needs/world/Hereafter/protection/care/goodness, unseen/hearts/ending and Muhammad blessing; basmalah/Greatest Name exclusive comparison and damaged eye language; final Prophet/family/companions blessing; complete parenthesized chapter6 title; Mighty/Merciful Name; Aleppo retreat darkness/door/congregation/backward exit/qiblah/no gaze; repeated requests; night light-tablet/aversion/damaged reminder/command; four boundary lines, concentric circles/gap/bisector/two extra lines/triangle/pole inscription and damaged final inscription. Embedded Arabic in both originals verified equal to canonical after newline normalization and outer trim; complete target-script scan found Latin/Common/Inherited only. All originals read first, then every numbered <=950-character segment in the lossless inspection copy read; Arabic alone grounds semantic judgments.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "that [UNCLEAR: the comparison between it and the Greatest Name mentions the whiteness, the black part of the eye, and its white part, but the wording is internally disrupted].",
+          "new": "that there is nothing between it and the Greatest Name except [UNCLEAR: a comparison mentioning whiteness, the black part of the eye, and its white part; the comparison itself is internally disrupted].",
+          "reason": "Canonical line3 أن ما بينها وبين اسم الله الأعظم إلا كبياض سواد العين وبياضها retains an unambiguous exclusive negative frame ما ... إلا. Corruption in the eye comparison does not erase that frame."
+        },
+        {
+          "language": "id",
+          "old": "bahwa [UNCLEAR: perbandingan jaraknya dengan Nama Allah Yang Paling Agung menyebut bagian putih dan bagian hitam mata, tetapi susunan katanya terputus].",
+          "new": "bahwa tidak ada apa pun di antara keduanya, yakni ungkapan itu dan Nama Allah Yang Paling Agung, kecuali [UNCLEAR: perbandingan yang menyebut bagian putih dan bagian hitam mata, tetapi susunan perbandingannya terputus].",
+          "reason": "Canonical line3 ما بينها وبين اسم الله الأعظم إلا gives clear exclusive negation, tidak ada ... kecuali; only كبياض سواد العين وبياضها is disrupted."
+        }
+      ],
+      "uncertainties": [
+        "Every-state/earnestness/adjustment relation, eye-comparison interior, reminder wording, and final haym-fi-ummah inscription remain disrupted; geometry not reconstructed."
+      ]
+    },
+    {
+      "page": 55,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_055.txt",
+          "sha256": "fcc04ecec5fbe4b4d40a0aeaafb8b7421afddab79d3e3382e4978d477bf7bce3"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_055.txt",
+          "sha256": "3daff4fae7c4b69599740433d39f4dcdc909e70fe923f77bdf289612dec8a929"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_055.txt",
+          "sha256": "5bc3374d51c4132476778416e6e510d32525d8a0d52e8d3d80b380668dd0c801"
+        }
+      },
+      "coverage": "Complete canonical lines 1-30 and both complete target blocks: folio49; every positional relation in diagram description, right-line dal/diameter al-Samad/circle dal/below alif/al-Wahid Most High/al-Qahhar/northern triangle line/al-Rahman/al-Rahim/al-Ghafur/inner ta; lower quarter-circle/semicircle/Sijill/bi-l-nur/outer zay/Indian ha/Abdalna/Mukhtar/waw/ten complete; outer-circle Alif-Lam-Mim/full Allah quote, jim/yā/waw/mim correspondences; both outer inscriptions; damaged disappearance clause; prayer/wird/sleep/Ali/tablet/unknown words/single known word/index finger/upper jim/majesty; Ali pleasure blessing; Greatest Name/sacred Essence; Muhammad ibn Talhah explanation, God willing/Most High/brotherhood/praise; commentary name and alternative naming report; second dream with Messenger blessing/Ali/tablet/independent signification; Prophet blessing/oath/Gabriel peace; awakening/shaykh/silence/hand/slip exact wording; footer4/work/part1. Embedded Arabic in both originals verified equal to canonical after newline normalization and outer trim; complete target-script scan found Latin/Common/Inherited only. All originals read first, then every numbered <=950-character segment in the lossless inspection copy read; Arabic alone grounds semantic judgments.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the source then has the incomplete wording fī al-sirr al-aʿẓam].",
+          "new": "it was also called “On the Greatest Secret.”",
+          "reason": "Canonical line25 وقيل في السر الأعظم follows وسماه بالدر المنظم في شرح الاسم الأعظم and is a readable alternative naming report: and it was said/called, On the Greatest Secret. Preserve وقيل and the literal alternative title, rather than treating the whole report as incomplete wording."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: sumber kemudian memuat susunan kata yang tidak lengkap, fī al-sirr al-aʿẓam].",
+          "new": "disebut pula “Tentang Rahasia Yang Paling Agung.”",
+          "reason": "Canonical line25 وقيل في السر الأعظم is a readable alternative naming report after وسماه: disebut pula, Tentang Rahasia Yang Paling Agung. It is not merely an incomplete phrase warranting suppression of وقيل."
+        }
+      ],
+      "uncertainties": [
+        "Riwāyatih, inner-line positional phrase, Abdalna, mother-of-circle, and figure-disappearance clause remain uncertain; no diagram reconstruction."
+      ]
+    },
+    {
+      "page": 56,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_056.txt",
+          "sha256": "0f7f07066cc199eb5fefecbaebb280295b0899d54b2d011839827935684970dc"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_056.txt",
+          "sha256": "37594ab51821a3c699a169bd50d23ecf0e4cc9bef8f68c059f9c2ff79dfee8e9"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_056.txt",
+          "sha256": "e4e0f653ee5a8034d39dd0184a746e4f021dd9e83d2a0addcf19c041376976e6"
+        }
+      },
+      "coverage": "Complete canonical lines 1-45 and both complete target blocks: folio50; independent signification/non-disclosure/commentary/forgiveness; secret restricted to truthful/pious, human/jinn obedience/private/public piety; complete ten-group letter string letter by letter; figure marker, around/below labels and all inscriptions including they-will-not-be-helped negation; ten Abjad letters despite nine numbers, tenth yā vocative; seven invocations despite nine label; full basmalah/prayer/oneness/self-sufficiency/four contrasts/likeness negation/Muhammad and family blessing/all needs/world/Hereafter/care/afflictions/piety/forgiveness; red sulphur/pearl-ruby and syntactically damaged negation/attainment; parenthesized second section; mercy honorific; circle within circle/Name of Majesty/ayn/mental fixation/light disappearance/paper/reflection;99 proposal/one taken/recognition statement/forgiveness;19 versus ten discrepancy/benefits/experienced use; worldly-otherworldly/two rakahs/purity/qiblah/seclusion/intention and incomplete recourse. Embedded Arabic in both originals verified equal to canonical after newline normalization and outer trim; complete target-script scan found Latin/Common/Inherited only. All originals read first, then every numbered <=950-character segment in the lossless inspection copy read; Arabic alone grounds semantic judgments.",
+      "findings": [],
+      "uncertainties": [
+        "Nine versus seven invocations and nineteen versus ten are canonical discrepancies. Ayn referent, recognition clause, final negation/attainment relation and cut-off recourse remain unresolved."
+      ]
+    },
+    {
+      "page": 57,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_057.txt",
+          "sha256": "75167123f0ce0a6d29aaec9d18ee71d60e67b884562e052682acabcdc427076d"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_057.txt",
+          "sha256": "e07e46ffac1995689789ba984fb18516bd5a41d5090217fc008910cac202255f"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_057.txt",
+          "sha256": "2b0eb140c5f3963cee9a14f5655bc6520acd551c5de917f2b7a690872eccf8b9"
+        }
+      },
+      "coverage": "Complete canonical lines 1-37 and both complete target blocks: folio51; midnight/latter night continuation/twenty names/present heart/awkward negation;1773 or130/knowledge/al-Alim/speakable versus unattached; belongings travel/residence/right upper arm/enemies/tyrant/self-will damaged relation; rosewater/musk/saffron/hair/camphor/body/soul/strength/awe/no doubt; daily dawn77/litanies/unbounded gentleness/aspiration; revenge/first hour/full names/before week; exact seven-name revenge list; reconciliation/drink to both/love Sunday/Sun or Mercury/incense six items; twenty heading versus19 actual vocatives, checked each in order; prayer heading and full basmalah/prayer, creation-command/Truth/sending-down/transcendence/known-unknown/multiplicity-unity, all second invocation names, idafah/existence/malakut/jabarut continuation; inside-circle label and all four rows including repeated Alim. Embedded Arabic in both originals verified equal to canonical after newline normalization and outer trim; complete target-script scan found Latin/Common/Inherited only. All originals read first, then every numbered <=950-character segment in the lossless inspection copy read; Arabic alone grounds semantic judgments.",
+      "findings": [],
+      "uncertainties": [
+        "Twenty heading versus nineteen vocatives retained; self/will relation, unattached-wonders phrase, unusual hostile-people word and theological syntax remain marked; no missing name added."
+      ]
+    },
+    {
+      "page": 58,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_058.txt",
+          "sha256": "685b6e5329c30bf125ac4db166f183e39cb463b7358704aab2d8ae7c12a2a51d"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_058.txt",
+          "sha256": "89a4268a6e1c4b31e831d0356e96360d743964c3c10b457d979b119e315773ff"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_058.txt",
+          "sha256": "30fcc1e3b667190f08ee1b60cfd7ba86057e0fdd2c0c513212f7695f44d0dfaf"
+        }
+      },
+      "coverage": "Complete canonical lines 1-33 and both complete target blocks: folio52; continuation malakut/divinity/concealment/intellect/mercy/being/symbols/oaths/tanzilah; Satan voices/nakhat/incitements/taunts/good-evil/sea-land/benefit-harm/plotting; luminous angel nisbah/awarif/tasrif/acts/words/life/death/irfan/three vocatives; braced section/Jesus peace/reviving with Most High permission/all Name epithets; Asad-Musa/Sulami/Abu Salih chain; damaged books phrase/fast/pure clothes-body/Sunday/sunrise/Indian oud/red mandal/gazelle-paper/forearm/blessings; Moses-sending ambiguity/full God declaration; Zubayda/Harun exclusive word-opinion/damaged books-slaughter/sunrise-set/no-separation/acceptance; full prayer with repeated Qadir twice/Qadim twice/Qarin, saints/prophets/trials/enemies, might/generosity/noble-lowly/independence-need/life/inner secrets/rank-wealth/Truth/witnessing/malformed no-being; secret-whisper/judgment-piety/opening/eye-no-sleep/black-ant-rock-earth-night; all repeated hearing-sight clauses and uncertainties; luminosity/watchfulness/self-accounting/all good-all harm; final four names/essence-attributes/no sleep-no perish/Muhammad-family blessing/all needs/wanted-not-wanted/kingdoms/mercy and interrupted benediction. Embedded Arabic in both originals verified equal to canonical after newline normalization and outer trim; complete target-script scan found Latin/Common/Inherited only. All originals read first, then every numbered <=950-character segment in the lossless inspection copy read; Arabic alone grounds semantic judgments.",
+      "findings": [],
+      "uncertainties": [
+        "Canonical books/slaughter readings not silently emended to write/fumigate; source shifts actors. Nisbah, Qarin, prophets/trials syntax, beside-them clause, no-being clause, hearing-sight clause, kingdoms and interrupted blessing remain unresolved."
+      ]
+    },
+    {
+      "page": 59,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_059.txt",
+          "sha256": "51053129d41232da1ac6dbea40b62de7508198a5adffb6505c4bdf4457f86595"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_059.txt",
+          "sha256": "7b974055114e1b4858617f8a2d76daa1785d7a2f98a6f6987f3fad623a349956"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_059.txt",
+          "sha256": "f257e69ccfba963c2ca814ee581398a36c05fb4590c4958f92804f161a1a49db"
+        }
+      },
+      "coverage": "Complete canonical lines 1-29 and both complete target blocks: folio53; complete opening Muhammad/family/companions blessing; chapter7 title and Jesus peace; obedience/understanding prayer; Khwarizmi mercy/search-years/man-of-knowledge/names/Himyaritic/restriction; Khurasani mercy/fast7/write7/gazelle/rosewater-saffron/Thaqūqah task/quarter-year/winds/oath/damaged Abraham clause/need/flowing-water preference/sun/angels/helpers/winds/stars/permission; Khwarizmi mercy/shaykh dialogue/each-name greatness/Most High/many known/Thaqūqah Bilam and Yusuf/stored-names negation/come-near/oath/comparison/irregular discussion/Moses staff and peace/dictation; greatest names/foreign-Hebrew/none know/Ziyad pleasure/Night-of-Decree/Friday comparisons; Khwarizmi mercy/Qazwin/Himyaritic/preserve/piety/alarm-anxiety-tenesmus-palpitations; Ziyad/fast3/white-pure-gazelle/saffron/wind/evil-eye/harm/other/swift removal/Saturday/pure-fast/Moon-house/permission; ornament/Jesus peace/revival/permission/blind-born/leper/lowest heaven/interpretation/Ali face-honor; persistence/miracles/needs/no dishonor/concern/days-daytime/saints. Embedded Arabic in both originals verified equal to canonical after newline normalization and outer trim; complete target-script scan found Latin/Common/Inherited only. All originals read first, then every numbered <=950-character segment in the lossless inspection copy read; Arabic alone grounds semantic judgments.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "then calls the angels of the Thāqūqah [UNCLEAR: the following work-related clause contains disconnected wording]",
+          "new": "then calls the angels of the Thāqūqah to a task in it [UNCLEAR: the following dhāka is disconnected from the clause]",
+          "reason": "Canonical line9 ثم دعا ملائكة الثاقوقة إلى عمل فيها ذاك has readable إلى عمل فيها, to a task in it. Only the attachment of ذاك is disrupted; the generic work-related description omits the stated purpose and location relation."
+        },
+        {
+          "language": "en",
+          "old": "And 'Isā, peace be upon him, used to revive the dead by them",
+          "new": "[Ornament marker] And 'Isā, peace be upon him, used to revive the dead by them",
+          "reason": "Canonical line26 includes the isolated ornament ﭽ before وكان عيسى. Preserve that structural marker in Latin description; it is currently absent in English."
+        }
+      ],
+      "uncertainties": [
+        "Thaqūqah task/dhaka relation, winds/Abraham oath scope, visitor comparison, irregular discussion verb and interpretation antecedent remain unresolved; no reconstruction."
+      ]
+    },
+    {
+      "page": 60,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_060.txt",
+          "sha256": "da2e618c3a3775bf4541aea07e395eb3afd6e4ea44b036c5c2299bbcd01f46df"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_060.txt",
+          "sha256": "aec85592dc8dc62a1d0db52685245deda706336bfe673cde50b343f6869b7611"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_060.txt",
+          "sha256": "72c456051b042b7d554a24aaa5c9de3d43dcdaeedd093e4c8bb89528f0d824da"
+        }
+      },
+      "coverage": "Complete canonical lines 1-31 and both complete target blocks: folio54; circle form/guidance; Abu Hudhayl Most High pleasure/Jesus peace/two rakahs/prostration/five calls including twice O One; Muqatil Most High pleasure/Jesus peace/search40/man-of-knowledge; dawn100/any need/destruction of wrongdoer/sitting/before speaking; complete basmalah/hawqalah and every invocation/negation/no begetting/no equal/Majesty-Generosity/count100/instant/against wrongdoer; circle like taqs/write/damaged wa-kh/carry/God knows; circle prayer/Jibril peace/ascending Throne/Allah thrice/all seven angels in order/al-Malik uncertainty/pure spirits/oneness/Greatest Mighty Holy/three name-classes/need/Divine pleasure; envy warning/Bilam/verse fragment/preserve/learned-righteous/aims/guidance; prayer for obedience/wafq/purity/outward-inward/obedience/victory/tyrant negative exception/head-carry/each tyrant/heart-outward-inward safety/outward-inward deeds/three defeat verbs/Most High permission/battle/no harm/king/soldiers-commanders-notables/supported victorious. Embedded Arabic in both originals verified equal to canonical after newline normalization and outer trim; complete target-script scan found Latin/Common/Inherited only. All originals read first, then every numbered <=950-character segment in the lossless inspection copy read; Arabic alone grounds semantic judgments.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "God Most High secures his heart, outwardly and inwardly,",
+          "new": "God Most High secures his heart and his outward and inward being,",
+          "reason": "Canonical line29 وآمن الله تعالى قلبه وظاهره وباطنه coordinates three objects, his heart AND his outward AND his inward, not two adverbs qualifying the heart. Preserve the scope and coordination."
+        }
+      ],
+      "uncertainties": [
+        "Wa-kh operation, al-Malik attachment and compressed preference-clause attachment remain unresolved; all readable names, conditions, repetitions and negations retained."
+      ]
+    }
+  ]
+}

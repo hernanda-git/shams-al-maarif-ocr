@@ -1,0 +1,189 @@
+{
+  "reviewer_id": "d7758d2c-14e0-4d7a-82c6-ce9e12ab3fac",
+  "reviewer_kind": "independent_model",
+  "pages": [
+    {
+      "page": 64,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_064.txt",
+          "sha256": "b6749c892a270b60ea8484c287eba0e7089e61c2f6c96b4cb8a7001b1ae2cd8e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_064.txt",
+          "sha256": "82561f615628f26d1032467ab3faab4b481ec49ee802b8f37d0dbc9635b33a8b"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_064.txt",
+          "sha256": "7944f0d475cc444beb68b38761a5ba0160bdf52eb986a1cccf47fde01b6b291b"
+        }
+      },
+      "coverage": "Complete source lines 1–34 and both full target files, including repeated Arabic blocks: folio 58; every cell of the 10-by-10 numeric grid and separator geometry; introductory benefit invocation; ar-Raḥmān/ar-Raḥīm pair, Friday/end-of-day/silver/sealing and never-harm clauses; all-state kindness; incomplete kinship/al-khawāyim wording; Muḥammad/ar-Raḥmān, secret/counsel and seven ḥawāmīm; lunar-exaltation/rainwater/drinker/heart condition; ar-Raḥīm carry/protection/hard hearts; al-Quddūs desires; al-Malik pharaohs/tyrants/dominion; al-Salām repeated remembrance, state, both snake/scorpion, oppressor, weapons; al-Muʾmin daily 1132 and stabbings/plague; al-Muhaymin ring five times/lunar timing/sealing/jinn-devil ending; every تعالى, name, pronoun, negation and form-reference.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "and erases it with rainwater and drinks from it, whoever has wretchedness in his heart, it will depart from him",
+          "new": "and erases it with rainwater, and someone with wretchedness in his heart drinks from it, that wretchedness will depart from him",
+          "reason": "ومحاه بماء المطر وشرب منه من به شقاوة في قلبه زالت عنه: من به شقاوة is the explicit subject of شرب; do not silently make the writer the drinker or leave the result subject unbound."
+        },
+        {
+          "language": "id",
+          "old": "dan menghapusnya dengan air hujan dan meminumnya, orang yang di dalam hatinya ada kesialan akan hilang darinya",
+          "new": "dan menghapusnya dengan air hujan, lalu orang yang di dalam hatinya ada kesengsaraan meminumnya, kesengsaraan itu akan hilang darinya",
+          "reason": "وشرب منه من به شقاوة في قلبه زالت عنه identifies the drinker as someone with wretchedness in his heart, and says the wretchedness departs. شقاوة is wretchedness/misery, not bad luck (kesialan); the existing syntax also makes the person disappear."
+        }
+      ],
+      "uncertainties": [
+        "Source والرحم من وصلها والخوايم has an incomplete kinship clause and an unidentified al-khawāyim; both targets retain readable fragments with descriptive target-language uncertainty rather than replacing them."
+      ]
+    },
+    {
+      "page": 65,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_065.txt",
+          "sha256": "af6ea01afbaea5361a235824a3721d1151fe1146d8603ed29138175997cd5804"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_065.txt",
+          "sha256": "242548e5830b9df492c5c5400ea68920289c814e0c49c3563172c66e654fea76"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_065.txt",
+          "sha256": "6f46577ff5864a2155b788e935afe8453c3c7479860321306d5535477a108972"
+        }
+      },
+      "coverage": "Complete source lines 1–33 and both full target files: folio 59 and opening jinn/mankind continuation; each clause for al-ʿAzīz, al-Jabbār, al-Mutakabbir, al-Khāliq, al-Bāriʾ, al-Muṣawwir, al-Ghaffār, al-Qahhār, al-Wahhāb, al-Razzāq, al-Fattāḥ, al-ʿAlīm, al-Qābiḍ, al-Bāsiṭ, al-Khāfiḍ, al-Rāfiʿ, al-Muʿizz, al-Mudhill, al-Samīʿ, al-Baṣīr, al-Ḥakam, al-ʿAdl, al-Laṭīf, al-Khabīr, al-Ḥalīm, al-ʿAẓīm, al-Shakūr, al-ʿAlī, al-Kabīr, al-Ḥafīẓ, al-Muqīt, al-Ḥasīb, al-Jalīl, al-Karīm, al-Raqīb, al-Mujīb and al-Wāsiʿ. Checked all actors/possessives/negations/results, silver/fire-triangle/sex/pregnancy condition, bodily forms, odd kathurat ʿanhu, hundred/glass/rainwater/breakfast condition, first hour Friday/gemstone/mouth/jug/thirst/water request, and trailing from continuation. Independently checked all 37 source U+FD4A honorifics in source order and 37 full translations in EACH target, plus every تعالى; no grid on this page.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "he will never crave water after that",
+          "new": "he will never seek water after that",
+          "reason": "ولم يطلب الماء بعد ذلك أبداً negates seeking/asking for water, not craving it."
+        },
+        {
+          "language": "id",
+          "old": "ia tidak akan merasa kehausan lagi setelah itu sama sekali",
+          "new": "ia tidak akan mencari air lagi setelah itu sama sekali",
+          "reason": "ولم يطلب الماء بعد ذلك أبداً says he will not seek water thereafter, not that he will never feel thirsty."
+        }
+      ],
+      "uncertainties": [
+        "Source وكثرت عنه is semantically/grammatically anomalous; both targets preserve the readable multiplied-away-from-him wording inside descriptive uncertainty rather than emend to expiated."
+      ]
+    },
+    {
+      "page": 66,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_066.txt",
+          "sha256": "f160387106d9ba75cfc7cc19ade7452a7e55996d84da0fc0e6a87dadd10e87d9"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_066.txt",
+          "sha256": "3d3bf9d85e4db081b64acd65f84d76d7a9337628a26df58d5fcab36331b9465e"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_066.txt",
+          "sha256": "ae3ad87a4d0c97751a74b02b1320ee4f1ed02d0a35d873c22fbff948148c9eaa"
+        }
+      },
+      "coverage": "Complete source lines 1–33 and both full target files: folio 60, heart/tongue continuation, each clause for al-Wadūd, al-Majīd, al-Bāʿith, al-Shahīd, al-Ḥaqq, al-Wakīl, al-Qawī, al-Matīn, al-Walī, al-Ḥamīd, al-Muḥṣī, al-Mubdiʾ, al-Muʿīd, al-Muḥyī, al-Mumīt, al-Ḥayy, al-Qayyūm, al-Wājid, al-Mājid, al-Wāḥid, al-Aḥad, al-Ṣamad, al-Muqtadir, al-Muqaddim, al-Muʾakhkhir, al-Awwal, al-Ākhir, al-Ẓāhir, al-Bāṭin, al-Wālī, al-Mutaʿālī, al-Barr, al-Tawwāb, al-Muntaqim, al-ʿAfuww, al-Raʾūf. Checked kings/reign, marble/Scorpio/house/pest exclusion, love possessive, ring/uncertain count/washing/drinker, uncertain ascendant/wind/night-day/runaway/absent return, 120/door/Venus/inhabitant, independence/all spirits, incomplete locked-door conditional, odd safeguarded/knowledge and created-by-it wording, wine/remembrance/washing/repentance actors, enemies/fear/protection/compassion. All divine honorific occurrences and Names checked; ۝ treated only as structural separators, not honorifics. No actual square-cell grid is supplied on this page.",
+      "findings": [
+        {
+          "language": "id",
+          "old": "rasa cinta kepadanya akan kekal",
+          "new": "rasa cintanya akan kekal",
+          "reason": "ودامت محبته means his love endures; the possessive does not mean other people’s love toward him."
+        },
+        {
+          "language": "en",
+          "old": "God Most High enriches him from every one",
+          "new": "God Most High makes him independent of everyone",
+          "reason": "أغناه الله تعالى عن كل أحد: أغنى عن means to render independent of/without need of, not enrich from."
+        },
+        {
+          "language": "id",
+          "old": "mengulang-ulang nama itu siang dan malam",
+          "new": "mengulang-ulang nama itu malam dan siang",
+          "reason": "وكرر الاسم ليلاً ونهاراً gives night then day; retain source sequence."
+        }
+      ],
+      "uncertainties": [
+        "Source جعل الله تعالى له lacks its object/result; both targets explicitly flag the omission.",
+        "Source عدده الوقائع gives no unambiguous number; source البرج الملتفية does not identify a secure ascendant; both targets retain and describe these uncertainties.",
+        "Source المؤخر conditional lacks a result; فهو مصون وعلم مكنون has an uncertain connection; both targets descriptively mark the problems and retain readable wording. Source مخلوقاً به is odd but readable and correctly retained literally."
+      ]
+    },
+    {
+      "page": 67,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_067.txt",
+          "sha256": "0a9abf8cb714223711b4c3bb5c9d9cac65ded0e28cc3896cb68a3856120f141c"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_067.txt",
+          "sha256": "2f1a70e64bbb4b34e4886be5adc5432b642b38979ec02c23d2e6c1256f143ad6"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_067.txt",
+          "sha256": "e64c3370f9d790a1694782e44da3f5ed12ae28952df3355f7785142681303e45"
+        }
+      },
+      "coverage": "Complete source lines 1–38 and both full target files: folio dash style - 61 - and opening compassionate/merciful continuation; every clause for Mālik al-Mulk, Dhū al-Jalāl wa-l-Ikrām, al-Muqsiṭ, al-Jāmiʿ, al-Ghanī, al-Mughnī, al-Māniʿ, al-Ḍārr, Nāfiʿ, al-Nūr, al-Hādī, al-Badīʿ, al-Wārith, al-Rashīd, al-Ṣabūr; ownership of lost/runaway items; city/town/wall/circuit/161/Venus/Mardin/no conqueror, odd dawn-deployment clause, sincere state/realms/hand/sick person, silver ring/uncertain fī ṣarīʿ/lunar exaltation/sick wearer, Muʿāfī/letter Names/two healing instruments, Nūr+Nāfiʿ/intractable pain/writing/drinking/form; outward/inward/world/hereafter/two rakʿahs/Āyat al-Kursī/al-Ikhlāṣ/breath condition; science/secrets/good/increase/outcomes/steadfastness; truth/path and complete Muḥammad/family/companions blessing. Chapter Nine heading; success-in-obedience invocation; initial/alphabet letters, belief, scholars’ pleasure honorific, Alif Lām Mīm Ṣād/I am God, al-Ḥasan, eternity/connection/separation and their negations, convention, Truth/words, every Name/station/trailing to. All 16 positions of four-column four-row table including two empty bottom cells, all letter/string cells and 66/57/509/54/8/60 checked with geometry retained; every تعالى and honorific checked.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "God will restore to him every lost item and return every runaway slave.",
+          "new": "God will restore to him every lost item and every runaway slave missing from him.",
+          "reason": "رد الله له كل ضالة وأبق ضائع له restricts the runaway to one missing from/belonging to that person; the second له must not disappear."
+        },
+        {
+          "language": "id",
+          "old": "Allah akan mengembalikan kepadanya setiap barang yang hilang dan hamba yang melarikan diri.",
+          "new": "Allah akan mengembalikan kepadanya setiap barang yang hilang dan hamba pelariannya yang hilang darinya.",
+          "reason": "رد الله له كل ضالة وأبق ضائع له includes ضائع له, the runaway missing from him; retain the ownership/relation qualifier."
+        },
+        {
+          "language": "en",
+          "old": "it is written and drunk as an infusion",
+          "new": "it is written and given to drink",
+          "reason": "وهو يكتب ويسقى says written and given to drink; it does not specify an infusion (steeping preparation). Do not add a preparation method."
+        },
+        {
+          "language": "en",
+          "old": "al-Rashīd (the Infallible Guide)",
+          "new": "al-Rashīd (the Rightly Guiding)",
+          "reason": "الرشيد denotes right guidance; the added absolute infallibility claim is not expressed by this Name in the source."
+        },
+        {
+          "language": "id",
+          "old": "hingga napasnya tertahan",
+          "new": "hingga napasnya terputus",
+          "reason": "إلى أن ينقطع النفس means until the breath breaks off/ceases, not merely is held/restrained. Preserve the literal source condition without changing the operation."
+        },
+        {
+          "language": "en",
+          "old": "whoever seeks the Truth guards it from literal phrasings",
+          "new": "whoever seeks the Truth guards it from words",
+          "reason": "ومن أراد الحق يصونه عن الألفاظ says words/expressions without the limiting qualifier literal; preserve its unrestricted scope."
+        },
+        {
+          "language": "id",
+          "old": "barang siapa menghendaki Kebenaran sejati hendaklah memeliharanya dari sekadar lafal-lafal lahiriah",
+          "new": "barang siapa menghendaki Kebenaran hendaklah memeliharanya dari lafal-lafal",
+          "reason": "ومن أراد الحق يصونه عن الألفاظ: الألفاظ is unrestricted words/expressions. sekadar and lahiriah narrow the scope without Arabic support."
+        }
+      ],
+      "uncertainties": [
+        "Source لأرى في فجر تصريفه has an uncertain speaker/grammatical connection; both targets retain dawn/deployment content in descriptive uncertainty.",
+        "Source في صريع has an uncertain relation in the silver-ring clause; both targets describe the uncertainty while retaining its readable fallen/stricken sense."
+      ]
+    }
+  ]
+}

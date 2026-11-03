@@ -1,0 +1,105 @@
+{
+  "reviewer_id": "ba5ee5c6-6208-4377-9f50-ab4e654a5bcd",
+  "reviewer_kind": "independent_model",
+  "pages": [
+    {
+      "page": 64,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_064.txt",
+          "sha256": "b6749c892a270b60ea8484c287eba0e7089e61c2f6c96b4cb8a7001b1ae2cd8e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_064.txt",
+          "sha256": "f47d80c4d9949d05bb5f4c9349eaad69a99f3242e5472fcca37a0d7d8e7f57e8"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_064.txt",
+          "sha256": "3e2fb12c055094271d313a56e35fb96863255a54ec35cc286f854c383fcf0137"
+        }
+      },
+      "coverage": "Source lines 1–34 completely read against both complete targets. Folio 58; all 100 numeric cells and 10×10 grid order; Names opening/blessing; Rahman/Rahim distress/fear, Friday end-of-day silver ring/sealing/never harmed, remembrance/all states; incomplete kinship/al-khawayim; Muhammad/Rahman/secret/counsel/seven hawamim; vessel/lunar exaltation/rainwater/heart-wretchedness/permission; Rahim all afflictions/hard hearts; Quddus carnal desires; Malik pharaohs/tyrants/dominion; Salam afflictions/state/snake/scorpion/never harmed/oppressor/weapon; Mumin daily 1132/stabbings/plague; Muhaymin five engravings/lunar exaltation/sealing/jinn-devil continuation. Every honorific, actor, negation, quantity, condition, illustration reference and EN–ID parity checked.",
+      "findings": [],
+      "uncertainties": [
+        "Incomplete kinship clause and unclear al-khawayim connection are accurately disclosed in both targets; no remembered saying restored."
+      ]
+    },
+    {
+      "page": 65,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_065.txt",
+          "sha256": "af6ea01afbaea5361a235824a3721d1151fe1146d8603ed29138175997cd5804"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_065.txt",
+          "sha256": "3e541535e26ff804c8662896c15cf1172e72986fbced2030cee9a717478ac0c5"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_065.txt",
+          "sha256": "e25841da26e2df9ca3a2601437898cc45460ba0b8e841afe180fcfb909244564"
+        }
+      },
+      "coverage": "Source lines 1–33 completely read against both complete targets. Folio 59/opening jinn-mankind continuation; every entry Aziz, Jabbar, Mutakabbir, Khaliq, Bari, Musawwir, Ghaffar, Qahhar, Wahhab, Razzaq, Fattah, Alim, Qabid, Basit, Khafid, Rafi, Muizz, Mudhill, Sami, Basir, Hakam, Adl, Latif, Khabir, Halim, Azim, Shakur, Ali, Kabir, Hafiz, Muqit, Hasib, Jalil, Karim, Raqib, Mujib, Wasi/final unfinished from. Checked silver ring/fire triplicity/wife-pregnancy, spirit/bodily forms, multiplied-away fragment, all-request negation, provision/unreckoned origin, outward-inward, oppressor-right, world-Hereafter, hundred/glass goblet/rainwater/fast-breaking/intelligence-heart-memory, Friday first hour/gemstone/mouth/jug/no later water, movements-rest, hunger, consequences, wisdom. Every Most High occurrence and every FD4A blessing checked; no missing honorific after Fattah result or Jalil result because source lacks it there. All actors, conditions, order, negations and EN–ID parity checked.",
+      "findings": [],
+      "uncertainties": [
+        "Ghaffar source wa-kathurat anhu is malformed; both targets retain its multiplied-away/from wording with localized uncertainty, without normalizing to expiation."
+      ]
+    },
+    {
+      "page": 66,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_066.txt",
+          "sha256": "f160387106d9ba75cfc7cc19ade7452a7e55996d84da0fc0e6a87dadd10e87d9"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_066.txt",
+          "sha256": "283b6555c180222d58bb30a5c7bcf9fea8cac29704bbc8730b219362d2a00c68"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_066.txt",
+          "sha256": "0f1cefa393cc25858e5b31f09c325e43b5f00d222e19f1d2b15ffc3bfe5751f7"
+        }
+      },
+      "coverage": "Source lines 1–33 completely read against both complete targets. Folio 60/heart-tongue continuation; every entry Wadud, Majid, Baith, Shahid, Haqq, Wakil, Qawi, Matin, Wali, Hamid, Muhsi, Mubdi, Muid, Muhyi, Mumit, Hayy, Qayyum, Wajid, Majid, Wahid, Ahad, Samad, Muqtadir, Muqaddim, Muakhkhir, Awwal, Akhir, Zahir, Batin, Wali, Mutaali, Barr, Tawwab, Muntaqim, Afuww, Rauf. Checked kings/kingdom, seclusion/watchfulness, incomplete result, marble square/Scorpio/house/no remaining snakes-scorpions-insects, strength-love, ring/occurrences count/washing/drinker, square/unclear winding ascendant/wind/night-day/runaway-absentee/place of return, 120/house door/Venus exaltation, sciences/gnosis, multiplicity-independence, all spirits, closed door/lowered veil/no result, safeguarded-hidden knowledge, no approach without answer/need fulfillment, literal created-by-it, rainwater/wine/repentance, all enemies/fear. Every honorific (and absent honorific after Wajid/Muqtadir/Rauf results), separator order, readable oddities, conditions/actors/negations and EN–ID parity checked.",
+      "findings": [],
+      "uncertainties": [
+        "Haqq missing result, Hamid unclear occurrences-count, Muid unidentified winding-sign ascendant, Muakhkhir missing conditional result and Akhir disconnected safeguarded-hidden-knowledge phrase are retained and accurately disclosed. Barr readable created-by-it wording remains literal."
+      ]
+    },
+    {
+      "page": 67,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_067.txt",
+          "sha256": "0a9abf8cb714223711b4c3bb5c9d9cac65ded0e28cc3896cb68a3856120f141c"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_067.txt",
+          "sha256": "6ee22c1c9659986ab87e77eea28de4b77be05d2188133e51115e86235fe086a3"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_067.txt",
+          "sha256": "d13abec860aa911bcaa12649c245452f46fc55d24df77367b51f3a92eea53951"
+        }
+      },
+      "coverage": "Source lines 1–38 completely read against both complete targets. Folio - 61 -/compassionate-merciful continuation; every entry Malik al-Mulk, Dhu al-Jalal wa-l-Ikram, Muqsit, Jami, Ghani, Mughni, Mani, Darr, Nafi, Nur, Hadi, Badi, Warith, Rashid, Sabur. Checked kingdom/request/justice/all states/lost items-runaway/all creation/every harm; wall/city-town/circumference/161/Venus hour/Mardin/no conqueror/power; dawn-deployment fragment; sincere state/realms/overpowering state/no touching sick except cure; silver ring/fi sari/lunar exaltation/sick wearer; Muafi/two majestic letter-names/healing instrument; Nur+Nafi/incurable pain/writing/drinking/square; outward-inward/world-Hereafter/two rakahs/Ayat al-Kursi/Ikhlas/breath cutoff/goal; divine sciences/laduni secrets/all movements/outcomes/steadfastness/truth/path; complete master Muhammad/family/companions blessing. Chapter Nine heading; dotted letters/all alphabet/belief/scholars blessing/Most High utterance/Alif Lam Mim Sad/I am God/al-Hasan/pre-post eternity/connection-separation/double negation/conventional language/truth guarded from words/stations/trailing to. All 4-column table cells and blanks checked: w,n,a,fa; matla,66,57,Majid; wajad,509,54,8; blank,blank,60,Asim. Every honorific, actor, condition, negation, quantity and EN–ID parity checked.",
+      "findings": [
+        {
+          "language": "id",
+          "old": "pada saat Zuhrah (Venus)",
+          "new": "pada jam Zuhrah (Venus)",
+          "reason": "Source في ساعة الزهرة explicitly specifies the hour of Venus, an astrological timing unit. Saat states only a time/occasion and loses the explicit hour, whereas English preserves hour of Venus. Retain the unit with jam without changing any other instruction."
+        }
+      ],
+      "uncertainties": [
+        "Darr dawn-deployment phrase has an unclear speaker/connection; both targets disclose it while preserving dawn/deployment content. Nafi fi sari phrase has an unclear connection; both targets preserve stricken/fallen content in localized disclosure."
+      ]
+    }
+  ]
+}

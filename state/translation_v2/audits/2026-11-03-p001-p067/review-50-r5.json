@@ -1,0 +1,40 @@
+{
+  "reviewer_id": "f0c912d7-dd80-4882-ad94-efdf00122168",
+  "reviewer_kind": "independent_model",
+  "pages": [
+    {
+      "page": 50,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_050.txt",
+          "sha256": "2ee83ba6640f3340b9bbc0e7a2aa093e25dc97ee94b7997c89aa1acf4b2e754e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_050.txt",
+          "sha256": "05d6028e22f96de3cfdf68de9668eaf9f9a450a0095b91375ba13e600cc6701e"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_050.txt",
+          "sha256": "fac64b870ed41cd5fe8b8db4b046a1bc07ce40055f3ca5f70861489ff21431aa"
+        }
+      },
+      "coverage": "Fresh independent clause-by-clause semantic review of complete canonical page_050 lines 1–33 against both complete current target blocks, with no prior verdict consulted. Full 151-line style guide read; originals read through tools.read, then all lossless numbered <=1000-character Node-copy chunks read. Adjacent canonical page_049 and page_051 read to check opening al-Sariʿ and closing letter-form boundaries. Checked printed folio 44; al-Sariʿ mention, obscure aya muʿiddahu phrase, asking God and receiving, palm drawing, Names/day multiplication, completion of count, 4,277 repetitions, spirit sight/questions/answers, hidden secrets/manifest works and exhortation. Checked al-Samiʿ plus al-Basir, both invocations, auspicious writing time, unconscious bearer/immediate recovery, people of secrets, arrival/finding Ibrahim ibn Jaruh and disrupted location (paired omission findings), wafq drawing/carrying, Name recited 700 times, recovery/permission, gold writing, jinn languages, authority over desired spirits, persistence, disclosure of creation/hearts/all servants/secrets. Checked al-Salam safety/security, Prophet honorific and invocation. Checked mim realm, waw/mim/nun end/beginning sameness, totality/union and stillness/awe causal clauses, Tablet, creation as concealed light and disclosed obscure whispered-light phrase, intellect/encompassing, sun/fourth sphere, kingdom/dominion/world manifestation, assistance/works/mim-light, final Bism rank, maturity and forty-year quotation. Checked numeric mim value 40 (not repetitions), 90 angels of spirit and assignment, Prophet name beginning/middle, literal yusr dominion/kingdom and worlds meeting. Checked daily looking 40 times, quotation opening and ending without adding absent middle verses, good/blessing, negated knowledge of provision origin, forthcoming form and Wednesday occurrence with uncertainty disclosure. Checked forty-day fasting/purity/remembrance, qiblah/complete purity, auspicious Moon/Sun hour, bearer and negated blameworthy thought, faith realities/sacred lights/every-harm protection, Friday fasting/constant remembrance/any need/permission, livelihood and unexpected provision, hearts joining/affection/drawing to seeker; addition, contemplated form/image, seven forms/seven days and divine-will qualification. Checked secrets/encompassing/conformity/worlds/colors; Thursday pure qiblah numerical writing with Prophet name and honorific forty times, erasure/drinking/water/bee honey, full invocation and first-person blessing, continuation forty days, outward-or-inward opening/understanding, concealed worlds/power/secret establishing mim, disclosed damaged li-hadhihi ahimmah ending, and letter-form/secrets boundary. Compared every subject/action/possessive, scope, numerical value versus repetition, negation, condition, invocation/Name, honorific, uncertainty disclosure, source order and EN-ID parity. No other necessary accuracy repairs identified; no stylistic synonym requests. Existing source-gap disclosures are retained except the overbroad arrival disclosure narrowed by findings.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the wording describing their arrival and the location of Ibrāhīm ibn Jārūḥ is disrupted.] They found Ibrāhīm ibn Jārūḥ, who had fainted.",
+          "new": "For when they came to it [UNCLEAR: the destination antecedent and the following location wording are unclear], they found Ibrāhīm ibn Jārūḥ, who had fainted.",
+          "reason": "Source line 8 فإنهم لما أتوا إليها وجدوا عليها بها إبراهيم بن جاروح وقد أغمى عليه contains the recoverable temporal/action clause لما أتوا إليها (when they came to it/her). The current marker describes a problem with their arrival but never translates that action or its temporal relation to finding Ibrāhīm. Preserve the readable clause and confine uncertainty to the unresolved destination antecedent and disrupted locative عليها بها; do not invent a destination."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: redaksi tentang kedatangan mereka dan lokasi Ibrāhīm bin Jārūḥ terputus.] Mereka mendapati Ibrāhīm bin Jārūḥ dalam keadaan pingsan.",
+          "new": "Sebab, ketika mereka mendatanginya [UNCLEAR: rujukan tujuan kedatangan dan redaksi lokasi sesudahnya tidak jelas], mereka mendapati Ibrāhīm bin Jārūḥ dalam keadaan pingsan.",
+          "reason": "Source line 8 فإنهم لما أتوا إليها clearly retains the action of coming to an unresolved destination and the temporal relation ketika; only the destination antecedent and following locative وجدوا عليها بها are disrupted. The present Indonesian marker replaces this readable clause with metacommentary. Restore the action without guessing what -nya denotes, in parity with English."
+        }
+      ],
+      "uncertainties": []
+    }
+  ]
+}

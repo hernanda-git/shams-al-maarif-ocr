@@ -1,0 +1,105 @@
+{
+  "reviewer_id": "80266535-abc7-4033-bf79-f8dd3e0045b7",
+  "reviewer_kind": "independent_model",
+  "pages": [
+    {
+      "page": 49,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_049.txt",
+          "sha256": "4c6886a445f5ded77308523165bfb237871cf950c3a99f52b152ecf9cc5b90d0"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_049.txt",
+          "sha256": "0b6192ddfbbe6a881c512b0ae8e66448843cbef1cedd98e87980f73fbf99619d"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_049.txt",
+          "sha256": "c199a732586b4dca412032bc41136fd2bfba4fce9f65635d685fe3e151e2ca59"
+        }
+      },
+      "coverage": "Complete source lines 1–32 and complete current EN/ID, including folio43; travel/Satan continuation; Talhah/camel/Prophet honorific; angels/devils/poison; movement/stillness negation; Jesus; Friday/preceding Thursday/right upper arm; angel forms/light; every ba Name and Most High; alif/head/extension; righteousness/parents; 233 repetitions; Amr/al-Barr mixing; all displayed letter sequences, missing complement/four-row discrepancy; pocket and full intelligible invocation/protection earth/heaven directions/epithets; al-Bari/al-Baith; sin/9800 angels; Greatest Name/outward/inward/heavens/Footstool/Throne; concealed-power pronouns; Ya Sin writing/rainwater/qiblah/day count; sixteen letters/two above/two below/five words/sin–mim; last Names/persistence/incomplete continuation. All clauses, actors, possessives, conditions, counts, honorifics and uncertainty scopes checked. No canonical grid omitted.",
+      "findings": [],
+      "uncertainties": [
+        "Accepted localized damage/ambiguity in form and light, permutation complement and four-row discrepancy, invocation fragments, concealed-power reply, day-count and final continuation. Source itself says the surah has sixteen letters; anomalous wording retained rather than corrected from memory."
+      ]
+    },
+    {
+      "page": 50,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_050.txt",
+          "sha256": "2ee83ba6640f3340b9bbc0e7a2aa093e25dc97ee94b7997c89aa1acf4b2e754e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_050.txt",
+          "sha256": "a615f89d7d1724ff359ac93ad92acff312b65c9a15d29c8924169179966330ce"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_050.txt",
+          "sha256": "38a481c56141d1bd7ce906f95a033b4d96715961b2edfde9ff10d8216ee59612"
+        }
+      },
+      "coverage": "Complete source lines 1–33 and complete current EN/ID, including folio44; al-Sari damaged opening/palm/Names/day multiplication/4277/spirit questions; al-Sami/al-Basir/fainting/Ibrahim ibn Jaruh/700/gold/jinn/authority/hearts/servants; al-Salam/Prophet honorific; mim/waw/nun/union/stillness/Tablet/intellect/fourth sphere/kingdom/dominion; strength/age40/90angels/Prophet-name beginning and middle; forty daily looks/quotation endpoints/provision/Wednesday; forty-day fast/purity/remembrance/qiblah/Moon/Sun-hour; Friday fast/constant remembrance/needs/livelihood; hearts drawn toward seeker; seven forms/seven days/Most High conditional; colors/Thursday/Prophet honorific/forty writings/water/honey/prayer/forty days/outward-inward opening/technical ending/letter-form. Every qualifier, actor, possessive, negation, count, honorific and localized uncertainty checked.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "together with the seven forms for the seven days, God willing.",
+          "new": "together with the seven forms for the seven days, God Most High willing.",
+          "reason": "Canonical line 27 reads مع الأشكال السبعة للأيام السبعة إن شاء الله تعالى. The explicit تعالى honorific is omitted in EN; retain Most High even inside the localized uncertainty marker. Current ID already preserves Yang Mahatinggi."
+        }
+      ],
+      "uncertainties": [
+        "Accepted localized source ambiguities in opening, arrival/location of Ibrahim, light phrase, Wednesday occurrence, seven-forms connective and final technical phrase."
+      ]
+    },
+    {
+      "page": 52,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_052.txt",
+          "sha256": "7b1425b9af375680bb603e9feffaabe2aa7a3a88447a92ce8d5e3377b3dcd4a9"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_052.txt",
+          "sha256": "46f88353865229552e5106f04dde5b15772fe5b470cec1b86b27e6a4c64b81b0"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_052.txt",
+          "sha256": "635f69deef45af674653a492184a97acecf466df7d4b22bd3cf0a2921dd2c17f"
+        }
+      },
+      "coverage": "Complete source lines 1–30 and complete current EN/ID, including folio46; heart/resolve/astuteness/intellect/strength/seclusion/discipline; warnings and octagonal seal/Most High condition; gazelle parchment/illnesses; numbers/letters/spiritual-corporeal relations; revelation/bells/angel speech/horses/camels/resonance/hardest form and all Prophet honorifics; mim roundness/closure/severity; Israfil honorific/strength/obedience/Throne leg/Tablet/Trumpet/500-year width/feet/seventh earth; terror/swooning/resurrection/lips; Musawi ringing/two directions/mims; higher-lower realms/two heats/moist ya/two mountains; concealed Name/Bismillah/Giver of success/Prophet name; wafq/recitation/damaged carrying clause; kings/rulers/judges/governors; lion fear; battle/victory/negative universal; loved/honored/esteemed and bearer loving observers/inclining toward them; properties/conclusion/form notice. Every clause, actor, possessive, condition, number, formula and honorific checked; no actual grid exists in canonical text.",
+      "findings": [],
+      "uncertainties": [
+        "Accepted localized connective, Musawi-ringing, two-mountain technical image, concealed-Name and carrying-clause ambiguities. Unvocalized يحب كل من يراه permits the literal bearer-loves-observers reading retained by both targets; no forced reversal requested."
+      ]
+    },
+    {
+      "page": 54,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_054.txt",
+          "sha256": "43ed54f333a9ba4fbbd217b955aa6e6f212013be364952cc9dba12c279270c16"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_054.txt",
+          "sha256": "e81d4ff56dad31050fc5e6d50f537210a7bff76038b207414dafb652982424c5"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_054.txt",
+          "sha256": "a1a39fb2de921e2af2b70717c8593dedfb1bd410efffb91741052130f06c61af"
+        }
+      },
+      "coverage": "Complete source lines 1–6 including both long paragraphs and complete current EN/ID; folio48; essence unknowability/presence/comparison/vision negation; pre-eternity/permanence/non-numerical oneness/attributes/limits/annihilation argument; all Most High honorifics; al-Muhasibi mercy/Jibril/Paradise sheet/musk seal/entire Name list; Anas/woman/Prophet speech and honorifics/prohibition women and children; scholars/imams; whole supplication including specialization/ambiguous state clause/oneness/self-sufficiency/four oppositions/hearing/seeing/blessings/all needs/worlds/protection/care/good/lordship/unseen/request reality/heart timing/ending/Muhammad beloved; eye comparison/Greatest Name/concluding family/companions/peace; chapter6; Mighty-Merciful; Aleppo retreat/door/darkness/prayer/backward exit/salam/reentry/qiblah/no looking/constant petition; night/tablet/turning away/reason/command; four surrounding lines/two concentric circles/gap/bisector/upper-half two-line triangle/pole/formula/final inscription. Every clause, actor, possessive, condition, number, honorific, formula and geometric relation checked.",
+      "findings": [],
+      "uncertainties": [
+        "Accepted localized ambiguity in state/earnestness/adjustment clause, eye comparison, tablet-reminder wording and final inscription. No remembered formula substituted."
+      ]
+    }
+  ]
+}

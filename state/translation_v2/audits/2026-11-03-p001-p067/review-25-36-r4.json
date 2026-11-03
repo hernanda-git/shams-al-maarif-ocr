@@ -1,0 +1,111 @@
+{
+  "reviewer_id": "ad7015d0-dde8-42ce-9c62-72b6b9ea110d",
+  "reviewer_kind": "independent_model",
+  "pages": [
+    {
+      "page": 26,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_026.txt",
+          "sha256": "e648a3ce22271e358e23014d667464b4d752a7283977e2c41f380256c1a4c1b2"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_026.txt",
+          "sha256": "4cd182fd6b9b2c7301cb64b5c624e22c6e10a18a9bcd804f175c0e5a6e6840df"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_026.txt",
+          "sha256": "e335ed1a55eac07e0d5454a717d74eb7dc0f46bcced199900ce225c2a2319e49"
+        }
+      },
+      "coverage": "Read canonical lines 1–34 and both complete target files; checked folio -20-, preceding Thurayya outcome continuation from page 25 and trailing incense seed continuation into page 27; repeated birth/outcome statements and flax/black-seed incense; all seven mansion sections Dabarān, first Haqʿah/hāʾ, repeated Haqʿah/wāw, Dhirāʿ/zāy, Nathrah/ḥāʾ, Ṭarfah/ẓāʾ and Jabhah/bāʾ; each dot group including seven-dot-plus-colon form; elemental/fortune qualifiers, spiritual actors and divine permission, every permission/prohibition and exception, burial/secrets/wells/channels list, antidotes and Sun/Moon crafts, fragrant falling-down odd reading, kings’ possessive needs, affection/commerce/slave-women/horses/building/measure/weigh/travel list, martyrdom, sciences/scholars/worshippers/naranjiyyāt, enemies/tyrants/rebels/rancor/weapons/signaling, oath/solitude restrictions, moving/iron/clothing, all natal traits and incense ingredients, and every God-knows-best formula. Readable odd source retained, not normalized.",
+      "findings": [],
+      "uncertainties": []
+    },
+    {
+      "page": 32,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_032.txt",
+          "sha256": "b9151fbbcd3f51f1f868bd338f77f5ab0685c28552373e6fb7aaa005a60e233b"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_032.txt",
+          "sha256": "200028c43de5e16523c9ff275e708603029df7ec6eb9daceb842affddb19da15"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_032.txt",
+          "sha256": "caeb697aeb9247b6b84c5faa4e9947ded27b972f99de09d4f118d0d36c68aacc"
+        }
+      },
+      "coverage": "Read canonical lines 1–34 and both complete targets; checked folio 26, Dhirāʿ rising antecedent from page 31, every rising/date/month and anaphoric month from 4 Tammūz through 4 Nīsān, unresolved Sirius date association honestly marked; four seasonal inventories item-by-item including source six-item summer and stated seven-per-season without repair; transmission chain al-Kindī/Abū Manṣūr al-Khawlānī/Abū Muḥammad al-Manāwī and mercy honorific; every rhymed conditional in source order from Sharṭayn through Samakah, all actors, debt, shepherd possessions, cloak/waterskin/tomorrow, fire/pools, protection, Sun/rays/drink/plain, calf/milk/drop negation, Abū al-Ḍayf, snakes/air/property/owners, Farghān-and-Nasr/bridge, Zubānān/muʿyān, Iklīl/maqālīl, difficulty, old man/urination, blessings/standing, ʿaṣīdah/butter/ghee/pot-bottom, Dhābiḥ corrupt clause, cloaks/glittering earth, corrupt rr al-kalā, serve/no regret/hurry/no delay, movement/thorn; source uncertainty descriptions, concluding attribution/God-knows-best, chapter-four heading and trailing Know connecting to page 33.",
+      "findings": [],
+      "uncertainties": []
+    },
+    {
+      "page": 33,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_033.txt",
+          "sha256": "4daf3cae9b6ded5a91df66d803a1be88cf5d6dd07239097a72fb26b08245d18a"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_033.txt",
+          "sha256": "807480c20cbbe7872c59c3a26d15b88db6806b8be0d19e7f8ab3a458156a015b"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_033.txt",
+          "sha256": "3cf3e512fe5317da47322837c042048efccba1bf0cd4479cd229c797ea572f39"
+        }
+      },
+      "coverage": "Read canonical lines 1–33 and both complete targets; consulted page 32 opening boundary and page 34 Virgo continuation. Checked folio 27; repeated-you blessing retained as uncertain; twelve signs/twenty-eight mansions and all five quoted divine sayings/verse reference; singular burj and palace/fortress definitions; all twelve zodiac names and order, seven wandering planets, every domicile assignment exactly as source (no added Sagittarius/Jupiter), four triplicity inventories of three; table geometry and all cells in all rows including 12 month headers, 12 zodiac cells, Mahj/Kabl/Khurtān odd entries and 11-cell final mansion row; four exegetical interpretations, Ibn ʿAbbās dual honorific, quadrants/triads/seven planets/32; corrupt five-star/Taurus/three/eleven-star/head-and-horns descriptions honestly represented, opposite front/rear directions retained; Gemini eighteen/seven and twin hand/shoulder/north/east/west geometry; Cancer six/four, front/east/rear/west/south, Twins/lambs/eight/upright/bright Leo; fifth Virgo/Virgin/twenty-six boundary without inventing absent counted unit.",
+      "findings": [],
+      "uncertainties": []
+    },
+    {
+      "page": 35,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_035.txt",
+          "sha256": "15a65b1b23f4374d2fd8a29cd9b363c296679ed22ff846adddccd5789bd1b59e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_035.txt",
+          "sha256": "dd8d60c872e948bf3817b5f3639d9c9c462ac8b4b35bac17295dbefbd019c07e"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_035.txt",
+          "sha256": "ad5ee9bea6711b6b95cd79352efbbeca8987ddef22c9171cb9ae13fb4027642c"
+        }
+      },
+      "coverage": "Read canonical lines 1–35 and both complete targets; consulted page 34 heavens-heading boundary and page 36 continuation of ray of sight. Checked folio 29, ancients versus sacred-law scholars and all narrators/alternative attribution Ibn ʿAbbās or al-ʿAbbās ibn ʿAbd al-Muṭṭalib; cloud dialogue and repeated muzn/ʿanān, all Prophet honorifics and speakers; 500-year distance/500 thickness/seventh-heaven sea upper-lower geometry, corrupt world/son-of-heaven-and-earth phrase honestly marked, God above/nothing hidden/deeds/children of Adam, seven heavens and matching earths quotation, angel single hour and devil arrival comparison; Abū Razīn honorific and answered-supplication/day’s-journey replies; Thaʿlabī/Ibn ʿAbbās, 360 apertures and negative corrupt following-year clause not normalized; five Sun indications including unity/divine management/distance/essence/answering/unwithheld provision/eclipse/Resurrection/darkness/cloud-covering-knowledge, six benefits including food/fruits/no cost, east-west travel/nonstationarity/winter-low/summer-high/no mutual light-cancellation; fourth-sphere transparent heavens versus dense rising cloud; Moon section/Abū Hurayrah, both source yes replies and dispute question; two reasons for lunar similitude, Gabriel wing/Moon’s light/heart, two divine repairs/every month/His Prophet Muḥammad/greatest-highest things; perception-versus-encompassing quotation, denial and ray continuation.",
+      "findings": [],
+      "uncertainties": []
+    },
+    {
+      "page": 36,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_036.txt",
+          "sha256": "2caf20950865a029bdc1cc753f3bc9b4d5035cc48b85b6d8f9b9f4c734342e7c"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_036.txt",
+          "sha256": "28438c73f1457245d6226e5898abd2d9827a39d7acb3195c883621317d3ee9db"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_036.txt",
+          "sha256": "a956e900cfb1bed20200fe5ec066995a7a0125ed2abb6ea5f2e71f72ee89f43d"
+        }
+      },
+      "coverage": "Read canonical lines 1–36 and both complete targets; consulted page 35 ray-of-sight antecedent and page 37 figures continuation. Checked folio 20 as printed; corrupt Creator predicate honestly flagged and honorific intact; Moon night-lamp/our Prophet miracle/split-Moon quotation, mansions/time and 99 erased parts/day-night quotation and counterfactual livelihoods/no distinction; ʿAlī title/full name/face honorific/naked sleep and garment-fraying/color claims; every one of 28 mansion names in exact source order and delayed-night heading; four-stars heading/two navigation quotations, Saʿīd ibn Jubayr to Ibn ʿAbbās chain/honorific/lofty beneficial knowledge/many incapable and corrupt sacred-restrictions clause; Moon-from-Sun agreement/22-star disagreement, Jady/pole/qiblah, both repeated three-above/three-below geometries, Farqadān/other shining star, dual possessive and butterfly oddness honestly described, moonlessness/bright-Moon visibility exception, Suhā eyesight test, Banāt and last Jady/corrupt three-four-two phrase/proverb; Shām back/Iraq right-ear back/Egypt left-ear above/House door/Station/Farqadān-or-Banāt facing Kaʿbah; two Farqadān/seven Banāt/four bier/three daughters/Lesser Banāt, neither Sun nor Moon at poles; South Jady/Suhayl peninsula-only/side-of-pole/south-wind/west/prayer-qiblah/setting/solitary/Yemeni/left-of-qiblah, Iraq/Shām/Armenia negation/Ḥijāz uncertainty/ten-odd nights; Arab star/torrent warning/1022 count and corrupt tenth-of-star-in-twelve relation preserved, not reconstructed from memory.",
+      "findings": [],
+      "uncertainties": []
+    }
+  ]
+}

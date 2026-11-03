@@ -1,0 +1,1761 @@
+{
+  "schema_version": 1,
+  "type": "translation_v2_supplemental_audit",
+  "id": "20261103-p001-p067-final",
+  "created_at": "2026-11-03T06:52:41.817200+00:00",
+  "scope": {
+    "first_page": 1,
+    "last_page": 67
+  },
+  "baseline_commit": "6b67481be58a3511472f2e6653352b77895e298a",
+  "baseline_path": "state/translation_v2/audits/2026-11-03-p001-p067/baseline.json",
+  "parent_session_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+  "source_of_truth": "Immutable canonical Arabic OCR; source ambiguities are disclosed, not silently reconstructed.",
+  "review_method": "Actual independent delegated model reviews, verified by parent task/result lineage; not human approval.",
+  "historical_approval_correction": "state/translation_v2/audits/2026-11-03-p001-p067-provenance.md",
+  "historical_tracker_preserved": true,
+  "pages": [
+    {
+      "page": 1,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "0dbd7a24-60a0-4bb1-9a1a-4e0ff4f4bda1",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_001.txt",
+          "sha256": "b2a2b521ecd42ddf65bc1cb96c438ac937f79394de1b7573513042372e13bc52"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_001.txt",
+          "sha256": "a73a155734e45a3b21a39b1a2b97714a99474e50e09dee55a60d04867e190499"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_001.txt",
+          "sha256": "d4510d5bb9249ee02c75b970da56ecf7de5ba36bb14a0cb9921e1864360691b3"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-1-12-r1.json",
+        "sha256": "bcd0f2ae6f7a8a00051a6b37d0c3e9f8b119875867ec9242b7e84b74ff485983"
+      },
+      "generated_record_sha256": "48ac34c0bfb0eea9b57cdae55c8bdc1c122276d9a8a00b79b3210af1a749e069"
+    },
+    {
+      "page": 2,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "0dbd7a24-60a0-4bb1-9a1a-4e0ff4f4bda1",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_002.txt",
+          "sha256": "490baaecc3b13cdf455d094e9b5661b34ffa1059cf5bcf45ab8ecf10954a152c"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_002.txt",
+          "sha256": "a4842823ffa69ce0dd724b327057c8318e7b0bd69225c3da7c604ac8d3784e16"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_002.txt",
+          "sha256": "55eceff92c2f4eea6f541c6926a1bb355a90038fe654aceaba2572d2660ca8f6"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-1-12-r1.json",
+        "sha256": "bcd0f2ae6f7a8a00051a6b37d0c3e9f8b119875867ec9242b7e84b74ff485983"
+      },
+      "generated_record_sha256": "199c38665188b15ed85ffc9a46266a902f60f1d8d370e483f45887043713ec68"
+    },
+    {
+      "page": 3,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "0dbd7a24-60a0-4bb1-9a1a-4e0ff4f4bda1",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_003.txt",
+          "sha256": "39aafaff6bbcfc008d52e929a92c79ac7e8e59d7217e1fb844388fc5d9c5c25f"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_003.txt",
+          "sha256": "37d8b1e095c92629dd17e424ee225dc8989fdddf935b0378f2ffcce2295e48d6"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_003.txt",
+          "sha256": "04c2aa3e03d437982d9226fade87f8167d9a5017ff1c4a006393716ff30af5e0"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-1-12-r1.json",
+        "sha256": "bcd0f2ae6f7a8a00051a6b37d0c3e9f8b119875867ec9242b7e84b74ff485983"
+      },
+      "generated_record_sha256": "e29fd152324e9d5be4316fa12334baff307caab11456f69324207248dcd3b1e9"
+    },
+    {
+      "page": 4,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "0dbd7a24-60a0-4bb1-9a1a-4e0ff4f4bda1",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_004.txt",
+          "sha256": "6debee8e429d52f802c772f555bf981ad23fe3ade5cdf9ad3ce6bf2e5e9033ab"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_004.txt",
+          "sha256": "526eff04c707773a1c7176d8499c8532d809f617ec49ab5dfac22652bd90c9e2"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_004.txt",
+          "sha256": "3a33616231ea216571c761c7104cfc4da786ba97a915424588e1c0760f465a9b"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-1-12-r1.json",
+        "sha256": "bcd0f2ae6f7a8a00051a6b37d0c3e9f8b119875867ec9242b7e84b74ff485983"
+      },
+      "generated_record_sha256": "f03365ff070f42863ade863d1c5c6cd859456c8238c9820d2dcdd867eb5f5fc2"
+    },
+    {
+      "page": 5,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "0dbd7a24-60a0-4bb1-9a1a-4e0ff4f4bda1",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_005.txt",
+          "sha256": "9fbeb628d923308d08544fed69228ba97cf57e2e5233bb63fcf03e917c7c14b1"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_005.txt",
+          "sha256": "9afa9ffbeef9fada03102054f76a761cf7e2e8e408d0e640c3dff8acbfed38a2"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_005.txt",
+          "sha256": "15c1eb5e2627029e9830595a0ee98dd51873cb1ffa8728a24f46bb1a24b8c7ff"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-1-12-r1.json",
+        "sha256": "bcd0f2ae6f7a8a00051a6b37d0c3e9f8b119875867ec9242b7e84b74ff485983"
+      },
+      "generated_record_sha256": "283a822a06ad6b4bf619ac5c26a4951eb7cbbc72858a543e076b3110f9b88330"
+    },
+    {
+      "page": 6,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "85bd9be8-6036-42bd-a357-73a0758e61b0",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_006.txt",
+          "sha256": "cee8e9fe33b73fde772072123b1ff62a493602bad833da61b0f5d0d848ae3a19"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_006.txt",
+          "sha256": "5af46d0d1a6e2c5d5620f99c9602b7ac09215fe8aceb9f8bd6a944581f93fc10"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_006.txt",
+          "sha256": "0ce988de9cbb8838b0273a89ab299a65cfb7196958b28c4d616a57d0b61eb1b8"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-6-8-9-12-r2.json",
+        "sha256": "788898c4f695b4135ec2fd8928d9d32dde18a154188167c6101c4af7e3fd6b3e"
+      },
+      "generated_record_sha256": "26c0e529092278d2721216a2413eb445fbfe4fee5c5d8a8e10c0298c9ef3a899"
+    },
+    {
+      "page": 7,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "0dbd7a24-60a0-4bb1-9a1a-4e0ff4f4bda1",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_007.txt",
+          "sha256": "b69cc493946a1a4915c10dd8b313b9cce04a304dd3a13be31c249e43faf63c92"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_007.txt",
+          "sha256": "9c5e3e8efbbfdc6dd94dff049d2c1dc0a4e71fb20e074d0ba03647a911e0a589"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_007.txt",
+          "sha256": "6597efd1da5efb28caba5329234ff70734ea76cbd7840734b23a095ebf8737ae"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-1-12-r1.json",
+        "sha256": "bcd0f2ae6f7a8a00051a6b37d0c3e9f8b119875867ec9242b7e84b74ff485983"
+      },
+      "generated_record_sha256": "c7dd4d23693d503886fecd2b9d4e6b5e1d12e2d1df5a813438d38b2729b320dc"
+    },
+    {
+      "page": 8,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "85bd9be8-6036-42bd-a357-73a0758e61b0",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_008.txt",
+          "sha256": "41cc390462d4691673837ee2cf7d37bb4c216520dc1514b275dd3a1f4d933a38"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_008.txt",
+          "sha256": "524b96bb32c0fcfa2cebf299297f77a554987153818c7f77870413f42838cf02"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_008.txt",
+          "sha256": "9017a2530c75cc227307b16c7a461fd07851410edca3bb66fd5e4eaf1b44abbf"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-6-8-9-12-r2.json",
+        "sha256": "788898c4f695b4135ec2fd8928d9d32dde18a154188167c6101c4af7e3fd6b3e"
+      },
+      "generated_record_sha256": "69cd821e3988b6a27bc8e2ce85886d97ceb23106a54a04f9b78533b8f076aae0"
+    },
+    {
+      "page": 9,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "32a4a55c-b832-4f64-aa28-261e173b43ad",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_009.txt",
+          "sha256": "6f73db2442de6d33bce5a70d60c298247b3cbb14a35fe2968defbfe98bd7bb7e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_009.txt",
+          "sha256": "6ad104486b2f08cc526930b60140a5b499c0165b30bfd733ddb3eb7156dcaccb"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_009.txt",
+          "sha256": "f69734de107ec8ea0d61fb77938cde6b6c641e89b78158afcc646643438dbe4e"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-9-12-r3.json",
+        "sha256": "38a454d40f75239b70095278a74396f9cacfc486c3a3750069aa945f885c93f8"
+      },
+      "generated_record_sha256": "adb97d11177fcae35b30fc2c5fdc1868281883597184d6a22c0b5d91be77c1c7"
+    },
+    {
+      "page": 10,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "0dbd7a24-60a0-4bb1-9a1a-4e0ff4f4bda1",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_010.txt",
+          "sha256": "313ac13f9db7fa87159d0351bc9021fb365773459b49349bb9cf6be0214fe73b"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_010.txt",
+          "sha256": "ca3c6043bbcd85393dd4825783463cf64de2e4e2c9c5bdc5366814b17deefde8"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_010.txt",
+          "sha256": "8da9b63c21b4b2edb489bed0e88dc191d3aa9b7e97a204df92639c7c4b5b33da"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-1-12-r1.json",
+        "sha256": "bcd0f2ae6f7a8a00051a6b37d0c3e9f8b119875867ec9242b7e84b74ff485983"
+      },
+      "generated_record_sha256": "2572b43c18423e2b699e56f0a92b72d582f1ab23122c33b508cf030d4d32ea9c"
+    },
+    {
+      "page": 11,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "0dbd7a24-60a0-4bb1-9a1a-4e0ff4f4bda1",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_011.txt",
+          "sha256": "9badbbe0edde0a770cd3eb8d2e3dc96d8b1840c7e42e94d823152b88cddf0c3e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_011.txt",
+          "sha256": "399664fca14cfd7fd1066d62cf2f9010f7b0bbd80ebf3b3562f4c276d9120ec8"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_011.txt",
+          "sha256": "f5858d1d125681568bd5c4dade165da142348a4e0e3cb77e52383fe93f438b41"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-1-12-r1.json",
+        "sha256": "bcd0f2ae6f7a8a00051a6b37d0c3e9f8b119875867ec9242b7e84b74ff485983"
+      },
+      "generated_record_sha256": "e9a5f36ae892d09af0c50b639c8c3130ce41a1f317b2949d6863cb933192b62a"
+    },
+    {
+      "page": 12,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "a349d0d5-fd36-4661-9d66-07adcc895919",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_012.txt",
+          "sha256": "20094ff5c30a6304e35fc820d7026146fefd4d421a7c58b8331ddb524d084bc6"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_012.txt",
+          "sha256": "b99077595808bfdaf00842b151739ca0dcb338767703921c4e8caff98dd588e7"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_012.txt",
+          "sha256": "5c71b333176ee2f80c8329db9dd686e0b70fbdc0552e874eff5fbecc5dca37d3"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-12-r4.json",
+        "sha256": "79e7284230226008d9cea02282ffacc174542d672261840dcf0b467c6fa6339c"
+      },
+      "generated_record_sha256": "ff496605992fdd94940b6c1c0d8044a5adf4cf5ea039dc799c240183571fbc09"
+    },
+    {
+      "page": 13,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "0a21060f-e101-4812-b9b7-415be05256b8",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_013.txt",
+          "sha256": "ff9b36d955d40efdc727dfdcefafcc169c82e297bc305877b94844fd432c1f5e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_013.txt",
+          "sha256": "49fd5563356a9c8fb57cba8c09e05008a828e8cc3fc5d18bf7065e2d2ffd8cd8"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_013.txt",
+          "sha256": "ddda7772551d4b491c1d05cddd1387994ad31a8a1ca02005fe2a91c1e9024eed"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-13-24-r1.json",
+        "sha256": "2b996c201b94246ae6584d76ab0740705b300e26f443364c6e0d940c88336b19"
+      },
+      "generated_record_sha256": "02f4124b8f3a40435679e3ede4044a2d2ee313fd5fddcdffd9350fdcbd134a54"
+    },
+    {
+      "page": 14,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "0a21060f-e101-4812-b9b7-415be05256b8",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_014.txt",
+          "sha256": "d2c220c9ae0d638601f4bb55d44385e1c1419a4fb434d7f63c4106fbba83e41d"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_014.txt",
+          "sha256": "3a8a049c3f76f4a0dbc6724aa1c842b504555854d36cfbd63f59f833e0dc4f43"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_014.txt",
+          "sha256": "b47ba791fdecacc14662352a331eb288e876769f89e122a1264b9cef73c816a0"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-13-24-r1.json",
+        "sha256": "2b996c201b94246ae6584d76ab0740705b300e26f443364c6e0d940c88336b19"
+      },
+      "generated_record_sha256": "0f4421e87854be6621dc1f03e347e191f89dc873f21e7d672842b739c232a8a0"
+    },
+    {
+      "page": 15,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "0521128d-9862-4407-aa08-c7b48b87c0aa",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_015.txt",
+          "sha256": "e717d4d4b1f1d27eddff2ecdd192b97159be6438e5dbfb037f97660907be2f43"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_015.txt",
+          "sha256": "8b37a5ce854b889550d91d78d2af0fb91333e6e83513730b70d47f9321188ad7"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_015.txt",
+          "sha256": "8ea3f30bf141d90b9f2015843d05512158f6153c190c8cb20f189203c5a51d32"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-15-24-r3.json",
+        "sha256": "296a56b0ec7cf04f1c7f09ea7bae680af8b95797087d259f4fa12ffce0c2a190"
+      },
+      "generated_record_sha256": "f0b54f5bd81ed5b97e9f22ddcc7820f2ee52716a9286347e75fd44300cc81576"
+    },
+    {
+      "page": 16,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "43ce355a-0059-40b9-a50a-40703a3803bf",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_016.txt",
+          "sha256": "5b92e75e910b6da7ded9e1260d934badcf92961f572ddd60399d3dbf2ebe7c70"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_016.txt",
+          "sha256": "e11a74d95e44a1e8b30beba191f9e6a5253d47c7436df95c2e180a3b6bc079e5"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_016.txt",
+          "sha256": "759b3f06ab039729ebf38121810942eef018e4a8308e8f02a24b04c0e7349412"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-15-24-r2.json",
+        "sha256": "c9d6161edcbec9bcc8e1d51ba8b0b7e1dba4757530dc7d58606ebfdf63152925"
+      },
+      "generated_record_sha256": "bf71aa0a71d45c0ce0e5bda2dccbb467f1d7f1456dd8cb49ecd84f5e367e7df5"
+    },
+    {
+      "page": 17,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "43ce355a-0059-40b9-a50a-40703a3803bf",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_017.txt",
+          "sha256": "79457112495fe06f743b972706f90ca0c1a785c2fa10a41d54664ac63c782287"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_017.txt",
+          "sha256": "bbae4a1f5ecab533a0054d98c7c3dfd328b4a1902ac867894a3a239e15ef5022"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_017.txt",
+          "sha256": "61b1914e329c6aa0e6077e7d78f647ffee370d8d84b1d86d73b42978a9a4c9b2"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-15-24-r2.json",
+        "sha256": "c9d6161edcbec9bcc8e1d51ba8b0b7e1dba4757530dc7d58606ebfdf63152925"
+      },
+      "generated_record_sha256": "4ea703324183cd023c0c0a30a1a55c571e9774a5878093b23eee555a2148aabc"
+    },
+    {
+      "page": 18,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "0a21060f-e101-4812-b9b7-415be05256b8",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_018.txt",
+          "sha256": "196b971ea3dea22dcf1f375228c44650aa9d1241a0280d3b4765983342d15ebd"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_018.txt",
+          "sha256": "d82f064e9054bd32f6511f52a148ac7258351d8a257d2f02b6c4dd0555c6fe67"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_018.txt",
+          "sha256": "1f4f5be64c7b8309873d0ebd4ea5c489b5595122d8e5868160d45c7e6308e103"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-13-24-r1.json",
+        "sha256": "2b996c201b94246ae6584d76ab0740705b300e26f443364c6e0d940c88336b19"
+      },
+      "generated_record_sha256": "356e3bd05156936c287484ddbdee210d5563eb127ed02c93e4120b06db46c423"
+    },
+    {
+      "page": 19,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "43ce355a-0059-40b9-a50a-40703a3803bf",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_019.txt",
+          "sha256": "d9ef8bc345be03591953df1a81b61c2193e281201f1b6e6f40025d0a9e8bec5c"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_019.txt",
+          "sha256": "cf2627d4879b657f317a77c39a8b008f70b8a0d4f5e473ba07d92ae177d89607"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_019.txt",
+          "sha256": "f3391947e4bf1f9027839020e31b4354fcb067a976ae2848d7d7cddfa37e5829"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-15-24-r2.json",
+        "sha256": "c9d6161edcbec9bcc8e1d51ba8b0b7e1dba4757530dc7d58606ebfdf63152925"
+      },
+      "generated_record_sha256": "34ab4a8c355b193d4b975b076b3ccae0726791080ecfd58f801b4e11bed57d54"
+    },
+    {
+      "page": 20,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "43ce355a-0059-40b9-a50a-40703a3803bf",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_020.txt",
+          "sha256": "056b6d2a4624f918cec2e9de02230b199dc110b5bda6210c49053ff4881d0f3b"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_020.txt",
+          "sha256": "dbdbc0d2670b8dd8c85c765b4bba54ce644b53b1ab39e05ff12bcb8f3b24efc6"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_020.txt",
+          "sha256": "1a2bd0a7a66a8445aef9f503f7b1d9e174c44972d7cf7c4e94412ea06a63340c"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-15-24-r2.json",
+        "sha256": "c9d6161edcbec9bcc8e1d51ba8b0b7e1dba4757530dc7d58606ebfdf63152925"
+      },
+      "generated_record_sha256": "5e2e52e9119f1ff0b98efd415d8a923e2ea0e3c9d734fa8d2a3e7e6d298193fb"
+    },
+    {
+      "page": 21,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "43ce355a-0059-40b9-a50a-40703a3803bf",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_021.txt",
+          "sha256": "fda02ba408485948ae47a8ab8d395a5e61ffb52e81e8e41df820cf576e7b09aa"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_021.txt",
+          "sha256": "4dc5353454b02eb6010ca8247aed7f22515a80458a1bd69b47fac11045242238"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_021.txt",
+          "sha256": "fcbbd181a66acbc32f94c74e5c3a9c017876e37baeb23d3e0e52232094b25bcd"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-15-24-r2.json",
+        "sha256": "c9d6161edcbec9bcc8e1d51ba8b0b7e1dba4757530dc7d58606ebfdf63152925"
+      },
+      "generated_record_sha256": "2d49a76c29f4a76210e29266e47a1bc2f1b3f69005b64284b14abb49bb1f2415"
+    },
+    {
+      "page": 22,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "43ce355a-0059-40b9-a50a-40703a3803bf",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_022.txt",
+          "sha256": "ad32b5c2e17d089577358fb7b1e2bed3fa87953cc1a26c0323a7a72ae2105a65"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_022.txt",
+          "sha256": "2aaf7040e0ea474290a8932978300bc15637ed7a360c5e115c18d8c7bbb74f7f"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_022.txt",
+          "sha256": "7dc14bd96f2da0a789d833d282d79c50caa5c4d020cfeab40d4606f3404dd89c"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-15-24-r2.json",
+        "sha256": "c9d6161edcbec9bcc8e1d51ba8b0b7e1dba4757530dc7d58606ebfdf63152925"
+      },
+      "generated_record_sha256": "36fc59b8c5cdf80e38ccc8e04cf8d8d5ae643188290d474c66488d95c3fdaa32"
+    },
+    {
+      "page": 23,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "43ce355a-0059-40b9-a50a-40703a3803bf",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_023.txt",
+          "sha256": "105202b6bd3a52713becee48ec08bbf5e7f41f30237e5af435f20ddeab9d8f49"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_023.txt",
+          "sha256": "e1a0a7b28a7a061d4f60a67c4b702463f6264cc97cd30c7b601df5b4b39b35fb"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_023.txt",
+          "sha256": "6793f2db30af56d03d6876df222c65f3e363d4562055543bac16b27a82bc4826"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-15-24-r2.json",
+        "sha256": "c9d6161edcbec9bcc8e1d51ba8b0b7e1dba4757530dc7d58606ebfdf63152925"
+      },
+      "generated_record_sha256": "d68f7b735f72ad372a717b9a278a32ef249c1372c58954601542c1b803e21464"
+    },
+    {
+      "page": 24,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "0521128d-9862-4407-aa08-c7b48b87c0aa",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_024.txt",
+          "sha256": "be8b6e4ef84984f2b925032d17824194205460398bb3126d02b8e0da0464bf83"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_024.txt",
+          "sha256": "0a0db984bbb0d928ad9836424c43571209387d1058725a07f651039615d2066b"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_024.txt",
+          "sha256": "7023728682eba2d480794014937a127d70454d6ea81313ecedd1aa0da3ea0778"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-15-24-r3.json",
+        "sha256": "296a56b0ec7cf04f1c7f09ea7bae680af8b95797087d259f4fa12ffce0c2a190"
+      },
+      "generated_record_sha256": "b2d955b695770ed5ad4ca5767f80f3536df85546e76971802e1c4f119d7c7c60"
+    },
+    {
+      "page": 25,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "9641d9e8-8f52-4fcc-9885-022971c4afa7",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_025.txt",
+          "sha256": "109bf9451235c085e8bd3c6dbb33f1412baed37de68afe95b8df6eab4291ea45"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_025.txt",
+          "sha256": "7e547e4ffc0c0585de9ca432139ec8a5992dac015d946979cc404399322528bb"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_025.txt",
+          "sha256": "c46bb0902cbc0e9b0742f965b9acd097b40a817fc8432d8ac28de532974416f7"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-25-36-r1.json",
+        "sha256": "4dd936ee7fb77d66ae91b57482fb4b2cc6bbcfca91ebda5095f2e0026c4f1bb7"
+      },
+      "generated_record_sha256": "a9cc1e520f3d57fd901d9d01b661d512f4e932888afd182f6d2b75fd60c65ad0"
+    },
+    {
+      "page": 26,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "ad7015d0-dde8-42ce-9c62-72b6b9ea110d",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_026.txt",
+          "sha256": "e648a3ce22271e358e23014d667464b4d752a7283977e2c41f380256c1a4c1b2"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_026.txt",
+          "sha256": "4cd182fd6b9b2c7301cb64b5c624e22c6e10a18a9bcd804f175c0e5a6e6840df"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_026.txt",
+          "sha256": "e335ed1a55eac07e0d5454a717d74eb7dc0f46bcced199900ce225c2a2319e49"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-25-36-r4.json",
+        "sha256": "08600e492e184352fb276d4a4bffa92586775eea4b5d58e51f3128b87fc2913c"
+      },
+      "generated_record_sha256": "8239ab54ad52251c6c8920a2c6824d9e8ccc28c8bf37787b3ca1ad201ec46179"
+    },
+    {
+      "page": 27,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "7f59e16b-344f-4579-aa51-1006232199d1",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_027.txt",
+          "sha256": "df6dc04487c0fb2c29ba3951646358cab776e62942df2d64a62c155c6e97aa9b"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_027.txt",
+          "sha256": "2047c4ec053b2c02ed51f625cdcc262130bb5742d53689be9e4f21d45676b8f6"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_027.txt",
+          "sha256": "a61e077f4f3317bc8641eaf3e10d77d27c70b8a4759c628c64a5dfdb9eac968e"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-25-36-r3.json",
+        "sha256": "0f32a790ac771318bc8783bbdee8a8573ce84f65606f1bcac06fd7c09c09ecbf"
+      },
+      "generated_record_sha256": "53c56696ec87f2e9e935c37c24960596db7cd00f0c53024144581578dea01998"
+    },
+    {
+      "page": 28,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "9641d9e8-8f52-4fcc-9885-022971c4afa7",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_028.txt",
+          "sha256": "696769fac64bdd203f68539524272c5f00803f943f3f1d881428ee9add1d9cdb"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_028.txt",
+          "sha256": "86401bbf268adc6963d36663ce4ad53e880a372408acbb23e8ca96c539215e94"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_028.txt",
+          "sha256": "caa32dc63101c8f1d153a36d445129b12abe9a695be435cc2c8b8c761552a9a3"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-25-36-r1.json",
+        "sha256": "4dd936ee7fb77d66ae91b57482fb4b2cc6bbcfca91ebda5095f2e0026c4f1bb7"
+      },
+      "generated_record_sha256": "2f4f20e0814edd6fe9b7f64ea5316d2487ba6f544a90e72d0c4a086de46a4264"
+    },
+    {
+      "page": 29,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "7f59e16b-344f-4579-aa51-1006232199d1",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_029.txt",
+          "sha256": "cfe64dd6346484ca999db115e247802ea572375236ecfe1800b2d25259d10274"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_029.txt",
+          "sha256": "3fea4b12ff5cde1969dc38fa050bfb34fe1b6a28943be5c1a829ceafed1d53dc"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_029.txt",
+          "sha256": "ed7b08cc42ba6dabb1e3f81cce0a90ef34968906900faf8bc4945a0ad9f868c6"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-25-36-r3.json",
+        "sha256": "0f32a790ac771318bc8783bbdee8a8573ce84f65606f1bcac06fd7c09c09ecbf"
+      },
+      "generated_record_sha256": "8311976829fffef1f0da065c894547f01c751fbc0875c1965893433f2348a36e"
+    },
+    {
+      "page": 30,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "7f59e16b-344f-4579-aa51-1006232199d1",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_030.txt",
+          "sha256": "b1d80ab7116c4703f39348d8781a096d463b033f0628c0e0c8702eee368774fe"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_030.txt",
+          "sha256": "69cec75cbbe4964affa2e12fcf508eef0c5a6ebaa3f032ac68984aa6c80609c4"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_030.txt",
+          "sha256": "7c291343b83a7b077e59093cfff2144c76334a7a8d76e3c3450b3a90482b8b76"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-25-36-r3.json",
+        "sha256": "0f32a790ac771318bc8783bbdee8a8573ce84f65606f1bcac06fd7c09c09ecbf"
+      },
+      "generated_record_sha256": "abdc40183fb69cdc7e7aa81ef04115a7f644ab8878b5902bf65730de8d6b71c3"
+    },
+    {
+      "page": 31,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "9641d9e8-8f52-4fcc-9885-022971c4afa7",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_031.txt",
+          "sha256": "89d13c277d64ab59ff2aef5510d11bcb2f0ff4a6120c852cde86d5db8c432b13"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_031.txt",
+          "sha256": "0d069d7a5e6d9cc6a48d1c2f10e2720d74791b4b47d4b47df21174332b216692"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_031.txt",
+          "sha256": "f1c5d4e33bc5714d4bcaa9a58aaf18612631f907c395284cc2d7a7f69e0299eb"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-25-36-r1.json",
+        "sha256": "4dd936ee7fb77d66ae91b57482fb4b2cc6bbcfca91ebda5095f2e0026c4f1bb7"
+      },
+      "generated_record_sha256": "98f7de6d760a69dbf1f31909f88ee38f20535bfb755e026763ded26ccaa3d55a"
+    },
+    {
+      "page": 32,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "ad7015d0-dde8-42ce-9c62-72b6b9ea110d",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_032.txt",
+          "sha256": "b9151fbbcd3f51f1f868bd338f77f5ab0685c28552373e6fb7aaa005a60e233b"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_032.txt",
+          "sha256": "200028c43de5e16523c9ff275e708603029df7ec6eb9daceb842affddb19da15"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_032.txt",
+          "sha256": "caeb697aeb9247b6b84c5faa4e9947ded27b972f99de09d4f118d0d36c68aacc"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-25-36-r4.json",
+        "sha256": "08600e492e184352fb276d4a4bffa92586775eea4b5d58e51f3128b87fc2913c"
+      },
+      "generated_record_sha256": "2b03d86c0f9d3105b251c03df9a8e22fc2aa2581d9b5b2ea818ce3827b37101e"
+    },
+    {
+      "page": 33,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "ad7015d0-dde8-42ce-9c62-72b6b9ea110d",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_033.txt",
+          "sha256": "4daf3cae9b6ded5a91df66d803a1be88cf5d6dd07239097a72fb26b08245d18a"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_033.txt",
+          "sha256": "807480c20cbbe7872c59c3a26d15b88db6806b8be0d19e7f8ab3a458156a015b"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_033.txt",
+          "sha256": "3cf3e512fe5317da47322837c042048efccba1bf0cd4479cd229c797ea572f39"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-25-36-r4.json",
+        "sha256": "08600e492e184352fb276d4a4bffa92586775eea4b5d58e51f3128b87fc2913c"
+      },
+      "generated_record_sha256": "f4c09d775c816813aa3c39b4b337dec54cbfd480f70072f5fbe2afe2d5235b36"
+    },
+    {
+      "page": 34,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "9641d9e8-8f52-4fcc-9885-022971c4afa7",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_034.txt",
+          "sha256": "48fd95b76642df49af13c1756ba27d68cb72ea7061dee64e030c2c5dda6f37e2"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_034.txt",
+          "sha256": "d0350e871c367d699ae3ce37df3db45ef5169218365963e5611fb323a61dfb7d"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_034.txt",
+          "sha256": "2b81b46ea371dfbcc9b965e0a4f0d72519f46d2c8a5da99330f16d96dbd60f29"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-25-36-r1.json",
+        "sha256": "4dd936ee7fb77d66ae91b57482fb4b2cc6bbcfca91ebda5095f2e0026c4f1bb7"
+      },
+      "generated_record_sha256": "ffd0b2c52e1b4c03f7cdcde48addb04e04265be5fbdbd6aa8c5c94847083288b"
+    },
+    {
+      "page": 35,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "ad7015d0-dde8-42ce-9c62-72b6b9ea110d",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_035.txt",
+          "sha256": "15a65b1b23f4374d2fd8a29cd9b363c296679ed22ff846adddccd5789bd1b59e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_035.txt",
+          "sha256": "dd8d60c872e948bf3817b5f3639d9c9c462ac8b4b35bac17295dbefbd019c07e"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_035.txt",
+          "sha256": "ad5ee9bea6711b6b95cd79352efbbeca8987ddef22c9171cb9ae13fb4027642c"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-25-36-r4.json",
+        "sha256": "08600e492e184352fb276d4a4bffa92586775eea4b5d58e51f3128b87fc2913c"
+      },
+      "generated_record_sha256": "23e86d3e020b0511b2472664643d11fc438fbf1dde060af5bffcbe806899628d"
+    },
+    {
+      "page": 36,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "ad7015d0-dde8-42ce-9c62-72b6b9ea110d",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_036.txt",
+          "sha256": "2caf20950865a029bdc1cc753f3bc9b4d5035cc48b85b6d8f9b9f4c734342e7c"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_036.txt",
+          "sha256": "28438c73f1457245d6226e5898abd2d9827a39d7acb3195c883621317d3ee9db"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_036.txt",
+          "sha256": "a956e900cfb1bed20200fe5ec066995a7a0125ed2abb6ea5f2e71f72ee89f43d"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-25-36-r4.json",
+        "sha256": "08600e492e184352fb276d4a4bffa92586775eea4b5d58e51f3128b87fc2913c"
+      },
+      "generated_record_sha256": "4a1dbdecacc97879406d6cbd9a4d5d53b8c1f58c0afd1dac992849d5b578fd10"
+    },
+    {
+      "page": 37,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "a806c1e1-e509-42a5-b0e6-464fbaad79b0",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_037.txt",
+          "sha256": "20886d9d600c256cb5779f5105daf0c4b1742d13f2e65a084d35f361555cd47a"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_037.txt",
+          "sha256": "faa95d992c0e0c03cf4f85db070eb28eadea8b86a557a2da1130afd1a6b740f7"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_037.txt",
+          "sha256": "c32caad6a7c1db528d544d5874bb9457b9a7a2f8ef7d2c84ee2230961876cd68"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-37-48-r4.json",
+        "sha256": "0b99f500f2543f60575d2890e81e191fb0d01f95b72ef290d9768cb64e6292a4"
+      },
+      "generated_record_sha256": "3fdd77ada4b77b7c26097bc4f05a57d47601666fab6c706d55c1be954f5126af"
+    },
+    {
+      "page": 38,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "0f6c582d-1aad-42a4-bf50-bf49ec779eb2",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_038.txt",
+          "sha256": "fb2ac11ca3a283a41a915cd29bfda3b0a3e887178792a19fef824d753d4a95aa"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_038.txt",
+          "sha256": "3d11bb6af32575fade638e35d379d90c91ab40e62a17d5538bf1512e3ee02a31"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_038.txt",
+          "sha256": "003af37c5a91a6b9b958e5e083fb5a8db82d3eb8d54975f011ac72056e9dc314"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-37-48-r2.json",
+        "sha256": "34d598b310a42911d747203069ba7f54ac4109237466b33c9bc026a0360b2a1c"
+      },
+      "generated_record_sha256": "2bf548ccdfba9464bb629d60c1da710549bcb50d20e8ccd04b23bc63c4b2f9d8"
+    },
+    {
+      "page": 39,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "0f6c582d-1aad-42a4-bf50-bf49ec779eb2",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_039.txt",
+          "sha256": "a97807162ddfea7c7fc60d83eb67ef5015d17a5d5fc537a0bdff6b8e65baeb6c"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_039.txt",
+          "sha256": "3ffa7e7ff151ced66041f87a446e03905aca9af826eb8a551ff49f61b0864c21"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_039.txt",
+          "sha256": "b9835243c1da7a15aeae7a7d1c0aae9e3e7a1bb852108fe3d3c30e625fc980d0"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-37-48-r2.json",
+        "sha256": "34d598b310a42911d747203069ba7f54ac4109237466b33c9bc026a0360b2a1c"
+      },
+      "generated_record_sha256": "7205f7b6063779466883429e357a4efc6157e1505fb4f89f776bd596a38097f4"
+    },
+    {
+      "page": 40,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "0412a827-2e26-4b36-a3f4-8453d8bbb30e",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_040.txt",
+          "sha256": "13203e4b1cf0e260b6d7b99f1a62f8024787d2a53c0a7283ce928a5b82e31898"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_040.txt",
+          "sha256": "ff7e40c9b06613334dd518673e90f45560fc532303e523d937fce5f7d6b12265"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_040.txt",
+          "sha256": "0d3fb4f6464ae5edbea9df2914d89b6a1733f8256739eaec2d45a7efdcc569bb"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-37-48-r1.json",
+        "sha256": "40d55e14454d13f0caa6c30572e3a9f4558b08b4858400e33cb7c3c2420c173b"
+      },
+      "generated_record_sha256": "d513f05b5cc5e784035414249d3987a8d19417b08dcd2993c237c422110667a8"
+    },
+    {
+      "page": 41,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "0412a827-2e26-4b36-a3f4-8453d8bbb30e",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_041.txt",
+          "sha256": "eba8010b48af777b303742c4de7def7ff6c1d3f145f36ceb0e074aa9899ead20"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_041.txt",
+          "sha256": "0b9612b76b4cf587fb94d1a2ab29084f48a2b5ed8fac46569325eef86caaf4b8"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_041.txt",
+          "sha256": "6affaf62ff726247980aeb68c5edb2eee85aa851cb4276b02c46c29303c3ee10"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-37-48-r1.json",
+        "sha256": "40d55e14454d13f0caa6c30572e3a9f4558b08b4858400e33cb7c3c2420c173b"
+      },
+      "generated_record_sha256": "6b675f2b40700b921f03f7420c51746b51bca0bc3ba9e79c83fce756917a5d90"
+    },
+    {
+      "page": 42,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "a806c1e1-e509-42a5-b0e6-464fbaad79b0",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_042.txt",
+          "sha256": "78641769833ab32f1e7f03719c6814ad17423cb0638ca3ca3e855fd3dd44c584"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_042.txt",
+          "sha256": "b6b95f7733820c7b4ad7ee5cdc6c93304397a7b86ba35c1f4ae3ea3f5af7cb59"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_042.txt",
+          "sha256": "6a1f1da2e8f720fc6bb4f4676d2c64e8ff286bab584962b47c336e1d13d57492"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-37-48-r4.json",
+        "sha256": "0b99f500f2543f60575d2890e81e191fb0d01f95b72ef290d9768cb64e6292a4"
+      },
+      "generated_record_sha256": "1a9b0d591f7baf9e0adb3771a59bbf0cbc562370000aaad184da3513d3dd20a4"
+    },
+    {
+      "page": 43,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "0f6c582d-1aad-42a4-bf50-bf49ec779eb2",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_043.txt",
+          "sha256": "6ecbf7060020e320a1626b7a35b242024cd7020692fe95083c6784944c7f490a"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_043.txt",
+          "sha256": "f6665bdc4291a37ac7dd908d4c3a2e98eebd59ad4e41a09a1c88e5ec0cde9609"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_043.txt",
+          "sha256": "caf89de0e61a775eece49fcf51d9927d21727b22a53bd09b0c90f33fbb175a54"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-37-48-r2.json",
+        "sha256": "34d598b310a42911d747203069ba7f54ac4109237466b33c9bc026a0360b2a1c"
+      },
+      "generated_record_sha256": "3d158265efc0ce18e57805f3f9d5a19ca5532bfc9e129d1fc6d1f53feff20d8f"
+    },
+    {
+      "page": 44,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "a806c1e1-e509-42a5-b0e6-464fbaad79b0",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_044.txt",
+          "sha256": "7b34403aa7d13cbd0b098460b52d3a3325878bb658669f54130eedd430d2ef4e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_044.txt",
+          "sha256": "85d76d99fc15246bd05e7387480f1a18e1144c31395f1fb47b18ead6304a2930"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_044.txt",
+          "sha256": "a369748db2e00d4cafbbe6364020ea25eca37023453396f7c51d869389f6709d"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-37-48-r4.json",
+        "sha256": "0b99f500f2543f60575d2890e81e191fb0d01f95b72ef290d9768cb64e6292a4"
+      },
+      "generated_record_sha256": "aa13424ac1fe7b96f418e80f1d5588438dd9c66d30928c7d0b728c22b4e9c0f8"
+    },
+    {
+      "page": 45,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "a806c1e1-e509-42a5-b0e6-464fbaad79b0",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_045.txt",
+          "sha256": "14292650e595d38a95e006483450dfdba44f32911148776dc7077cab4bcedc33"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_045.txt",
+          "sha256": "f87676db57de40e553cba9c484861c5ef099d0c8dcf72e541e3d43756fb243cf"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_045.txt",
+          "sha256": "9fe7f1907e2f2b4eb0e7df695605b49571895f167b879b0df3a55e6f6555ea9b"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-37-48-r4.json",
+        "sha256": "0b99f500f2543f60575d2890e81e191fb0d01f95b72ef290d9768cb64e6292a4"
+      },
+      "generated_record_sha256": "2261804e9f3368f223cb0940154fb1683a3401d46ff3164045be8f80aa0c147d"
+    },
+    {
+      "page": 46,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "0f6c582d-1aad-42a4-bf50-bf49ec779eb2",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_046.txt",
+          "sha256": "f9d104a56cf14479ddbe2eb64109babe838dc155d2afa511860546a9504d52c6"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_046.txt",
+          "sha256": "cf8da09fedb45ac345faae420ea3f2e288564ee589f6b516ae09a297cc61233e"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_046.txt",
+          "sha256": "c5d834de9802b12b24fa710fe0fd38431c96b732dd9e5c0679d79c8ec3e99a3b"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-37-48-r2.json",
+        "sha256": "34d598b310a42911d747203069ba7f54ac4109237466b33c9bc026a0360b2a1c"
+      },
+      "generated_record_sha256": "47a4c9dc6812c2456b65137bc025406a8164d6e8414cbb61b0b0d4676af78146"
+    },
+    {
+      "page": 47,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "0f6c582d-1aad-42a4-bf50-bf49ec779eb2",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_047.txt",
+          "sha256": "9cfda7fb99f74b8ea1a21aaa5f0eb97cb3819a902250daf4d71980b431f158ef"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_047.txt",
+          "sha256": "4d161d2a391d6306b5796fdca2b58f87b2c584d6281b52529ff3fad6d5563907"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_047.txt",
+          "sha256": "fc55a5a9a6274d8b38c064cf989dc4b0e08a4bbd9cd8f2ffb08e6b4643140dca"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-37-48-r2.json",
+        "sha256": "34d598b310a42911d747203069ba7f54ac4109237466b33c9bc026a0360b2a1c"
+      },
+      "generated_record_sha256": "3438c8a8194e1d04ab0f6fa148530b2ad3e2415c9a8068f94b13988cbda717ff"
+    },
+    {
+      "page": 48,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "a806c1e1-e509-42a5-b0e6-464fbaad79b0",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_048.txt",
+          "sha256": "ea584c86c368ff75fd53d3982b7826be1407daf42f294465f77fac4518638c75"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_048.txt",
+          "sha256": "9f3fd3b5823d6ec699c720f606506ed087464c8edaf8cdbb96a2045264631da5"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_048.txt",
+          "sha256": "a6b33794552f851c62363e3d9e49f9c70a4d200b2000464104ba794ab9839ef0"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-37-48-r4.json",
+        "sha256": "0b99f500f2543f60575d2890e81e191fb0d01f95b72ef290d9768cb64e6292a4"
+      },
+      "generated_record_sha256": "44be5f69557d668a048d3da12d13d692162f0c9e2070517f9443486fa265d36c"
+    },
+    {
+      "page": 49,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "80266535-abc7-4033-bf79-f8dd3e0045b7",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_049.txt",
+          "sha256": "4c6886a445f5ded77308523165bfb237871cf950c3a99f52b152ecf9cc5b90d0"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_049.txt",
+          "sha256": "0b6192ddfbbe6a881c512b0ae8e66448843cbef1cedd98e87980f73fbf99619d"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_049.txt",
+          "sha256": "c199a732586b4dca412032bc41136fd2bfba4fce9f65635d685fe3e151e2ca59"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-49-54-r3.json",
+        "sha256": "4e4d04e62a2b292dbe405738517d0b889193a506eb5d0856e3fbf01aa08a6db3"
+      },
+      "generated_record_sha256": "d2d75b1c7c36c6f1a6957a66a9dffa4a8fcd4ab7b956a7f382172f6c4be934b3"
+    },
+    {
+      "page": 50,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "1b906405-d990-401b-9a8f-7194a9012399",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_050.txt",
+          "sha256": "2ee83ba6640f3340b9bbc0e7a2aa093e25dc97ee94b7997c89aa1acf4b2e754e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_050.txt",
+          "sha256": "11d2160ca28058747847bc7f705bd858326bfbedb299d9ce0ca23fb2c7e66c74"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_050.txt",
+          "sha256": "3e82f2e99d1ba79aa151cc793ebc4daeaf9d0ec029a7dfe5d6184321ee54c1cf"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-50-r6.json",
+        "sha256": "339da3600424c6930db3a3fce516d1bc2fcd84e8939dc6ca9bb5d1ab5d67a032"
+      },
+      "generated_record_sha256": "f85c4a423f7cb53cc4fa187cbaef02539b63281450613d0ff6e635b8f9990d10"
+    },
+    {
+      "page": 51,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "e0798ee7-dbbd-4f23-98f1-489af87d623b",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_051.txt",
+          "sha256": "1e93284857f930770a515646b66c673cd01bf792e4266e5c1c7cb76c307a6875"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_051.txt",
+          "sha256": "767017cc3e0a321011b473271b4f4d976399bb88115948b84285fde3981ed807"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_051.txt",
+          "sha256": "0f92bc060e04fb6d4ae31b074227966a8ee0fa69b9695f49ecf97d89a0714ea0"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-49-60-r1.json",
+        "sha256": "d0da45e264dab9b9a630c0b49ff9b52865aba66eac8bf4a88120e11c8ad9dcf8"
+      },
+      "generated_record_sha256": "5c89a63ed9853f66ddffea0dc079e7b61a9c32cc7f9d91f1f891cbdddbf27a74"
+    },
+    {
+      "page": 52,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "80266535-abc7-4033-bf79-f8dd3e0045b7",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_052.txt",
+          "sha256": "7b1425b9af375680bb603e9feffaabe2aa7a3a88447a92ce8d5e3377b3dcd4a9"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_052.txt",
+          "sha256": "46f88353865229552e5106f04dde5b15772fe5b470cec1b86b27e6a4c64b81b0"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_052.txt",
+          "sha256": "635f69deef45af674653a492184a97acecf466df7d4b22bd3cf0a2921dd2c17f"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-49-54-r3.json",
+        "sha256": "4e4d04e62a2b292dbe405738517d0b889193a506eb5d0856e3fbf01aa08a6db3"
+      },
+      "generated_record_sha256": "c63346a642f7e5e4b9ed8197a96040cff5429c31dc78b9d429934a6599088eae"
+    },
+    {
+      "page": 53,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "e0798ee7-dbbd-4f23-98f1-489af87d623b",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_053.txt",
+          "sha256": "82040c75c28fa157f4f0f495f5cbf5a68379394df4feeacbf1a9d8d3babab0b5"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_053.txt",
+          "sha256": "0d455c605691f5301a64080e59c760127e28c1c60d5ebf93ab3a4b20210c172f"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_053.txt",
+          "sha256": "05d6b12a1fe40ab22db4160f07fac9b41f7f21b5b32d4fa0dab7ea86d33de4b7"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-49-60-r1.json",
+        "sha256": "d0da45e264dab9b9a630c0b49ff9b52865aba66eac8bf4a88120e11c8ad9dcf8"
+      },
+      "generated_record_sha256": "300bc6385160eaab2a061004e2eabd9d86502bf2ed9461b2bfff759c179007ab"
+    },
+    {
+      "page": 54,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "80266535-abc7-4033-bf79-f8dd3e0045b7",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_054.txt",
+          "sha256": "43ed54f333a9ba4fbbd217b955aa6e6f212013be364952cc9dba12c279270c16"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_054.txt",
+          "sha256": "e81d4ff56dad31050fc5e6d50f537210a7bff76038b207414dafb652982424c5"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_054.txt",
+          "sha256": "a1a39fb2de921e2af2b70717c8593dedfb1bd410efffb91741052130f06c61af"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-49-54-r3.json",
+        "sha256": "4e4d04e62a2b292dbe405738517d0b889193a506eb5d0856e3fbf01aa08a6db3"
+      },
+      "generated_record_sha256": "d2e2443b2026cf42e8dad5bd263a7422edf227caf30f0cd8db1e393a5c39810f"
+    },
+    {
+      "page": 55,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "5f83979a-0887-482d-9b9b-2d41374c9c7c",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_055.txt",
+          "sha256": "fcc04ecec5fbe4b4d40a0aeaafb8b7421afddab79d3e3382e4978d477bf7bce3"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_055.txt",
+          "sha256": "4361a47a03abfd78f9538364fc33143d21d944b0f3c39d050268e50b29163649"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_055.txt",
+          "sha256": "d2884a0073c479a5217467334954263b98ecff0cda2c5978c7e1a7ab41aa7781"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-49-60-r2.json",
+        "sha256": "7cff7239b207d38e20e462c25324138df2ac1d86f350da01901230d051aaf5a3"
+      },
+      "generated_record_sha256": "6bb8874c236a3838c61c0dfdbd72ff6eafa0d567b6d50109ec6856380b068d85"
+    },
+    {
+      "page": 56,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "e0798ee7-dbbd-4f23-98f1-489af87d623b",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_056.txt",
+          "sha256": "0f7f07066cc199eb5fefecbaebb280295b0899d54b2d011839827935684970dc"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_056.txt",
+          "sha256": "37594ab51821a3c699a169bd50d23ecf0e4cc9bef8f68c059f9c2ff79dfee8e9"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_056.txt",
+          "sha256": "e4e0f653ee5a8034d39dd0184a746e4f021dd9e83d2a0addcf19c041376976e6"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-49-60-r1.json",
+        "sha256": "d0da45e264dab9b9a630c0b49ff9b52865aba66eac8bf4a88120e11c8ad9dcf8"
+      },
+      "generated_record_sha256": "44122f94c417f68993350d60eac4bb1a59d4eccf36f1482b487f7a0e3a2a6c49"
+    },
+    {
+      "page": 57,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "5f83979a-0887-482d-9b9b-2d41374c9c7c",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_057.txt",
+          "sha256": "75167123f0ce0a6d29aaec9d18ee71d60e67b884562e052682acabcdc427076d"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_057.txt",
+          "sha256": "e07e46ffac1995689789ba984fb18516bd5a41d5090217fc008910cac202255f"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_057.txt",
+          "sha256": "a36ece255d3a4cb7687b28bb3fc96ab6949490994c1b993a0d601fd3a702f9da"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-49-60-r2.json",
+        "sha256": "7cff7239b207d38e20e462c25324138df2ac1d86f350da01901230d051aaf5a3"
+      },
+      "generated_record_sha256": "65a0b849b996202b4bbb52a5d84a64c998ecc51775b16c48224937ef7d60e91e"
+    },
+    {
+      "page": 58,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "5f83979a-0887-482d-9b9b-2d41374c9c7c",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_058.txt",
+          "sha256": "685b6e5329c30bf125ac4db166f183e39cb463b7358704aab2d8ae7c12a2a51d"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_058.txt",
+          "sha256": "89a4268a6e1c4b31e831d0356e96360d743964c3c10b457d979b119e315773ff"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_058.txt",
+          "sha256": "4ed84633c15c25052d708f2462cce416f7d674566a57611af77548cfe72afa7d"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-49-60-r2.json",
+        "sha256": "7cff7239b207d38e20e462c25324138df2ac1d86f350da01901230d051aaf5a3"
+      },
+      "generated_record_sha256": "5ecf54776a240973bc5ebf511b93d80aa283fa4b4a64cae9054f4ef68984f8f1"
+    },
+    {
+      "page": 59,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "5f83979a-0887-482d-9b9b-2d41374c9c7c",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_059.txt",
+          "sha256": "51053129d41232da1ac6dbea40b62de7508198a5adffb6505c4bdf4457f86595"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_059.txt",
+          "sha256": "478c0766ed9e835b2fc1875b1c5b61f5540ec5a3601b9314cf0eb8d5b3286980"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_059.txt",
+          "sha256": "f257e69ccfba963c2ca814ee581398a36c05fb4590c4958f92804f161a1a49db"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-49-60-r2.json",
+        "sha256": "7cff7239b207d38e20e462c25324138df2ac1d86f350da01901230d051aaf5a3"
+      },
+      "generated_record_sha256": "e3db905c932ad636c9714418c9017907ffe86668ee6ebe137eedd169b5fbc810"
+    },
+    {
+      "page": 60,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "5f83979a-0887-482d-9b9b-2d41374c9c7c",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_060.txt",
+          "sha256": "da2e618c3a3775bf4541aea07e395eb3afd6e4ea44b036c5c2299bbcd01f46df"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_060.txt",
+          "sha256": "4a22081a6fdbc230c691e6295258b198cd9b68a26748f0cc1a09cf2f24220906"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_060.txt",
+          "sha256": "72c456051b042b7d554a24aaa5c9de3d43dcdaeedd093e4c8bb89528f0d824da"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-49-60-r2.json",
+        "sha256": "7cff7239b207d38e20e462c25324138df2ac1d86f350da01901230d051aaf5a3"
+      },
+      "generated_record_sha256": "30ce113bf4766cb0fabb87faf65d71881da687087ccc44ae3c66c958609ff736"
+    },
+    {
+      "page": 61,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "76ce3e9a-684f-4b15-a91d-15dc90a450b3",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_061.txt",
+          "sha256": "4b83ac4c93859b960d03e5bea0e30decf7aad05175687c5cf46de7fc12f91668"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_061.txt",
+          "sha256": "3e975da55eeb916c36f09111a5405ec312538f6593807467f28881eac35b21e5"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_061.txt",
+          "sha256": "34321d6d97ed262173fd4f8dc4816bc606e026268977a464b8772e05e26ac63f"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-61-63-r2.json",
+        "sha256": "1d68f62e3f75edadb7b448c83b5e207f95aed46e2afac64bbda4f9f74bf2bd87"
+      },
+      "generated_record_sha256": "e70adcf04084507dc8c2355233efbb98195fb0e7785e7d4132ded3de72c2a8ae"
+    },
+    {
+      "page": 62,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "76ce3e9a-684f-4b15-a91d-15dc90a450b3",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_062.txt",
+          "sha256": "0605763b57e62b8b63f850642130957197b28170dd3a2f3414ed8464a0acd7fa"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_062.txt",
+          "sha256": "8464678d0a3205fce1b778cdbee35c1ef6bddde074aed88da5bdf92ef5ad3e15"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_062.txt",
+          "sha256": "8baf61d35ed790f9f62e9ec39e56e47ac2f3ad6e5585206f243a5ca9170508cc"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-61-63-r2.json",
+        "sha256": "1d68f62e3f75edadb7b448c83b5e207f95aed46e2afac64bbda4f9f74bf2bd87"
+      },
+      "generated_record_sha256": "85513060f37b48d942f1856a74351d9a1929659507495148082d34cb63f25e70"
+    },
+    {
+      "page": 63,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "76ce3e9a-684f-4b15-a91d-15dc90a450b3",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_063.txt",
+          "sha256": "56dec5eed29a90d77683c1322b622b24dc0bcaedc6cce946f9b31428e85c4de3"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_063.txt",
+          "sha256": "af2fec0a1480c5255681aac62861522cabd9b25ebc48c438a64b15646d87efa3"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_063.txt",
+          "sha256": "3dc5ed4ff29179a5c5a8f5fe2bbaa522dd859b1c1c7ec6e2c751c73f18713c17"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-61-63-r2.json",
+        "sha256": "1d68f62e3f75edadb7b448c83b5e207f95aed46e2afac64bbda4f9f74bf2bd87"
+      },
+      "generated_record_sha256": "27880fe7b5a3ac0550ef9845bff3fede84e9616edd60e0b81d7d9f477dc08c71"
+    },
+    {
+      "page": 64,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "ba5ee5c6-6208-4377-9f50-ab4e654a5bcd",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_064.txt",
+          "sha256": "b6749c892a270b60ea8484c287eba0e7089e61c2f6c96b4cb8a7001b1ae2cd8e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_064.txt",
+          "sha256": "f47d80c4d9949d05bb5f4c9349eaad69a99f3242e5472fcca37a0d7d8e7f57e8"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_064.txt",
+          "sha256": "3e2fb12c055094271d313a56e35fb96863255a54ec35cc286f854c383fcf0137"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-64-67-r2.json",
+        "sha256": "819536877e12862c1c0051811f718c7162bde695e26347db22bc4bb6442236dd"
+      },
+      "generated_record_sha256": "e6fe64142d317f3a1f3875b358f19e5fe8e5cb48687ada541e6a73d650a5bd03"
+    },
+    {
+      "page": 65,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "ba5ee5c6-6208-4377-9f50-ab4e654a5bcd",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_065.txt",
+          "sha256": "af6ea01afbaea5361a235824a3721d1151fe1146d8603ed29138175997cd5804"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_065.txt",
+          "sha256": "3e541535e26ff804c8662896c15cf1172e72986fbced2030cee9a717478ac0c5"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_065.txt",
+          "sha256": "e25841da26e2df9ca3a2601437898cc45460ba0b8e841afe180fcfb909244564"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-64-67-r2.json",
+        "sha256": "819536877e12862c1c0051811f718c7162bde695e26347db22bc4bb6442236dd"
+      },
+      "generated_record_sha256": "e8f7494e7f317cf61255aefe6963ce7ee7b462b7602b2fb19137d2c01f270569"
+    },
+    {
+      "page": 66,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "ba5ee5c6-6208-4377-9f50-ab4e654a5bcd",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_066.txt",
+          "sha256": "f160387106d9ba75cfc7cc19ade7452a7e55996d84da0fc0e6a87dadd10e87d9"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_066.txt",
+          "sha256": "283b6555c180222d58bb30a5c7bcf9fea8cac29704bbc8730b219362d2a00c68"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_066.txt",
+          "sha256": "0f1cefa393cc25858e5b31f09c325e43b5f00d222e19f1d2b15ffc3bfe5751f7"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-64-67-r2.json",
+        "sha256": "819536877e12862c1c0051811f718c7162bde695e26347db22bc4bb6442236dd"
+      },
+      "generated_record_sha256": "2cc86340e8b5cb89bfa7c4c2c395b36af689806009043cca3cda2de912460d2a"
+    },
+    {
+      "page": 67,
+      "repairer_id": "session-dbc56e75-7331-40fe-b58d-6aad58c1ab05",
+      "reviewer_id": "9b220b30-b546-4e6b-8342-2a2cb5f1f786",
+      "reviewer_kind": "independent_model",
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_067.txt",
+          "sha256": "0a9abf8cb714223711b4c3bb5c9d9cac65ded0e28cc3896cb68a3856120f141c"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_067.txt",
+          "sha256": "6ee22c1c9659986ab87e77eea28de4b77be05d2188133e51115e86235fe086a3"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_067.txt",
+          "sha256": "0950a902c75d1b82773910a486568b96f2ce6435585cc7339fb6ed7646c1d0ae"
+        }
+      },
+      "evidence": {
+        "path": "state/translation_v2/audits/2026-11-03-p001-p067/review-67-r3.json",
+        "sha256": "6d3c31aa8b532e8f906f14851092304ebddb5e89a71c23642866ad4680fd4437"
+      },
+      "generated_record_sha256": "1672ecd7abab45f6b14d33f17cdd7fc6bcda3900c82c260d174cec82930381f0"
+    }
+  ]
+}

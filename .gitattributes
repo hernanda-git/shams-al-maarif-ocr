@@ -1,0 +1,2 @@
+# Supplemental review reports are raw-byte hash-bound; keep their newlines stable.
+/state/translation_v2/audits/** text eol=lf

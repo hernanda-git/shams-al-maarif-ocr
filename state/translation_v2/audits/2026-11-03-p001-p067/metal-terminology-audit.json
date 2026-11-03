@@ -1,0 +1,109 @@
+{
+  "status": "READY",
+  "immutable": true,
+  "scope": {
+    "pages": "001-067",
+    "canonical": "ocr/enriched/page_NNN.txt",
+    "targets": [
+      "ocr/enriched_en/page_NNN.txt",
+      "ocr/enriched_id/page_NNN.txt"
+    ],
+    "searched": [
+      "رصاص",
+      "قصدير",
+      "قلع/قلعي",
+      "حديد",
+      "نحاس"
+    ],
+    "diacritics_aware": true,
+    "matched_pages": [
+      15,
+      17,
+      26,
+      27,
+      36,
+      39,
+      44,
+      45,
+      67
+    ],
+    "metal_pages": [
+      15,
+      17,
+      26,
+      27,
+      39,
+      44,
+      45
+    ],
+    "no_metal_qal_or_qalai": true,
+    "full_page_approval": false
+  },
+  "findings": [
+    {
+      "page": 44,
+      "type": "mistranslation",
+      "source_arabic": "وإذا كتبت في لوح من\nرصاص ووضعت في شبكة الصياد كثر صيده",
+      "source_lines": "12-13",
+      "actual_metal": "lead",
+      "en": {
+        "old": "on a lead tablet",
+        "proposed": null,
+        "status": "accurate; no finding"
+      },
+      "id": {
+        "old": "pada lempeng timah lalu",
+        "proposed": "pada lempeng timah hitam lalu"
+      },
+      "reason": "Unqualified رصاص denotes lead, not tin. Indonesian timah alone denotes tin; specify timah hitam. English already says lead in the observed snapshot."
+    },
+    {
+      "page": 45,
+      "type": "mistranslation",
+      "source_arabic": "الرحيم في قطعة رصاص ويضع اسم من يريد في الوفق",
+      "source_lines": "9",
+      "actual_metal": "lead",
+      "en": {
+        "old": "on a piece of lead",
+        "proposed": null,
+        "status": "accurate; no finding"
+      },
+      "id": {
+        "old": "pada sepotong timah,",
+        "proposed": "pada sepotong timah hitam,"
+      },
+      "reason": "قطعة رصاص is a piece of lead. Keep it distinct from قصدير (tin), explicitly contrasted with رصاص on p039. English already accurate."
+    },
+    {
+      "page": 45,
+      "type": "mistranslation",
+      "source_arabic": "الوقود وإياك أن تلحق النار الرصاص فإن المعمول يهلك",
+      "source_lines": "11",
+      "actual_metal": "lead",
+      "en": {
+        "old": "touch the lead",
+        "proposed": null,
+        "status": "accurate; no finding"
+      },
+      "id": {
+        "old": "api tidak menyentuh timah,",
+        "proposed": "api tidak menyentuh timah hitam,"
+      },
+      "reason": "The warning repeats the same lead object (الرصاص); both Indonesian mentions need timah hitam, not tin. English already accurate."
+    }
+  ],
+  "ambiguity_policy": {
+    "lead_tin": "No credible lead/tin ambiguity in these matches; do not change accurate قصدير = tin/timah on p015/p039.",
+    "other": "p045 نحاس أصفر literally yellow copper, commonly brass; existing yellow-copper/tembaga kuning preserves the source and is not a reportable mistranslation. p026 تفصيل الحديد ولبسه and p027 surrounding syntax are unusual, but حديد remains iron/besi; no speculative harmonization.",
+    "excluded_homonyms": "p036 حَدِيدُ الْبَصَرِ = sharp-eyed, not iron; p067 قلعة ماردين = citadel of Mardin, not tin."
+  },
+  "snapshot_sha256": {
+    "ocr/enriched/page_044.txt": "7B34403AA7D13CBD0B098460B52D3A3325878BB658669F54130EEDD430D2EF4E",
+    "ocr/enriched/page_045.txt": "14292650E595D38A95E006483450DFDBA44F32911148776DC7077CAB4BCEDC33",
+    "ocr/enriched_en/page_044.txt": "DD9978555BEEA93A84AF635F77E29D1811FF3F33A17094D3D33FAEC04A4829CA",
+    "ocr/enriched_en/page_045.txt": "4EE1FA0ED3FC2DC3A2FD1D5C935072336B676672054E8C1B9F9ABBA7819111D0",
+    "ocr/enriched_id/page_044.txt": "672748340680146835B4DEDB244D3C407F9B2DA1D8B5E8EDAB76EA6A6987F974",
+    "ocr/enriched_id/page_045.txt": "DA7135DEF5087CB40BF8BEACEFCE0C880F23F880BA25EFF4DCD6B8F60D696D32"
+  },
+  "verification": "All six EN/ID old anchors occur exactly once in their respective observed target files. No source, target, code, or tracker mutated; this report is the only created artifact."
+}

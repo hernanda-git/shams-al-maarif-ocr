@@ -1,0 +1,339 @@
+{
+  "reviewer_id": "0dbd7a24-60a0-4bb1-9a1a-4e0ff4f4bda1",
+  "reviewer_kind": "independent_model",
+  "pages": [
+    {
+      "page": 1,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_001.txt",
+          "sha256": "b2a2b521ecd42ddf65bc1cb96c438ac937f79394de1b7573513042372e13bc52"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_001.txt",
+          "sha256": "a73a155734e45a3b21a39b1a2b97714a99474e50e09dee55a60d04867e190499"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_001.txt",
+          "sha256": "d4510d5bb9249ee02c75b970da56ecf7de5ba36bb14a0cb9921e1864360691b3"
+        }
+      },
+      "coverage": "Read all three source lines and both entire targets: dash-delimited explicit no-text statement; checked the exact no-visible-text marker exception and no added prose. Both targets read completely; Arabic mirrors match canonical after permitted outer-trim/newline normalization. One target label each; target script check found no Arabic, Han, Cyrillic or Greek script.",
+      "findings": [],
+      "uncertainties": []
+    },
+    {
+      "page": 2,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_002.txt",
+          "sha256": "490baaecc3b13cdf455d094e9b5661b34ffa1059cf5bcf45ab8ecf10954a152c"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_002.txt",
+          "sha256": "a4842823ffa69ce0dd724b327057c8318e7b0bd69225c3da7c604ac8d3784e16"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_002.txt",
+          "sha256": "55eceff92c2f4eea6f541c6926a1bb355a90038fe654aceaba2572d2660ca8f6"
+        }
+      },
+      "coverage": "Checked every catalog/stamp line in order: RBSC Islamic; BF 1410; B8; 1927; McGill / University / Libraries / Islamic Studies Library; final 3537621. Checked Indonesian institutional translation, retained identifiers and blank-line grouping. Both targets read completely; Arabic mirrors match canonical after permitted outer-trim/newline normalization. One target label each; target script check found no Arabic, Han, Cyrillic or Greek script.",
+      "findings": [],
+      "uncertainties": []
+    },
+    {
+      "page": 3,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_003.txt",
+          "sha256": "39aafaff6bbcfc008d52e929a92c79ac7e8e59d7217e1fb844388fc5d9c5c25f"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_003.txt",
+          "sha256": "37d8b1e095c92629dd17e424ee225dc8989fdddf935b0378f2ffcce2295e48d6"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_003.txt",
+          "sha256": "04c2aa3e03d437982d9226fade87f8167d9a5017ff1c4a006393716ff30af5e0"
+        }
+      },
+      "coverage": "Checked the entire canonical blank-page description, including inner cover/white-page parenthesis and absence of Arabic text; both exact no-visible-text markers comply with the explicit blank-page exception. Both targets read completely; Arabic mirrors match canonical after permitted outer-trim/newline normalization. One target label each; target script check found no Arabic, Han, Cyrillic or Greek script.",
+      "findings": [],
+      "uncertainties": []
+    },
+    {
+      "page": 4,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_004.txt",
+          "sha256": "6debee8e429d52f802c772f555bf981ad23fe3ade5cdf9ad3ce6bf2e5e9033ab"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_004.txt",
+          "sha256": "526eff04c707773a1c7176d8499c8532d809f617ec49ab5dfac22652bd90c9e2"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_004.txt",
+          "sha256": "3a33616231ea216571c761c7104cfc4da786ba97a915424588e1c0760f465a9b"
+        }
+      },
+      "coverage": "Checked 4 volumes / in one volume (number and singular-plural relation), title Shams / al-Maarif and line grouping. Both targets retain title as Latin transliteration, no invented subtitle. Both targets read completely; Arabic mirrors match canonical after permitted outer-trim/newline normalization. One target label each; target script check found no Arabic, Han, Cyrillic or Greek script.",
+      "findings": [],
+      "uncertainties": []
+    },
+    {
+      "page": 5,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_005.txt",
+          "sha256": "9fbeb628d923308d08544fed69228ba97cf57e2e5233bb63fcf03e917c7c14b1"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_005.txt",
+          "sha256": "9afa9ffbeef9fada03102054f76a761cf7e2e8e408d0e640c3dff8acbfed38a2"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_005.txt",
+          "sha256": "15c1eb5e2627029e9830595a0ee98dd51873cb1ffa8728a24f46bb1a24b8c7ff"
+        }
+      },
+      "coverage": "Checked complete statement that page is blank and contains no text; both targets use the exact required no-visible-text marker without extra prose. Both targets read completely; Arabic mirrors match canonical after permitted outer-trim/newline normalization. One target label each; target script check found no Arabic, Han, Cyrillic or Greek script.",
+      "findings": [],
+      "uncertainties": []
+    },
+    {
+      "page": 6,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_006.txt",
+          "sha256": "cee8e9fe33b73fde772072123b1ff62a493602bad833da61b0f5d0d848ae3a19"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_006.txt",
+          "sha256": "3df21e80cf1c613d12ece867c99387645ce5405adc937173c181ef3f71b2599f"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_006.txt",
+          "sha256": "026f4e5dc80ebc08069fe15ba615248248cddd5f1a6a69cdbcdd86a8da285c9b"
+        }
+      },
+      "coverage": "Checked all 13 disconnected lines individually: yushi; bi-l-hayy ka-; fi majra; min hurr; raqaib; risalah; awqat; fi nafs; dha; al-ghad; wa-qad; ma; final unvocalized ʿ-d. Checked line order and existing local-language uncertainty descriptions for clipped ka-, hur and raqaib, no invented connecting narrative. Final word remains insufficiently qualified and target grammatical readings differ. Both targets read completely; Arabic mirrors match canonical after permitted outer-trim/newline normalization. One target label each; target script check found no Arabic, Han, Cyrillic or Greek script.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "count",
+          "new": "[UNCLEAR: the isolated unvocalized word ʿ-d can denote counting or an imperative such as “count” or “return”; its intended reading is uncertain]",
+          "reason": "The final source line is only عد, with no vowels or surrounding syntax. A definite English imperative silently selects one reading of a disconnected fragment."
+        },
+        {
+          "language": "id",
+          "old": "hitungan",
+          "new": "[UNCLEAR: kata terpisah tanpa harakat ʿ-d dapat menyatakan hitungan atau perintah seperti “hitunglah” atau “kembalilah”; bacaan yang dimaksud tidak pasti]",
+          "reason": "The isolated final عد does not establish a noun rather than an imperative; EN chooses an imperative while ID chooses a noun. Describe the unresolved fragment in both targets."
+        }
+      ],
+      "uncertainties": [
+        "Disconnected fragments remain context-poor; final عد requires an explicit uncertainty description as recorded."
+      ]
+    },
+    {
+      "page": 7,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_007.txt",
+          "sha256": "b69cc493946a1a4915c10dd8b313b9cce04a304dd3a13be31c249e43faf63c92"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_007.txt",
+          "sha256": "9c5e3e8efbbfdc6dd94dff049d2c1dc0a4e71fb20e074d0ba03647a911e0a589"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_007.txt",
+          "sha256": "6597efd1da5efb28caba5329234ff70734ea76cbd7840734b23a095ebf8737ae"
+        }
+      },
+      "coverage": "Checked Part One/from the book/five-line title; Ahmad ibn Ali al-Buni, sanctification prayer and duplicated numeric/word year 622; Kashf al-Zunun attribution, Divine Names/honorific, sea and wisdom jewels, operations/letters/surahs/verses, Divine Presence without toil and worldly desires without hardship; following-it heading and all four treatises in sequence with subjects; Abd al-Qadir al-Husayni al-Adhami and benefit prayer/Amen; notice, repeated Egypt/India printings, absence of correct copies/errors, collation including Hajj Mirza Husayn manuscript, committee and second correction by Abd al-Rahman al-Jaziri, praise and finest-printing claim; press Mustafa al-Babi al-Halabi and sons/Egypt. Both targets read completely; Arabic mirrors match canonical after permitted outer-trim/newline normalization. One target label each; target script check found no Arabic, Han, Cyrillic or Greek script.",
+      "findings": [],
+      "uncertainties": []
+    },
+    {
+      "page": 8,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_008.txt",
+          "sha256": "41cc390462d4691673837ee2cf7d37bb4c216520dc1514b275dd3a1f4d933a38"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_008.txt",
+          "sha256": "334c1ffc5cdf021ec1d9d7fa65be930f284c61e419042cf45c061fd26df36406"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_008.txt",
+          "sha256": "9017a2530c75cc227307b16c7a461fd07851410edca3bb66fd5e4eaf1b44abbf"
+        }
+      },
+      "coverage": "Checked opening Beautiful Names invocation and basmala; pre-eternal/eternal testimonies, chosen ones, angels and learned, two realms and unveiling; entire petition for sincerity/accepted offering, comfort in movement/dwelling, clear path and realization for speaker and addressees; mercy flash/suns and three classes/paths; every divine epithet, raising/lowering realms, all negatives about forms/substances/accidents/bodies/parts/purposes, containment/cycles/night/day; quoted witness, barzakh, damaged creation/dead/provisions clause, reviving remains, Muhammad servant/Messenger and deliverance from polytheism/humiliation; terminal 16053. Checked all uncertainty descriptions for passive originated-without-model epithet, family wording and damaged witness clause without canonical restoration; EN-ID parity and honorific occurrences. Both targets read completely; Arabic mirrors match canonical after permitted outer-trim/newline normalization. One target label each; target script check found no Arabic, Han, Cyrillic or Greek script.",
+      "findings": [],
+      "uncertainties": [
+        "Existing uncertainty descriptions retain the passive originated epithet, family referent and damaged witness clause; the intended readings cannot be established from this canonical text."
+      ]
+    },
+    {
+      "page": 9,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_009.txt",
+          "sha256": "6f73db2442de6d33bce5a70d60c298247b3cbb14a35fe2968defbfe98bd7bb7e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_009.txt",
+          "sha256": "243604249312b7533fc9d9f432992ede91913c2b7f39df5a30a7e282e67e903a"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_009.txt",
+          "sha256": "88681fdbe9767cf04ec447658d68cb568b039f2d8402511962fc8dbbda7b876b"
+        }
+      },
+      "coverage": "Read the whole single long source paragraph and both entire target paragraphs through numbered <=900-character lossless copies. Checked folio 3; opening guide/tawhid/suns/stars/dawn and prayers upon him/family and Companions (including repeated approval prayer); Now then; banners/order/knowledge/means/gifts/perfection/experience; hierarchy in Illiyyin and scholar/soul usefulness negations; contempt for law and conditions; author request/acknowledged inability/spirits-of-spirits assistance; purpose and title, Divine Name honorifics; all disclosure restrictions, loss of benefits/blessing, purity/remembrance/approved use, six beneficiary classes, nothing omitted, certainty/faith/intention; all three prophetic citation honorifics and prayers/answer conditions, repeated certainty commands; damaged compelled/dislike and answer-certainty fragment; no haste, continual purity/awaiting; forty chapters with meanings/indications/hidden and manifest symbols and thought; opening first-chapter title concerning letters. Both targets read completely; Arabic mirrors match canonical after permitted outer-trim/newline normalization. One target label each; target script check found no Arabic, Han, Cyrillic or Greek script.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "among the highest degrees in ‘Illiyyin is the degree of those who act",
+          "new": "the highest of the degrees in ‘Illiyyin is the degree of those who act",
+          "reason": "وأعلى الدرجات في عليين درجة العاملين states the highest degree, not merely membership among the highest; ID correctly retains derajat tertinggi."
+        },
+        {
+          "language": "en",
+          "old": "Set your action firmly and correctly, in accordance with the saying of the Prophet (peace and blessings be upon him): “When one of you asks,",
+          "new": "Be certain of the correctness of your action, in accordance with the saying of the Prophet (peace and blessings be upon him): “When one of you asks,",
+          "reason": "واقطع على عملك بالصحة is an instruction to be certain that the act is sound. In the context of يقين and believing the answer it is not an instruction to perform/set the act correctly."
+        },
+        {
+          "language": "en",
+          "old": "Set your action firmly and correctly, in accordance with the saying of the Prophet (peace and blessings be upon him): “One of you will be answered",
+          "new": "Be certain of the correctness of your action, in accordance with the saying of the Prophet (peace and blessings be upon him): “One of you will be answered",
+          "reason": "The source repeats واقطع على عملك بالصحة before يستجاب لأحدكم. Preserve the repeated epistemic command rather than replacing certainty with correct performance."
+        },
+        {
+          "language": "id",
+          "old": "Teguhkan amalmu dengan benar, sesuai sabda Nabi, semoga selawat dan salam tercurah kepadanya: “Apabila salah seorang dari kalian memohon,",
+          "new": "Yakinilah kebenaran amalmu, sesuai sabda Nabi, semoga selawat dan salam tercurah kepadanya: “Apabila salah seorang dari kalian memohon,",
+          "reason": "واقطع على عملك بالصحة commands certainty of the soundness of the act, not merely strengthening or carrying it out correctly."
+        },
+        {
+          "language": "id",
+          "old": "Teguhkan amalmu dengan benar, sesuai sabda Nabi, semoga selawat dan salam tercurah kepadanya: “Doa salah seorang dari kalian akan dikabulkan",
+          "new": "Yakinilah kebenaran amalmu, sesuai sabda Nabi, semoga selawat dan salam tercurah kepadanya: “Doa salah seorang dari kalian akan dikabulkan",
+          "reason": "This is the second occurrence of واقطع على عملك بالصحة, and must again preserve certainty concerning the act."
+        }
+      ],
+      "uncertainties": [
+        "Existing no-compulsion/dislike and answer-certainty fragment remains explicitly uncertain; no canonical hadith reconstruction was used."
+      ]
+    },
+    {
+      "page": 10,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_010.txt",
+          "sha256": "313ac13f9db7fa87159d0351bc9021fb365773459b49349bb9cf6be0214fe73b"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_010.txt",
+          "sha256": "ca3c6043bbcd85393dd4825783463cf64de2e4e2c9c5bdc5366814b17deefde8"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_010.txt",
+          "sha256": "8da9b63c21b4b2edb489bed0e88dc191d3aa9b7e97a204df92639c7c4b5b33da"
+        }
+      },
+      "coverage": "Checked folio 2, continued dotted-letters heading, every numbered title from Two through Thirty-Eight in sequence: contraction/expansion, times/hours, 28 lunar mansions, 12 zodiac signs, basmala, seclusion/retreat, Jesus and peace prayer/resurrection, four tawqifat/circles, Quran openings, Fatiha, inventions/mercy lights, Greatest Name/hidden operations, absent elements/wafqs, exercises/remembrances/answered subjugating supplications, selective conditions, Names/times, Kaf-Ha-Ya-Ayn-Sad, Throne Verse, wafqs/talismans, Ya Sin; patterns one through ten with distinct contents; Arabic letters/planets/attendants/minerals/retreats; uncertain arud construction; Circle/definitions; Zayirja/correspondences/balances; Jafr; effusion/light/stone/plants; Simiya/all discussions; final incomplete applications. Checked local-language uncertainty for Adiyat, no invented completion, numeric and EN-ID correspondence. Both targets read completely; Arabic mirrors match canonical after permitted outer-trim/newline normalization. One target label each; target script check found no Arabic, Han, Cyrillic or Greek script.",
+      "findings": [],
+      "uncertainties": [
+        "Adiyat adjective and arud construction remain uncertain and are already described in both targets."
+      ]
+    },
+    {
+      "page": 11,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_011.txt",
+          "sha256": "9badbbe0edde0a770cd3eb8d2e3dc96d8b1840c7e42e94d823152b88cddf0c3e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_011.txt",
+          "sha256": "399664fca14cfd7fd1066d62cf2f9010f7b0bbd80ebf3b3562f4c276d9120ec8"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_011.txt",
+          "sha256": "f5858d1d125681568bd5c4dade165da142348a4e0e3cb77e52383fe93f438b41"
+        }
+      },
+      "coverage": "Checked printed 5; applications/retreats continuation and chapters 39/40, full first-chapter heading and subsection headings; two aims and subdivisions, times/planet observation/exercises/talismans, earlier sages/many people, conditional worldly excess harming Hereafter versus present benefit; complete supply chain Throne-Kursi-Saturn-Jupiter-Mars-Sun-Venus-Mercury-Moon-heat-moisture-cold-dryness-air-water-earth-Saturn; source-specific jim=3/detailed 53/mim=4/ba=3/three letters/sad=90/upper=5/ha/fivefold, Jupiter=6/waw/sixfold, Venus/zay/sevenfold, Mercury=8/ha/eightfold, Moon=9/ta/ninefold, Saturn triangle; correspondence Throne/alif/Kursi/ba/Saturn/jim; Arabic right versus Roman/Greek/Coptic left and connected/separate claims; 28 plus lam-alif=29 and stated lunar-mansion equality kept literal; 14 visible and every one of the 14 assimilating letters in order. Both targets read completely; Arabic mirrors match canonical after permitted outer-trim/newline normalization. One target label each; target script check found no Arabic, Han, Cyrillic or Greek script.",
+      "findings": [],
+      "uncertainties": [
+        "Source-specific inconsistent numerical relationships and 29 lunar-mansion assertion were checked literally, not corrected."
+      ]
+    },
+    {
+      "page": 12,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_012.txt",
+          "sha256": "20094ff5c30a6304e35fc820d7026146fefd4d421a7c58b8331ddb524d084bc6"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_012.txt",
+          "sha256": "5e76c065918cfdb0083337c1a6ce88122c99ee227e0badbdaeaa9d10db2a4d55"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_012.txt",
+          "sha256": "694bd7e00fd91419953a6e826f3eb6fac725073a7b46c4961263c6601183c4d3"
+        }
+      },
+      "coverage": "Read every canonical source line and both entire targets via numbered lossless copies, including 2636/2854-character target lines. Checked folio 6; claimed 14 letters and actual 13-letter list in order with explicit discrepancy; alif/one, damaged example list and inner-before-form claim; number/letter spiritual force, secrets/benefits/invocation/incantation; no fixed time versus numbers/talismans; dal=4 and all three 4-by-4 occurrences; Monday/birth/commission/death and single attached prophetic blessing, Moon exaltation/three Taurus degrees/no malefics/lunar hour, complete purity/two rakats/Throne Verse/Ikhlas/100/pure parchment; conditional carrying outcomes for memory/rank/prisoner/banner/enemies/dispute; four elements and four humors, rabaʿa uncertainty; Daim/Wadud/honorific, Ahmad/Muhammad/permanence damaged chain, enduring after annihilation; Throne/unchanging/first world/ascents/intellects/mercy; knowers and Harithah with divine honorific and approval prayer; all five prophetic blessing occurrences across narrative/questions/response/spirit saying, speaker changes and both questions, true believer/world equality (stones/gold/living/dead/rich/poor), exposed Throne/reckoning/Paradise/Fire and remain steadfast; spirits/purity/ablution/prostration; dal permanence; wudd/love/outward/inward/dwelling/uncertain shaqq and ahabb, fuad/three heart cavities/upper dense part/radiant light and incomplete final place. Checked EN-ID parity, uncertainties without remembered-text repairs, no actual table supplied by source. Both targets read completely; Arabic mirrors match canonical after permitted outer-trim/newline normalization. One target label each; target script check found no Arabic, Han, Cyrillic or Greek script.",
+      "findings": [
+        {
+          "language": "id",
+          "old": "Hendaklah waktunya berada di bawah pengaruh bulan",
+          "new": "Hendaklah jam itu merupakan jam bulan",
+          "reason": "ولتكن الساعة للقمر specifies the hour belonging to the Moon, not a generic time under lunar influence. EN preserves the explicit hour."
+        },
+        {
+          "language": "id",
+          "old": "Barangsiapa membawanya ketika berselisih dengan seseorang, ia akan mengalahkan dan menundukkannya.",
+          "new": "Barangsiapa membawanya dan menggunakannya ketika berselisih dengan seseorang, ia akan mengalahkan dan menundukkannya.",
+          "reason": "ومن حمله وخاصم به أحداً فإنه يغلبه ويقهره has both carrying it and disputing by means of it (به). Merely carrying it while disputing omits the explicit instrumental relation."
+        },
+        {
+          "language": "en",
+          "old": "When they appear in a state of purity from ablution, they remain prostrating beneath the Throne.",
+          "new": "When they separate [UNCLEAR: bānat can also mean “become apparent”; what the spirits separate from is not stated] in a state of purity from ablution, they remain prostrating beneath the Throne.",
+          "reason": "إذا بانت على طهارة من الوضوء concerns spirits; بانت can mean departed/separated as well as became apparent. The isolated appearance rendering suppresses the unresolved sense; the source gives no explicit point of separation, so do not invent body, sleep, or death."
+        },
+        {
+          "language": "id",
+          "old": "Apabila mereka tampak dalam keadaan suci setelah wudu, mereka tetap bersujud di bawah ‘Arsy.",
+          "new": "Apabila mereka berpisah [UNCLEAR: bānat juga dapat berarti “menjadi tampak”; sumber tidak menyebut dari apa ruh-ruh itu berpisah] dalam keadaan suci setelah wudu, mereka tetap bersujud di bawah ‘Arsy.",
+          "reason": "إذا بانت على طهارة من الوضوء leaves the sense of بانت (separating/departing or becoming apparent) unresolved. Match the explicit EN uncertainty without adding an unstated body, sleep, or death."
+        }
+      ],
+      "uncertainties": [
+        "Thirteen listed letters versus claimed fourteen, damaged examples, rabaʿa contrast, permanence/name linkage, shaqq/ahabb passage and final incomplete place are retained/described. The spirit verb bānat needs the additional uncertainty description in findings."
+      ]
+    }
+  ]
+}

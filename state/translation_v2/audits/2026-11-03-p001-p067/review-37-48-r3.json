@@ -1,0 +1,344 @@
+{
+  "reviewer_id": "d96e3684-141a-48a6-8d9b-650f0a28e16d",
+  "reviewer_kind": "independent_model",
+  "pages": [
+    {
+      "page": 37,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_037.txt",
+          "sha256": "20886d9d600c256cb5779f5105daf0c4b1742d13f2e65a084d35f361555cd47a"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_037.txt",
+          "sha256": "ddce0ffa4a29eac1f80a3b17258a5d33bf1f85950035e2c574b9e9327bfdb4b2"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_037.txt",
+          "sha256": "5ee371f88f826d661eb46ca1c788d338d09dd04291bad16e5ebfa84ec35bde62"
+        }
+      },
+      "coverage": "Read complete canonical Arabic lines 1–32 and complete EN/ID including embedded Arabic. Checked folio 31; opening figures against canonical p36 ending (including repeated عشر, not silently repaired); 360/21 and 316/15 groups; Abū Muḥammad ʿAbd al-Jabbār/title; Lesser Bear 7, 4+3, outside 8 and included 7; Great Bear 27/outside 8/included 7/4+3/al-Suhā; Dragon 31/four-star inclined square/serpent; Northern Crown and corrupt clause; kneeler 27, al-Sabʿāt names, Tortoise 10, Hen 19/outside 2/Milky Way, Triangle 4 and relative positions; northern 360 and southern 312 totals retained without astronomical correction; Qayqaṭus 22, Orion 38/staff/belt/sword/red al-Jawzāʾ/rabbit 12/west-east; Great Dog 28/outside 11/al-Sunbulah/al-Abbān/al-Shiʿrā names and rising order; Cancer/arm/two sisters; Southern Crown 13/outside 6/great fish/east-west/al-Dālī; damaged southern location and final famous/non-famous distinction/future/God Most High. Every clause, count, possessive, qualifier, negation, attribution and uncertainty assessed independently in both languages; no table or invocation on this page.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the source opens with the phrase “ten figures.”] It describes figures along the path of the Sun, namely the twelve zodiac signs.",
+          "new": "Ten figures along the path of the Sun: these are the twelve zodiac signs.",
+          "reason": "عشر صورة في طريق الشمس وهي البروج الاثنا عشر is readable, albeit numerically odd. Canonical p36 ends اثني عشر; do not invent unreadability or silently remove the repeated عشر at this boundary. Preserve the odd local wording literally."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: sumber membuka dengan frasa “sepuluh gambar”.] Sumber menjelaskan gambar-gambar di sepanjang jalan Matahari, yaitu dua belas rasi zodiak.",
+          "new": "Sepuluh gambar di sepanjang jalan Matahari: inilah dua belas rasi zodiak.",
+          "reason": "عشر صورة في طريق الشمس وهي البروج الاثنا عشر is legible. P36 already ends اثني عشر; preserve the repeated عشر rather than label the page boundary itself uncertain."
+        },
+        {
+          "language": "en",
+          "old": " [UNCLEAR: the source’s overlapping seven- and eight-star descriptions are retained as stated.]",
+          "new": "",
+          "reason": "والخارج عن الصورة منها ثمانية، من جملتها سبعة explicitly says eight outside, including seven. Both numbers are already faithfully translated; no unreadable span or unresolved syntax licenses this added uncertainty."
+        },
+        {
+          "language": "id",
+          "old": " [UNCLEAR: uraian sumber yang tumpang tindih tentang hitungan tujuh dan delapan bintang dipertahankan sebagaimana disebutkan.]",
+          "new": "",
+          "reason": "والخارج عن الصورة منها ثمانية، من جملتها سبعة clearly gives eight, including seven. Retain those literal counts without an invented uncertainty about their overlap."
+        },
+        {
+          "language": "en",
+          "old": "[UNCLEAR: Qayqaṭus]",
+          "new": "Qayqaṭus",
+          "reason": "قيقطس is a legible source name. Preserve its existing transliteration without asserting unreadability merely because the name is unusual; do not silently replace it with a canonical constellation name."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: Qayqaṭus]",
+          "new": "Qayqaṭus",
+          "reason": "قيقطس is readable as a source name. An unusual name can remain transliterated; no uncertainty marker is needed and no canonical astronomical substitution is warranted."
+        }
+      ],
+      "uncertainties": []
+    },
+    {
+      "page": 42,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_042.txt",
+          "sha256": "78641769833ab32f1e7f03719c6814ad17423cb0638ca3ca3e855fd3dd44c584"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_042.txt",
+          "sha256": "7aa7386ce763d2eddd70308a02f3460fc19bde3291c129ab55a5bc08ae4789ee"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_042.txt",
+          "sha256": "dbc2b36c37f59036cf9ff8cd11456d4b0d900fbe17c2ed4a7b5b8ff25010be99"
+        }
+      },
+      "coverage": "Read full canonical Arabic lines 1–33 and both full target files. Consulted canonical p41 ending and p43 opening for continuous subjects. Checked folio 36; Moon exaltation/fortune/free of malefics, vengeance/deserving recipient/pardon and both quotations; incense good/evil and air/fire/water/earth alternatives, Fāris reed, sending, doorways, attraction, bone response; complete basmalah/prayer/all Names/praise/submission/good and evil/perfect words/trees-sea-seven seas/might-wisdom; entire 24-item vocative Name list and entire second Name list including swift; majesty not silently corrected to lawful; character/generosity/mercy/acceptance/inward-outward/Greatest Name and answer-give claims; persistence, half-night, aspiration, hidden secrets, upper realm/angelic knowledge; al-Kāfī/status/obscure syntax, lost object/al-Jāmiʿ/al-Tafwīḥ/al-Raʾūf/fear; empty stomach/fire/boiling literal and Names added; lunar hour/encounter/protection/three Names/desire; damaged transition; revelation, angels, Throne, numbers known only to God, faith, spheres, kings, continuation into p43. All conditions, lists, repetition counts, actors, possessives, negations, source corruption markers and both language meanings compared; no table.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the opening clause is incomplete; it says that when the matter was in its dignity or fortunate state and safe from malefic influences, it was more effective.]",
+          "new": "If the Moon is in its exaltation or fortunate state, free from malefic influences, it is more effective.",
+          "reason": "Canonical p41 ends فإن كان للحجر فاكتبه في زيادة القمر وإن; p42 continues كان في شرفه أو سعده سالماً من النحوس كان أبلغ. The continuous subject is the Moon, not an unspecified matter, and the conditional is recoverable without a page-local uncertainty."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: klausa pembukaan tidak lengkap; sumber mengatakan bahwa ketika perkara itu berada dalam kemuliaan atau keberuntungannya dan selamat dari pengaruh-pengaruh malefik, hasilnya lebih kuat.]",
+          "new": "Jika Bulan berada dalam kedudukan eksaltasi atau keberuntungannya, selamat dari pengaruh-pengaruh malefik, hasilnya lebih kuat.",
+          "reason": "P41 ends في زيادة القمر وإن and p42 continues كان في شرفه أو سعده سالماً من النحوس كان أبلغ. Name the Moon as the continuous subject; do not replace it with perkara or invent uncertainty caused solely by the page break."
+        },
+        {
+          "language": "en",
+          "old": "will witness wonders according to the measure of his aspiration and persistence, and the hidden secrets will be opened to him.",
+          "new": "will witness wonders according to the measure of his aspiration; persistence in them opens the hidden secrets.",
+          "reason": "شاهد من العجائب على قدر همته ومداومتها فتح الأسرار المكنونة: على قدر governs همته; مداومتها is the subject of the following opening-of-secrets claim. Current wording moves persistence into the measure and removes its explicit causal role."
+        },
+        {
+          "language": "id",
+          "old": "akan menyaksikan keajaiban sesuai kadar tekad dan ketekunannya, dan rahasia-rahasia tersembunyi akan dibukakan baginya.",
+          "new": "akan menyaksikan keajaiban sesuai kadar tekadnya; ketekunan dalam nama-nama itu membuka rahasia-rahasia tersembunyi.",
+          "reason": "على قدر همته qualifies witnessing; ومداومتها فتح الأسرار المكنونة states persistence in them opens hidden secrets, rather than merely adding persistence to the measure of wonders."
+        },
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the page ends with the incomplete word “and it was…”.]",
+          "new": "And it was…",
+          "reason": "وكانت is a complete readable word. Canonical p43 immediately supplies بسم الله الرحمن الرحيم مكتوبة على جبهة آدم. Preserve the continuation, not a false claim of an incomplete/unreadable word."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: halaman berakhir dengan kata yang tidak lengkap, “dan adalah…”.]",
+          "new": "Dan adalah…",
+          "reason": "وكانت is a complete word and continues into canonical p43 بسم الله الرحمن الرحيم مكتوبة على جبهة آدم. A normal page boundary is not an uncertain incomplete word."
+        }
+      ],
+      "uncertainties": []
+    },
+    {
+      "page": 44,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_044.txt",
+          "sha256": "7b34403aa7d13cbd0b098460b52d3a3325878bb658669f54130eedd430d2ef4e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_044.txt",
+          "sha256": "db0297d285343dd6612ad1b9b2c3373d7e73eacb1a074afae13a8bde701b456e"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_044.txt",
+          "sha256": "4116c0fa249877ab44af785b346b349128575e5500bb663fba8ca8bb455e0453"
+        }
+      },
+      "coverage": "Read full canonical Arabic lines 1–33 and both complete targets; p43 and p45 consulted for continuation. Checked folio 31; forty-write vessel/water antecedent and sickness/childbirth; 35 house/shop/no Satan or jinn/customers/profit/merchandise/onlookers; first Muḥarram/107/lifetime/household; 110/three days after purification/intercourse/conception/do not put down after 60 days/righteous child/no pain, preserving odd condition; 61 children survival/tested/omnipotence; 101 crops/all pests; 70 shroud/Munkar-Nakīr/light until Resurrection; lead tablet/net; once/card/ring bezel/menstrual milk/stung person/damaged phrase/poison; full 12-letter attribute list including pain of kingship; bāʾ21/wealth, damaged transition/Noah verse/erase/drink/immediate cure; mīm40 daily/quotation bounds/good and blessing; al-Raḥmān al-Raḥīm50/basmalah150/ruler safety; 1000 daily/14days and variant after each prayer/stated number/angels reciprocal speech and direction; exact broken mīm-ḥāʾ-alif-lām-rāʾ-ḥāʾ-mīm-nūn/target and mother names; split al-Raḥ-man7/slave/burial/stone/full prayer/no flight; knife/damaged material phrase/331/rooster/head/damaged condition/threshold/all insects and jinn; fried head/good oil/pain/bleeding woman; al-Raḥīm190/banner/battle/no weapons/no illness and continuation. Every clause, number, negation, actor, possessive, formula and uncertainty checked EN and ID; no table.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the page begins with “the water,” continuing the preceding instruction.] ",
+          "new": "",
+          "reason": "Canonical p43 ends وإذا كتبها في جام زجاج أربعين مرة ومحاها بماء زمزم أو ماء بئر عذب وشرب من ذلك, continuing p44 الماء أي مريض كان عافاه الله تعالى. The water and drinking instruction are explicit in the continuous source, not uncertain."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: halaman dimulai dengan “air itu”, sebagai kelanjutan instruksi sebelumnya.] ",
+          "new": "",
+          "reason": "P43 explicitly supplies glass vessel, forty writings, Zamzam or fresh well water, and drinking: وشرب من ذلك; p44 continues الماء أي مريض كان. The following ID sentence already translates this coherently. Delete the invented boundary uncertainty."
+        },
+        {
+          "language": "en",
+          "old": "[UNCLEAR: a liquid the source calls “menstrual milk”]",
+          "new": "menstrual milk",
+          "reason": "لبن محيض is an odd but legible literal noun phrase. Preserve the stated odd material rather than recategorize it as unreadable. The following ونقيا أه remains separately uncertain."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: cairan yang oleh sumber disebut “susu haid”]",
+          "new": "susu haid",
+          "reason": "لبن محيض is readable, though unusual. Preserve its literal meaning without invented uncertainty; retain the separate marker for the genuinely damaged following words."
+        },
+        {
+          "language": "en",
+          "old": "one thousand times after every prayer for the stated period",
+          "new": "one thousand times after every prayer, the stated number",
+          "reason": "وفي رواية دبر كل صلاة ألف مرة عدد المذكور says the stated number (عدد), not a stated period. Do not silently turn this odd repeated count into a duration."
+        },
+        {
+          "language": "id",
+          "old": "seribu kali setelah setiap salat selama masa yang disebutkan",
+          "new": "seribu kali setelah setiap salat, jumlah yang disebutkan",
+          "reason": "عدد المذكور refers to the stated number, not a period (masa). Preserve the source repetition without changing its scope to duration."
+        },
+        {
+          "language": "en",
+          "old": "by the right of Bismillah al-Raḥmān al-Raḥīm",
+          "new": "by the right of “In the name of God, the Most Compassionate, the Most Merciful”",
+          "reason": "بحق بسم الله الرحمن الرحيم is an invocation fragment inside a quoted prayer. Style §3 requires a full target-language translation, not only the Arabic formula transliterated."
+        },
+        {
+          "language": "id",
+          "old": "demi hak Bismillah al-Raḥmān al-Raḥīm",
+          "new": "demi hak “Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang”",
+          "reason": "بحق بسم الله الرحمن الرحيم is the full invocation within the prayer. Translate it fully in Indonesian as required for protected invocation fragments, rather than retaining transliteration alone."
+        },
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the page ends with the incomplete fragment “and whoever…”].",
+          "new": "And whoever…",
+          "reason": "ومن is readable and continues directly with كتب في ورقة إحدى وعشرين مرة on canonical p45. Preserve continuation without treating a page break as source uncertainty."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: halaman berakhir dengan fragmen yang tidak lengkap, “dan barang siapa…”.]",
+          "new": "Dan barang siapa…",
+          "reason": "ومن continues directly into كتب في ورقة إحدى وعشرين مرة on canonical p45. No unreadability remains once the adjacent canonical page is consulted."
+        }
+      ],
+      "uncertainties": []
+    },
+    {
+      "page": 45,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_045.txt",
+          "sha256": "14292650e595d38a95e006483450dfdba44f32911148776dc7077cab4bcedc33"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_045.txt",
+          "sha256": "0c124cb44f780468b8f0e32c8616b67010b074716cd6ba87418ac1ab78f3d967"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_045.txt",
+          "sha256": "8e6006fa5cf3adbba2cc9e9c52971c6baa99df6a4dfaa201fd49dde4e9f01c19"
+        }
+      },
+      "coverage": "Read complete canonical Arabic lines 1–38 and both full targets including the >850-character Indonesian invocation via numbered lossless chunks; consulted p44 for al-Raḥīm antecedent and p46 for final فأول دائرة continuation. Checked folio39; 21/headache, 7 almonds/brass needle/Friday/Venus/recitation count/feeding/love; Monday sunrise/new mirror/obscure lūqah, al-rīḥī/ring/silver/two dirhams/awe-obedience; lead wafq/target name/asafoetida-red garlic/constant fire/warning/death/accountability; every one of the 20 cells of source 4×5 table and order (no invented fifth row); complete double opening prayer, faces/voices/hearts, Muḥammad/family/Companions/repeated peace, Fulan and both reform-destruction alternatives, five Names/7/700/fear God; circle8/sūrah quotation bounds/pleasant fumigation/fortunate time/love/natural inclination/all aims; entire basmalah/Pisces/fortunate ascendant/gazelle parchment/head/count phrase/happy life/martyr/no disliked self-wealth-child; blessing to me/you, hidden Bism/Greatest Name/Raḥmān-world/Raḥīm-hereafter; praise correspondence mapping and Master/King/Owner; clarifying imperative, odd petition fragment/ownership/King of kings/souls/subjugation/victory/recipient corruption/sovereign quotation; comprehensive sayings/corrupt al-ant/tongue/ascent/lāhūt/first-second origins; secret beginning/unity ranks/Bism-witness/Allah-no deity/angels-Raḥmān/scholars-Raḥīm; quadrangular world/prophets-truthful-martyrs-righteous/raḥīmiyyah to raḥmāniyyah/ascent/final first. Every clause, condition, negation, actor, possessive, list, formula, honorific and uncertainty independently checked in both languages.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the source then discusses clarifying the words and lights, seeking on the Day of Judgment, and the attributive quality of ownership.]",
+          "new": "Attend to clarifying speech and lights; [UNCLEAR: the connection of the following phrase, “and for seeking, the Day of Judgment,” is obscure].",
+          "reason": "وعليك بتجلية القول والأنوار is a readable imperative, not an unreadable report about a topic. Translate the command explicitly. Confine uncertainty to وللطلب يوم الدين; وبالصفة المالكية is already translated by the next sentence about ownership."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: sumber kemudian membahas penjernihan ucapan dan cahaya, permohonan pada Hari Pembalasan, serta sifat kepemilikan.]",
+          "new": "Hendaklah engkau menjernihkan ucapan dan cahaya; [UNCLEAR: hubungan frasa berikut, “dan untuk permohonan, Hari Pembalasan,” tidak jelas].",
+          "reason": "وعليك بتجلية القول والأنوار directs the reader to act; current summary omits the imperative. Only the connection of وللطلب يوم الدين needs uncertainty. The next sentence already renders وبالصفة المالكية."
+        },
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the page ends with the incomplete word “first…”.]",
+          "new": "So the first…",
+          "reason": "فأول is legible and continues دائرة بسم الله الرحمن الرحيم on canonical p46. Preserve the connective ف and the continuation, not an invented unreadability caused by the page break."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: halaman berakhir dengan kata yang tidak lengkap, “pertama…”.]",
+          "new": "Maka yang pertama…",
+          "reason": "فأول is readable; p46 supplies دائرة بسم الله الرحمن الرحيم. Translate its connective and continuation without a page-local uncertainty marker."
+        }
+      ],
+      "uncertainties": []
+    },
+    {
+      "page": 48,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_048.txt",
+          "sha256": "ea584c86c368ff75fd53d3982b7826be1407daf42f294465f77fac4518638c75"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_048.txt",
+          "sha256": "56ad4902268392e4034ddd0ce21750fb10b87148c094fa56ac3b95433dc575c7"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_048.txt",
+          "sha256": "8658111735229b1dbbfc8754819cf673929fda8f13f70364624d73ef26b5e39d"
+        }
+      },
+      "coverage": "Read complete canonical Arabic lines1–34 and both full targets, including every numbered long-line chunk; consulted p47 for anecdote/initial حق and p49 for Satan invocation continuation. Checked folio42; joining al-afrād/Abū ʿAbd Allāh al-Raḥāḥī/honorific/Qaws Quzaḥ and damaged syntax; brother address/basmalah/Solomon quotation;19/dots/nonrepetition/mīm3/lām4/rāʾ2/bāʾ-sīn-hāʾ/9 and exact mm-aaa-lll-rr-ḥḥ sequence/10/nonrepeated bāʾ/cold/faith/Judgment/substance/al-watr/Essence/Reality/from-to/*; Abraham scriptures/first revelation/Prophet honorific/Recite creation-clot quotation/obscure bāʾ phrase/angels literal one-and-eight/glorify-sanctify; morning3/Greatest versus ordinary variant/full no-harm earth-heaven-hearing-knowing formula/sudden affliction versus paralysis/*; Khālid report/poison/challenge/speaker uncertainty/Companions/first basmalah/variant recitation/drink/unharmed/perspiration/power; Noah ship/honorific/Abraham fire/coolness-peace/house entering-leaving/full odd vocalized arḥalnā formula/reliance/door closure/no Satan or approach; bed/full basmalah/Prophetic way/no harm/ablution negation/damaged fragment/leper/trust and entrusting/ʿUmar and ʿUtb presence-food-invitation-eating; eye versus evil-eye ambiguity/hand action/full prayer/heat-affliction; foot among riders/travel/no disliked harm/believing servant/fly/Prophet reciting for traveler/mounting/way honorific/begin journey/refuge invocation continuation. Every clause, attribution, negation, actor, possessive, count, letter pattern, formula, honorific and uncertainty checked independently EN-ID. Odd source counts and wording not silently canonicalized; no table.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "“It is from Solomon, and it is: Bismillah al-Raḥmān al-Raḥīm.”",
+          "new": "“It is from Solomon, and it is: In the name of God, the Most Compassionate, the Most Merciful.”",
+          "reason": "أنه من سليمان وإنه بسم الله الرحمن الرحيم is a quoted scriptural fragment. Its basmalah needs full English translation under style §3; letter-analysis uses elsewhere may remain technical transliterations."
+        },
+        {
+          "language": "id",
+          "old": "“Sesungguhnya ia berasal dari Sulaiman dan sesungguhnya ia adalah: Bismillah al-Raḥmān al-Raḥīm.”",
+          "new": "“Sesungguhnya ia berasal dari Sulaiman dan sesungguhnya ia adalah: Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.”",
+          "reason": "The quoted إنه بسم الله الرحمن الرحيم requires the full Indonesian meaning, not just transliteration, under style §3; this does not require changing technical letter-analysis names elsewhere."
+        },
+        {
+          "language": "en",
+          "old": " [UNCLEAR: the source’s count is preserved as written]",
+          "new": "",
+          "reason": "وهم أحد وثمانية explicitly gives the odd count “one and eight.” The literal is already translated. Its oddity alone is not unreadability and must not trigger a corrective or uncertainty gloss."
+        },
+        {
+          "language": "id",
+          "old": " [UNCLEAR: jumlah sumber dipertahankan sebagaimana tertulis]",
+          "new": "",
+          "reason": "وهم أحد وثمانية is readable as the odd count “satu dan delapan.” Preserve it literally, without an invented uncertainty caused only by the unusual count."
+        },
+        {
+          "language": "en",
+          "old": "In the name of God we set out;",
+          "new": "In the name of God we sent forth;",
+          "reason": "The canonical vocalization is أَرْحَلْنَا, a causative verb (we sent forth), not رَحَلْنَا (we set out). Preserve the unusual source formula and its unstated object rather than silently normalizing it to a familiar intransitive wording."
+        },
+        {
+          "language": "id",
+          "old": "Dengan nama Allah kami berangkat;",
+          "new": "Dengan nama Allah kami memberangkatkan;",
+          "reason": "أَرْحَلْنَا is the vocalized causative (kami memberangkatkan), not the intransitive رَحَلْنَا (kami berangkat). Preserve the odd source wording and do not invent its absent object."
+        },
+        {
+          "language": "en",
+          "old": " [UNCLEAR: the exact wording of this formula is damaged.]",
+          "new": "",
+          "reason": "The canonical formula بسم الله أرحلنا باسم الله خرجنا وعليه توكلنا is readable as printed, though unusual. Once its causative is translated literally, do not add a general claim that the exact wording is damaged merely because it differs from a remembered formula."
+        },
+        {
+          "language": "id",
+          "old": " [UNCLEAR: redaksi persis formula ini rusak.]",
+          "new": "",
+          "reason": "The printed formula بسم الله أرحلنا باسم الله خرجنا وعليه توكلنا is legible. Preserve the odd causative literally rather than marking the whole exact formula damaged because it is unfamiliar."
+        },
+        {
+          "language": "en",
+          "old": " [UNCLEAR: the term rendered “persistent affliction” is obscure.]",
+          "new": "",
+          "reason": "وَصَبَهَا is an ordinary Arabic word for its affliction/illness; the translation already supplies that meaning. No source unreadability or lexical uncertainty warrants the extra marker."
+        },
+        {
+          "language": "id",
+          "old": " [UNCLEAR: istilah yang diterjemahkan sebagai “penderitaan yang menetap” tidak jelas.]",
+          "new": "",
+          "reason": "وَصَبَهَا plainly means its affliction/illness. Its existing Indonesian rendering is adequate; delete the invented assertion that this ordinary term is unclear."
+        },
+        {
+          "language": "en",
+          "old": " [UNCLEAR: the page ends before the formula is complete.]",
+          "new": "",
+          "reason": "أعوذ بالله من الشيطان continues on canonical p49 الشيطان الرجيم ومن وعثاء السفر إلى آخره. The ellipsis can preserve the physical-page continuation without asserting semantic uncertainty."
+        },
+        {
+          "language": "id",
+          "old": " [UNCLEAR: halaman berakhir sebelum formula itu lengkap.]",
+          "new": "",
+          "reason": "The canonical p49 continues الشيطان الرجيم ومن وعثاء السفر إلى آخره. A known continuous invocation crossing pages needs its existing ellipsis, not an uncertainty marker."
+        }
+      ],
+      "uncertainties": []
+    }
+  ]
+}

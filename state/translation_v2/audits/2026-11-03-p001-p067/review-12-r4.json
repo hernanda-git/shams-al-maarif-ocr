@@ -1,0 +1,27 @@
+{
+  "reviewer_id": "a349d0d5-fd36-4661-9d66-07adcc895919",
+  "reviewer_kind": "independent_model",
+  "pages": [
+    {
+      "page": 12,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_012.txt",
+          "sha256": "20094ff5c30a6304e35fc820d7026146fefd4d421a7c58b8331ddb524d084bc6"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_012.txt",
+          "sha256": "b99077595808bfdaf00842b151739ca0dcb338767703921c4e8caff98dd588e7"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_012.txt",
+          "sha256": "5c71b333176ee2f80c8329db9dd686e0b70fbdc0552e874eff5fbecc5dca37d3"
+        }
+      },
+      "coverage": "Fresh independent Arabic-led review of the entire 151-line style document, canonical Arabic lines 1–34, and both complete target files including all long paragraphs, using lossless numbered 900-character wrapped copies and reading the remaining style lines separately. Checked folio 6; fourteen-versus-thirteen letter count and exact ordered alif/bāʾ/jīm/ḥāʾ/kāf/mīm/ʿayn/ghayn/fāʾ/qāf/hāʾ/wāw/yāʾ list; uncertain obedience/definitions/rāʾ examples; alif/one, inward correspondence before form, subtle numerical power, reliance, secrets of utterances versus actions, divine arrangement of numerical and letter benefits, supplication/incantation/names; unrestricted letter timing, discipline/properties versus numerical talismans and higher correspondences. Checked dāl=4, every repeated 4-by-4 construction/arrangement reference (no actual grid appears in this canonical page); Monday birth/commission/death, lunar exaltation at three degrees Taurus, freedom from malefics, lunar hour, complete purification, two prayer cycles, Āyat al-Kursī/al-Ikhlāṣ hundredfold recitation, pure parchment; all bearer/prisoner/banner/disputant conditions, divine actors, memorization/understanding/rank, release by divine permission, unbelievers/aggressors and overcoming/subduing. Preserved source’s odd direct identification of fire/air/earth/water with yellow bile/phlegm/blood/black bile in exact order rather than repairing humoral theory; checked four-not-rabaʿa uncertainty, temperamental powers/balance. Checked al-Dāʾim/al-Wadūd, dāl precedence and disclosed malformed Aḥmad/Muḥammad/permanence connection without canonical reconstruction; divine first/last permanence, servants’ share in abiding after annihilation in the Hereafter; Throne’s unchanged existence, repeated first-world claim, originated things, spirit ascents, intellect ranks, mercy lights, knowers of God and apportioned share. Checked entire Ḥārithah narration: named speakers and every honorific, awakening/true faith/question, presenting himself to world (not remembered renunciation text), equal stone/gold/living/dead/rich/poor, unveiled Throne, people driven to reckoning/Paradise/Fire, knowledge/steadfastness response; subsequent Prophet attribution, spirits’ separation and disclosed bānat ambiguity, ablution-purity condition and remaining prostrate below Throne. Checked dāl’s permanence/abiding secrets; al-Wadūd derivation from wudd, common/shared relation, outward love/inward wudd relation and repeated outward/inward division, affection’s priority, heart dwelling and revealing/unveiled heart-world; uncertain al-shaqq subtlety, shaghaf, disclosed aḥabb/ʿishq fragment, fuʾād dwelling, three cavities, upper denser part, radiant light, and unfinished place clause. Compared EN↔ID for actors, negations, conditions, numbers, Names, honorifics, list order and all uncertainty disclosures; no unresolved accuracy defect found. Arabic blocks match canonical source after permitted newline/outer-trim normalization; each target label occurs once and target blocks contain no Arabic script. No prior review record treated as evidence; no source, target, code, manuscript JSON or tracker edits.",
+      "findings": [],
+      "uncertainties": []
+    }
+  ]
+}

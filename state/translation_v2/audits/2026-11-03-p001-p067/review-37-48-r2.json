@@ -1,0 +1,349 @@
+{
+  "reviewer_id": "0f6c582d-1aad-42a4-bf50-bf49ec779eb2",
+  "reviewer_kind": "independent_model",
+  "pages": [
+    {
+      "page": 37,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_037.txt",
+          "sha256": "20886d9d600c256cb5779f5105daf0c4b1742d13f2e65a084d35f361555cd47a"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_037.txt",
+          "sha256": "5f7424f133a4711a0a8cdba86a08f06f2ce99e67b7ddfa7a6be1ed475039d5e0"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_037.txt",
+          "sha256": "54d2e0a3f1c205259cd189848a106a3d3966ece1eb321d08c6db939769a33bec"
+        }
+      },
+      "coverage": "Read entire source lines 1–32, both complete original bilingual files and numbered copies: folio 31; opening ten/twelve figures, 360 in 21 and 316 in 15 and north/ecliptic inclinations; general practitioners/never classification; author/title attribution; Lesser Bear seven/four/three/outside eight and repeated seven/pole; Great Bear 27/outside eight/seven/four-body/three-tail/al-Suha; Dragon 31/coils/inclined four-star head square and orphaned scorpion phrase; al-Fakkah/Northern Crown/corrupt serpent-dwellers-eight/Arcturus; kneeler27, al-Sabat aliases, tortoise10/eagle, hen19/outside2/Milky Way, triangle4/fish/eagle/Ghul; northern360/southern312; Qayqatus22/body/legs/tail, Orion38/staff/belt/sword/red Jawza, rabbit12/west-face/east-rear; Great Dog28/outside11/Sunbulah/Sirius/naming/Ghumaysa/Cancer/arm/two sisters; Southern Crown13/outside6/fish/head-east/tail-west/south-Dali; Milky Way corrupt location and closing famous/unfamous distinction/divine will. Every clause, actor, quantity, name and negation checked; no grid.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the source’s phrase following the head-and-scorpion description is garbled.]",
+          "new": "[UNCLEAR: the source then reads “the mark of the scorpion, the benefits”; its connection to the head description is corrupt.]",
+          "reason": "Source lines 13–14: على رأسه سمة العقرب الفوائد. The existing description fails to retain the readable سمة (mark/sign), العقرب (scorpion), and الفوائد (benefits). Describe the actual orphaned wording rather than an unspecified following phrase."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: frasa sumber setelah uraian tentang kepala dan kalajengking rusak.]",
+          "new": "[UNCLEAR: sumber kemudian berbunyi “tanda kalajengking, manfaat-manfaat”; hubungannya dengan uraian kepala rusak.]",
+          "reason": "Source lines 13–14: على رأسه سمة العقرب الفوائد. Retain the readable mark/scorpion/benefits fragments without guessing their corrupt grammatical relation."
+        },
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the source gives a garbled description of a kind of heavenly serpent and eight stars associated with its roundness.]",
+          "new": "[UNCLEAR: the source continues “a kind of serpent is known in the sky; some of it, the dwellers, because of its roundness, eight”; the clause is corrupt.]",
+          "reason": "Source lines 15–16: ويعرف في السماء ضرب من الحيات بعضه الساكنين لاستدارتها ثمانية. الساكنين (the dwellers) is currently omitted, and the source says only eight here, not eight stars. Preserve the anomalous fragments without making a coherent astronomical assertion."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: sumber memberikan uraian rusak tentang sejenis ular di langit dan delapan bintang yang berkaitan dengan bentuknya yang bulat.]",
+          "new": "[UNCLEAR: sumber melanjutkan “sejenis ular dikenal di langit; sebagiannya, para penghuni, karena kebulatannya, delapan”; klausanya rusak.]",
+          "reason": "Source lines 15–16 contain بعضه الساكنين and bare ثمانية, not an explicit count of eight stars. The target omits the dwellers and supplies bintang; the necessary repair describes the corrupt fragments specifically."
+        },
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the source’s relation between al-Sunbulah and the stars of al-Shiʿrā al-ʿAbūr is obscure; it calls one al-Abbān al-Marzabān.]",
+          "new": "Among them is al-Sunbulah, among the stars of al-Shiʿrā al-ʿAbūr; it is called al-Abbān al-Marzabān [UNCLEAR: the referent of “it” is uncertain].",
+          "reason": "Source lines 25–26: منها السنبلة من كواكب الشعري العبور ويسمى الأبان المرزبان. The membership relation من كواكب is readable. Only the referent of the masculine naming verb is uncertain; do not hide the readable membership statement."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: hubungan antara al-Sunbulah dan bintang-bintang al-Shiʿrā al-ʿAbūr dalam sumber tidak jelas; sumber menyebut salah satunya al-Abbān al-Marzabān.]",
+          "new": "Di antaranya terdapat al-Sunbulah, di antara bintang-bintang al-Shiʿrā al-ʿAbūr; ia disebut al-Abbān al-Marzabān [UNCLEAR: rujukan “ia” tidak pasti].",
+          "reason": "Source lines 25–26 explicitly retain al-Sunbulah من كواكب الشعري العبور. Translate the readable membership relation; localize uncertainty to the referent of ويسمى."
+        }
+      ],
+      "uncertainties": [
+        "The serpent/dwellers/eight and head/scorpion/benefits wording is corrupt; findings preserve its surviving words, not an astronomical reconstruction. Other localized source gaps remain explicitly marked."
+      ]
+    },
+    {
+      "page": 38,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_038.txt",
+          "sha256": "fb2ac11ca3a283a41a915cd29bfda3b0a3e887178792a19fef824d753d4a95aa"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_038.txt",
+          "sha256": "3d11bb6af32575fade638e35d379d90c91ab40e62a17d5538bf1512e3ee02a31"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_038.txt",
+          "sha256": "003af37c5a91a6b9b958e5e083fb5a8db82d3eb8d54975f011ac72056e9dc314"
+        }
+      },
+      "coverage": "Read entire source lines 1–39 and both complete bilingual originals/copies: folio32; all eight section headings including final bare Chapter; body-size claims Sun100.5/Moon39/Venus-Mercury-Mars likewise/Jupiter82/Saturn99; before/behind15/12/8/7 and Mercury likewise, divine-knowing closure; 15 fixed stars/four named examples/64 ratio; all seven sphere durations (29+1/3,28,224+1/4,365+1/4,630 without unit,11years,29years); Moon2days3nights/Mercury15/Venus25/Jupiter1year/Saturn30months; seven dignities and Pleiades lamp/knot/most-stars cause; all seven weekday correspondences; conjunction versus meeting definitions, command/Quran/imperative; every Saturn/Jupiter/Mars/Sun/Venus/Mercury/Moon condition, wars/king death/repeated that happens/high prices/drought/book/judicial injustice/hardships. All repetitions, directions, actors and qualifiers checked; no table.",
+      "findings": [],
+      "uncertainties": [
+        "Mars circuit duration has no stated unit; 630 is retained without adding days. Repeated “that happens” and unnamed Moon conjunction partner are preserved."
+      ]
+    },
+    {
+      "page": 39,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_039.txt",
+          "sha256": "a97807162ddfea7c7fc60d83eb67ef5015d17a5d5fc537a0bdff6b8e65baeb6c"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_039.txt",
+          "sha256": "3ffa7e7ff151ced66041f87a446e03905aca9af826eb8a551ff49f61b0864c21"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_039.txt",
+          "sha256": "b9835243c1da7a15aeae7a7d1c0aae9e3e7a1bb852108fe3d3c30e625fc980d0"
+        }
+      },
+      "coverage": "Read entire source lines 1–36 and both complete originals/copies: folio33 and bottom folio3/book/first footer; seven planets in order with full gender/temperature/moisture/humor/substance/taste/color and influence inventories, feminine Mars and white taste retained; corrupt Moon word but readable phlegm/incidental solar heat; author rejection of autonomous astral agency, cited directing-affair words twice, Prophet ascent/honorific and accepted/prohibited distinction; Creator proof, Ibn Abbas provisions/rain/winds, divine permission/Power-Knowledge-Wisdom and creation-command praise; chapter5 title, opening success prayer, two fire claims, basmalah/wafq; scholar agreement, Abu Hurayrah full honorific/Prophet honorific, all three severance versions/blessing explanation;104 books, Seth60/Abraham30/Moses10/four titles, all nested book-Furqan-Fatihah-basmalah-ba meanings and cryptic ontology; descent/Throne/keepers/fire exclusion/19letters/angels/protection prayer; Jabir honorific and unfinished continuation. No table.",
+      "findings": [],
+      "uncertainties": [
+        "Initial يلغي, the rejection transition, cryptic creation phrase and final Jābir continuation remain specifically marked, without repairing the Arabic. Anomalous humoral readings are retained."
+      ]
+    },
+    {
+      "page": 42,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_042.txt",
+          "sha256": "78641769833ab32f1e7f03719c6814ad17423cb0638ca3ca3e855fd3dd44c584"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_042.txt",
+          "sha256": "55e21fac7594c67b37e6a35ba3c7bc1cb2a0fc493d58998f8b9aae67cce6ce99"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_042.txt",
+          "sha256": "1db2745851af6c42ad9d9c94a6e059588de0883cfbe03d97c0a05371d8c82aa7"
+        }
+      },
+      "coverage": "Read entire source lines 1–33 and both complete originals/copies: folio36; opening dignity/fortune/malefics, revenge/tyrant fragment, Moon disappearance-combustion/Saturn-Mars/deservedness/pardon and both verses; good/evil fumigation; air/fire/water/near-water/Faris reed/earth/two doorways/bone and all conditions; complete basmalah prayer, praise grammatical break, seven-seas inexhaustible-words verse; all 24 first-list vocatives and full second divine-name sequence, majesty not guessed lawful phrase, all possessives and divine no-deity pronoun; bearer character/generosity/mercy/Gentle wonders/acceptance/outward-inward/Greatest Name answers/gifts; persistence/half-night/aspiration/hidden secrets/higher realm/angel knowledge; weak rank/wished matter/from-where/no-mention broken syntax, lost-property Kafi-Jami, Tafwih/Rauf distress, empty stomach/fire and both negative fragments/continued boiling; Halim-Rauf-Mannan/Lord, lunar-hour encounter/evil, lust removal; corrupted return then heavens/Throne/countless angels/faith/spheres/kings and unfinished kanat. No diagram.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "by Your name besides which there is no deity:",
+          "new": "by Your name—there is no deity but He—:",
+          "reason": "Source lines 15–16: باسمك الذي لا إله إلا هو الجليل. هو is the personal pronoun He, referring to God, not the name as an inanimate “which”. Retain the personal divine referent rather than asserting no deity besides a name."
+        },
+        {
+          "language": "en",
+          "old": "while wishing for a matter whose source he does not know, which does not occur to his mind and which no one mentions to him,",
+          "new": "while wishing for a matter for himself [UNCLEAR: the source continues “from where he does not know, nor does it occur to his mind, nor does anyone mention him/it”; the connections and pronoun references are uncertain],",
+          "reason": "Source lines 24–25: وهو يتمنى شأناً له من حيث لا يدرى ولا يخطر بباله ولا يذكره أحد. له belongs to شأناً (a matter for himself). The target invents a relative “whose source” and a recipient “to him” after يذكره, neither stated in the Arabic. Describe the genuinely broken connection without supplying those relations."
+        },
+        {
+          "language": "id",
+          "old": "sementara ia menginginkan suatu perkara yang asalnya tidak ia ketahui, yang tidak terlintas dalam pikirannya dan tidak disebutkan oleh siapa pun kepadanya,",
+          "new": "sementara ia menginginkan suatu perkara untuk dirinya [UNCLEAR: sumber melanjutkan “dari arah yang tidak ia ketahui, tidak terlintas dalam pikirannya, dan tidak ada seorang pun yang menyebutnya”; hubungan antarklausa dan rujukan kata gantinya tidak pasti],",
+          "reason": "Source lines 24–25: شأناً له من حيث لا يدرى ولا يخطر بباله ولا يذكره أحد. Retain “for himself”; do not invent “whose origin” or “to him”. The syntax and object-pronoun referent require specific uncertainty rather than a guessed relative clause."
+        }
+      ],
+      "uncertainties": [
+        "Opening and multiple syntax breaks, especially the Kafi aspiration passage, remain uncertain. The source’s negative breathing and continued boiling are retained without efficacy reconstruction."
+      ]
+    },
+    {
+      "page": 43,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_043.txt",
+          "sha256": "6ecbf7060020e320a1626b7a35b242024cd7020692fe95083c6784944c7f490a"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_043.txt",
+          "sha256": "f6665bdc4291a37ac7dd908d4c3a2e98eebd59ad4e41a09a1c88e5ec0cde9609"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_043.txt",
+          "sha256": "caf89de0e61a775eece49fcf51d9927d21727b22a53bd09b0c90f33fbb175a54"
+        }
+      },
+      "coverage": "Read entire source lines 1–33 and both complete originals/copies: folio37; Adam forehead500before creation, Gabriel wing/Abraham/fire utterance and both honorifics, Moses staff/Syriac/sea counterfactual, Jesus cradle/dead/divine permission, Solomon ring; repeated basmalah-property introductions; every numerical procedure:786 seven consecutive days/intention/good-evil/odd marriage-merchandise,21bedtime/Satan-theft-sudden death/all calamity,50tyrant/awe possessive,300sunrise-facingSun plus matched Prophet blessings/honorific/unexpected provision/before year/complete wealth;786water/love/pronoun uncertainty and7sunrise/dullness/memory;61rain/seeking-rain/completion;2500afterdawn/sincerity/humility40days/secrets/dream-every-event/discipline/secrecy; Thursday fast/oil-dates literal anomaly/Maghrib121/unlimited to sleep/Fridaydawn121/ink/incense/repeated count; oath/man-woman/fullmoon/status/love/need;121connected writing; gazelle121/three inks/four incenses/provision/debtor/protection;40glassbowl/Zamzam-or-sweetwell/trailing drink. No table.",
+      "findings": [],
+      "uncertainties": [
+        "Marriage of merchandise, looking upon oil and dates, water pronouns and the unstated completion object are source uncertainties preserved rather than normalized."
+      ]
+    },
+    {
+      "page": 44,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_044.txt",
+          "sha256": "7b34403aa7d13cbd0b098460b52d3a3325878bb658669f54130eedd430d2ef4e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_044.txt",
+          "sha256": "dd9978555beea93a84af635f77e29d1811ff3f33a17094d3d33faec04a4829ca"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_044.txt",
+          "sha256": "672748340680146835b4dedb244d3c407f9b2da1d8b5e8edab76ea6a6987f974"
+        }
+      },
+      "coverage": "Read entire source lines 1–33 and both complete originals/copies: anomalous folio31; water continuation/healing/difficult birth;35paper/house/noSatan-jinn/blessing/shop/customers-profit-stock/blinded eyes;107firstMuharram/lifetime/household;110woman-childloss/barren/3days purification/paper/husband/60day prohibition/righteous child/no gestational pain;61children live/tested/God power;101crop/fertility/all pests;70shroud/Munkar-Nakir/light till resurrection; leadtablet/net/fish,1card/bezel/ring/menstrual milk/stung/corrupt fragment/poison exit; complete letter association sequence with repeated alif-lam-mim, including readable pain-of-kingship;21ba/wealth/Noah verse/erase/stung cure;40daily mim and prayer endpoints/good/blessing;50Rahman-Rahim/150basmalah/ruler-tyrant/noharm;1000daily/fasting-discipline14days/alternate aftereveryprayer/angels-seeing-dialogue-command; exact8broken letters/person/mother/need;7splitRahman/slave/house/stone/full prayer/noescape;knife331/rooster/head/corrupt head condition/threshold/insects-jinn;friedhead/oil/pain/bleedingwoman;190Rahim/banner/battle/no weapon/no illness/trailingwhoever. No actual grid.",
+      "findings": [
+        {
+          "language": "id",
+          "old": "pada lempeng timah lalu",
+          "new": "pada lempeng timah hitam lalu",
+          "reason": "Source line 13: في لوح من رصاص, a lead tablet. Timah alone denotes tin; lead is timah hitam. Preserve the stated metal, as distinct from قصدير (tin)."
+        },
+        {
+          "language": "en",
+          "old": "the lām is [UNCLEAR: associated in the source with “the alām of dominion”];",
+          "new": "the lām is the pain of kingship;",
+          "reason": "Source line 16: واللام ألم الملك. ألم is the readable word pain, not an unreadable alām. Preserve the source’s odd association literally instead of hiding the intelligible word under UNCLEAR."
+        },
+        {
+          "language": "id",
+          "old": "lām adalah [UNCLEAR: oleh sumber dikaitkan dengan “alām kerajaan”];",
+          "new": "lām adalah rasa sakit kerajaan;",
+          "reason": "Source line 16: واللام ألم الملك. ألم means pain/rasa sakit. The unusual association must be retained, not replaced with an opaque transliteration and blanket uncertainty."
+        }
+      ],
+      "uncertainties": [
+        "Liquid and knife/head-condition corruption remains localized. The readable odd pain-of-kingship association must not be treated as unreadable."
+      ]
+    },
+    {
+      "page": 45,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_045.txt",
+          "sha256": "14292650e595d38a95e006483450dfdba44f32911148776dc7077cab4bcedc33"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_045.txt",
+          "sha256": "4ee1fa0ed3fc2dc3a2fd1d5c935072336b676672054e8c1b9f9abba7819111d0"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_045.txt",
+          "sha256": "da7135def5087cb40bf8beacefce0c880f23f880ba25eff4dcd6b8f60d696d32"
+        }
+      },
+      "coverage": "Read entire source lines 1–38, both complete original bilingual files, all copies and split Indonesian line55: folio39;21headache;7almonds/yellowcopper/FridayVenus/namecount/love;Monday-sunrise newmirror/lūqah;silverring2dirhams/rīḥī/awe-obedience;tyrantwafq/lead/name/khintit-redgarlic/permanentfire/death-warning/divineaccountability; source four rows by five columns, all20formula cells and their order preserved, no invented fifthrow; complete two-basmalah supplication/faces-voices-hearts/Prophet-master/family-companions/repeatedpeace/personname/conditionalreturn-vs-nonreturn/guidance-wrath-destruction/fivevocatives7/700/wrongdoing alternatives/fearGod;8circlecenter/versearound/endofsurah/fortunate incense/carriage/love-status-success;Pisces/fortunateascendant/gazelle/head/countuncertainty/happy-martyr/self-wealth-child;concealed Bism/Greatest Name/thisworld-next mercy;Fatiha correspondences,MasterJudgment/lordship/KingOwner/corruptinstruction,repeatedKingkings/souls/subjugation-victory/conferringownership/sovereignverse;comprehensivesayings/corrupt al-ant/tongue-of-distraction/call/ascent/lahut/second-firstbeginnings;witnessing/Allah/unity/angels/learned correspondences;quadrangularworld/fourfavoredclasses/rahimiyya-to-rahmaniyya/ascent/trailingfirst. All honorifics, actors and conditions checked.",
+      "findings": [
+        {
+          "language": "id",
+          "old": "pada sepotong timah,",
+          "new": "pada sepotong timah hitam,",
+          "reason": "Source line 9: في قطعة رصاص, a piece of lead, not tin. Preserve the material of the wafq."
+        },
+        {
+          "language": "id",
+          "old": "api tidak menyentuh timah,",
+          "new": "api tidak menyentuh timah hitam,",
+          "reason": "Source line 11 repeats الرصاص (lead) in the warning about the fire touching it. Use the same correct metal as in the preceding instruction."
+        },
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the source says that it conveys the comprehensive words toward “the end by the truth” and raises the call with a tongue of divine turning toward God in ascent]",
+          "new": "[UNCLEAR: the source mentions conveying all the comprehensive sayings toward “al-ant” with the truth, raising the call with “the tongue of distraction” toward God, and ascent; “al-ant” and the connections between these fragments are corrupt]",
+          "reason": "Source lines 33–34: لتوصل الجميع جوامع الكلم إلى الأنت بالحق وترفع النداء باللسان التلهي إلى الله صعود. الأنت is not a readable word for “the end”; التلهي is distraction/diversion, not divine turning. Do not silently reconstruct a mystical formula inside an uncertainty marker."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: sumber mengatakan bahwa ia menyampaikan semua ungkapan yang menyeluruh menuju “akhir dengan kebenaran” dan mengangkat seruan dengan lisan pengalihan ilahi kepada Allah dalam kenaikan]",
+          "new": "[UNCLEAR: sumber menyebut penyampaian semua ungkapan yang menyeluruh menuju “al-ant” dengan kebenaran, mengangkat seruan dengan “lisan yang terlena” menuju Allah, dan kenaikan; “al-ant” serta hubungan antarfragmen ini rusak]",
+          "reason": "Source lines 33–34 have الأنت, not a readable word meaning akhir, and التلهي, distraction/diversion, not pengalihan ilahi. Preserve the corrupt token and readable distraction wording without guessing a coherent esoteric expression."
+        }
+      ],
+      "uncertainties": [
+        "Unknown lūqah/rīḥī, head-count phrase, recipient fragment and al-ant remain uncertain. The distraction fragment must not be normalized into a remembered mystical formula."
+      ]
+    },
+    {
+      "page": 46,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_046.txt",
+          "sha256": "f9d104a56cf14479ddbe2eb64109babe838dc155d2afa511860546a9504d52c6"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_046.txt",
+          "sha256": "cf8da09fedb45ac345faae420ea3f2e288564ee589f6b516ae09a297cc61233e"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_046.txt",
+          "sha256": "c5d834de9802b12b24fa710fe0fd38431c96b732dd9e5c0679d79c8ec3e99a3b"
+        }
+      },
+      "coverage": "Read entire source lines 1–24, both complete original files and every numbered copy including all split target lines32/38: folio40/openingcircle;hadith300scroll/certaintyLordship/firefreedom/abode;GospeltoJesus/recitation-prayer/bothMunkarNakirnegative/death-agony-grave/widen-eyesight/bodywhite-facebright/easyreckoning/heavyscale/lightBridge/Paradise/resurrectionannouncement;Jesusquestion/divineresponse/follow-way-word/Muhammadcommunity/honorifics,Jesusinforming/ascension/disciples/errantsubstitution/Christians-monks-versus-Gospelhearts/Prophetmission/threewritinglocations;divineoath-believingservant/blessing;truebeliever/mountains-glorifying-forgiveness/nothearing;Paradisespeech/fullformula/gooddeedtransfer/ambiguousspeakers/explicitmake-deeds-outweigh-request/threeNames/scaleversusheavens-earths-contents-counterparts;protectionfromaffliction-disease-Satan/earthswallowing-pelting-transformation/corruptclosingexhortation/formunderstanding-guidance/finalsaid. No actual diagram or outside reconstruction.",
+      "findings": [],
+      "uncertainties": [
+        "Substitution phrase, Paradise/deed pronouns/speakers and closing exhortation remain localized source uncertainties. No absent diagram was invented."
+      ]
+    },
+    {
+      "page": 47,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_047.txt",
+          "sha256": "9cfda7fb99f74b8ea1a21aaa5f0eb97cb3819a902250daf4d71980b431f158ef"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_047.txt",
+          "sha256": "4d161d2a391d6306b5796fdca2b58f87b2c584d6281b52529ff3fad6d5563907"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_047.txt",
+          "sha256": "fc55a5a9a6274d8b38c064cf989dc4b0e08a4bbd9cd8f2ffb08e6b4643140dca"
+        }
+      },
+      "coverage": "Read entire source lines 1–32 and both complete originals/copies: folio41; line-broken HasanBasri/mercyhonorific/twoquotedverses/two basmalah identifications/alternative no-deityformula;beautifiedwriting/honoring/recorded-near;Ikrimah/God-alone/light/TabletPen/writingcommand/firstformula/protectionpersistentreader/sevenheavens/pavilions/cherubic-truthful-glorifiers;Adamfullhonorific/firstrevelation/conditionaldescendantnoFire;Abrahamhonorific/catapult/divinefire-rescue;sourceSolomon-before-Moses sequence retained,kingdom/angels/proclamation/alltribes-ascetics-worshippers/SolomonsonDavid/dualhonorific/fathersniche/pulpit/hearingjoy/testimony;Moses/Pharaohandarmy/Qarun/Hamanandhisarmy;Jesushonorific/divine negative question/answer/sign/night-day/journey-arrival/sitting-standing/eating/allstates/scrolljudgment/pastsins;visitor-righteous/saint/supplication-blessing/crowdatdoor/corruptrainbow-footactor/basmalahutterance/visitorMadihi/cry-men-ahead/earneststriving. All honorifics/negations/listitems checked; no table.",
+      "findings": [],
+      "uncertainties": [
+        "Rainbow/foot actor and grammatical relation remain specifically uncertain; the target does not reconstruct a levitation story. The source’s unusual historical sequence is retained."
+      ]
+    },
+    {
+      "page": 48,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_048.txt",
+          "sha256": "ea584c86c368ff75fd53d3982b7826be1407daf42f294465f77fac4518638c75"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_048.txt",
+          "sha256": "b13c61f5816e118d19de32c1ef652b6c42d1f4f08bae69c3d56278f9d85e2e94"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_048.txt",
+          "sha256": "7660e6e66ae985095c5278e3ee43ef8b9c5dc12a37244f869d5ac5b7446dd88a"
+        }
+      },
+      "coverage": "Read entire source lines 1–34, both complete original files and every numbered copy including split Indonesian line48: folio42/initialworduncertain/readablejoiningafrad/corruptQawsact/AbuAbdAllahRahahi/fullGodMostHighpleasurehonorific;brother/placerfragment/Solomonquote/19letters/dots/unrepeated;alllettercounts3mim4lam2ra and anomalousba-sin-ha/ninerepeated,exact mm-aaa-lll-rr-hh sequences/tenunrepeated/ba-good-cold-faith/resurrection-essentialletter/watr-Essence-Reality;Abraham/Propheth onorifics/firstscriptures-firstrevelation/creationverse/bafrag/oneandeightangels/glorification-sanctification;morning3/Greatestformula/suddenaffliction/paralysis;Khalidhonorific/deadlypoison/activewhenhesent/challenge/speakeruncertainty/Companionsothers/tworecitations/drink-standunharmed/sweatfragment/divinepower;Noahhonorific/ship/Abrahamcoolpeace/houseentryexit/setoutformula/reliance/door/Satannotenter-approach;bed/creed/Propheth onorific/noharm;noablution/naming/said-addedfragment/leper/trust/Umarhonorific/Utbsource-name/foodinvitationeating/formula;eye-or-evileye/handstrike/heat-wasab;footamongriders/travel/noharm/believer/Satansmallfly;Prophetrecitation/traveler/mounting/creed/repeatedhonorifics/journeyopening/refugeSatanunfinished. All quantities, negatives, possessives and source anomalies checked; no table.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "while ʿUtbah was present",
+          "new": "while ʿUtb was present",
+          "reason": "Source lines 27–28 name عُتْبِ السُّومِي, followed only by وهو حاضر. The explanatory repeated name must agree with the source’s ʿUtb, not silently restore a final tāʾ marbūṭah in a later mention."
+        },
+        {
+          "language": "id",
+          "old": "ketika ʿUtbah hadir",
+          "new": "ketika ʿUtb hadir",
+          "reason": "Source lines 27–28: عُتْبِ السُّومِي ... وهو حاضر. The repeated explanatory name still normalizes the source ʿUtb to ʿUtbah; maintain the actual source name throughout."
+        }
+      ],
+      "uncertainties": [
+        "Opening act, placer phrase, bāʾ fragment, one-and-eight count, poison sweat and travel formula corruption remain explicit. Repeated supplied personal names must still preserve source ʿUtb."
+      ]
+    }
+  ]
+}

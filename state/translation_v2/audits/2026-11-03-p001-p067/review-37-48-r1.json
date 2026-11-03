@@ -1,0 +1,514 @@
+{
+  "reviewer_id": "0412a827-2e26-4b36-a3f4-8453d8bbb30e",
+  "reviewer_kind": "independent_model",
+  "pages": [
+    {
+      "page": 37,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_037.txt",
+          "sha256": "20886d9d600c256cb5779f5105daf0c4b1742d13f2e65a084d35f361555cd47a"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_037.txt",
+          "sha256": "3775f9486d9a6fe78e1c9f521135d2a3e438b6ab20559d9790d092bed51dcc61"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_037.txt",
+          "sha256": "1dc2a1f329080c4546d8a8fbac6c0749bfd5a910dafe31883b74b0ec41c7df2a"
+        }
+      },
+      "coverage": "Complete folio 31 and all 31 prose lines: opening ten/twelve figures, 360/21 and 316/15 counts, practitioners’ negative classification, Abū Muḥammad and book attribution; Lesser/Great Bear counts and body/tail arrangements, Dragon head square, al-Fakkah and eight, kneeler 27, al-Sabʿāt names, tortoise 10, hen 19 plus two, triangle four and locations; northern 360/southern 312, Qayqaṭus 22, al-Jabbār 38, rabbit 12 with west/east orientation, Great Dog 28 plus eleven, al-Sunbulah/al-Shiʿrā/Cancer/Suhayl, Southern Crown 13 plus six and fish orientation, Milky Way corrupt location, author’s closing restriction and God Most High. Every name/count/qualifier and both target blocks checked; no table.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the source’s statement about how the named stars were classified by the practitioners is difficult to parse.]",
+          "new": "As for [UNCLEAR: the phrase preceding “the stars that we named” is damaged], the practitioners in general never divided them.",
+          "reason": "Lines 4–5: وما على الكواكب التي سميناها لم يقسمها عامة أرباب الصنعة أبداً. The broken subject does not erase the readable actor عامة أرباب الصنعة, negation لم, or emphatic أبداً."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: pernyataan sumber tentang cara para ahli membagi bintang-bintang yang telah disebutkan sulit dipahami.]",
+          "new": "Adapun [UNCLEAR: frasa sebelum “bintang-bintang yang telah kami sebutkan” rusak], para ahli pada umumnya tidak pernah membaginya.",
+          "reason": "Lines 4–5 retain the explicit general practitioners as actor and لم ... أبداً (never), currently omitted behind a generic uncertainty description."
+        },
+        {
+          "language": "en",
+          "old": "Abū Muḥammad ʿAbd al-Jabbār, known from his book [UNCLEAR: the title appears as “al-Baṣrah”] on the fixed stars, mentioned them and said:",
+          "new": "Abū Muḥammad ʿAbd al-Jabbār, known [UNCLEAR: the epithet is incomplete], mentioned them in his book entitled al-Baṣrah on the fixed stars and said:",
+          "reason": "Lines 5–6: المعروف في كتابه المسمى بالبصرة في الكواكب الثابتة. The book is where he mentioned the stars, not the asserted source of his fame; المسمى supplies the readable title."
+        },
+        {
+          "language": "id",
+          "old": "Abū Muḥammad ʿAbd al-Jabbār, yang dikenal melalui kitabnya [UNCLEAR: judulnya tampak sebagai “al-Baṣrah”] tentang bintang-bintang tetap, menyebutkannya dan berkata:",
+          "new": "Abū Muḥammad ʿAbd al-Jabbār, yang dikenal [UNCLEAR: julukannya tidak lengkap], menyebutkannya dalam kitabnya yang berjudul al-Baṣrah tentang bintang-bintang tetap dan berkata:",
+          "reason": "Lines 5–6: وذكرها ... المعروف في كتابه المسمى بالبصرة. Do not invent “known through his book”; retain book attribution and readable title."
+        }
+      ],
+      "uncertainties": [
+        "Damaged source phrases remain localized uncertainty; no astronomy, scripture, names, or quantities reconstructed from external knowledge."
+      ]
+    },
+    {
+      "page": 38,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_038.txt",
+          "sha256": "fb2ac11ca3a283a41a915cd29bfda3b0a3e887178792a19fef824d753d4a95aa"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_038.txt",
+          "sha256": "85d8884b64424474bfdc6a9ff61c9ebb3dbde11839b7c1cb84cc0590f5d6727e"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_038.txt",
+          "sha256": "3e0a996627d5d3d374eeb0c5d69b06dea638948900faff2439c5baee4251aded"
+        }
+      },
+      "coverage": "Complete folio 32, all eight section headings including final bare faṣl; body-size ratios 100.5,39,82,99 and all planetary before/behind degree pairs; fifteen fixed stars with four names and 64 ratio; seven circuit durations including 630 without supplied unit; five station durations; seven dignities and Pleiades explanation; all seven weekday correspondences; conjunction versus meeting definitions, divine command/Qurʾan phrase, all Saturn/Jupiter/Mars/Sun/Venus/Mercury/Moon cases and calamity/governance outcomes. All negations, repetitions and God-knows-best occurrences checked; no table.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the source then refers to this as being in the Qurʾan and says to understand it.]",
+          "new": "That is in the Qurʾan, so understand that.",
+          "reason": "Line 33: ذلك في القرآن فافهم ذلك is readable prose, including the imperative; no normalization of القرآن to an astronomical term is warranted."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: sumber kemudian merujuk hal ini sebagai sesuatu yang terdapat dalam Al-Qur’an dan berkata agar memahaminya.]",
+          "new": "Hal itu terdapat dalam Al-Qur’an, maka pahamilah hal itu.",
+          "reason": "Line 33: ذلك في القرآن فافهم ذلك is readable source prose, not unreadable text."
+        },
+        {
+          "language": "en",
+          "old": "[Chapter heading continues]",
+          "new": "[Chapter]",
+          "reason": "Final source is only { فصل }; “heading continues” is an invented characterization, not its translation."
+        },
+        {
+          "language": "id",
+          "old": "[Judul bab berlanjut]",
+          "new": "[Bab]",
+          "reason": "Final source is only { فصل }; it does not say the heading continues."
+        }
+      ],
+      "uncertainties": [
+        "Damaged source phrases remain localized uncertainty; no astronomy, scripture, names, or quantities reconstructed from external knowledge."
+      ]
+    },
+    {
+      "page": 39,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_039.txt",
+          "sha256": "a97807162ddfea7c7fc60d83eb67ef5015d17a5d5fc537a0bdff6b8e65baeb6c"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_039.txt",
+          "sha256": "fe2b92f50a3c06ffd9e0ed42babcb1660625170b2061237c5e2aa72e91cf5101"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_039.txt",
+          "sha256": "44ebefd02fa867de621bde1d63f3a0903f0de8b8bf6619bd039389ef3111e620"
+        }
+      },
+      "coverage": "Complete folio 33 and footer -3- Shams al-Maʿārif - first; seven planetary natures, genders, humors, substances, tastes/colors and full influence lists, including anomalous feminine Mars and Jupiter white taste; author’s rejection, ascent report and acceptance/prohibition, Creator and both directing-affair quotations, Ibn ʿAbbās three angel duties and divine permission/power/wisdom; chapter five title and opening prayer, both fire claims, recommendation/hadith with three severance versions, 104 books with 60/30/10 and four titles, nested meaning sequence, Throne/keepers/nineteen angels, protection prayer and Jābir broken continuation. All honorific occurrences checked; no table.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the source’s wording associates it with phlegm and an accidental heat because its light comes from the Sun.]",
+          "new": "[UNCLEAR: the preceding word is corrupt.] It is phlegmatic and has incidental heat because its light comes from the Sun.",
+          "reason": "Lines 3–4: يلغي is corrupt, but بلغمي فيه حرارة عرضية لأن ضوءه من ضوء الشمس is readable and must not be hidden in a blanket description."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: sumber mengaitkannya dengan lendir dan panas aksidental karena cahayanya berasal dari Matahari.]",
+          "new": "[UNCLEAR: kata sebelumnya rusak.] Ia bersifat flegmatis dan memiliki panas aksidental karena cahayanya berasal dari Matahari.",
+          "reason": "Lines 3–4: بلغمي فيه حرارة عرضية لأن ضوءه من ضوء الشمس is readable despite preceding يلغي."
+        },
+        {
+          "language": "en",
+          "old": "Whoever writes it and [UNCLEAR: performs the source’s unclear accompanying action]",
+          "new": "Whoever writes it and arranges its wafq",
+          "reason": "Line 25: ومن كتبها ووفقها; the second verb is the recognizable technical act of arranging its wafq, not missing source prose."
+        },
+        {
+          "language": "id",
+          "old": "Siapa pun yang menulisnya dan [UNCLEAR: melakukan tindakan pendamping yang tidak jelas dalam sumber]",
+          "new": "Siapa pun yang menulisnya dan menyusun wafq-nya",
+          "reason": "Line 25: ومن كتبها ووفقها; وفقها is a readable technical action relating to wafq."
+        }
+      ],
+      "uncertainties": [
+        "Damaged source phrases remain localized uncertainty; no astronomy, scripture, names, or quantities reconstructed from external knowledge."
+      ]
+    },
+    {
+      "page": 40,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_040.txt",
+          "sha256": "13203e4b1cf0e260b6d7b99f1a62f8024787d2a53c0a7283ce928a5b82e31898"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_040.txt",
+          "sha256": "ff7e40c9b06613334dd518673e90f45560fc532303e523d937fce5f7d6b12265"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_040.txt",
+          "sha256": "0d3fb4f6464ae5edbea9df2914d89b6a1733f8256739eaec2d45a7efdcc569bb"
+        }
+      },
+      "coverage": "Complete folio 34 and every prose clause: cloud east/winds/seas/listening/devils, damaged oath and its negative wording retained uncertain; Ibn Masʿūd and source al-zāniyah anomaly/nineteen letters/awe/two worlds/Solomon-David dual honorific/100 writings; Ibn ʿUmar three fast days/Friday bathing mosque charity/prayer/full supplication including duplicated peace, need naming and fools prohibition; two prophetic quotations; concealed/Greatest Name and name hierarchy; alif/lām/lām subtraction sequence lillah/lah/huwa, contrast other names, Essence unity/first-last/mercifulness/call choice, specific-name and creation claims, corrupt warning/anger refuge/disobedience prayer; four letters with only three names anomaly, four directions/four angels and Jibrīl destructive role; terminal al-qidhah. No grid; both targets Latin-script.",
+      "findings": [],
+      "uncertainties": [
+        "Source oath at lines 4–5 is corrupt; no familiar oath/outcome supplied. Source al-zāniyah and final al-qidhah kept uncertain without normalizing."
+      ]
+    },
+    {
+      "page": 41,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_041.txt",
+          "sha256": "eba8010b48af777b303742c4de7def7ff6c1d3f145f36ceb0e074aa9899ead20"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_041.txt",
+          "sha256": "0b9612b76b4cf587fb94d1a2ab29084f48a2b5ed8fac46569325eef86caaf4b8"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_041.txt",
+          "sha256": "6affaf62ff726247980aeb68c5edb2eee85aa851cb4276b02c46c29303c3ee10"
+        }
+      },
+      "coverage": "Complete folio 35: opening blowing fragment; Isrāfīl three blasts and three quotations, ʿIzrāʾīl souls/tyrants/believer/rewards, Mīkāʾīl sustenance/sesame and Jibrīl assistants; all four days/natures and four wafq assignments with each repeated honorific; both first diagram labels, every cell of 3x3 and 4x4 rows including anomalous repeated 12; both subsequent labels and all fifteen irregular rows (13 seven-cell, one six-cell, final eight-cell) retained without rebuilding magic squares; closing success prayer, efficacy/desire/fear-God, seal counting/correctness/object-name, sevenfold paper/pure white silver/Monday/sunrise/lunar hour/increase and trailing conditional. Source and both targets fully checked.",
+      "findings": [],
+      "uncertainties": [
+        "Source irregular grids, repeated numbers, ragged rows and unexpected day/nature assignments retained exactly. الحجر is retained literally as stone without inferred operation."
+      ]
+    },
+    {
+      "page": 42,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_042.txt",
+          "sha256": "78641769833ab32f1e7f03719c6814ad17423cb0638ca3ca3e855fd3dd44c584"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_042.txt",
+          "sha256": "902c08e98380e737d6f15931b7ce13e24dcb95c831ea1a6082b5a5c5d14c7ed2"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_042.txt",
+          "sha256": "b1531921b6537b87170acbd397b4c332290107b32cd6e12aad6baee748d4702b"
+        }
+      },
+      "coverage": "Complete folio 36 and every prose line: opening dignity/fortune/no malefics; revenge/tyrant uncertainty, lunar disappearance/combustion/Saturn-Mars, deservedness prohibition and pardon verses, opposed incenses; airy/fire/watery/earth placements and doorways, sunlit Fāris reed, bone response; full prayer with praise grammar and seven seas quotation; all 24 vocatives in first name list and every member of second list including source majesty rather than remembered lawful provision, hearing/swift/bounty; character, acceptance and Greatest Name causal clauses; persistence/half-night/secrets/higher kingdom/angel knowledge, al-Kāfī weak-rank aspiration, lost item al-Kāfī/al-Jāmiʿ, al-Tafwīḥ, frightened/distressed, empty stomach/fire/negative breathing fragment/boiling, three appended names, lunar-hour feared person and lust removal; corrupt return fragment then descent/heavens/Throne/countless angels/faith/spheres/kings and terminal kānat. Both targets checked, no diagram.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the source then says that it does not harm him and mentions breathing upon a vessel that boils; the final wording is corrupt.]",
+          "new": "[UNCLEAR: the source then says “no harm” and “nor breathing upon a boiling vessel”; the syntax is corrupt.]",
+          "reason": "Line 28 reads قال لا ضره ولا تنفس على قدر يغلى. Syntax is corrupt, but the second explicit negative ولا must not disappear into an affirmative description of breathing."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: sumber kemudian mengatakan bahwa api itu tidak membahayakannya dan menyebut peniupan pada wadah yang mendidih; redaksi akhirnya rusak.]",
+          "new": "[UNCLEAR: sumber kemudian berbunyi “tidak membahayakan” dan “dan tidak pula bernapas pada wadah yang mendidih”; susunannya rusak.]",
+          "reason": "Line 28: قال لا ضره ولا تنفس على قدر يغلى. Preserve both negative expressions; do not silently make the second a positive breathing act."
+        }
+      ],
+      "uncertainties": [
+        "Damaged source phrases remain localized uncertainty; no astronomy, scripture, names, or quantities reconstructed from external knowledge."
+      ]
+    },
+    {
+      "page": 43,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_043.txt",
+          "sha256": "6ecbf7060020e320a1626b7a35b242024cd7020692fe95083c6784944c7f490a"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_043.txt",
+          "sha256": "2453074b6113ad87879fc4f9691a4a88fa2018f77e2e7a69093e1499b37a9312"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_043.txt",
+          "sha256": "06de8155c2d972c37d87c7ef8fe80aad43cac862e4f326aa8b053a0a2bc051f5"
+        }
+      },
+      "coverage": "Complete folio 37, all source lines: Adam 500 years, Gabriel and Abraham with each honorific, fire quotation; Moses/Syriac/sea conditional, Jesus/cradle/dead/God Most High, Solomon ring; every repeated basmalah-property transition; all recitation counts and durations (786/seven consecutive,21,50,300 and matched blessings,786/seven at sunrise,61,2500/40,121 repeated); intention/humility/discipline/secrecy, tyrant possessive, rain intention/completion, Thursday fast/oil-dates anomaly/Friday/ink/incense; full oath and male/female bearer, full-moon comparison and love/needs; connected-writing instruction, second gazelle-parchment method and four incenses, constrained sustenance/debtor/safety, forty glass-bowl writings and two waters/trailing drink. Both targets checked; no grid.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "cast its awe into that tyrant’s heart",
+          "new": "cast awe of the reciter into that tyrant’s heart",
+          "reason": "Line 14: وألقى هيبته في قلب ذلك الظالم. The masculine possessive هيبته refers to the person, not the feminine basmalah; target “its” changes whose awe is cast."
+        },
+        {
+          "language": "id",
+          "old": "melemparkan kewibawaan bacaan itu ke dalam hati orang zalim tersebut",
+          "new": "menanamkan kewibawaan pembacanya ke dalam hati orang zalim tersebut",
+          "reason": "Line 14: هيبته is the masculine person’s awe, not the awe of the recitation."
+        }
+      ],
+      "uncertainties": [
+        "Damaged source phrases remain localized uncertainty; no astronomy, scripture, names, or quantities reconstructed from external knowledge."
+      ]
+    },
+    {
+      "page": 44,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_044.txt",
+          "sha256": "7b34403aa7d13cbd0b098460b52d3a3325878bb658669f54130eedd430d2ef4e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_044.txt",
+          "sha256": "4276399376b748f0f36c7c7e1ea5a55a0d2cfe3568e1c8c912725cd65c72afc4"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_044.txt",
+          "sha256": "092461e0840ca98259b709d7ade706013c8f1f4589f0f146ce5c26c015036515"
+        }
+      },
+      "coverage": "Complete anomalous folio 31 and every prose clause: continuation water healing/difficult birth;35 house/shop,107 first Muḥarram/lifetime household,110 women/three days/paper/60-day prohibition/righteous child,61 child survival/test claim,101 crop,70 corpse/Munkar-Nakīr/resurrection; lead net and one card/ring/liquid corruption/stung person; every letter-to-divine-attribute item including duplicate alif/lām/mīm and corrupt second lām, bāʾ21/wealth/Noah verse/stung patient, mīm40 and verse endpoints, al-Raḥmān al-Raḥīm50/basmalah150/ruler,1000/14 and alternate per-prayer claim/angel dialogue; exact eight-letter broken sequence, intended person and mother, split al-Raḥ man7/slave/stone/full prevention prayer, knife331/rooster/head/threshold/insects-jinn, oil/pain/bleeding woman, al-Raḥīm190/banner/battle/weapons/illness/trailing whoever. No invented table; both target blocks checked.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "a person bitten by poison drinks it",
+          "new": "a person who has been stung drinks it",
+          "reason": "Line 14: وشربه ملسوع; ملسوع is someone stung, not someone bitten by poison."
+        },
+        {
+          "language": "en",
+          "old": "give it to the poisoned person to drink",
+          "new": "give it to the person who has been stung to drink",
+          "reason": "Line 19: وسقاها للملسوع specifies a stung person at this second occurrence as well."
+        },
+        {
+          "language": "id",
+          "old": "lalu diminum oleh orang yang terkena racun",
+          "new": "lalu diminum oleh orang yang tersengat",
+          "reason": "Line 14: ملسوع specifies a stung patient; a generic poisoned patient loses this qualification."
+        },
+        {
+          "language": "id",
+          "old": "berikan kepada orang yang terkena racun untuk diminum",
+          "new": "berikan kepada orang yang tersengat untuk diminum",
+          "reason": "Line 19 independently repeats للملسوع, the stung person."
+        },
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the source then gives a damaged instruction to write a form of the basmalah beginning with the letter bāʾ twenty-one times and place it among one’s wealth, increasing its blessing.]",
+          "new": "[UNCLEAR: the introductory words are damaged.] Write from the basmalah the following: bāʾ, twenty-one times, and place it among wealth; its blessing will increase.",
+          "reason": "Lines 17–18: كتبت من البسملة ما هكذا ب إحدى وعشرين مرة ووضعت في مال زادت فيه البركة. The displayed form is bāʾ itself, not an unspecified form merely beginning with bāʾ; the instruction/count/placement/result are readable."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: sumber kemudian memberikan instruksi rusak untuk menulis suatu bentuk basmalah yang diawali huruf bāʾ sebanyak dua puluh satu kali dan meletakkannya di antara harta agar keberkahannya bertambah.]",
+          "new": "[UNCLEAR: kata-kata pembukanya rusak.] Tulislah dari basmalah bentuk berikut: bāʾ, dua puluh satu kali, lalu letakkan di antara harta; keberkahannya akan bertambah.",
+          "reason": "Lines 17–18 show only ب as the form, then a readable count, placement and result. Do not invent an unspecified longer form beginning with bāʾ or hide the whole operation."
+        }
+      ],
+      "uncertainties": [
+        "Damaged source phrases remain localized uncertainty; no astronomy, scripture, names, or quantities reconstructed from external knowledge."
+      ]
+    },
+    {
+      "page": 45,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_045.txt",
+          "sha256": "14292650e595d38a95e006483450dfdba44f32911148776dc7077cab4bcedc33"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_045.txt",
+          "sha256": "8f79fde80bcf19b55bf3cc71cd7e81fc7e8f7690aa89d1af3c6c3878bbce46fe"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_045.txt",
+          "sha256": "1b84e730644d9a7c9d8b79bd58280b3a20396f1c655e2732081eae7046c85a0d"
+        }
+      },
+      "coverage": "Complete folio 39 and all prose/table lines: headache21; seven almonds/copper/Friday-Venus/name count/love, new mirror/Monday-sunrise/obscure affliction, silver ring/two dirhams/awe-obedience; tyrant wafq/lead/name/asafoetida-red garlic/permanent fire warning/accountability; all 20 cells of source four-row five-column formula including absent fifth row preserved; complete two-basmalah prayer, repeated peace, conditional guidance versus destruction and five vocatives/seven/700/fear God; circle eight/verse endpoint/incense/fortunate time/bearer outcomes, Pisces/fortunate ascendant/gazelle/head/count/happy-martyr/wealth-child; concealed/greatest/merciful-name exposition, two Fātiḥah correspondences, lordship/king-owner and corrupt exposition/repeated king-of-kings/sovereign quotation; lāhūt/second-first principles, witnessing/name/angel/knowledge correspondences, quadrangular-world four recipient classes and mercy ascent/trailing first. All honorifics and both targets checked.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "if he turns back from what he is doing, then guide him and grant him success",
+          "new": "if he will turn back from what he is doing, then guide him and grant him success",
+          "reason": "Line 20: إن كان يرجع عما هو فيه فاهده ووفقه. The prospective willingness/possibility of returning precedes the request to guide him; the matched negative branch is إن كنت تعلم أنه لا يرجع."
+        },
+        {
+          "language": "id",
+          "old": "apabila ia berbalik dari perbuatannya, maka berilah ia petunjuk dan taufik",
+          "new": "apabila ia akan berbalik dari perbuatannya, maka berilah ia petunjuk dan taufik",
+          "reason": "Line 20: إن كان يرجع ... فاهده ووفقه. Preserve the prospective conditional rather than making actual reform the precondition for guidance."
+        },
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the source then repeats that He is King of kings and manifests to hearts through ownership.]",
+          "new": "He is King of kings and manifests to [UNCLEAR: the source’s recipient phrase is corrupt] through conferring ownership.",
+          "reason": "Line 32: فيكون ملك الملوك ومتجليا للقر بأن بالتمليك. “Hearts” is not a readable source word here; preserve only the uncertain recipient while translating the readable repeated clause."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: sumber kemudian mengulangi bahwa Dia adalah Raja para raja dan menampakkan diri kepada hati melalui kepemilikan.]",
+          "new": "Dia adalah Raja para raja dan menampakkan diri kepada [UNCLEAR: frasa penerima dalam sumber rusak] melalui pemberian kepemilikan.",
+          "reason": "Line 32 has للقر بأن, not a readable word meaning hearts. Do not invent hati from a remembered mystical expression."
+        }
+      ],
+      "uncertainties": [
+        "Damaged source phrases remain localized uncertainty; no astronomy, scripture, names, or quantities reconstructed from external knowledge."
+      ]
+    },
+    {
+      "page": 46,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_046.txt",
+          "sha256": "f9d104a56cf14479ddbe2eb64109babe838dc155d2afa511860546a9504d52c6"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_046.txt",
+          "sha256": "7c7bd66481100a7601e3a2a888dd6a565e4c1ff4b3efde2f23f3f8edae636d89"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_046.txt",
+          "sha256": "c490c9184cea5fa40bf935db3ec6f228961b1e1fe4d0a45bbac25701c626c5c1"
+        }
+      },
+      "coverage": "Complete folio 40 through final qāla: opening circle; sound-hadith300/certainty/liberation, Gospel opening recitation/prayer/Munkar-Nakīr negation/death-grave width/body-face/accounting/scale/bridge/resurrection; Jesus question and divine response, three Jesus honorifics, disciples/errant successors/corrupt substitution/Christian-monks versus Gospel people/Prophet honorific; written locations and divine oath; mountains true-believer glorification/not hearing; Paradise response/full formula/deeds and damaged pronouns, praise and outweigh request/community honorific, three names versus heavens/earths/contents/counterparts scale, safeguard/affliction/disease/Satan and three protected punishments, corrupt exhortation/form/guidance/final said. No actual diagram in source; none invented. Both targets fully checked.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the wording about making the good deeds of the community of Muhammad, peace and blessings be upon him, outweigh is damaged].",
+          "new": "make the good deeds of the community of Muhammad, peace and blessings be upon him, outweigh.",
+          "reason": "Line 17: رب رجح حسنات أمة محمد صلى الله عليه وسلم is a readable request. The damaged following فتقول لهم ليناهم does not make this imperative unreadable."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: redaksi tentang mengunggulkan amal baik umat Muhammad, semoga selawat dan salam tercurah kepadanya, rusak].",
+          "new": "jadikanlah amal baik umat Muhammad, semoga selawat dan salam tercurah kepadanya, lebih berat.",
+          "reason": "Line 17: رب رجح حسنات أمة محمد صلى الله عليه وسلم is a readable imperative within the praise/request, not a missing passage."
+        }
+      ],
+      "uncertainties": [
+        "Damaged source phrases remain localized uncertainty; no astronomy, scripture, names, or quantities reconstructed from external knowledge."
+      ]
+    },
+    {
+      "page": 47,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_047.txt",
+          "sha256": "9cfda7fb99f74b8ea1a21aaa5f0eb97cb3819a902250daf4d71980b431f158ef"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_047.txt",
+          "sha256": "c7d8d55758bce7c3ab5607d56aac213aa3c258be40d93016465c56bd8494979d"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_047.txt",
+          "sha256": "bc90e8d5a9cf3992e31438a9e49d933161b4cf47239af72377b54b419c5b3050"
+        }
+      },
+      "coverage": "Complete folio 41, line-broken opening and all remaining prose: al-Ḥasan mercy honorific/two quotations/two identifications and alternative unity formula; beautiful writing/near ones, ʿIkrimah creation light/Tablet/Pen/command/first inscription/safeguard and seven heavens/pavilions/three groups; Adam honorific/descendants conditional, Abraham honorific/catapult/divine rescue, Solomon kingdom/proclamation/all tribes-ascetics-worshippers/David dual honorific/father niche/pulpit/reaction; Moses and Pharaoh/Qarun/Haman/each army possessive; Jesus honorific/negative divine question/response and full sign, all night-day/movement/posture/eating/all-state list, judgment forgiveness; righteous visitor/saint/crowd/corrupt rainbow-foot actor/said, visitor name al-Madīḥī, cry and striving. Both targets fully checked; no table.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "Pharaoh and his armies, Qarun, Haman, and their armies",
+          "new": "Pharaoh and his armies, Qarun, Haman, and his armies",
+          "reason": "Line 26: فرعون وجنوده وقارون وهامان وجنوده. The final singular possessive is Haman’s; “their” expands the army attribution to Qarun."
+        },
+        {
+          "language": "id",
+          "old": "Fir‘aun dan bala tentaranya, Qarun, Haman, dan bala tentara mereka",
+          "new": "Fir‘aun dan bala tentaranya, Qarun, Haman, dan bala tentara Haman",
+          "reason": "Line 26 repeats singular وجنوده after Haman, not plural وجنودهم."
+        },
+        {
+          "language": "en",
+          "old": "O son of Mary, do you know which sign has been sent down?",
+          "new": "O son of Mary, have you not learned which sign has been sent down?",
+          "reason": "Line 27: يا ابن مريم، أما علمت أي آية نزلت؟ Explicit أما makes this a negative rhetorical question; do not silently turn it positive."
+        }
+      ],
+      "uncertainties": [
+        "Damaged source phrases remain localized uncertainty; no astronomy, scripture, names, or quantities reconstructed from external knowledge."
+      ]
+    },
+    {
+      "page": 48,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_048.txt",
+          "sha256": "ea584c86c368ff75fd53d3982b7826be1407daf42f294465f77fac4518638c75"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_048.txt",
+          "sha256": "a51fcd118b49c88a3f114e248ba11b29eab7d3666da22ced82f8e929943ea00c"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_048.txt",
+          "sha256": "6ee2f7e379244d2ca38a1f1d31768e1f5e2151336855cfd03e91579b439d6d62"
+        }
+      },
+      "coverage": "Complete folio 42 through Satan ending: opening joining al-afrād/corrupt rainbow act/Abū ʿAbd Allāh and full pleasure honorific; brother/exposition/Solomon quotation/nineteen/dots/no repetition, all repeat counts and literal mm/aaa/lll/rr/ḥḥ patterns, ten/bāʾ/cold/faith/resurrection/essential/Essence/Reality; Abraham and Messenger honorifics/first revelation/creation quotation/corrupt bāʾ phrase/one-and-eight angels/source anomaly; morning three/full Greatest-Name formula/sudden affliction and paralysis alternate; Khālid honorific/deadly poison/challenge/presence/two versions/sweat/power; Noah honorific/ship/Abraham fire, anomalous entering-from-house wording versus following explicit enter/exit command, both formulas/reliance/door Satan negations; bed/Messenger honorific/no injury, Prophet honorific/no ablution, corrupt said-added fragment, leper/trust/ʿUmar honorific/source ʿUtb name/meal, eye strike/full invocation/heat-wasab, riders/travel/no harm, believer/Satan fly, all final repeated prophetic honorifics/mounting/Messenger creed/refuge ending. Both targets fully read; no grid.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the opening phrase is damaged.]",
+          "new": "[UNCLEAR: the initial word is damaged.] He joined the solitary ones (al-afrād).",
+          "reason": "Line 3: حق لحق بالأفراد. Whatever uncertainty attaches to حق, the following لحق بالأفراد is readable and must not be wholly suppressed."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: frasa pembuka rusak.]",
+          "new": "[UNCLEAR: kata pembuka rusak.] Ia bergabung dengan orang-orang yang menyendiri (al-afrād).",
+          "reason": "Line 3: لحق بالأفراد is readable after the damaged initial حق; limit uncertainty to the damaged word."
+        },
+        {
+          "language": "en",
+          "old": "[UNCLEAR: the source’s circumstance ‘when he was sent’ is abrupt]",
+          "new": "when he sent [UNCLEAR: the object or continuation is unclear]",
+          "reason": "Line 17 is vocalized حِينَ بَعَثَ, active “when he sent,” not passive بُعِثَ (“was sent”). Preserve source voice even within an uncertainty marker."
+        },
+        {
+          "language": "id",
+          "old": "[UNCLEAR: keadaan “ketika ia diutus” dalam sumber terasa terputus]",
+          "new": "ketika ia mengutus [UNCLEAR: objek atau kelanjutannya tidak jelas]",
+          "reason": "Line 17: حِينَ بَعَثَ is active; “diutus” silently changes it to passive."
+        },
+        {
+          "language": "en",
+          "old": "ʿUtbah al-Sūmī",
+          "new": "ʿUtb al-Sūmī",
+          "reason": "Line 27: عُتْبِ السُّومِي. The source name has no final tāʾ marbūṭah; do not normalize to remembered ʿUtbah."
+        },
+        {
+          "language": "id",
+          "old": "ʿUtbah al-Sūmī",
+          "new": "ʿUtb al-Sūmī",
+          "reason": "Line 27: عُتْبِ السُّومِي, not عتبة. Preserve the source name rather than harmonizing it."
+        }
+      ],
+      "uncertainties": [
+        "Damaged source phrases remain localized uncertainty; no astronomy, scripture, names, or quantities reconstructed from external knowledge."
+      ]
+    }
+  ]
+}

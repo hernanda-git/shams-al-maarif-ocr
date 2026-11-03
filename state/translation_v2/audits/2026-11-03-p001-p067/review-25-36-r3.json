@@ -1,0 +1,233 @@
+{
+  "reviewer_id": "7f59e16b-344f-4579-aa51-1006232199d1",
+  "reviewer_kind": "independent_model",
+  "pages": [
+    {
+      "page": 26,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_026.txt",
+          "sha256": "e648a3ce22271e358e23014d667464b4d752a7283977e2c41f380256c1a4c1b2"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_026.txt",
+          "sha256": "00752167df880acac1dc9404d9971f2a8a9302c787ae4f84c2b684d4bb20e043"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_026.txt",
+          "sha256": "c71ccef1ec4b9abc148b4a4e8d1b769b93395838cc283d3493cbb09cf5078370"
+        }
+      },
+      "coverage": "Read all canonical lines 1–34 and both complete target files. Checked folio -20-; repeated happy-birth/outcome/evil/debauchery/righteous clauses and flax/black seed; all seven mansion sections (Dabarān, both source Haqʿah headings, Dhirāʿ, Nathrah, Ṭarfah, Jabhah), dot/colon forms and dāl/hāʾ/wāw/zāy/ḥāʾ/ẓāʾ/bāʾ; every elemental/fortunate/unfortunate qualifier, descending spirit, all three God Most High permissions, every prohibition/exception, crafts, burial/money/secrets/wells/channels, poison antidotes, fragrant falling-down oddity, their needs, slave women/horses, measuring/weighing/travel/trade, naranjiyyāt, enemies/tyrants/rebels/rancor, weapons/signals, solitude/oath, iron shaping/wearing, every birth fate and incense item. Read canonical p025 to establish opening Thurayyā/outcome context and p027 for the closing repeated seed/myrtle continuation. All God-knows-best occurrences retained; no source normalization.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "Its incense is [UNCLEAR: the source ends at “seed,” without identifying it].",
+          "new": "Its incense is seed",
+          "reason": "p026L33–34 ends بخوره حب; the adjacent canonical p027L2 continues حب الآس وزعفران. The seed is not unidentified in the canonical sequence. Preserve the open seed wording and the source repetition at the boundary, rather than claiming unresolved identity."
+        },
+        {
+          "language": "id",
+          "old": "Dupanya adalah [UNCLEAR: sumber berakhir pada kata “biji”, tanpa menyebut jenisnya].",
+          "new": "Dupanya adalah biji",
+          "reason": "p026L33–34 بخوره حب continues in canonical p027L2 حب الآس وزعفران. Adjacent Arabic supplies the ingredient; an uncertainty about unidentified seed is unnecessary. Keep the open literal biji continuation without silently eliminating the source repetition."
+        }
+      ],
+      "uncertainties": []
+    },
+    {
+      "page": 27,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_027.txt",
+          "sha256": "df6dc04487c0fb2c29ba3951646358cab776e62942df2d64a62c155c6e97aa9b"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_027.txt",
+          "sha256": "2047c4ec053b2c02ed51f625cdcc262130bb5742d53689be9e4f21d45676b8f6"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_027.txt",
+          "sha256": "a61e077f4f3317bc8641eaf3e10d77d27c70b8a4759c628c64a5dfdb9eac968e"
+        }
+      },
+      "coverage": "Read all canonical lines 1–32 and both complete target files. Checked folio --21--; opening myrtle/saffron continuation; Ḥarthān, Ṣarfah, ʿAwāʾ, Simāk, Ghafr, Zubānā, Iklīl, Qalb, Shawlah headings in order; all dot/colon/hāʾ geometries and kāf/lām/mīm/nūn/ʿayn/ʿayn/fāʾ/ṣād/qāf assignments. Checked hot/dry/watery/earthy/mixed/fortunate qualifiers; spirits and both God Most High permissions; every medical/spiritual/talisman/royal/travel/residence/new-garment activity, every prohibition including enemies/quarrels/litigation/marriage/slaves/trees, sex qualifiers, all birth outcomes and incense recipes. Checked corrupt ḥulūlan ghayr, anomalous mixing-into-world, Zubānā iron-blow/dog-bite/enemy-speech/illness construction against honest markers. Checked Qalb preceding damage, weapons, beasts/veterinary practice, tree/crop cutting, plowing, buried material, medicine/phlebotomy/cupping, and final incomplete Shawlah planet clause. Every God-knows-best occurrence retained.",
+      "findings": [],
+      "uncertainties": []
+    },
+    {
+      "page": 29,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_029.txt",
+          "sha256": "cfe64dd6346484ca999db115e247802ea572375236ecfe1800b2d25259d10274"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_029.txt",
+          "sha256": "3fea4b12ff5cde1969dc38fa050bfb34fe1b6a28943be5c1a829ceafed1d53dc"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_029.txt",
+          "sha256": "ed7b08cc42ba6dabb1e3f81cce0a90ef34968906900faf8bc4945a0ad9f868c6"
+        }
+      },
+      "coverage": "Read all canonical lines 1–32 and both complete target files; read canonical p028 for the opening Fargh Muqaddam/dād boundary. Checked folio —12—; love/desire/quality/spirit/talisman/incomplete-medicine/royal/birth/incense opening; Muʾakhkhar 2-dot/ẓāʾ/fortunate-water/spirit/success/unpraised-actions/avoidance and medical/bath/hair/nail/intercourse-binding list; Rashā 4-dot+colon/ghayn/water/descending spirit/honored stone/dark jewel/good-work/travel/marriage/clothes/move/sages/birth/black seed. Checked both God Most High permissions and every God-knows-best. Individually verified all twelve zodiac assignments and every one-third/two-thirds quantity, including anomalous Dhirāʿ in Capricorn and the extra Aquarius star separator. Checked origins section: Sharṭayn south/north/horns/brighter Nāṭiḥ/ten cubits/two Simāk/small precursor/3 dots; Buṭayn three dim variable stars/belly/rump/horns/2-dot form; Thurayyā seven/six/one eyesight/etymology/names, exact star-fall quotation and God Most High, corrupt mā marker, Messenger honorific, rise/afflictions/fruits/other things and final Suʿūd/Muqaddam/some-said continuation. Read every numbered lossless chunk of the long Indonesian ending.",
+      "findings": [],
+      "uncertainties": []
+    },
+    {
+      "page": 30,
+      "verdict": "approved",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_030.txt",
+          "sha256": "b1d80ab7116c4703f39348d8781a096d463b033f0628c0e0c8702eee368774fe"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_030.txt",
+          "sha256": "69cec75cbbe4964affa2e12fcf508eef0c5a6ebaa3f032ac68984aa6c80609c4"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_030.txt",
+          "sha256": "7c291343b83a7b077e59093cfff2144c76334a7a8d76e3c3450b3a90482b8b76"
+        }
+      },
+      "coverage": "Read all canonical lines 1–34 and both complete target files. Checked folio —24—, both poetic lines, evening/seven/small-eyed/liver/splint/knee/wrist imagery; Thurayyā form, spread hand/Jazmā/below Sharṭayn, red large blazing Ayyūq/three followers/Aʿlām uncertainty; Dabarān Aries rump/back-to-Thurayyā/five Taurus stars/Shāmah/2-dot and red/1-dot alternatives/ʿAtīq/mountain/young she-camels/cow head. Checked Haqʿah three/fingers/head/circle/rider/Ibn ʿAbbās dual honorific/divorce count quotation; Hanʿah five/two/three/bending etymology; Dhirāʿ two/claws/whip/extended-clenched/higher and Ghamīṣāʾ Milky Way/companion/tears/Suhayl uncertainty; Nathrah patch/cloud/nose/three/mouth/nostril; Ṭarfah two then four/bright Yamāniyy/whip/opposition/missing form; Jabhah two/corrupt comparison/shoulder hair/whip/3 dots; Simāk bright pair/lunar-membership negation/legs/shanks/spear/isolation/etymology/missing Aʿzal form/2-dot Rāmiḥ/hindquarters/corrupt Yemeni-Syrian relation; Ghafr three/descends/Libra/tail hair/2 dots; Zubānān two bright/claws/2 dots; Iklīl four/4 dots/alternative three/scorpion head. Retained every source oddity and honest uncertainty, not remembered astronomy.",
+      "findings": [],
+      "uncertainties": []
+    },
+    {
+      "page": 32,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_032.txt",
+          "sha256": "b9151fbbcd3f51f1f868bd338f77f5ab0685c28552373e6fb7aaa005a60e233b"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_032.txt",
+          "sha256": "a9de1a9a3ac0b1da2ac08c796a219dc0febc66700d00d5a8ef99457a0d755829"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_032.txt",
+          "sha256": "caeb697aeb9247b6b84c5faa4e9947ded27b972f99de09d4f118d0d36c68aacc"
+        }
+      },
+      "coverage": "Read all canonical lines 1–34 and both full target files including final chapter heading and Know; read canonical p031 in full. Verified p031L33 وطلوع الذراع → p032L3 لأربع خلون من تموز: lower-case fourth-night opening is deliberate, not an unknown antecedent. Individually checked every rising/date/month/remaining-two-nights clause through Nīsān, including unspecified Shiʿrā date; all four seasonal lists in exact order and anomalous summer-six versus stated seven; narration chain Kindī/Khawlānī/Manāwī and Kindī God Most High mercy honorific. Checked every rhymed conditional from Sharṭayn through Samakah, pomegranate/branches/homeland/neighbors/poor/debt/shepherd cloak/tomorrow waterskin, fires/pools/protection/Sun rays/drink/calf/no drop/Abū Ḍayf/snakes/owners/bridge/muʿyān/maqālīl/easy difficulty/old man urination/blessings/ʿaṣīdah butter-ghee bottom/protected mourner/cloaks/glitter/rr al-kalā/serve-no-regret/hurry-no-delay/movement/thorn. Checked all markers against actual corrupt source, God-knows-best twice and chapter-four/twelve-signs/correlations heading. Read all lossless numbered chunks of both long date-list lines.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "the Sun's rays are stripped away",
+          "new": "the Sun bares its rays",
+          "reason": "p032L23 حسرت الشمس الشعاع makes the Sun the actor baring/exposing the rays, not rays being removed. The Indonesian tersingkap already retains exposure. p031L33 وطلوع الذراع explicitly supplies the opening p032 date antecedent; that opening is not defective."
+        }
+      ],
+      "uncertainties": []
+    },
+    {
+      "page": 33,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_033.txt",
+          "sha256": "4daf3cae9b6ded5a91df66d803a1be88cf5d6dd07239097a72fb26b08245d18a"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_033.txt",
+          "sha256": "0613b003d7d5e43c199ee5712dfaeb66679732450509a58ad28f0d59fd8fd3b2"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_033.txt",
+          "sha256": "437428a40434d3bf54d52a22396965546334e5a1db641a5d9ca8eda8cba4a019"
+        }
+      },
+      "coverage": "Read all canonical lines 1–33 and both complete target files; read canonical p034 to check the closing counted-unit boundary (next word is corrupt نوليا, not a supplied clear unit). Checked folio —27—, repeated-you invocation marker, twelve/twenty-eight, all six God Most High quotation-introductions with exact source-limited fragments, burj singular/palace/fortress, all twelve signs, seven planetary domiciles exactly as source including no invented Sagittarius/Jupiter domicile, four natures and each three-sign fire/earth/air/water triplicity. Checked table cell-by-cell: twelve Roman months, twelve signs, twelve first mansion cells including Mahj/Kabl, eleven final-row cells with no invented twelfth cell. Checked all tafsir alternatives/fortress proof/Ibn ʿAbbās dual honorific/God Most High/quarter-triad/7/32/5/3/11 anomalies and markers, Taurus opposing orientations/head-horns/halves/Thurayyā/Dabarān; Gemini 18+7/twin hand-on-shoulder/north/eastern legs/west feet; Cancer 6+4/east front/west-and-south rear/behind Twins/lambs/eight/upright/bright Leo stars; fifth Virgo/Virgin/26 unresolved unit. Read every lossless numbered chunk of both long opening and tafsir lines.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "with its front toward the east and its rear toward the west. The south is behind the Twins.",
+          "new": "with its front toward the east and its rear toward the west and south, behind the Twins.",
+          "reason": "p033L31–32 مقدمه إلى ناحية المشرق ومؤخره إلى المغرب والجنوب في أثر التوأمين coordinates west and south as the rear direction and locates the figure behind the Twins; it does not assert that south itself is behind them."
+        },
+        {
+          "language": "id",
+          "old": "bagian depan mengarah ke timur dan bagian belakang ke barat. Selatan berada di belakang Si Kembar.",
+          "new": "bagian depan mengarah ke timur dan bagian belakang ke barat dan selatan, di belakang Si Kembar.",
+          "reason": "p033L31–32 ومؤخره إلى المغرب والجنوب في أثر التوأمين retains the rear as the subject of the coordinated west/south orientation. Making Selatan a separate subject changes the geometry."
+        }
+      ],
+      "uncertainties": []
+    },
+    {
+      "page": 35,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_035.txt",
+          "sha256": "15a65b1b23f4374d2fd8a29cd9b363c296679ed22ff846adddccd5789bd1b59e"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_035.txt",
+          "sha256": "3afcf090db763da92bf3d4d453833329c2831beb371a4b57079aa4fcfc48b9e3"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_035.txt",
+          "sha256": "318ccda9dd09b59b522a9624bc414f589c69abd660cc83f5df9a3d576e0e7f3b"
+        }
+      },
+      "coverage": "Read all canonical lines 1–35 and both complete target files; canonical p034 and p036 read for boundaries. Checked folio —29—; ancients versus sacred-law heavens, Ibn ʿAbbās versus ʿAbbās ibn ʿAbd al-Muṭṭalib variant, Baṭḥāʾ cloud/muzn/ʿanān exchanges and silence, all three initial Prophet blessing occurrences, five-hundred-year journey/each-heaven thickness/seventh-heaven sea/same distance/world/corrupt son-of-heaven phrase/God Most High/no hidden deeds/seven-heaven-earth quotation/angel single hour/devil-before-angel odd claim. Checked Abū Razīn full God Most High pleasure honorific and both question-answer distances; Thaʿlabī/Ibn ʿAbbās/360 apertures/negation-year corrupt marker. Checked all five solar theological indications, Creator glorification and exaltation, distance/near response/provision none excluded/eclipse/resurrection/cloud-covering-knowledge, all six solar benefits including ripening without cost, travel, no fixed position, seasonal high-low, lunar dominion reciprocal non-nullification, fourth sphere/transparency/dense cloud and God-knows-best. Checked Abū Hurayrah report with both source Yes responses and both Prophet blessing occurrences; brighter Sun/Moon-derived-light question, two reasons, Moon breaking/Gabriel wing/heart/sunlight comparison/two divine reparations/monthly eyes/Muḥammad sixth Prophet blessing/greatest-highest example; God Most High non-encompassing-eyes quotation and perceiver/ray continuation. All seven plain God Most High occurrences plus His Most High proof-form and Creator glorified/Most High retained. Read all numbered lossless chunks of both long opening reports.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "Second, it was broken for the sake of the Truth",
+          "new": "Second, the Moon was broken for the sake of the Truth",
+          "reason": "p035L30–33 contrasts the Sun with the Moon, then الثاني أنه انكسر لأجل الحق ... لما لطم جبريل ضوء القمر بجناحه انكسر قلبه. The second reason concerns the Moon, whereas the immediately preceding target reason is about the Sun and its light; name the Moon to avoid changing the actor."
+        },
+        {
+          "language": "id",
+          "old": "Kedua, ia pecah demi kebenaran",
+          "new": "Kedua, Bulan pecah demi kebenaran",
+          "reason": "p035L30–33 الثاني أنه انكسر ... لما لطم جبريل ضوء القمر ... انكسر قلبه explicitly explains the Moon’s breaking. After the first reason about cahaya Matahari, ia ambiguously binds to the wrong celestial body; state Bulan."
+        }
+      ],
+      "uncertainties": []
+    },
+    {
+      "page": 36,
+      "verdict": "rework",
+      "files": {
+        "source": {
+          "path": "ocr/enriched/page_036.txt",
+          "sha256": "2caf20950865a029bdc1cc753f3bc9b4d5035cc48b85b6d8f9b9f4c734342e7c"
+        },
+        "english": {
+          "path": "ocr/enriched_en/page_036.txt",
+          "sha256": "7c66800af83e4119f3565a5f7519471e8cb1f88b2df56c21e0cb022170052347"
+        },
+        "indonesian": {
+          "path": "ocr/enriched_id/page_036.txt",
+          "sha256": "8d0f8f90943461b3374a32d4d3bde48af0202408291cf5b2e5e1c259101a25d5"
+        }
+      },
+      "coverage": "Read all canonical lines 1–36 and both complete target files; p035 read to establish opening sight/ray continuation. Checked folio —20—, Creator glorified/Most High and corrupt predicate, Moon lamp/our Prophet full blessing/split-Moon quotation, mansions/time/99 light parts/night-day quotation/work/no distinction, ʿAlī Commander title/full honor-face prayer/naked sleep/leprosy/washed garment/fraying/color and God-knows-best. Individually checked all 28 named mansions in source order including Suʿūd before Dhābiḥ and Khurthān/Balaʿ spellings. Checked four-stars heading, both God Most High navigation quotations, Saʿīd ibn Jubayr/Ibn ʿAbbās singular pleasure prayer/lofty-beneficial/incapacity/corrupt restrictions marker; agreed solar-derived lunar light versus differed twenty-two stars; Jady/qiblah/North Pole, both 3-above+3-below sets, Farqadān/other-star dual ambiguity, fixed-place dual possessive, pole/butterfly alternative, no-Moon/bright-Moon/sharp-eyes, Suhā eyesight test, Banāt corruption and last Jady, exact Suhā/Moon proverb. Checked qiblah positioning actor and Shām behind-back/Iraq back-right-ear/Egypt above-back-left-ear/House door/Station/back-to-Farqadān-or-Banāt; bright pair/pole/seven=4 bier+3 daughters/lesser group/no Sun-or-Moon at either pole; South Jady/Suhayl/Arabian-Peninsula-only assertion/south wind/west/qiblah/setting/separate Yemeni star/left-qiblah/Iraq-Shām/Armenia negation/corrupt Ḥijāz/ten-odd nights/torrent warning/1022 and tenth-in-twelve uncertainty. Every honorific checked, no astronomical normalization. Read both lossless numbered chunks of the long Indonesian polar paragraph.",
+      "findings": [
+        {
+          "language": "en",
+          "old": "The method of knowing the qiblah is to place it behind your back",
+          "new": "The method of knowing the qiblah is to place al-Jady behind your back",
+          "reason": "p036L23–26 explicitly identifies والجدي الذي يعرف به القبلة ... وكيفية معرفة القبلة أن تجعله وراء ظهرك. The qiblah guide is al-Jady. The intervening al-Suhā proverb mentions both al-Suhā and the Moon, so target it does not reliably preserve that antecedent."
+        },
+        {
+          "language": "id",
+          "old": "Cara mengetahui kiblat adalah menempatkan bintang itu di belakang punggungmu",
+          "new": "Cara mengetahui kiblat adalah menempatkan al-Jady di belakang punggungmu",
+          "reason": "p036L23–26 identifies al-Jady as the qiblah guide (والجدي الذي يعرف به القبلة) before the intervening al-Suhā proverb. Explicit al-Jady prevents bintang itu from silently identifying al-Suhā as the positioning star."
+        }
+      ],
+      "uncertainties": []
+    }
+  ]
+}
