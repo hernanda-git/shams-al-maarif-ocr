@@ -3,7 +3,7 @@
   "total_pages": 604,
   "sequence_policy": "strict-lowest-uncommitted",
   "created_at": "2026-09-25T03:54:12+00:00",
-  "updated_at": "2026-09-28T09:23:46+00:00",
+  "updated_at": "2026-11-03T04:08:46+00:00",
   "active_page": null,
   "pages": {
     "1": {
@@ -1709,17 +1709,30 @@
     },
     "64": {
       "page": 64,
-      "status": "pending",
-      "attempts": 0,
-      "owner": null,
-      "claimed_at": null,
-      "heartbeat_at": null,
-      "review_submitted_at": null,
-      "reviewer": null,
-      "validator": null,
+      "status": "committed",
+      "attempts": 1,
+      "owner": "dsh-worker",
+      "claimed_at": "2026-11-03T04:05:26+00:00",
+      "heartbeat_at": "2026-11-03T04:08:13+00:00",
+      "review_submitted_at": "2026-11-03T04:08:13+00:00",
+      "reviewer": "human-reviewer",
+      "validator": {
+        "ok": true,
+        "page": 64,
+        "source_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched/page_064.txt",
+        "english_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_en/page_064.txt",
+        "indonesian_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_id/page_064.txt",
+        "json_path": "C:/Working Folder/Research/shams-al-maarif-ocr/web/public/manuscript.json",
+        "blank_source": false,
+        "english_block": "— 58 —\n\n| 3 | 26 | 25 | 24 | 76 | 61 | 54 | 47 | 14 | 51 |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| 28 | 62 | 74 | 5 | 20 | 12 | 72 | 54 | 46 | 3 |\n| 84 | 20 | 78 | 14 | 16 | 67 | 92 | 87 | 77 | 41 |\n| 94 | 88 | 38 | 45 | 65 | 21 | 28 | 14 | 75 | 86 |\n| 94 | 27 | 27 | 70 | 71 | 52 | 45 | 94 | 95 | 80 |\n| 59 | 98 | 33 | 33 | 56 | 49 | 12 | 17 | 78 | 7 |\n| 9 | 82 | 67 | 97 | 52 | 50 | 12 | 74 | 95 | 38 |\n| 62 | 58 | 70 | 61 | 71 | 57 | 71 | 45 | 34 | 40 |\n| 20 | 59 | 77 | 98 | 11 | 10 | 88 | 67 | 25 | 61 |\n| 37 | 57 | 81 | 9 | 73 | 47 | 24 | 34 | 22 | 19 |\n\nAnd these are the Most Beautiful Names of God; may God benefit by them. Among them is His name, God Most High, the Merciful, the Compassionate, and they are two majestic, mighty names, and supplication by them is beneficial for the distressed and a security for the fearful. So whoever engraves them on Friday at the end of the day in a silver ring and seals with it, then he will never see anything disliked. And whoever increases in their remembrance, he will be gently attended to in all his states. And the womb: whoever joins it, and the khawāyim, whoever cuts it, it cuts him. And if you look and verify, you will find Muḥammad and the Merciful gathered together in the secret and the whispered counsel, and the seven ḥawāmīm. * And whoever writes His name, God Most High, the Merciful, in a vessel at the exaltation of the moon and erases it with rainwater and drinks from it, whoever has wretchedness in his heart, it will depart from him by permission of God Most High. And this is its form as you see. * And as for His name, God Most High, the Compassionate, whoever writes it at the exaltation of the moon and carries it with him, God Most High will secure him from all afflictions and all disliked things, and hard hearts will soften for him. And this is its form. * And as for His name, God Most High, the Holy, whoever increases in His remembrance, God Most High will remove from him the carnal desires. * And as for His name, God Most High, the King, whoever increases in His remembrance, the pharaohs and the tyrants will become submissive to him and enter under his dominion. * And as for the name, Peace, whoever increases in His remembrance, God Most High will secure him from all afflictions. And whoever increases in His remembrance until a state from it overcomes him, then he holds the snake and the scorpion, for they will not harm him at all. And it has a great secret: whoever writes it and carries it and enters with it upon an oppressor, it will deliver him from him, and no weapon will work upon him. And this is its form as you see. * And as for His name, God Most High, the Believer, whoever increases in His remembrance every day 1132 times, God Most High will secure him from stabbings and plague. * And as for His name, God Most High, the Guardian, whoever engraves it on a ring five times at the exaltation of the moon and seals with it, he will be protected from the evil of the jinn devil.",
+        "indonesian_block": "— 58 —\n\n| 3 | 26 | 25 | 24 | 76 | 61 | 54 | 47 | 14 | 51 |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| 28 | 62 | 74 | 5 | 20 | 12 | 72 | 54 | 46 | 3 |\n| 84 | 20 | 78 | 14 | 16 | 67 | 92 | 87 | 77 | 41 |\n| 94 | 88 | 38 | 45 | 65 | 21 | 28 | 14 | 75 | 86 |\n| 94 | 27 | 27 | 70 | 71 | 52 | 45 | 94 | 95 | 80 |\n| 59 | 98 | 33 | 33 | 56 | 49 | 12 | 17 | 78 | 7 |\n| 9 | 82 | 67 | 97 | 52 | 50 | 12 | 74 | 95 | 38 |\n| 62 | 58 | 70 | 61 | 71 | 57 | 71 | 45 | 34 | 40 |\n| 20 | 59 | 77 | 98 | 11 | 10 | 88 | 67 | 25 | 61 |\n| 37 | 57 | 81 | 9 | 73 | 47 | 24 | 34 | 22 | 19 |\n\nDan ini adalah nama-nama Allah yang indah, Allah memberi manfaat dengannya; di antaranya adalah nama-Nya Yang Mahatinggi ar-Rahman ar-Rahim, dan keduanya adalah dua nama yang agung lagi besar, dan doa dengannya bermanfaat bagi orang-orang yang terdesak dan keamanan bagi orang-orang yang takut; maka barang siapa mengukir keduanya pada hari Jumat di akhir siang pada cincin dari perak dan menyegel dengannya, maka sesungguhnya ia tidak melihat sesuatu yang dibenci selama-lamanya; dan barang siapa memperbanyak mengingat keduanya, ia akan diliputi kelembutan dalam semua keadaannya; dan rahim, barang siapa menyambungnya, dan al-khawaim barang siapa memutuskannya, aku memutuskannya; dan jika engkau melihat dan meneliti, engkau akan mendapati Muhammad dan ar-Rahman berkumpul dalam rahasia dan bisik-bisik dan al-hawamim yang tujuh * Dan barang siapa menulis nama-Nya Yang Mahatinggi ar-Rahman dalam sebuah bejana pada syaraf bulan dan menghapusnya dengan air hujan dan meminumnya, orang yang di dalam hatinya ada kesialan akan hilang darinya dengan izin Allah Yang Mahatinggi, dan ini bentuknya sebagaimana engkau lihat * Dan adapun nama-Nya Yang Mahatinggi ar-Rahim, barang siapa menulisnya pada syaraf bulan dan membawanya bersamanya, Allah Yang Mahatinggi mengamankannya dari seluruh bencana dan hal-hal yang dibenci semuanya dan melunakkan baginya hati-hati yang keras, dan ini bentuknya * Dan adapun nama-Nya Yang Mahatinggi al-Quddus, barang siapa memperbanyak mengingat-Nya, Allah Yang Mahatinggi menghilangkan darinya syahwat-syahwat nafsani * Dan adapun nama-Nya Yang Mahatinggi al-Malik, barang siapa memperbanyak mengingat-Nya, tunduk kepadanya para fir'aun dan para tiran dan mereka masuk di bawah kekuasaannya * Dan adapun as-Salam, barang siapa memperbanyak mengingat-Nya, Allah Yang Mahatinggi menyelamatkannya dari semua bencana; dan barang siapa memperbanyak mengingat-Nya hingga menguasai atasnya darinya suatu keadaan, kemudian ia memegang ular dan kalajengking, maka keduanya tidak membahayakannya selama-lamanya; dan baginya rahasia yang agung; maka barang siapa menulisnya dan membawanya dan masuk dengannya kepada seorang zalim, ia menyelamatkannya darinya dan senjata tidak bekerja padanya, dan ini bentuknya sebagaimana engkau lihat * Dan adapun nama-Nya Yang Mahatinggi al-Mu'min, barang siapa memperbanyak mengingat-Nya setiap hari 1132 kali, Allah Yang Mahatinggi mengamankannya dari tusukan-tusukan dan tha'un * Dan adapun nama-Nya Yang Mahatinggi al-Muhaymin, barang siapa mengukirnya pada cincin lima kali pada syaraf bulan dan menyegel dengannya, ia dipelihara dari kejahatan setan jin",
+        "record_found": true,
+        "errors": [],
+        "warnings": []
+      },
       "last_error": null,
-      "commit_sha": null,
-      "committed_at": null
+      "commit_sha": "3bd8d27b7cfb538082ad34aa1e6deebcd3ee41b4",
+      "committed_at": "2026-11-03T04:08:46+00:00"
     },
     "65": {
       "page": 65,
