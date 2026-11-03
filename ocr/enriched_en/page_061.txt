@@ -44,12 +44,11 @@ Arabic:
 ( فصل في قسمة الأعوان على الأقطار الأربعة ) فأعوان صاحب الشرق وجهائيل وحمراءيل
 
 English:
-- 55 -
+— 55 —
 
 By permission of God Most High: whoever carries it, his good multiplies, and
 provision is made easy for him from a quarter he does not reckon on; and in it,
-for companionship and for love and affection, there is what surpasses all
-measure for whoever reflects upon that. And its figure comes among the figures
+for companionship and for love and affection, there is an abundance for whoever reflects upon that. And its figure comes among the figures
 for the seven days, if God Most High wills.
 
 *
@@ -58,7 +57,7 @@ Know that whoever is granted an opening into a secret of the secrets of the
 mim, and into its compassing and its enfolding, and into what it contains of
 worlds, witnesses the wonders of the existences. Whoever wants memorisation to
 be made easy for himself, let him write this numerical secret on a Thursday,
-while he is in a state of purity, facing the qiblah, and with him the name of
+while he is in a state of purity, facing the qiblah, and along with it the name of
 the Prophet, peace and blessings be upon him, forty times; and let him fumigate
 it and drink it down with water and the honey of bees, and let him say: O God,
 by the blessing of what I have drunk, make memorisation and understanding light
@@ -71,11 +70,12 @@ which the mim stands. With this resolve, the opening comes to be.
 
 Whoever writes it and carries it on his right upper arm and walks among his
 enemies, God Most High saves him from them and humiliates them. And whoever
-enters with it upon one whose evil he fears, or upon a stubborn tyrant, is
-humbled before him and submits; and God Most High seals his heart and his
-arrogance between his hands, his soul is cut off from his own wish, and God Most
-High grants him what he seeks and suffices him against his evil, because of the
-wondrous secrets within it.
+enters with it upon someone whose evil he fears, or upon a stubborn tyrant,
+that feared person or tyrant is humbled before the bearer and submits. God Most
+High seals that person's heart and tyranny before the bearer; that person's
+will is cut off in favor of the bearer's purpose. God Most High grants the bearer
+what he seeks and protects him from that person's evil, because of the wondrous
+secrets within it.
 
 *
 
@@ -94,9 +94,9 @@ creatures. And this is its figure:
 | 66 | 71 | 25 | 88 | ʿanhā | 71 | 14 | 111 |
 | 19 | 107 | 80 | 22 | 92 | 107 | 70 | 120 |
 
-[UNCLEAR: the source's sixth cell in the sixth and seventh rows is the word
-'about it' rather than a numeral, apparently a mis-copied cell of the figure;
-it is left untranslated so the geometry of the grid is preserved.]
+[UNCLEAR: the sixth cell of row six and the fifth cell of row seven read
+'ʿanhā' ('from/about it') rather than numerals; their intended numerical
+values are unclear.]
 
 (The Eighth Chapter on the four harmonies and what is peculiar to it of the
 circular chapters)
@@ -122,4 +122,4 @@ of the west is for the season of winter, and the lord of the north is for the
 season of spring, and the lord of the south is for the season of autumn.
 
 (A chapter on the distribution of the helpers over the four quarters) So the
-helpers of the lord of the east are Wajhā’īl and Ḥamrā’īl’īl’īl’īl’īl’īl
+helpers of the lord of the east are Wajhā’īl and Ḥamrā’īl
