@@ -3,9 +3,9 @@
 The V2 tracker's own page validator checks STRUCTURE only. Three defect
 classes pass it:
 
-  untranslated  a target block still contains a run of Arabic prose. A magic
-                square's grid CELLS are legitimately Arabic, so the test is
-                the length of the longest run, not the presence of any Arabic.
+  untranslated  a target block contains any Arabic-script characters, including
+                citation markers, short grid cells, and presentation forms.
+                Style V2 requires Latin transliteration even inside grids.
   wrong-page    the block opens with a folio that is not its page's - it is a
                 neighbour's text copied forward. Page 61 was 91.9% identical
                 to page 60 and the validator said PASS.
@@ -27,54 +27,56 @@ from __future__ import annotations
 import argparse
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from recover_sibling_blocks import blocks_for, clean, parse_blocks  # noqa: E402
+from verify_translation_v2_page import _is_explicit_no_text  # noqa: E402
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 TOTAL = 604
 FOLDERS = {"enriched_en": "English", "enriched_id": "Indonesia"}
-AR_RUN = re.compile(r"[\u0600-\u06FF]+")
+# Arabic blocks include marks, digits, punctuation, and presentation forms.
+# Latin punctuation and ordinary mathematical symbols are not contamination.
+AR_RUN = re.compile(
+    r"[\u0600-\u06FF\u0750-\u077F\u0870-\u089F\u08A0-\u08FF"
+    r"\uFB50-\uFDFF\uFE70-\uFEFC\U00010E60-\U00010E7F"
+    r"\U00010EC0-\U00010EFF\U0001EE00-\U0001EEFF]+"
+)
 AR_DIGITS = str.maketrans("٠١٢٣٤٥٦٧٨٩", "0123456789")
-# a run this long is prose, not a one-letter grid cell
-PROSE_RUN = 4
-
-# Quotation and citation markers that are CORRECT to leave in the source
-# script. ذكره ('he mentioned') appears 33 times in p065's English; it is how
-# the manuscript attributes a statement, and rendering it into English would
-# be wrong. Flagging these sent workers to repair pages that were fine.
-# 81 blocks across the corpus are in this category.
-BENIGN_ARABIC = {
-    "ذكره", "ذكرها", "ذكرهم", "ذكر",      # he/she mentioned it
-    "الله", "تعالى", "صلى", "عليه", "وسلم",  # the formulaic honorific
-    "قسم", "صدق", " amen",
+# Exact canonical descriptions on p003 and p005, not a substring/keyword guess.
+DESCRIPTIVE_NO_TEXT_SOURCES = {
+    "هذا المستند عبارة عن صفحة فارغة (غلاف داخلي أو صفحة بيضاء) ولا يحتوي على أي نصوص عربية.",
+    "هذه الصفحة فارغة ولا تحتوي على أي نص.",
 }
+NO_TEXT_MARKERS = {"English": "[NO VISIBLE TEXT]", "Indonesia": "[TIDAK ADA TEKS TERLIHAT]"}
 
 
 def arabic_prose_runs(body: str) -> list[str]:
-    """Arabic runs that are untranslated PROSE, ignoring citation markers.
+    """Return every contiguous Arabic-block run, including single characters.
 
-    Single letters are magic-square or table cells, which the style guide
-    requires preserving. A citation marker is attribution, not a gap. What
-    remains is a word or clause a translator left unrendered.
+    The public name is retained for compatibility; these are contamination
+    runs, not a prose classifier. No words, grid cells, or honorifics are exempt.
+    Counts are diagnostic character counts, never evidence of semantic coverage.
     """
-    return [
-        r
-        for r in AR_RUN.findall(body)
-        if len(r) >= PROSE_RUN and r not in BENIGN_ARABIC
-    ]
+    return AR_RUN.findall(body)
 
 
 def needs_honorific(source: str) -> bool:
-    """Does this page's source actually carry الله تعالى?
+    """Match the actual adjacent الله تعالى phrase, ignoring vocalization.
 
-    Not merely الله - that word appears in ordinary sentences ('no god but
-    God', 'the Names of God') far more often than it carries the honorific.
-    تعالى is the honorific marker, so the two are required together.
+    Whitespace may include line breaks; disconnected occurrences of the two
+    words do not establish this honorific. Normalize presentation forms too.
+    Allow common attached conjunction/preposition clitics (بالله، والله، لله),
+    but not arbitrary word prefixes or intervening words.
     """
-    return "\u0627\u0644\u0644\u0647" in source and "\u062a\u0639\u0627\u0644\u0649" in source
+    normalized = "".join(
+        char for char in unicodedata.normalize("NFKD", source)
+        if not unicodedata.category(char).startswith("M") and char != "ـ"
+    )
+    return bool(re.search(r"(?<!\w)[وف]?(?:[بك]?الله|لله)\s+تعالى(?!\w)", normalized))
 
 
 def leading_folio(text: str) -> str | None:
@@ -124,18 +126,22 @@ def triage(page: int) -> list[str]:
             problems.append(f"{short}: no {label} block")
             continue
         body = body[0]
-        if body.strip() in ("[NO VISIBLE TEXT]", "[TIDAK ADA TEKS TERLIHAT]"):
-            pass
+        blank_source = _is_explicit_no_text(source) or source in DESCRIPTIVE_NO_TEXT_SOURCES
+        if body.strip() in NO_TEXT_MARKERS.values():
+            if not blank_source:
+                problems.append(f"{short}: NO TEXT marker over nonblank canonical source")
+            elif body.strip() != NO_TEXT_MARKERS[label]:
+                problems.append(f"{short}: incorrect no-text marker for {label}")
         elif len(body) < 40:
             problems.append(f"{short}: EMPTY ({len(body)}c)")
-            continue
+        # Even a short/empty-looking block must be checked for contamination.
 
         runs = arabic_prose_runs(body)
         if runs:
             total = sum(len(r) for r in runs)
             longest = max(len(r) for r in runs)
             problems.append(
-                f"{short}: UNTRANSLATED {total} Arabic letters in {len(runs)} "
+                f"{short}: UNTRANSLATED {total} Arabic characters in {len(runs)} "
                 f"run(s), longest {longest} (e.g. {runs[0]!r})"
             )
 
@@ -161,7 +167,7 @@ def triage(page: int) -> list[str]:
                 # its source contains no الله at all.
                 problems.append("en: honorific not the mandated 'God Most High'")
         else:
-            if "Ta\u2018ala" in body or "Ta\u2019ala" in body:
+            if re.search(r"\bTa['‘’]ala\b", body, re.IGNORECASE):
                 problems.append("id: honorific not the mandated 'Yang Mahatinggi'")
     return problems
 
