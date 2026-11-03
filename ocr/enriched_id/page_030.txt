@@ -35,13 +35,12 @@ Arabic:
 الْعَقْرَبِ
 
 Indonesia:
-24
+— 24 —
 
-[Puisi]
+Apabila al-Thurayyā tampak pada waktu petang § orang yang bermata kecil melihatnya sebagai tujuh bintang.
+Ia mengikuti hati al-Ḥarrāʾ, seakan-akan merupakan § bidai pada lutut di atas pergelangan tangan.
 
-Apabila al-Thurayyā tampak pada waktu petang, orang yang bermata kecil melihatnya sebagai tujuh bintang. § Ia mengikuti hati al-Ḥarrāʾ, seakan-akan merupakan bidai pada lutut di atas pergelangan tangan.
-
-Bentuk al-Thurayyā adalah sebagai berikut: 0 0 0. § Al-Kaff al-Khaḍīb adalah al-Thurayyā yang terbentang, dan ia memiliki bagian lain yang disebut al-Jazmā, yang berada di bawah al-Sharṭayn. Al-ʿAyyūq adalah bintang merah besar, dan tiga bintang mengikuti di belakangnya; di antaranya ada yang disebut al-Aʿlām. Mereka adalah pengikut manzilah-manzilah Bulan, dan kami menyebutnya di sini hanya karena kedekatannya dengan al-Thurayyā. §
+Bentuk al-Thurayyā adalah sebagai berikut: 0 0 0. § Al-Kaff al-Khaḍīb adalah al-Thurayyā yang terbentang, dan ia memiliki bagian lain yang disebut al-Jazmā, yang berada di bawah al-Sharṭayn. Al-ʿAyyūq adalah bintang merah besar yang menyala, dan tiga bintang mengikuti di belakangnya; [UNCLEAR: hubungan penamaan al-Aʿlām dalam sumber tidak lengkap]. Mereka adalah pengikut manzilah-manzilah Bulan, dan kami menyebutnya di sini hanya karena kedekatannya dengan al-Thurayyā. §
 
 Adapun al-Dabarān, ia adalah bokong Aries. Ia dinamai demikian, menurut suatu pendapat, karena membelakangi al-Thurayyā. Sebagian orang mengatakan bahwa ia adalah lima bintang di Taurus yang disebut Shāmah, dan bentuknya sebagai berikut: 0 0. § Dikatakan pula bahwa ia adalah sebuah bintang merah, dan bentuknya sebagai berikut: 0. § Al-Dabarān juga disebut al-ʿAtīq karena menyerupai gunung yang besar. Di depannya terdapat bintang-bintang kecil yang disebut al-Qalāṣ, yaitu unta-unta betina muda. Apabila berkumpul, bintang-bintang itu tampak seperti kepala sapi, dan al-Dabarān mengikuti al-Thurayyā. §
 
@@ -49,22 +48,20 @@ Adapun al-Haqʿah, ia adalah tiga bintang yang sebagian berdekatan dengan sebagi
 
 Adapun al-Hanʿah, ia adalah lima bintang yang terpisah-pisah: dua bintang besar dengan tiga bintang kecil di antara keduanya. Secara lahiriah jumlahnya lima, dan bentuknya sebagai berikut: 0 0 0 0 0. § Al-Hanʿah dinamai demikian karena masing-masing condong kepada pasangannya. Dikatakan, “haʿat al-shayʾ” apabila engkau membengkokkannya. §
 
-Adapun al-Dhirāʿ, ia adalah lengan, yaitu lengan singa, dan terdiri atas dua bintang yang bercahaya. Dikatakan pula bahwa keduanya adalah dua bintang dengan bintang-bintang kecil di antara keduanya, seakan-akan merupakan cakar-cakar singa. Dalam pandangan mata, jarak di antara keduanya sepanjang cambuk. Keduanya adalah dua lengan, yang satu terbentang dan yang lain mengepal; keduanya tidak berada pada satu garis dengan lengan, dan yang terbentang lebih tinggi daripada al-Simāk.
+Adapun al-Dhirāʿ, ia adalah lengan, yaitu lengan singa, dan terdiri atas dua bintang yang bercahaya. Dikatakan pula bahwa keduanya adalah dua bintang dengan bintang-bintang kecil di antara keduanya, seakan-akan merupakan cakar-cakar singa. Dalam pandangan mata, jarak di antara keduanya sepanjang cambuk. Keduanya adalah dua lengan, yang satu terbentang dan yang lain mengepal; yang mengepal tidak berada pada satu garis dengan lengan, dan yang terbentang lebih tinggi daripada al-Simāk.
 
-Yang lebih besar di antara keduanya disebut al-Shiʿrā al-Ghamīṣāʾ karena tidak mampu menyeberangi Bimasakti, lalu pasangannya menyusulnya, dan ia menangis sampai matanya menjadi kabur. Dikatakan pula bahwa ia menangis karena tidak berhasil menyusul Suhayl. §
+Yang lebih besar di antara keduanya disebut al-Shiʿrā al-Ghamīṣāʾ karena tidak mampu menyeberangi Bimasakti, dan ia menyusul pasangannya [UNCLEAR: subjek kata kerja “menyusul” tidak disebutkan secara jelas], dan ia menangis sampai matanya menjadi kabur. Dikatakan pula bahwa ia menangis karena tidak berhasil menyusul Suhayl. §
 
 Adapun al-Nathrah, terdapat jarak kecil di antara keduanya yang berisi noda putih, seakan-akan potongan awan. Ia adalah hidung singa. Dikatakan pula bahwa ia adalah tiga bintang, dan bentuknya sebagai berikut: 0 0 0. § Ia berada di antara mulut dan lubang hidung singa dan disebut Maḥaṭṭat al-Asad, “tempat singa.” §
 
-Adapun al-Ṭarfah, keduanya adalah dua bintang di depan dahi, dan keduanya merupakan mata singa. Ia terdiri atas empat bintang, salah satunya bintang yang berkilau, yaitu al-Yamāniyy. Dalam pandangan mata, jarak antara setiap dua bintang sepanjang cambuk. Ia disebut Izzāʾ al-Asad, “berhadapan dengan singa,” dan mengikuti al-Ṭarfah. Bentuknya [BENTUK TIDAK DITENTUKAN DALAM OCR]. §
+Adapun al-Ṭarfah, keduanya adalah dua bintang di depan dahi, dan keduanya merupakan mata singa. Ia terdiri atas empat bintang, salah satunya bintang yang berkilau, yaitu al-Yamāniyy. Dalam pandangan mata, jarak antara setiap dua bintang sepanjang cambuk. Ia disebut Izzāʾ al-Asad, “berhadapan dengan singa,” dan mengikuti al-Ṭarfah. Bentuknya [UNCLEAR: tidak ada bentuk setelah kata pengantarnya dalam sumber]. §
 
-Adapun al-Jabhah, keduanya adalah dua bintang seperti bagian depan singa, tempat rambut pada bahunya. Dalam pandangan mata, jarak di antara keduanya sepanjang cambuk, dan bentuknya sebagai berikut: 0 0 0. §
+Adapun al-Jabhah, keduanya adalah dua bintang [UNCLEAR: perbandingannya terbaca “ka-ahlā al-asad”], tempat rambut pada bahunya. Dalam pandangan mata, jarak di antara keduanya sepanjang cambuk, dan bentuknya sebagai berikut: 0 0 0. §
 
-Adapun al-Simāk, keduanya adalah dua bintang bercahaya: al-Aʿzal, yang termasuk manzilah-manzilah Bulan, dan al-Simāk al-Rāmih, yang tidak termasuk manzilah-manzilah Bulan. Dikatakan bahwa keduanya adalah kedua kaki singa, dan dikatakan pula bahwa keduanya adalah kedua betis singa, masing-masing merupakan betis yang lain. Bersama al-Rāmih terdapat sebuah bintang di depannya, yaitu tombaknya. Al-Aʿzal terasing dari bintang-bintang, tidak ada bintang di dekatnya. Ia disebut al-Aʿzal karena tidak memiliki tombak, dan disebut Simāk karena meninggi di langit. Bentuk al-Aʿzal [BENTUK TIDAK DITENTUKAN DALAM OCR]. § Bentuk al-Rāmih sebagai berikut: 0 0. § Di belakang al-Rāmih terdapat sebuah bintang yang disebut ʿAjuz al-Asad, “bokong singa.” Adapun al-Simāk al-Aʿzal, [UNCLEAR: teks menyebut bintang-bintang Yamāniyyah dan Shāmiyyah]. §
+Adapun al-Simāk, keduanya adalah dua bintang bercahaya: al-Aʿzal, yang termasuk manzilah-manzilah Bulan, dan al-Simāk al-Rāmih, yang tidak termasuk manzilah-manzilah Bulan. Dikatakan bahwa keduanya adalah kedua kaki singa, dan dikatakan pula bahwa keduanya adalah kedua betis singa, masing-masing merupakan betis yang lain. Bersama al-Rāmih terdapat sebuah bintang di depannya, yaitu tombaknya. Al-Aʿzal terasing dari bintang-bintang, tidak ada bintang di dekatnya. Ia disebut al-Aʿzal karena tidak memiliki tombak, dan disebut Simāk karena meninggi di langit. Bentuk al-Aʿzal [UNCLEAR: tidak ada bentuk setelah kata pengantarnya dalam sumber]. § Bentuk al-Rāmih sebagai berikut: 0 0. § Di belakang al-Rāmih terdapat sebuah bintang yang disebut ʿAjuz al-Asad, “bokong singa.” Adapun al-Simāk al-Aʿzal, [UNCLEAR: teks menyebut bintang-bintang Yamāniyyah dan Shāmiyyah]. §
 
-Adapun al-Ghafr, ia adalah tiga bintang kecil. [UNCLEAR: frasa sumber tentang al-Ghafr dan hubungannya dengan bintang-bintang itu] Ia termasuk Libra. Dikatakan pula bahwa namanya diambil dari al-ghafr, yaitu rambut di ujung ekor singa. Bentuknya sebagai berikut: 0 0. §
+Adapun al-Ghafr, ia adalah tiga bintang kecil. Al-Ghafr turun di dalamnya. Ia termasuk Libra. Dikatakan pula bahwa namanya diambil dari al-ghafr, yaitu rambut di ujung ekor singa. Bentuknya sebagai berikut: 0 0. §
 
 Adapun al-Zubānān, yaitu kedua capit kalajengking, keduanya adalah dua bintang bercahaya, sebagai berikut: 0 0. §
 
 Adapun al-Iklīl, ia adalah empat bintang, dengan bentuk sebagai berikut: 0 0 0 0. Dikatakan pula bahwa ia adalah tiga bintang, yaitu kepala kalajengking.
-
-[BERSAMBUNG KE HALAMAN BERIKUTNYA]
