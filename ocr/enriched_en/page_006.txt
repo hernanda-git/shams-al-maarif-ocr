@@ -15,10 +15,10 @@ Arabic:
 
 English:
 It circulates
-in the neighborhood, as [UNCLEAR]
+in the neighborhood, as [UNCLEAR: the comparison ends after the prefix ka-]
 in a channel
-of heat
-[UNCLEAR: raqāʾib]
+from [UNCLEAR: the isolated word hur may concern heat or a free person; context is absent]
+[UNCLEAR: the isolated word raqāʾib has no secure meaning in these disconnected fragments]
 a message
 times
 within the self
@@ -26,4 +26,4 @@ this
 tomorrow
 and indeed
 with
-count
+[UNCLEAR: the isolated unvocalized word ʿ-d can denote counting or an imperative such as “count” or “return”; its intended reading is uncertain]
