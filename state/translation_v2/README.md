@@ -90,3 +90,9 @@ Use `--force` only when the process/lock cannot be proven stale and the reason i
 The tracker initializes 604 pending pages. The generated reader dataset now contains physical pages 1–604; the old 600-page limitation no longer applies. Existing translations remain drafts until deterministic validation and genuine independent review of the exact snapshot.
 
 The 2026-11-03 retrospective audit covers pages 1–67. See `audits/2026-11-03-p001-p067-provenance.md`: earlier `human-reviewer` approvals for pages 64–67 did not come from a human or an independent reviewer and are invalid as acceptance evidence. The original events and terminal workflow records are preserved, with append-only corrections. Fresh supplemental review evidence, not a historical reviewer label or `committed` count, establishes acceptance of repaired files. Page 68 is outside this audit and must not be advanced as part of it.
+
+### Bounded campaign checkpoint — 2026-11-07 (WIB)
+
+Physical pages **68–77** were subsequently translated/aligned, independently model-reviewed and committed in strict sequence. See [the batch checkpoint](audits/2026-11-07-p068-p077-campaign.md) and [hash-bound verification receipt](audits/2026-11-07-p068-p077-campaign.json). Page 76 includes a preserved rework finding and a fresh r2 approval after correcting a divine antecedent.
+
+At that snapshot, the tracker contains **77 committed / 527 pending pages**; the next gate is **page 78, pending and unclaimed**, with no active page or worker lock. All 604 canonical-source hashes and existing titles were preserved, the accepted-page structural/triage sweep passed through page 77, and the full Python suite passed 168 tests plus 49 subtests. This is model-review evidence, not human approval or a claim that the remaining corpus or deployed reader has been verified.

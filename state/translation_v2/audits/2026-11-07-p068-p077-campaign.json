@@ -1,0 +1,161 @@
+{
+  "type": "translation_v2_bounded_campaign_checkpoint",
+  "captured_at_utc": "2026-11-06T17:47:52.661976+00:00",
+  "captured_at_local": "2026-11-07T00:47:52.661992+07:00",
+  "scope": {
+    "first_page": 68,
+    "last_page": 77,
+    "page_count": 10
+  },
+  "baseline_head": "75ef9ddbde04d85ac6c0e9da3d1b27e85a0d4183",
+  "verified_head": "71adad2e9f9d6245369e67692add3b4f09e50120",
+  "completed": 77,
+  "pending": 527,
+  "next_page": 78,
+  "active_page": null,
+  "worker_lock": null,
+  "canonical_sources_hashed": 604,
+  "generated_pages": 604,
+  "titles_preserved": 604,
+  "accepted_pages_swept": 77,
+  "protected_wip_status": "D .hermes/plans/2026-09-25_translation-v2-worker.md\n?? .commandcode/\n?? HERMES_PROMPT_TRANSLATION_ALIGNMENT_V2.md",
+  "pages": [
+    {
+      "page": 68,
+      "content_sha": "548bb9cd661769ff2472c66a2fee65776733d83a",
+      "tracker_sha": "b160aef37a0eb96efb44ef31c48143fb40197cb2",
+      "review": "state/translation_v2/reviews/page_068-r1-approved.md",
+      "review_sha256": "bfec4b86319bb8c7abe00ff1ced01450cfc91dbb5356cbea9deee3580702bc82",
+      "source_sha256": "9136705a9d98f1f91a743467f63ce8bdb4f081606febf68bf077b4c6268b1dd9",
+      "english_sha256": "c0085f0d752df280a2c1d9aa8f4a0dca8ce57bd1a48ca805749d68ea9e45a31f",
+      "indonesian_sha256": "fdd7f94bd0c922bdc041523ef68f1cd23ec55408928e1e33135c0e27fc6dd2ce",
+      "english_unclear": 15,
+      "indonesian_unclear": 15
+    },
+    {
+      "page": 69,
+      "content_sha": "6894085d418a06a69f8f7526e02cc93241a44cd8",
+      "tracker_sha": "c2b0533081919c002ed095794bb10bae07c82748",
+      "review": "state/translation_v2/reviews/page_069-r1-approved.md",
+      "review_sha256": "2dae57f1aac660c491f57b28639c9c038644449e4a362546c3645be7d26057cc",
+      "source_sha256": "94e065e191d94caa40856e3f13b6b5242231faaeca197211613e0ddfac7afa90",
+      "english_sha256": "af232966414400b567c104eef6a620bc6d6cf32d5a31b22c0a7651f32c80f621",
+      "indonesian_sha256": "956ab3100971c4b948a7fc05e97895b08af4cf9383d4c6cf51b24226cc6431e5",
+      "english_unclear": 2,
+      "indonesian_unclear": 2
+    },
+    {
+      "page": 70,
+      "content_sha": "c6a5e4d3fe0bf5b2d91f8524666a72881efd06d2",
+      "tracker_sha": "f4b4da74d7886b2cc810ab94371f1e69e487cdc0",
+      "review": "state/translation_v2/reviews/page_070-r1-approved.md",
+      "review_sha256": "0bc1bea1dae8784c6c6a872aef62bad3aa2e4289cf7e1ff9eabf5112bbfb9118",
+      "source_sha256": "b531e1f7e9a4a403cb1736ee8bfe18b358daeeb51e879a1f34e58208499e1b76",
+      "english_sha256": "68b9af7f53f6edd952366e4f944457b388f381a9158c383c712a7429238b0c48",
+      "indonesian_sha256": "6f344d361cc8d343d9c74140c4154380a9bf021245d05e5b453a2170fb86116c",
+      "english_unclear": 8,
+      "indonesian_unclear": 8
+    },
+    {
+      "page": 71,
+      "content_sha": "58b23d62f20b9f06e8bdd482c0457cefac7da727",
+      "tracker_sha": "a4c3a367bd8094c0137f6f6e806a977efacd619e",
+      "review": "state/translation_v2/reviews/page_071-r1-approved.md",
+      "review_sha256": "4423baec3811d9dba0e7122495ea7c584df21b5c2687033fd1222bdbcd66d373",
+      "source_sha256": "f5809b86c22b695b0079870b3e406bac9ec44fe3aac8c8f0ad378878a8f7af2f",
+      "english_sha256": "41e473cc05af67db351666e2f4203e2fb0f282e617057ee9170ebe7bbd39a26c",
+      "indonesian_sha256": "e2d7c0744e18e27d4fbf2fed7e04524605b7e4a4b303b867dd4374c74bd8b39d",
+      "english_unclear": 13,
+      "indonesian_unclear": 13
+    },
+    {
+      "page": 72,
+      "content_sha": "510f80bfecda8afca4c2cc49480186b0e8e093c8",
+      "tracker_sha": "056607475767b31ce04e52a950fb63aa32dac451",
+      "review": "state/translation_v2/reviews/page_072-r1-approved.md",
+      "review_sha256": "670de23b915d9be35a62f8ecd0eda6d17a01a079010c1fdcf5c3b03f18c89e51",
+      "source_sha256": "637eaafe32470ed069fb9b8d47c25c265d20786f61dce2f35647ed6499040eb0",
+      "english_sha256": "b7af96296364c1e576e333ae6dc6b252bfd7b9e38d9c6104143d2c1afd988b39",
+      "indonesian_sha256": "3b838e40bcc759b5800fec0ad52fcbf058c18ea4579568537897871715fdd6b7",
+      "english_unclear": 4,
+      "indonesian_unclear": 4
+    },
+    {
+      "page": 73,
+      "content_sha": "1de968569ca7d3486b41b9a3fd68117159391993",
+      "tracker_sha": "4cf3ac096ac8def8557867b1d797519ffb536f45",
+      "review": "state/translation_v2/reviews/page_073-r1-approved.md",
+      "review_sha256": "a7d3812928e96fda3e7ea1b78fd80e731d948ca8464da000e0f8edfb7ca6953f",
+      "source_sha256": "19f47a43b1cdf746d80558d0898cc6fc8685adaba223d8fa905ee830abad95b0",
+      "english_sha256": "6efa6453bf9fb1247dd0584a1a044d53a7b8292900c52a9cddb2766362e8422a",
+      "indonesian_sha256": "adb77ced955985c9ef0ac29c07addb086e4c9ca30ebd3f677734837deaca9137",
+      "english_unclear": 13,
+      "indonesian_unclear": 13
+    },
+    {
+      "page": 74,
+      "content_sha": "c40e30a9620c8c10841dc37ec6433fd250cef993",
+      "tracker_sha": "229591d8e0ca640d706df38108fe3ab2a2054061",
+      "review": "state/translation_v2/reviews/page_074-r1-approved.md",
+      "review_sha256": "3f37edc0b3b81b4e01eb7a3d169797efaa9c6f067d0065f28fbad241afb5d915",
+      "source_sha256": "6a075538beff48d577eddfb9b2c5f3612486eb07fdc6f41ad4dce5a3d6fdbb07",
+      "english_sha256": "1e76054d09c90028e1d4beaf2d64390c9cf25e4c1ef099ff173e27d571411776",
+      "indonesian_sha256": "6f8e1b80ddbd70f08449e689895b5dbeb7818991898798c75833671f24f784bf",
+      "english_unclear": 12,
+      "indonesian_unclear": 12
+    },
+    {
+      "page": 75,
+      "content_sha": "a675f28b5d1870842c24d4aa817dfa6d1cf7a4f2",
+      "tracker_sha": "e3d74301259ffea836f5c50150218fc091a7596e",
+      "review": "state/translation_v2/reviews/page_075-r1-approved.md",
+      "review_sha256": "cae569cbc89f45e53de46f47e407cab47e85f9b49cf8ea237092000a1e5a7c4b",
+      "source_sha256": "46aa17116fa32d6b4a4e0a0cf37c47a4907a26abcde5035eacb2a2481a6b41be",
+      "english_sha256": "6b4f77acf35a1616bfeaf6829aa1d2b9302d13726494bd2e9260ca523bb830c9",
+      "indonesian_sha256": "26d8559784022e63cec8b2f1118cad90fced6e4b12aa34f2c5e9ebcbff3ea1c3",
+      "english_unclear": 13,
+      "indonesian_unclear": 13
+    },
+    {
+      "page": 76,
+      "content_sha": "e00f46a48660288d799a0bced786ac5a32f8f357",
+      "tracker_sha": "7b29f0f8bae574180386de818ecd8b3d69f0aa59",
+      "review": "state/translation_v2/reviews/page_076-r2-approved.md",
+      "review_sha256": "d21ca119ff80c86e3c6dd99fc19463c2c961532f42f26e71468cf77347268747",
+      "source_sha256": "1ab90fa00fb602fe216e1880f0cf8acccbc627d931374416eba718cea8131f86",
+      "english_sha256": "0b2b852ae378a30ffa12438a4f0fe5e52de93e37c4f4c4a9027f936d339374b2",
+      "indonesian_sha256": "b8bdf77564e0cb0599c8381a66d1f29d9e595c7da2673f9bdf2a91779fdbac69",
+      "english_unclear": 5,
+      "indonesian_unclear": 5
+    },
+    {
+      "page": 77,
+      "content_sha": "0ee62d618f52087205a9bcd2186049b908745525",
+      "tracker_sha": "71adad2e9f9d6245369e67692add3b4f09e50120",
+      "review": "state/translation_v2/reviews/page_077-r1-approved.md",
+      "review_sha256": "176317d1bd3d4c3c12720e896fb73940f41b9a9b903912c85d8878b2277977e0",
+      "source_sha256": "0e8fb5cea6308066553f5c6f04e7d5ddaba77f56a3be6f9565a7fe4a098ee3c8",
+      "english_sha256": "ac95550cbdb71cef9928ef48258fd26d97a4459120a5392213e18e6aefd1c958",
+      "indonesian_sha256": "620a5efbeb789edc7e1b3349226a7609b05b3698f258c087d5f85beeed381a70",
+      "english_unclear": 12,
+      "indonesian_unclear": 12
+    }
+  ],
+  "events_added": 88,
+  "checks": "PASS",
+  "tests": {
+    "command": "uv run --no-project --with pytest python -m pytest tests -q",
+    "passed": 168,
+    "subtests_passed": 49,
+    "duration_seconds": 79.21,
+    "output": "....................... [ 13%]\n........................................................................ [ 56%]\n........................................................................ [ 99%]\n.                                                                        [100%]\n168 passed, 49 subtests passed in 79.21s (0:01:19)\n"
+  },
+  "event_integrity": {
+    "versioned_baseline_exact_prefix": true,
+    "working_copy_equals_git_after_crlf_normalization": true,
+    "new_transitions_ordered": true,
+    "next_page_claim_after_previous_commit": true
+  },
+  "trust_boundary": "Independent model review, not human approval. Snapshot is before the final documentation commit and remote publication. No web deployment or live-reader verification is claimed.",
+  "protected_wip_verification": "Initial/final path-status sets match; no baseline byte-level inventory of unrelated WIP was captured, so byte-for-byte preservation of those files is not asserted."
+}
