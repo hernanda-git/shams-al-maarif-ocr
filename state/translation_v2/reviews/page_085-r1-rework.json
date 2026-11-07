@@ -1,0 +1,72 @@
+{
+  "page": 85,
+  "revision": 1,
+  "verdict": "REWORK",
+  "reviewer_id": "hermes-independent-reviewer",
+  "worker_agent_id": "sa-0-5eccf35a",
+  "reviewer_provenance": "independent_model (fresh reviewing child; distinct from translator and parent editor)",
+  "reviewed_hashes": {
+    "ocr/enriched/page_085.txt": "2cb66faaeb76f2f2673562b373868be30804c6169c9c8d1c1f165c40759ebe46",
+    "ocr/enriched_en/page_085.txt": "7309d366b568a2d66edaf6b92ebdb5c8421434cac2e833df4811668389aa155f",
+    "ocr/enriched_id/page_085.txt": "94c44499a193f550a17fe74f4faa4c7f967a3b6c67f855e3a5742c027e3b94c3"
+  },
+  "coverage": [
+    "Read the complete canonical Arabic page, both complete target blocks without line truncation, and docs/translation-style-v2.md. Evaluated each target against this page alone; no neighboring page, remembered canonical passage, or external reconstruction used.",
+    "Opening and folio: printed 79 retained independently of file index 85; opening remains a continuation. Checked beginninglessness/the most sought, damahu, the realities/technical terms/knowledges/manifestations, and the entire flight-from-self list through the Holy Presence, barzakhs, written things, endings, and upper things.",
+    "Checked bringing-to-nothing/companion, friendly wayfaring, response to the call, the prayer for a secret, secret of the secret, subtle faculty, thought, encompassing orbit/simple form, descriptive compassion, original/derivative reality, and the renowned Book with its virtues and glory. The change to God as the opening actor is consistent with the explicit source فتح الله لهم and does not turn the prayer respondents into that actor.",
+    "Checked the witnessing/imprinting/overseeing sequence, radiant circle, spreading ray, splitting, reviving the dead by its breath, and the outward/inward distinction. The local rendering of أذهى remains defective as detailed in finding P085-R1-01.",
+    "Verified the numbers and their separate functions: outward preparedness 567; inward letter count 231; then 130 as beginningless/concealed and 231 as endless/the Book concealed therein. Neither target harmonizes the anomalous 130 to 567.",
+    "Checked inspired knowledge and understanding, understanding-imparting secret, divine outpouring, holy spirit, continued following of traces, most exalted Truth, agreement and opposition through the substance of agreement, imam/provision, and Abode of Abiding/Abode of Peace. Checked the conditional desire, second number, first knowledge, and expedited outward secret.",
+    "Checked uppermost canopies and the Chair's sway over them, concealment by secret and splendor, intended within intended, bringing-into-being in single ones, and ranks rather than number. Checked differing perceptions, folded first Book, veils, opaque mar before writing, splendid canopy, and the uncertain binding-of-solicitude/ascent construction.",
+    "Checked the complete plane-circle example: extended angles; lifting into the air without pillars; outward above-above, inward below-below; first-first and last-last; right beginninglessness and left endlessness. Letter sequences are preserved in exact order: alif jīm dāl; dāl alif; alif ṭāʾ nūn bāʾ. The uncertainty about what explains the alif is local and explicit.",
+    "Checked every negative and the repetition, without collapsing the list: no above/below/right/left/behind/interlocking/assimilation/restriction/unboundedness, then again no above/below/right/left/behind/before. The separating asterisk and subsequent instruction to understand are retained.",
+    "Checked the merciful secret/barzakh between the two alifs, inward/outward participation, addressee as the whole circle witnessing realities of Mercy, understanding the canopy, believing the truthful thinker, conditional loosening of the gem-setting of ḥamām, and entry into the Garden of Knowledges in peace.",
+    "Checked damaged fashaqaba/wa-afta/fataqum separately, the retained thought/circle/demolition complements, rising by the light of Mercy, the first-person I in لأقف, the uncertain toward-it attachment, divine merciful outpouring, and all before/after/outward/inward contrasts. Existing local markers appropriately avoid inventing repaired verbs.",
+    "Checked good tidings/warnings and their respective addressee/action, the source's anomalous joining the greatest losers in deeds without reversing it, wasted striving, worldly life, and the belief that they do good work. Checked every final world-of-canopy/veils/al-karamī phrase, signs of their Lord, meeting Him, nullified deeds, Day of Regret, barzakh, weight, Day of Resurrection, Hell, and disbelief. No final phrase is omitted, but quotation/commentary and first-person-plural attribution require finding P085-R1-02.",
+    "Confirmed that فلا نفهم remains do not understand/tidak memahami rather than being silently replaced with a familiar weighing formula. The page's final واتخذوا remains unfinished as and they took/dan mereka mengambil with ellipsis; no missing object or continuation is supplied. No content, dataset, tracker, or repository file was edited."
+  ],
+  "uncertainties": [
+    "Accept the local uncertainty attached to دمه (damahu), the opening technical-term connections, the upper/endings phrase, and the referent/companion construction. These markers identify actual local source difficulties without blanketing the readable clauses.",
+    "Accept the retained opaque مر (mar) before writing, the marked reading/attachment of لأسر العناية, and the marked connection among the letter-circle clauses and مفسر الألف. No missing letter or alternative sequence should be reconstructed.",
+    "Accept ḥamām as a retained uncertain token with possible senses explicitly labeled rather than selecting pigeon, bath, or death as certain. Likewise accept the individually marked damaged verbs and the relation of إليه, while retaining the readable surrounding actions and complements.",
+    "Accept al-karamī as a retained designation with its generosity-related gloss explicitly tentative. Accept the existing local subject uncertainty at فأبانت; however, this does not by itself mark uncertainty about the adjacent quotation boundaries or identify the speaker of نفهم.",
+    "The meaning/construction of أذهى is unresolved in this context. A marker describing only the construction does not adequately qualify an otherwise asserted optical comparative more brilliant/lebih cemerlang; see P085-R1-01.",
+    "The late passage supplies بقوله but does not securely delimit all quoted words versus interleaved world-of-canopy/veils commentary. The feminine فأبانت and subsequent anomalous first-person plural نفهم make confident uninterrupted divine-voice attribution unsafe. Retain the words, including نفهم, but mark these local boundary/speaker uncertainties; see P085-R1-02."
+  ],
+  "findings": [
+    {
+      "id": "P085-R1-01",
+      "severity": "major",
+      "affected_paths": [
+        "ocr/enriched_en/page_085.txt",
+        "ocr/enriched_id/page_085.txt"
+      ],
+      "source_lines": "ocr/enriched/page_085.txt:8-9",
+      "source_excerpt": "فأشرفوا بسرها على سائر أسرارهم فأذهى دائرة\nشعاعية انبسطت شعاعها وانشقت",
+      "target_en_excerpt": "then a radiant circle, more brilliant [UNCLEAR: the construction introducing the circle], spread its ray",
+      "target_id_excerpt": "lalu sebuah lingkaran bersinar, lebih cemerlang [UNCLEAR: susunan ungkapan yang memperkenalkan lingkaran ini], membentangkan sinarnya",
+      "issue": "Both targets assert a comparative of radiance that is not established by the printed أذهى. Even an elative reading connected with shrewdness or ingenuity does not establish an optical more brilliant here. The existing markers qualify the construction introducing the circle, not the reading or meaning of the word rendered more brilliant/lebih cemerlang. Thus the lexical uncertainty is not actually disclosed, and neighboring شعاعية cannot supply a replacement meaning for أذهى.",
+      "minimal_repair": {
+        "en": "Remove the asserted more brilliant. Preserve the token as a transliteration or mark its reading/meaning explicitly, for example: then [UNCLEAR: adh'hā; the word and the construction introducing the circle are uncertain] a radiant circle ... . Retain the separately readable radiance, ray, splitting, and revival clauses.",
+        "id": "Hapus penegasan lebih cemerlang. Pertahankan token melalui transliterasi atau tandai pembacaan/maknanya secara eksplisit, misalnya: lalu [UNCLEAR: adh'hā; kata dan susunan yang memperkenalkan lingkaran ini tidak jelas] sebuah lingkaran bersinar ... . Tetap pertahankan klausa yang terbaca tentang sinar, terbelah, dan menghidupkan orang mati."
+      }
+    },
+    {
+      "id": "P085-R1-02",
+      "severity": "major",
+      "affected_paths": [
+        "ocr/enriched_en/page_085.txt",
+        "ocr/enriched_id/page_085.txt"
+      ],
+      "source_lines": "ocr/enriched/page_085.txt:30-32",
+      "source_excerpt": "في الحياة الدنيا وهم يحسبون أنهم يحسنون صنعا في عالم السرادق قدمهم الأعلى بقوله أولئك الذين\nكفروا في عالم الحجب بآيات ربهم ولقائه فأبانت في عالم السرادق حبطت أعمالهم في يوم الحسرة فلا نفهم لهم في\nالبرزخ وزنا في يوم البعث جزاؤهم جهنم في عالم الحجب بما كفروا في عالم الكرمى واتخذوا",
+      "target_en_excerpt": "In the world of the canopy, the Most High presented them with His saying: \"Those are the ones who disbelieved, in the world of veils, in the signs of their Lord and in meeting Him.\" Then it made clear, in the world of the canopy [UNCLEAR: the subject of 'made clear']: \"Their deeds came to nothing on the Day of Regret; so We do not understand any weight for them in the barzakh [UNCLEAR: the source says 'understand'; its relation to 'weight' is damaged], on the Day of Resurrection.",
+      "target_id_excerpt": "Di alam tirai penaung, Yang Mahatinggi mengemukakan mereka melalui firman-Nya: \"Mereka itulah orang-orang yang mengingkari, di alam selubung-selubung, tanda-tanda Tuhan mereka dan pertemuan dengan-Nya.\" Lalu itu menjelaskan, di alam tirai penaung [UNCLEAR: subjek dari 'menjelaskan']: \"Amal-amal mereka menjadi sia-sia pada Hari Penyesalan; maka Kami tidak memahami suatu bobot bagi mereka di barzakh [UNCLEAR: sumber berbunyi 'memahami'; hubungannya dengan 'bobot' rusak], pada Hari Kebangkitan.",
+      "issue": "The source signals a saying with بقوله but leaves the extent of that saying and the interleaving of the world-of-canopy/veils clauses unresolved. The targets choose definite quotation/commentary boundaries, incorporate the later world clauses into a second quotation, and capitalize We/Kami as a divine speaker for نفهم. The marker at فأبانت identifies only its unclear subject; the marker at نفهم identifies only the anomalous verb/weight relation. Neither discloses the uncertain quotation boundary or the uncertain identity of the first-person-plural speaker. This is a local attribution problem, not a reason to replace the source's anomalous wording with a remembered canonical passage.",
+      "minimal_repair": {
+        "en": "Add a local English UNCLEAR marker at the final saying passage explicitly identifying that quotation versus interleaved commentary boundaries, including the world phrases, are uncertain. Use lowercase we for نفهم and explicitly mark the first-person-plural speaker as uncertain, unless a source-grounded attribution can actually be established from this page. An economical repair may keep provisional quotation segmentation only if its uncertainty is stated where the final saying begins. Retain every world phrase and its source order, the subject uncertainty at فأبانت, do not understand, and the unfinished and they took...; do not force the commentary either inside or outside a reconstructed canonical quotation.",
+        "id": "Tambahkan penanda UNCLEAR berbahasa Indonesia secara lokal pada bagian firman terakhir yang menyatakan bahwa batas kutipan dan komentar tersisip, termasuk frasa-frasa alam, tidak jelas. Gunakan kami berhuruf kecil untuk نفهم dan tandai bahwa penutur orang pertama jamak tidak pasti, kecuali identitasnya memang dapat dibuktikan dari halaman ini. Pembagian kutipan sementara boleh dipertahankan jika ketidakpastiannya dinyatakan pada awal bagian firman terakhir. Pertahankan semua frasa alam dalam urutan sumber, ketidakjelasan subjek فأبانت, tidak memahami, dan akhir terputus dan mereka mengambil...; jangan memaksakan batas kutipan dari teks kanonik yang diingat."
+      }
+    }
+  ]
+}
