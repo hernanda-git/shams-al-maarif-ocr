@@ -149,3 +149,11 @@ preserving the dash style the source uses. It is not a page header to be dropped
    (CJK, control characters, mojibake) before validating. The validator does not catch it.
 
 One physical page at a time. Never claim page N+1 before page N is `committed`.
+
+## 11. User-authorized parallel English editorial overrides
+
+The user subsequently authorized merging parallel English fixes into this same line at every completed-page checkpoint. Apply the [parallel editorial integration contract](translation-editorial-integration-v2.md). Preserve supplied English literally, including documented Arabic examples and terminology that intentionally differ from sections 3–5. These are user editorial versions, not independent authentication against the frozen Arabic OCR.
+
+Exceptions are restricted to exact English/source hashes in `state/translation_v2/editorial_overrides.json`; they are not a blanket waiver for a page or script. Canonical Arabic, Indonesian, structural integrity, source-prefix preservation and old review history remain protected. Old approvals describe their original hashes only. New model-generated targets remain subject to all original requirements and genuine independent review.
+
+Freeze ready parallel corrections at the page-completion boundary and include their integration commit in the same batch as that page's normal content and tracker commits. Later live edits remain for the next page. Validate and publish the frozen candidate, not the live mixed reader JSON; the original page-specific commit verifier remains unchanged.

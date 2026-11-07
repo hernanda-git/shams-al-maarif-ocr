@@ -1,0 +1,29 @@
+{
+  "passed": false,
+  "security_concerns": [],
+  "logic_errors": [
+    {
+      "file": "scripts/translation_v2_editorial.py",
+      "line": 194,
+      "severity": "medium",
+      "issue": "Overlaying English can still change unrelated record metadata when metadata aliases the selected record itself. deepcopy preserves aliases, and assigning the selected record's text field mutates that same copied record wherever metadata references it. The text-mapping detachment protects aliases to text, but not aliases to its containing record.",
+      "reproduction": "Construct records = [{'page': 1, 'text': {'en': 'first'}, 'meta': {}}, {'page': 2, 'text': {'en': 'second'}, 'meta': {}}]; set records[1]['meta']['record_alias'] = records[0]; snapshot = copy.deepcopy(records); result = overlay_english_records(records, {1: 'changed'}). Observed result[1]['meta'] != snapshot[1]['meta'], with result[1]['meta']['record_alias']['text']['en'] == 'changed'. The input itself remains unchanged. These inputs pass all existing validation.",
+      "minimal_fix": "Replace the selected top-level record rather than mutating its copied mapping: result[page - 1] = {**result[page - 1], 'text': {**result[page - 1]['text'], 'en': body}}. Add a regression beside tests/test_translation_v2_editorial.py:314 asserting metadata that aliases a selected record remains equal to its pre-overlay snapshot."
+    }
+  ],
+  "suggestions": [
+    {
+      "file": "docs/translation-editorial-integration-v2.md",
+      "line": 24,
+      "issue": "Make the caller's page-identity precondition explicit. registered_override_matches validates that entry.page is in range, but cannot establish its association with the currently processed page because it has no expected-page argument. A valid entry with page changed from 40 to 41 still matches identical source/target bytes; this was confirmed by direct execution.",
+      "minimal_fix": "Document that callers must require entry['page'] == registry_key == current_page before using the match result to waive findings, and add an integration regression when the coordinator wiring is implemented. Keep wrong-page/folio diagnostics blocking."
+    }
+  ],
+  "summary": "Fail: one reproduced metadata-alias preservation defect in the pure English overlay. Independently read the full module, full tests in two chunks, full integration contract, and style-document diff; all four raw worktree SHA-256 values remained unchanged. Direct hash-freshness, CRLF, entry-kind/source_verified, and narrow-waiver smoke checks passed. A focused pytest run could not start because pytest is absent from the available interpreter; no full-suite rerun or claim is made. Integration documentation describes policy rather than claiming completed publication. No repository files, source corpus, parallel English fixes, Git index, or commits were changed.",
+  "reviewed_hashes": {
+    "scripts/translation_v2_editorial.py": "8802d38dd5179ecc0d8aaf13a52936b17c26fc2cf018cb47004821a2108c7f2e",
+    "tests/test_translation_v2_editorial.py": "b82d4be67cf7a2eacd1612ea9a0b70c0d18b0afc6637713e719fab9aba44dda6",
+    "docs/translation-editorial-integration-v2.md": "66a7e39c6bad554650fa1e82a18cd9cd61c79657834b71fd2b0320c3b0a87889",
+    "docs/translation-style-v2.md": "33a2312bf9280de587c3b1ab1d60a877105ad820d147adbb74a8e602893cb0d8"
+  }
+}
