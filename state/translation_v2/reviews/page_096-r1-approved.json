@@ -1,0 +1,236 @@
+{
+  "page": 96,
+  "revision": 1,
+  "verdict": "APPROVED",
+  "reviewer_id": "hermes-independent-reviewer",
+  "reviewer_session_id": "20261108_011608_2623f1",
+  "reviewer_subagent_id": null,
+  "reviewer_identity_note": "The runtime exposed HERMES_SESSION_ID, recorded above, but did not expose an actual reviewer subagent identifier. No identifier has been invented.",
+  "worker_agent_id": "sa-0-93265bf9",
+  "translator_delegation_id": "deleg_2e78bf33",
+  "reviewer_provenance": "independent_model",
+  "independence_statement": "I am a separate reviewing subagent, not the translating child sa-0-93265bf9/deleg_2e78bf33 or the coordinator. I directly read the complete actual Arabic, English and Indonesian page_096 files and independently compared every verse and the closing fragment. I did not author, repair, or edit either translation. Parent structural validation was context, not a substitute for this semantic review. I wrote only this scratch review artifact; no repository, tracker, target, or reader writes were performed.",
+  "reviewed_hashes": {
+    "ocr/enriched/page_096.txt": "e0948bdefe4dcf1adf661c3caae3fd66fbcc9853a31b33040ab223e1b7487a72",
+    "ocr/enriched_en/page_096.txt": "82770f5f9bfe3391470f4041fd50703dbe53a6ea76caa8c60f651bed5340afe8",
+    "ocr/enriched_id/page_096.txt": "1e212bb06bdae9c1fb139c3bf9c2ba1e69068dbca6b5c2aed2d0f7813372fe60"
+  },
+  "repository_root": "C:/Working Folder/Research/shams-al-maarif-ocr",
+  "review_basis": [
+    "docs/translation-style-v2.md, read completely",
+    "autonomous-repo-execution-loop skill and references/canonical-page-alignment.md",
+    "Complete actual canonical Arabic and actual final English and Indonesian page_096 files",
+    "Read-only frozen candidate page 96 comparison; no neighboring page content reviewed"
+  ],
+  "coverage": [
+    {
+      "scope": "Raw identity and source embeddings",
+      "result": "PASS",
+      "details": "Computed SHA-256 over raw bytes of all three files and asserted exact equality with the three dispatched hashes. Each target contains exactly one complete byte-identical canonical source sequence following Arabic:. Canonical source has no terminal newline; the actual wrappers retain it intact and separate the following target label with two LF characters. No source normalization was needed or performed."
+    },
+    {
+      "scope": "Complete structure, folio, stars, script and controls",
+      "result": "PASS",
+      "details": "Tool-verified canonical and each target block have 32 lines: folio, 30 verses, closing fragment. Canonical and each target have 31 stars, and per-line star counts agree exactly. Verse 11 has two stars, including its terminal star; every other verse has one. Both target folios are the separate line — 90 — with the source dash style. Target Unicode-letter allowlist check found only Latin letters and permitted transliteration modifiers; no foreign-script letters, non-ASCII decimal digits or hidden controls were found."
+    },
+    {
+      "scope": "Verse 1 / source line 2",
+      "result": "PASS",
+      "details": "Both targets retain Aj, Ahwaj, the explicit address 'O my God'/ 'wahai Tuhanku', Mahwaj, and Jaljalut in order. The response phrase is translated rather than omitted. Hallalt is retained with a bounded praise/rejoicing gloss and an explicit uncertainty about grammatical person or actor. No familiar invocation replaces the opaque tokens."
+    },
+    {
+      "scope": "Verse 2 / source line 3",
+      "result": "PASS",
+      "details": "Aj, Ahwaj, Jalmahwaj precede the majesty expression in both targets. The suffix's antecedent is explicitly unresolved and is not assigned to God through capitalization. The second hemistich preserves majestic, Jala, Jalyut and Jamatahajat separately and in order. Jala's possible lexical sense is qualified, not asserted as a recovered formula."
+    },
+    {
+      "scope": "Verse 3 / source line 4",
+      "result": "PASS",
+      "details": "Enumeration, Arum, Shammar, Azarim, Bahrah, Tabziz, Umm and tabarrakt remain in source order in EN and ID. The possible first-person sense of Arum, splendor construction, mother/token ambiguity and person of becoming blessed are locally qualified. No numerical count or supposed liturgical reconstruction has been supplied."
+    },
+    {
+      "scope": "Verse 4 / source line 5",
+      "result": "PASS",
+      "details": "Both lamp-of-the-secret expressions and both occurrences of secretly are preserved. The printed yuqad is treated as 'is led'/ 'dituntun', not silently repaired to a different spelling meaning kindled. Its exposition and the exhaustion clause remain distinct. Tanawwart retains the illumination sense while its person and connection remain explicitly uncertain."
+    },
+    {
+      "scope": "Verse 5 / source line 6",
+      "result": "PASS",
+      "details": "Both targets preserve light of majesty, Bazikh, evil, Natkh, Quddus, Barkut, through it/him, fire and akhadht. Quddus receives its recoverable Most Holy sense while the neighboring tokens remain opaque or tentative. The unknowns of akhadht include person, subject and object, rather than only a generic syntax warning. No definite divine or human agent is imposed."
+    },
+    {
+      "scope": "Verse 6 / source line 7",
+      "result": "PASS",
+      "details": "Bah, the address Ya Yah, Namwah and Asaliya precede Tamṭam and Mahrash in both versions. The enemies' fire phrase and hamat remain. Hamat's suggested intention sense is marked as uncertain in reading and connection; the statement is not converted into a confident promise to destroy enemies."
+    },
+    {
+      "scope": "Verse 7 / source line 8",
+      "result": "PASS",
+      "details": "Hal, Ahil, Shala, Shala, Shali and the separate Taha, Tahib, Taytayub, Taytahat series are retained with approximate Latin readings. The two consecutive identical Shala tokens remain duplicated, not collapsed into one. The introductory and final bi-prefixes are represented, and the token meanings are not invented."
+    },
+    {
+      "scope": "Verse 8 / source line 9",
+      "result": "PASS",
+      "details": "Anukh, Tamlukh, Yarūh, Barkhwa, Tambakhath, loftiness, Shamikh and tashammakht are all accounted for in their source order in each target. Yarūh's possible lexical motion sense and Shamikh's possible descriptive sense are qualified; the final form's person and construction remain uncertain. Loftiness is not lost amid the opaque material."
+    },
+    {
+      "scope": "Verse 9 / source line 10",
+      "result": "PASS",
+      "details": "Both versions retain the letters of Lahram, rising, tashakhat, the full time-and-days expression, Ya'buh and becoming slack. Lahram's attachment, the tentative age-related sense of tashakhat and the subject/connection of irtakhat are locally marked. The time expression is not abridged."
+    },
+    {
+      "scope": "Verse 10 / source line 11",
+      "result": "PASS",
+      "details": "The two similar but distinct invoked names Shamkhatha and Shamkhitha remain separate, followed by the explicit second-person lofty predicate. The irregular ending is disclosed. Atmahha is retained rather than paraphrased into a fluent guessed action; its feminine suffix is represented. Downpour, winds and becoming shaken remain, with the damaged grammatical connection disclosed in both languages."
+    },
+    {
+      "scope": "Verse 11 / source line 12: exact letter sequence and duplicate stars",
+      "result": "PASS",
+      "details": "Both targets preserve ordered ta-ha, ya-sin, ta-sin, kun, three separate alif-with-hamzah occurrences, then ta-sin-mim. Kun is retained with the local alternative command/letter-pair uncertainty rather than silently normalized. The felicity phrase and aqbalt follow in order, with person uncertainty. The internal star and the additional final star are both present. No alif or letter group is deduplicated."
+    },
+    {
+      "scope": "Verse 12 / source line 13",
+      "result": "PASS",
+      "details": "Kaf, ha, then ayn and its sad occur in the original order in both targets. The possessive antecedent is explicitly uncertain. Our sufficiency and every terror remain in the second hemistich, followed by Nahut as an opaque approximate token. No missing mim or other expected letter has been supplied from a familiar formula."
+    },
+    {
+      "scope": "Verse 13 / source line 14",
+      "result": "PASS",
+      "details": "Ahya, Sharahya, Adunay and Asba'ut are retained as approximate readings of the actual printed tokens. Al and Shaday are not silently reconstructed as a familiar alternate divine formula; the token/family ambiguity and final-letter reading are disclosed. Aqsamt retains swearing while its person remains uncertain; then and the distinct final Tayta'at token remain."
+    },
+    {
+      "scope": "Verse 14 / source line 15",
+      "result": "PASS",
+      "details": "Qaf and nun, then ha-mim after it, are retained in both targets, including the unresolved antecedent of 'after it'. Surat/Surah al-Dukhan and secret remain explicit. Tahakkamt is not converted into a confident statement that the reader commands something; its person and relation to the secret are locally uncertain."
+    },
+    {
+      "scope": "Verse 15 / source line 16",
+      "result": "PASS",
+      "details": "Three rods, being lined up, after a seal, on its head, like arrows, and standing upright are preserved. The uncertain active/passive reading, head antecedent and final verbal person are identified. The description is translated, not expanded into a drawn or operationally completed seal."
+    },
+    {
+      "scope": "Verse 16 / source line 17",
+      "result": "PASS",
+      "details": "Mim, tamis, truncated, then sullam are retained in sequence. The uncertain descriptive meaning of tamis and ladder reading of sullam remain qualified. In its middle, the dual jarratayn and becoming joined remain; the uncertain object type and grammatical relation are disclosed. The dual count is retained and no extra strokes or figure are invented."
+    },
+    {
+      "scope": "Verse 17 / source line 18",
+      "result": "PASS",
+      "details": "Four, the fingertip comparison and being lined up remain in both targets. Pointing to good things and provision is translated without dropping either object. The gathered form is retained with local subject, object and grammatical uncertainty. The source's number is not converted into an inferred full diagram or corrected tally."
+    },
+    {
+      "scope": "Verse 18 / source line 19",
+      "result": "PASS",
+      "details": "The printed hah sign-name and shaqiq are represented with a split gloss and local alternate sibling sense, followed by curved waw. The cupper's-tube comparison, secret and twisting remain. Uncertain reference and construction are disclosed, not resolved by inventing geometry."
+    },
+    {
+      "scope": "Verse 19 / source line 20",
+      "result": "PASS",
+      "details": "The final item compared with the first ones remains a seal with five corners in both targets. The secret-containing clause is retained, with pronoun referents locally uncertain. The number word five and the first/last relation remain; no actual seal image, numerical value or completed arrangement has been supplied."
+    },
+    {
+      "scope": "Verse 20 / source line 21",
+      "result": "PASS",
+      "details": "The explicit identification as God's Name, the majesty honorific and the elevation of God's Names among created beings are complete. Here the divine antecedent is source-supported, unlike the locally uncertain antecedent in verse 2. Neither target introduces a different named agent or omits the second hemistich."
+    },
+    {
+      "scope": "Verse 21 / source line 22: negation and damaged purpose clause",
+      "result": "PASS",
+      "details": "Both targets retain the repeated Name-of-God declaration, address to the ignorant one, belief imperative and prohibition on doubt. The printed positive purpose connector is preserved as 'so that'/ 'supaya', not silently reversed into 'lest'/ 'agar tidak'. Spirit and the opaque al-jant ending remain. The final word and the verb's person/actor and voice are explicitly qualified, so the damaged clause is not asserted as a certain recovered interpretation."
+    },
+    {
+      "scope": "Verse 22 / source line 23",
+      "result": "PASS",
+      "details": "The imperatives to take and conceal these noble Names remain. The following in-them/of-the-Names material and joined malilubbiha token are preserved rather than discarded as unintelligible. Its tentative core-related interpretation is marked, as are the subject and construction of hawat. No fluent unsupported substitute is imposed."
+    },
+    {
+      "scope": "Verse 23 / source line 24",
+      "result": "PASS",
+      "details": "Pledge, covenant, promise and meeting remain four separate items in the original order. Musk and camphor both remain, as does the emphatic truly. Takhattamat is retained with a bounded sealing/ring-related gloss and uncertain person and construction, not converted into a newly detailed sealing procedure."
+    },
+    {
+      "scope": "Verse 24 / source line 25: condition and prohibition",
+      "result": "PASS",
+      "details": "Both versions preserve 'if' and the source's already-safe bearer condition, rather than repairing it to a more plausible condition of being afraid. The bearer pronoun's referent remains uncertain. Coming forward, not fearing kings and the causal 'because of what it contains' all remain. The negative is not lost or made conditional on a new practice."
+    },
+    {
+      "scope": "Verse 25 / source line 26: jinn condition and unresolved construction",
+      "result": "PASS",
+      "details": "The conditional person being stricken/felled by jinn and the separate fallen form are retained in both languages. Nasb, hamim, jannat al-awn and cutting-off are all represented in order. Possible setting-up/affliction/pouring, hot-water/friend and garden/shield/jinn senses remain alternatives, not asserted recoveries. Agent, object and voice of the cutting-off form are explicitly uncertain. No confident instruction to pour water or expel a named helper has been fabricated."
+    },
+    {
+      "scope": "Verse 26 / source line 27",
+      "result": "PASS",
+      "details": "Confronting, the first fear prohibition, the ruler with its extra conjunction, the second fear prohibition, striving upon al-awraz, and safety from al-falat are retained in sequence. Both fear expressions are preserved separately. The ruler's damaged link and the actual meanings of al-awraz and al-falat are locally uncertain, rather than silently repaired to a presumed conventional phrase."
+    },
+    {
+      "scope": "Verse 27 / source line 28",
+      "result": "PASS",
+      "details": "Four letters of the Torah and four from the Gospel remain distinct quantities in each target. Jesus/Isa son of Maryamt is retained, including a note about the unusual printed final t instead of normalizing the name invisibly. The two scriptural sources and the son-of relationship are not omitted or reordered."
+    },
+    {
+      "scope": "Verse 28 / source line 29",
+      "result": "PASS",
+      "details": "Five from the Qur'an and their completion relation remain, following the prior four-and-four clause without any calculated total. To every created being is retained. Afsah and abkamat are preserved with possible eloquence/speaking and muteness-related senses and local person/syntax uncertainty. They are not silently replaced by a reconstructed conventional contrast."
+    },
+    {
+      "scope": "Verse 29 / source line 30",
+      "result": "PASS",
+      "details": "Both negative particles and their damaged neighboring forms are retained: do not tahya, takhfa, do not approach, takhaf. Each actual uncertainty is marked locally, rather than replacing this with an invented intelligible safety instruction. Joined lasad is retained with 'no lion' only as a possible reading, followed by coming to you and bi-hamhat with uncertain reading/meaning. No canonical lion formula has been substituted."
+    },
+    {
+      "scope": "Verse 30 / source line 31",
+      "result": "PASS",
+      "details": "The separate prohibitions on fearing sword, dagger and spear remain in their source order. The final no-evil element and sahmat remain, with the possible arrow relationship and unusual final t explicitly qualified. The targets do not silently rewrite the whole ending as a smooth fourth conventional weapon clause."
+    },
+    {
+      "scope": "Final unfinished fragment / source line 32",
+      "result": "PASS",
+      "details": "Fa-hafiz is rendered as the incomplete imperative 'So preserve'/ 'Maka jagalah'. Both targets explicitly state that the object and continuation are absent here. No object, next-page wording or neighboring-page text has been supplied; the fragment remains on its own final line."
+    },
+    {
+      "scope": "Whole-page token fidelity, numerical scope, attribution and safety",
+      "result": "PASS",
+      "details": "Reviewed both target languages against the Arabic, not merely against each other. Opaque invocation tokens have defensible approximate Latin renderings plus local uncertainty; recoverable surrounding words remain translated. Checked the repeated Shala, triple hamzah-bearing alif, distinct near-identical invocation names, ordered letter groups, three rods, dual jarratayn, four fingertip-like items, five corners and four/four/five scriptural quantities. No numerical calculation, invented diagram, procedural augmentation or agent assertion of occult efficacy appears. The imperative and promise-like language remains the translated source poem, not reviewer advice."
+    },
+    {
+      "scope": "Frozen candidate reader page 96 only",
+      "result": "PASS",
+      "details": "Read only the permitted frozen candidate manuscript.json page-96 record. Its Arabic text equals the decoded raw canonical source exactly. English and Indonesian text each equal the actual corresponding final target block after removal of the file's one terminal LF, which is an outer-formatting difference rather than a content change. No internal text difference was observed. The live reader was not read or changed, and no rebuild was run."
+    }
+  ],
+  "uncertainties": [
+    {
+      "scope": "Verses 1-14, invocation names and letter-associated material",
+      "disposition": "ACCEPTED_SOURCE_UNCERTAINTY",
+      "details": "Many printed forms are opaque, and their vocalization or status as names versus ordinary words cannot be established from this page alone. Both targets preserve the tokens approximately in Latin and identify opacity or offer expressly tentative local senses. This approval is not authentication of a familiar invocation or of the tokens' historical readings."
+    },
+    {
+      "scope": "Verses 1-10 and 13-19, person, voice, object and antecedent",
+      "disposition": "ACCEPTED_SOURCE_UNCERTAINTY",
+      "details": "The unvocalized or damaged verbs and several suffixes do not securely establish actor, person, voice, object or grammatical attachment. The relevant target clauses contain local qualifications; verse 2's possessor is not silently capitalized into a certain divine antecedent. Recoverable lexical content remains present."
+    },
+    {
+      "scope": "Verses 15-19, described signs",
+      "disposition": "ACCEPTED_SOURCE_UNCERTAINTY",
+      "details": "The page describes sign-like forms but supplies no diagram to reconstruct. Tamis, sullam, jarratayn and the printed hah/shaqiq construction retain local uncertainty. Numbers and comparisons are translated without inventing a seal image or harmonizing the description."
+    },
+    {
+      "scope": "Verse 21",
+      "disposition": "ACCEPTED_SOURCE_UNCERTAINTY",
+      "details": "The purpose clause is semantically awkward in the canonical wording. Both targets correctly retain its positive connector while marking the final word and the verb's person/actor and voice. The source's awkwardness is not itself a translation defect and was not repaired by negation inversion."
+    },
+    {
+      "scope": "Verses 22-23 and 25-30",
+      "disposition": "ACCEPTED_SOURCE_UNCERTAINTY",
+      "details": "Joined or irregular malilubbiha, the sealing/ring form, the jinn-condition continuation, al-awraz, al-falat, Maryamt, afsah/abkamat, the broken negatives, lasad, bi-hamhat and sahmat remain locally qualified. The targets preserve the printed lexical material without asserting fluent reconstructed formulae or supplying missing actors and operations."
+    },
+    {
+      "scope": "Closing fragment",
+      "disposition": "ACCEPTED_SOURCE_UNCERTAINTY",
+      "details": "The final imperative has no object or continuation on this page; both versions deliberately preserve the unfinished boundary."
+    }
+  ],
+  "findings": [],
+  "conclusion": "APPROVED for these exact raw source and target hashes. Complete semantic coverage found no unresolved translation defect. Accepted source uncertainties remain explicitly local and must not be mistaken for recovered meanings. Any target-byte change requires renewed hash-bound whole-page review."
+}
