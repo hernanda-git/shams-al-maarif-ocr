@@ -1,0 +1,316 @@
+{
+  "type": "translation_v2_external_editorial_conflict_checkpoint",
+  "captured_at_local": "2026-11-07T23:08:18.896480+07:00",
+  "captured_at_utc": "2026-11-07T16:08:18.896806+00:00",
+  "overall_status": "BLOCKED",
+  "approved_segment": {
+    "first_page": 93,
+    "last_page": 94,
+    "page_count": 2,
+    "current_reviewed_content_hashes_match": true,
+    "current_dataset_records_match_content_commits": true
+  },
+  "historical_pre_conflict_passing_snapshot": {
+    "type": "translation_v2_continuation_checkpoint",
+    "captured_at_utc": "2026-11-07T15:36:54.038625+00:00",
+    "captured_at_local": "2026-11-07T22:36:54.038656+07:00",
+    "baseline_head": "31a4ad891529edd0323795e6aeacbccf48d34412",
+    "verified_head": "1520f5f52e6307dbdc30f3c547e0100e2fc7c4ef",
+    "scope": {
+      "first_page": 93,
+      "last_page": 94,
+      "page_count": 2
+    },
+    "completed": 94,
+    "pending": 510,
+    "next_page": 95,
+    "active_page": null,
+    "worker_lock": null,
+    "canonical_sources_hashed": 604,
+    "generated_pages": 604,
+    "titles_preserved": 604,
+    "accepted_pages_swept": 94,
+    "events_added": 21,
+    "historical_events_versioned_exact_prefix": true,
+    "historical_events_raw_working_prefix": true,
+    "protected_wip_hashes_verified": {
+      ".commandcode/taste/taste.md": {
+        "kind": "file",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      ".hermes/plans/2026-09-25_translation-v2-worker.md": {
+        "kind": "missing"
+      },
+      "HERMES_PROMPT_TRANSLATION_ALIGNMENT_V2.md": {
+        "kind": "file",
+        "sha256": "ede4242da67404c8dee3eb52963a405bd1112794d6a5acc3f560011507c848a8"
+      },
+      "manuscript/Shams-al-Maarif-English-Verbatim-Pages-001-092.pdf": {
+        "kind": "file",
+        "sha256": "9e3680bc06d27a0e00d7366ef3eb9c27b84dd681987b1baf29e428842d40e0c8"
+      },
+      "scripts/build_english_verbatim_pdf.py": {
+        "kind": "file",
+        "sha256": "3b37ce136a08286d732c6c10d537376eb18f874280f7604018fc6509e94c9dd9"
+      }
+    },
+    "protected_wip_status": "D .hermes/plans/2026-09-25_translation-v2-worker.md\n?? .commandcode/\n?? HERMES_PROMPT_TRANSLATION_ALIGNMENT_V2.md",
+    "pages": [
+      {
+        "page": 93,
+        "content_sha": "a12416a24657502d1760a84bb0e523840a89751b",
+        "tracker_sha": "5847979f67b888629e7aee8ff151e1157295fb0f",
+        "review": "state/translation_v2/reviews/page_093-r2-approved.md",
+        "review_sha256": "04bf6f19f3e0861ae3baecd5ec218caad8a04e2b8d5ced8e5252f3fce7249997",
+        "review_history": [
+          {
+            "path": "state/translation_v2/reviews/page_093-r1-rework.json",
+            "working_sha256": "ae3e8fde9995b18802f21f465c43f7220dc592f8c91750b3fb2de6b1a189c74a",
+            "git_blob_sha256": "ae3e8fde9995b18802f21f465c43f7220dc592f8c91750b3fb2de6b1a189c74a"
+          },
+          {
+            "path": "state/translation_v2/reviews/page_093-r2-approved.json",
+            "working_sha256": "595e3ad00e158665d56a691dc32913561642002be481347bed5629eab62ddd09",
+            "git_blob_sha256": "595e3ad00e158665d56a691dc32913561642002be481347bed5629eab62ddd09"
+          },
+          {
+            "path": "state/translation_v2/reviews/page_093-r2-approved.md",
+            "working_sha256": "04bf6f19f3e0861ae3baecd5ec218caad8a04e2b8d5ced8e5252f3fce7249997",
+            "git_blob_sha256": "04bf6f19f3e0861ae3baecd5ec218caad8a04e2b8d5ced8e5252f3fce7249997"
+          }
+        ],
+        "file_hashes": {
+          "ocr/enriched/page_093.txt": "1476b168ca025c8459d91fbef76325a3e98e4229f366c583ca98180a8e3b11d6",
+          "ocr/enriched_en/page_093.txt": "3ff33db66891b6d6391318dfddb746c0f4d5d871bb2a3afb68d358f8f372c7cb",
+          "ocr/enriched_id/page_093.txt": "c17e9586fd1ef8183225c4ca6ce4d66fc3c9b3061f088d750587b65aac6d0271"
+        },
+        "english_unclear": 12,
+        "indonesian_unclear": 12
+      },
+      {
+        "page": 94,
+        "content_sha": "dca1937dbd3ac2dec6f8a9dc4e99c6827dfc0caf",
+        "tracker_sha": "1520f5f52e6307dbdc30f3c547e0100e2fc7c4ef",
+        "review": "state/translation_v2/reviews/page_094-r1-approved.md",
+        "review_sha256": "2ce223cd2689051f4021f90e97ba5d87cec15cbf2dbddad46d66f30c70cd6147",
+        "review_history": [
+          {
+            "path": "state/translation_v2/reviews/page_094-r1-approved.json",
+            "working_sha256": "80d29bf71f820ac877e837d0ec14b8cd5db768bef0b2b086f65e436fe63a44d1",
+            "git_blob_sha256": "80d29bf71f820ac877e837d0ec14b8cd5db768bef0b2b086f65e436fe63a44d1"
+          },
+          {
+            "path": "state/translation_v2/reviews/page_094-r1-approved.md",
+            "working_sha256": "2ce223cd2689051f4021f90e97ba5d87cec15cbf2dbddad46d66f30c70cd6147",
+            "git_blob_sha256": "2ce223cd2689051f4021f90e97ba5d87cec15cbf2dbddad46d66f30c70cd6147"
+          }
+        ],
+        "file_hashes": {
+          "ocr/enriched/page_094.txt": "6156de1879d2671569fb2d3f9f11a24681457960e04c999e81d0ccf37913ae0b",
+          "ocr/enriched_en/page_094.txt": "d3f309a42c576fc23d95f2f3e3ce5c06ee9e460946d2e241e52f66cdfcc986e8",
+          "ocr/enriched_id/page_094.txt": "15c58c738759c44c6bed14ce959f0799295ac80953f98c092844e502534b4d17"
+        },
+        "english_unclear": 12,
+        "indonesian_unclear": 12
+      }
+    ],
+    "checks": "PASS",
+    "trust_boundary": "Independent model review; no human approval or deployed-reader verification claimed. Snapshot before later documentation commit and remote publication.",
+    "concurrent_external_publication": {
+      "observed_at_utc": "2026-11-07T15:09:42.445759+00:00",
+      "baseline_head": "31a4ad891529edd0323795e6aeacbccf48d34412",
+      "commits": [
+        {
+          "sha": "3c4fd4070dfd6fb3b9daf0997ee4b1bed0de077a",
+          "already_published_remote_head": "3c4fd4070dfd6fb3b9daf0997ee4b1bed0de077a",
+          "role": "Separate PDF edition work committed and published concurrently, not by this translation worker; baseline file bytes unchanged.",
+          "files": [
+            {
+              "path": "docs/english-verbatim-pdf-edition.md",
+              "working_sha256": "c3b95be05f8ca00904fb77699e6298f2d7a521f0817608245021dbb07b9130d8",
+              "git_blob_sha256": "c3b95be05f8ca00904fb77699e6298f2d7a521f0817608245021dbb07b9130d8",
+              "was_protected_untracked": false
+            },
+            {
+              "path": "manuscript/Shams-al-Maarif-English-Verbatim-Pages-001-092.pdf",
+              "working_sha256": "9e3680bc06d27a0e00d7366ef3eb9c27b84dd681987b1baf29e428842d40e0c8",
+              "git_blob_sha256": "9e3680bc06d27a0e00d7366ef3eb9c27b84dd681987b1baf29e428842d40e0c8",
+              "was_protected_untracked": true
+            },
+            {
+              "path": "scripts/build_english_verbatim_pdf.py",
+              "working_sha256": "3b37ce136a08286d732c6c10d537376eb18f874280f7604018fc6509e94c9dd9",
+              "git_blob_sha256": "3b37ce136a08286d732c6c10d537376eb18f874280f7604018fc6509e94c9dd9",
+              "was_protected_untracked": true
+            }
+          ]
+        }
+      ]
+    },
+    "protected_wip_baseline_status": "D .hermes/plans/2026-09-25_translation-v2-worker.md\n?? .commandcode/\n?? HERMES_PROMPT_TRANSLATION_ALIGNMENT_V2.md\n?? manuscript/Shams-al-Maarif-English-Verbatim-Pages-001-092.pdf\n?? scripts/build_english_verbatim_pdf.py",
+    "protected_untracked_to_published_transitions": [
+      "manuscript/Shams-al-Maarif-English-Verbatim-Pages-001-092.pdf",
+      "scripts/build_english_verbatim_pdf.py"
+    ],
+    "earlier_segment_documentation_commits": []
+  },
+  "current_tracker_counts": {
+    "blocked": 1,
+    "committed": 94,
+    "pending": 509
+  },
+  "next_unresolved_page": 95,
+  "current_page_status": "blocked",
+  "active_page": null,
+  "worker_lock": null,
+  "verified_head_before_checkpoint_commit": "1520f5f52e6307dbdc30f3c547e0100e2fc7c4ef",
+  "current_page_record": {
+    "page": 95,
+    "status": "blocked",
+    "attempts": 1,
+    "owner": "hermes-page-worker",
+    "claimed_at": "2026-11-07T15:40:36+00:00",
+    "heartbeat_at": "2026-11-07T15:48:02+00:00",
+    "review_submitted_at": null,
+    "reviewer": null,
+    "validator": null,
+    "last_error": "Concurrent user-supplied English editorial override on pages 40-41 and correction notes is outside this campaign scope. Current page95 local validation and1630-glyph roundtrip pass, but exact pending-path gate and accepted-page sweep fail (Arabic examples on40). Preserve all correction WIP; no policy bypass/normalization. Page95 remains an unapproved local draft; reconcile documented override with V2 acceptance contract before resuming.",
+    "commit_sha": null,
+    "committed_at": null
+  },
+  "unapproved_local_page95": {
+    "page": 95,
+    "observed_at_utc": "2026-11-07T15:57:15.064394+00:00",
+    "local_validator_ok": true,
+    "local_triage": [],
+    "source_raw_bytes": 8282,
+    "source_sha256": "08365756db59e0e199e0af18f47430a4ec01aa1503d3d407bc17e0058b6faa32",
+    "source_glyphs": 1630,
+    "core_code_and_operator_unchanged": true,
+    "semantic_review": "Parent independently read the complete short Arabic/EN/ID prose and uncertainty notes; all recoverable words and caption retained; programmatically checked every opaque glyph by exact reversible encoding. No overall approval or commit.",
+    "targets": {
+      "en": {
+        "prefix": "— 89 —\na little with the palm of your hand, and anoint your face with it; everyone who sees you will love you. This is the form of the seal, as you see ✵ ",
+        "localized_uncertainty": "\n\n[UNCLEAR: The seal's source glyphs are unreadable; each bracketed code represents one opaque glyph in the original order, not a reconstructed grid.]",
+        "encoded_count": 1630,
+        "roundtrip_exact": true,
+        "raw_sha256": "532d774a099be50332981a2ecbb09e83ed8f222dd29bb9f5b0f0fadfcabd2147"
+      },
+      "id": {
+        "prefix": "— 89 —\nsedikit dengan telapak tanganmu, lalu olesi wajahmu dengannya; setiap orang yang melihatmu akan mencintaimu. Inilah bentuk segel itu, sebagaimana yang kaulihat ✵ ",
+        "localized_uncertainty": "\n\n[UNCLEAR: Glif segel dalam sumber tidak terbaca; setiap kode dalam kurung siku mewakili satu glif yang tidak dapat diuraikan dalam urutan aslinya, bukan susunan kotak yang direkonstruksi.]",
+        "encoded_count": 1630,
+        "roundtrip_exact": true,
+        "raw_sha256": "c51820544c2bea6918ad8baa67598da16b76df4dfcac0bb82750ef46de2f6828"
+      }
+    },
+    "concurrent_wip_hashes": {
+      "ocr/enriched_en/page_040.txt": "1dc27feee06c7101fa727841503f9f415a1415f03553799eab936ba3bce79d94",
+      "ocr/enriched_en/page_041.txt": "4e6822875ae201127ae9bc54346f086ff2c0731e898667fb901e339536968b60",
+      "docs/english-corrections/2026-11-07-basmala-pages-040-041.md": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912",
+      "docs/english-corrections/2026-11-07-basmala-pages-040-041.txt": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8"
+    },
+    "current_global_sweep_failures": [
+      {
+        "page": 40,
+        "validator_errors": [],
+        "triage": [
+          "en: UNTRANSLATED 7 Arabic characters in 3 run(s), longest 3 (e.g. 'لله')"
+        ]
+      }
+    ]
+  },
+  "current_exact_operator_gate": {
+    "command": "shams_campaign_gate.py check 95",
+    "exit_code": 1,
+    "error": "AssertionError: Out-of-scope pending paths: ['ocr/enriched_en/page_040.txt', 'ocr/enriched_en/page_041.txt', 'ocr/enriched_en/page_043.txt', 'ocr/enriched_en/page_044.txt', 'ocr/enriched_en/page_045.txt', 'docs/english-corrections/2026-11-07-basmala-pages-040-041.md', 'docs/english-corrections/2026-11-07-basmala-pages-040-041.txt', 'docs/english-corrections/2026-11-07-basmala-pages-043-045.md', 'docs/english-corrections/2026-11-07-basmala-physical-043.txt', 'docs/english-corrections/2026-11-07-basmala-physical-044-045.txt']"
+  },
+  "canonical_sources_hashed": 604,
+  "titles_preserved": 604,
+  "protected_baseline_wip_hashes_verified": {
+    ".commandcode/taste/taste.md": {
+      "kind": "file",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    ".hermes/plans/2026-09-25_translation-v2-worker.md": {
+      "kind": "missing"
+    },
+    "HERMES_PROMPT_TRANSLATION_ALIGNMENT_V2.md": {
+      "kind": "file",
+      "sha256": "ede4242da67404c8dee3eb52963a405bd1112794d6a5acc3f560011507c848a8"
+    },
+    "manuscript/Shams-al-Maarif-English-Verbatim-Pages-001-092.pdf": {
+      "kind": "file",
+      "sha256": "9e3680bc06d27a0e00d7366ef3eb9c27b84dd681987b1baf29e428842d40e0c8"
+    },
+    "scripts/build_english_verbatim_pdf.py": {
+      "kind": "file",
+      "sha256": "3b37ce136a08286d732c6c10d537376eb18f874280f7604018fc6509e94c9dd9"
+    }
+  },
+  "current_shared_json_uncommitted_pages": [
+    40,
+    41,
+    43,
+    44,
+    45,
+    95
+  ],
+  "shared_json_sha256": "0902527cfb68b5846cc9a62d063a06207191c57fce4cfa7c7a6a7b102aa9735e",
+  "current_state_only_appended_page95_events": [
+    {
+      "timestamp": "2026-11-07T15:40:36+00:00",
+      "action": "claim",
+      "page": 95,
+      "worker_id": "hermes-page-worker",
+      "attempt": 1
+    },
+    {
+      "timestamp": "2026-11-07T15:40:36+00:00",
+      "action": "start",
+      "page": 95,
+      "worker_id": "hermes-page-worker"
+    },
+    {
+      "timestamp": "2026-11-07T15:48:02+00:00",
+      "action": "heartbeat",
+      "page": 95,
+      "worker_id": "hermes-page-worker"
+    },
+    {
+      "timestamp": "2026-11-07T15:57:15+00:00",
+      "action": "block",
+      "page": 95,
+      "worker_id": "hermes-page-worker",
+      "reason": "Concurrent user-supplied English editorial override on pages 40-41 and correction notes is outside this campaign scope. Current page95 local validation and1630-glyph roundtrip pass, but exact pending-path gate and accepted-page sweep fail (Arabic examples on40). Preserve all correction WIP; no policy bypass/normalization. Page95 remains an unapproved local draft; reconcile documented override with V2 acceptance contract before resuming."
+    }
+  ],
+  "tests": {
+    "passed": 168,
+    "subtests_passed": 49,
+    "seconds": 105.81,
+    "output": "....................... [ 13%]\n........................................................................ [ 56%]\n........................................................................ [ 99%]\n.                                                                        [100%]\n168 passed, 49 subtests passed in 105.81s (0:01:45)\n",
+    "scope": "Python code/tests; does not override the failed global content acceptance gate"
+  },
+  "operator_regressions": {
+    "tests": 2,
+    "output": "test_reject_foreign_letters_including_opaque_gothic (__main__.LatinTargetTests.test_reject_foreign_letters_including_opaque_gothic) ... ok\ntest_page_owned_pending_paths_only (__main__.PendingScopeTests.test_page_owned_pending_paths_only) ... ok\n\n----------------------------------------------------------------------\nRan 2 tests in 0.002s\n\nOK\n",
+    "scope": "Pending-path and general Latin-letter guards; both first observed RED then GREEN"
+  },
+  "publication_scope": "Only already-approved page93/94 commits plus checkpoint docs and blocked95 tracker/events. No page95 content or shared reader JSON is staged. No editorial correction, PDF, builder or other WIP is included.",
+  "trust_boundary": "Model reviews are not human approval. User editorial replacements are attributed overrides, not independently authenticated Arabic-source translations. No gate bypass, automatic style exception, model switch, deployment or live-reader verification.",
+  "additional_concurrent_english_pages_at_observation": [
+    40,
+    41,
+    43,
+    44,
+    45
+  ],
+  "concurrent_english_fingerprints_at_observation": {
+    "ocr/enriched_en/page_040.txt": "1dc27feee06c7101fa727841503f9f415a1415f03553799eab936ba3bce79d94",
+    "ocr/enriched_en/page_041.txt": "4e6822875ae201127ae9bc54346f086ff2c0731e898667fb901e339536968b60",
+    "ocr/enriched_en/page_043.txt": "6d546e59a95868fe5ea6f3452670ec770bf895353512ce1aef2ecd847915369d",
+    "ocr/enriched_en/page_044.txt": "f5e8efb2d488ea272e49f7a33fd41049cf5f95bdf660f80a15f05fc7b9b4bf93",
+    "ocr/enriched_en/page_045.txt": "94962384fa03abb06957f159073cf28bde1d7308b704f87f674cc8cf42a896ab"
+  }
+}
