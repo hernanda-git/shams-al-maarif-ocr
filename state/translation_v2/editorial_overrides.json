@@ -1,0 +1,1199 @@
+{
+  "schema_version": 1,
+  "entries": {
+    "40": {
+      "page": 40,
+      "boundary_page": 95,
+      "authorized_at": "2026-11-07T17:25:24.070191+00:00",
+      "kind": "user_editorial_override",
+      "source_verified": false,
+      "source_sha256": "13203e4b1cf0e260b6d7b99f1a62f8024787d2a53c0a7283ce928a5b82e31898",
+      "previous_en_sha256": "6cd1d7e0bc0b5642aaf389c9be634ab555ecd9d73bc34f21ed48f172dcc72c4b",
+      "en_sha256": "f6592035e0a1505edec3c456bc2fa3edeea86cd268a35caebe72b83fa3d395a4",
+      "observed_raw_en_sha256": "1dc27feee06c7101fa727841503f9f415a1415f03553799eab936ba3bce79d94",
+      "arabic_prefix_sha256": "e5eb24a4edaad76933e39b53f98024d35dfd139678cd9dc87c5a8e421f776c24",
+      "provenance": [
+        {
+          "path": "docs/english-corrections/2026-11-07-161708-basmala-pages-045-046.md",
+          "sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec",
+          "normalized_sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-161708-basmala-physical-045-046.txt",
+          "sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f",
+          "normalized_sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-161720-basmala-repeat-physical-044-045.txt",
+          "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+          "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-1701-pages-050-051.md",
+          "sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149",
+          "normalized_sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-1701-physical-050.txt",
+          "sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5",
+          "normalized_sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-1701-physical-051.txt",
+          "sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896",
+          "normalized_sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.md",
+          "sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912",
+          "normalized_sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.txt",
+          "sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8",
+          "normalized_sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-pages-043-045.md",
+          "sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039",
+          "normalized_sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-physical-043.txt",
+          "sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3",
+          "normalized_sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-physical-044-045.txt",
+          "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+          "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+        },
+        {
+          "path": "docs/english-corrections/integration-page-095-20261108T002524.md",
+          "sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e",
+          "normalized_sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e"
+        }
+      ]
+    },
+    "41": {
+      "page": 41,
+      "boundary_page": 95,
+      "authorized_at": "2026-11-07T17:25:24.070191+00:00",
+      "kind": "user_editorial_override",
+      "source_verified": false,
+      "source_sha256": "eba8010b48af777b303742c4de7def7ff6c1d3f145f36ceb0e074aa9899ead20",
+      "previous_en_sha256": "db5c88f6a67bba6ef94207764372a8c0351d6a0d2677e074804afecb3bf08c1d",
+      "en_sha256": "7c2036376df419faed528975ae6023a8305060234ceffba24ecad61e73c2dc85",
+      "observed_raw_en_sha256": "4e6822875ae201127ae9bc54346f086ff2c0731e898667fb901e339536968b60",
+      "arabic_prefix_sha256": "fbf202957e3ad66a4126aef2ae8c8df36f6a91b696a9914971ca49b49a1f2bc0",
+      "provenance": [
+        {
+          "path": "docs/english-corrections/2026-11-07-161708-basmala-pages-045-046.md",
+          "sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec",
+          "normalized_sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-161708-basmala-physical-045-046.txt",
+          "sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f",
+          "normalized_sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-161720-basmala-repeat-physical-044-045.txt",
+          "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+          "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-1701-pages-050-051.md",
+          "sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149",
+          "normalized_sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-1701-physical-050.txt",
+          "sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5",
+          "normalized_sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-1701-physical-051.txt",
+          "sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896",
+          "normalized_sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.md",
+          "sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912",
+          "normalized_sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.txt",
+          "sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8",
+          "normalized_sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-pages-043-045.md",
+          "sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039",
+          "normalized_sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-physical-043.txt",
+          "sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3",
+          "normalized_sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-physical-044-045.txt",
+          "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+          "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+        },
+        {
+          "path": "docs/english-corrections/integration-page-095-20261108T002524.md",
+          "sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e",
+          "normalized_sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e"
+        }
+      ]
+    },
+    "43": {
+      "page": 43,
+      "boundary_page": 95,
+      "authorized_at": "2026-11-07T17:25:24.070191+00:00",
+      "kind": "user_editorial_override",
+      "source_verified": false,
+      "source_sha256": "6ecbf7060020e320a1626b7a35b242024cd7020692fe95083c6784944c7f490a",
+      "previous_en_sha256": "107e3315f1fcf209364237c4c5b0d8482860ca29aadb51385e8df09cd8c735c8",
+      "en_sha256": "cd99916f3f065f672fa2ffcd6d11d8bdb775ea4a7a77d6807dec8deefdb41579",
+      "observed_raw_en_sha256": "6d546e59a95868fe5ea6f3452670ec770bf895353512ce1aef2ecd847915369d",
+      "arabic_prefix_sha256": "e8a14a381f12c8f842854422ae51aa2da68dca2e43671745f9f9e7e199f3bd19",
+      "provenance": [
+        {
+          "path": "docs/english-corrections/2026-11-07-161708-basmala-pages-045-046.md",
+          "sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec",
+          "normalized_sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-161708-basmala-physical-045-046.txt",
+          "sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f",
+          "normalized_sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-161720-basmala-repeat-physical-044-045.txt",
+          "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+          "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-1701-pages-050-051.md",
+          "sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149",
+          "normalized_sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-1701-physical-050.txt",
+          "sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5",
+          "normalized_sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-1701-physical-051.txt",
+          "sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896",
+          "normalized_sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.md",
+          "sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912",
+          "normalized_sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.txt",
+          "sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8",
+          "normalized_sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-pages-043-045.md",
+          "sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039",
+          "normalized_sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-physical-043.txt",
+          "sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3",
+          "normalized_sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-physical-044-045.txt",
+          "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+          "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+        },
+        {
+          "path": "docs/english-corrections/integration-page-095-20261108T002524.md",
+          "sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e",
+          "normalized_sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e"
+        }
+      ]
+    },
+    "44": {
+      "page": 44,
+      "boundary_page": 95,
+      "authorized_at": "2026-11-07T17:25:24.070191+00:00",
+      "kind": "user_editorial_override",
+      "source_verified": false,
+      "source_sha256": "7b34403aa7d13cbd0b098460b52d3a3325878bb658669f54130eedd430d2ef4e",
+      "previous_en_sha256": "5bf7fb865cbb5a8d1ee6b8a6485a2080e0cd09c1633c76429c1b816a291e9b65",
+      "en_sha256": "e02dc572de8dd120d1c62c6d9178e8c616820d4d9baa093ba070e056b87ef24e",
+      "observed_raw_en_sha256": "f5e8efb2d488ea272e49f7a33fd41049cf5f95bdf660f80a15f05fc7b9b4bf93",
+      "arabic_prefix_sha256": "4ea51a03a037e959f8955f35a5fd1d82ea072ddd97308cb3372a4a48f6d2dc06",
+      "provenance": [
+        {
+          "path": "docs/english-corrections/2026-11-07-161708-basmala-pages-045-046.md",
+          "sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec",
+          "normalized_sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-161708-basmala-physical-045-046.txt",
+          "sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f",
+          "normalized_sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-161720-basmala-repeat-physical-044-045.txt",
+          "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+          "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-1701-pages-050-051.md",
+          "sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149",
+          "normalized_sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-1701-physical-050.txt",
+          "sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5",
+          "normalized_sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-1701-physical-051.txt",
+          "sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896",
+          "normalized_sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.md",
+          "sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912",
+          "normalized_sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.txt",
+          "sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8",
+          "normalized_sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-pages-043-045.md",
+          "sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039",
+          "normalized_sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-physical-043.txt",
+          "sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3",
+          "normalized_sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-physical-044-045.txt",
+          "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+          "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+        },
+        {
+          "path": "docs/english-corrections/integration-page-095-20261108T002524.md",
+          "sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e",
+          "normalized_sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e"
+        }
+      ]
+    },
+    "45": {
+      "page": 45,
+      "boundary_page": 95,
+      "authorized_at": "2026-11-07T17:25:24.070191+00:00",
+      "kind": "user_editorial_override",
+      "source_verified": false,
+      "source_sha256": "14292650e595d38a95e006483450dfdba44f32911148776dc7077cab4bcedc33",
+      "previous_en_sha256": "177c931215953c136d117322b40dafac9c263af64daed1b5fed8f0fbceee595a",
+      "en_sha256": "32d73562954751cbcf4cf661fac661ee6321f51fcdcbd827fddcc35d2a5f7630",
+      "observed_raw_en_sha256": "b6a2674187dffa879b98ff2697a1a437f7ef4618efe821e0b05c65a1c64946e3",
+      "arabic_prefix_sha256": "ccc50ca42ca27a2ae2adf8898e78f4d1e2e90c68536086cf316f596516809ab0",
+      "provenance": [
+        {
+          "path": "docs/english-corrections/2026-11-07-161708-basmala-pages-045-046.md",
+          "sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec",
+          "normalized_sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-161708-basmala-physical-045-046.txt",
+          "sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f",
+          "normalized_sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-161720-basmala-repeat-physical-044-045.txt",
+          "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+          "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-1701-pages-050-051.md",
+          "sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149",
+          "normalized_sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-1701-physical-050.txt",
+          "sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5",
+          "normalized_sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-1701-physical-051.txt",
+          "sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896",
+          "normalized_sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.md",
+          "sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912",
+          "normalized_sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.txt",
+          "sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8",
+          "normalized_sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-pages-043-045.md",
+          "sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039",
+          "normalized_sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-physical-043.txt",
+          "sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3",
+          "normalized_sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-physical-044-045.txt",
+          "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+          "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+        },
+        {
+          "path": "docs/english-corrections/integration-page-095-20261108T002524.md",
+          "sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e",
+          "normalized_sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e"
+        }
+      ]
+    },
+    "46": {
+      "page": 46,
+      "boundary_page": 95,
+      "authorized_at": "2026-11-07T17:25:24.070191+00:00",
+      "kind": "user_editorial_override",
+      "source_verified": false,
+      "source_sha256": "f9d104a56cf14479ddbe2eb64109babe838dc155d2afa511860546a9504d52c6",
+      "previous_en_sha256": "e977623c37294e0b702d2ffbb8b5000291b53d7b716ece1f030e644fbf0db03b",
+      "en_sha256": "083d323a980e514a42c6ea98853d79325566d0ef30ca417af5fe8b3d5108825c",
+      "observed_raw_en_sha256": "d2430e587293e6ea4c20e3d222de870181f981ad19522a6097a16ceff69882ba",
+      "arabic_prefix_sha256": "6cee2ee778af11f24933411c1bb67576455ec15891c82349779c5b69c95a4f7a",
+      "provenance": [
+        {
+          "path": "docs/english-corrections/2026-11-07-161708-basmala-pages-045-046.md",
+          "sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec",
+          "normalized_sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-161708-basmala-physical-045-046.txt",
+          "sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f",
+          "normalized_sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-161720-basmala-repeat-physical-044-045.txt",
+          "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+          "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-1701-pages-050-051.md",
+          "sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149",
+          "normalized_sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-1701-physical-050.txt",
+          "sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5",
+          "normalized_sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-1701-physical-051.txt",
+          "sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896",
+          "normalized_sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.md",
+          "sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912",
+          "normalized_sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.txt",
+          "sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8",
+          "normalized_sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-pages-043-045.md",
+          "sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039",
+          "normalized_sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-physical-043.txt",
+          "sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3",
+          "normalized_sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-physical-044-045.txt",
+          "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+          "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+        },
+        {
+          "path": "docs/english-corrections/integration-page-095-20261108T002524.md",
+          "sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e",
+          "normalized_sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e"
+        }
+      ]
+    },
+    "50": {
+      "page": 50,
+      "boundary_page": 95,
+      "authorized_at": "2026-11-07T17:25:24.070191+00:00",
+      "kind": "user_editorial_override",
+      "source_verified": false,
+      "source_sha256": "2ee83ba6640f3340b9bbc0e7a2aa093e25dc97ee94b7997c89aa1acf4b2e754e",
+      "previous_en_sha256": "fba3f2ffddc50fd3fb568b8eb9c6dfc627bb8d1b9c6ab1487cb97bcaa9de4a39",
+      "en_sha256": "c24b58578f4c78baee3784f80f47d78e25a214750c579cb5939794aebeec64e0",
+      "observed_raw_en_sha256": "6f206618763054b862ba4cd2e66cb0058520a4f19e1be613683fc1477d3746a2",
+      "arabic_prefix_sha256": "40f6ec6bd53d56a7625f9e64768c3a7ad123daadfafa63b1724d8daf2a482ac4",
+      "provenance": [
+        {
+          "path": "docs/english-corrections/2026-11-07-161708-basmala-pages-045-046.md",
+          "sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec",
+          "normalized_sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-161708-basmala-physical-045-046.txt",
+          "sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f",
+          "normalized_sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-161720-basmala-repeat-physical-044-045.txt",
+          "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+          "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-1701-pages-050-051.md",
+          "sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149",
+          "normalized_sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-1701-physical-050.txt",
+          "sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5",
+          "normalized_sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-1701-physical-051.txt",
+          "sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896",
+          "normalized_sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.md",
+          "sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912",
+          "normalized_sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.txt",
+          "sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8",
+          "normalized_sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-pages-043-045.md",
+          "sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039",
+          "normalized_sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-physical-043.txt",
+          "sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3",
+          "normalized_sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-physical-044-045.txt",
+          "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+          "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+        },
+        {
+          "path": "docs/english-corrections/integration-page-095-20261108T002524.md",
+          "sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e",
+          "normalized_sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e"
+        }
+      ]
+    },
+    "51": {
+      "page": 51,
+      "boundary_page": 95,
+      "authorized_at": "2026-11-07T17:25:24.070191+00:00",
+      "kind": "user_editorial_override",
+      "source_verified": false,
+      "source_sha256": "1e93284857f930770a515646b66c673cd01bf792e4266e5c1c7cb76c307a6875",
+      "previous_en_sha256": "35e55ab61f7a3bef17decde916eab0c963106df97ffe08d1b0d9f4aa0fdb32ef",
+      "en_sha256": "b1f0df0ce55edf91a947a0b102c567181a7ee2fd3d31239dd2e2ca54c85269e2",
+      "observed_raw_en_sha256": "5c7cbfa026174c9571653753df1c9c79b5311d8415ff6502a889598bd3e15fb9",
+      "arabic_prefix_sha256": "e9bcc5327366d31cd5ca73346105648937fcaf64ce93a8e4f29ba74e9291eb1c",
+      "provenance": [
+        {
+          "path": "docs/english-corrections/2026-11-07-161708-basmala-pages-045-046.md",
+          "sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec",
+          "normalized_sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-161708-basmala-physical-045-046.txt",
+          "sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f",
+          "normalized_sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-161720-basmala-repeat-physical-044-045.txt",
+          "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+          "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-1701-pages-050-051.md",
+          "sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149",
+          "normalized_sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-1701-physical-050.txt",
+          "sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5",
+          "normalized_sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-1701-physical-051.txt",
+          "sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896",
+          "normalized_sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.md",
+          "sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912",
+          "normalized_sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.txt",
+          "sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8",
+          "normalized_sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-pages-043-045.md",
+          "sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039",
+          "normalized_sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-physical-043.txt",
+          "sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3",
+          "normalized_sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3"
+        },
+        {
+          "path": "docs/english-corrections/2026-11-07-basmala-physical-044-045.txt",
+          "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+          "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+        },
+        {
+          "path": "docs/english-corrections/integration-page-095-20261108T002524.md",
+          "sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e",
+          "normalized_sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e"
+        }
+      ]
+    }
+  },
+  "history": [
+    {
+      "boundary_page": 95,
+      "captured_at_utc": "2026-11-07T17:25:24.070191+00:00",
+      "authority": "include it in this line, I will make a parallel fixings when you are still on going, merge it and include it in commit everytime you complete a new page. continue",
+      "previous_entries": {},
+      "adopted_entries": {
+        "40": {
+          "page": 40,
+          "boundary_page": 95,
+          "authorized_at": "2026-11-07T17:25:24.070191+00:00",
+          "kind": "user_editorial_override",
+          "source_verified": false,
+          "source_sha256": "13203e4b1cf0e260b6d7b99f1a62f8024787d2a53c0a7283ce928a5b82e31898",
+          "previous_en_sha256": "6cd1d7e0bc0b5642aaf389c9be634ab555ecd9d73bc34f21ed48f172dcc72c4b",
+          "en_sha256": "f6592035e0a1505edec3c456bc2fa3edeea86cd268a35caebe72b83fa3d395a4",
+          "observed_raw_en_sha256": "1dc27feee06c7101fa727841503f9f415a1415f03553799eab936ba3bce79d94",
+          "arabic_prefix_sha256": "e5eb24a4edaad76933e39b53f98024d35dfd139678cd9dc87c5a8e421f776c24",
+          "provenance": [
+            {
+              "path": "docs/english-corrections/2026-11-07-161708-basmala-pages-045-046.md",
+              "sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec",
+              "normalized_sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-161708-basmala-physical-045-046.txt",
+              "sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f",
+              "normalized_sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-161720-basmala-repeat-physical-044-045.txt",
+              "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+              "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-1701-pages-050-051.md",
+              "sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149",
+              "normalized_sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-1701-physical-050.txt",
+              "sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5",
+              "normalized_sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-1701-physical-051.txt",
+              "sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896",
+              "normalized_sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.md",
+              "sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912",
+              "normalized_sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.txt",
+              "sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8",
+              "normalized_sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-pages-043-045.md",
+              "sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039",
+              "normalized_sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-physical-043.txt",
+              "sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3",
+              "normalized_sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-physical-044-045.txt",
+              "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+              "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+            },
+            {
+              "path": "docs/english-corrections/integration-page-095-20261108T002524.md",
+              "sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e",
+              "normalized_sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e"
+            }
+          ]
+        },
+        "41": {
+          "page": 41,
+          "boundary_page": 95,
+          "authorized_at": "2026-11-07T17:25:24.070191+00:00",
+          "kind": "user_editorial_override",
+          "source_verified": false,
+          "source_sha256": "eba8010b48af777b303742c4de7def7ff6c1d3f145f36ceb0e074aa9899ead20",
+          "previous_en_sha256": "db5c88f6a67bba6ef94207764372a8c0351d6a0d2677e074804afecb3bf08c1d",
+          "en_sha256": "7c2036376df419faed528975ae6023a8305060234ceffba24ecad61e73c2dc85",
+          "observed_raw_en_sha256": "4e6822875ae201127ae9bc54346f086ff2c0731e898667fb901e339536968b60",
+          "arabic_prefix_sha256": "fbf202957e3ad66a4126aef2ae8c8df36f6a91b696a9914971ca49b49a1f2bc0",
+          "provenance": [
+            {
+              "path": "docs/english-corrections/2026-11-07-161708-basmala-pages-045-046.md",
+              "sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec",
+              "normalized_sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-161708-basmala-physical-045-046.txt",
+              "sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f",
+              "normalized_sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-161720-basmala-repeat-physical-044-045.txt",
+              "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+              "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-1701-pages-050-051.md",
+              "sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149",
+              "normalized_sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-1701-physical-050.txt",
+              "sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5",
+              "normalized_sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-1701-physical-051.txt",
+              "sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896",
+              "normalized_sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.md",
+              "sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912",
+              "normalized_sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.txt",
+              "sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8",
+              "normalized_sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-pages-043-045.md",
+              "sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039",
+              "normalized_sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-physical-043.txt",
+              "sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3",
+              "normalized_sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-physical-044-045.txt",
+              "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+              "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+            },
+            {
+              "path": "docs/english-corrections/integration-page-095-20261108T002524.md",
+              "sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e",
+              "normalized_sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e"
+            }
+          ]
+        },
+        "43": {
+          "page": 43,
+          "boundary_page": 95,
+          "authorized_at": "2026-11-07T17:25:24.070191+00:00",
+          "kind": "user_editorial_override",
+          "source_verified": false,
+          "source_sha256": "6ecbf7060020e320a1626b7a35b242024cd7020692fe95083c6784944c7f490a",
+          "previous_en_sha256": "107e3315f1fcf209364237c4c5b0d8482860ca29aadb51385e8df09cd8c735c8",
+          "en_sha256": "cd99916f3f065f672fa2ffcd6d11d8bdb775ea4a7a77d6807dec8deefdb41579",
+          "observed_raw_en_sha256": "6d546e59a95868fe5ea6f3452670ec770bf895353512ce1aef2ecd847915369d",
+          "arabic_prefix_sha256": "e8a14a381f12c8f842854422ae51aa2da68dca2e43671745f9f9e7e199f3bd19",
+          "provenance": [
+            {
+              "path": "docs/english-corrections/2026-11-07-161708-basmala-pages-045-046.md",
+              "sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec",
+              "normalized_sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-161708-basmala-physical-045-046.txt",
+              "sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f",
+              "normalized_sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-161720-basmala-repeat-physical-044-045.txt",
+              "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+              "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-1701-pages-050-051.md",
+              "sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149",
+              "normalized_sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-1701-physical-050.txt",
+              "sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5",
+              "normalized_sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-1701-physical-051.txt",
+              "sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896",
+              "normalized_sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.md",
+              "sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912",
+              "normalized_sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.txt",
+              "sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8",
+              "normalized_sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-pages-043-045.md",
+              "sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039",
+              "normalized_sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-physical-043.txt",
+              "sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3",
+              "normalized_sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-physical-044-045.txt",
+              "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+              "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+            },
+            {
+              "path": "docs/english-corrections/integration-page-095-20261108T002524.md",
+              "sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e",
+              "normalized_sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e"
+            }
+          ]
+        },
+        "44": {
+          "page": 44,
+          "boundary_page": 95,
+          "authorized_at": "2026-11-07T17:25:24.070191+00:00",
+          "kind": "user_editorial_override",
+          "source_verified": false,
+          "source_sha256": "7b34403aa7d13cbd0b098460b52d3a3325878bb658669f54130eedd430d2ef4e",
+          "previous_en_sha256": "5bf7fb865cbb5a8d1ee6b8a6485a2080e0cd09c1633c76429c1b816a291e9b65",
+          "en_sha256": "e02dc572de8dd120d1c62c6d9178e8c616820d4d9baa093ba070e056b87ef24e",
+          "observed_raw_en_sha256": "f5e8efb2d488ea272e49f7a33fd41049cf5f95bdf660f80a15f05fc7b9b4bf93",
+          "arabic_prefix_sha256": "4ea51a03a037e959f8955f35a5fd1d82ea072ddd97308cb3372a4a48f6d2dc06",
+          "provenance": [
+            {
+              "path": "docs/english-corrections/2026-11-07-161708-basmala-pages-045-046.md",
+              "sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec",
+              "normalized_sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-161708-basmala-physical-045-046.txt",
+              "sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f",
+              "normalized_sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-161720-basmala-repeat-physical-044-045.txt",
+              "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+              "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-1701-pages-050-051.md",
+              "sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149",
+              "normalized_sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-1701-physical-050.txt",
+              "sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5",
+              "normalized_sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-1701-physical-051.txt",
+              "sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896",
+              "normalized_sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.md",
+              "sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912",
+              "normalized_sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.txt",
+              "sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8",
+              "normalized_sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-pages-043-045.md",
+              "sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039",
+              "normalized_sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-physical-043.txt",
+              "sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3",
+              "normalized_sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-physical-044-045.txt",
+              "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+              "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+            },
+            {
+              "path": "docs/english-corrections/integration-page-095-20261108T002524.md",
+              "sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e",
+              "normalized_sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e"
+            }
+          ]
+        },
+        "45": {
+          "page": 45,
+          "boundary_page": 95,
+          "authorized_at": "2026-11-07T17:25:24.070191+00:00",
+          "kind": "user_editorial_override",
+          "source_verified": false,
+          "source_sha256": "14292650e595d38a95e006483450dfdba44f32911148776dc7077cab4bcedc33",
+          "previous_en_sha256": "177c931215953c136d117322b40dafac9c263af64daed1b5fed8f0fbceee595a",
+          "en_sha256": "32d73562954751cbcf4cf661fac661ee6321f51fcdcbd827fddcc35d2a5f7630",
+          "observed_raw_en_sha256": "b6a2674187dffa879b98ff2697a1a437f7ef4618efe821e0b05c65a1c64946e3",
+          "arabic_prefix_sha256": "ccc50ca42ca27a2ae2adf8898e78f4d1e2e90c68536086cf316f596516809ab0",
+          "provenance": [
+            {
+              "path": "docs/english-corrections/2026-11-07-161708-basmala-pages-045-046.md",
+              "sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec",
+              "normalized_sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-161708-basmala-physical-045-046.txt",
+              "sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f",
+              "normalized_sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-161720-basmala-repeat-physical-044-045.txt",
+              "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+              "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-1701-pages-050-051.md",
+              "sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149",
+              "normalized_sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-1701-physical-050.txt",
+              "sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5",
+              "normalized_sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-1701-physical-051.txt",
+              "sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896",
+              "normalized_sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.md",
+              "sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912",
+              "normalized_sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.txt",
+              "sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8",
+              "normalized_sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-pages-043-045.md",
+              "sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039",
+              "normalized_sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-physical-043.txt",
+              "sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3",
+              "normalized_sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-physical-044-045.txt",
+              "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+              "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+            },
+            {
+              "path": "docs/english-corrections/integration-page-095-20261108T002524.md",
+              "sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e",
+              "normalized_sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e"
+            }
+          ]
+        },
+        "46": {
+          "page": 46,
+          "boundary_page": 95,
+          "authorized_at": "2026-11-07T17:25:24.070191+00:00",
+          "kind": "user_editorial_override",
+          "source_verified": false,
+          "source_sha256": "f9d104a56cf14479ddbe2eb64109babe838dc155d2afa511860546a9504d52c6",
+          "previous_en_sha256": "e977623c37294e0b702d2ffbb8b5000291b53d7b716ece1f030e644fbf0db03b",
+          "en_sha256": "083d323a980e514a42c6ea98853d79325566d0ef30ca417af5fe8b3d5108825c",
+          "observed_raw_en_sha256": "d2430e587293e6ea4c20e3d222de870181f981ad19522a6097a16ceff69882ba",
+          "arabic_prefix_sha256": "6cee2ee778af11f24933411c1bb67576455ec15891c82349779c5b69c95a4f7a",
+          "provenance": [
+            {
+              "path": "docs/english-corrections/2026-11-07-161708-basmala-pages-045-046.md",
+              "sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec",
+              "normalized_sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-161708-basmala-physical-045-046.txt",
+              "sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f",
+              "normalized_sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-161720-basmala-repeat-physical-044-045.txt",
+              "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+              "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-1701-pages-050-051.md",
+              "sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149",
+              "normalized_sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-1701-physical-050.txt",
+              "sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5",
+              "normalized_sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-1701-physical-051.txt",
+              "sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896",
+              "normalized_sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.md",
+              "sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912",
+              "normalized_sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.txt",
+              "sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8",
+              "normalized_sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-pages-043-045.md",
+              "sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039",
+              "normalized_sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-physical-043.txt",
+              "sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3",
+              "normalized_sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-physical-044-045.txt",
+              "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+              "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+            },
+            {
+              "path": "docs/english-corrections/integration-page-095-20261108T002524.md",
+              "sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e",
+              "normalized_sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e"
+            }
+          ]
+        },
+        "50": {
+          "page": 50,
+          "boundary_page": 95,
+          "authorized_at": "2026-11-07T17:25:24.070191+00:00",
+          "kind": "user_editorial_override",
+          "source_verified": false,
+          "source_sha256": "2ee83ba6640f3340b9bbc0e7a2aa093e25dc97ee94b7997c89aa1acf4b2e754e",
+          "previous_en_sha256": "fba3f2ffddc50fd3fb568b8eb9c6dfc627bb8d1b9c6ab1487cb97bcaa9de4a39",
+          "en_sha256": "c24b58578f4c78baee3784f80f47d78e25a214750c579cb5939794aebeec64e0",
+          "observed_raw_en_sha256": "6f206618763054b862ba4cd2e66cb0058520a4f19e1be613683fc1477d3746a2",
+          "arabic_prefix_sha256": "40f6ec6bd53d56a7625f9e64768c3a7ad123daadfafa63b1724d8daf2a482ac4",
+          "provenance": [
+            {
+              "path": "docs/english-corrections/2026-11-07-161708-basmala-pages-045-046.md",
+              "sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec",
+              "normalized_sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-161708-basmala-physical-045-046.txt",
+              "sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f",
+              "normalized_sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-161720-basmala-repeat-physical-044-045.txt",
+              "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+              "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-1701-pages-050-051.md",
+              "sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149",
+              "normalized_sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-1701-physical-050.txt",
+              "sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5",
+              "normalized_sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-1701-physical-051.txt",
+              "sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896",
+              "normalized_sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.md",
+              "sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912",
+              "normalized_sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.txt",
+              "sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8",
+              "normalized_sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-pages-043-045.md",
+              "sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039",
+              "normalized_sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-physical-043.txt",
+              "sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3",
+              "normalized_sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-physical-044-045.txt",
+              "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+              "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+            },
+            {
+              "path": "docs/english-corrections/integration-page-095-20261108T002524.md",
+              "sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e",
+              "normalized_sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e"
+            }
+          ]
+        },
+        "51": {
+          "page": 51,
+          "boundary_page": 95,
+          "authorized_at": "2026-11-07T17:25:24.070191+00:00",
+          "kind": "user_editorial_override",
+          "source_verified": false,
+          "source_sha256": "1e93284857f930770a515646b66c673cd01bf792e4266e5c1c7cb76c307a6875",
+          "previous_en_sha256": "35e55ab61f7a3bef17decde916eab0c963106df97ffe08d1b0d9f4aa0fdb32ef",
+          "en_sha256": "b1f0df0ce55edf91a947a0b102c567181a7ee2fd3d31239dd2e2ca54c85269e2",
+          "observed_raw_en_sha256": "5c7cbfa026174c9571653753df1c9c79b5311d8415ff6502a889598bd3e15fb9",
+          "arabic_prefix_sha256": "e9bcc5327366d31cd5ca73346105648937fcaf64ce93a8e4f29ba74e9291eb1c",
+          "provenance": [
+            {
+              "path": "docs/english-corrections/2026-11-07-161708-basmala-pages-045-046.md",
+              "sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec",
+              "normalized_sha256": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-161708-basmala-physical-045-046.txt",
+              "sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f",
+              "normalized_sha256": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-161720-basmala-repeat-physical-044-045.txt",
+              "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+              "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-1701-pages-050-051.md",
+              "sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149",
+              "normalized_sha256": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-1701-physical-050.txt",
+              "sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5",
+              "normalized_sha256": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-1701-physical-051.txt",
+              "sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896",
+              "normalized_sha256": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.md",
+              "sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912",
+              "normalized_sha256": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-pages-040-041.txt",
+              "sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8",
+              "normalized_sha256": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-pages-043-045.md",
+              "sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039",
+              "normalized_sha256": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-physical-043.txt",
+              "sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3",
+              "normalized_sha256": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3"
+            },
+            {
+              "path": "docs/english-corrections/2026-11-07-basmala-physical-044-045.txt",
+              "sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+              "normalized_sha256": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf"
+            },
+            {
+              "path": "docs/english-corrections/integration-page-095-20261108T002524.md",
+              "sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e",
+              "normalized_sha256": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
