@@ -46,10 +46,12 @@ Arabic:
 
 English:
 — 94 —
+[Translator's note: The procedures and assertions below are the source's claims, not recommendations or endorsements of their efficacy.]
 
-in this birth, and it is that you calculate her name and her mother’s name and the name of the day on which you are in that month, and add
-to it the abjad and what has passed of the month as mentioned, and subtract it and compare; if it falls in the Tablet of Life, then judge by its life, and if
-it falls in the Tablet of Death, then it does not live. Likewise calculate the victor and the vanquished, and for every difficult matter, and God Most High is more knowing of what is correct. (And this is the description of the two tablets as you see, so understand.)
+in this birth [UNCLEAR: this continues a sentence from before the page boundary]. It consists in calculating her own name and her mother's name and the name of the day you are in, in that month, and adding
+to it the base and what has elapsed of the month, as stated. Subtract it [UNCLEAR: the amount to subtract is not specified here] and compare. If it falls in the Tablet of Life, judge that he will live [UNCLEAR: the masculine referent is not specified here]; if
+it falls in the Tablet of Death, he will not live. Calculate likewise for the victor and the vanquished, and for every difficult matter. God,
+glorified and Most High, knows best what is correct. (This is the form of the two tablets, as you see, so understand.)
 
 | one | two | three | four | five | six |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -58,14 +60,14 @@ it falls in the Tablet of Death, then it does not live. Likewise calculate the v
 | nineteen | twenty | twenty-two | twenty-one | twenty-four | twenty-five |
 | twenty-three | twenty-six | twenty-eight | twenty-seven | twenty-nine | thirty |
 
-(A benefit called the Great Qamqamah, useful for every illness in the body)
-It is written on a paper and dissolved in water and he drinks it; and if you write it in a pure vessel
-and erase it with a little good oil, or anoint with it whoever has an ailment of ailments,
-then God removes it from him, and this is its description.
-(A benefit for the release of the imprisoned) and it is
-that the imprisoned person looks at pure earth,
-then that earth is sprinkled in the hour
-first of Friday, then he carries it
+(A benefit called al-qamqama al-kubrā [UNCLEAR: the meaning of this title is uncertain], which benefits every disease in the body)
+It is written on a sheet, dissolved in water, and you drink it. And if you write it in a clean vessel
+and erase it with a little fragrant oil, or anoint with it someone who has any ailment [UNCLEAR: the grammatical connection of the 'or anoint' clause is uncertain],
+then God removes it from him. This is its form.
+(A benefit for the prisoner's release) It consists in
+the prisoner looking at pure earth;
+then sprinkle that earth in the first
+hour of Friday; then it is carried
 
 | Tablet of Life | Tablet of Death |
 | :--- | :--- |
@@ -75,16 +77,16 @@ first of Friday, then he carries it
 | 19 20 22 | 18 20 21 |
 | 23 26 28 | 17 19 30 |
 
-the imprisoned person after the prayer of two rak‘ahs, for he will be released quickly, and it has been tried and proven true, and this is the numerical triangular wafq as you see.
-(A benefit) from some of the shaykhs: he said, if you have a need and you want its fulfillment and it is slow in coming to you,
-then go to a mosque from among the mosques and stand in its qiblah and turn to God Most High and say: O God, to You
-I have قصدت, and at Your door I have stood, and to Your presence I have taken refuge, and to You I have asked, and by Muhammad, may God bless him and his family,
-to You I have sought means, and by Your saints and Your chosen ones I have sought intercession, so pour forth, O God, my need and relieve my distress. Then name
-your need and what you want. Then after that pray two rak‘ahs, reciting in each rak‘ah the Opening of the Book and say, O you
-disbelievers, and the Sincerity, and the two protectors, and say in the last prostration while you are prostrating: And Ayyub, when he called upon his Lord, “Indeed, harm has touched me,
-and You are the Most Merciful of the merciful.” So We responded to him, and removed what was upon him of harm, and gave him his family and the like of them with them, as a mercy from Us
-and a reminder for the worshippers. Then raise your head and recite the salutations and give peace. When you have finished the prayer, stand facing the qiblah
-and say: O God, Your knowledge has enriched me from asking. My God, if the Arabs and the non-Arabs, when a seeker of refuge seeks refuge with him, he grants him refuge, and You are the God
-of the Arabs and the non-Arabs, and I have sought refuge with You, so grant me refuge and do not send me back disappointed. And I have hoped for response from You, so respond to me and fulfill
-my need and give me my wish and what I seek, by Your mercy, O Most Merciful of the merciful. Then ask God for your need, for God will respond to you
-by His grace
+by the prisoner after praying two rakʿahs, and he is released quickly. It has been tried and proved sound. This is the threefold numerical wafq, as you see.
+(A benefit) It is related from one of the shaykhs, who said: If you have a need, wish for it to be fulfilled, and its fulfillment is slow in coming,
+then go to one of the mosques, stand at its qiblah, turn toward God Most High, and say: "O God, toward You
+I have directed myself, at Your door I have stood, in Your presence I have taken refuge, and to You I have put my request. Through Muhammad, peace and blessings be upon him,
+and his family, I have sought a means of approach to You; through Your friends and Your elect I have sought intercession. So pour forth, O God, my need [UNCLEAR: the source wording fa-afiḍ, 'pour forth,' is unusual here; its intended sense is uncertain], and relieve my distress." Then name
+your need and what you want. After that, pray two rakʿahs, reciting in each rakʿah the Opening of the Book, "Say: O
+disbelievers," al-Ikhlāṣ, and the two refuge surahs. In the last prostration, while you are prostrating, say: "And Job, when he called upon his Lord: 'Distress has touched me,
+and You are the most merciful of the merciful.' So We answered him and removed the distress that was upon him, and gave him his family and their like with them, as a mercy from Us
+and a reminder to the worshippers." Then raise your head, recite the taḥiyyāt, and give the salām. When you have finished the prayer, rise and stand facing the qiblah
+and say: "O God, Your knowledge has made asking unnecessary for me. My God, the Arabs and the non-Arabs, when a seeker of protection seeks refuge with him, he grants him protection [UNCLEAR: the singular 'him/he' following these plural groups has an uncertain referent]; and You are the God
+of the Arabs and the non-Arabs. I have taken refuge in You, so grant me protection, and do not send me back disappointed. I have hoped for an answer from You, so answer me and fulfill
+my need, and grant me my wish; and what I seek is Your mercy, O most merciful of the merciful." Then ask God for your need, for God answers you
+by His favor.
