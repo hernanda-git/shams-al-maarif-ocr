@@ -1,0 +1,126 @@
+{
+  "page": 82,
+  "revision": 2,
+  "verdict": "REWORK",
+  "reviewer_id": "hermes-independent-reviewer",
+  "worker_agent_id": "sa-0-7ad2781f; parent explicit-Prophet attribution patch",
+  "reviewer_provenance": "independent_model (fresh reviewing child; separate from translator and parent repairer)",
+  "review_scope": "Entire canonical page independently compared clause by clause with the full English and Indonesian target blocks; style guide and prior rework record read. No translation, source, tracker, or repository report edits.",
+  "actual_reviewed_hashes": {
+    "ocr/enriched/page_082.txt": "b4deb3f84251f0fb29572ee1c507ce947e92185ed1f0fdbb3bc13dd484c9faeb",
+    "ocr/enriched_en/page_082.txt": "bec5105d336efbce9f83467a859dc73097f7ecc87221b8c93d1197867b9540a0",
+    "ocr/enriched_id/page_082.txt": "2a48b7508bf1735de7c6fe9e90fd0b169320538185193210a8ea2c51ba25ba97"
+  },
+  "expected_hashes_match": true,
+  "coverage": [
+    {
+      "area": "File contract, immutable Arabic, script, and folio",
+      "result": "PASS",
+      "detail": "Each file has exactly one Arabic label and one correct target label; embedded Arabic equals canonical source after permitted newline/outer-trim normalization. Both target folio lines are — 76 —. Programmatic Unicode-letter scan found no non-Latin target letters; foreign-script/control/replacement sweep also passed."
+    },
+    {
+      "area": "Opening continuation and supplication",
+      "result": "PASS",
+      "detail": "Continuation 'we seek help)' and all worldly/religious needs retained; Master of kings/all worlds, divine unity, glorification, first-person wrongdoing, rescue/aid by mercy, both world/mercy addresses, fear/caution, and complete supplied straight-path fragment retained in source order."
+    },
+    {
+      "area": "First al-Fatihah procedure and source contradiction",
+      "result": "PASS",
+      "detail": "Second supplication; al-Fatihah 18 after each prayer and 25 after Witr; no fasting and no discipline; nevertheless conditional 7 days of seclusion/discipline; post-supplication green servant request and omnipotence; post-recitation aloeswood, frankincense/luban, and jawi during seclusion all retained. Contradiction not harmonized. Broken final conditional is translated and explicitly marked uncertain in each target language."
+    },
+    {
+      "area": "Love procedure",
+      "result": "PASS",
+      "detail": "Write following wafq in Venus hour, carry it, recite this invocation, and source's desired-result claim retained without independent endorsement. Basmala and opening praise retained."
+    },
+    {
+      "area": "Angel sequence and actors",
+      "result": "PASS",
+      "detail": "Five named addresses retained distinctly and in order: Jibril, Sarfiyail, Ruqiyail, Zarail, Azrail; followed by the unnamed final address. Helpers recur in all six addresses. First casting request remains addressed to God; subsequent singular cast at Sarfiyail is explicitly singular, followed by plural casts at Ruqiyail, Zarail, Azrail, and unnamed final address. Hearing/obedience qualifications remain at the two source locations without changing them into additional plural casting commands."
+    },
+    {
+      "area": "Six ordered divine-epithet groups",
+      "result": "PASS",
+      "detail": "Compared all groups: Mighty/Compeller/Generous/Bestower/All-Subduing; God/Living/Self-Subsisting/One/Unique; King/All-Powerful/Advancer/Originator/Restorer; Sole/Living/Self-Subsisting; One/All-Knowing/Bountiful/Generous; Subduer/Mighty/Majestic/Great. Neither target drops or reorders a member."
+    },
+    {
+      "area": "Love placeholders and quoted fragments",
+      "result": "PASS",
+      "detail": "Repeated love-of-so-and-so/heart-of-so-and-so formulas retained, including doubled final 'so-and-so and so-and-so'. Supplied al-Fatihah fragments occur at their original invocation boundaries. Partial 'they love them ... those who believe ... stronger in love for God' is not expanded with an absent verse opening or ending. Wafq introduction retained."
+    },
+    {
+      "area": "Medical-benefit procedure",
+      "result": "PASS",
+      "detail": "Pure water; al-Fatihah and Ayat al-Kursi 7 times; two Refuge surahs 71 times; drinking on empty stomach for 3 days; source claim of recovery from every affliction all retained. Knower attribution, thousand outward plus thousand inward properties, writing in a vessel/washing off/giving to drink for any illness and removal by God retained. No clinical advice or new endorsement added."
+    },
+    {
+      "area": "Explicit Prophet attribution and other quoted sayings",
+      "result": "PASS",
+      "detail": "Counted exactly three explicit 'The Prophet, peace be upon him, said' / 'Nabi, semoga salam tercurah kepadanya, bersabda' attributions. Source's shorter peace-only honorific preserved without adding blessings. Bed/side/al-Fatihah/'Say: He is God, One'/safety saying and end-of-al-Hashr/hand beneath head/healing request/healed saying retain all conditions and actors. No authenticity judgment imported."
+    },
+    {
+      "area": "Lock-hijab formula grammatical voice",
+      "result": "REWORK",
+      "detail": "Both targets turn the opening recited self-protection formula into a second-person command ('Take shelter' / 'Berlindunglah'). See finding P082-R2-01 and its explicitly qualified source-spelling uncertainty."
+    },
+    {
+      "area": "Opaque lock-hijab tokens and numerals",
+      "result": "PASS",
+      "detail": "Checked the opaque sequence from 'iz'izzihi through al-, hil, saj, najwa, wasafa, batsh, a'lam, shahush, 'urush, mahlash, barkiya, halil, 'umarhadayat, balyayih. All four numeral 3 positions retained. No opaque word replaced with an invented semantic explanation. Lord/your plural/noble angels clause retained. Vowels are transliteration choices, not a claimed recovery of missing source vocalization."
+    },
+    {
+      "area": "Exact letter groups",
+      "result": "PASS",
+      "detail": "Both targets preserve bā-alif-lām-ṣād for بالص, kāf-hā-yā-'ayn-ṣād for كهيعص, and ḥā-mīm-sīn-qāf for حمسق. No remembered 'ayn is inserted into the last group."
+    },
+    {
+      "area": "Abbreviated Quranic quotations and final fragment",
+      "result": "PASS",
+      "detail": "Checked Sad/Reminder and verse marker; Qaf/glorious Quran; Nun/pen/what they write; sky/night-comer up to guardian; ranks up to reminder; alternative star-when-it-falls clause; al-Qamar plus etc.; tremendous oath; mountain quotation plus etc.; revelation quotation only up to shatat. No absent intermediate verses supplied. Final 'I have protected / all' remains unfinished with the separate final line."
+    },
+    {
+      "area": "Grid geometry, headers, numbers, and duplicates",
+      "result": "PASS",
+      "detail": "Programmatic cell comparison confirms three header cells and three separator cells, but four cells in each numeric row, exactly as canonical source. Headers retain Mikail / first-person cast-upon-you / Jibril. Data rows exactly [206,206,402,200], [404,299,449,205], [206,198,401,207], ['',653,297,142]. Repeated 206 values and blank last-row first cell preserved; no padding or deduplication."
+    },
+    {
+      "area": "Read-only campaign checks",
+      "result": "PASS_STRUCTURAL_ONLY",
+      "detail": "Ran python scripts/verify_translation_v2_page.py 82: PASS: page 82 (exit 0), including equality with manuscript JSON. Ran python scripts/sweep_foreign_script.py 82: both blocks clean, 0 problem blocks (exit 0). These do not resolve the semantic voice finding."
+    }
+  ],
+  "uncertainties": [
+    {
+      "location": "Canonical source line 29, احتجب",
+      "detail": "The source is unvocalized and omits the hamza that would distinguish first-person أحتجب from imperative احتجب in fully specified spelling. An imperative is morphologically possible in isolation. My finding is contextual: after 'you say', this is the reciter's protection formula, continuing into first-person 'I have protected all'; first-person self-protection is the coherent reading. Do not claim the canonical source explicitly contains a first-person hamza, and do not alter the Arabic. If this ambiguity is retained rather than contextually resolved, flag it locally instead of silently choosing the second-person command."
+    },
+    {
+      "location": "Canonical source lines 8-9, broken conditional",
+      "detail": "The 'and because you, if you wish, follow ...' connection is genuinely awkward in the supplied canonical text. Both targets preserve its content and carry an appropriately language-specific uncertainty marker; no further rework requested for that passage."
+    },
+    {
+      "location": "Canonical source lines 29-31, opaque formula",
+      "detail": "Missing vowels do not establish unique vocalizations of the opaque names. Audit verifies token/consonant coverage and numeral positions, not unattested vocalization or efficacy."
+    }
+  ],
+  "findings": [
+    {
+      "id": "P082-R2-01",
+      "severity": "major",
+      "category": "semantic_voice_in_recited_formula",
+      "source_location": "ocr/enriched/page_082.txt:29, read with the first-person closing fragment at lines 33-34",
+      "target_locations": [
+        "ocr/enriched_en/page_082.txt:51",
+        "ocr/enriched_id/page_082.txt:51"
+      ],
+      "source_excerpt": "تقول احتجب بعزة الله تعالى العزيز ... حفظت جميع",
+      "english_excerpt": "Say: Take shelter behind the might of God Most High",
+      "indonesian_excerpt": "Ucapkanlah: Berlindunglah di balik keperkasaan Allah Yang Mahatinggi",
+      "problem": "The outer instruction is 'say', but the words spoken are contextually the reciter's self-protective declaration. Both targets make the inner formula another command to a second person, changing its speaking actor and protective voice. The source spelling is underdetermined in isolation; that uncertainty does not warrant treating the current imperative as an unquestionable reading.",
+      "required_rework": "Retain the outer 'Say' / 'Ucapkanlah' instruction but use first-person self-protection inside the formula, e.g. 'I take shelter ...' / 'Aku berlindung ...', leaving opaque tokens, all numerals, quotations, and canonical Arabic untouched. Alternatively, explicitly mark the genuinely unresolved first-person/imperative ambiguity in each target rather than silently fixing the inner voice to second person. Revalidate and obtain a fresh independent review after any content change."
+    }
+  ],
+  "writes": [
+    "C:/Users/it26/AppData/Local/hermes/cache/scratch/shams-review-082.json"
+  ]
+}
