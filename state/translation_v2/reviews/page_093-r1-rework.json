@@ -1,0 +1,72 @@
+{
+  "page": 93,
+  "revision": 1,
+  "verdict": "REWORK",
+  "reviewer_id": "hermes-independent-reviewer",
+  "worker_agent_id": "sa-0-b68a3a21",
+  "reviewer_provenance": "independent_model (fresh reviewing child; distinct from translator and parent)",
+  "hash_algorithm": "sha256",
+  "reviewed_hashes": {
+    "ocr/enriched/page_093.txt": "1476b168ca025c8459d91fbef76325a3e98e4229f366c583ca98180a8e3b11d6",
+    "ocr/enriched_en/page_093.txt": "d3c940c614fb427a3cbdf0f2f13ede40d8fd48090d91d38278e872fb491494c4",
+    "ocr/enriched_id/page_093.txt": "3e122cf3ef88da1b97368e48e0fd05524f96ef8d2c51f644eeb69e13dd033681"
+  },
+  "coverage": [
+    "Read docs/translation-style-v2.md and the complete actual canonical Arabic and both complete actual target files, not a packet, synopsis, or inherited review. Compared every source clause in order against EN and ID.",
+    "Source line 1: printed folio - 87 - retained with the source dash style; physical page remains 93.",
+    "Source lines 3-6: carrying, divine protection, acceptance before kings/sultans/great men, protection from them, support/victory, overcoming enemies, nullifying magic, untying knots, long imprisonment, seizures, hanging on the afflicted person, and burning of the remaining indwelling entity rather than the patient are retained.",
+    "Source lines 6-10: silver ring, first hour of Friday, silence of the engraver rather than a substituted actor, wearing, universal seeing/loving/fulfilling need condition, sultan's presence and purpose, right hand there versus left hand in battle, rebuilding/population, unmarried woman especially a virgin, highwaymen and all unwelcome things, and victorious army banner are retained.",
+    "Source lines 10-14: Chinese king, prolonged struggle/siege, uncertain bi-hi, Muslims building another city around the besieged city, continuing inability to conquer, informants, asceticism/piety/learning and fame, uncertain fa-khabbahu, the king's request for supplications, elapsed duration, and renewed inability statement are retained without silently replacing the unusual verb with a familiar summons.",
+    "Source lines 14-16: slip, unusual rammama with a local uncertainty marker, repeated and expanded Name, front of the head, advance against unbelievers, actual compliance, oath before the elapsed-hour claim, divine victory, possession of the city, booty, sending a portion, refusal, and greater-booty response are retained in order.",
+    "Source lines 16-19: family of Ja'far al-Mansur rather than a silently substituted named individual, repeated seeking, uncertain arrival/changed complexion, uncertain slip giver/recipient, Greatest Name, caliph's beheading order, executioner's hands withdrawing from his sword, second and third orders, continued failure to cut, uncertain linking phrase/speaker, search, finding the same slip with the wafq, and astonishment are retained.",
+    "Source lines 19-22: guarding the divinely granted secret, seven letters on the Ka'bah door, 72 workings, things sought/buried valuables/treasures, saffron, rooster neck, uncertain ahushar rather than an invented red rooster, release at buried valuables/cache, and standing plus scratching by foot or beak or crowing as the site indication are retained. No actual seven letters or grid absent from this source were supplied.",
+    "Source lines 22-24: demolition of fortresses/citadels/places and laying waste, seal of good impressed in wax and evil on the opposite side, burial beneath the door threshold, and pouring the uncertain bathhouse escaping water are retained.",
+    "Source lines 24-27: expulsion from a town, small bird, signet at neck and leg, target's name and mother's name, yellow thread, release by the left hand behind the operator's own back, and the utterance at release are retained. Fulan/Fulanah remain generic placeholders; no real target identity or added tactic is supplied.",
+    "Source lines 27-29: removal/transformation, honor (sharaf, not evil/sharr) seal, paper, washing with the same uncertain bathhouse water, sprinkling at a chosen place as previously mentioned, and inauspicious-hour timing are retained. The subsequent servants command has an unresolved voice/agency problem recorded as R1-01.",
+    "Source line 29: servants of these Names, such-and-such scope, the abbreviated became/only-dwellings quotation without a restored absent verse, and the separate haste command are retained. Quotation placement of the editorial verse marker is recorded as R1-02.",
+    "Source lines 30-31: stoning, unfired potsherd, burial in the uppermost part of his house, abbreviated stones-of-sijjil quotation, Surah al-Fil to its end without supplying the absent Surah, incense of evil, and seeing a wonder are retained. The writing quotation has the same citation-boundary issue recorded as R1-02.",
+    "Source lines 31-33: war and fire in the oppressor's house, wax candle, seal, inauspicious hour, both person and place names on that candle, charging the servant, lighting, fire reaching the written names, claimed action on the person and his house, and the unfinished and-indeed ending are retained. No continuation, practical tactic, or additional material is invented.",
+    "Checked actors, grammatical person, possessives, quantities, timing, alternatives, conditions, negations, repetitions, unusual words, narrative speech boundaries, abbreviated citations, and the unfinished ending throughout both targets. Apart from the two findings, no additional blocking semantic omission or addition was found.",
+    "Verified both files begin with the exact raw byte prefix b'Arabic:' + LF + canonical source bytes. Each has one Arabic label and its correct target label. Target text has Latin-script letters, established transliteration modifiers, punctuation, and permitted whitespace; no Arabic/CJK or other foreign-script contamination was found. Hashes are SHA-256 of complete raw files, not normalized text or target-only blocks.",
+    "Review concerns fidelity of attributed historical claims and procedures, not their efficacy or endorsement. No procedure was performed or augmented, and no repository content, dataset, tracker, approval, submission, commit, or advancement was changed. Only this scratch decision was created."
+  ],
+  "uncertainties": [
+    "The source's bi-hi referent, fa-khabbahu action, and rammama action in the Chinese-king story remain genuinely uncertain. Both targets locally identify those uncertainties instead of silently restoring called/summoned or drew/wrote from an assumed familiar account; this is acceptable.",
+    "Repeated seeking and the arrival, complexion change, slip giver/recipient, intended beheading victim, fa-lahu linkage, and search-order speaker in the Ja'far al-Mansur family story are not all securely identified in the actual source. The targets' explicit local uncertainty is acceptable and does not require canonical repair.",
+    "The rooster descriptor ahushar and the precise kind of bathhouse escaping water are unresolved in the actual source. Both targets preserve the uncertainty rather than supplying color or a specific water source.",
+    "The recited wklw is unvocalized and its intended construction remains unresolved. A straightforward form-II active plural imperative would address the servants as delegating/appointing actors; a passive perfect reading would be third-person past, not the second-person receiving imperative used by the targets. No initial ta may be silently supplied to normalize it to tawakkalu. Local uncertainty in the translation, not alteration of the canonical Arabic, resolves this review requirement.",
+    "The printed al-ayah occurrences are source citation markers after abbreviated quotations. Nothing requires expanding either verse or the absent Surah. The existing dash partly signals an editorial aside, but placing the marker inside the quoted words governed by say/write leaves its non-recited status insufficiently clear; moving the closing quotation mark is sufficient."
+  ],
+  "findings": [
+    {
+      "id": "R1-01",
+      "severity": "blocking",
+      "category": "recited-command voice and agency; unmarked source uncertainty",
+      "source_location": "ocr/enriched/page_093.txt:28-29",
+      "source": "وتقول عند رش الماء وكلوا يا خدام هذه الأسماء بكذا وكذا",
+      "target_en_location": "ocr/enriched_en/page_093.txt:83-84",
+      "target_en": "Be charged, O servants of these Names, with such and such.",
+      "target_id_location": "ocr/enriched_id/page_093.txt:90-91",
+      "target_id": "Terimalah penugasan, wahai para pelayan\nNama-nama ini, untuk ini dan itu.",
+      "explanation": "Both targets make the addressed servants recipients of an assignment without marking any uncertainty. Printed wklw does not straightforwardly support that receiving imperative: the ordinary form-II imperative wakkilu is active, meaning appoint/entrust, while wukkilu as a passive perfect would be third-person past, not an imperative addressed to you. Context cannot silently supply the missing initial ta of another familiar formula. The intended construction can remain uncertain, but its voice must not be confidently normalized.",
+      "minimal_repair_en": "Entrust [UNCLEAR: the source prints wklw; the intended construction and the person or object to be entrusted are uncertain], O servants of these Names, with such and such.",
+      "minimal_repair_id": "Tugaskanlah [UNCLEAR: sumber memuat wklw; susunan yang dimaksud serta pihak atau objek yang harus ditugasi tidak pasti], wahai para pelayan Nama-nama ini, untuk ini dan itu.",
+      "repair_scope": "Replace only the affected receiving-imperative clause in each target with a locally marked active reading or an equally explicit uncertainty formulation. Preserve the surrounding quotation, the subsequent source words, and the canonical Arabic unchanged. Do not reconstruct tawakkalu."
+    },
+    {
+      "id": "R1-02",
+      "severity": "blocking",
+      "category": "quotation endpoint versus editorial citation marker",
+      "source_location": "ocr/enriched/page_093.txt:29-31",
+      "source": "فأصبحوا لا ترى إلا مساكنهم الآية ... واكتب عليه وأمطرنا عليهم حجارة من سجيل الآية وسورة الفيل إلى آخرها",
+      "target_en_location": "ocr/enriched_en/page_093.txt:84,85-86",
+      "target_en": "such that you see nothing but their dwellings—the verse.\" ... Write on it, \"And We\nrained upon them stones of sijjīl—the verse,\" and Sūrat al-Fīl to its end",
+      "target_id_location": "ocr/enriched_id/page_093.txt:92,94-95",
+      "target_id": "tempat-tempat tinggal mereka—ayat tersebut.\" ... Tulislah padanya, \"Dan Kami menghujani mereka dengan batu-batu dari sijjīl—ayat tersebut,\" serta Surah al-Fīl\nhingga akhirnya.",
+      "explanation": "The source's al-ayah marks an abbreviated citation rather than additional words of that verse. In both languages and both occurrences, the unbracketed marker is inside the direct quotation governed by say or write. Although the dash suggests an aside, the closing quotation mark still includes the marker in the prescribed utterance/inscription. This unnecessarily changes quotation scope. Retain the printed citation marker but put it outside the quotation; no missing verse or Surah text should be added.",
+      "minimal_repair_en": "For the first occurrence, end the quoted words at dwellings: ... their dwellings\"—the verse. For the second: Write on it, \"And We rained upon them stones of sijjīl\"—the verse—and Sūrat al-Fīl to its end ...",
+      "minimal_repair_id": "Untuk kemunculan pertama, akhiri kutipan pada mereka: ... tempat-tempat tinggal mereka\"—ayat tersebut. Untuk kemunculan kedua: Tulislah padanya, \"Dan Kami menghujani mereka dengan batu-batu dari sijjīl\"—ayat tersebut—serta Surah al-Fīl hingga akhirnya ...",
+      "repair_scope": "Adjust only the quotation/citation boundaries in the two occurrences per language, coordinating the first occurrence with R1-01. Keep the abbreviated source wording and the instruction to use Surah al-Fil to its end; do not supply absent text."
+    }
+  ]
+}
