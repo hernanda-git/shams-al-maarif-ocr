@@ -1,0 +1,228 @@
+{
+  "page": 100,
+  "revision": 1,
+  "verdict": "APPROVED",
+  "reviewer_id": "hermes-independent-reviewer",
+  "worker_agent_id": "sa-0-f07992d3",
+  "translator_delegation_id": "deleg_9ea562aa",
+  "reviewer_provenance": "independent_model",
+  "independence_statement": "I am the fresh, read-only reviewing subagent, separate from translating worker sa-0-f07992d3 / deleg_9ea562aa. I read the complete actual canonical page_100.txt and both complete actual target files, and compared English and Indonesian independently with the Arabic, not with each other. I did not edit source, targets, repository, tracker, Git, code, or reader; I read no neighboring page. The parent's structural/build result was not treated as semantic evidence. This decision applies only to the three raw SHA-256 identities recorded below.",
+  "reviewed_hashes": {
+    "ocr/enriched/page_100.txt": "3e7cadf1e4063ef7d27b62fafb69d9c03e7d0f06283dd7b476f959dce3496c27",
+    "ocr/enriched_en/page_100.txt": "085e3c0bd7c5b7743c5ce1d32e95477589db571828ab3dfb22ee13400702411e",
+    "ocr/enriched_id/page_100.txt": "75df464ff44cf996fdec73c8cf22a9d9acd20c31e755564253377eeec4cd85db"
+  },
+  "review_scope": {
+    "canonical_source": "Complete physical page 100, source lines 1-44, printed folio 94; every nonblank source line covered below.",
+    "english": "Complete English block, target-file lines 48-92, independently compared with canonical Arabic.",
+    "indonesian": "Complete Indonesia block, target-file lines 48-92, independently compared with canonical Arabic.",
+    "references_read": [
+      "autonomous-repo-execution-loop/SKILL.md",
+      "autonomous-repo-execution-loop/references/canonical-page-alignment.md",
+      "docs/translation-style-v2.md"
+    ],
+    "frozen_reader_used": false,
+    "neighboring_pages_read": false,
+    "repository_edits": false
+  },
+  "coverage": [
+    {
+      "check": "raw_identities_and_canonical_embeddings",
+      "source_lines": [1, 44],
+      "result": "PASS",
+      "method": "Python hashlib.sha256 over actual bytes asserted all three supplied hashes. Each target wrapper was asserted to contain the exact complete 3730-byte source between Arabic label and target separator, without source normalization. One Arabic label and one appropriate target label per file were asserted.",
+      "english": {"result": "PASS", "canonical_bytes_equal": true},
+      "indonesian": {"result": "PASS", "canonical_bytes_equal": true}
+    },
+    {
+      "check": "folio_opening_and_boundary_fragment",
+      "source_lines": [1, 3],
+      "result": "PASS",
+      "english": {"result": "PASS", "evidence": "Own-line em-dash folio 94 retained; 'in this birth' retained as a locally marked continuation, without supplying the prior page."},
+      "indonesian": {"result": "PASS", "evidence": "Own-line em-dash folio 94 retained; 'dalam kelahiran ini' retained as a locally marked continuation, without supplying absent context."}
+    },
+    {
+      "check": "opening_inputs_and_operation_sequence",
+      "source_lines": [3, 4],
+      "result": "PASS",
+      "english": {"result": "PASS", "evidence": "Her own name, her mother's name, and the NAME of the current day in that month all remain. Adding the base and what has elapsed of the month, 'as stated', then subtraction and comparison remain in order. The unspecified subtraction amount is locally qualified; no imported 20/30 values or worked arithmetic."},
+      "indonesian": {"result": "PASS", "evidence": "Nama perempuan itu sendiri, nama ibunya, nama hari yang sedang dijalani pada bulan itu, bilangan dasar, dan bagian bulan yang telah berlalu all remain. 'Sebagaimana telah disebutkan', subtraction with locally unspecified amount, then comparison are retained; no imported 20/30 values or arithmetic."}
+    },
+    {
+      "check": "life_death_branches_negative_and_generalization",
+      "source_lines": [4, 6],
+      "result": "PASS",
+      "english": {"result": "PASS", "evidence": "Conditional fall in Life leads to judging life; fall in Death retains 'will not live', not an affirmative or softened outcome. Masculine referent is locally uncertain. Victor AND vanquished, every difficult matter, God glorified AND Most High, knowing best what is correct, and the two-tablets parenthesis with 'as you see, so understand' all remain."},
+      "indonesian": {"result": "PASS", "evidence": "Both conditional Loh Kehidupan/Loh Kematian branches and 'tidak akan hidup' retained. The source masculine pronoun is explicitly distinguished from an unidentified referent. Both winning/defeated parties, every difficult matter, Mahasuci/Mahatinggi, knowing the correct, and the complete two-tablets parenthesis remain."}
+    },
+    {
+      "check": "first_pipe_table_every_ordered_word_cell",
+      "source_lines": [8, 13],
+      "result": "PASS",
+      "method": "Parsed actual source and target pipe rows. Explicit Arabic-number-word to English/Indonesian-number-word maps checked every ordered cell. Exactly six columns; first numeric-word row is the header; exact :--- separator cells; four subsequent data rows; leading/trailing pipe delimiters retained.",
+      "source_word_values_in_order": [[1, 2, 3, 4, 5, 6], [7, 11, 13, 8, 9, 10], [14, 16, 17, 12, 15, 18], [19, 20, 22, 21, 24, 25], [23, 26, 28, 27, 29, 30]],
+      "english": {"result": "PASS", "evidence": "All cells remain English words, including twenty-two before twenty-one and twenty-eight before twenty-seven; no row/cell transposition or conversion to digits."},
+      "indonesian": {"result": "PASS", "evidence": "All cells remain Indonesian words, including dua puluh dua before dua puluh satu and dua puluh delapan before dua puluh tujuh; no row/cell transposition or conversion to digits."}
+    },
+    {
+      "check": "al_qamqama_heading_universal_disease_claim",
+      "source_lines": [15, 15],
+      "result": "PASS",
+      "english": {"result": "PASS", "evidence": "Benefit heading, al-qamqama al-kubra title with diacritics, localized uncertain title meaning, and every disease IN THE BODY retained. Page note attributes the efficacy assertion to the source."},
+      "indonesian": {"result": "PASS", "evidence": "Faedah heading, transliterated full title with localized Indonesian uncertainty, and setiap penyakit di tubuh retained. Page note attributes the efficacy assertion to the source."}
+    },
+    {
+      "check": "sheet_water_drinking_and_conditional_oil_or_anointing",
+      "source_lines": [16, 18],
+      "result": "PASS",
+      "english": {"result": "PASS", "evidence": "Writing on a sheet, dissolving with water, and drinking remain distinct ordered actions. Conditional writing in a clean vessel and erasing with a LITTLE FRAGRANT oil retained. OR anointing the afflicted person retained with local grammatical uncertainty, followed by God's removal of the ailment. 'This is its form' retained without an invented missing figure."},
+      "indonesian": {"result": "PASS", "evidence": "Selembar kertas, dilarutkan dengan air, meminumnya; conditional bejana bersih and sedikit minyak harum all remain. ATAU mengoleskannya on the diseased person remains locally qualified. Allah removes the disease, and 'Inilah bentuknya' remains without adding a figure or medical advice."}
+    },
+    {
+      "check": "prisoner_earth_actions_and_friday_hour",
+      "source_lines": [19, 22],
+      "result": "PASS",
+      "english": {"result": "PASS", "evidence": "Prisoner-release heading and introductory construction retained. The prisoner LOOKS at pure earth; then the earth is sprinkled in the FIRST HOUR OF FRIDAY; no added water or substitute act of taking/collecting earth. Carrying begins before the interrupting table."},
+      "indonesian": {"result": "PASS", "evidence": "Pembebasan prisoner heading and construction retained; prisoner MEMANDANG tanah suci, then percikilah tanah itu pada jam PERTAMA hari JUMAT. No water is added; carrying begins before the table."}
+    },
+    {
+      "check": "second_pipe_table_every_ordered_numeric_cell",
+      "source_lines": [24, 30],
+      "result": "PASS",
+      "method": "Parsed actual source and target rows; normalized only Arabic decimal glyphs in comparison, not source bytes. Checked each complete cell, order, two-column width, header meanings, exact :--- separator, five data rows, three space-separated Latin-digit values per numeric cell, and pipe delimiters.",
+      "source_data_after_decimal_glyph_conversion": [["1 2 3", "4 5 6"], ["7 11 13", "8 9 10"], ["14 16 17", "12 13 15"], ["19 20 22", "18 20 21"], ["23 26 28", "17 19 30"]],
+      "english": {"result": "PASS", "headers": ["Tablet of Life", "Tablet of Death"], "evidence": "Every data cell equals source order. Source duplicates and discrepancies from the first table, including 13/20/19 and final Death 17 19 30, are not reconciled."},
+      "indonesian": {"result": "PASS", "headers": ["Loh Kehidupan", "Loh Kematian"], "evidence": "Every data cell equals source order. Source duplicates and discrepancies from the first table, including 13/20/19 and final Death 17 19 30, are not reconciled."}
+    },
+    {
+      "check": "interrupted_prisoner_sentence_and_efficacy_attribution",
+      "source_lines": [22, 32],
+      "result": "PASS",
+      "english": {"result": "PASS", "evidence": "The table stays between 'then it is carried' and 'by the prisoner after praying two rakahs'. The prisoner is the carrier, AFTER two rakahs, and the swift release and tried/proved-sound claims remain. Threefold numerical wafq and 'as you see' remain; no invented square or endorsement."},
+      "indonesian": {"result": "PASS", "evidence": "The table stays between 'kemudian tanah itu dibawa' and 'oleh orang yang dipenjara setelah salat dua rakaat'. Carrier, AFTER-prayer sequence, quick release, tried/proved claim, numerical threefold wafq and 'sebagaimana engkau lihat' remain; no extra figure or endorsement."}
+    },
+    {
+      "check": "final_benefit_reporting_voice_and_delay_condition",
+      "source_lines": [33, 34],
+      "result": "PASS",
+      "english": {"result": "PASS", "evidence": "Benefit heading and report from one of the shaykhs retained. Having a need, wishing its fulfillment, AND delay in fulfillment remain conditions. Go to one of the mosques, stand at its qiblah, turn toward GOD MOST HIGH, and say are retained without switching antecedent to Muhammad."},
+      "indonesian": {"result": "PASS", "evidence": "Faedah heading and report from salah seorang syekh retained. Hajat, desire for fulfillment, and delayed fulfillment remain. Go to a mosque, stand at its qiblah, turn to ALLAH YANG MAHATINGGI, and speak remain in order."}
+    },
+    {
+      "check": "first_supplication_four_opening_clauses",
+      "source_lines": [34, 35],
+      "result": "PASS",
+      "english": {"result": "PASS", "evidence": "O God; toward You I directed myself; at Your door I stood; in Your presence I took refuge; to You I put my request. All four clauses preserve the reciter's first-person voice and divine addressee."},
+      "indonesian": {"result": "PASS", "evidence": "Ya Allah; kepada-Mu aku menuju; di pintu-Mu aku berdiri; ke hadirat-Mu aku berlindung; kepada-Mu aku mengajukan permohonan. All four clauses preserve first person and Allah as addressee."}
+    },
+    {
+      "check": "muhammad_full_blessing_family_and_intercession",
+      "source_lines": [35, 36],
+      "result": "PASS",
+      "english": {"result": "PASS", "evidence": "Through Muhammad, FULL peace AND blessings be upon him, AND HIS FAMILY; approach is sought to God, not to Muhammad as addressee. Through YOUR friends AND YOUR elect I sought intercession preserves both groups and divine possessives."},
+      "indonesian": {"result": "PASS", "evidence": "Dengan Muhammad, FULL selawat DAN salam tercurah kepadanya, DAN KELUARGANYA; bertawasul kepada-Mu preserves Allah as addressee and Muhammad's family as family antecedent. Para wali-Mu AND orang-orang pilihan-Mu and seeking syafaat both remain."}
+    },
+    {
+      "check": "opaque_fa_afid_distress_and_naming_need",
+      "source_lines": [36, 37],
+      "result": "PASS",
+      "english": {"result": "PASS", "evidence": "'Pour forth, O God, my need' retains the source fa-afid with a locally explained unusual/uncertain intended sense, not a repaired conventional prayer. Relieve my distress follows. THEN name your need AND what you want both remain."},
+      "indonesian": {"result": "PASS", "evidence": "'Limpahkanlah, ya Allah, hajatku' retains fa-afid with Indonesian local qualification of uncertain intended sense. Lapangkanlah kesusahanku follows. THEN sebutkan hajatmu AND apa yang engkau kehendaki both remain."}
+    },
+    {
+      "check": "two_rakahs_each_complete_recitation_list",
+      "source_lines": [37, 38],
+      "result": "PASS",
+      "english": {"result": "PASS", "evidence": "AFTER that pray TWO rakahs; in EACH rakah recite Opening of the Book, the printed 'Say: O disbelievers' incipit, al-Ikhlas, AND the TWO refuge surahs. No list member omitted, no incipit expanded to an absent full surah, no extra recitation counts."},
+      "indonesian": {"result": "PASS", "evidence": "SESUDAH itu salat DUA rakaat; SETIAP rakaat includes Pembukaan Kitab, printed 'Katakanlah: Wahai orang-orang kafir' incipit, al-Ikhlas, AND KEDUA surah perlindungan. No list member omitted or absent full surah supplied."}
+    },
+    {
+      "check": "last_prostration_and_nested_job_first_person",
+      "source_lines": [38, 39],
+      "result": "PASS",
+      "english": {"result": "PASS", "evidence": "In the LAST prostration, WHILE prostrating, say; And Job, when he called upon his Lord; nested first-person 'Distress has touched ME, and YOU are the most merciful of the merciful.' The outer recitation, Job's inner voice, and his Lord are not conflated."},
+      "indonesian": {"result": "PASS", "evidence": "Pada sujud TERAKHIR, ketika MASIH bersujud, ucapkan; Dan Ayub ketika menyeru Tuhannya; nested 'Sesungguhnya kesusahan telah menyentuhKU, dan ENGKAU paling penyayang di antara para penyayang.' Both scope conditions and speaker levels remain."}
+    },
+    {
+      "check": "divine_we_answer_removal_family_mercy_reminder",
+      "source_lines": [39, 40],
+      "result": "PASS",
+      "english": {"result": "PASS", "evidence": "Following Job's inner quote, divine WE answered HIM, removed the distress upon HIM, gave HIM HIS family AND their like WITH THEM, as mercy FROM US AND a reminder TO THE WORSHIPPERS. Every continuation clause retained as supplied rather than restored from remembered scripture."},
+      "indonesian": {"result": "PASS", "evidence": "Following Ayub's inner quote, KAMI mengabulkan permohonannya, menghilangkan kesusahan padanya, memberinya keluarganya BESERTA yang serupa dengan mereka BERSAMA MEREKA, sebagai rahmat DARI SISI KAMI DAN peringatan BAGI ORANG YANG BERIBADAH. All continuations retained without scriptural reconstruction."}
+    },
+    {
+      "check": "raise_head_tahiyyat_salam_finished_prayer_standing",
+      "source_lines": [40, 41],
+      "result": "PASS",
+      "english": {"result": "PASS", "evidence": "THEN raise head, recite tahiyyat, give salam; WHEN finished with the prayer, rise and stand facing qiblah, AND say. Sequence and the finished-prayer condition retained."},
+      "indonesian": {"result": "PASS", "evidence": "LALU angkat kepala, baca tahiyyat, ucapkan salam; APABILA selesai salat, bangkit dan berdiri menghadap kiblat, LALU ucapkan. Sequence and condition retained."}
+    },
+    {
+      "check": "knowledge_and_arab_nonarab_sanctuary_comparison",
+      "source_lines": [41, 42],
+      "result": "PASS",
+      "english": {"result": "PASS", "evidence": "O God, YOUR knowledge made asking unnecessary for ME; MY God; Arabs AND non-Arabs; WHEN a seeker seeks refuge with HIM, HE grants protection. Singular him/he after plural groups is locally marked unresolved rather than silently repaired. YOU are God of Arabs AND non-Arabs repeats both groups."},
+      "indonesian": {"result": "PASS", "evidence": "Pengetahuan-Mu makes AKU not need asking; Tuhanku; Arab DAN non-Arab; conditional pemohon perlindungan berlindung kepadanya, ia melindunginya. Local Indonesian marker retains the singular-pronoun problem. ENGKAU Tuhan orang Arab DAN non-Arab preserves the repeated groups."}
+    },
+    {
+      "check": "refuge_disappointment_negative_hope_answer_fulfill",
+      "source_lines": [42, 43],
+      "result": "PASS",
+      "english": {"result": "PASS", "evidence": "I HAVE taken refuge in YOU, SO protect me; DO NOT send me back disappointed; I hoped for an answer FROM YOU, SO answer ME AND fulfill MY need. First-person petitions, both consequences, explicit negation and object possessives retained."},
+      "indonesian": {"result": "PASS", "evidence": "Aku TELAH berlindung kepada-Mu, MAKA lindungi aku; JANGAN menolakku dengan kecewa; aku mengharapkan jawaban DARI-MU, MAKA jawablah AKU DAN penuhi HAJATKU. Conditions, request voice and explicit negation retained."}
+    },
+    {
+      "check": "wish_sought_mercy_final_request_and_favor_boundary",
+      "source_lines": [43, 44],
+      "result": "PASS",
+      "english": {"result": "PASS", "evidence": "Grant MY WISH; what I seek is YOUR MERCY; O MOST MERCIFUL OF THE MERCIFUL. THEN ask GOD for YOUR NEED; for GOD answers YOU. Separate final 'by His favor' retains the final source bi-mannihi on its own continuation line; no new page continuation supplied."},
+      "indonesian": {"result": "PASS", "evidence": "Berikan KEINGINANKU; yang kucari RAHMAT-MU; wahai YANG PALING PENYAYANG DI ANTARA PARA PENYAYANG. KEMUDIAN mintalah hajatmu KEPADA ALLAH; sebab ALLAH mengabulkan permohonanmu. Final separate 'dengan karunia-Nya' retains bi-mannihi; no new continuation supplied."}
+    },
+    {
+      "check": "script_structure_attribution_and_nonaugmentation",
+      "source_lines": [1, 44],
+      "result": "PASS",
+      "method": "Complete prose reread plus actual-target Unicode scan rejecting non-Latin letters except permitted transliteration modifiers, non-ASCII decimal glyphs, and hidden/control characters other than line whitespace. Ordered table parsing independently checks structure.",
+      "english": {"result": "PASS", "evidence": "No forbidden script/digits/controls found. Parentheses, source order, table interruptions, lists, repeated requests/groups, blessing, negative, conditions, local uncertainty and end boundary preserved. Upfront translator note explicitly attributes medical/occult claims; instructions are translated, not endorsed or practically augmented."},
+      "indonesian": {"result": "PASS", "evidence": "No forbidden script/digits/controls found. Source order, tables, interrupted prose, full prayers, repeated groups, conditions, negative, blessing and page boundary retained. Upfront Indonesian note attributes efficacy claims; no medical/occult advice, added water, invented figures or calculated outcomes."}
+    }
+  ],
+  "uncertainties": [
+    {
+      "location": "Source opening, line 3",
+      "status": "ACCEPTED_SOURCE_UNCERTAINTY",
+      "description": "The page begins inside an earlier birth-related sentence. Both targets retain the fragment and mark the missing pre-boundary context; no neighboring page was read or supplied."
+    },
+    {
+      "location": "Source lines 4-5",
+      "status": "ACCEPTED_SOURCE_UNCERTAINTY",
+      "description": "The reduction/subtraction amount is locally unspecified and the masculine life/death referent is unidentified. Both targets qualify these locally without adding a divisor, 20/30 values, or a guessed child/mother antecedent."
+    },
+    {
+      "location": "Source heading, line 15",
+      "status": "ACCEPTED_SOURCE_UNCERTAINTY",
+      "description": "The meaning of al-qamqama al-kubra is locally uncertain. Both targets retain the title by transliteration and explicitly mark the uncertain meaning rather than substituting an invented familiar title."
+    },
+    {
+      "location": "Source oil/anointing clause, line 17",
+      "status": "ACCEPTED_SOURCE_UNCERTAINTY",
+      "description": "The grammatical attachment of 'or anoint' is uncertain. Both targets retain the OR alternative, oil and afflicted-person wording, and localize the syntactic caveat rather than silently turning it into an unqualified AND."
+    },
+    {
+      "location": "Source fa-afid, line 36",
+      "status": "ACCEPTED_SOURCE_UNCERTAINTY",
+      "description": "The printed fa-afid is unusual with the stated object. Both targets preserve a literal pour-forth/limpahkan rendering and the opaque transliteration while explicitly qualifying the intended sense, without restoring a conventional request formula."
+    },
+    {
+      "location": "Source sanctuary comparison, lines 41-42",
+      "status": "ACCEPTED_SOURCE_UNCERTAINTY",
+      "description": "Singular refuge-granting pronouns follow the plural Arab/non-Arab groups. Both targets preserve the comparison and singular pronouns and mark their referent locally uncertain instead of repairing them to a guessed ruler, individual, or plural subject."
+    }
+  ],
+  "findings": [],
+  "verification_notes": [
+    "The first byte-wrapper probe assumed one separator newline after the canonical source and failed on the actual two-newline wrapper separator. The checker, not any content, was corrected. The subsequent assertion passed exact source embedding, all supplied raw hashes, scripts, and every ordered table cell.",
+    "Structural checks and semantic checks are distinct: this approval rests on a complete independent Arabic-to-English and Arabic-to-Indonesian reading in addition to byte/table checks.",
+    "No corrections required. This scratch decision is the only artifact created by the reviewer. Any change to a reviewed file invalidates this hash-bound verdict and requires renewed whole-page review."
+  ]
+}
