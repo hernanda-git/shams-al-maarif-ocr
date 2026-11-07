@@ -1,0 +1,44 @@
+# APPROVED PAGE 94/604
+
+- Worker ID: hermes-page-worker
+- Worker agent: sa-0-597a7fb6
+- Reviewer ID: hermes-independent-reviewer
+- Reviewer kind: independent_model (parent agent; distinct from translating child; read complete actual source and both targets; no target-wording edits)
+- Verdict: APPROVED
+- Checks: canonical raw bytes unchanged and copied verbatim; Latin-only targets; source folio retained with Latin numerals; honorifics, numbers, conditionality, antecedents and coverage independently reviewed.
+
+## Source-to-target coverage
+- Independently read the entire actual canonical page and both complete final targets using operator inspect 94, not the translating child's synopsis. Checked each of the 15 source-order sections; printed folio - 88 - and all 14 rubric boundaries remain, using Latin digits and asterisks rather than prohibited Arabic glyphs.
+- Opening continuation: some performed the preceding working against a tyrannical king and he perished. No absent beginning or continuation is supplied.
+- Ship passage: prevention of sailing and sinking if sailing, wooden reed, bathhouse sarib ink and seawater where the vessel is, mouth-water spraying, stopping and not proceeding are retained. Al-Mamun's Tigris recreation, high hanging position, uncertain encircles/white-silk construction, waves from every side, near drowning, recognition of the caliph's action, appeal for help and uncertain binding-off object remain. No missing thread, inferred unhanging, or sea-to-river harmonization is introduced.
+- Expulsion passage: seal on the afflicted person's forehead, adjuration over him and return of consciousness are retained without clinical endorsement or substitution of a different actor.
+- Prison passage: little graveyard earth, drawn seal, prisoner passing it through collar and out sleeve, reverse movement after the adjuration and release are all retained in order.
+- Bringing a person: trace if possible, name on clean paper, fumigation with nails of the jinn, repeated instruction to write the sought person's name with it, hanging in the wind and quick arrival are retained. The two name instructions were not collapsed.
+- Discipline and Ali passage: validity depends on continued ascetic discipline, fasting, renunciation and performance; Imam Ali's may-God-honor-his-face honorific remains distinct from prophetic blessings. Quran and Name outward/inward pairs, outward visibility, inward adjuration, and stopping the boiling pot retain their complete claims.
+- Absent-person passage: paper, surrounding By-the-sky/night-comer wording in separate letters, sun side, favorable hour, moon in an air sign, 21 recitations and arrival are retained. No absent letter string, verse or diagram is supplied.
+- Enemy passage: madad as aid/extension and uncertain azlam construction are retained rather than repaired to a familiar harmful-purpose formula. Uncertain wax karah and stone blatif remain local, with the likeness, seal, target and mother's names, two thorns in the figurine's eyes, black pot, little sarib and burial near blazing fire preserved.
+- Broken God/fire clause: targets expose the damaged literal God, wal lahu, becomes/enters morning and repeated fire/fire components without confidently assigning the divine actor or silently replacing becomes with cries. The following eye pain, inability to see, appeal from severe pain, not-more-than-seven-days condition, death claim and healing by removing the figurine and throwing it in water are retained.
+- Insomnia passage: akhtim and dhakkah remain uncertain rather than silently corrected; wax and target name, depiction, second drawing of seal on the image, attachment to trousers, one leg after another and no sleep while hanging are all retained.
+- Distress passage: target and mother's names, bottle, depiction before seal, little water plus sulfur, pepper and oil, fire between two stones, and worries/thoughts/ailments are retained. No cap, pressure mechanism, additional quantity or modern chemical instruction is added.
+- Love passage: glass bowl, musk/saffron/rosewater, target and mother's names, washing with water, giving a drink, inability to bear separation and the conditional alternative of sprinkling clothes remain. No added covert-drugging instruction or substituted material appears.
+- Separation passage: dispersing those gathered in sins, uprooting a person or separating two people remain distinct alternatives; musk and water, readable binding/loosened/piece fragments, uncertain construction and burial-place referent, enmity and dispersal remain without invented rosewater or a guessed meeting location.
+- Reconciliation passage: woman and husband, wax, two figures facing one another, a piece of amber in each, 21 recitations and reconciliation of both are retained. Amber is not replaced by modern electricity or a battery.
+- Final awe passage: musk, saffron and rosewater, written seal, vial, entering the grandees and take-a-little ending remain unfinished; no application method from the next page is invented.
+- Checked the digit sequence 88/21/21 and written two-thorns, two-stones, two-figures, one-leg-after-another and seven-day quantities. Conditions, negations, materials, placements, actors, repeated wording, honorific, quotation boundaries and unfinished ending pass in both languages. Twelve localized source uncertainties per target are acceptable retained source damage, not unresolved defects.
+- Parent exact operator check 94 passes after rerunning the original supported rebuild: canonical raw embeddings, Latin-only bodies, 604 contiguous generated records, all titles and 603 noncurrent records preserved, all immutable source hashes and protected WIP unchanged. Restoring the builder changed neither target nor the page-record hash. Review concerns fidelity of attributed historical claims, not their efficacy or endorsement.
+
+## Retained uncertainty
+- Sarib is preserved with uncertainty about the intended bathhouse substance in both occurrences. The high-place white-silk construction and binding-off object remain unresolved without invented thread or removal action.
+- Madad/azlam, wax karah and stone blatif retain readable components and local uncertainty rather than a familiar repaired ritual. The fractured God/fire clause preserves the actual damaged components, repeated fire and uncertainty about subject, reading and connections.
+- Akhtim is not silently changed to the ordinary stamping imperative; dhakkah remains uncertain, with drawstring only a possible reading. Damaged binding/loosened/piece wording and the burial-place possessive remain explicitly uncertain.
+- The final take-a-little fragment is incomplete as printed. Separate-letter scripture wording is not expanded into a guessed letter string or absent verse.
+
+## Reviewed raw SHA-256
+- `ocr/enriched/page_094.txt`: `6156de1879d2671569fb2d3f9f11a24681457960e04c999e81d0ccf37913ae0b`
+- `ocr/enriched_en/page_094.txt`: `d3f309a42c576fc23d95f2f3e3ce5c06ee9e460946d2e241e52f66cdfcc986e8`
+- `ocr/enriched_id/page_094.txt`: `15c58c738759c44c6bed14ce959f0799295ac80953f98c092844e502534b4d17`
+
+## Deterministic evidence
+- Page validator and triage: PASS; 604 contiguous generated records; all existing titles unchanged.
+- All 604 canonical source SHA-256 values match the start-of-run baseline.
+- The translating child did not approve its own work. This is model review, not human approval.
