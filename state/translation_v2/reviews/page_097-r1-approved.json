@@ -1,0 +1,196 @@
+{
+  "page": 97,
+  "revision": 1,
+  "verdict": "APPROVED",
+  "reviewer_id": "hermes-independent-reviewer",
+  "worker_agent_id": "sa-0-261dc630",
+  "translator_delegation_id": "deleg_638cbb48",
+  "reviewer_provenance": "independent_model",
+  "reviewer_session_id": null,
+  "independence_statement": "Fresh read-only reviewer, distinct from the identified translating worker/delegation. I read the complete actual canonical Arabic and both complete final physical-page target files from disk, assessing English against Arabic and Indonesian against Arabic independently. I made no target, tracker, code, reader, Git or remote changes. No reviewer session identifier was exposed; none has been invented. Structural validation and the parent's frozen rebuild were not treated as semantic approval.",
+  "reviewed_hashes": {
+    "ocr/enriched/page_097.txt": "ea8db98b3f0b59e3ecb693ac0eaa612a5c217ffae254518f4d3fe7df823ed3ac",
+    "ocr/enriched_en/page_097.txt": "985e8074f283039c9fc0e469f62e5e6873373f8beb65836af00930545da5d892",
+    "ocr/enriched_id/page_097.txt": "bc56d6b3cd6c035abced6aaf6a3eb076af01ba0551be2b33a655f92873506152"
+  },
+  "scope": {
+    "repository": "C:/Working Folder/Research/shams-al-maarif-ocr",
+    "physical_page": 97,
+    "printed_folio": 91,
+    "source_lines_read": "1-37, complete",
+    "english_file_lines_read": "1-55, complete",
+    "indonesian_file_lines_read": "1-55, complete",
+    "style_contract": "docs/translation-style-v2.md",
+    "workflow_reference": "autonomous-repo-execution-loop/references/canonical-page-alignment.md",
+    "neighboring_pages_read": false,
+    "candidate_reader_record_reviewed": false,
+    "live_reader_rebuilt": false,
+    "approval_scope": "Only the exact three raw-byte file hashes above; not a reader rebuild, tracker transition, commit or publication."
+  },
+  "coverage": [
+    {
+      "id": "raw_hashes_and_source_embeddings",
+      "result": "PASS",
+      "source_span": "Complete canonical file",
+      "english_vs_arabic": "Recomputed raw SHA-256 matches the supplied final English hash. The entire 4222-byte canonical source is present byte-for-byte after the Arabic label, with only the wrapper separator outside it.",
+      "indonesian_vs_arabic": "Recomputed raw SHA-256 matches the supplied final Indonesian hash. The entire 4222-byte canonical source is present byte-for-byte after the Arabic label, with only the wrapper separator outside it.",
+      "verification": "Python read_bytes/hashlib and direct raw-byte extraction; source hash independently matches the supplied canonical hash. Canonical source has LF newlines and no terminal newline. Both extracted embeddings preserve those bytes."
+    },
+    {
+      "id": "folio_stars_headings_and_flow",
+      "result": "PASS",
+      "source_span": "Lines 1-37",
+      "english_vs_arabic": "Printed folio retained as its own line, — 91 —, not physical-page 97. Three opening verse stars, four Section headings, source order and paragraph transitions are preserved through the final sentence.",
+      "indonesian_vs_arabic": "Printed folio retained as its own line, — 91 —. Three opening verse stars, four Bagian headings, source order and paragraph transitions are preserved through the final sentence.",
+      "verification": "Programmatic counts on actual target blocks: three asterisks and four section headings in each; complete visual/semantic reading of all paragraphs."
+    },
+    {
+      "id": "opening_verse_complete",
+      "result": "PASS",
+      "source_span": "Lines 3-5",
+      "english_vs_arabic": "Retains the incomplete keeper-of-the-Name construction, exalted mention, protection from all hateful things, opaque al-ghalt, morning and evening blessings on family and companions, the damaged closing words, and first-person appeal to the Lord through their standing and the gathered Beautiful Names. Uncertain wording is localized rather than silently restored.",
+      "indonesian_vs_arabic": "Independently retains the same Arabic clauses: penjaga Nama and exalted mention, all disliked things plus opaque al-ghalt, morning/evening selawat on family and companions, damaged closing words, and the speaker's appeal to Tuhanku through their standing and the gathered names. Indonesian uncertainty descriptions identify the actual damaged readings."
+    },
+    {
+      "id": "messenger_negation_honorific_and_need",
+      "result": "PASS",
+      "source_span": "Lines 6-7",
+      "english_vs_arabic": "Preserves the explicit non-mention for several reasons, conditional mention of the Messenger at this place, consequent folding-away of the noble blessed Names' light, mediation through him to God Most High after supplication, and fulfillment of the supplicant's need. The source's short peace honorific is not expanded to blessings.",
+      "indonesian_vs_arabic": "Preserves tidak menyebut, beberapa alasan, the conditional mention and its consequence, mediation through beliau to Allah Yang Mahatinggi after doa, and the need-fulfillment claim. Semoga salam tercurah kepadanya correctly lacks added selawat."
+    },
+    {
+      "id": "scriptural_sign_lists_count_and_order",
+      "result": "PASS",
+      "source_span": "Lines 8-9 and 17",
+      "english_vs_arabic": "Retains the stated six Torah letters without reconciling the displayed inventory, then the Gospel signs and Magnificent Qur'an signs. Four displayed sequences, in order, are [U+06DE] |||; ‡ mīm; [U+06E9] |||; then ||| [U+06DE]. Tokens are expressly reversible identifiers, not recovered religious meanings or geometry.",
+      "indonesian_vs_arabic": "Retains enam huruf from Taurat, then Injil and Al-Qur'an yang agung in Arabic source order. The same four displayed sequences and opaque-codepoint explanation are preserved without inferred diagrams or numeric values.",
+      "verification": "Tool inventory of canonical bytes: U+06DE exactly 2; U+06E9 exactly 1; vertical bars exactly 9. After decoding only bracketed codepoint tokens, both target inventories and ordered displayed sequences match; source m is represented as mīm. The superseding sign-count correction, not the stray typo, governs."
+    },
+    {
+      "id": "concealment_disclosure_and_knowers",
+      "result": "PASS",
+      "source_span": "Lines 9-11",
+      "english_vs_arabic": "Retains understand and conceal, what can be mentioned of the properties, first-person commanded disclosure, obscure secrets, the knowers stopping short, and proper conduct of those firmly rooted in knowledge. No claimed permission or disclosure is broadened.",
+      "indonesian_vs_arabic": "Retains pahamilah and rahasiakanlah, limits on what can be mentioned, the author's commanded disclosure, obscure secrets, the arif stopping, and adab of those firmly rooted in knowledge."
+    },
+    {
+      "id": "reported_quotations_speakers_and_ends",
+      "result": "PASS",
+      "source_span": "Lines 11-13",
+      "english_vs_arabic": "Retains the report of belief, all being from our Lord, and the exclusive remembrance clause; then the noble angels, their knowledge of both heavenly and earthly dominion, their declaration of God's glory, negation of knowledge except what God taught, and both final divine attributes. The malformed reporting relationship is marked locally without supplying a divine narrator or replacing the source with remembered scripture.",
+      "indonesian_vs_arabic": "Retains the reported kami voice, Tuhan kami, the exclusive remembrance clause, the noble angels and both dominions, then the angels' kami/Engkau quotation, knowledge exception and both final attributes. The reporting-link uncertainty is explicit in Indonesian. Neither quotation is truncated or supplemented from a familiar canonical version."
+    },
+    {
+      "id": "first_section_heading_and_condition",
+      "result": "PASS",
+      "source_span": "Lines 15-17",
+      "english_vs_arabic": "Retains the speaker's may-God-be-pleased honorific, quoted seal after three, opaque/locally qualified muʿajjal and aqsamt, every affliction inside the body, and the conditional internal illness examples with the physicians' inability. Does not resolve damaged quotation grammar into an asserted formula.",
+      "indonesian_vs_arabic": "Retains semoga Allah meridainya, cap sesudah tiga, the same locally qualified opaque forms, setiap bencana di dalam tubuh, conditional internal illness examples and the tabib being baffled. No remembered formula replaces the printed words."
+    },
+    {
+      "id": "first_section_quantities_negation_and_claim",
+      "result": "PASS",
+      "source_span": "Lines 17-18",
+      "english_vs_arabic": "Preserves three rods followed by the seal, without sinām, the displayed order, seven repetitions, glass vessel, three nights, the previously mentioned patient and source-attributed recovery. No washing, dosage, timing precision or therapeutic assurance is added.",
+      "indonesian_vs_arabic": "Preserves tiga batang followed by cap, tanpa sinām, displayed order, 7 kali, glass vessel, 3 malam, the patient already mentioned and the text's recovery claim. The source's unsupplied preparation mechanism is not invented.",
+      "verification": "Source Arabic word-number quantities and digits were checked in context against each target, not only by digit matching."
+    },
+    {
+      "id": "second_section_redress_subjects_and_distinct_terms",
+      "result": "PASS",
+      "source_span": "Lines 20-22",
+      "english_vs_arabic": "Preserves all kinds of torment in their entirety, the condition of being wronged and inability to obtain redress, the intended person's and mother's names, attachment of letters, and drawing on every limb. The first sinām remains hump while the later sinān remains spear-point; the target does not harmonize them.",
+      "indonesian_vs_arabic": "Preserves segala jenis siksaan seluruhnya, the wronging/redress condition, the intended person's and mother's names, attachment of letters and setiap anggota tubuh. Sinām is punuk and distinct sinān is ujung tombak."
+    },
+    {
+      "id": "second_section_materials_relationship_and_effect",
+      "result": "PASS",
+      "source_span": "Lines 22-25",
+      "english_vs_arabic": "Retains the prior placement on the board, the board/plank clarification and coffin-wood source, subsequent attachment/burial relationship, opaque ṭūbal, the afflicted target subject, great distress, and the whenever/melting/wasting dependency. Effects are expressly claims of the text, not reviewer advice.",
+      "indonesian_vs_arabic": "Retains prior placement, board clarification and coffin-wood source, attachment/burial relationship, opaque ṭūbal, the target person, severe distress and setiap kali conditional bodily decline. No identification of the uncertain substance or efficacy endorsement is added."
+    },
+    {
+      "id": "third_section_subject_names_and_malformed_timing",
+      "result": "PASS",
+      "source_span": "Lines 27-28",
+      "english_vs_arabic": "Retains mīm, blood flow of every transgressing person, figure on unfired potsherd, intended person's and mother's names, ink of grief, conjunction of two luminaries, opaque wa-hā, degree and before-separation relationship. The damaged astronomical construction is marked without supplying a degree, planet or corrected schedule.",
+      "indonesian_vs_arabic": "Retains mīm, setiap orang yang melampaui batas, unfired potsherd, both names, tinta kesedihan, two luminous celestial bodies, wa-hā, degree and before separation. The Indonesian marker specifically refuses to complete the corrupted timing."
+    },
+    {
+      "id": "third_section_sequence_alternative_and_negative_endpoint",
+      "result": "PASS",
+      "source_span": "Lines 29-30",
+      "english_vs_arabic": "Retains mīm followed by three rods with sinān and the seal, inverted with scope uncertainty, turbid water or a deep disused well, at that very hour, need fulfillment, the worked-for person, uninterrupted bleeding from bodily openings and the until-he-perishes endpoint. No negation, alternative or terminal condition is dropped.",
+      "indonesian_vs_arabic": "Retains mīm then three rods with sinān and cap, local inversion-scope uncertainty, the water/well alternative with both well qualifiers, immediate temporal clause, fulfilled need, the targeted person, tidak henti-hentinya and sampai binasa. Claims remain attributed to the text."
+    },
+    {
+      "id": "fourth_section_ladder_litigation_repeated_scope_and_statuses",
+      "result": "PASS",
+      "source_span": "Lines 32-35, through all needs",
+      "english_vs_arabic": "Retains the ladder/ascent quotation, right thumbnail, tyrants in litigation at need, all circumstances before the efficacy clause and again after victory over adversaries, and each status: honored, obeyed, accepted action, effective word and proximity to their thoughts. All needs remains universal rather than reduced to one request.",
+      "indonesian_vs_arabic": "Retains the ladder/ascent quotation, kuku ibu jari kanan, facing the oppressive people in litigation at need, both occurrences of dalam segala keadaan, victory over opponents, every listed status, proximity to their thoughts and semua hajatmu."
+    },
+    {
+      "id": "fourth_section_opaque_material_and_complete_page_ending",
+      "result": "PASS",
+      "source_span": "Lines 35-37",
+      "english_vs_arabic": "Retains opaque waraq khuṭṭāf with qualified lexical possibilities rather than a selected material, red wax, under the tongue, continuing joy and happiness, elevated standing wherever one alights, their tongues and the tongue of every possessor of evil, and the no-gaze-without-love-and-inclination ending. The final source words are fully represented.",
+      "indonesian_vs_arabic": "Retains waraq khuṭṭāf with Indonesian uncertainty on the material, lilin merah and di bawah lidah, continued joy and happiness, standing wherever one stops, both tongue clauses including setiap pemilik kejahatan, and the complete tidak seorang pun ... kecuali love/inclination ending."
+    },
+    {
+      "id": "latin_only_uncertainty_language_and_nonaugmentation",
+      "result": "PASS",
+      "source_span": "Complete target blocks versus complete canonical source",
+      "english_vs_arabic": "Latin-only prose/transliteration and reversible opaque-sign tokens satisfy the file contract. English uncertainty notes identify actual local damage. Medical, hostile-occult and social-influence effects are attributed to the source; translations add neither practical completion nor independent efficacy claims. Inner quoted voices are not converted to outer instructions.",
+      "indonesian_vs_arabic": "Latin-only prose/transliteration and the same reversible-sign convention satisfy the contract. Uncertainty descriptions are Indonesian. Source procedures and effects are represented without recommending them, supplying absent technical information, or converting reported speakers into a guessed speaker.",
+      "verification": "Programmatic Unicode scan found no foreign-script letters, non-ASCII decimal numerals or format controls in either actual target block; complete source-to-target semantic inspection assessed nonaugmentation separately."
+    }
+  ],
+  "uncertainties": [
+    {
+      "status": "ACCEPTED_SOURCE_UNCERTAINTY",
+      "source_span": "Lines 3-4",
+      "issue": "Incomplete opening construction, opaque al-ghalt and damaged min dhullihim ḥūt ending.",
+      "disposition": "Both targets preserve recoverable words and retain opaque forms with localized meaning/reading/syntax caveats. Approximate lexical glosses are explicitly qualified, not asserted as recovered verse. No translation rework required."
+    },
+    {
+      "status": "ACCEPTED_SOURCE_UNCERTAINTY",
+      "source_span": "Lines 8-9",
+      "issue": "Declared six Torah letters versus shown signs; unread meanings of opaque encoded signs.",
+      "disposition": "The declared count and actual signs remain distinct facts. Reversible codepoint tokens preserve all occurrences and their order without a religious or geometric decoding. No translation rework required."
+    },
+    {
+      "status": "ACCEPTED_SOURCE_UNCERTAINTY",
+      "source_span": "Lines 11-13",
+      "issue": "Malformed reporting relationship involving the noble angels.",
+      "disposition": "Each target marks the relationship locally, retains both reported passages and the angels' actual quoted voice, and does not invent an authoritative narrator. No translation rework required."
+    },
+    {
+      "status": "ACCEPTED_SOURCE_UNCERTAINTY",
+      "source_span": "Lines 15 and 20",
+      "issue": "Damaged quoted muʿajjal construction and aqsamt person/connection.",
+      "disposition": "Opaque forms and limited possible readings are explicitly qualified in each target; every readable surrounding clause remains. These are retained source problems rather than unresolved translation defects."
+    },
+    {
+      "status": "ACCEPTED_SOURCE_UNCERTAINTY",
+      "source_span": "Line 24",
+      "issue": "Uncertain ṭūbal reading and substance.",
+      "disposition": "Both targets retain an approximate opaque reading and state that the substance is uncertain. No practical identification or substitution is supplied."
+    },
+    {
+      "status": "ACCEPTED_SOURCE_UNCERTAINTY",
+      "source_span": "Lines 28-29",
+      "issue": "Malformed wa-hā/degree astronomical timing and uncertain scope of inverted.",
+      "disposition": "Both targets retain the damaged timing components and before-separation clause without repair; inversion remains locally scope-qualified. No added schedule, degree or diagram is supplied."
+    },
+    {
+      "status": "ACCEPTED_SOURCE_UNCERTAINTY",
+      "source_span": "Line 35",
+      "issue": "Opaque waraq khuṭṭāf material expression.",
+      "disposition": "Both targets preserve the source-specific transliteration with explicitly tentative lexical possibilities, not a chosen material. No translation rework required."
+    }
+  ],
+  "findings": [],
+  "needed_changes": [],
+  "conclusion": "APPROVED for complete English-versus-Arabic and Indonesian-versus-Arabic semantic coverage at the exact reviewed hashes. Accepted localized source uncertainties are not unresolved translation defects. No repairs are requested."
+}
