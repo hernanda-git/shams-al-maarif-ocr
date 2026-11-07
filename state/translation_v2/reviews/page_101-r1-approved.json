@@ -1,0 +1,217 @@
+{
+  "page": 101,
+  "revision": 1,
+  "verdict": "APPROVED",
+  "reviewer_id": "hermes-independent-reviewer",
+  "worker_agent_id": "sa-0-b5796744",
+  "translator_delegation_id": "deleg_c175329f",
+  "reviewer_provenance": "independent_model",
+  "independence_statement": "I am the fresh read-only reviewing subagent, not the translating worker sa-0-b5796744 or delegation deleg_c175329f. I read the complete actual 25-line canonical Arabic file and both complete target files, separately comparing English against Arabic and Indonesian against Arabic. This decision is my independent clause-level evaluation, not an inference from target-to-target agreement, the translator's report, or the parent's structural validation. I made no repository, target, tracker, reader, code, Git, or remote changes. The only file I created is this scratch review receipt.",
+  "reviewed_hashes": {
+    "ocr/enriched/page_101.txt": "279ff095ed2530d25b97f5042413e715ae92a022f1a0327ff7943f61d7756f43",
+    "ocr/enriched_en/page_101.txt": "1032287d7f9d5aeccc596fa2342756a971919bfbdd14650e9166933c6fc1fe3f",
+    "ocr/enriched_id/page_101.txt": "6b5bbffb86dbf36125f87796995f2cfd9f5366863c16e5ff655a79f2ad466ce1"
+  },
+  "scope": {
+    "repository": "C:/Working Folder/Research/shams-al-maarif-ocr",
+    "source": "Complete canonical OCR text of physical page 101; no neighboring pages or absent scan image used.",
+    "style_contract": "docs/translation-style-v2.md",
+    "reference": "autonomous-repo-execution-loop/references/canonical-page-alignment.md",
+    "source_line_count": 25,
+    "english_content_line_count": 25,
+    "indonesian_content_line_count": 25,
+    "source_bytes": 3447,
+    "english_file_bytes": 7667,
+    "indonesian_file_bytes": 8559,
+    "review_basis": "Raw-byte verification plus independent semantic review of each target against the complete supplied Arabic OCR; not authentication of the underlying manuscript, religious report, or efficacy claims."
+  },
+  "coverage": [
+    {
+      "id": "raw_hashes_and_embeddings",
+      "source_lines": "1-25",
+      "result": "PASS",
+      "english": "Recomputed raw SHA-256 matches the frozen English hash. The single Arabic wrapper contains the exact 3447 canonical bytes, including all 24 LF separators and the absence of a final source newline; embedded SHA-256 equals canonical SHA-256.",
+      "indonesian": "Recomputed raw SHA-256 matches the frozen Indonesian hash. Independently extracted embedded Arabic is exactly equal to the canonical source bytes, not merely equal after whitespace normalization.",
+      "evidence": "Python pathlib.read_bytes, hashlib.sha256, literal wrapper extraction, and direct byte equality executed successfully. All three supplied hashes matched exactly."
+    },
+    {
+      "id": "folio_line_structure_markers_and_script",
+      "source_lines": "1-25",
+      "result": "PASS",
+      "english": "The anomalous printed folio is rendered as its own line, — 65 —, not 95 or the physical index 101. All 25 content-line positions survive. Stars are on content lines 14, 17, 18, and 19; the numeral 3 remains on line 20 beside O Lord. Target prose contains only permitted Latin letters and transliteration modifiers, with no non-ASCII decimal glyphs or hidden controls.",
+      "indonesian": "Independently preserves folio value 65 and dash style, 25 content lines, each of the same four star positions, and the single procedural numeral 3 at Ya Tuhan on line 20. No prohibited letter scripts, non-ASCII decimals, or hidden controls were detected.",
+      "evidence": "Programmatic normalized numeral sequence is [65, 3] for Arabic and for each target. Source and both target star inventories independently equal lines [14, 17, 18, 19], one star each. Each wrapper has one Arabic label and one correct language label."
+    },
+    {
+      "id": "opening_fragment_lawful_request_and_first_heading",
+      "source_lines": "3",
+      "result": "PASS",
+      "english": "Retains the continued bounty/generosity fragment, good intention command, warning against seeking what is unlawful for the addressee, God as giver of success, the benefit heading, and the qualified assertion It is said that it contains the Greatest Name. Does not invent the feminine antecedent of contains.",
+      "indonesian": "Retains karunia/kemurahan, the command to improve intention, explicit prohibition on requesting what is not halal, Allah as giver of taufik, faedah heading, and Dikatakan qualification on the Greatest Name claim. The unnamed referent remains di dalamnya."
+    },
+    {
+      "id": "invocation_opening_requests",
+      "source_lines": "4-5",
+      "result": "PASS",
+      "english": "Separately retains untie this knot, remove this difficulty, teach the good of what is made easy, protect from the evil of what is decreed, grant excellence in seeking, and spare an evil outcome. You say introduces the first-person supplicant's formula rather than replacing its requests with editorial advice.",
+      "indonesian": "Arabic-to-Indonesian comparison retains uraikan simpul, hilangkan kesulitan, ajarkan kebaikan dari apa yang dimudahkan, lindungi dari keburukan yang ditakdirkan, anugerahkan cara meminta yang baik, and hindarkan dari kesudahan buruk. No request or opposition between good and evil is dropped."
+    },
+    {
+      "id": "need_destitution_devices_tears_capital_treasure",
+      "source_lines": "5-6",
+      "result": "PASS",
+      "english": "All six rhetorical relationships survive in order: plea/need, provision/destitution, means of approach/exhaustion of devices, intercessor/tears, capital/lack of contrivance, treasure/incapacity. The line break before tears does not change the intercessor relationship.",
+      "indonesian": "Independently preserves alasan/kebutuhan, bekal/kefakiran, wasilah/habisnya daya, pemberi syafaat/air mata, modal/ketiadaan siasat, and harta simpanan/ketidakberdayaan, including both negative or privative expressions."
+    },
+    {
+      "id": "drop_speck_following_requests_and_complete_blessing",
+      "source_lines": "6-8",
+      "result": "PASS",
+      "english": "Keeps the drop from seas of generosity and speck from torrent of pardon with their respective sufficiency/enrichment predicates. Preserves provision, mercy, pardon, fulfillment of need, relief of anguish, removal of worry and distress, appeal by mercy, and Most Merciful of the merciful. The blessing expressly retains our master Muhammad, his family, his companions, blessing, and peace in great abundance.",
+      "indonesian": "Retains setetes/lautan kemurahan and sebutir/arus pengampunan with the corresponding effects; rezeki, rahmat, maaf, kebutuhan, kesesakan, kekhawatiran, and kesusahan are all present. Invocation of the Most Merciful and the complete selawat/salam formula for junjungan kami Muhammad, family, and companions, including abundance, are retained."
+    },
+    {
+      "id": "ibn_masud_heading_report_and_negative_condition",
+      "source_lines": "9-10",
+      "result": "PASS",
+      "english": "Another blessed benefit, attribution to Ibn Masʿūd, may God be pleased with him, and the no-one-afflicted-by-worry-or-sadness-and-says construction are retained. The eventual without God taking away condition remains connected to this opening rather than becoming an unconditional independent guarantee.",
+      "indonesian": "Retains the additional blessed benefit, Ibn Masʿūd attribution and honorific, and Tidaklah seseorang ... kekhawatiran ataupun kesedihan lalu mengucapkan, completed later by melainkan Allah. The conditional/negative frame survives independently of the English rendering."
+    },
+    {
+      "id": "actual_servant_line_forelock_rule_and_justice",
+      "source_lines": "10",
+      "result": "PASS",
+      "english": "Faithfully renders only I am Your servant and the son of Your bondwoman. It does not restore the familiar but absent son of Your servant clause. Forelock in Your hand, effective ruling over the supplicant, and just decree are all retained with God as addressee.",
+      "indonesian": "Aku adalah hamba-Mu dan anak hamba perempuan-Mu matches the actual printed relationship, without adding another parent. Ubun-ubun dalam tangan-Mu, hukum berlaku atas diri, and ketetapan adil all survive."
+    },
+    {
+      "id": "complete_divine_name_alternative_list",
+      "source_lines": "10-12",
+      "result": "PASS",
+      "english": "Retains O God, every Name that is Yours, self-naming, or sending it down in Your Book, or teaching it to any of Your creatures, or reserving it to Yourself in knowledge of the unseen with You. No option, possessive, recipient scope, or alternative conjunction is collapsed.",
+      "indonesian": "Independently preserves setiap Nama milik-Mu, penamaan diri-Mu, penurunan dalam Kitab-Mu, pengajaran kepada salah satu makhluk-Mu, and penyimpanan sendiri dalam pengetahuan gaib di sisi-Mu. Each Arabic alternative remains an alternative."
+    },
+    {
+      "id": "quran_heart_breast_all_grief_terms_and_joy",
+      "source_lines": "12-13",
+      "result": "PASS",
+      "english": "The mighty Qur'an is requested as springtime of the heart, light of the breast, clearing away sadness, and removal of worry, distress, and complaint. The report then has God removing the afflicted person's sadness and replacing it with joy, not a new assertion by the reviewer.",
+      "indonesian": "Al-Qur'an yang agung, musim semi hati, cahaya dada, penghapus kesedihan, and penghilang kekhawatiran/kesusahan/keluhan retain each source item. Allah remains the explicit actor removing sadness and replacing it with kegembiraan."
+    },
+    {
+      "id": "dialogue_learning_and_prohibition_on_fools",
+      "source_lines": "13-14",
+      "result": "PASS",
+      "english": "The unnamed questioner addresses the Messenger of God and asks about learning it; the Messenger replies Yes. Whoever hears them ought to learn them is retained, along with the explicit prohibition against teaching them to any of the foolish. No unsupported named questioner is supplied.",
+      "indonesian": "Seseorang asks Rasul Allah about learning, Rasul answers Ya, and the instruction to hear/learn all of it and not teach a single person among the foolish retains both the positive obligation and the negative recipient scope."
+    },
+    {
+      "id": "heard_righteous_tested_prayer_and_repeated_wills",
+      "source_lines": "14-16",
+      "result": "PASS",
+      "english": "Preserves the narrator hearing some righteous people, the source's description of a tried prayer, and the complete repeated sequence: what I wish/what You wish, so what I wish does not become contrary to what You wish, who am I to wish contrary to what God wishes. No repetition or negation is summarized away.",
+      "indonesian": "The narrator's aku mendengar, sebagian orang saleh, and doa yang disebut telah teruji preserve attribution. Both repeated aku kehendaki/Engkau kehendaki pairings, the agar ... tidak condition, and Siapakah aku ... apa yang Allah kehendaki remain in source order."
+    },
+    {
+      "id": "servants_striving_opaque_last_will_and_singular_addressee",
+      "source_lines": "16-17",
+      "result": "PASS",
+      "english": "Retains servant striving and willing, nothing except what he willed, gentleness toward us in what You wish, and you do not will unless God, Lord of the worlds, wills. The last he referent and subsequent singular you addressee are separately marked uncertain; ordinary-case he/you does not silently assign them to God.",
+      "indonesian": "Preserves hamba bersungguh-sungguh dan berkehendak, tidak ... selain apa yang ia kehendaki, berlemah lembut kepada kami, and engkau tidak ... kecuali jika Allah ... menghendaki. Local notes independently identify unresolved ia and singular engkau. Ordinary ia/engkau forms avoid assigning the uncertain person through divine capitalization or possessives."
+    },
+    {
+      "id": "observed_hands_late_night_wafq_names_and_hadid",
+      "source_lines": "17-18",
+      "result": "PASS",
+      "english": "Know that I saw people preserves the narrator and observation; tracing on their hands, toward the end of the night, this muʿashshar wafq, forthcoming description, petitioning God through it, and sacred Names at the beginning of Sūrat al-Ḥadīd are all present. Muʿashshar is not expanded into an inferred ten-by-ten grid.",
+      "indonesian": "Ketahuilah bahwa aku melihat orang-orang, menggambar pada tangan mereka, penghujung malam, wafq muʿashshar, forthcoming uraian, and memohon kepada Allah dengannya through Nama-Nama suci pada bagian awal Surah al-Ḥadīd each retain their Arabic clause. No geometry or unprinted verse text is invented."
+    },
+    {
+      "id": "inscribing_seal_hanging_and_answered_accepted_condition",
+      "source_lines": "18-19",
+      "result": "PASS",
+      "english": "Whoever inscribes the previously mentioned Names in the mentioned muʿashshar seal and hangs it upon himself retains both operative conditions and the claim that the person's supplication is answered and accepted. The explicit according to the text correctly distances the efficacy claim without changing its content.",
+      "indonesian": "Barang siapa menuliskan Nama-Nama itu pada meterai muʿashshar yang telah disebutkan dan menggantungkannya pada dirinya preserves the actor and both actions. Dijawab dan diterima preserves both predicates; demikian pernyataan teks keeps their source attribution."
+    },
+    {
+      "id": "sanctuary_woman_loose_hair_gold_tablet_and_lord_numeral",
+      "source_lines": "19-20",
+      "result": "PASS",
+      "english": "Retains the narrator's emphatic first-person observation in the Noble Sanctuary, a woman with loose hair, a gold tablet held in her hand, the muʿashshar in it, and the woman's own speech. O Lord 3 remains exactly one numeral marker, with a local unknown-scope note, not three printed invocations or an asserted threefold repetition.",
+      "indonesian": "Sungguh aku melihat, Tanah Suci yang Mulia, perempuan yang menggerai rambutnya, lempeng emas di tangannya, and muʿashshar di dalamnya independently match the Arabic. Ia sedang mengucapkan introduces the woman's prayer; Ya Tuhan 3 preserves the numeral without inventing its repetition scope."
+    },
+    {
+      "id": "noble_names_secrets_awkward_exception_cost_hardship_and_divine_predicates",
+      "source_lines": "20-22",
+      "result": "PASS",
+      "english": "Keeps by this and the noble Names and mighty secrets in it; except what You have given me is not repaired into a conventional request, and its uncertain connection is disclosed locally. Without cost or hardship retains both exclusions. You are the Doer of whatever You wish and have power over everything preserve the explicit divine predicates in the woman's invocation.",
+      "indonesian": "Dengan ini, Nama-Nama mulia, rahasia-rahasia agung di dalamnya, and kecuali apa yang telah Engkau berikan kepadaku preserve the difficult printed construction, with an Indonesian local caveat. Tanpa biaya dan tanpa kesukaran retains both negatives. Yang Melakukan apa pun yang Engkau kehendaki and Mahakuasa atas segala sesuatu retain both stable predicates of Allah."
+    },
+    {
+      "id": "unfinished_speech_god_sends_table_gold_and_written_slip",
+      "source_lines": "22-23",
+      "result": "PASS",
+      "english": "She had not finished her words before God sent down to her a table from heaven preserves the temporal negative and explicitly names God as agent. Much gold and a written slip inside it remain separate contents. Barāʾah is explained as a written slip, and the unmarked end of its quotation is disclosed where that quotation begins.",
+      "indonesian": "Belum lagi ia menyelesaikan ucapannya, Allah menurunkan kepadanya ... dari langit preserves the timing, recipient, and explicit divine actor. Hidangan containing banyak emas and lembaran bertulis (barāʾah) preserves the source's heavenly provision and its contents. The quotation-boundary uncertainty is stated locally before the slip's quoted words."
+    },
+    {
+      "id": "slip_counterfactual_family_coming_hour_and_because_clause",
+      "source_lines": "23-24",
+      "result": "PASS",
+      "english": "If you asked God to carry you to your family retains the counterfactual request, God as carrier, the woman as recipient/addressee, and family destination. The printed irregular it would come to you at that hour is retained rather than replaced by an expected transport miracle. A local note identifies both the uncertain subject of come and the grammatical role of the hour. Because you invoked God by His Greatest Name remains attached to the statement.",
+      "indonesian": "Seandainya engkau meminta kepada Allah agar Dia membawamu kepada keluargamu retains each argument of the request. Niscaya ia akan mendatangimu pada saat itu does not transform the irregular consequent into instant return home, and explicitly flags the uncertain subject and role of saat. Dia in the carrying clause is clearly Allah; ordinary ia in the irregular consequent does not assert a divine subject. Karena engkau telah menyeru Allah dengan Nama-Nya Yang Paling Agung preserves the causal explanation."
+    },
+    {
+      "id": "answers_gives_general_benefit_closing_success_and_final_caption",
+      "source_lines": "23-25",
+      "result": "PASS",
+      "english": "When God is invoked by the Name, He answers; when He is asked by it, He gives: both conditions and divine agents are explicit. It is beneficial for everything remains source-attributed, followed by God grants success by His bounty and generosity. The final parenthetical describes the form of the muʿashshar with verses inside, exactly as the source does; it supplies no absent diagram, cells, or verses.",
+      "indonesian": "Apabila Dia diseru dengannya, Dia menjawab, and apabila Dia dimintai dengannya, Dia memberi preserve each condition and explicit Allah subject. Ia bermanfaat untuk segala sesuatu, menurut teks retains the source claim without forcing its referent to be God. Allah pemberi taufik dengan karunia dan kemurahan-Nya and the final parenthetical bentuk muʿashshar dengan ayat-ayat di dalamnya retain the printed ending without a fabricated figure."
+    }
+  ],
+  "uncertainties": [
+    {
+      "source_lines": "3",
+      "source_anchor": "qila inna fiha al-ism al-aʿzam",
+      "accepted": true,
+      "description": "The antecedent of the feminine contains/inside-it pronoun is not identified within this page. Both targets retain the unspecified referent and the source's it-is-said qualification; no antecedent is reconstructed from neighboring pages."
+    },
+    {
+      "source_lines": "16",
+      "source_anchor": "law jahada al-ʿabd wa-shaʾa ma kana illa ma shaʾa",
+      "accepted": true,
+      "description": "The final shaʾa has an implicit referent. Both targets retain the printed willing clause and locally identify the unresolved he/ia referent instead of silently theological-normalizing it."
+    },
+    {
+      "source_lines": "16-17",
+      "source_anchor": "wa-ma tashaʾu illa an yashaʾa Allah rabb al-ʿalamin",
+      "accepted": true,
+      "description": "The printed form shifts to singular second person. Both targets preserve that shift and mark the unspecified addressee; ordinary-case you/engkau does not settle it by typography."
+    },
+    {
+      "source_lines": "20",
+      "source_anchor": "ya rabb 3",
+      "accepted": true,
+      "description": "The numeral's function and scope are not stated. Both targets retain the single numeral at the Lord invocation and explicitly mark this uncertainty; neither fabricates three repetitions."
+    },
+    {
+      "source_lines": "21",
+      "source_anchor": "illa ma ataytani",
+      "accepted": true,
+      "description": "The connection of except what You have given me to the woman's plea is awkward in the actual source. Both targets retain that recoverable wording, without changing it to an expected imperative or adding a missing oath, and locally qualify the uncertain construction."
+    },
+    {
+      "source_lines": "22-24",
+      "source_anchor": "wa-fiha baraʾa fiha",
+      "accepted": true,
+      "description": "The source does not explicitly mark where the slip's wording ends and commentary resumes. Both targets flag this uncertainty before presenting the slip quotation; editorial closing punctuation is therefore qualified, not represented as a certain source boundary."
+    },
+    {
+      "source_lines": "23",
+      "source_anchor": "la-atatka al-saʿa",
+      "accepted": true,
+      "description": "The consequent's subject and the grammatical role of the hour are irregular or unresolved. Both targets preserve the request for God to carry the woman to her family and the printed coming-to-you/hour clause, locally qualify the latter, and do not replace it with an expected instantaneous transport account."
+    }
+  ],
+  "findings": []
+}
