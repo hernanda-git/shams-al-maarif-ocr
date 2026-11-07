@@ -1,0 +1,396 @@
+{
+  "type": "translation_v2_continuation_checkpoint",
+  "captured_at_utc": "2026-11-07T10:02:32.341909+00:00",
+  "captured_at_local": "2026-11-07T17:02:32.341930+07:00",
+  "baseline_head": "cd6878d0f635fe2b8ffcc704624cbcda08d7aefe",
+  "verified_head": "fa65376653ecfd2e75c1363115f6bc5ca794b82f",
+  "scope": {
+    "first_page": 78,
+    "last_page": 92,
+    "page_count": 15
+  },
+  "completed": 92,
+  "pending": 512,
+  "next_page": 93,
+  "active_page": null,
+  "worker_lock": null,
+  "canonical_sources_hashed": 604,
+  "generated_pages": 604,
+  "titles_preserved": 604,
+  "accepted_pages_swept": 92,
+  "events_added": 141,
+  "historical_events_versioned_exact_prefix": true,
+  "historical_events_raw_working_prefix": true,
+  "protected_wip_hashes_verified": {
+    ".commandcode/taste/taste.md": {
+      "kind": "file",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "HERMES_PROMPT_TRANSLATION_ALIGNMENT_V2.md": {
+      "kind": "file",
+      "sha256": "ede4242da67404c8dee3eb52963a405bd1112794d6a5acc3f560011507c848a8"
+    },
+    ".hermes/plans/2026-09-25_translation-v2-worker.md": {
+      "kind": "missing"
+    }
+  },
+  "protected_wip_status": "D .hermes/plans/2026-09-25_translation-v2-worker.md\n?? .commandcode/\n?? HERMES_PROMPT_TRANSLATION_ALIGNMENT_V2.md",
+  "pages": [
+    {
+      "page": 78,
+      "content_sha": "bec6543fb014d9633b9b5761d77be8c1f8830db7",
+      "tracker_sha": "2f7769addae7b66cf7342507ccdb8994ba51c288",
+      "review": "state/translation_v2/reviews/page_078-r1-approved.md",
+      "review_sha256": "df58bacf809cf58b362ebfa3e7bcd03f6edf3ac1743afd42b287b875a831a46e",
+      "review_history": [
+        {
+          "path": "state/translation_v2/reviews/page_078-r1-approved.md",
+          "working_sha256": "df58bacf809cf58b362ebfa3e7bcd03f6edf3ac1743afd42b287b875a831a46e",
+          "git_blob_sha256": "df58bacf809cf58b362ebfa3e7bcd03f6edf3ac1743afd42b287b875a831a46e"
+        }
+      ],
+      "file_hashes": {
+        "ocr/enriched/page_078.txt": "aead6a3c62df3efa53817db525e27cd388f7ab4bc1ebd17e1db795bbe1223de5",
+        "ocr/enriched_en/page_078.txt": "b455cae0fdc7bf717cc073747c26d9cb3a2a692cabc8c1a810d3ca3daafcf71c",
+        "ocr/enriched_id/page_078.txt": "6133cd7d57737a05f24b96a9ca7a68eb1c5945d9eff5c6949709a878fa62f145"
+      },
+      "english_unclear": 10,
+      "indonesian_unclear": 10
+    },
+    {
+      "page": 79,
+      "content_sha": "8d9dda579c495e2ec4e3e80b8d9eccad028ff715",
+      "tracker_sha": "6edfe9214172bdec8246b5675b78462d50434a28",
+      "review": "state/translation_v2/reviews/page_079-r1-approved.md",
+      "review_sha256": "8181882195dc655b2b04cda44f321b3c30b020cc59d92817cd97c2bf83a01b9c",
+      "review_history": [
+        {
+          "path": "state/translation_v2/reviews/page_079-r1-approved.md",
+          "working_sha256": "8181882195dc655b2b04cda44f321b3c30b020cc59d92817cd97c2bf83a01b9c",
+          "git_blob_sha256": "8181882195dc655b2b04cda44f321b3c30b020cc59d92817cd97c2bf83a01b9c"
+        }
+      ],
+      "file_hashes": {
+        "ocr/enriched/page_079.txt": "3604921a766c82c973eb7ec13305c29a5cf92f592107fa256668b8a841bf543a",
+        "ocr/enriched_en/page_079.txt": "700c50ec0e8b3b09ae4413f9343a1448c8ec70add788d83c7a519fbcd3f20b5b",
+        "ocr/enriched_id/page_079.txt": "e9b475464160a3893aad7406c1436cb8c0e77997406695e3f82d34bde9b47d59"
+      },
+      "english_unclear": 6,
+      "indonesian_unclear": 6
+    },
+    {
+      "page": 80,
+      "content_sha": "bee770518799f26abd24d870469a6eb8fef7d13c",
+      "tracker_sha": "0bb961e5a30a66a9f397da089634d29c7da51f4f",
+      "review": "state/translation_v2/reviews/page_080-r1-approved.md",
+      "review_sha256": "a9195afa20de7c01b4960f9a0413bf5f63280ca9a90f125bf5d00b3e9a4d76e2",
+      "review_history": [
+        {
+          "path": "state/translation_v2/reviews/page_080-r1-approved.md",
+          "working_sha256": "a9195afa20de7c01b4960f9a0413bf5f63280ca9a90f125bf5d00b3e9a4d76e2",
+          "git_blob_sha256": "a9195afa20de7c01b4960f9a0413bf5f63280ca9a90f125bf5d00b3e9a4d76e2"
+        }
+      ],
+      "file_hashes": {
+        "ocr/enriched/page_080.txt": "ce47d9da15beeac2e18f1e3c48bafe15ea17e7cef4bd4d85bc6a32c8c8377120",
+        "ocr/enriched_en/page_080.txt": "12f2b6c62ea69f955c1528658541da820318c436244f70fb256d6aa21cd71a1c",
+        "ocr/enriched_id/page_080.txt": "1ff33d57b85a62aac39c9c41f6e3bf5bc6759e80fe036e8bcbcae29c11a9645d"
+      },
+      "english_unclear": 8,
+      "indonesian_unclear": 8
+    },
+    {
+      "page": 81,
+      "content_sha": "ec14088e9d8343f3c302e63d599564094d904f3e",
+      "tracker_sha": "02b7041832f765fbeee474c793d6bef585e9ae0f",
+      "review": "state/translation_v2/reviews/page_081-r1-approved.md",
+      "review_sha256": "595d9c15f3555e290bce3ae94cf8315f901a6e3ce94a878314543b929fe1b26f",
+      "review_history": [
+        {
+          "path": "state/translation_v2/reviews/page_081-r1-approved.md",
+          "working_sha256": "595d9c15f3555e290bce3ae94cf8315f901a6e3ce94a878314543b929fe1b26f",
+          "git_blob_sha256": "595d9c15f3555e290bce3ae94cf8315f901a6e3ce94a878314543b929fe1b26f"
+        }
+      ],
+      "file_hashes": {
+        "ocr/enriched/page_081.txt": "ef86b6c51499070d7053912fc54b37a456ca6882447efe1bee14c35d7d93d5d2",
+        "ocr/enriched_en/page_081.txt": "a3bce8ff78692d473d254569f6ac21d6f0c0dfce9c25e4a3c8f907912cec1b87",
+        "ocr/enriched_id/page_081.txt": "884cd0611bae1148b5d0db9f8abbe18366556abeb24499b91b7e4a5f1dcc3ac4"
+      },
+      "english_unclear": 6,
+      "indonesian_unclear": 6
+    },
+    {
+      "page": 82,
+      "content_sha": "358f8ce1574285d080dfb14f9e0a702bc7d42f30",
+      "tracker_sha": "8135a7c6af5c55d50468d372e2e017c1213c4673",
+      "review": "state/translation_v2/reviews/page_082-r3-approved.md",
+      "review_sha256": "5c697f33fe403d13787e1b28ba2c0141b97151d6c89253d1a599edd937874892",
+      "review_history": [
+        {
+          "path": "state/translation_v2/reviews/page_082-r1-rework.md",
+          "working_sha256": "59e127140bc237a2175ec82f638ec0465002129448d5639ed3cfcd07b5382e86",
+          "git_blob_sha256": "59e127140bc237a2175ec82f638ec0465002129448d5639ed3cfcd07b5382e86"
+        },
+        {
+          "path": "state/translation_v2/reviews/page_082-r2-rework.json",
+          "working_sha256": "c3e3eb12149eb7ea02a20b3f13ae0de0f832c4f3ae5217b20336aa39567fdd0f",
+          "git_blob_sha256": "c3e3eb12149eb7ea02a20b3f13ae0de0f832c4f3ae5217b20336aa39567fdd0f"
+        },
+        {
+          "path": "state/translation_v2/reviews/page_082-r3-approved.md",
+          "working_sha256": "5c697f33fe403d13787e1b28ba2c0141b97151d6c89253d1a599edd937874892",
+          "git_blob_sha256": "5c697f33fe403d13787e1b28ba2c0141b97151d6c89253d1a599edd937874892"
+        }
+      ],
+      "file_hashes": {
+        "ocr/enriched/page_082.txt": "b4deb3f84251f0fb29572ee1c507ce947e92185ed1f0fdbb3bc13dd484c9faeb",
+        "ocr/enriched_en/page_082.txt": "590e9b31d429183a01a3ba144c627a0c7ee879ec4327a088429625c8eef77199",
+        "ocr/enriched_id/page_082.txt": "08d3877e7d389a5f3868f2cddb52b93f77094bb0fbeac3b1d922231df6d919a5"
+      },
+      "english_unclear": 2,
+      "indonesian_unclear": 2
+    },
+    {
+      "page": 83,
+      "content_sha": "609ed00cc0beb0ca79d3f2d4b2bb83c8e6a7865d",
+      "tracker_sha": "64e696b5ad61376d3b4530f95fa089b9f66a6873",
+      "review": "state/translation_v2/reviews/page_083-r1-approved.md",
+      "review_sha256": "b585d1fe9d50ecdae61c3be353817f8dcad4b5ea309caf8cdc43c3c3ec7d2521",
+      "review_history": [
+        {
+          "path": "state/translation_v2/reviews/page_083-r1-approved.md",
+          "working_sha256": "b585d1fe9d50ecdae61c3be353817f8dcad4b5ea309caf8cdc43c3c3ec7d2521",
+          "git_blob_sha256": "b585d1fe9d50ecdae61c3be353817f8dcad4b5ea309caf8cdc43c3c3ec7d2521"
+        }
+      ],
+      "file_hashes": {
+        "ocr/enriched/page_083.txt": "d503bbbcbfec7623348524a596f9e3b470fa544286de4b6a4e6574816bac4659",
+        "ocr/enriched_en/page_083.txt": "98f5b425628fcaa3e803c64e911575069352bccd606c189b2faaf5674732a2dd",
+        "ocr/enriched_id/page_083.txt": "198c5cb9cd76c544118faa682d4755ad26efc33a15a947fbc4f6b35e2d4d35ae"
+      },
+      "english_unclear": 1,
+      "indonesian_unclear": 1
+    },
+    {
+      "page": 84,
+      "content_sha": "688c0f178f1d742caa34dabe6206ed86bb4649a3",
+      "tracker_sha": "c92bccaa75d76be8f2908582ac980ff61c12cbd8",
+      "review": "state/translation_v2/reviews/page_084-r1-approved.md",
+      "review_sha256": "c37f8da9481fdb81c1cdfa84ad0f309c96c453c32104314c880a13667fa6032f",
+      "review_history": [
+        {
+          "path": "state/translation_v2/reviews/page_084-r1-approved.md",
+          "working_sha256": "c37f8da9481fdb81c1cdfa84ad0f309c96c453c32104314c880a13667fa6032f",
+          "git_blob_sha256": "c37f8da9481fdb81c1cdfa84ad0f309c96c453c32104314c880a13667fa6032f"
+        }
+      ],
+      "file_hashes": {
+        "ocr/enriched/page_084.txt": "34a7eae08bbd4d31ab47b838bb5ea61c9c050a3d2aceb9490b175773a22060eb",
+        "ocr/enriched_en/page_084.txt": "214fe96421ae712d4ff9ed814abaf3b58527e14c647167fb79361c983c2963d9",
+        "ocr/enriched_id/page_084.txt": "fad966c63861d267a4a4bec98d7c4c510185149532f9d4ce5ef278b5ab8b15de"
+      },
+      "english_unclear": 5,
+      "indonesian_unclear": 5
+    },
+    {
+      "page": 85,
+      "content_sha": "21a7b96f612fd7fecce05e33e5c7279f79d82c15",
+      "tracker_sha": "25a95570dc99464c5e77905efe6ac209f1bae33e",
+      "review": "state/translation_v2/reviews/page_085-r2-approved.md",
+      "review_sha256": "78e69af4e0c02599a4f08e35410313763fbb95128f6ad843b2d14f0140e7c1aa",
+      "review_history": [
+        {
+          "path": "state/translation_v2/reviews/page_085-r1-rework.json",
+          "working_sha256": "00de2d252c92f118f8b524b9358e1b4c089634b8b4cf8ef4d5343d22080db90e",
+          "git_blob_sha256": "00de2d252c92f118f8b524b9358e1b4c089634b8b4cf8ef4d5343d22080db90e"
+        },
+        {
+          "path": "state/translation_v2/reviews/page_085-r2-approved.md",
+          "working_sha256": "78e69af4e0c02599a4f08e35410313763fbb95128f6ad843b2d14f0140e7c1aa",
+          "git_blob_sha256": "78e69af4e0c02599a4f08e35410313763fbb95128f6ad843b2d14f0140e7c1aa"
+        }
+      ],
+      "file_hashes": {
+        "ocr/enriched/page_085.txt": "2cb66faaeb76f2f2673562b373868be30804c6169c9c8d1c1f165c40759ebe46",
+        "ocr/enriched_en/page_085.txt": "2e93d9db167a20d347dff9eceefa103155eb041e4809c9f41408781c0547ffa8",
+        "ocr/enriched_id/page_085.txt": "41a871e4619555890f490892ff0dc4b7b1785bec086d94d404e3fe48dadc101d"
+      },
+      "english_unclear": 17,
+      "indonesian_unclear": 17
+    },
+    {
+      "page": 86,
+      "content_sha": "785a8b0ce1bcc33eeac234d313122c600caae16a",
+      "tracker_sha": "13436105180ef90466096e79c33e77e85113b72a",
+      "review": "state/translation_v2/reviews/page_086-r1-approved.md",
+      "review_sha256": "740e547d494c301226e093cd809899c080ee7b72ec1dcc7eb431434b617c0a1c",
+      "review_history": [
+        {
+          "path": "state/translation_v2/reviews/page_086-r1-approved.md",
+          "working_sha256": "740e547d494c301226e093cd809899c080ee7b72ec1dcc7eb431434b617c0a1c",
+          "git_blob_sha256": "740e547d494c301226e093cd809899c080ee7b72ec1dcc7eb431434b617c0a1c"
+        }
+      ],
+      "file_hashes": {
+        "ocr/enriched/page_086.txt": "063afeb6cbc6c42e4a09aed378e3d346f0c97da9f3c1a7dd598b144a28c35d13",
+        "ocr/enriched_en/page_086.txt": "43a14b2c587619dd0e637b0d89e48595379679b068f7ebcd35ee4e3f5d304963",
+        "ocr/enriched_id/page_086.txt": "2d86224109d6c362e435f49a79210ce0735012a174644ea5dd61e1f3d567f5bd"
+      },
+      "english_unclear": 13,
+      "indonesian_unclear": 13
+    },
+    {
+      "page": 87,
+      "content_sha": "fb23a5b635fd990859e38b93d9340b8fba7c23e7",
+      "tracker_sha": "c916d8069ceb2671ec86c90795a1b0a4cbf8c64f",
+      "review": "state/translation_v2/reviews/page_087-r1-approved.md",
+      "review_sha256": "e1ee9c18a1f4ce45ccd68d33942a1032401302934e84dfaaa422b726fda8c48f",
+      "review_history": [
+        {
+          "path": "state/translation_v2/reviews/page_087-r1-approved.md",
+          "working_sha256": "e1ee9c18a1f4ce45ccd68d33942a1032401302934e84dfaaa422b726fda8c48f",
+          "git_blob_sha256": "e1ee9c18a1f4ce45ccd68d33942a1032401302934e84dfaaa422b726fda8c48f"
+        }
+      ],
+      "file_hashes": {
+        "ocr/enriched/page_087.txt": "c9ed69de0703a52e71211ead622af03887abd493c4ed912ff732274321a04116",
+        "ocr/enriched_en/page_087.txt": "49cf0167d202371d7311a519b72a6c15c3677a9de36f0148c34963d190b70a1d",
+        "ocr/enriched_id/page_087.txt": "4d169c140965338b051badba7a66188c429056b6be1fbeeec49368f410d8bac2"
+      },
+      "english_unclear": 13,
+      "indonesian_unclear": 13
+    },
+    {
+      "page": 88,
+      "content_sha": "befe1bc5edbe9c756b20894b80cd24465dcdf782",
+      "tracker_sha": "a8490de0f0e1b192eea2989e37f250ae964ce7a2",
+      "review": "state/translation_v2/reviews/page_088-r1-approved.md",
+      "review_sha256": "0664a3d375d81ef7e6891852d17244fca3e6477da0ca2252a191cea7b46a7847",
+      "review_history": [
+        {
+          "path": "state/translation_v2/reviews/page_088-r1-approved.md",
+          "working_sha256": "0664a3d375d81ef7e6891852d17244fca3e6477da0ca2252a191cea7b46a7847",
+          "git_blob_sha256": "0664a3d375d81ef7e6891852d17244fca3e6477da0ca2252a191cea7b46a7847"
+        }
+      ],
+      "file_hashes": {
+        "ocr/enriched/page_088.txt": "6db590da979dd52b3c57ca10f58a9dc88ffece6e3dbe9b47fad97a0e9b1ce3c0",
+        "ocr/enriched_en/page_088.txt": "51db03c54691483f00a3ac80e9927d6e6cf17de20ebc1a5daf1b5780f9795480",
+        "ocr/enriched_id/page_088.txt": "1f18d55d647dfd74c446c7b4bb729d8469f081c36935521fd9762b374cd3da92"
+      },
+      "english_unclear": 10,
+      "indonesian_unclear": 10
+    },
+    {
+      "page": 89,
+      "content_sha": "a5f7bc4484d2ff2e45de4b3bbfa20a294c31559c",
+      "tracker_sha": "1c1a8b077d5d0110a79bc4e51f6b2a2c8d4c35a0",
+      "review": "state/translation_v2/reviews/page_089-r1-approved.md",
+      "review_sha256": "9e77b39922530d6634360062481ba6d733a21d0eaa84245df63b41f8827cccdf",
+      "review_history": [
+        {
+          "path": "state/translation_v2/reviews/page_089-r1-approved.json",
+          "working_sha256": "d907ea1f08c1df98be49f1aa57c0481afc3e6c11e58bd6a827d62e42bd0214c1",
+          "git_blob_sha256": "d907ea1f08c1df98be49f1aa57c0481afc3e6c11e58bd6a827d62e42bd0214c1"
+        },
+        {
+          "path": "state/translation_v2/reviews/page_089-r1-approved.md",
+          "working_sha256": "9e77b39922530d6634360062481ba6d733a21d0eaa84245df63b41f8827cccdf",
+          "git_blob_sha256": "9e77b39922530d6634360062481ba6d733a21d0eaa84245df63b41f8827cccdf"
+        }
+      ],
+      "file_hashes": {
+        "ocr/enriched/page_089.txt": "63b76cd5e3e209f0128c73e5436f3546a16383ab4f577675006d119b854ba237",
+        "ocr/enriched_en/page_089.txt": "15187ff41024afe166855593eeca8235618a8d309ce6fee4a47acd3afac458f6",
+        "ocr/enriched_id/page_089.txt": "86bcb0d8ff5903a9e8330e9f77a4e4dbf4a939b3f38a07f7279ca4fe1c53c133"
+      },
+      "english_unclear": 8,
+      "indonesian_unclear": 8
+    },
+    {
+      "page": 90,
+      "content_sha": "bd1d87b617f2f67216a89e472c7219486a6426f8",
+      "tracker_sha": "2d36da50ebc103676c089252a64de83f9df8e234",
+      "review": "state/translation_v2/reviews/page_090-r1-approved.md",
+      "review_sha256": "a2414bbd6a1a1347eddfa48266d77e2880ccdbab002fe7c3269f69e8adcea144",
+      "review_history": [
+        {
+          "path": "state/translation_v2/reviews/page_090-r1-approved.md",
+          "working_sha256": "a2414bbd6a1a1347eddfa48266d77e2880ccdbab002fe7c3269f69e8adcea144",
+          "git_blob_sha256": "a2414bbd6a1a1347eddfa48266d77e2880ccdbab002fe7c3269f69e8adcea144"
+        }
+      ],
+      "file_hashes": {
+        "ocr/enriched/page_090.txt": "cd6844396a62652d169835c77ec215fc976d914f50016eb7e82967215832d698",
+        "ocr/enriched_en/page_090.txt": "cafee2e20367adc3566a673cec95586fc3e1efc1b223f658b4205ad754a7ead0",
+        "ocr/enriched_id/page_090.txt": "dc56d66b34ca6af6c8d3f20a687f4120e4473f43cb914c1d133361ee1c9dfe75"
+      },
+      "english_unclear": 12,
+      "indonesian_unclear": 12
+    },
+    {
+      "page": 91,
+      "content_sha": "93e7ac1034e05bd1e652debf84b6897e366598c1",
+      "tracker_sha": "7ee530cdcf7b5f79c8d2fa47a86ba0aff70c2211",
+      "review": "state/translation_v2/reviews/page_091-r1-approved.md",
+      "review_sha256": "7a74d1e8a9ec8c160239fd8c53f1d3a62309f9f0b536a0204e45844f68252684",
+      "review_history": [
+        {
+          "path": "state/translation_v2/reviews/page_091-r1-approved.md",
+          "working_sha256": "7a74d1e8a9ec8c160239fd8c53f1d3a62309f9f0b536a0204e45844f68252684",
+          "git_blob_sha256": "7a74d1e8a9ec8c160239fd8c53f1d3a62309f9f0b536a0204e45844f68252684"
+        }
+      ],
+      "file_hashes": {
+        "ocr/enriched/page_091.txt": "fd907248c5521cec9eb03695e9bd0042bc393b9b9d0278b0946cc30dcf11c12e",
+        "ocr/enriched_en/page_091.txt": "8068258cc88ec353c96e69ed912cb83c77ec47c88e78337b79103f41ecefa20b",
+        "ocr/enriched_id/page_091.txt": "e2f93ce9b03760eb790818726e981739b1180ed31836aa7bad2e615dd52e09a8"
+      },
+      "english_unclear": 11,
+      "indonesian_unclear": 11
+    },
+    {
+      "page": 92,
+      "content_sha": "979395199fb831429cc24dd1666735402d53e65c",
+      "tracker_sha": "fa65376653ecfd2e75c1363115f6bc5ca794b82f",
+      "review": "state/translation_v2/reviews/page_092-r1-approved.md",
+      "review_sha256": "3efc090e7a2cb96ff8b670f8238f0337226b1dd947c32da87eaeded535f81569",
+      "review_history": [
+        {
+          "path": "state/translation_v2/reviews/page_092-r1-approved.md",
+          "working_sha256": "3efc090e7a2cb96ff8b670f8238f0337226b1dd947c32da87eaeded535f81569",
+          "git_blob_sha256": "3efc090e7a2cb96ff8b670f8238f0337226b1dd947c32da87eaeded535f81569"
+        }
+      ],
+      "file_hashes": {
+        "ocr/enriched/page_092.txt": "d72be64e51c84d61e2672eab8aee2936b6d6753c86b11ae0cf93d02ec8249db1",
+        "ocr/enriched_en/page_092.txt": "762f56c27486ddf79b7ce66274a5ac4dea16334bfe1dfa75781942d91773dfe3",
+        "ocr/enriched_id/page_092.txt": "23eb69e301419c242d19105e01351a56f9c06d616c4125ab72ab89545861c7bd"
+      },
+      "english_unclear": 15,
+      "indonesian_unclear": 15
+    }
+  ],
+  "checks": "PASS",
+  "trust_boundary": "Independent model review; no human approval or deployed-reader verification claimed. Snapshot before later documentation commit and remote publication.",
+  "tests": {
+    "command": "uv run --no-project --with pytest python -m pytest tests -q",
+    "passed": 168,
+    "subtests_passed": 49,
+    "seconds": 92.89,
+    "output": "....................... [ 13%]\n........................................................................ [ 56%]\n........................................................................ [ 99%]\n.                                                                        [100%]\n168 passed, 49 subtests passed in 92.89s (0:01:32)\n"
+  },
+  "quota_at_checkpoint": {
+    "cache_age_seconds": 5.430783,
+    "fetched_at": "2026-11-07T10:04:12.417010+00:00",
+    "status": "available",
+    "unavailable_reason": null,
+    "remaining_percent": {
+      "Session": 13.0,
+      "Weekly": 45.0
+    }
+  },
+  "checkpoint_reason": "Resource boundary: current page finished; another long step requires the low-quota decision.",
+  "quota_recovery": "Page82 was safely blocked at a low-quota boundary, then explicitly resumed after the user refreshed quota. No automatic model switch or banked reset was performed."
+}
