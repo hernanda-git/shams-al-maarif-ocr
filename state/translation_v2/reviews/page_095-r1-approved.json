@@ -1,0 +1,101 @@
+{
+  "page": 95,
+  "revision": 1,
+  "verdict": "APPROVED",
+  "reviewer_id": "hermes-independent-reviewer",
+  "worker_agent_id": "sa-0-10da65d5",
+  "translator_delegation_id": "deleg_e2eb609b",
+  "reviewer_provenance": "independent_model",
+  "independence_statement": "Fresh reviewing child distinct from the original translator and parent; independent read-only review of the canonical Arabic and complete English and Indonesian page 95 targets.",
+  "scope": "Page95 content semantic review only; no global/editorial gateapproval",
+  "reviewed_hashes": {
+    "ocr/enriched/page_095.txt": "08365756db59e0e199e0af18f47430a4ec01aa1503d3d407bc17e0058b6faa32",
+    "ocr/enriched_en/page_095.txt": "532d774a099be50332981a2ecbb09e83ed8f222dd29bb9f5b0f0fadfcabd2147",
+    "ocr/enriched_id/page_095.txt": "c51820544c2bea6918ad8baa67598da16b76df4dfcac0bb82750ef46de2f6828"
+  },
+  "coverage": [
+    "Read docs/translation-style-v2.md and the complete short canonical Arabic prose, both complete target prose prefixes, and both complete uncertainty endnotes; checked the entire long encoded run programmatically rather than treating a shortened preview as full coverage.",
+    "Verified physical page 95 retains the source folio as its own line with em dashes: Arabic ٨٩ becomes — 89 — in both targets, without renumbering to 95.",
+    "Checked قليلا بكفك against English 'a little with the palm of your hand' and Indonesian 'sedikit dengan telapak tanganmu'. Read the end of canonical page 94 and confirmed that its preceding قليلا does not justify deleting the independently repeated قليلا on page 95; both page 95 targets preserve it.",
+    "Checked وادهن به وجهك: the reader is instructed to anoint/coat the reader's face with it, not the hand or another person's face. Both targets retain the object and instrumental pronoun.",
+    "Checked فكل من رآك أحبك: everyone who sees the reader loves/will love the reader. Both targets retain the universal scope and both second-person references, without reversing who sees or loves whom.",
+    "Checked وهذه صفة الخاتم كما ترى: both targets retain the demonstrative, form of the seal, and 'as you see' clause, followed by exactly one ✵ in source order.",
+    "Verified every one of the 1630 opaque source U+10348 glyphs is represented by exactly one literal [U+10348] token in each target. Matched only the actual encoded run, decoded its tokens, and compared the resulting 8150-byte suffix byte-for-byte to the canonical suffix after ✵, including its leading space and every inter-glyph space. No token, ordering, or spacing loss was found.",
+    "Verified one Arabic label and one correct target label per file, no cross-language label, and an exact b'Arabic:\n' plus canonical Arabic byte prefix in each target.",
+    "Checked both target bodies for Latin-only alphabetic content outside the encoding tokens, absence of foreign-script contamination and unexpected control characters, and numeral inventory exactly ['89'] after excluding encoding tokens.",
+    "Read the English and Indonesian endnotes after the full run. Each uses one UNCLEAR marker, describes unreadability and one-code-per-opaque-glyph preservation in its own target language, and explicitly disclaims reconstructed grid geometry. No deciphered seal meaning or geometry is invented.",
+    "Read the working manuscript JSON through a stable byte snapshot and verified exactly one page 95 record whose ar/en/id strings equal the canonical and target blocks after outer trimming. This is only a page 95 consistency check, not approval of the JSON's other records or of parallel editorial corrections.",
+    "Recomputed and asserted all three supplied SHA-256 values and re-read the three files at the final verification checkpoint; all remained byte-identical to the reviewed snapshots."
+  ],
+  "uncertainties": [
+    "The canonical source provides a linear run of identical opaque U+10348 glyphs, not readable seal contents. Their meaning and any original diagram geometry remain unrecoverable from this source; the targets transparently preserve the available encoding rather than deciphering it.",
+    "The Unicode character name is an encoding identity only and was not used as evidence of the seal's language or meaning."
+  ],
+  "findings": [],
+  "checks": {
+    "semantic_complete_page_en": "PASS",
+    "semantic_complete_page_id": "PASS",
+    "repeated_a_little_retained": true,
+    "source": {
+      "raw_bytes": 8282,
+      "line_count": 2,
+      "star_count": 1,
+      "post_star_glyph_count": 1630,
+      "post_star_space_count": 1630,
+      "post_star_suffix_bytes": 8150,
+      "post_star_characters_only": ["U+0020", "U+10348"]
+    },
+    "run_matching": {
+      "regex": " \\[U\\+10348\\](?: \\[U\\+10348\\])*",
+      "match_location": "Immediately after the single target ✵",
+      "comparison": "Replace [U+10348] inside the matched run only with U+10348, UTF-8 encode, and compare exactly with the canonical byte suffix after ✵.",
+      "note_separator_excluded_from_run": "Two LF characters before the UNCLEAR endnote",
+      "following_endnote_not_decoded": true
+    },
+    "en": {
+      "prefix_byte_exact": true,
+      "single_correct_labels": true,
+      "folio_em_dashes_89": true,
+      "single_star": true,
+      "encoded_token_count": 1630,
+      "decoded_suffix_bytes": 8150,
+      "byte_exact_roundtrip": true,
+      "latin_only_outside_encoding": true,
+      "only_nonencoding_numeral": "89",
+      "endnote_after_run": true,
+      "endnote_language": "English",
+      "invented_seal_geometry_or_meaning": false
+    },
+    "id": {
+      "prefix_byte_exact": true,
+      "single_correct_labels": true,
+      "folio_em_dashes_89": true,
+      "single_star": true,
+      "encoded_token_count": 1630,
+      "decoded_suffix_bytes": 8150,
+      "byte_exact_roundtrip": true,
+      "latin_only_outside_encoding": true,
+      "only_nonencoding_numeral": "89",
+      "endnote_after_run": true,
+      "endnote_language": "Indonesian",
+      "invented_seal_geometry_or_meaning": false
+    },
+    "reader_json": {
+      "path": "web/public/manuscript.json",
+      "observed_sha256": "1398db65bd65f002f610bdecd748dcadccf0e198555f66a7263d25e32a5e5039",
+      "stable_read": true,
+      "page95_record_count": 1,
+      "ar_matches_source_outer_trimmed": true,
+      "en_matches_target_outer_trimmed": true,
+      "id_matches_target_outer_trimmed": true,
+      "concurrent_read_issue_encountered": false,
+      "other_records_reviewed_or_approved": false
+    },
+    "final_three_file_hash_assertions": "PASS",
+    "final_three_file_reread_byte_stability": "PASS",
+    "local_validator_rerun_by_this_reviewer": false,
+    "reviewed_repository_or_tracker_writes": false,
+    "parallel_corrections_approved": false,
+    "global_gate_approval": false
+  }
+}
