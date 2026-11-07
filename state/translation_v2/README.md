@@ -45,8 +45,9 @@ uv run --no-project python scripts/translation_v2_worker.py heartbeat --worker-i
 uv run --no-project python scripts/translation_v2_worker.py validate --page 1 --json
 uv run --no-project python scripts/translation_v2_worker.py submit-review --page 1 --worker-id hermes-page-worker --json
 
-# A different reviewer ID is required by default.
-uv run --no-project python scripts/translation_v2_worker.py approve --page 1 --reviewer-id human-reviewer --json
+# Genuine independent review of the final bytes is required.
+# A different ID alone does not establish independence or human approval.
+uv run --no-project python scripts/translation_v2_worker.py approve --page 1 --reviewer-id hermes-independent-reviewer --json
 
 # Persist the reviewer report under reviews/page_NNN-rN-<verdict>.md.
 # The report starts with APPROVED PAGE N/TOTAL or REWORK PAGE N/TOTAL,
@@ -96,3 +97,11 @@ The 2026-11-03 retrospective audit covers pages 1–67. See `audits/2026-11-03-p
 Physical pages **68–77** were subsequently translated/aligned, independently model-reviewed and committed in strict sequence. See [the batch checkpoint](audits/2026-11-07-p068-p077-campaign.md) and [hash-bound verification receipt](audits/2026-11-07-p068-p077-campaign.json). Page 76 includes a preserved rework finding and a fresh r2 approval after correcting a divine antecedent.
 
 At that snapshot, the tracker contains **77 committed / 527 pending pages**; the next gate is **page 78, pending and unclaimed**, with no active page or worker lock. All 604 canonical-source hashes and existing titles were preserved, the accepted-page structural/triage sweep passed through page 77, and the full Python suite passed 168 tests plus 49 subtests. This is model-review evidence, not human approval or a claim that the remaining corpus or deployed reader has been verified.
+
+### Rolling continuation checkpoint — 2026-11-07 (WIB)
+
+The user subsequently authorized continued sequential execution. Physical pages **78–87** were aligned, independently model-reviewed and committed one at a time. See [the continuation checkpoint](audits/2026-11-07-p078-p087-campaign.md) and [hash-bound verification receipt](audits/2026-11-07-p078-p087-campaign.json). Page 82 preserves its earlier findings and fresh r3 approval after speaker/recited-voice repairs; page 85 preserves independent r1 rework and fresh r2 approval after lexical and quotation/speaker-uncertainty repairs. Failed reviews were not overwritten or relabeled as approvals.
+
+At this snapshot, **87 pages are committed / 517 pending**; **page 88 is pending and unclaimed**, with no active page or worker lock. All 604 canonical-source hashes, 604 existing titles, out-of-batch generated/tracker records, protected WIP fingerprints and historical event prefixes passed preservation checks. The accepted-page structural/triage sweep passed through page 87; the fresh full Python suite passed **168 tests and 49 subtests in 68.66 seconds**. Content and tracker commit scopes, all final review hashes and the preserved rework artifacts were verified against Git.
+
+This is a periodic recovery/publication checkpoint, not completion of the corpus or a resource stop. Sequential continuation remains authorized while quota supports a complete page and independent review. Read the live tracker before the next claim; the snapshot above is historical once later pages advance. No human approval, deployment or live-reader verification is claimed.
