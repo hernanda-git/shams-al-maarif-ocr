@@ -1,0 +1,148 @@
+{
+  "page": 89,
+  "revision": 1,
+  "verdict": "APPROVED",
+  "reviewer_id": "hermes-independent-reviewer",
+  "worker_agent_id": "sa-0-40790e51",
+  "reviewer_provenance": "independent_model (fresh reviewing child; distinct from translator and parent editor)",
+  "reviewed_hashes": {
+    "ocr/enriched/page_089.txt": "63b76cd5e3e209f0128c73e5436f3546a16383ab4f577675006d119b854ba237",
+    "ocr/enriched_en/page_089.txt": "15187ff41024afe166855593eeca8235618a8d309ce6fee4a47acd3afac458f6",
+    "ocr/enriched_id/page_089.txt": "86bcb0d8ff5903a9e8330e9f77a4e4dbf4a939b3f38a07f7279ca4fe1c53c133"
+  },
+  "review_scope": "Fresh full independent source-to-English and source-to-Indonesian semantic audit of the complete final files after the mechanical newline repair, using docs/translation-style-v2.md. This is the revision-1 decision, not a review of an asserted earlier semantic failure. No repository content or workflow state was edited.",
+  "coverage": [
+    {
+      "source_lines": "1-2",
+      "topic": "Folio and opening continuation",
+      "result": "PASS",
+      "detail": "Both targets preserve the printed folio as a separate line, — 83 —, distinct from physical page 89 and the later 131 planks. The opening otherworldly continuation remains fragmentary. fqumamah is explicitly retained inside a local UNCLEAR marker rather than repaired into an invented action. The call and running response are present."
+    },
+    {
+      "source_lines": "2-5",
+      "topic": "Enfolding condition and first four birds",
+      "result": "PASS",
+      "detail": "Both targets retain the condition of enfolding annihilation in abiding and witnessing in meeting, the instruction to take four birds and turn them toward oneself, verification of existence in witnessing, and placement of a portion on each mountain. Prophecy/intellect, Truthfulness or Kebenaran with retained Siddiqiyya/spirit, Martyrdom with witness-bearing gloss/heart, and Righteousness/body are in source order. No actor, mountain, or bird is exchanged; the repeated call and response remain."
+    },
+    {
+      "source_lines": "5-9",
+      "topic": "Established station, declared four but enumerated three, and life placement",
+      "result": "PASS",
+      "detail": "Both targets keep the established-station condition and resulting understandings. They say four birds again but enumerate only the source's three: intellect/Knowledge, heart/Will, secret/Power. No fourth bird is supplied. Placement remains primary or initial life/intellect, otherworldly life/secret, eternal life/heart. The portion-on-each-mountain instruction and final call with running response are retained."
+    },
+    {
+      "source_lines": "9-10",
+      "topic": "Robe, witnessing subjugation, damaged cast-off phrase, and connection",
+      "result": "PASS",
+      "detail": "Both targets retain the robe of immortality, the negation of valid witnessing of subjugation, and the difficult sequence of cast off, intellect, Lord, explanatory particle, robe, and spirit. They do not replace it with familiar spiritual doctrine. al-lahani remains inside a local UNCLEAR marker, and the broken syntax is disclosed. Might as the robe's pole is present. The desire-to-connect condition, first-person-plural intention, and closing/repairing what is between are retained with a local uncertainty marker for the damaged ending and referent."
+    },
+    {
+      "source_lines": "11-16",
+      "topic": "Attributed first-person vessel account",
+      "result": "PASS",
+      "detail": "Both targets explicitly attribute the account to one of the People of Realities/Ahli Hakikat and delimit the first-person quotation before the movements discourse. They retain 131 planks, the fundamental collection's awkward construction, its being a condition in the vessel of salvation, being cast into the sea, the wind of safety, the duration of the days of four seasons derived from God's days, and arrival at the shore. Jewels, brilliant rubies, great stores, red sulfur, colored mines, the perpetually flowing spring of life, bathing, drinking a draught with no annihilation afterward, reboarding, return toward the homeland, launching from sunrise to sunset, and the blessed shore are all present as attributed claims, not endorsed advice."
+    },
+    {
+      "source_lines": "16-19",
+      "topic": "Four movements and subsequent mismatched enumeration",
+      "result": "PASS",
+      "detail": "Both targets keep the declaration of four movements, followed initially by first unveiling and second veiling. First unveiling is then atoms/the essential movement/the intellect; first journey is soul and voluntary; second journey is atoms and longing. They preserve the source's change of enumeration rather than inventing a consistent four-item list."
+    },
+    {
+      "source_lines": "19-22",
+      "topic": "Four days, actors, and the ending of endlessness",
+      "result": "PASS",
+      "detail": "Both targets retain day one/first unveiling/God creating spirits in covenant worlds; day two/first journey/the intellect as the actor addressing him in the world of Dust; the beginnings of first things; day three/second unveiling/taking the covenant; and day four/second journey/day of endlessness whose end is the day of unveiling. The unspecified object of the intellect's address is not confidently identified. The apparent paradox of endlessness ending remains."
+    },
+    {
+      "source_lines": "22-23",
+      "topic": "Thrones, journey, beginninglessness, endlessness, and duration",
+      "result": "PASS",
+      "detail": "Both targets retain first unveiling/first Throne/first journey, the first obscure karami term with beginninglessness, second unveiling/Throne/endlessness/second, and the second obscure karami term with duration. Neither silently substitutes Kursi. Taking al-thani as qualifying the definite construct Throne of endlessness supports the targets' second Throne of endlessness; this is a source-grounded grammatical attachment, not a missing second journey or a doctrinal correction."
+    },
+    {
+      "source_lines": "23-25",
+      "topic": "Mercifulness, Compassionateness, breath, and subtle/dense relation",
+      "result": "PASS",
+      "detail": "All phases and cycles, the reality of Mercifulness, the truth of Compassionateness, the repeated reality of Mercifulness, and the locally uncertain al-marjahah are present in both targets. The explanatory breath is ascribed to the manifest Presence of Lordship, followed by its relation to subtle things employed through dense things. The sentence's awkward conjunction is not replaced with an invented causal explanation."
+    },
+    {
+      "source_lines": "25-27",
+      "topic": "Prophetic report, seventy veils, and possessive scope",
+      "result": "PASS",
+      "detail": "Both targets retain our Prophet, use only the source's shorter peace honorific, and identify the Prophet as reporting from his Lord. The quotation has seventy, not seven thousand, veils of light and darkness. The conditional unveiling, splendors of His Face, burning of creation to the extent reached by His gaze, and the limitation to His creation are preserved. After the quotation, the veils are related to you, not to Him."
+    },
+    {
+      "source_lines": "27-29",
+      "topic": "Negation, two grounds followed by third, body, direction, fathers, and light",
+      "result": "PASS",
+      "detail": "Both targets preserve la tastahil as not impossible/tidak mustahil rather than reversing it to remembered theology. The two-grounds declaration and subsequent third remain mismatched. The clauses that those do not veil bodies, that the Real is not a body, that the veiled must have a direction, and that God has no direction are all present. al-aba is translated as fathers/para bapak, not repaired into refusal. Veils of light derive from principles of the Essence, glossed as its reality, and the otherwise-they-would-vanish conditional remains."
+    },
+    {
+      "source_lines": "29-31",
+      "topic": "Subtle bearers, larger parts, damaged wording, numbers, and letter pacts",
+      "result": "PASS",
+      "detail": "Both targets retain subtle things carrying dense things, the conditional comparison in which the subtle parts are greater than the dense parts, the damaged wa-sa'layhi inside a local uncertainty marker followed by upon it/atasnya, the subtlety from the secrets of numbers, and the pacts/perikatan of letters. The broken conditional is not completed with an invented consequence."
+    },
+    {
+      "source_lines": "31-32",
+      "topic": "Final categories, two divisions, and unfinished manifestations",
+      "result": "PASS",
+      "detail": "Both targets retain God's secrets and His objects of knowledge, subtle things, dense things, upper entities, the locally marked opaque al-salafiyyat category, and Malakut entities. They do not normalize al-salafiyyat into lower entities. The two divisions are numbers and letters, followed by secrets of letters in numbers and the unfinished and manifestations/penampakan-penampakan. No continuation is supplied."
+    },
+    {
+      "source_lines": "Entire canonical source and both complete target files",
+      "topic": "Final-byte and target-script contract",
+      "result": "PASS",
+      "detail": "Raw-byte inspection found no CR or CRLF in the three reviewed files. Each target begins with the exact bytes Arabic: followed by LF followed by all 4773 canonical source bytes. Each contains exactly one Arabic label and one correct target label. Full target-block Unicode inspection found no non-Latin letters or disallowed control characters. The source, English file, and Indonesian file raw byte lengths are 4773, 9951, and 10235 respectively."
+    }
+  ],
+  "uncertainties": [
+    {
+      "source_excerpt": "الأخروي فقمامه",
+      "assessment": "The continuation and fqumamah are genuinely obscure. Both targets mark the token itself locally and do not invent a recovery."
+    },
+    {
+      "source_excerpt": "فاخلع العقل الرب أى والحلة الروح اللحاني",
+      "assessment": "The syntax and role of Lord are broken. Both targets retain the difficult lexical sequence instead of supplying a familiar teaching. Their UNCLEAR marker explicitly contains the untranslated al-lahani token; although its explanation discusses broken syntax, the token itself is under the uncertainty scope and is not assigned an unsupported meaning. This is not merely an unmarked confident translation plus a grammar disclaimer."
+    },
+    {
+      "source_excerpt": "وافق رتق ما بينماه",
+      "assessment": "Both targets translate the available closing/repairing wording and explicitly mark the obscure ending and its referent. Neither invents the missing connection."
+    },
+    {
+      "source_excerpt": "ثم الكشف الثاني عرش الأبد الثاني كرمى الأمد",
+      "assessment": "The relation of second is syntactically ambiguous. A postposed adjective qualifying the definite construct Throne of endlessness is grammatically available and supports the shared second-Throne rendering. Both karami occurrences remain explicitly unclear as terms. There is no source-compelled omission or invented Kursi that warrants rework."
+    },
+    {
+      "source_excerpt": "سر المرجحة",
+      "assessment": "al-marjahah is explicitly retained as a term of uncertain precise meaning in each target, including an Indonesian-language explanation in ID."
+    },
+    {
+      "source_excerpt": "لا تستحيل من وجهين ... الثالث ... حجب الآباء",
+      "assessment": "The negation, enumeration mismatch, and fathers are peculiar but legible source readings. Faithfully retaining them is not a translation defect, and familiar theological wording is not grounds for changing them."
+    },
+    {
+      "source_excerpt": "وسأليه عليه بلطيفة",
+      "assessment": "The damaged word is locally marked as wa-sa'layhi in both targets; the adjacent upon it and subtlety remain rather than a guessed repaired clause."
+    },
+    {
+      "source_excerpt": "السلفيات ... وتجليات",
+      "assessment": "The opaque category is explicitly marked as al-salafiyyat rather than silently converted into lower entities. The final manifestations clause remains incomplete because the canonical page is incomplete there."
+    }
+  ],
+  "findings": [],
+  "verification": {
+    "full_style_guide_read": true,
+    "complete_canonical_source_read": true,
+    "complete_english_file_read": true,
+    "complete_indonesian_file_read": true,
+    "source_to_english_full_page_audited": true,
+    "source_to_indonesian_full_page_audited": true,
+    "raw_sha256_computed_from_disk": true,
+    "both_targets_start_with_Arabic_LF_plus_exact_canonical_bytes": true,
+    "target_blocks_Latin_script_only": true,
+    "repository_content_or_state_edited": false,
+    "tracker_approval_submission_commit_or_advance_performed": false
+  }
+}
