@@ -1,0 +1,162 @@
+{
+  "type": "frozen_editorial_boundary",
+  "boundary_page": 102,
+  "captured_at_utc": "2026-11-08T02:16:18.873637+00:00",
+  "base_head": "2bf71add2cc58a9c6c2a64def76ab1e5a6eeabdc",
+  "user_authority": "Standing user authority: integrate ready parallel English corrections and provenance in the same publication line at every completed-page checkpoint; retain supplied wording literally and attribute user editorial versions, not independent Arabic-source authentication.",
+  "editorial_pages": [],
+  "new_page_reviewed_hashes": {
+    "ocr/enriched/page_102.txt": "8ae3b1d1549abaa5513a64fded9b00ec872683ee33d0ce3d2bea63fb2151c323",
+    "ocr/enriched_en/page_102.txt": "1002fef53a2f822c0946b0f9862e831b9bf1b1e6938ed5cd2d503b0174c5c8e5",
+    "ocr/enriched_id/page_102.txt": "17748dcd47cfcb358140c14a50cb6224f77d5290fa0c915e07a416ad35d74585"
+  },
+  "frozen_english_and_provenance_hashes": {
+    "docs/english-corrections/2026-11-07-161708-basmala-pages-045-046.md": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec",
+    "docs/english-corrections/2026-11-07-161708-basmala-physical-045-046.txt": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f",
+    "docs/english-corrections/2026-11-07-161720-basmala-repeat-physical-044-045.txt": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+    "docs/english-corrections/2026-11-07-1701-pages-050-051.md": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149",
+    "docs/english-corrections/2026-11-07-1701-physical-050.txt": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5",
+    "docs/english-corrections/2026-11-07-1701-physical-051.txt": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896",
+    "docs/english-corrections/2026-11-07-basmala-pages-040-041.md": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912",
+    "docs/english-corrections/2026-11-07-basmala-pages-040-041.txt": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8",
+    "docs/english-corrections/2026-11-07-basmala-pages-043-045.md": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039",
+    "docs/english-corrections/2026-11-07-basmala-physical-043.txt": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3",
+    "docs/english-corrections/2026-11-07-basmala-physical-044-045.txt": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+    "docs/english-corrections/integration-page-095-20261108T002524.md": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e",
+    "docs/english-corrections/integration-page-096-20261108T012137.md": "23c15bd4fa857c5653395661456c2bd924108520c70ed0e4b82e847890a20a59",
+    "docs/english-corrections/integration-page-097-20261108T013837.md": "b80565bdc07a999afd069acd3d8d4b05446eedb1d74f970a2903d5aa2b8a7f11",
+    "docs/english-corrections/integration-page-098-20261108T015320.md": "e4ab8447a9b0eb4eb2db8afac260cf892c5c70d4edf1aebc4ca1bb70613a7c6f",
+    "docs/english-corrections/integration-page-099-20261108T020553.md": "04f95c09c6f8f21b6ad40d1751c53b448d86d9e5d56c520572b5082b6077800b",
+    "docs/english-corrections/integration-page-100-20261108T022040.md": "f2a5a9a6919a76f3664c307c8acaf37922cece1f67f8a8d964228132cff7c8f9",
+    "docs/english-corrections/integration-page-101-20261108T023401.md": "800d9ed8c27e291a882c6fa6d08c1a9d16034c4492f25dc3b9ffa5f0e6e2b0e0",
+    "docs/english-corrections/integration-page-102-20261108T091618.md": "3c2c129f0aef761c25e1f6ff25caaf5ccbba9726f4119f8195db42f716e4d16d"
+  },
+  "canonical_sources_verified": 604,
+  "titles_preserved": 604,
+  "authorized_editorial_exceptions": [
+    {
+      "page": 40,
+      "raw_findings": [
+        "en: UNTRANSLATED 7 Arabic characters in 3 run(s), longest 3 (e.g. 'لله')"
+      ],
+      "authorized_editorial_exceptions": [
+        "en: UNTRANSLATED 7 Arabic characters in 3 run(s), longest 3 (e.g. 'لله')"
+      ]
+    },
+    {
+      "page": 44,
+      "raw_findings": [
+        "en: UNTRANSLATED 32 Arabic characters in 32 run(s), longest 1 (e.g. 'س')"
+      ],
+      "authorized_editorial_exceptions": [
+        "en: UNTRANSLATED 32 Arabic characters in 32 run(s), longest 1 (e.g. 'س')"
+      ]
+    },
+    {
+      "page": 45,
+      "raw_findings": [
+        "en: UNTRANSLATED 12 Arabic characters in 12 run(s), longest 1 (e.g. 'ا')"
+      ],
+      "authorized_editorial_exceptions": [
+        "en: UNTRANSLATED 12 Arabic characters in 12 run(s), longest 1 (e.g. 'ا')"
+      ]
+    }
+  ],
+  "deferred_during_capture": [],
+  "source_authentication": "Editorial versions are user overrides, not independently authenticated Arabic translations.",
+  "new_page_status_at_boundary": "Independently reviewed; ordinary content and tracker commits still required.",
+  "source_invariant_gate": {
+    "targets": {
+      "english_block": {
+        "ordered_table_cells": "PASS",
+        "row_widths": [
+          6,
+          6,
+          6,
+          6,
+          6,
+          6,
+          6,
+          6
+        ],
+        "actual_name_transliterations": [
+          "al-Wāḥid",
+          "al-Aḥad",
+          "al-Ṣamad",
+          "al-Faʿʿāl limā yurīd",
+          "al-Samīʿ",
+          "al-Baṣīr",
+          "al-Muqtadir",
+          "al-Qawī",
+          "al-Qāʾim"
+        ],
+        "unfinished_tail_preserved": "PASS"
+      },
+      "indonesian_block": {
+        "ordered_table_cells": "PASS",
+        "row_widths": [
+          6,
+          6,
+          6,
+          6,
+          6,
+          6,
+          6,
+          6
+        ],
+        "actual_name_transliterations": [
+          "al-Wāḥid",
+          "al-Aḥad",
+          "al-Ṣamad",
+          "al-Faʿʿāl limā yurīd",
+          "al-Samīʿ",
+          "al-Baṣīr",
+          "al-Muqtadir",
+          "al-Qawī",
+          "al-Qāʾim"
+        ],
+        "unfinished_tail_preserved": "PASS"
+      }
+    },
+    "source_declared_names": 10,
+    "actual_listed_names": 9,
+    "accepted_sweep_through": 102,
+    "exceptions": [
+      {
+        "page": 40,
+        "raw_findings": [
+          "en: UNTRANSLATED 7 Arabic characters in 3 run(s), longest 3 (e.g. 'لله')"
+        ],
+        "authorized_editorial_exceptions": [
+          "en: UNTRANSLATED 7 Arabic characters in 3 run(s), longest 3 (e.g. 'لله')"
+        ]
+      },
+      {
+        "page": 44,
+        "raw_findings": [
+          "en: UNTRANSLATED 32 Arabic characters in 32 run(s), longest 1 (e.g. 'س')"
+        ],
+        "authorized_editorial_exceptions": [
+          "en: UNTRANSLATED 32 Arabic characters in 32 run(s), longest 1 (e.g. 'س')"
+        ]
+      },
+      {
+        "page": 45,
+        "raw_findings": [
+          "en: UNTRANSLATED 12 Arabic characters in 12 run(s), longest 1 (e.g. 'ا')"
+        ],
+        "authorized_editorial_exceptions": [
+          "en: UNTRANSLATED 12 Arabic characters in 12 run(s), longest 1 (e.g. 'ا')"
+        ]
+      }
+    ]
+  },
+  "git_fixture_proof": "PASS real Git: explicit candidate commit scope, CAS stale-base rejection, index-only refresh, preexisting staged peer, concurrent owned staged blob and newer live owned/reader bytes preserved",
+  "deployment_policy": "No deployment authorized; all batch commits contain [skip ci].",
+  "tests": {
+    "passed": 332,
+    "subtests_passed": 49,
+    "seconds": 98.06,
+    "output": "....................... [  6%]\r\n........................................................................ [ 28%]\r\n........................................................................ [ 50%]\r\n........................................................................ [ 71%]\r\n........................................................................ [ 93%]\r\n.....................                                                    [100%]\r\n332 passed, 49 subtests passed in 98.06s (0:01:38)\r\n"
+  }
+}

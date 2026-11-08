@@ -1236,6 +1236,13 @@
       "authority": "User standing instruction in continuation request: freeze and integrate ready parallel English corrections in the same publication line at every completed-page checkpoint; preserve supplied text literally and attribute user editorial overrides, not source authentication.",
       "previous_entries": {},
       "adopted_entries": {}
+    },
+    {
+      "boundary_page": 102,
+      "captured_at_utc": "2026-11-08T02:16:18.873637+00:00",
+      "authority": "Standing user authority: integrate ready parallel English corrections and provenance in the same publication line at every completed-page checkpoint; retain supplied wording literally and attribute user editorial versions, not independent Arabic-source authentication.",
+      "previous_entries": {},
+      "adopted_entries": {}
     }
   ]
 }
