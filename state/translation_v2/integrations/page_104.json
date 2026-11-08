@@ -1,0 +1,328 @@
+{
+  "type": "frozen_editorial_boundary",
+  "boundary_page": 104,
+  "captured_at_utc": "2026-11-08T02:52:43.375243+00:00",
+  "base_head": "1d8e9c808a5d91330ff1d3ff9eaaa559ef01f88c",
+  "user_authority": "Standing user authority: integrate ready parallel English corrections and provenance in the same publication line at every completed-page checkpoint; retain supplied wording literally and attribute user editorial versions, not independent Arabic-source authentication.",
+  "editorial_pages": [],
+  "new_page_reviewed_hashes": {
+    "ocr/enriched/page_104.txt": "40130bc2dc348047f4c03c451d68f90712dfb66049d8d4df5a524f3ec764fb02",
+    "ocr/enriched_en/page_104.txt": "ab8083f28a28001eb451cc58f2038c356dc3620fd0d64ddd6a6c08f3d41f0504",
+    "ocr/enriched_id/page_104.txt": "c1cc6f837a531d517cbaedb43325dcca6dbc3d5e78bc239c15daa9eaaf5524f8"
+  },
+  "frozen_english_and_provenance_hashes": {
+    "docs/english-corrections/2026-11-07-161708-basmala-pages-045-046.md": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec",
+    "docs/english-corrections/2026-11-07-161708-basmala-physical-045-046.txt": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f",
+    "docs/english-corrections/2026-11-07-161720-basmala-repeat-physical-044-045.txt": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+    "docs/english-corrections/2026-11-07-1701-pages-050-051.md": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149",
+    "docs/english-corrections/2026-11-07-1701-physical-050.txt": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5",
+    "docs/english-corrections/2026-11-07-1701-physical-051.txt": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896",
+    "docs/english-corrections/2026-11-07-basmala-pages-040-041.md": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912",
+    "docs/english-corrections/2026-11-07-basmala-pages-040-041.txt": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8",
+    "docs/english-corrections/2026-11-07-basmala-pages-043-045.md": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039",
+    "docs/english-corrections/2026-11-07-basmala-physical-043.txt": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3",
+    "docs/english-corrections/2026-11-07-basmala-physical-044-045.txt": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+    "docs/english-corrections/integration-page-095-20261108T002524.md": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e",
+    "docs/english-corrections/integration-page-096-20261108T012137.md": "23c15bd4fa857c5653395661456c2bd924108520c70ed0e4b82e847890a20a59",
+    "docs/english-corrections/integration-page-097-20261108T013837.md": "b80565bdc07a999afd069acd3d8d4b05446eedb1d74f970a2903d5aa2b8a7f11",
+    "docs/english-corrections/integration-page-098-20261108T015320.md": "e4ab8447a9b0eb4eb2db8afac260cf892c5c70d4edf1aebc4ca1bb70613a7c6f",
+    "docs/english-corrections/integration-page-099-20261108T020553.md": "04f95c09c6f8f21b6ad40d1751c53b448d86d9e5d56c520572b5082b6077800b",
+    "docs/english-corrections/integration-page-100-20261108T022040.md": "f2a5a9a6919a76f3664c307c8acaf37922cece1f67f8a8d964228132cff7c8f9",
+    "docs/english-corrections/integration-page-101-20261108T023401.md": "800d9ed8c27e291a882c6fa6d08c1a9d16034c4492f25dc3b9ffa5f0e6e2b0e0",
+    "docs/english-corrections/integration-page-102-20261108T091618.md": "3c2c129f0aef761c25e1f6ff25caaf5ccbba9726f4119f8195db42f716e4d16d",
+    "docs/english-corrections/integration-page-103-20261108T093552.md": "515e19308e5a72eab35c1efc3e701674577a00bf2858b2614fbe03723b9c0383",
+    "docs/english-corrections/integration-page-104-20261108T095243.md": "2d8afebe4552dc46600253aceb5c73e32b1417098c83aa6db111275d9e56ec78"
+  },
+  "canonical_sources_verified": 604,
+  "titles_preserved": 604,
+  "authorized_editorial_exceptions": [
+    {
+      "page": 40,
+      "raw_findings": [
+        "en: UNTRANSLATED 7 Arabic characters in 3 run(s), longest 3 (e.g. 'لله')"
+      ],
+      "authorized_editorial_exceptions": [
+        "en: UNTRANSLATED 7 Arabic characters in 3 run(s), longest 3 (e.g. 'لله')"
+      ]
+    },
+    {
+      "page": 44,
+      "raw_findings": [
+        "en: UNTRANSLATED 32 Arabic characters in 32 run(s), longest 1 (e.g. 'س')"
+      ],
+      "authorized_editorial_exceptions": [
+        "en: UNTRANSLATED 32 Arabic characters in 32 run(s), longest 1 (e.g. 'س')"
+      ]
+    },
+    {
+      "page": 45,
+      "raw_findings": [
+        "en: UNTRANSLATED 12 Arabic characters in 12 run(s), longest 1 (e.g. 'ا')"
+      ],
+      "authorized_editorial_exceptions": [
+        "en: UNTRANSLATED 12 Arabic characters in 12 run(s), longest 1 (e.g. 'ا')"
+      ]
+    }
+  ],
+  "deferred_during_capture": [],
+  "source_authentication": "Editorial versions are user overrides, not independently authenticated Arabic translations.",
+  "new_page_status_at_boundary": "Independently reviewed; ordinary content and tracker commits still required.",
+  "source_invariant_gate": {
+    "targets": {
+      "english_block": {
+        "nine_ordered_hour_clauses": [
+          [
+            "first",
+            "day",
+            "Saturday"
+          ],
+          [
+            "first",
+            "day",
+            "Sunday"
+          ],
+          [
+            "second",
+            "day",
+            "Monday"
+          ],
+          [
+            "first",
+            "day",
+            "Tuesday"
+          ],
+          [
+            "third",
+            "night",
+            "Monday"
+          ],
+          [
+            "fourth",
+            "night",
+            "Tuesday"
+          ],
+          [
+            "first",
+            "night",
+            "Wednesday"
+          ],
+          [
+            "fifth",
+            "night",
+            "Thursday"
+          ],
+          [
+            "fourth",
+            "night",
+            "Friday"
+          ]
+        ],
+        "source_star_positions": "PASS",
+        "anomalous_folio_and_boundary_fragments": "PASS",
+        "image_caption_only": "PASS"
+      },
+      "indonesian_block": {
+        "nine_ordered_hour_clauses": [
+          [
+            "first",
+            "day",
+            "Saturday"
+          ],
+          [
+            "first",
+            "day",
+            "Sunday"
+          ],
+          [
+            "second",
+            "day",
+            "Monday"
+          ],
+          [
+            "first",
+            "day",
+            "Tuesday"
+          ],
+          [
+            "third",
+            "night",
+            "Monday"
+          ],
+          [
+            "fourth",
+            "night",
+            "Tuesday"
+          ],
+          [
+            "first",
+            "night",
+            "Wednesday"
+          ],
+          [
+            "fifth",
+            "night",
+            "Thursday"
+          ],
+          [
+            "fourth",
+            "night",
+            "Friday"
+          ]
+        ],
+        "source_star_positions": "PASS",
+        "anomalous_folio_and_boundary_fragments": "PASS",
+        "image_caption_only": "PASS"
+      }
+    },
+    "accepted_sweep_through": 104,
+    "exceptions": [
+      {
+        "page": 40,
+        "raw_findings": [
+          "en: UNTRANSLATED 7 Arabic characters in 3 run(s), longest 3 (e.g. 'لله')"
+        ],
+        "authorized_editorial_exceptions": [
+          "en: UNTRANSLATED 7 Arabic characters in 3 run(s), longest 3 (e.g. 'لله')"
+        ]
+      },
+      {
+        "page": 44,
+        "raw_findings": [
+          "en: UNTRANSLATED 32 Arabic characters in 32 run(s), longest 1 (e.g. 'س')"
+        ],
+        "authorized_editorial_exceptions": [
+          "en: UNTRANSLATED 32 Arabic characters in 32 run(s), longest 1 (e.g. 'س')"
+        ]
+      },
+      {
+        "page": 45,
+        "raw_findings": [
+          "en: UNTRANSLATED 12 Arabic characters in 12 run(s), longest 1 (e.g. 'ا')"
+        ],
+        "authorized_editorial_exceptions": [
+          "en: UNTRANSLATED 12 Arabic characters in 12 run(s), longest 1 (e.g. 'ا')"
+        ]
+      }
+    ]
+  },
+  "git_fixture_proof": "PASS real Git: explicit candidate commit scope, CAS stale-base rejection, index-only refresh, preexisting staged peer, concurrent owned staged blob and newer live owned/reader bytes preserved",
+  "deployment_policy": "No deployment authorized; all batch commits contain [skip ci].",
+  "tests": {
+    "passed": 332,
+    "subtests_passed": 49,
+    "seconds": 97.84,
+    "output": "....................... [  6%]\r\n........................................................................ [ 28%]\r\n........................................................................ [ 50%]\r\n........................................................................ [ 71%]\r\n........................................................................ [ 93%]\r\n.....................                                                    [100%]\r\n332 passed, 49 subtests passed in 97.84s (0:01:37)\r\n"
+  },
+  "protected_wip_policy": {
+    "baseline_artifact_unchanged": "C:\\Users\\it26\\AppData\\Local\\hermes\\cache\\scratch\\shams-v2-p104-baseline.json",
+    "immutable_fingerprint_paths": [
+      ".commandcode/taste/taste.md",
+      ".hermes/plans/2026-09-25_translation-v2-worker.md",
+      "HERMES_PROMPT_TRANSLATION_ALIGNMENT_V2.md"
+    ],
+    "observed_active_peer_paths": [
+      "docs/english-verbatim-pdf-edition.md",
+      "manuscript/Shams-al-Maarif-English-Verbatim-Pages-001-102.pdf",
+      "scripts/build_english_verbatim_pdf.py"
+    ],
+    "rule": "Stable inherited WIP must match raw fingerprints. Separately owned active PDF-lane files are observed, never overwritten, staged, executed or included. Source/current-page/tracker conflicts still fail closed."
+  },
+  "concurrent_wip_observations": [
+    {
+      "stage": "scope-gate",
+      "observed_at_utc": "2026-11-08T02:40:16.798295+00:00",
+      "path": "docs/english-verbatim-pdf-edition.md",
+      "raw_sha256": "1a1384da3d14a4761a9a68609319b7811d0701ab0bc301652c96c70196a7e69e",
+      "stable_during_read": true,
+      "disposition": "Read-only peer observation; excluded from this campaign candidate, staging, execution and publication."
+    },
+    {
+      "stage": "scope-gate",
+      "observed_at_utc": "2026-11-08T02:40:16.827546+00:00",
+      "path": "manuscript/Shams-al-Maarif-English-Verbatim-Pages-001-102.pdf",
+      "raw_sha256": "7863cf5ca2f84a62281b297aa085f6a3f99b99567c64f01733aa37c11d9f1b6d",
+      "stable_during_read": true,
+      "disposition": "Read-only peer observation; excluded from this campaign candidate, staging, execution and publication."
+    },
+    {
+      "stage": "scope-gate",
+      "observed_at_utc": "2026-11-08T02:40:16.866184+00:00",
+      "path": "scripts/build_english_verbatim_pdf.py",
+      "raw_sha256": "9965aac21c1c6cc5716fd43d2903a2b6f1f0ef485029be6962589b270aec1da7",
+      "stable_during_read": true,
+      "disposition": "Read-only peer observation; excluded from this campaign candidate, staging, execution and publication."
+    },
+    {
+      "stage": "scope-gate",
+      "observed_at_utc": "2026-11-08T02:44:38.226482+00:00",
+      "path": "docs/english-verbatim-pdf-edition.md",
+      "raw_sha256": "1a1384da3d14a4761a9a68609319b7811d0701ab0bc301652c96c70196a7e69e",
+      "stable_during_read": true,
+      "disposition": "Read-only peer observation; excluded from this campaign candidate, staging, execution and publication."
+    },
+    {
+      "stage": "scope-gate",
+      "observed_at_utc": "2026-11-08T02:44:38.248688+00:00",
+      "path": "manuscript/Shams-al-Maarif-English-Verbatim-Pages-001-102.pdf",
+      "raw_sha256": "7863cf5ca2f84a62281b297aa085f6a3f99b99567c64f01733aa37c11d9f1b6d",
+      "stable_during_read": true,
+      "disposition": "Read-only peer observation; excluded from this campaign candidate, staging, execution and publication."
+    },
+    {
+      "stage": "scope-gate",
+      "observed_at_utc": "2026-11-08T02:44:38.274735+00:00",
+      "path": "scripts/build_english_verbatim_pdf.py",
+      "raw_sha256": "9965aac21c1c6cc5716fd43d2903a2b6f1f0ef485029be6962589b270aec1da7",
+      "stable_during_read": true,
+      "disposition": "Read-only peer observation; excluded from this campaign candidate, staging, execution and publication."
+    },
+    {
+      "stage": "scope-gate",
+      "observed_at_utc": "2026-11-08T02:52:43.266097+00:00",
+      "path": "docs/english-verbatim-pdf-edition.md",
+      "raw_sha256": "1a1384da3d14a4761a9a68609319b7811d0701ab0bc301652c96c70196a7e69e",
+      "stable_during_read": true,
+      "disposition": "Read-only peer observation; excluded from this campaign candidate, staging, execution and publication."
+    },
+    {
+      "stage": "scope-gate",
+      "observed_at_utc": "2026-11-08T02:52:43.292471+00:00",
+      "path": "manuscript/Shams-al-Maarif-English-Verbatim-Pages-001-102.pdf",
+      "raw_sha256": "7863cf5ca2f84a62281b297aa085f6a3f99b99567c64f01733aa37c11d9f1b6d",
+      "stable_during_read": true,
+      "disposition": "Read-only peer observation; excluded from this campaign candidate, staging, execution and publication."
+    },
+    {
+      "stage": "scope-gate",
+      "observed_at_utc": "2026-11-08T02:52:43.317201+00:00",
+      "path": "scripts/build_english_verbatim_pdf.py",
+      "raw_sha256": "9965aac21c1c6cc5716fd43d2903a2b6f1f0ef485029be6962589b270aec1da7",
+      "stable_during_read": true,
+      "disposition": "Read-only peer observation; excluded from this campaign candidate, staging, execution and publication."
+    },
+    {
+      "stage": "before-publication",
+      "observed_at_utc": "2026-11-08T02:54:33.022250+00:00",
+      "path": "docs/english-verbatim-pdf-edition.md",
+      "raw_sha256": "1a1384da3d14a4761a9a68609319b7811d0701ab0bc301652c96c70196a7e69e",
+      "stable_during_read": true,
+      "disposition": "Read-only peer observation; excluded from this campaign candidate, staging, execution and publication."
+    },
+    {
+      "stage": "before-publication",
+      "observed_at_utc": "2026-11-08T02:54:33.076150+00:00",
+      "path": "manuscript/Shams-al-Maarif-English-Verbatim-Pages-001-102.pdf",
+      "raw_sha256": "7863cf5ca2f84a62281b297aa085f6a3f99b99567c64f01733aa37c11d9f1b6d",
+      "stable_during_read": true,
+      "disposition": "Read-only peer observation; excluded from this campaign candidate, staging, execution and publication."
+    },
+    {
+      "stage": "before-publication",
+      "observed_at_utc": "2026-11-08T02:54:33.107982+00:00",
+      "path": "scripts/build_english_verbatim_pdf.py",
+      "raw_sha256": "9965aac21c1c6cc5716fd43d2903a2b6f1f0ef485029be6962589b270aec1da7",
+      "stable_during_read": true,
+      "disposition": "Read-only peer observation; excluded from this campaign candidate, staging, execution and publication."
+    }
+  ]
+}
