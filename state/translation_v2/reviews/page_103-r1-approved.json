@@ -1,0 +1,214 @@
+{
+  "page": 103,
+  "revision": 1,
+  "verdict": "APPROVED",
+  "reviewer_id": "hermes-independent-reviewer",
+  "worker_agent_id": "sa-0-8b8b6a09",
+  "translator_delegation_id": "deleg_6882d53c",
+  "reviewer_provenance": "independent_model",
+  "independence_statement": "This fresh read-only reviewer is separate from translating worker sa-0-8b8b6a09 / deleg_6882d53c. I read the complete actual canonical Arabic file and each complete actual target, comparing English directly with Arabic and Indonesian directly with Arabic. Approval is my independent semantic evaluation, not a target-to-target comparison, translator attestation, parent structural result, or reconstructed familiar text. I made no translation or repository edits. The review is limited to the exact three raw-byte SHA-256 identities below; no neighboring page, PDF, PDF builder, PDF-edition document, or shared peer WIP was read or changed.",
+  "reviewed_hashes": {
+    "ocr/enriched/page_103.txt": "301e641739e007bcabff850abeeb56c0e13f8c1ac269bf41f41debf587becbd3",
+    "ocr/enriched_en/page_103.txt": "3de398cf7c91fffe6ed785ec4e699abc5cd0fa27cb937dcb45d7e08e2dd47602",
+    "ocr/enriched_id/page_103.txt": "2310cd30a128198c371e3f7fcdd469268472380487518f1d6c0a950786de178c"
+  },
+  "reference_material": [
+    "docs/translation-style-v2.md",
+    "autonomous-repo-execution-loop/references/canonical-page-alignment.md"
+  ],
+  "coverage": [
+    {
+      "check": "Full actual files, raw identities, wrappers and source embeddings",
+      "source_lines": "1-34",
+      "result": "PASS",
+      "english": "Read all 73 file lines, including the complete Arabic embedding and complete English block. Raw SHA-256 matches the dispatched identity. A byte-prefix assertion confirms Arabic:\\n immediately followed by the complete, unchanged canonical raw byte sequence; only wrapper separator newlines precede English:.",
+      "indonesian": "Read all 73 file lines, including the complete Arabic embedding and complete Indonesian block. Raw SHA-256 matches the dispatched identity. The independently checked Arabic embedding is byte-identical to the canonical raw sequence, not merely equal after text normalization."
+    },
+    {
+      "check": "Printed folio, source order, paragraph separators and editorial-note-aware alignment",
+      "source_lines": "1-34",
+      "result": "PASS",
+      "english": "Folio is '- 97 -' at file line 38; source prose starts at file line 42 / target-block line 5, after the separate nonendorsement note. All 32 source lines from line 3 through the footer map in order. All seven stars occur on corresponding source-content lines.",
+      "indonesian": "Folio is '- 97 -' at file line 38; first translated source prose is line 42 / target-block line 5 after the Indonesian nonendorsement note. All source-content lines and seven separators map in order without treating the added note as source text."
+    },
+    {
+      "check": "Opening continuation and complete invocation inventory",
+      "source_lines": "3-5",
+      "result": "PASS",
+      "english": "Preserves the opening heavens-and-earth fragment, both occurrences of Possessor of Majesty and Honor, Living, Self-Subsisting, All-Merciful, Merciful, One, the One on whom all depend, Bestower, Best of Inheritors, Ever-Forgiving, Near, All-Hearing, exclusive divinity, glorification and the first-person confession of wrongdoing. Most Merciful of the merciful, Hearer of supplication and both 'O our Lord' calls remain.",
+      "indonesian": "Direct Arabic comparison confirms the same complete ordered calls, both Majesty/Honor phrases, dependence expressed for Ṣamad, the negation of any other god, glorification, confession, and repeated 'wahai Tuhan kami'. Nothing is filled in from a preceding page."
+    },
+    {
+      "check": "Divine Name petition, Throne and five ordered letter groups",
+      "source_lines": "5-7",
+      "result": "PASS",
+      "english": "The Name Allāh, no god other than Him, Lord of the Mighty Throne, God sufficing and excellent Trustee, petition by the groups, all verses, all Names and the Great Name among them are retained. Ordered sequence verified: Alif Lām Mīm; Kāf Hā Yā ʿAyn Ṣād; Ṭā Sīn Mīm; Ṭā Sīn; Ḥā Mīm ʿAyn Sīn Qāf.",
+      "indonesian": "All corresponding petitions and qualifiers occur. The five transliterated groups are independently identical in order to Arabic الم كهيعص طسم طس حمعسق; neither Ṭā Sīn group nor the final ʿAyn Sīn Qāf is omitted or substituted."
+    },
+    {
+      "check": "All theological negatives, both distinct blessings and request instruction",
+      "source_lines": "7-8",
+      "result": "PASS",
+      "english": "Neither begot, nor was begotten, nor has an equal are all present. The request to bless AND grant peace to our master Muḥammad AND his companions is followed by the separate full 'may God bless him and grant him peace'. No absent family is inserted. Whatever need one wishes, fulfillment and permission of God Most High are retained.",
+      "indonesian": "All three negative clauses remain. Selawat and salam are requested for Muḥammad beserta para sahabatnya, followed by the separate full blessing upon him. The unrestricted wished-for request and permission of Allah Yang Mahatinggi are present, with no added family."
+    },
+    {
+      "check": "Scholar identity, honorifics, attributes and first-person retreat account",
+      "source_lines": "8-12",
+      "result": "PASS",
+      "english": "Preserves the prayer for success for both me and you in understanding His secrets; Shaykh Abū ʿAbd Allāh Muḥammad ibn Ismāʿīl al-Aḥmī; mercy of God Most High; great masters of realization and foremost gnostics; manifest miracles, splendid states, truthful breaths; and sanctification of his secret. His quoted retreat and turning toward God Most High lead to the luminous shape/head of ʿayn.",
+      "indonesian": "The named scholar, both honorific prayers, all scholarly/spiritual attributes, both beneficiaries of the opening taufik prayer and the first-person khalwah account are present directly against Arabic. The luminous head-of-ʿayn description is not replaced with a familiar divine-name drawing."
+    },
+    {
+      "check": "Inner form, branching relation, source-declared ninety-nine/nineteen/twenty",
+      "source_lines": "12-15",
+      "result": "PASS",
+      "english": "Retains la-jalālihi as the uncertain printed inner form, each Name containing ʿayn branching from it, and the uncertain 'for the Name al-Jamāl' relationship. Setting the shape on this sheet, the inward statement, possible derivation of ninety-nine Names, beginning the work, nineteen derived from al-Jalālah and al-Jalālah completing twenty all remain; no diagram or repaired count is invented.",
+      "indonesian": "Keeps the same recoverable shape/branching account and locally flags the inner form and relation to al-Jamāl. Sembilan puluh sembilan, sembilan belas and dua puluh retain the source's distinct claims without harmonizing them to the actual recitation-list length."
+    },
+    {
+      "check": "Benefits, realization condition, damaged negative and separate divine giving clause",
+      "source_lines": "15-17",
+      "result": "PASS",
+      "english": "Benefits of exalted importance and mighty proof, the path-treader's wish to realize them, wondrous secrets and strange effects are retained. The higher/lower sciences clause remains explicitly NEGATIVE and locally uncertain, not positive omniscience. In the separate clause God Most High is the recipient of requests and the giver, not a god who asks or a human giving to God.",
+      "indonesian": "Preserves all benefit and realization qualifiers and the negative 'ilmu-ilmu atas dan bawah tidak ditanyakan' with local damage notice. 'Allah ... dimintai ... Dia memberikannya' correctly distinguishes the divine recipient of a request from the divine agent of giving."
+    },
+    {
+      "check": "Worldly necessity, midnight two-rakʿah prerequisite and all nineteen actual Names",
+      "source_lines": "17-19",
+      "result": "PASS",
+      "english": "Worldly necessity triggers two rakʿahs at MIDNIGHT, with recitation after finishing prayer. The independently extracted 19 entries, excluding 3 standalone vocatives, match in order: Allāh, Sarīʿ, al-Samīʿ, al-ʿAliyy, al-ʿAẓīm, al-Mutaʿāl, al-Bāʿith, al-Badīʿ, al-Rāfiʿ, al-ʿAdl, al-ʿAzīz, al-Rafīʿ, al-Faʿʿāl, al-ʿAlīm, al-Muʿizz, al-ʿAfuww, al-Wāsiʿ, al-Jāmiʿ, al-Jamāl. Glosses preserve the distinctions; al-Jamāl is Beauty, not repaired to Jalāl.",
+      "indonesian": "Keperluan duniawi, dua rakaat pada tengah malam, and completion of prayer before Name recitation match the Arabic. Programmatic extraction of actual parenthesized source-specific transliterations confirms the same complete ordered 19 entries. All three explicit vocatives are retained and not counted as Names."
+    },
+    {
+      "check": "1730 recitations, reverence and all place/orientation/request conditions; uncertain 17",
+      "source_lines": "19-21",
+      "result": "PASS",
+      "english": "(1730) times is attached to the recited Names. Reverence, submission, gathering of a good spiritual state, a place free of voices, facing the qiblah and then asking God Most High for the need all remain. 'And less than it, 17 times' is preserved with explicit numerical-relationship uncertainty rather than turned into a minimum. God easing the need and its means remains.",
+      "indonesian": "(1730) kali, khusyuk, tunduk, the good-state condition, place free of voices, qiblah and subsequent request are all retained in source order. The literal lebih sedikit darinya, 17 kali is uncertain, not a newly asserted minimum. Facilitation of the need and its causes is present."
+    },
+    {
+      "check": "Especially religious sciences/luminous secrets and restricted gnostic attainment",
+      "source_lines": "21-23",
+      "result": "PASS",
+      "english": "Especially the seeker asking God Most High for religious sciences and luminous secrets is retained, followed by the path from His Great Name to the aim, wonders of gnostic meanings and the malformed al-ʿārif al-rabbāniyyah. The latter's recoverable knower/divine components are locally qualified. The restriction to the greatest firmly grounded scholars remains exclusive.",
+      "indonesian": "Terlebih, ilmu-ilmu agama, rahasia-rahasia bercahaya, the path to the aim and makrifat meanings remain. The malformed expression is not silently normalized into a different noun. The Indonesian note states its actual lexical/construction uncertainty, and 'hanya ... para pembesar ulama yang mendalam ilmunya' preserves the exclusion."
+    },
+    {
+      "check": "Daily fifteen looks, remembrance over them and complete knowledge/wisdom claims",
+      "source_lines": "23-26",
+      "result": "PASS",
+      "english": "Looking at it every day 15 times while remembering God Most High OVER THEM is retained, with the source's singular-to-plural shift explicitly flagged. Secrets of sciences, hidden minutiae, understanding of spiritual-tasting sciences, sacred subtleties and flow FROM HIS HEART of subtle lights of bestowed wisdom through divine favor and generosity are complete.",
+      "indonesian": "Memandangnya setiap hari 15 kali, zikir atas mereka and the local pronoun-shift note preserve action, quantity, simultaneity and grammatical mismatch. Rahasia ilmu, hidden details, ilmu dzauq, sacred subtleties, flowing from his heart, bestowed wisdom, favor and generosity all match independently."
+    },
+    {
+      "check": "Printed ṣaḥbihi/tawajjaha, movement protection and both crown phrases",
+      "source_lines": "26-27",
+      "result": "PASS",
+      "english": "The damaged ṣaḥbihi phrase retains companions, with him and after its mention under explicit local construction/pronoun uncertainty; it is not repaired to 'carry it'. God guards all movements and protects from afflictions in all changing circumstances. The crown of awe remains, followed by source tawajjaha as turning toward with the crown of greatness, locally uncertain, not silently changed to 'crowned him'.",
+      "indonesian": "Para sahabatnya, bersamanya and setelah penyebutannya preserve the recoverable ṣaḥbihi words under a local uncertainty note. All movement/circumstance protection claims and mahkota kewibawaan remain. Menghadap dengan mahkota kebesaran preserves tawajjaha rather than inventing a crowning verb."
+    },
+    {
+      "check": "Placement, residence/travel, right upper arm and enemy plotting",
+      "source_lines": "27-29",
+      "result": "PASS",
+      "english": "Placing it on something at home or on a journey, protection against onsets of misfortunes, the alternative conditional hanging on the RIGHT UPPER ARM, God's protection from enemies' evil and safety from their plotting are retained. Feminine then masculine source pronouns are noted rather than assigned a repaired object.",
+      "indonesian": "Placing on something while residing or traveling, protection from arriving disasters, conditional hanging on lengan kanan bagian atas, and protection from enemies' evil and plotting are all present; separate feminine/masculine source-pronoun notices preserve the unresolved object shifts."
+    },
+    {
+      "check": "Tyrants and corrupted qalbu Allāh sequence: recoverable words and uncertain agents",
+      "source_lines": "29-31",
+      "result": "PASS",
+      "english": "Entering tyrants' presence with it, submitting to his word, trembling at his might, and the plural-to-singular referent shift are retained and qualified. Qalbu Allāh preserves the printed heart/God words with relationship AND intended-meaning uncertainty, not an invented fluent divine act. The ensuing from-his-overpowering-majesty/before-him/humbled/self-turned/desired fragments remain under damaged-syntax and referent uncertainty. God giving requests, warding off his evil, permission of God Most High and the exalted-secret description are present.",
+      "indonesian": "The tyrants' passage retains tunduk, perkataan, gemetar and kekuatan with plural/singular uncertainty. Qalbu Allāh is not translated as an unsupported operation; hati/Allah and their unresolved relation/meaning are explicit. The recoverable keperkasaan, di hadapannya, hina, diri berbalik and dikehendaki fragments remain, followed by divine granting, warding off evil, permission and rahasia luhur."
+    },
+    {
+      "check": "Glass seal, three writing substances and bodily OR psychic illness claim",
+      "source_lines": "31-33",
+      "result": "PASS",
+      "english": "Writes this wafq in a GLASS SEAL, not a vessel, with musk, saffron and camphor. A person with bodily OR psychic ailment drinks from it. Removal/protection are both retained with uncertain subject and objects explicitly stated; no new preparation or operation is supplied. Bearer's strength in body AND spirit and awe/majesty in viewers' eyes remain source-attributed claims, not endorsement.",
+      "indonesian": "Cap kaca, kesturi, safron and kapur barus match the printed terms. Penyakit jasmani ATAU penyakit kejiwaan, drinking from it, menghilangkan AND menjaga with unresolved actor/objects, body and spirit strength, and kewibawaan/keagungan in observers' eyes are all retained without an invented medical instruction."
+    },
+    {
+      "check": "Unfinished daily-after-dawn-prayer 77 and actual footer",
+      "source_lines": "33-34",
+      "result": "PASS",
+      "english": "Ends the source prose with 'Whoever recites them every day after the dawn prayer 77', immediately followed by '( 7 - The Sun of Gnosis - First )'. No 'times', outcome, completed conditional or neighboring-page continuation is added.",
+      "indonesian": "Ends the prose with 'Barang siapa menyebutnya setiap hari sesudah salat Subuh 77', then '( 7 - Matahari Makrifat - Pertama )'. The unfinished count remains unfinished; no kali, result or extra continuation is invented."
+    },
+    {
+      "check": "Whole-page numerical, script and boundary integrity",
+      "source_lines": "1-34",
+      "result": "PASS",
+      "english": "Tool extraction confirms the entire decimal sequence 97, 1730, 17, 15, 77, 7 in source order. Spelled ninety-nine, nineteen, twenty and two rakʿahs were separately semantically checked. All target letters are Latin or permitted transliteration modifiers. No omitted source interval or invented diagram/continuation was found.",
+      "indonesian": "The same complete digit sequence, source-line mapping, seven stars and ordered 19-Name inventory were independently asserted for the actual Indonesian block. Spelled quantities and all source clauses were semantically checked directly against Arabic, not inferred from the English result."
+    }
+  ],
+  "uncertainties": [
+    {
+      "source_lines": "12",
+      "source": "لجلاله / للاسم الجمال",
+      "accepted_retention": "Both targets retain la-jalālihi with uncertain printed reading/meaning and retain the al-Jamāl relationship with a local relationship notice. Neither reconstructs Allāh, substitutes al-Jalāl, nor invents a diagram."
+    },
+    {
+      "source_lines": "13-19",
+      "source": "Ninety-nine by branching; nineteen derived; al-Jalālah completes twenty; actual recitation list contains nineteen entries",
+      "accepted_retention": "The separate source numerical claims and actual 19-entry list coexist unchanged; three vocative particles are not counted as Names. This inconsistency is source evidence, not a target defect."
+    },
+    {
+      "source_lines": "16",
+      "source": "ولا يسأل العلوم العلوية والسفلية",
+      "accepted_retention": "Both targets preserve the negative and upper/lower sciences while marking damaged construction and intended meaning. They do not claim positive omniscience. The separate divine-giving clause has the correct agent."
+    },
+    {
+      "source_lines": "20",
+      "source": "وأقل منه 17 مرة",
+      "accepted_retention": "Both preserve less than it / lebih sedikit darinya and 17 recitations, with the numerical relationship expressly unresolved, rather than inventing a minimum or solving a subtraction."
+    },
+    {
+      "source_lines": "23",
+      "source": "والعارف الربانية",
+      "accepted_retention": "Both retain the malformed form and disclose the recoverable knower/divine lexical elements plus unresolved relationship and intended meaning."
+    },
+    {
+      "source_lines": "24, 26-28",
+      "source": "إليه / عليهم; وصحبه معه بعد ذكره; وتوجه بتاج العظمة; وضعها / علقه",
+      "accepted_retention": "Both targets locally preserve singular/plural and gender changes, the printed companions fragment and tawajjaha. They disclose unresolved relationships/actors without repairing carrying or crowning into the source."
+    },
+    {
+      "source_lines": "29-30",
+      "source": "جبابرة انقاد ... وارتعد ... وقلب الله من جبروته بين يديه ذلت وانقلبت له نفسه للمراد",
+      "accepted_retention": "Both retain the shift from plural tyrants to singular subjects, opaque qalbu Allāh with heart/God lexical evidence and unresolved relationship/meaning, and the remaining recoverable words under syntax/referent uncertainty. No confident restored action or assigned antecedent is required for approval."
+    },
+    {
+      "source_lines": "32",
+      "source": "أزالها وحفظها",
+      "accepted_retention": "Both retain removal and protection and explicitly leave their subject and objects unresolved. The seal and drinking statements remain attributed source claims without added operation."
+    },
+    {
+      "source_lines": "33-34",
+      "source": "ومن ذكرها كل يوم بعد صلاة الصبح 77 / footer",
+      "accepted_retention": "The source stops at 77 before the printed footer; both translations intentionally preserve that unfinished boundary."
+    }
+  ],
+  "verification": {
+    "raw_hashes_match_dispatch": true,
+    "both_source_embeddings_raw_byte_identical": true,
+    "canonical_line_count": 34,
+    "source_and_each_target_star_count": 7,
+    "decimal_sequence_each": ["97", "1730", "17", "15", "77", "7"],
+    "actual_name_count_excluding_vocatives": 19,
+    "explicit_vocatives_in_name_list": 3,
+    "ordered_name_transliterations_both_match": true,
+    "ordered_letter_groups_both_match": true,
+    "source_first_prose_line": 3,
+    "each_target_block_first_translated_prose_line": 5,
+    "each_target_file_first_translated_prose_line": 42,
+    "star_positions_relative_to_first_prose_line_zero_based": [5, 16, 20, 24, 26, 28, 30],
+    "candidate_reader_checked": false,
+    "repository_edits": false,
+    "review_scope": "Physical page 103 only. Optional candidate reader not needed and not read. Semantic approval does not attest to any uninspected generated reader or publication state.",
+    "checker_diagnostic": "An initial helper assumed one separator newline after the raw embedded source and stopped at two actual wrapper newlines. The canonical-byte prefix assertion had already passed. Only the checker separator handling was corrected; the complete invariant check then passed with all three original dispatched hashes unchanged. No source or target repair was made."
+  },
+  "findings": []
+}
