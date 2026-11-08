@@ -3,7 +3,7 @@
   "total_pages": 604,
   "sequence_policy": "strict-lowest-uncommitted",
   "created_at": "2026-09-25T03:54:12+00:00",
-  "updated_at": "2026-11-07T19:35:35+00:00",
+  "updated_at": "2026-11-08T02:19:22+00:00",
   "active_page": null,
   "pages": {
     "1": {
@@ -2735,17 +2735,30 @@
     },
     "102": {
       "page": 102,
-      "status": "pending",
-      "attempts": 0,
-      "owner": null,
-      "claimed_at": null,
-      "heartbeat_at": null,
-      "review_submitted_at": null,
-      "reviewer": null,
-      "validator": null,
+      "status": "committed",
+      "attempts": 1,
+      "owner": "hermes-page-worker",
+      "claimed_at": "2026-11-08T02:02:19+00:00",
+      "heartbeat_at": "2026-11-08T02:19:17+00:00",
+      "review_submitted_at": "2026-11-08T02:19:17+00:00",
+      "reviewer": "hermes-independent-reviewer",
+      "validator": {
+        "ok": true,
+        "page": 102,
+        "source_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched/page_102.txt",
+        "english_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_en/page_102.txt",
+        "indonesian_path": "C:/Working Folder/Research/shams-al-maarif-ocr/ocr/enriched_id/page_102.txt",
+        "json_path": "C:/Working Folder/Research/shams-al-maarif-ocr/web/public/manuscript.json",
+        "blank_source": false,
+        "english_block": "— 96 —\n\n(And this is the form of the wafq referred to)\n\n| mālh [UNCLEAR: vocalization and meaning of this printed token] | the dominion | the dominion | the dominion | the dominion | the dominion |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| the dominion | and the earth | and He is the Mighty | the Wise | to Him belongs dominion | the heavens |\n| and the earth | and He is the Mighty | the Wise | to Him belongs dominion | the heavens | and the earth |\n| and He is the Mighty | the Wise | to Him belongs dominion | the heavens | and the earth | and He is the Mighty |\n| the Wise | to Him belongs dominion | the heavens | and the earth | and He is the Mighty | the Wise |\n| to Him belongs dominion | the heavens | and the earth | and He is the Mighty | the Wise | to Him belongs dominion |\n| the heavens | and the earth | and He is the Mighty | the Wise | to Him belongs dominion | the heavens |\n\nDhū al-Nūn the Egyptian, may God Most High have mercy on him, said: \"I saw a young man at the Kaaba who bowed and prostrated frequently. I drew near him and said: 'You pray a great deal.' He said: 'I await permission from my Lord to leave [UNCLEAR: the unvocalized verb can be read as either \"I await\" or \"Wait\"; its grammatical person is uncertain].' I drew near him and saw a slip of paper that had fallen upon him, on which was written: 'From the Mighty, the Forgiving, to My truthful, ever-grateful servant: depart; your earlier and later sins are forgiven you.'\" * It is related from Anas ibn Mālik that the Prophet, peace and blessings be upon him, passed by a man who was praying. When the man had finished the tashahhud, he began to say: \"O God, I ask You by the fact that praise belongs to You; there is no god but You. O Tenderly Compassionate One (Ḥannān), O Bestower of Favors (Mannān), O Originator (Badīʿ) of the heavens and the earth, O Living One (Ḥayy), O Self-Subsisting Sustainer (Qayyūm).\" Then the Prophet, peace and blessings be upon him, said: \"Do you know by what he made his supplication?\" We said: \"God and His Messenger know best.\" He said: \"He has invoked God by His great and greatest Name, by which, when He is invoked, He answers, and when He is asked, He gives; ten Names: the One (al-Wāḥid), the Unique One (al-Aḥad), the One on Whom all depend (al-Ṣamad), the Doer of whatever He wills (al-Faʿʿāl limā yurīd), the All-Hearing (al-Samīʿ), the All-Seeing (al-Baṣīr), the All-Powerful (al-Muqtadir), the Strong (al-Qawī), the Subsisting One (al-Qāʾim) [the source declares ten Names but lists nine entries]. Nothing is better than acting by them.\" Then he said [UNCLEAR: the speaker of this further statement is not explicitly identified]: \"They are beneficial in coping with burdens and difficult matters.\" (A benefit) This supplication is for the Names of which it has been said that each Name among them is the Greatest Name of God. It is this: \"O God, I ask You by the fact that praise belongs to You; there is no god but You. O Tenderly Compassionate One (Ḥannān), O Bestower of Favors (Mannān), O Originator (Badīʿ) of the heavens",
+        "indonesian_block": "— 96 —\n\n(Dan inilah bentuk wafq yang dimaksud)\n\n| mālh [UNCLEAR: pembacaan vokal dan makna kata tercetak ini tidak pasti] | kerajaan | kerajaan | kerajaan | kerajaan | kerajaan |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| kerajaan | dan bumi | dan Dialah Yang Mahaperkasa | Yang Mahabijaksana | milik-Nya kerajaan | langit-langit |\n| dan bumi | dan Dialah Yang Mahaperkasa | Yang Mahabijaksana | milik-Nya kerajaan | langit-langit | dan bumi |\n| dan Dialah Yang Mahaperkasa | Yang Mahabijaksana | milik-Nya kerajaan | langit-langit | dan bumi | dan Dialah Yang Mahaperkasa |\n| Yang Mahabijaksana | milik-Nya kerajaan | langit-langit | dan bumi | dan Dialah Yang Mahaperkasa | Yang Mahabijaksana |\n| milik-Nya kerajaan | langit-langit | dan bumi | dan Dialah Yang Mahaperkasa | Yang Mahabijaksana | milik-Nya kerajaan |\n| langit-langit | dan bumi | dan Dialah Yang Mahaperkasa | Yang Mahabijaksana | milik-Nya kerajaan | langit-langit |\n\nDhū al-Nūn dari Mesir, semoga Allah Yang Mahatinggi merahmatinya, berkata: \"Aku melihat seorang pemuda di dekat Ka'bah yang banyak melakukan rukuk dan sujud. Aku mendekatinya dan berkata: 'Engkau banyak mengerjakan salat.' Pemuda itu berkata: 'Aku menanti izin dari Tuhanku untuk pergi [UNCLEAR: kata kerja tanpa harakat ini dapat dibaca \"aku menanti\" atau \"tunggulah\"; bentuk personanya tidak pasti].' Aku mendekatinya, lalu melihat sehelai kertas yang telah jatuh menimpanya. Pada kertas itu tertulis: 'Dari Yang Mahaperkasa, Yang Maha Pengampun, kepada hamba-Ku yang jujur lagi banyak bersyukur: pergilah; telah diampuni bagimu dosa-dosamu yang terdahulu dan yang kemudian.'\" * Diriwayatkan dari Anas ibn Mālik bahwa Nabi, semoga selawat dan salam tercurah kepadanya, melewati seorang laki-laki yang sedang salat. Setelah laki-laki itu selesai membaca tasyahud, ia mulai mengucapkan: \"Ya Allah, sesungguhnya aku memohon kepada-Mu dengan kenyataan bahwa bagi-Mulah segala pujian; tidak ada tuhan selain Engkau. Wahai Yang Maha Penyayang (Ḥannān), wahai Yang Maha Pemberi Karunia (Mannān), wahai Pencipta Tanpa Contoh (Badīʿ) langit-langit dan bumi, wahai Yang Mahahidup (Ḥayy), wahai Yang Berdiri Sendiri dan Menegakkan Segala Sesuatu (Qayyūm).\" Kemudian Nabi, semoga selawat dan salam tercurah kepadanya, bersabda: \"Tahukah kalian dengan apa ia berdoa?\" Kami menjawab: \"Allah dan Rasul-Nya lebih mengetahui.\" Beliau bersabda: \"Ia telah berdoa kepada Allah dengan nama-Nya yang agung lagi paling agung, yang apabila Allah diseru dengannya, Dia menjawab, dan apabila Dia diminta dengannya, Dia memberi; sepuluh nama: Yang Satu (al-Wāḥid), Yang Esa (al-Aḥad), Yang Menjadi Tempat Bergantung (al-Ṣamad), Yang Melakukan Apa Saja yang Dia Kehendaki (al-Faʿʿāl limā yurīd), Yang Maha Mendengar (al-Samīʿ), Yang Maha Melihat (al-Baṣīr), Yang Mahakuasa (al-Muqtadir), Yang Mahakuat (al-Qawī), Yang Berdiri Sendiri (al-Qāʾim) [sumber menyebut sepuluh nama, tetapi hanya mencantumkan sembilan entri]. Tidak ada sesuatu yang lebih utama daripada mengamalkannya.\" Kemudian ia berkata [UNCLEAR: penutur pernyataan lanjutan ini tidak disebutkan secara tegas]: \"Nama-nama itu bermanfaat dalam menghadapi beban-beban dan perkara-perkara yang sulit.\" (Faedah) Doa ini adalah untuk nama-nama yang dikatakan bahwa setiap nama di antaranya merupakan Nama Allah Yang Paling Agung. Inilah doanya: \"Ya Allah, sesungguhnya aku memohon kepada-Mu dengan kenyataan bahwa bagi-Mulah segala pujian; tidak ada tuhan selain Engkau. Wahai Yang Maha Penyayang (Ḥannān), wahai Yang Maha Pemberi Karunia (Mannān), wahai Pencipta Tanpa Contoh (Badīʿ) langit-langit",
+        "record_found": true,
+        "errors": [],
+        "warnings": []
+      },
       "last_error": null,
-      "commit_sha": null,
-      "committed_at": null
+      "commit_sha": "47deb1fd01473b02d1ce22a1cd19a1410533309a",
+      "committed_at": "2026-11-08T02:19:22+00:00"
     },
     "103": {
       "page": 103,
