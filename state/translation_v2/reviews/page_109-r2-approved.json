@@ -1,0 +1,663 @@
+{
+  "page": 109,
+  "passed": true,
+  "verdict": "APPROVED",
+  "reviewer_role": "independent-model-semantic-reviewer",
+  "source_hashes": {
+    "ocr/enriched/page_109.txt": "512c654ba51518588cd54da38136287a5d87d92407ccb5f362f4743ac4444aed",
+    "ocr/enriched_en/page_109.txt": "9d96e515fe853ff744586a120304557c79ad44e8955b7e811280055893c1a258",
+    "ocr/enriched_id/page_109.txt": "e524e806bd62f581dce8c73aa6108c27085760faab2deda20d64bb9d9f11da5d",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "a1cb351d42c2caaf7e0ecc7fdb966d1344471e2b871fa21d3a806017f90d35a8"
+  },
+  "coverage": [
+    {
+      "id": "C01",
+      "source_lines": [
+        1,
+        2
+      ],
+      "check": "Folio - ١٠٣ - preserves hyphens and content identity, followed by blank; all 33 logical source lines represented.",
+      "english_evidence": "L1 - 103 -; L2 blank; 33 target lines.",
+      "indonesian_evidence": "L1 - 103 -; L2 blank; 33 target lines.",
+      "passed": true
+    },
+    {
+      "id": "C02",
+      "source_lines": "1-33",
+      "check": "Immutable Arabic prefixes, unique labels, complete reader/block equality and Legacy604V2 scope.",
+      "english_evidence": "Exact source prefix, one Arabic:/English: pair, reader text.en equals target; frozen reader has 604 records.",
+      "indonesian_evidence": "Exact source prefix, one Arabic:/Indonesia: pair, reader text.id equals target; paused616V3 excluded.",
+      "passed": true
+    },
+    {
+      "id": "C03",
+      "source_lines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        13
+      ],
+      "check": "All eight U+06DE dividers in sequence at corresponding clause boundaries; token explanation explicitly editorial.",
+      "english_evidence": "One [U+06DE] on every listed line; Translator's note labels explanation.",
+      "indonesian_evidence": "One [U+06DE] on every listed line; Catatan penerjemah labels explanation.",
+      "passed": true
+    },
+    {
+      "id": "C04",
+      "source_lines": [
+        3
+      ],
+      "check": "اعلم / هذه السبعة أحرف / منها الخير ومنها الشر: imperative, quantity seven and good/evil subsets.",
+      "english_evidence": "Know; these seven letters; some indicate good and some evil.",
+      "indonesian_evidence": "Ketahuilah; tujuh huruf ini; sebagian kebaikan, sebagian keburukan.",
+      "passed": true
+    },
+    {
+      "id": "C05",
+      "source_lines": [
+        3,
+        4
+      ],
+      "check": "Good exemplified by والله خبير بما تعملون; explicit Divine Name الخبير, attribution and second-person deeds.",
+      "english_evidence": "His saying, Most High; God is aware of what you do; al-Khabīr, the All-Aware.",
+      "indonesian_evidence": "firman-Nya, Yang Mahatinggi; apa yang kalian kerjakan; al-Khabīr, Yang Maha Mengetahui.",
+      "passed": true
+    },
+    {
+      "id": "C06",
+      "source_lines": [
+        4,
+        5
+      ],
+      "check": "ولقد زينا السماء الدنيا بمصابيح: divine first-person plural adornment, lowest heaven, lamps.",
+      "english_evidence": "God Most High said: We have adorned the lowest heaven with lamps.",
+      "indonesian_evidence": "Allah Yang Mahatinggi berfirman: Sungguh Kami telah menghiasi langit yang paling dekat dengan pelita-pelita.",
+      "passed": true
+    },
+    {
+      "id": "C07",
+      "source_lines": [
+        5
+      ],
+      "check": "زين للناس حب الشهوات الآية: passive attractiveness of desire-love to people; verse reference without canonical completion.",
+      "english_evidence": "The love of desires has been made attractive to people—the verse.",
+      "indonesian_evidence": "Dijadikan indah bagi manusia kecintaan kepada berbagai keinginan—ayat tersebut.",
+      "passed": true
+    },
+    {
+      "id": "C08",
+      "source_lines": [
+        5,
+        6
+      ],
+      "check": "الزهر / صلاح الثمر / زينت الأشجار بالأثمار: blossom/fruit indication and reported tree illustration.",
+      "english_evidence": "blossoms; soundness of fruit; It is said; trees adorned with fruits.",
+      "indonesian_evidence": "bunga; baiknya buah; Dikatakan; pohon-pohon dihiasi dengan buah-buahan.",
+      "passed": true
+    },
+    {
+      "id": "C09",
+      "source_lines": [
+        6
+      ],
+      "check": "الشين / الشهيد / الشهادة; شهد الله أنه لا إله الا هو: letter, Name, testimony, divine exclusive formula.",
+      "english_evidence": "shīn; al-Shahīd, the Witness; testimony; God bears witness that there is no god but He.",
+      "indonesian_evidence": "shīn; al-Shahīd, Yang Menyaksikan; persaksian; Allah bersaksi bahwa tiada tuhan selain Dia.",
+      "passed": true
+    },
+    {
+      "id": "C10",
+      "source_lines": [
+        7
+      ],
+      "check": "المشاهدة هي المعاينة / الشهداء أحياء عندهم يرزقون: direct seeing, living martyrs, provision; plural عندهم not normalized.",
+      "english_evidence": "Witnessing is direct seeing; martyrs alive, with them, being provided for; unclear plural referent marked.",
+      "indonesian_evidence": "Penyaksian ialah melihat secara langsung; syuhada hidup, di sisi mereka, diberi rezeki; rujukan mereka marked unclear.",
+      "passed": true
+    },
+    {
+      "id": "C11",
+      "source_lines": [
+        7,
+        8
+      ],
+      "check": "الشرب / يشربون من كأس كان مزاجها كافورا وسلسبيلا / عينا تسمى سلسبيلا: drinking, cup, both mixed ingredients and spring retained as source joins them.",
+      "english_evidence": "drinking; They drink from a cup whose mixture is camphor and Salsabīl; a spring called Salsabīl.",
+      "indonesian_evidence": "minum; piala yang campurannya kafur dan Salsabīl; mata air yang dinamai Salsabīl.",
+      "passed": true
+    },
+    {
+      "id": "C12",
+      "source_lines": [
+        8,
+        9
+      ],
+      "check": "وللشفاء ... وننزل من القرآن ما هو شفاء ورحمة للمؤمنين: rubric, sending-down, Qur'an, healing, mercy and believers.",
+      "english_evidence": "For healing; We send down from the Qur'an what is healing and mercy for the believers.",
+      "indonesian_evidence": "Untuk penyembuhan; Kami menurunkan dari Al-Qur'an ... penyembuh dan rahmat bagi orang-orang beriman.",
+      "passed": true
+    },
+    {
+      "id": "C13",
+      "source_lines": [
+        9,
+        10
+      ],
+      "check": "الظاء / الظل الممدود / الظهور / الظعون للمرغوب / الظاهر: all three indications, sought direction and Divine Name.",
+      "english_evidence": "ẓāʾ; extended shade, manifestation, departures toward what is sought; al-Ẓāhir, the Manifest.",
+      "indonesian_evidence": "ẓāʾ; naungan terbentang, penampakan, keberangkatan menuju yang dicari; al-Ẓāhir, Yang Nyata.",
+      "passed": true
+    },
+    {
+      "id": "C14",
+      "source_lines": [
+        10
+      ],
+      "check": "الفاء / الفطر والفاكهة والفطور: letter and three distinct associations.",
+      "english_evidence": "fāʾ; origination, fruit, fissures.",
+      "indonesian_evidence": "fāʾ; penciptaan awal, buah, keretakan.",
+      "passed": true
+    },
+    {
+      "id": "C15",
+      "source_lines": [
+        10,
+        11
+      ],
+      "check": "فطرت الله التي فطر الناس عليها / فاطر السماوات والارض: disposition, human creation relative to it, origination of heavens and earth.",
+      "english_evidence": "God's original disposition, upon which He originated people; Originator of the heavens and the earth.",
+      "indonesian_evidence": "Fitrah Allah, yang dengannya Dia menciptakan manusia; Pencipta langit dan bumi.",
+      "passed": true
+    },
+    {
+      "id": "C16",
+      "source_lines": [
+        11,
+        12
+      ],
+      "check": "هل ترى من فطور / فاكهون هم وأزواجهم: any-fissure question, enjoyment, they and spouses, both attributions.",
+      "english_evidence": "Do you see any fissures?; Enjoying themselves, they and their spouses.",
+      "indonesian_evidence": "Apakah engkau melihat suatu keretakan?; Bersenang-senang, mereka dan pasangan-pasangan mereka.",
+      "passed": true
+    },
+    {
+      "id": "C17",
+      "source_lines": [
+        12,
+        13
+      ],
+      "check": "الثاء والزاي والجيم باردة / الماء والقمر / الظل الممدود وجنة الخلد: three cold letters, paired natures and analogues.",
+      "english_evidence": "Thāʾ, zāy, jīm cold; water and moon; extended shade and Garden of Eternity.",
+      "indonesian_evidence": "Thāʾ, zāy, jīm dingin; air dan bulan; naungan terbentang dan Surga Kekekalan.",
+      "passed": true
+    },
+    {
+      "id": "C18",
+      "source_lines": [
+        13
+      ],
+      "check": "الحاء والشين باردان بإنسان طبع التراب: exact ḥāʾ/shīn, cold pair, damaged b-insān, earth; no substituted letter or invented moisture predicate.",
+      "english_evidence": "Ḥāʾ and shīn cold, b-insān; with/in a human and unclear connection; nature of earth.",
+      "indonesian_evidence": "Ḥāʾ dan shīn dingin, b-insān; dengan/dalam seorang manusia and unclear connection; bertabiat tanah.",
+      "passed": true
+    },
+    {
+      "id": "C19",
+      "source_lines": [
+        13,
+        14
+      ],
+      "check": "القاف والظاء حار رطب / الفاء حارة يابسة طبع النار / لها ... الاحمر والشمس: paired letters, hot/moist versus hot/dry, fire, literal celestial pair.",
+      "english_evidence": "qāf and ẓāʾ hot/moist; fāʾ hot/dry, fire; it has the Red and the Sun, without silently naming a planet.",
+      "indonesian_evidence": "qāf dan ẓāʾ panas/lembap; fāʾ panas/kering, api; baginya Yang Merah dan matahari.",
+      "passed": true
+    },
+    {
+      "id": "C20",
+      "source_lines": [
+        14,
+        15
+      ],
+      "check": "سبعة أسماء الاول الثابت والجبار والخبير والزكي والظاهر والفرد والشكور وقيل الشهيد: seven primary Names in exact order plus reported alternate; no extra al-Awwal.",
+      "english_evidence": "seven Names; the first, al-Thābit; al-Jabbār; al-Khabīr; al-Zakī; al-Ẓāhir; al-Fard; al-Shakūr—or, it is said, al-Shahīd.",
+      "indonesian_evidence": "tujuh nama; yang pertama, al-Thābit; al-Jabbār; al-Khabīr; al-Zakī; al-Ẓāhir; al-Fard; al-Shakūr—atau, dikatakan, al-Shahīd.",
+      "passed": true
+    },
+    {
+      "id": "C21",
+      "source_lines": [
+        15,
+        16
+      ],
+      "check": "الثاء لا يظهر ... الا الوارث والباعث / في آخر مرتبة السر العلم المغنى: negative, two-Name exception, entire damaged rank/secret/knowledge sequence.",
+      "english_evidence": "Thāʾ does not appear except al-Wārith and al-Bāʿith; last rank, secret, knowledge, al-mughnā; relation/reading note.",
+      "indonesian_evidence": "Thāʾ tidak muncul kecuali al-Wārith dan al-Bāʿith; martabat terakhir, rahasia, ilmu, al-mughnā; relation/reading note.",
+      "passed": true
+    },
+    {
+      "id": "C22",
+      "source_lines": [
+        16,
+        17
+      ],
+      "check": "تشير للجمع في اسمه الباعث / تشير للغنى في اسمه الوارث: repeated pointing, distinct functions assigned to correct Names.",
+      "english_evidence": "gathering in al-Bāʿith; sufficiency in al-Wārith.",
+      "indonesian_evidence": "pengumpulan dalam al-Bāʿith; kecukupan dalam al-Wārith.",
+      "passed": true
+    },
+    {
+      "id": "C23",
+      "source_lines": [
+        17
+      ],
+      "check": "وليس لهذين الاسمين سلوك: negation for exactly these two Names, retained technical term.",
+      "english_evidence": "These two Names have no sulūk (course).",
+      "indonesian_evidence": "Kedua nama ini tidak memiliki sulūk (jalan).",
+      "passed": true
+    },
+    {
+      "id": "C24",
+      "source_lines": [
+        17,
+        18
+      ],
+      "check": "وليس في حروف المعجم ما ينقط ثلاث نقط الا الثاء والشين: alphabet-wide negative, three dots, two-letter exception.",
+      "english_evidence": "none marked with three dots except thāʾ and shīn.",
+      "indonesian_evidence": "tidak ada yang diberi tiga titik kecuali thāʾ dan shīn.",
+      "passed": true
+    },
+    {
+      "id": "C25",
+      "source_lines": [
+        18
+      ],
+      "check": "لاحاطة الشين عن سواه وسر الثاء فما دونه: causal encompassing, damaged relation, thāʾ-secret and below-it phrase all retained.",
+      "english_evidence": "because of shīn's encompassing, ʿan siwāhu; secret of thāʾ, then what is below it; localized notes for both linkages.",
+      "indonesian_evidence": "karena peliputan shīn, ʿan siwāhu; rahasia thāʾ, lalu apa yang di bawahnya; localized Indonesian notes.",
+      "passed": true
+    },
+    {
+      "id": "C26",
+      "source_lines": [
+        18,
+        19
+      ],
+      "check": "وليس لها خاصية الا في علم الاجسام السفلية وهو حرف يابس: exclusive property, lower bodies, dry-letter predicate and pronominal continuity.",
+      "english_evidence": "no special property except science of lower bodies; It is a dry letter.",
+      "indonesian_evidence": "tidak mempunyai kekhususan kecuali ilmu jasad-jasad bawah; Ia merupakan huruf kering.",
+      "passed": true
+    },
+    {
+      "id": "C27",
+      "source_lines": [
+        19
+      ],
+      "check": "وهو للأرض كالأوتاد أعنى الجبال: earth/pegs analogy and explicit authorial mountains gloss.",
+      "english_evidence": "for the earth ... like pegs—I mean the mountains.",
+      "indonesian_evidence": "bagi bumi ... seperti pasak-pasak—yang kumaksud ialah gunung-gunung.",
+      "passed": true
+    },
+    {
+      "id": "C28",
+      "source_lines": [
+        19,
+        20,
+        21
+      ],
+      "check": "الفاء حرف حار يتصرف في حروف الحرارة / الدرجة الخامسة / شكله معتبر في حرف الباء: hot letter, activity among heat letters, fifth degree, form relative to bāʾ.",
+      "english_evidence": "fāʾ hot, acts among letters of heat; fifth degree of heat; form considered in bāʾ.",
+      "indonesian_evidence": "fāʾ panas, bekerja dalam huruf-huruf panas; derajat kelima kepanasan; bentuk diperhitungkan dalam bāʾ.",
+      "passed": true
+    },
+    {
+      "id": "C29",
+      "source_lines": [
+        21
+      ],
+      "check": "وجدول عدده ٨٠ في ٨٠: both 80s and table relation, no replacement by computed product or invented grid.",
+      "english_evidence": "Its numerical table is 80 by 80.",
+      "indonesian_evidence": "Tabel bilangannya ialah 80 kali 80.",
+      "passed": true
+    },
+    {
+      "id": "C30",
+      "source_lines": [
+        21,
+        22
+      ],
+      "check": "وليس أعلمه في أسماء الله من قام بسر الفاء الا ... الفاطر والفاعل والفالق والفرد والفتاح واسم حسب: first-person negative, fāʾ-secret, exception, six later Names in order.",
+      "english_evidence": "I do not know ... stands by secret of fāʾ; damaged-construction note; except al-Fāṭir, al-Fāʿil, al-Fāliq, al-Fard, al-Fattāḥ, name Ḥasb.",
+      "indonesian_evidence": "Aku tidak mengetahui ... berdiri dengan rahasia fāʾ; damaged-construction note; kecuali al-Fāṭir, al-Fāʿil, al-Fāliq, al-Fard, al-Fattāḥ, nama Ḥasb.",
+      "passed": true
+    },
+    {
+      "id": "C31",
+      "source_lines": [
+        22
+      ],
+      "check": "والشين باردة وعدده الا هو وسره سر الشين: cold shīn, literal nonnumeric number slot, repeated secret; no supplied abjad numeral.",
+      "english_evidence": "Shīn cold; number is except He, with no-numeric-value note; secret is secret of shīn.",
+      "indonesian_evidence": "Shīn dingin; bilangannya selain Dia, with no-numeric-value note; rahasianya rahasia shīn.",
+      "passed": true
+    },
+    {
+      "id": "C32",
+      "source_lines": [
+        23
+      ],
+      "check": "وتصديقه وليس ... ذو ثلاث علامات وثلاث أشكال الا هو: confirmation, negative, exception, three marks and three forms distinct from earlier dots.",
+      "english_evidence": "and its confirmation; none has three marks and three forms except it.",
+      "indonesian_evidence": "dan pembenarannya; tidak ada yang mempunyai tiga tanda dan tiga bentuk kecuali huruf itu.",
+      "passed": true
+    },
+    {
+      "id": "C33",
+      "source_lines": [
+        23,
+        24
+      ],
+      "check": "الشين جمع ذات رتبة الآحاد والعشرات والمئين: gathering essence/rank, units/tens/hundreds in order.",
+      "english_evidence": "Shīn combines essence of ranks of units, tens, hundreds.",
+      "indonesian_evidence": "Shīn menggabungkan hakikat martabat satuan, puluhan, ratusan.",
+      "passed": true
+    },
+    {
+      "id": "C34",
+      "source_lines": [
+        24
+      ],
+      "check": "ووصفت الشين في شهد الله وتفرع منها ٣ شهادات: shīn description, repeated witnessing formula, branching and exact testimony count.",
+      "english_evidence": "Shīn described in God bears witness; from it branched 3 testimonies.",
+      "indonesian_evidence": "Shīn disifatkan dalam Allah bersaksi; darinya bercabang 3 persaksian.",
+      "passed": true
+    },
+    {
+      "id": "C35",
+      "source_lines": [
+        24,
+        25
+      ],
+      "check": "شهادة الملك وشهادة أولى العلم وشهادة من سواهم: three ordered testimonies, no harmonization of ambiguous al-m-l-k.",
+      "english_evidence": "al-m-l-k (king/dominion/angel unclear); those possessing knowledge; those other than them.",
+      "indonesian_evidence": "al-m-l-k (raja/kerajaan/malaikat unclear); orang-orang berilmu; selain mereka.",
+      "passed": true
+    },
+    {
+      "id": "C36",
+      "source_lines": [
+        25,
+        26
+      ],
+      "check": "ولذلك أخر رتبة العلم اذ التوحيد الأعلى من الحق الينا: causal rank placement, highest tawḥīd and direction from Real to us.",
+      "english_evidence": "Thus rank of knowledge placed last; highest affirmation of oneness from the Real to us.",
+      "indonesian_evidence": "Karena itu martabat ilmu ditempatkan terakhir; penegasan keesaan tertinggi dari Yang Haq kepada kita.",
+      "passed": true
+    },
+    {
+      "id": "C37",
+      "source_lines": [
+        26
+      ],
+      "check": "والتوحيد الذي ظهر في الآثار منا الى الله: traces and reversed direction of second tawḥīd, us to God.",
+      "english_evidence": "affirmation of oneness appearing in traces from us to God.",
+      "indonesian_evidence": "penegasan keesaan tampak dalam jejak-jejak dari kita kepada Allah.",
+      "passed": true
+    },
+    {
+      "id": "C38",
+      "source_lines": [
+        26
+      ],
+      "check": "وجمع التوحيد كله في العرش أعنى نور التوحد: all tawḥīd gathered in Throne, explicit light-of-oneness gloss.",
+      "english_evidence": "All affirmation of oneness gathered in Throne—I mean light of being one.",
+      "indonesian_evidence": "Seluruh penegasan keesaan terkumpul dalam Arasy—yang kumaksud cahaya menjadi satu.",
+      "passed": true
+    },
+    {
+      "id": "C39",
+      "source_lines": [
+        27
+      ],
+      "check": "ولذلك نبه عليه النبي عليه السلام فيمن يذكر لا اله الا الله انما تصعد الى العرش ويهتز العرش: explanatory link, attribution, short honorific, full formula, restrictive ascent, shaking.",
+      "english_evidence": "For that reason; Prophet, peace be upon him; There is no god but God; ascends only to Throne; Throne shakes.",
+      "indonesian_evidence": "Karena itu; Nabi, semoga salam tercurah kepadanya; Tiada tuhan selain Allah; ucapan itu hanya naik ke Arasy; Arasy berguncang.",
+      "passed": true
+    },
+    {
+      "id": "C40",
+      "source_lines": [
+        27,
+        28
+      ],
+      "check": "فيقال له حتى تغفر بها: passive speech, until/forgive/instrumental chain; revision2 note limits uncertainty to linkage, addressee and instrumental referent, not absent preceding command.",
+      "english_evidence": "said to it: until you forgive through it; how until connects, addressee of you, referent of through it unclear; rejected preceding-command diagnosis absent.",
+      "indonesian_evidence": "dikatakan kepadanya: hingga engkau mengampuni dengannya; hubungan hingga, pihak disapa, rujukan dengannya unclear; rejected perintah-sebelumnya diagnosis absent.",
+      "passed": true
+    },
+    {
+      "id": "C41",
+      "source_lines": [
+        28
+      ],
+      "check": "وذلك أنه لما علم ان العباد لا يتصور في أذهانهم ولا يتكيف في عقولهم: explanation, divine knowledge, servants, two negatives and distinct minds/intellects; unexpressed subject marked.",
+      "english_evidence": "when God knew; servants; [He/it] not conceived in minds, not given modality in intellects; missing subject of negatives noted.",
+      "indonesian_evidence": "ketika Allah mengetahui; para hamba; [Dia/hal itu] tidak terbayangkan dalam benak, tidak diberi kaifiah dalam akal; subject note.",
+      "passed": true
+    },
+    {
+      "id": "C42",
+      "source_lines": [
+        28,
+        29
+      ],
+      "check": "نصب لهم مخلوقا منهم وجعله في أعلا المقامات وأضافه الى نفسه وقال: God sets/ascribes/speaks; beneficiaries, creature from among them, highest stations, self-ascription.",
+      "english_evidence": "He set up for them created being from among them, placed it in highest stations, ascribed it to Himself, said.",
+      "indonesian_evidence": "Allah menempatkan bagi mereka makhluk dari kalangan mereka, kedudukan-kedudukan tertinggi, menisbatkan kepada Diri-Nya, berfirman.",
+      "passed": true
+    },
+    {
+      "id": "C43",
+      "source_lines": [
+        29
+      ],
+      "check": "ذو العرش المجيد: Possessor, Throne, glorious qualifier retained; unmarked adjective attachment not silently resolved.",
+      "english_evidence": "Possessor of the Throne—glorious; Possessor/Throne attachment note.",
+      "indonesian_evidence": "Pemilik Arasy—mulia; Pemilik/Arasy attachment note.",
+      "passed": true
+    },
+    {
+      "id": "C44",
+      "source_lines": [
+        30
+      ],
+      "check": "كالحاجب للملك الذي لا يصل الى مشاهدته أحد الا هو فيكون هو الذي يبلغه حوائج السائلين: explicit analogy, king/chamberlain roles, nobody-except restriction, sight, petitioner-needs conveyance.",
+      "english_evidence": "like king's chamberlain; no one sees king except chamberlain; chamberlain conveys petitioners' needs to king.",
+      "indonesian_evidence": "seperti penjaga pintu raja; tidak ada yang melihat raja kecuali penjaga pintu; menyampaikan keperluan pemohon kepada raja.",
+      "passed": true
+    },
+    {
+      "id": "C45",
+      "source_lines": [
+        31
+      ],
+      "check": "وأبرم حكمته في رعيته: establishing wisdom among subjects, actor not forced to God/king/chamberlain.",
+      "english_evidence": "made his wisdom firm among his subjects; actor explicitly uncertain.",
+      "indonesian_evidence": "mengukuhkan hikmahnya dalam kalangan rakyatnya; pelaku explicitly uncertain.",
+      "passed": true
+    },
+    {
+      "id": "C46",
+      "source_lines": [
+        31
+      ],
+      "check": "ويدل على وجود الملك وثبوته وعزة سلطانه: three distinct aspects of royal existence, establishedness and sovereign might.",
+      "english_evidence": "king's existence, his establishedness, might of his sovereignty.",
+      "indonesian_evidence": "keberadaan raja, ketetapannya, kemuliaan kekuasaannya.",
+      "passed": true
+    },
+    {
+      "id": "C47",
+      "source_lines": [
+        31,
+        32
+      ],
+      "check": "ألا ترى الى ما نبه النبي عليه السلام بقوله ان الله كتب كتابا وجعله فوق عرشه: rhetorical question, second short honorific, God writes/places, writing, above His Throne.",
+      "english_evidence": "Do you not see; Prophet, peace be upon him; God wrote a writing and placed it above His Throne.",
+      "indonesian_evidence": "Tidakkah engkau memperhatikan; Nabi, semoga salam tercurah kepadanya; Allah menulis suatu tulisan, meletakkannya di atas Arasy-Nya.",
+      "passed": true
+    },
+    {
+      "id": "C48",
+      "source_lines": [
+        32
+      ],
+      "check": "ان رحمتي سبقت غضبي: embedded divine first-person mercy/wrath quote and temporal precedence, not invented quantity or alternate formula.",
+      "english_evidence": "My mercy has preceded My wrath.",
+      "indonesian_evidence": "Rahmat-Ku telah mendahului murka-Ku.",
+      "passed": true
+    },
+    {
+      "id": "C49",
+      "source_lines": [
+        32,
+        33
+      ],
+      "check": "وقوله عليه السلام في سعد بن معاذ الانصاري الذي اهتز العرش عند موته: third short honorific, full name and Throne shaking at his death.",
+      "english_evidence": "his saying, peace be upon him; Saʿd ibn Muʿādh al-Anṣārī; at whose death Throne shook.",
+      "indonesian_evidence": "sabdanya, semoga salam tercurah kepadanya; Saʿd ibn Muʿādh al-Anṣārī; ketika wafatnya Arasy berguncang.",
+      "passed": true
+    },
+    {
+      "id": "C50",
+      "source_lines": [
+        33
+      ],
+      "check": "وذلك الا على فهذا يدل على ما يظهر من: corrupt illā ʿalā retained and marked, inference and unfinished final min/from preserved.",
+      "english_evidence": "and that, except upon; incomplete-construction note; ends This indicates what appears from.",
+      "indonesian_evidence": "dan hal itu, kecuali atas; incomplete-construction note; ends Ini menunjukkan apa yang tampak dari.",
+      "passed": true
+    },
+    {
+      "id": "C51",
+      "source_lines": [
+        27,
+        31,
+        32
+      ],
+      "check": "All three عليه السلام occurrences, one across L31-L32, use short peace-only honorifics; no imported blessings formula.",
+      "english_evidence": "Whitespace-normalized exact count: three peace be upon him, matching source.",
+      "indonesian_evidence": "Whitespace-normalized exact count: three semoga salam tercurah kepadanya, matching source.",
+      "passed": true
+    },
+    {
+      "id": "C52",
+      "source_lines": "1-33",
+      "check": "Complete independent source-to-each-target semantic audit under entire style file; clauses, repetitions, numbers, Names, formulas, negations, exceptions, pronouns and actors; Latin-only targets, source-attributed claims, no remembered-verse repair.",
+      "english_evidence": "Complete English read against all Arabic, not diff only; all 13 uncertainty notes checked in context; no Arabic script, invented completion or missing clause found.",
+      "indonesian_evidence": "Complete Indonesian independently evaluated from all Arabic, not inferred from English; 13 localized uncertainty notes checked; no Arabic script, invented completion or missing clause found.",
+      "passed": true
+    }
+  ],
+  "findings": [],
+  "accepted_source_uncertainties": [
+    {
+      "source_lines": [
+        7
+      ],
+      "source": "والشهداء أحياء عندهم يرزقون",
+      "reason": "Literal plural with them/di sisi mereka has no clear referent. Both retain it with a note; no remembered-verse substitution."
+    },
+    {
+      "source_lines": [
+        13
+      ],
+      "source": "والحاء والشين باردان بإنسان طبع التراب",
+      "reason": "b-insān is present but its connection is unclear. Both retain it with limited human-related gloss; cold ḥāʾ/shīn and earth remain."
+    },
+    {
+      "source_lines": [
+        16
+      ],
+      "source": "في آخر مرتبة السر العلم المغنى",
+      "reason": "Rank/secret/knowledge/al-mughnā relations and final reading/function are insecure. Both preserve the full sequence with a localized warning."
+    },
+    {
+      "source_lines": [
+        18
+      ],
+      "source": "لاحاطة الشين عن سواه",
+      "reason": "Encompassing/prepositional relation is opaque. Both retain encompassing and ʿan siwāhu with limited literal gloss, not a repaired relation."
+    },
+    {
+      "source_lines": [
+        18
+      ],
+      "source": "وسر الثاء فما دونه",
+      "reason": "Thāʾ-secret and what is below it are present but incompletely linked. Both retain them and disclose the linkage uncertainty."
+    },
+    {
+      "source_lines": [
+        21,
+        22
+      ],
+      "source": "وليس أعلمه في أسماء الله من قام بسر الفاء الا في اسمه",
+      "reason": "Damaged first-person negative/relative construction. Both preserve know/Names/fāʾ-secret/exception and six following Names, with warning."
+    },
+    {
+      "source_lines": [
+        22
+      ],
+      "source": "وعدده الا هو",
+      "reason": "Numeral slot literally contains except He/selain Dia, not a numeric value. Both retain it and flag absent value without supplying one."
+    },
+    {
+      "source_lines": [
+        25
+      ],
+      "source": "شهادة الملك",
+      "reason": "Unvocalized al-m-l-k admits king/dominion/angel readings. Both retain transliteration and alternatives, not a canonical angelic plural."
+    },
+    {
+      "source_lines": [
+        27,
+        28
+      ],
+      "source": "فيقال له حتى تغفر بها",
+      "reason": "ḥattā/until/hingga linkage, forgiveness addressee and instrumental referent remain unclear. Revision2 names only these actual uncertainties, not an absent preceding command; both preserve the literal clause."
+    },
+    {
+      "source_lines": [
+        28
+      ],
+      "source": "ان العباد لا يتصور في أذهانهم ولا يتكيف في عقولهم",
+      "reason": "Subject of two negative predicates is unexpressed. Both disclose [He/it] or [Dia/hal itu], preserving negations and minds/intellects."
+    },
+    {
+      "source_lines": [
+        29
+      ],
+      "source": "ذو العرش المجيد",
+      "reason": "Unmarked adjective can qualify Possessor or Throne. Both retain glorious/mulia and disclose attachment uncertainty."
+    },
+    {
+      "source_lines": [
+        31
+      ],
+      "source": "وأبرم حكمته في رعيته",
+      "reason": "Actor is not expressly identified amid analogy references. Both preserve wisdom-establishing action and subjects, marking actor uncertainty."
+    },
+    {
+      "source_lines": [
+        33
+      ],
+      "source": "وذلك الا على فهذا يدل على ما يظهر من",
+      "reason": "illā ʿalā is incomplete; final min continues beyond page. Both retain problem words with a note and leave final clause unfinished."
+    }
+  ],
+  "summary": "APPROVED for these revision2 bytes only. Fresh complete Arabic-to-English and Arabic-to-Indonesian semantic review, with the entire style file read, yields 52 passing coverage checks and no actionable translation findings. All 33 logical source lines, eight divider positions, quantities, ordered Names, testimonies, formulas, three peace-only honorifics, negation/exception chains, actor/pronoun relations and the unfinished ending are covered. Thirteen accepted uncertainties belong to the frozen Arabic witness, not unresolved target errors. The revision2 L28 note removes the rejected preceding-command diagnosis while preserving actual linkage/addressee/instrumental uncertainty. All five raw SHA-256 pins matched before and after the complete review; page109 reader ar/en/id equals the reviewed blocks. Only Legacy604V2 was reviewed; paused616V3 excluded. No corpus, tracker or prior rejection was edited; this new artifact does not relabel revision1."
+}

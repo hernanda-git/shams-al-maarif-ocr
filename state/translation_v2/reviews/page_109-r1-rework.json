@@ -1,0 +1,400 @@
+{
+  "page": 109,
+  "passed": false,
+  "verdict": "REWORK",
+  "reviewer_role": "independent-model-semantic-reviewer",
+  "source_hashes": {
+    "ocr/enriched/page_109.txt": "512c654ba51518588cd54da38136287a5d87d92407ccb5f362f4743ac4444aed",
+    "ocr/enriched_en/page_109.txt": "c2f7622ce884d7ff2e58dc2dbd36e853ad7d8434bb3b86cb76d50e6797b519d3",
+    "ocr/enriched_id/page_109.txt": "9be806488de43c9eb13f246af5a866ba25576683c0a3c446e87da85b3528af55",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "abaa143f93ab3e0711f4b1513992608c81d6a973dcaf88151a323f2424d0e95e"
+  },
+  "coverage": [
+    {
+      "id": "C01",
+      "source_lines": [1, 2],
+      "check": "Physical page 109 remains distinct from printed folio; literal ASCII-hyphen folio and blank line preserved.",
+      "passed": true,
+      "english_evidence": "EN L36-37: '- 103 -', then blank.",
+      "indonesian_evidence": "ID L36-37: '- 103 -', then blank."
+    },
+    {
+      "id": "C02",
+      "source_lines": [1, 33],
+      "check": "Complete source and both complete targets have 33 logical lines, including blank line 2; all eight U+06DE dividers survive in order as Latin codepoint tokens, with an explicit explanatory note.",
+      "passed": true,
+      "english_evidence": "EN L36-68: 33 target lines; eight [U+06DE] tokens; note at L38.",
+      "indonesian_evidence": "ID L36-68: 33 target lines; eight [U+06DE] tokens; Indonesian note at L38."
+    },
+    {
+      "id": "C03",
+      "source_lines": [3, 4],
+      "check": "Seven letters divide between good and evil; good example and al-Khabir Name retained without restricting the claim to good alone.",
+      "passed": true,
+      "english_evidence": "EN L38-39: seven, some good/some evil, divine awareness quotation and al-Khabīr.",
+      "indonesian_evidence": "ID L38-39 independently retains tujuh, kebaikan/keburukan, awareness quotation and al-Khabīr."
+    },
+    {
+      "id": "C04",
+      "source_lines": [4, 6],
+      "check": "Both adornment quotations, 'the verse', blossoms indicating sound fruit, and trees adorned with fruits retained in sequence.",
+      "passed": true,
+      "english_evidence": "EN L39-41: lowest heaven/lamps, love of desires, blossoms and trees/fruits.",
+      "indonesian_evidence": "ID L39-41: langit paling dekat/pelita, kecintaan/keinginan, bunga and pohon/buah."
+    },
+    {
+      "id": "C05",
+      "source_lines": [6, 7],
+      "check": "Shin associates with al-Shahid and testimony; God-bears-witness formula and witnessing as direct seeing retained.",
+      "passed": true,
+      "english_evidence": "EN L41-42: shīn, al-Shahīd, testimony, no god but He, direct seeing.",
+      "indonesian_evidence": "ID L41-42: shīn, al-Shahīd, persaksian, selain Dia, melihat secara langsung."
+    },
+    {
+      "id": "C06",
+      "source_lines": [7],
+      "check": "Martyrs remain alive 'with them' and provided for; canonical عندهم is not repaired to عند ربهم.",
+      "passed": true,
+      "english_evidence": "EN L42: 'with them' and referent uncertainty; no inserted Lord.",
+      "indonesian_evidence": "ID L42: 'di sisi mereka' and unclear referent; no inserted Tuhan."
+    },
+    {
+      "id": "C07",
+      "source_lines": [7, 9],
+      "check": "Drinking, cup, camphor AND Salsabil, explanatory spring quotation, and healing/mercy quotation remain separate and complete; no remembered-verse repair.",
+      "passed": true,
+      "english_evidence": "EN L42-44 preserves joined camphor/Salsabīl and healing/mercy for believers.",
+      "indonesian_evidence": "ID L42-44 preserves kafur dan Salsabīl and penyembuh/rahmat for believers."
+    },
+    {
+      "id": "C08",
+      "source_lines": [9, 10],
+      "check": "Za associations: extended shade, manifestation, departures toward the desired, and al-Zahir.",
+      "passed": true,
+      "english_evidence": "EN L44-45: all three associations and al-Ẓāhir.",
+      "indonesian_evidence": "ID L44-45: naungan, penampakan, keberangkatan menuju yang dicari, al-Ẓāhir."
+    },
+    {
+      "id": "C09",
+      "source_lines": [10, 12],
+      "check": "Fa associations and all four quotation fragments retained: origination, fruit, fissures; God's disposition, originating heavens/earth, fissures question, enjoyment with spouses.",
+      "passed": true,
+      "english_evidence": "EN L45-47: entire chain, including the question and spouses.",
+      "indonesian_evidence": "ID L45-47: entire chain, including Fitrah, question, and pasangan-pasangan."
+    },
+    {
+      "id": "C10",
+      "source_lines": [12, 13],
+      "check": "Tha, zay, jim are cold, water/moon-nature; that nature belongs to extended shade and Garden of Eternity.",
+      "passed": true,
+      "english_evidence": "EN L47-48 retains all three letters, cold, water, moon, shade, Garden.",
+      "indonesian_evidence": "ID L47-48 retains all three letters, dingin, air, bulan, naungan, Surga Kekekalan."
+    },
+    {
+      "id": "C11",
+      "source_lines": [13],
+      "check": "Ha and shin are cold and earth-natured; anomalous b-insan remains represented, not normalized into dryness.",
+      "passed": true,
+      "english_evidence": "EN L48: Ḥāʾ/shīn, cold, b-insān with local ambiguity, earth.",
+      "indonesian_evidence": "ID L48: Ḥāʾ/shīn, dingin, b-insān with Indonesian ambiguity, tanah."
+    },
+    {
+      "id": "C12",
+      "source_lines": [13, 14],
+      "check": "Qaf/za are hot-moist; fa hot-dry/fire; bright-body association stays Red and Sun, without identifying Red as an unstated planet.",
+      "passed": true,
+      "english_evidence": "EN L48-49: qāf/ẓāʾ hot/moist, fāʾ hot/dry/fire, Red and Sun.",
+      "indonesian_evidence": "ID L48-49: panas/lembap, panas/kering/api, Yang Merah/matahari."
+    },
+    {
+      "id": "C13",
+      "source_lines": [14, 15],
+      "check": "First seven-Name list is complete and ordered, with alternate al-Shahid preserved separately.",
+      "passed": true,
+      "english_evidence": "EN L49-50: al-Thābit, al-Jabbār, al-Khabīr, al-Zakī, al-Ẓāhir, al-Fard, al-Shakūr; alternate al-Shahīd.",
+      "indonesian_evidence": "ID L49-50: same seven in source order and 'atau, dikatakan, al-Shahīd'."
+    },
+    {
+      "id": "C14",
+      "source_lines": [15, 16],
+      "check": "Tha exclusion permits only al-Warith/al-Baith; anomalous last-rank/secret/knowledge/al-mughna sequence remains visibly uncertain rather than repaired from the earlier list.",
+      "passed": true,
+      "english_evidence": "EN L50-51: does not appear except the two Names; rank/secret/knowledge/al-mughnā and explicit uncertainty.",
+      "indonesian_evidence": "ID L50-51: tidak muncul/kecuali the same two; martabat/rahasia/ilmu/al-mughnā with uncertainty."
+    },
+    {
+      "id": "C15",
+      "source_lines": [16, 17],
+      "check": "Gathering belongs to al-Baith, sufficiency to al-Warith, and neither Name has suluk.",
+      "passed": true,
+      "english_evidence": "EN L51-52: gathering/Bāʿith; sufficiency/Wārith; 'no sulūk'.",
+      "indonesian_evidence": "ID L51-52: pengumpulan/Bāʿith; kecukupan/Wārith; 'tidak memiliki sulūk'."
+    },
+    {
+      "id": "C16",
+      "source_lines": [17, 18],
+      "check": "FIRST alphabet-wide three-dot exclusion is retained: no letter except tha and shin.",
+      "passed": true,
+      "english_evidence": "EN L52-53: none marked with three dots except thāʾ and shīn.",
+      "indonesian_evidence": "ID L52-53: tidak ada ... tiga titik kecuali thāʾ dan shīn."
+    },
+    {
+      "id": "C17",
+      "source_lines": [18],
+      "check": "Encompassing explanation retains an siwahu, tha's secret, and what is below it without reversing the preposition into an unqualified 'all others'.",
+      "passed": true,
+      "english_evidence": "EN L53: ʿan siwāhu retained with relational ambiguity; secret and below-it clause remain.",
+      "indonesian_evidence": "ID L53: ʿan siwāhu, local ambiguity, rahasia and di bawahnya retained."
+    },
+    {
+      "id": "C18",
+      "source_lines": [18, 19],
+      "check": "Special-property exclusion is limited to lower-body science; dry-letter claim and earth/pegs/mountains analogy retained.",
+      "passed": true,
+      "english_evidence": "EN L53-54: 'no special property except', lower bodies, dry, pegs/mountains.",
+      "indonesian_evidence": "ID L53-54: 'tidak mempunyai kekhususan kecuali', jasad bawah, kering, pasak/gunung."
+    },
+    {
+      "id": "C19",
+      "source_lines": [19, 21],
+      "check": "Fa acts in heat letters, has fifth degree of heat, and its form is considered in ba.",
+      "passed": true,
+      "english_evidence": "EN L54-56: hot fāʾ, heat-letter operation, fifth degree, form in bāʾ.",
+      "indonesian_evidence": "ID L54-56: fāʾ panas, work among hot letters, derajat kelima, bentuk in bāʾ."
+    },
+    {
+      "id": "C20",
+      "source_lines": [21],
+      "check": "Digit-based 80 by 80 table description retained without inventing table cells or a diagram.",
+      "passed": true,
+      "english_evidence": "EN L56: 'Its numerical table is 80 by 80'; no fabricated grid.",
+      "indonesian_evidence": "ID L56: 'Tabel bilangannya ialah 80 kali 80'; no fabricated grid."
+    },
+    {
+      "id": "C21",
+      "source_lines": [21, 22],
+      "check": "Damaged knowledge/standing-by-secret clause retains the first-person negative and exception; later fa-Name list and Hasb are complete.",
+      "passed": true,
+      "english_evidence": "EN L56-57: 'I do not know' / 'except'; damage marked; al-Fāṭir, al-Fāʿil, al-Fāliq, al-Fard, al-Fattāḥ, Ḥasb.",
+      "indonesian_evidence": "ID L56-57: 'Aku tidak mengetahui' / 'kecuali'; damage marked; same five Names plus Ḥasb."
+    },
+    {
+      "id": "C22",
+      "source_lines": [22, 23],
+      "check": "Shin remains cold; its anomalous numerical expression illa huwa has no invented value; shin's secret AND confirmation retained.",
+      "passed": true,
+      "english_evidence": "EN L57-58: cold, number 'except He' with no-value note, secret and confirmation.",
+      "indonesian_evidence": "ID L57-58: dingin, bilangan 'selain Dia' with no-value note, rahasia and pembenaran."
+    },
+    {
+      "id": "C23",
+      "source_lines": [23],
+      "check": "SECOND alphabet-wide exclusion independently survives: none with three marks AND three forms except it; not collapsed into the earlier dot claim.",
+      "passed": true,
+      "english_evidence": "EN L58: distinct 'three marks and three forms except it'.",
+      "indonesian_evidence": "ID L58: distinct 'tiga tanda dan tiga bentuk kecuali huruf itu'."
+    },
+    {
+      "id": "C24",
+      "source_lines": [23, 24],
+      "check": "Shin combines essence/ranks of units, tens, hundreds; description in shahida Allah and branching into digit 3 testimonies preserved.",
+      "passed": true,
+      "english_evidence": "EN L58-59: units/tens/hundreds, 'God bears witness', '3 testimonies'.",
+      "indonesian_evidence": "ID L58-59: satuan/puluhan/ratusan, 'Allah bersaksi', '3 persaksian'."
+    },
+    {
+      "id": "C25",
+      "source_lines": [24, 25],
+      "check": "All three testimony categories preserved; unvocalized al-m-l-k not silently repaired to remembered plural angels; others-than-them and later rank of knowledge remain.",
+      "passed": true,
+      "english_evidence": "EN L59-60: al-m-l-k with king/dominion/angel alternatives; knowledge-holders; others; knowledge placed last.",
+      "indonesian_evidence": "ID L59-60: al-m-l-k with raja/kerajaan/malaikat alternatives; orang berilmu; selain mereka; terakhir."
+    },
+    {
+      "id": "C26",
+      "source_lines": [25, 26],
+      "check": "Directions of the two affirmations of oneness are not inverted: highest from the Real TO us; manifest in traces FROM us to God.",
+      "passed": true,
+      "english_evidence": "EN L60-61: Real to us versus us to God.",
+      "indonesian_evidence": "ID L60-61: Yang Haq kepada kita versus kita kepada Allah."
+    },
+    {
+      "id": "C27",
+      "source_lines": [26],
+      "check": "All oneness gathered in the Throne, explicitly glossed as light of being one.",
+      "passed": true,
+      "english_evidence": "EN L61: 'All', 'Throne', 'I mean the light of being one'.",
+      "indonesian_evidence": "ID L61: 'Seluruh', 'Arasy', 'yang kumaksud ialah cahaya menjadi satu'."
+    },
+    {
+      "id": "C28",
+      "source_lines": [27, 28],
+      "check": "Prophet attribution, reciter, full no-god-but-God formula, restrictive ascent to Throne, shaking, speech to it and until-forgiveness fragment retained.",
+      "passed": true,
+      "english_evidence": "EN L62-63: formula, ascends only to Throne, shakes, 'to it', 'until you forgive through it'.",
+      "indonesian_evidence": "ID L62-63: formula, hanya naik ke Arasy, berguncang, kepadanya, 'hingga engkau mengampuni dengannya'."
+    },
+    {
+      "id": "C29",
+      "source_lines": [28],
+      "check": "Translator-note claims must not diagnose an omitted governing expression specifically as a preceding command when the Arabic supplies no imperative or evidence requiring one.",
+      "passed": false,
+      "english_evidence": "EN L63 note: 'the preceding command ... [is] unspecified' introduces an unsupported command presupposition; see F01.",
+      "indonesian_evidence": "ID L63 note: 'perintah sebelumnya ... tidak dijelaskan' makes the same unsupported specification; see F01."
+    },
+    {
+      "id": "C30",
+      "source_lines": [28, 29],
+      "check": "Divine knowing, servants, BOTH negatives (mental conception and intellectual modality), and creation set up for them all survive; uncertain singular referent is marked.",
+      "passed": true,
+      "english_evidence": "EN L63-64: God knew; servants; '[He/it] is not conceived' and 'not given a modality'; created being.",
+      "indonesian_evidence": "ID L63-64: Allah mengetahui; hamba; '[Dia/hal itu] tidak terbayangkan' and 'tidak diberi kaifiah'; makhluk."
+    },
+    {
+      "id": "C31",
+      "source_lines": [29],
+      "check": "Created being is from among them, placed in highest stations, ascribed to God Himself, followed by Possessor/Throne/glorious quotation; uncertain adjective attachment not silently fixed.",
+      "passed": true,
+      "english_evidence": "EN L64: from among them, highest stations, Himself, quotation and qualification uncertainty.",
+      "indonesian_evidence": "ID L64: dari kalangan mereka, kedudukan tertinggi, Diri-Nya, quotation and uncertainty."
+    },
+    {
+      "id": "C32",
+      "source_lines": [30],
+      "check": "Throne/chamberlain analogy retains created intermediary versus king, exclusion of all viewers except chamberlain, and chamberlain conveying petitioners' needs to king.",
+      "passed": true,
+      "english_evidence": "EN L65: lowercase king/chamberlain; only chamberlain sees king and conveys needs to king.",
+      "indonesian_evidence": "ID L65: raja/penjaga pintu; no one except penjaga pintu; needs conveyed kepada raja."
+    },
+    {
+      "id": "C33",
+      "source_lines": [31],
+      "check": "Wisdom made firm among subjects, uncertain actor, king's existence and establishedness, might of sovereignty, and rhetorical attention question all retained without turning earthly king into an asserted divine capitalized actor.",
+      "passed": true,
+      "english_evidence": "EN L66: wisdom/subjects, actor note, lowercase king/his, existence/establishedness/might, 'Do you not see'.",
+      "indonesian_evidence": "ID L66: hikmah/rakyat, actor note, raja, keberadaan/ketetapan/kemuliaan kekuasaan, rhetorical question."
+    },
+    {
+      "id": "C34",
+      "source_lines": [31, 32],
+      "check": "Prophet's saying attributes writing and placing the writing ABOVE His Throne to God; quoted mercy precedes wrath, not vice versa.",
+      "passed": true,
+      "english_evidence": "EN L66-67: God wrote/placed above His Throne; 'My mercy has preceded My wrath'.",
+      "indonesian_evidence": "ID L66-67: Allah menulis/meletakkan di atas Arasy-Nya; 'Rahmat-Ku telah mendahului murka-Ku'."
+    },
+    {
+      "id": "C35",
+      "source_lines": [27, 32],
+      "check": "All three short Prophet honorifics remain peace-only, including the line-wrapped middle occurrence; no blessings addition from glossary convention.",
+      "passed": true,
+      "english_evidence": "EN L62, L66-67, L67: peace-only formula at all three source occurrences.",
+      "indonesian_evidence": "ID L62, L66-67, L67: semoga salam at all three occurrences, without selawat."
+    },
+    {
+      "id": "C36",
+      "source_lines": [32, 33],
+      "check": "Second saying names Sad ibn Muadh al-Ansari fully; Throne shakes at his death, not a newly invented event or actor.",
+      "passed": true,
+      "english_evidence": "EN L67-68: Saʿd ibn Muʿādh al-Anṣārī; at whose death the Throne shook.",
+      "indonesian_evidence": "ID L67-68: same full name; ketika wafatnya Arasy berguncang."
+    },
+    {
+      "id": "C37",
+      "source_lines": [33],
+      "check": "Anomalous illā ala remains explicitly incomplete; final inference remains unfinished 'what appears from' without importing the next page or supplying a conclusion.",
+      "passed": true,
+      "english_evidence": "EN L68: 'except upon' with incomplete-construction note; ends 'what appears from'.",
+      "indonesian_evidence": "ID L68: 'kecuali atas' with incomplete-construction note; ends 'apa yang tampak dari'."
+    },
+    {
+      "id": "C38",
+      "source_lines": [1, 33],
+      "check": "Canonical Arabic prefixes and frozen reader's original Arabic remain source-identical; neither target contains Arabic script; no source repair or V3/616-page import.",
+      "passed": true,
+      "english_evidence": "Programmatic prefix equality after permitted outer trim; reader page 109 ar equals original source text exactly; EN target is Latin script.",
+      "indonesian_evidence": "Independent prefix equality after permitted outer trim; ID target is Latin script; frozen reader is 604 records."
+    },
+    {
+      "id": "C39",
+      "source_lines": [1, 33],
+      "check": "Reader page 109 target blocks match the reviewed complete files; five pinned raw hashes match before and after review; review does not mutate corpus or tracker.",
+      "passed": true,
+      "english_evidence": "Frozen reader text.en equals complete English block after outer trim; raw EN and other four pinned inputs unchanged.",
+      "indonesian_evidence": "Frozen reader text.id equals complete Indonesian block after outer trim; raw ID and other four pinned inputs unchanged."
+    }
+  ],
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "languages": ["en", "id"],
+      "source_lines": [28],
+      "target_lines": [63],
+      "source_evidence": "فيقال له حتى تغفر بها",
+      "english_evidence": "The uncertainty note specifically refers to 'the preceding command'.",
+      "indonesian_evidence": "The corresponding note specifically refers to 'perintah sebelumnya'.",
+      "explanation": "The source supplies an incomplete reported-speech/until construction, but neither an imperative nor evidence fixing any omitted governing material as a command. The note's uncertainty about what that command was does not support its presupposition that the missing material was a command. A missing declarative governing expression is also possible. The translated fragment and the other two uncertainties in this note are not themselves rejected.",
+      "required_resolution": "Remove the unsupported command diagnosis in both notes, or refer neutrally to an unclear governing expression/linkage. Retain the source fragment and uncertainties about the addressee and instrumental pronoun; do not invent the missing speech."
+    }
+  ],
+  "accepted_source_uncertainties": [
+    {
+      "source_lines": [7],
+      "detail": "عندهم has an unidentified plural referent. Both targets preserve 'with them/di sisi mereka', not a remembered 'with their Lord'."
+    },
+    {
+      "source_lines": [8],
+      "detail": "Camphor and Salsabil remain joined as canonical text presents them. No external verse text was substituted."
+    },
+    {
+      "source_lines": [13],
+      "detail": "بإنسان is locally retained as b-insan with uncertain connection. Earth-nature and coldness remain; dryness was not substituted for the anomaly."
+    },
+    {
+      "source_lines": [14],
+      "detail": "The Red celestial association is retained without importing an unstated Mars identification."
+    },
+    {
+      "source_lines": [15, 17],
+      "detail": "The source's only-two-Names assertion and its awkward rank/secret/knowledge/al-mughna sequence remain. Both targets mark the damaged connection and reading rather than reconcile the assertion against the preceding al-Thabit list."
+    },
+    {
+      "source_lines": [18, 19],
+      "detail": "The encompassing/an siwahu/secret/below-it linkage and pronoun referents are uncertain. Retention plus local notes is adequate; no corrected cosmology is required."
+    },
+    {
+      "source_lines": [21, 22],
+      "detail": "The first-person knowledge/standing-by-fa-secret construction is damaged. Both targets preserve negative, exception and complete later Name list while identifying the local defect."
+    },
+    {
+      "source_lines": [22, 23],
+      "detail": "Numeral-context illa huwa is translated literally with no numerical value supplied. Repeated shin-secret wording and the later independent three-marks/three-forms exclusion remain, despite source awkwardness."
+    },
+    {
+      "source_lines": [24, 25],
+      "detail": "Unvocalized الملك supports king/dominion/angel alternatives; both targets retain al-m-l-k with a local note. The subsequent claim that knowledge's rank is last is not repaired to match list position."
+    },
+    {
+      "source_lines": [28],
+      "detail": "The forgiveness fragment has unclear addressee and instrumental referent. Those two local uncertainties are accepted; this acceptance does not cover F01's unsupported command diagnosis."
+    },
+    {
+      "source_lines": [28, 29],
+      "detail": "The singular subject/referent of the two conception/modality negatives is not explicit; [He/it] and [Dia/hal itu] with local notes adequately expose the uncertainty."
+    },
+    {
+      "source_lines": [29],
+      "detail": "The unvocalized glorious epithet's attachment is left open between Possessor and Throne. No familiar quotation reading is imposed."
+    },
+    {
+      "source_lines": [31],
+      "detail": "The wisdom-clause actor is not explicitly named. Both targets expose that uncertainty while keeping the chamberlain/king analogy and lowercase earthly actors."
+    },
+    {
+      "source_lines": [33],
+      "detail": "Illā ala is incomplete as supplied. Both targets retain that anomaly and the final unfinished 'what appears from' rather than repair or complete the source."
+    }
+  ],
+  "summary": "Independently compared the complete frozen physical V2 page 109 Arabic directly with each complete target and read the complete style contract. Thirty-nine explicit coverage checks span every source line/clause plus structure and reader integrity. Main translated content is substantively faithful, including all enumerations, associations, negatives, exceptions, repeated claims and canonical anomalies. REWORK is limited to one unsupported grammar diagnosis inside both L63 uncertainty notes (F01); marked source uncertainty elsewhere is accepted, not treated as mistranslation. All five pinned raw hashes matched before and after review. Canonical Arabic, targets, frozen reader and tracker were not edited; only this original hash-bound review artifact was created. This is a review decision, not a tracker approval."
+}
