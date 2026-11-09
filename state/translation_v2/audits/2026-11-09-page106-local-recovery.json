@@ -1,0 +1,108 @@
+{
+  "recorded_at": "2026-11-09T04:27:00.378753+00:00",
+  "page": 106,
+  "status": "approved",
+  "terminal_complete": false,
+  "commit_authorized": false,
+  "commits_performed": [],
+  "published": false,
+  "next_unfinished_page": 106,
+  "next_after_authorized_commit": 107,
+  "tracker_counts": {
+    "committed": 105,
+    "approved": 1,
+    "pending": 498
+  },
+  "reviewer_agent_id": "sa-0-5a85e357",
+  "review_delegation_id": "deleg_7a1eed0c",
+  "review_decision_sha256": "316837bb4d65c944a4c1b91475d552f9bdf7a7a3a6696b75e025af3e74cc0235",
+  "review_coverage_items": 32,
+  "review_findings": [],
+  "accepted_source_uncertainties": [
+    {
+      "source_lines": [
+        3
+      ],
+      "source_span": "المشفقة على أهلها",
+      "nature": "Page-opening feminine adjective has no antecedent on this page.",
+      "handling": "Both targets retain the readable fragment and locally identify the absent feminine antecedent. No neighboring page was consulted."
+    },
+    {
+      "source_lines": [
+        5
+      ],
+      "source_span": "يا بقيتي",
+      "nature": "The sense of this canonical invocation is unusual.",
+      "handling": "Both preserve the literal readable word as remnant/sisaku and explicitly note the obscure address. I do not certify a different letter reading from the scan or replace it with an expected devotional formula."
+    },
+    {
+      "source_lines": [
+        12
+      ],
+      "source_span": "ذل الملك من الوزير ووضعه على كتفه",
+      "nature": "The relation after ذل and the object's and shoulder's referents are locally uncertain in canonical OCR.",
+      "handling": "Both targets retain the king, minister, humbled action, putting him/it, and shoulder, with local notes. The notes do not suppress all readable words or assert a reconstructed scene.",
+      "scan_discrepancy": "The matching scan visibly appears to read دنا الملك من الوزير ووضع يده على كتفه, including a separate يده where canonical has only the suffix in ووضعه. This is supplementary scan evidence, not an authorized correction to OCR or either translation."
+    },
+    {
+      "source_lines": [
+        13
+      ],
+      "source_span": "يا أصل عماد الملك",
+      "nature": "Unusual but compositionally readable canonical vocative; the scan appears to have a different phrase.",
+      "handling": "Both targets translate the canonical words literally as root/pangkal, pillar/tiang, and kingship/kerajaan. The unusual wording is not by itself a translation defect and was not silently replaced.",
+      "scan_discrepancy": "The matching scan appears to read سل عما بدا لك in this location rather than canonical يا أصل عماد الملك. This apparent discrepancy is disclosed here only; the scan does not govern the target text."
+    },
+    {
+      "source_lines": [
+        16
+      ],
+      "source_span": "والأدعية تدعوه بها",
+      "nature": "The invocation's object pronoun has no explicit named antecedent in the local clause, though its devotional context is evident.",
+      "handling": "Both retain the object pronoun and locally mark the antecedent as not explicit. This is conservative fidelity, not omission of a legible divine name from this clause."
+    },
+    {
+      "source_lines": [
+        16
+      ],
+      "source_span": "انه كان فقيه له هو الذي علمني القرآن",
+      "nature": "Canonical third-person له is awkward within the minister's first-person account.",
+      "handling": "For him/baginya with a local antecedent note preserves canonical له. Both clearly identify the jurist as Quran teacher and next speaker; neither silently changes the possessive to my.",
+      "scan_discrepancy": "The matching scan appears to read كان فقيه لي هو الذي علمني القرآن, with first-person لي rather than canonical له. This is disclosed without importing it into the targets."
+    },
+    {
+      "source_lines": [
+        33,
+        34
+      ],
+      "source_span": "قل هل يستوي الأعمى",
+      "nature": "Final comparison is unfinished on this physical page.",
+      "handling": "Both preserve only the supplied command, question and blind person. The scan likewise places الأعمى at the bottom boundary. No completion from another page, edition, internet source or remembered scripture was used."
+    }
+  ],
+  "file_hashes": {
+    "ocr/enriched/page_106.txt": "7781d94311187145e8534ac177d9e084c772749f205a06eb55f853ed3c452980",
+    "ocr/enriched_en/page_106.txt": "d26599537582d5bc0977280510d24b66d322fbbabcc5e3cfa0563c364a4988eb",
+    "ocr/enriched_id/page_106.txt": "66015b141e2e156f6ef7eaef554f0f7d93ff8b5a841f5d66834a1ce29328c02e"
+  },
+  "candidate_reader_sha256": "3543b18ef64b6ce182d5209d8a735381a0de0a35ddaaa07bab65177a0aab98e3",
+  "candidate_root": "C:\\Working Folder\\Research\\shams-v2-recovery\\20261109-page106\\candidate-r1",
+  "live_reader_unchanged": true,
+  "head_index_unchanged": true,
+  "canonical_and_v3_inventory_unchanged": true,
+  "protected_wip_unchanged_except_owned_tracker_events_lock": true,
+  "lock_retained_by_supported_approved_state": {
+    "worker_id": "hermes-v2-p106-20261109",
+    "pid": 20280,
+    "page": 106,
+    "started_at": "2026-11-09T04:19:21+00:00",
+    "heartbeat_at": "2026-11-09T04:26:56+00:00"
+  },
+  "validation_evidence": "validation-r1.json",
+  "accepted_page_sweep": "105/105 pass",
+  "triage_evidence": "triage-r1.json",
+  "tests_evidence": "tests-full-r1.txt",
+  "tests_result": "332 passed, 49 subtests passed in 69.96s",
+  "new_editorial_selection": [],
+  "boundary": "No content/checkpoint commits authorized. Do not record-commit, claim 107, push or publish. Frozen candidate reader has not replaced live reader."
+}

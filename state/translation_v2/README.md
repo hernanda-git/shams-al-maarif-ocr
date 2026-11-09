@@ -217,3 +217,8 @@ Physical page **105** has complete independent model review bound to the actual 
 The separate [editorial boundary](integrations/page_105.json) is committed as `e347a0d4a5235120412d6db41c52a1e33f6ad22e`. Ready new English corrections: **[]**. Existing registered editorial versions and historical review provenance remain unchanged; later live edits stay for the next boundary.
 
 Tracker: **{'committed': 105, 'pending': 499}**. Next: **page 106, pending and unclaimed**, with no active page or worker lock at this checkpoint. All 604 canonical raw hashes, titles, scan references, unselected records, historical event prefixes and protected WIP pass preservation checks. Frozen candidate: **332 tests / 49 subtests passed in 82.96 seconds**. Publication uses isolated candidate commits, compare-and-swap ref promotion and explicit index-only refresh. Every batch commit contains `[skip ci]` to suppress the push-triggered deployment workflow. No deployment, historical PDF rebuild or live-reader verification is claimed. Exact remote readback follows this checkpoint commit.
+
+
+### Resumed page 106 checkpoint - 2026-11-09
+
+Page **106** was recovered from interrupted drafts and independently reviewed without replacing correct text. See [publication checkpoint](audits/2026-11-09-page106-publication.md) and [hash-bound receipt](audits/2026-11-09-page106-publication.json). Tracker: **106 committed / 498 pending**; next **107 pending and unclaimed**, no active page or worker lock. V3 and unrelated PDF work remain untouched. Publication is authorized for this page106 batch; deployment is not authorized. The earlier local-only audit remains historical.

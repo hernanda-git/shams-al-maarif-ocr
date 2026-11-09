@@ -1,0 +1,495 @@
+APPROVED PAGE 106/604
+
+Independent model review: `sa-0-5a85e357`, delegation `deleg_7a1eed0c`.
+
+I independently read the complete frozen canonical Arabic page and compared every recoverable clause directly with each complete English and Indonesian target. I did not author or edit these targets, consult a prior review, consult neighboring pages, access the internet, change provider/model configuration, or use remembered scripture as evidence. The coordinator's unknown earlier judgments and the targets' interrupted-draft status were not evidence of correctness or incorrectness. The matching legacy scan was inspected only as a supplementary local witness; no scan reading was silently substituted for canonical OCR. Approval concerns fidelity to this frozen OCR, not certification that its transcription matches the scan everywhere. No repository, translation, code, reader, state, Git, or V3 files were modified. This external JSON is the only review artifact written.
+
+Original structured decision is preserved byte-for-byte in `page_106-r1-approved.json`.
+
+Original decision SHA-256: `316837bb4d65c944a4c1b91475d552f9bdf7a7a3a6696b75e025af3e74cc0235`.
+
+## Reviewed raw hashes
+
+- `ocr/enriched/page_106.txt`: `7781d94311187145e8534ac177d9e084c772749f205a06eb55f853ed3c452980`
+- `ocr/enriched_en/page_106.txt`: `d26599537582d5bc0977280510d24b66d322fbbabcc5e3cfa0563c364a4988eb`
+- `ocr/enriched_id/page_106.txt`: `66015b141e2e156f6ef7eaef554f0f7d93ff8b5a841f5d66834a1ce29328c02e`
+
+## Complete coverage
+
+```json
+{
+  "item": "Printed folio and page boundary",
+  "source_lines": [
+    1,
+    2
+  ],
+  "result": "PASS",
+  "EN": "Standalone printed folio — 100 — is preserved; it is not confused with physical page 106.",
+  "ID": "Standalone printed folio — 100 — is preserved; no renumbering or missing heading is introduced."
+}
+```
+
+```json
+{
+  "item": "Unfinished opening: compassion, call, and exacting what is due",
+  "source_lines": [
+    3
+  ],
+  "result": "PASS",
+  "EN": "Retains the opening adjective as a fragment, compassion toward its people, Your true call among them, and Your exacting what is due from them. The missing feminine antecedent is locally disclosed rather than invented.",
+  "ID": "Retains the fragment, berbelas kasih kepada kaumnya, seruan-Mu yang benar, and pengambilan-Mu atas hak yang harus mereka tunaikan. The absent feminine antecedent is explicitly noted in Indonesian."
+}
+```
+
+```json
+{
+  "item": "All creation standing in fear, authority, judgment, and punishment",
+  "source_lines": [
+    3,
+    4
+  ],
+  "result": "PASS",
+  "EN": "All creatures, standing out of fear of You and the intensity of Your authority, awaiting Your judgment and fearing Your punishment are all represented, with the divine addressee stable.",
+  "ID": "Seluruh makhluk, their standing, fear of God, dahsyatnya kekuasaan-Mu, waiting for keputusan-Mu, and fear of azab-Mu are retained."
+}
+```
+
+```json
+{
+  "item": "Petition's four objects and night/day scope",
+  "source_lines": [
+    4,
+    5
+  ],
+  "result": "PASS",
+  "EN": "Light in sight, sincerity in work, gratitude in heart, and divine remembrance on the tongue by night and day are preserved without swapping their locations.",
+  "ID": "Cahaya/penglihatan, keikhlasan/amal, syukur/hati, and zikir/lidah with malam dan siang preserve all four pairings and the temporal repetition."
+}
+```
+
+```json
+{
+  "item": "Invocation يا بقيتي يا الله يارب العالمين",
+  "source_lines": [
+    5
+  ],
+  "result": "PASS",
+  "EN": "O my remnant preserves the readable canonical بقيتي and adds a local note about the obscure sense; O God and O Lord of the worlds remain. No familiar alternative is substituted.",
+  "ID": "Wahai sisaku retains the canonical reading with an Indonesian uncertainty note; wahai Allah and Tuhan semesta alam remain."
+}
+```
+
+```json
+{
+  "item": "No might/strength formula and full blessing",
+  "source_lines": [
+    6
+  ],
+  "result": "PASS",
+  "EN": "Both negated capacities, their exception through God, Most High/Magnificent, our master Muhammad, family, companions, abundant peace, and Amen are present. Blessing and peace are not reduced to a bare honorific.",
+  "ID": "Tiada daya/tiada kekuatan with kecuali, Mahatinggi/Mahaagung, junjungan kami Muhammad, family, companions, selawat, abundant salam, and Amin are all retained."
+}
+```
+
+```json
+{
+  "item": "Section heading, reported Greatest Name claim, and first qaf count",
+  "source_lines": [
+    7,
+    8
+  ],
+  "result": "PASS",
+  "EN": "Five noble verses, It is said, the Great/Greatest Name, and ten qaf occurrences in each verse preserve heading, attribution, qualifiers, number, and distributive scope. The pleasant explanation follows.",
+  "ID": "Lima ayat mulia, Dikatakan, Nama Allah Yang Agung/Yang Paling Agung, and sepuluh kemunculan huruf qāf pada setiap ayat preserve the same source claims and count."
+}
+```
+
+```json
+{
+  "item": "King's hatred, intensification, execution order and two-part trigger",
+  "source_lines": [
+    8,
+    9
+  ],
+  "result": "PASS",
+  "EN": "A king has a minister whom he hates; as the matter intensifies he orders the executioner to behead the minister when the minister comes AND the king gives the signal. Neither condition nor actor is lost.",
+  "ID": "The raja/wazir/algojo roles and increasing hostility remain; jika wazir datang dan aku memberimu isyarat preserves both prerequisites for the beheading order."
+}
+```
+
+```json
+{
+  "item": "Repeated daily reversal and dismissal of executioner",
+  "source_lines": [
+    9,
+    10
+  ],
+  "result": "PASS",
+  "EN": "Every day, minister approaches, king sees him, God Most High changes hatred to love for the minister, and king dismisses executioner. The king, not God or the minister, issues the dismissal.",
+  "ID": "Setiap hari and the same approach/gaze/divine reversal/royal dismissal sequence are preserved; the recipient of the love is the wazir."
+}
+```
+
+```json
+{
+  "item": "Long duration, ride, and difficult road-scene clauses",
+  "source_lines": [
+    11,
+    12
+  ],
+  "result": "PASS",
+  "EN": "Retains long duration, the king riding with minister, and road setting. For canonical ذل ... من and ووضعه على كتفه it retains humbled, minister relation, putting him/it, and shoulder while locally flagging relation, object, and possessor. It does not silently import the clearer scan wording.",
+  "ID": "Retains the duration, ride, company, and road; merendah, hubungan dengan wazir, meletakkan dia/itu, and bahu keep the readable canonical words, with localized Indonesian notes instead of reconstructed action."
+}
+```
+
+```json
+{
+  "item": "King's question and reassurance; minister's salutation and truth pledge",
+  "source_lines": [
+    12,
+    13
+  ],
+  "result": "PASS",
+  "EN": "King wants to ask something and says not to fear anything from him; minister's unusual canonical vocative becomes O root of the pillar of kingship and he promises truth about what is asked. Speaker changes are explicit.",
+  "ID": "Raja's question and jangan takut sedikit pun kepadaku remain. Wazir's Wahai pangkal tiang kerajaan follows canonical يا أصل عماد الملك, followed by his truth pledge; no scan-based replacement is made."
+}
+```
+
+```json
+{
+  "item": "King's confession, daily negation, secret intent, and reversal",
+  "source_lines": [
+    13,
+    14
+  ],
+  "result": "PASS",
+  "EN": "Know, O minister; not a day passes without secret intention of destruction AND killing; approach and gaze cause hatred to turn to love; request to explain the cause are all retained.",
+  "ID": "Ketahuilah, wahai wazir, tidak ada sehari pun without the destructive/killing intention, subsequent approach/gaze/reversal, and request for cause preserve the negation and paired threats."
+}
+```
+
+```json
+{
+  "item": "Demand for truth, pardon, no remaining hatred, and inquiry about devotions",
+  "source_lines": [
+    15,
+    16
+  ],
+  "result": "PASS",
+  "EN": "Truth demand, pardon already granted, no hatred remaining within, regular recitations and supplications, invocation with them, and request for the minister's account are represented. The source's pronoun in تدعوه is preserved with a local antecedent note.",
+  "ID": "Truth, prior pardon, tidak tersisa sedikit pun kebencian dalam batin, wirid/doa, and request for the account are retained. Menyeru dia keeps the pronoun without unsupported certainty and includes an Indonesian note."
+}
+```
+
+```json
+{
+  "item": "Minister's jurist/Quran teacher and the jurist's gift speech",
+  "source_lines": [
+    16,
+    17
+  ],
+  "result": "PASS",
+  "EN": "The minister addresses the king, reports a jurist for him with a note on the anomalous antecedent, identifies that jurist as the one who taught him the Quran, and explicitly names the jurist as the next speaker offering a gift one day.",
+  "ID": "Fakih baginya with a local note preserves canonical له, rather than correcting it to first person. Fakih as Quran teacher and as speaker of the gift offer is explicit, preventing speaker drift."
+}
+```
+
+```json
+{
+  "item": "Guarding gift, day/night recitation, protection, five verses and repeated count",
+  "source_lines": [
+    17,
+    18
+  ],
+  "result": "PASS",
+  "EN": "Watch over it AND safeguard it, persistent day/night recitation, safety from all enemies and anyone wishing harm, five Quran verses, and ten qafs in EACH are all retained as the jurist's attributed speech.",
+  "ID": "Awasilah AND peliharalah, persistent malam/siang reading, all enemies and ill-wishers, five Quran verses, and the second ten-qaf-per-verse assertion remain. No repeated count is collapsed."
+}
+```
+
+```json
+{
+  "item": "Persistent recitation before sunrise AND before sunset",
+  "source_lines": [
+    19
+  ],
+  "result": "PASS",
+  "EN": "Whoever perseveres, both before sunrise and before sunset, and the result of being treated graciously preserve condition, two times, and passive outcome without inventing an agent.",
+  "ID": "Barang siapa tekun, sebelum matahari terbit AND sebelum matahari terbenam, and diperlakukan dengan penuh kelembutan preserve those same elements."
+}
+```
+
+```json
+{
+  "item": "Sultan/ruler and officeholder conditional outcomes",
+  "source_lines": [
+    19,
+    20,
+    21
+  ],
+  "result": "PASS",
+  "EN": "If sultan OR ruler recites: God increases dominion and makes him beloved to entourage and subjects. If officeholder continues: God preserves his office. Actors, alternatives, continuation, and both social groups are retained.",
+  "ID": "Sultan ATAU penguasa, Allah increasing power and making him loved by pengiring and rakyat, followed by the separate continued-recitation condition for pemegang jabatan and preservation of that office, are complete."
+}
+```
+
+```json
+{
+  "item": "Person in need: recitation plus petition afterward",
+  "source_lines": [
+    21
+  ],
+  "result": "PASS",
+  "EN": "Someone with a need must recite and ask God AFTER reciting; God Most High fulfills that person's need. Timing and conjunction are not removed.",
+  "ID": "Seseorang yang mempunyai hajat, reading AND memohon kepada Allah setelah membacanya, followed by fulfillment, preserves actor and temporal condition."
+}
+```
+
+```json
+{
+  "item": "General persistence, love AND awe; king's response and learning",
+  "source_lines": [
+    21,
+    22,
+    23
+  ],
+  "result": "PASS",
+  "EN": "Whoever perseveres is beloved by all people AND held in awe. Jurist's reported teaching closes before the narrative resumes: king hears from minister, marvels, treats minister well, learns verses from him. Pronouns are correctly disambiguated.",
+  "ID": "Tekun, dicintai semua orang AND disegani are retained. Raja hears from wazir, marvels, berbuat baik to wazir, and learns from him; the nested quoted voices close at the right point."
+}
+```
+
+```json
+{
+  "item": "Five-verse introduction, first passage and basmala",
+  "source_lines": [
+    23
+  ],
+  "result": "PASS",
+  "EN": "These are the five verses and identification of the first saying are present, followed by the complete In the name of God, All-Merciful, Compassionate formula; no outside reference or extra text is added.",
+  "ID": "Inilah kelima ayat itu, yang pertama, and the complete Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang formula are retained."
+}
+```
+
+```json
+{
+  "item": "First verse: assembly after Moses, prophet, request for king and purpose",
+  "source_lines": [
+    24
+  ],
+  "result": "PASS",
+  "EN": "Assembly of Children of Israel, after Moses, prophet of theirs, request to appoint a king for them, and fighting in God's way as purpose are present. The prophet is explicitly the next questioner.",
+  "ID": "Para pemuka Bani Israil, setelah Musa, seorang nabi mereka, king appointment, and purpose of fighting di jalan Allah remain; Nabi itu correctly names the questioner."
+}
+```
+
+```json
+{
+  "item": "First verse: hypothetical non-fighting, objection, expulsion and sons",
+  "source_lines": [
+    25,
+    26
+  ],
+  "result": "PASS",
+  "EN": "Might you, IF fighting prescribed, NOT fight preserves possibility, condition and negation. Their objection repeats fighting in God's way and retains being driven from homes AND sons, without silently replacing sons with another familiar rendering.",
+  "ID": "Mungkinkah kalian, jika diwajibkan, justru tidak berperang preserves the question. Their reply repeats the religious purpose and keeps kampung halaman AND anak-anak lelaki."
+}
+```
+
+```json
+{
+  "item": "First verse: prescription, turning away, few exception and divine knowledge",
+  "source_lines": [
+    26
+  ],
+  "result": "PASS",
+  "EN": "When fighting prescribed they turn away EXCEPT a few, and God fully knows wrongdoers; temporal reversal and small exception remain.",
+  "ID": "Ketika diwajibkan, mereka berpaling kecuali sedikit, and Allah Maha Mengetahui orang-orang zalim preserve the conclusion completely."
+}
+```
+
+```json
+{
+  "item": "Second verse: hearing and nested claim of poverty/riches",
+  "source_lines": [
+    26,
+    27
+  ],
+  "result": "PASS",
+  "EN": "Second-verse label and Indeed are present. God hears the words of THOSE WHO SAID God is poor and WE are rich; quotation boundaries keep this as their assertion, not God's assertion about Himself.",
+  "ID": "Ayat kedua, Sungguh, Allah hearing perkataan orang-orang yang berkata, and their quoted Allah itu miskin dan kami kaya preserve the nested voices."
+}
+```
+
+```json
+{
+  "item": "Second verse: recording speech AND unlawful prophet-killing; punitive speech",
+  "source_lines": [
+    27,
+    28
+  ],
+  "result": "PASS",
+  "EN": "We shall write what they said AND their killing prophets without right; We shall say Taste the burning-fire punishment. The source's divine first-person plural, future actions, killing's perpetrators, and imperative are preserved.",
+  "ID": "Akan Kami tulis both speech and pembunuhan mereka terhadap para nabi tanpa hak, followed by Kami akan berfirman and Rasakanlah azab api yang membakar, retains all clauses and speakers."
+}
+```
+
+```json
+{
+  "item": "Third verse: initial three commands and fighting prescription",
+  "source_lines": [
+    28,
+    29
+  ],
+  "result": "PASS",
+  "EN": "Third-verse label, introductory question, those who were told, restrain hands, establish prayer, give zakat, and subsequent prescription of fighting are complete; no command is compressed away.",
+  "ID": "Ayat ketiga, introductory question, orang-orang yang diberi perintah, Tahanlah tangan, dirikanlah salat, tunaikanlah zakat, followed by fighting being prescribed, are complete."
+}
+```
+
+```json
+{
+  "item": "Third verse: a group's comparative fear and complaint to their Lord",
+  "source_lines": [
+    29,
+    30
+  ],
+  "result": "PASS",
+  "EN": "A group of them, fearing people as God OR even more, asks Our Lord why You prescribed fighting and why not defer us to a near term. Collective complainants, divine addressee, comparison and OR are correct.",
+  "ID": "Tiba-tiba segolongan, comparative fear ATAU even greater, Wahai Tuhan kami, and both questions about imposed fighting and postponement to waktu yang dekat retain the full sequence."
+}
+```
+
+```json
+{
+  "item": "Third verse: commanded reply, small worldly enjoyment, better hereafter, and no injustice",
+  "source_lines": [
+    30,
+    31
+  ],
+  "result": "PASS",
+  "EN": "Say, little enjoyment of this world, Hereafter better FOR whoever fears God, and you will NOT be wronged even a thread retain command, comparison, qualification, negation, and minute measure. The quotation is not completed with absent material.",
+  "ID": "Katakanlah, kesenangan dunia sedikit, akhirat lebih baik bagi orang bertakwa, and kalian tidak akan dizalimi walau seutas benang preserve scope, addressees, negation and measure."
+}
+```
+
+```json
+{
+  "item": "Fourth verse: true account, two sons, joint offering and opposed acceptance",
+  "source_lines": [
+    31,
+    32
+  ],
+  "result": "PASS",
+  "EN": "Fourth-verse label, recite TO THEM IN TRUTH the account of Adam's TWO sons, BOTH offering, acceptance from one but NOT the other are all represented.",
+  "ID": "Ayat keempat, Bacakanlah kepada mereka dengan benar, kedua putra Adam, keduanya presenting an offering, acceptance from one but not the other retain dual actors and negative contrast."
+}
+```
+
+```json
+{
+  "item": "Fourth verse: emphatic threat and exclusive divine acceptance; speaker antecedents",
+  "source_lines": [
+    32
+  ],
+  "result": "PASS",
+  "EN": "The latter, whose offering was not accepted, threatens I shall CERTAINLY kill you; the former responds God accepts ONLY from the God-fearing. Explicit latter/former labels correctly resolve the immediate narrative rather than assigning both quotes to one son.",
+  "ID": "Putra yang disebut terakhir threatens Sungguh, aku akan membunuhmu; putra yang disebut pertama replies Allah HANYA menerima dari orang bertakwa. Emphasis, exclusivity and speaker succession are correct."
+}
+```
+
+```json
+{
+  "item": "Fifth verse: Lord question and commanded answer",
+  "source_lines": [
+    32,
+    33
+  ],
+  "result": "PASS",
+  "EN": "Fifth-verse label, Say Who is Lord of heavens AND earth, and Say God are retained as question and answer, not merged into an unquoted assertion.",
+  "ID": "Ayat kelima, Katakanlah Siapakah Tuhan langit dan bumi, and repeated Katakanlah Allah preserve both commands and both domains."
+}
+```
+
+```json
+{
+  "item": "Fifth verse: protectors besides Him, double incapacity, final unfinished comparison",
+  "source_lines": [
+    33,
+    34
+  ],
+  "result": "PASS",
+  "EN": "Have you then taken protectors besides Him who possess neither benefit NOR harm FOR THEMSELVES preserves rhetorical question, divine antecedent, both negated capacities and reflexive scope. The final Say Is the blind man equal stops unfinished at the supplied page boundary; no unseen counterpart is supplied.",
+  "ID": "Apakah kalian kemudian mengambil para pelindung selain-Nya, tidak memiliki manfaat maupun mudarat bagi diri mereka sendiri retains plurality, both negatives and reflexive scope. Katakanlah Apakah sama orang yang buta remains unfinished exactly in content, with no completed comparison added."
+}
+```
+
+## Accepted source uncertainties and scan discrepancies
+
+```json
+[
+  {
+    "source_lines": [
+      3
+    ],
+    "source_span": "المشفقة على أهلها",
+    "nature": "Page-opening feminine adjective has no antecedent on this page.",
+    "handling": "Both targets retain the readable fragment and locally identify the absent feminine antecedent. No neighboring page was consulted."
+  },
+  {
+    "source_lines": [
+      5
+    ],
+    "source_span": "يا بقيتي",
+    "nature": "The sense of this canonical invocation is unusual.",
+    "handling": "Both preserve the literal readable word as remnant/sisaku and explicitly note the obscure address. I do not certify a different letter reading from the scan or replace it with an expected devotional formula."
+  },
+  {
+    "source_lines": [
+      12
+    ],
+    "source_span": "ذل الملك من الوزير ووضعه على كتفه",
+    "nature": "The relation after ذل and the object's and shoulder's referents are locally uncertain in canonical OCR.",
+    "handling": "Both targets retain the king, minister, humbled action, putting him/it, and shoulder, with local notes. The notes do not suppress all readable words or assert a reconstructed scene.",
+    "scan_discrepancy": "The matching scan visibly appears to read دنا الملك من الوزير ووضع يده على كتفه, including a separate يده where canonical has only the suffix in ووضعه. This is supplementary scan evidence, not an authorized correction to OCR or either translation."
+  },
+  {
+    "source_lines": [
+      13
+    ],
+    "source_span": "يا أصل عماد الملك",
+    "nature": "Unusual but compositionally readable canonical vocative; the scan appears to have a different phrase.",
+    "handling": "Both targets translate the canonical words literally as root/pangkal, pillar/tiang, and kingship/kerajaan. The unusual wording is not by itself a translation defect and was not silently replaced.",
+    "scan_discrepancy": "The matching scan appears to read سل عما بدا لك in this location rather than canonical يا أصل عماد الملك. This apparent discrepancy is disclosed here only; the scan does not govern the target text."
+  },
+  {
+    "source_lines": [
+      16
+    ],
+    "source_span": "والأدعية تدعوه بها",
+    "nature": "The invocation's object pronoun has no explicit named antecedent in the local clause, though its devotional context is evident.",
+    "handling": "Both retain the object pronoun and locally mark the antecedent as not explicit. This is conservative fidelity, not omission of a legible divine name from this clause."
+  },
+  {
+    "source_lines": [
+      16
+    ],
+    "source_span": "انه كان فقيه له هو الذي علمني القرآن",
+    "nature": "Canonical third-person له is awkward within the minister's first-person account.",
+    "handling": "For him/baginya with a local antecedent note preserves canonical له. Both clearly identify the jurist as Quran teacher and next speaker; neither silently changes the possessive to my.",
+    "scan_discrepancy": "The matching scan appears to read كان فقيه لي هو الذي علمني القرآن, with first-person لي rather than canonical له. This is disclosed without importing it into the targets."
+  },
+  {
+    "source_lines": [
+      33,
+      34
+    ],
+    "source_span": "قل هل يستوي الأعمى",
+    "nature": "Final comparison is unfinished on this physical page.",
+    "handling": "Both preserve only the supplied command, question and blind person. The scan likewise places الأعمى at the bottom boundary. No completion from another page, edition, internet source or remembered scripture was used."
+  }
+]
+```
+
+No translation edits were needed after this review. No failed page-106 review exists. Approval is not commitment, publication, scan transcription certification, or human approval.

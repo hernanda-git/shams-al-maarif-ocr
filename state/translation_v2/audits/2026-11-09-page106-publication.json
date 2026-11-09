@@ -1,0 +1,29 @@
+{
+  "page": 106,
+  "status": "committed",
+  "content_commit": "bad9527bca15138b2577f649ccb3e3a6e6c412cc",
+  "editorial_integration_commit": "702777a8c2439313dbda5dfab952c49177ec95e5",
+  "base_head": "4b3a83ee641eb922721b4efc47e1e90504048445",
+  "review_decision_sha256": "316837bb4d65c944a4c1b91475d552f9bdf7a7a3a6696b75e025af3e74cc0235",
+  "review_coverage_items": 32,
+  "file_hashes": {
+    "ocr/enriched/page_106.txt": "7781d94311187145e8534ac177d9e084c772749f205a06eb55f853ed3c452980",
+    "ocr/enriched_en/page_106.txt": "d26599537582d5bc0977280510d24b66d322fbbabcc5e3cfa0563c364a4988eb",
+    "ocr/enriched_id/page_106.txt": "66015b141e2e156f6ef7eaef554f0f7d93ff8b5a841f5d66834a1ce29328c02e"
+  },
+  "reader_sha256": "3543b18ef64b6ce182d5209d8a735381a0de0a35ddaaa07bab65177a0aab98e3",
+  "tracker_counts": {
+    "committed": 106,
+    "pending": 498
+  },
+  "next_page": 107,
+  "active_page": null,
+  "worker_lock": null,
+  "publication_state": "Prepared for authorized push; exact remote readback is an external post-push receipt.",
+  "deployment": "Not authorized; [skip ci] on every batch commit.",
+  "new_editorial_pages": [],
+  "tests_output": "....................... [  6%]\n........................................................................ [ 28%]\n........................................................................ [ 50%]\n........................................................................ [ 71%]\n........................................................................ [ 93%]\n.....................                                                    [100%]\n332 passed, 49 subtests passed in 91.66s (0:01:31)\n",
+  "accepted_sweep": "swept 105 pages: 105 pass, 0 fail",
+  "preservation": "All canonical/target/import/V3 fingerprints matched prepublication inventory. Unrelated protected dirty work is excluded. Shared reader promotion is guarded from the exact unchanged baseline and contains only page106.",
+  "local_approval_history": "2026-11-09-page106-local-recovery.json remains a historical preauthorization snapshot, superseded by this committed checkpoint."
+}
