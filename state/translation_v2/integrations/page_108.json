@@ -1,0 +1,19 @@
+{
+  "type": "frozen_editorial_boundary",
+  "boundary_page": 108,
+  "base_head": "3176a8d0f8bae6489e0d883e05ffdff96eb7e6c9",
+  "editorial_pages": [],
+  "existing_registry_sha256": "0fb3aa4c041d56ff0d6e65bd56cd1ec346dc0cc23e760454dd2e022fbc0fbd0e",
+  "canonical_sources_verified": 604,
+  "titles_preserved": 604,
+  "review_artifact": "state/translation_v2/reviews/page_108-r1-approved.json",
+  "source_authentication": "Existing registered user editorial versions preserved; no new correction ready. Not authentication by older reviewers.",
+  "new_page_reviewed_hashes": {
+    "ocr/enriched/page_108.txt": "f02a0c03900be5c000487474efd7bfd1c7325a9dc820d4c96ea0ebf0f0da8386",
+    "ocr/enriched_en/page_108.txt": "04293f17c1e95d706563430856cc35489ef3ceec58d188a61131d25369e36455",
+    "ocr/enriched_id/page_108.txt": "22749531560a74903b703d1a567af452516bcb92a19b8e058f4e54c28f2c6d77"
+  },
+  "state": "frozen_for_authorized_publication",
+  "publication_status": "prepared; remote readback recorded externally after push",
+  "authority": "User: commit and push and yes continue. Standing authority for sequential V2 reviewed content/integration/checkpoint commits and pushes; no deployment, no V3/PDF or model/provider changes."
+}
