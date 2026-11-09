@@ -1,0 +1,23 @@
+{
+  "type": "local_review_approval_before_authorized_publication",
+  "page": 108,
+  "head": "3176a8d0f8bae6489e0d883e05ffdff96eb7e6c9",
+  "content_hashes": {
+    "ocr/enriched/page_108.txt": "f02a0c03900be5c000487474efd7bfd1c7325a9dc820d4c96ea0ebf0f0da8386",
+    "ocr/enriched_en/page_108.txt": "04293f17c1e95d706563430856cc35489ef3ceec58d188a61131d25369e36455",
+    "ocr/enriched_id/page_108.txt": "22749531560a74903b703d1a567af452516bcb92a19b8e058f4e54c28f2c6d77",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "8c3a94b006cc38fe45a5bc4279fc9426daafdf3d411889b24fa9ae9884636bbb"
+  },
+  "original_review_sha256": "d1d0a0fa913d3b94407550439e6abcdfe9ec0a4ab4fabb41635ce01a07cf2c91",
+  "coverage_items": 40,
+  "accepted_source_uncertainties": 3,
+  "tests_output": "....................... [  6%]\r\n........................................................................ [ 27%]\r\n........................................................................ [ 47%]\r\n........................................................................ [ 68%]\r\n........................................................................ [ 89%]\r\n.....................................                                    [100%]\r\n348 passed, 49 subtests passed in 120.80s (0:02:00)\r\n",
+  "counts": {
+    "committed": 107,
+    "approved": 1,
+    "pending": 496
+  },
+  "live_reader_unchanged": true,
+  "authority": "Standing sequential V2 commits/pushes authorized; no deployment/V3/PDF"
+}

@@ -1,0 +1,357 @@
+{
+  "page": 108,
+  "passed": true,
+  "verdict": "APPROVED",
+  "reviewer_role": "independent-model-semantic-reviewer",
+  "source_hashes": {
+    "ocr/enriched/page_108.txt": "f02a0c03900be5c000487474efd7bfd1c7325a9dc820d4c96ea0ebf0f0da8386",
+    "ocr/enriched_en/page_108.txt": "04293f17c1e95d706563430856cc35489ef3ceec58d188a61131d25369e36455",
+    "ocr/enriched_id/page_108.txt": "22749531560a74903b703d1a567af452516bcb92a19b8e058f4e54c28f2c6d77",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "8c3a94b006cc38fe45a5bc4279fc9426daafdf3d411889b24fa9ae9884636bbb"
+  },
+  "coverage": [
+    {
+      "id": "introduction",
+      "source_lines": [2, 3],
+      "check": "Opening continuation; commanded teacher and recipient; morning, visitor, speaker and dream uncertainty; imperative teaching direction; Shurayh; Greatest Name; introduction of the Quranic list.",
+      "passed": true,
+      "english_evidence": "PASS: so-and-so and we-commanded-him-to-teach-you retained; I/you morning and subsequent he explicitly uncertain. Visitor and last-night speaker remain unnamed. Go-to-Shurayh/teach-him direction correct; no inferred dream actor. Greatest Name and entire-list scope retained.",
+      "indonesian_evidence": "PASS directly against Arabic: Fulan, kami/perintahkannya/mengajarkan kepadamu correct; aku/engkau and ia locally marked uncertain. Tadi malam speaker not assigned a name; datangilah Shurayh/ajarkan kepadanya preserves direction. Full-list scope and glossary Name retained."
+    },
+    {
+      "id": "q01",
+      "source_lines": [3],
+      "check": "Exclusive divinity; both mercy Names.",
+      "passed": true,
+      "english_evidence": "PASS: exclusive He plus All-Merciful/Merciful, both present.",
+      "indonesian_evidence": "PASS: tiada/selain Dia plus Maha Pengasih/Maha Penyayang, both present."
+    },
+    {
+      "id": "q02",
+      "source_lines": [3, 4],
+      "check": "God; exclusive divinity; Living and Qayyum Names; no expanded verse.",
+      "passed": true,
+      "english_evidence": "PASS: God, exclusive He, Ever-Living and Self-Sustaining; quotation stops exactly at source boundary.",
+      "indonesian_evidence": "PASS: Allah, exclusive Dia, Mahahidup and Berdiri Sendiri; no absent verse continuation."
+    },
+    {
+      "id": "q03",
+      "source_lines": [4, 5],
+      "check": "Initial letters; God, exclusivity, Living/Qayyum; Book sent to you in truth, confirmation of preceding revelation; Torah and Gospel.",
+      "passed": true,
+      "english_evidence": "PASS: Alif Lam Mim, all divine predicates, addressee, in-truth descent, preceding-confirmation and both named scriptures retained; no imported continuation.",
+      "indonesian_evidence": "PASS: initial letters, Allah/exclusivity/two Names, kepadamu/dengan kebenaran, prior-Book confirmation, Taurat and Injil all match Arabic."
+    },
+    {
+      "id": "q04",
+      "source_lines": [5, 6],
+      "check": "Divine forming of plural addressees in wombs as He wills; exclusivity; Mighty/Wise.",
+      "passed": true,
+      "english_evidence": "PASS: forms-you/wombs/as-He-wills and exclusive He; both Mighty and Wise present.",
+      "indonesian_evidence": "PASS: membentuk kalian/dalam rahim/as-Dia-kehendaki; exclusivity and Maha Perkasa/Mahabijaksana complete."
+    },
+    {
+      "id": "q05",
+      "source_lines": [6],
+      "check": "Assertive identification of religion before God as Islam.",
+      "passed": true,
+      "english_evidence": "PASS: religion-before-God/is-Islam states the complete assertion; English declarative adequately carries Arabic assertion.",
+      "indonesian_evidence": "PASS: sesungguhnya/agama/di sisi Allah/Islam all retained."
+    },
+    {
+      "id": "q06",
+      "source_lines": [6],
+      "check": "God and exclusivity; emphatic gathering of plural addressees to Resurrection Day; source-limited endpoint.",
+      "passed": true,
+      "english_evidence": "PASS: surely-gather-you/to-Day-of-Resurrection, God and exclusivity complete; no absent clause supplied.",
+      "indonesian_evidence": "PASS: sungguh/mengumpulkan kalian/menuju Hari Kiamat, Allah and exclusivity complete; no added continuation."
+    },
+    {
+      "id": "q07",
+      "source_lines": [6, 7],
+      "check": "That is God your Lord; exclusivity; creation of everything; worship imperative; wakil over everything.",
+      "passed": true,
+      "english_evidence": "PASS: demonstrative/Lord, exclusive He, Creator-of-everything, worship-Him and Trustee-over-everything all present; both universal scopes retained.",
+      "indonesian_evidence": "PASS: Itulah/Tuhan kalian, exclusivity, Pencipta segala sesuatu, sembahlah Dia and Pemelihara segala sesuatu preserve both universal scopes."
+    },
+    {
+      "id": "q08",
+      "source_lines": [7, 8],
+      "check": "Negated human visual apprehension versus divine apprehension of sight; Latif/Khabir Names.",
+      "passed": true,
+      "english_evidence": "PASS: eyes-do-not-perceive-Him versus He-perceives-eyes; Subtle/All-Aware both retained without reversing agents.",
+      "indonesian_evidence": "PASS: penglihatan tidak dapat menjangkau-Nya versus Dia menjangkau penglihatan; Mahalembut/Maha Mengetahui acceptable for the two Names."
+    },
+    {
+      "id": "q09",
+      "source_lines": [8],
+      "check": "Follow revelation from your Lord; exclusivity; turn away from polytheists.",
+      "passed": true,
+      "english_evidence": "PASS: follow/revealed-to-you/from-your-Lord; exclusive He; turn-away imperative and polytheists retained.",
+      "indonesian_evidence": "PASS: ikutilah/diwahyukan kepadamu/dari Tuhanmu; exclusivity; berpalinglah/orang-orang musyrik retained."
+    },
+    {
+      "id": "q10",
+      "source_lines": [8, 9, 10],
+      "check": "Say and universal human address; first-person Messenger to all; God's cosmic dominion, exclusivity, life/death; believe in God and His unlettered Messenger; Prophet's faith in God and His words; follow him for guidance.",
+      "passed": true,
+      "english_evidence": "PASS: all clauses retained, including all-of-you, heavens/earth, life/death, unlettered, His-words and guidance purpose. Relative dominion correctly belongs to God; messenger/Prophet remains the one believing and to be followed.",
+      "indonesian_evidence": "PASS: kalian semua, kerajaan langit/bumi, menghidupkan/mematikan, Allah/Rasul-Nya, Nabi ummi, kalimat-kalimat-Nya and agar mendapat petunjuk all present. Divine dominion and Prophet/follow-him referents correct."
+    },
+    {
+      "id": "q11",
+      "source_lines": [10, 11],
+      "check": "Restrictive commanded worship of one God; exclusive divinity.",
+      "passed": true,
+      "english_evidence": "PASS: commanded-only/worship-one-God and no-god-but-He preserve both restrictions.",
+      "indonesian_evidence": "PASS: hanya diperintahkan/menyembah Tuhan yang satu and tiada/selain Dia preserve both restrictions."
+    },
+    {
+      "id": "q12",
+      "source_lines": [11],
+      "check": "Source opening tawallaw without imported conditional; say; divine sufficiency for speaker; exclusivity; trust in Him; Lord of Mighty Throne.",
+      "passed": true,
+      "english_evidence": "PASS: source-supported they-turned-away reading retained without adding if; say/sufficient-for-me/in-Him-I-trust and Mighty Throne complete.",
+      "indonesian_evidence": "PASS: mereka berpaling without invented jika; katakanlah/cukuplah Allah bagiku/kepada-Nya aku bertawakal and Arasy yang Agung retained."
+    },
+    {
+      "id": "q13",
+      "source_lines": [12],
+      "check": "Until drowning overtook unnamed man; his belief declaration; exclusive One believed in by Children of Israel; speaker among submitters.",
+      "passed": true,
+      "english_evidence": "PASS: drowning/unnamed-he/said/I-believe, Children of Israel's object of belief and I-am-among-submitters retained; no name imported.",
+      "indonesian_evidence": "PASS: hingga/ditimpa tenggelam/ia berkata/aku beriman, Bani Israil and aku termasuk yang berserah diri complete; actor not named from outside source."
+    },
+    {
+      "id": "q14",
+      "source_lines": [12, 13],
+      "check": "Conditional failure to answer plural addressees; know revelation only by divine knowledge; exclusivity; concluding submission question.",
+      "passed": true,
+      "english_evidence": "PASS: if-not/respond-to-you, know/only-with-God's-knowledge, no-god-but-He and submission question retain condition, restriction and interrogative.",
+      "indonesian_evidence": "PASS: jika/tidak/memenuhi seruan kalian; ketahuilah/hanya dengan ilmu Allah; exclusivity and maukah kalian berserah diri preserve scope and plural addressees."
+    },
+    {
+      "id": "q15",
+      "source_lines": [13, 14],
+      "check": "Say; He my Lord; exclusivity; speaker's trust and return directed to Him.",
+      "passed": true,
+      "english_evidence": "PASS: say/my-Lord, exclusivity, in-Him-I-trust and to-Him-my-return all retain first-person direction.",
+      "indonesian_evidence": "PASS: katakanlah/Tuhanku, exclusivity, kepada-Nya aku bertawakal and kembali preserve both first-person relations."
+    },
+    {
+      "id": "q16",
+      "source_lines": [14, 15],
+      "check": "Divine sending of angels with Spirit by His command upon chosen servants; command to warn of divine first-person exclusivity and fear Me.",
+      "passed": true,
+      "english_evidence": "PASS: angels/Spirit/His-command/whomever-He-wills/among-His-servants retained; warn/no-god-but-I/fear-Me correctly remains divine speech.",
+      "indonesian_evidence": "PASS: malaikat/ruh/perintah-Nya/siapa Dia kehendaki/hamba-hamba-Nya complete; berilah peringatan/selain Aku/bertakwalah kepada-Ku preserve speaker and command direction."
+    },
+    {
+      "id": "q17",
+      "source_lines": [15],
+      "check": "Conditional loud speech; divine knowledge of secret and more hidden; God, exclusivity, possession of Beautiful Names.",
+      "passed": true,
+      "english_evidence": "PASS: if/speak-aloud, secret/what-is-more-hidden, God/exclusive-He and Most Beautiful Names all retained.",
+      "indonesian_evidence": "PASS: jika/mengeraskan ucapan, rahasia/lebih tersembunyi, Allah/exclusive-Dia and Nama-Nama Yang Terindah retained."
+    },
+    {
+      "id": "q18",
+      "source_lines": [15, 16],
+      "check": "Divine first-person choice of addressee; listen to revelation; emphatic I am God, exclusivity; worship Me; establish prayer for My remembrance.",
+      "passed": true,
+      "english_evidence": "PASS: chosen-you/listen, emphatic I/I-am-God, exclusive-I, worship-Me and prayer/for-My-remembrance complete; no speaker reassignment.",
+      "indonesian_evidence": "PASS: memilihmu/dengarkanlah, Aku/Akulah Allah, exclusive-Aku, sembahlah Aku and salat/untuk mengingat-Ku complete; divine speaker consistent."
+    },
+    {
+      "id": "q19",
+      "source_lines": [16, 17],
+      "check": "Only God as addressees' deity; exclusive divinity; knowledge encompassing everything.",
+      "passed": true,
+      "english_evidence": "PASS: only-God, besides-whom-no-god and encompasses-everything-in-knowledge retain restriction and universality.",
+      "indonesian_evidence": "PASS: Tuhan kalian hanyalah Allah, exclusivity and ilmu-Nya meliputi segala sesuatu complete."
+    },
+    {
+      "id": "q20",
+      "source_lines": [17],
+      "check": "No earlier messenger except with revelation; divine We to I transition; exclusive divinity and worship Me.",
+      "passed": true,
+      "english_evidence": "PASS: no-messenger-before-you/without-revealing-to-him preserves universal exception; We/I and worship-Me remain correct divine speech.",
+      "indonesian_evidence": "PASS: tidaklah/seorang rasul/sebelum engkau/melainkan Kami mewahyukan kepadanya retains exception; Kami/Aku transition and worship command correct."
+    },
+    {
+      "id": "q21",
+      "source_lines": [18, 19],
+      "check": "Dhu al-Nun; angry departure; thought We would not constrain him; cry in darkness; second-person exclusive divinity/glorification; confession; divine answer, rescue from distress and general rescue of believers.",
+      "passed": true,
+      "english_evidence": "PASS: Dhu al-Nun/anger/thought/not-constrain/darkness retained; naqdira is constraining, not divine inability. You/glory/I-wrongdoer then We-answer/rescue/distress/thus-believers preserves every clause and speaker transition.",
+      "indonesian_evidence": "PASS: Dhu al-Nun/marah/menyangka/tidak akan mempersempitnya/kegelapan retained; no inability claim. Engkau/Mahasuci/aku-zalim then Kami/mengabulkan/menyelamatkan/kesusahan/demikianlah-orang-beriman complete."
+    },
+    {
+      "id": "q22",
+      "source_lines": [19, 20],
+      "check": "Divine exaltation; True King; exclusivity; Lord of Noble Throne, distinguished from Mighty Throne.",
+      "passed": true,
+      "english_evidence": "PASS: exalted/God/True King/exclusive-He/Noble Throne; Noble not conflated with earlier Mighty.",
+      "indonesian_evidence": "PASS: Mahatinggi Allah/Raja Yang Benar/exclusive-Dia/Arasy yang Mulia; Mulia distinguished from earlier Agung."
+    },
+    {
+      "id": "q23",
+      "source_lines": [20, 21],
+      "check": "He God; exclusivity; His praise in first life and Hereafter; His judgment; plural addressees returned to Him.",
+      "passed": true,
+      "english_evidence": "PASS: He-God/exclusivity; first-life/Hereafter praise; His-judgment and to-Him-you-will-be-returned complete.",
+      "indonesian_evidence": "PASS: Dialah Allah/exclusivity; puji/kehidupan pertama/akhirat; keputusan and kepada-Nya kalian dikembalikan retain ownership and return."
+    },
+    {
+      "id": "q24",
+      "source_lines": [21, 22],
+      "check": "Human address; remember divine favor upon you; rhetorical other-creator/provision from heaven and earth; exclusivity; how deluded/turned aside.",
+      "passed": true,
+      "english_evidence": "PASS: address/remember/favor-upon-you; other-than-God creator/provides-for-you/heaven-earth; exclusivity and delusion question complete.",
+      "indonesian_evidence": "PASS: wahai manusia/ingatlah/nikmat atas kalian; adakah pencipta selain Allah/rezeki/langit-bumi; exclusivity and bagaimana dipalingkan acceptable for ufk."
+    },
+    {
+      "id": "q25",
+      "source_lines": [22],
+      "check": "Anomalous opening lahum; habitual arrogance when told no god but God; no silent repair to remembered wording.",
+      "passed": true,
+      "english_evidence": "PASS: For them explicitly retained with local syntactic uncertainty; used-to/grow-arrogant/when-told and God-exclusivity complete, without replacing lahum.",
+      "indonesian_evidence": "PASS: Bagi mereka and Indonesian uncertainty retain lahum; dahulu/menyombongkan diri/apabila dikatakan/tiada selain Allah preserve remaining syntax and repetition."
+    },
+    {
+      "id": "q26",
+      "source_lines": [22, 23],
+      "check": "That God your Lord; His dominion; exclusivity; rhetorical being turned away.",
+      "passed": true,
+      "english_evidence": "PASS: demonstrative/Lord/His-dominion/exclusive-He/how-turned-away complete; not merged with similar quotations.",
+      "indonesian_evidence": "PASS: Itulah Allah/Tuhan kalian/milik-Nya kerajaan/exclusive-Dia/bagaimana dipalingkan complete as a separate quotation."
+    },
+    {
+      "id": "q27",
+      "source_lines": [23, 24],
+      "check": "Ha Mim; Book's descent from God; Mighty, Knowing, Forgiver of sin, Accepter of repentance, Severe in punishment, Possessor of bounty; exclusivity and destination to Him.",
+      "passed": true,
+      "english_evidence": "PASS: initial letters/descent/from-God; all six ordered attributes including sin, repentance, severity and bounty; exclusive-He/to-Him-destination complete.",
+      "indonesian_evidence": "PASS: initial letters/penurunan Kitab/dari Allah; Maha Perkasa, Maha Mengetahui, Pengampun dosa, Penerima tobat, Keras Hukuman-Nya, Pemilik Karunia all present in order; exclusivity/return retained."
+    },
+    {
+      "id": "q28",
+      "source_lines": [24, 25],
+      "check": "That God your Lord, Creator of everything; exclusivity; delusion/turning question; retain distinct repeated passage.",
+      "passed": true,
+      "english_evidence": "PASS: demonstrative/Lord/Creator-of-everything/exclusivity/delusion question complete; no deduplication or dominion substitution.",
+      "indonesian_evidence": "PASS: Itulah/Tuhan kalian/Pencipta segala sesuatu/exclusivity/bagaimana dipalingkan complete; repeated structure retained separately."
+    },
+    {
+      "id": "q29",
+      "source_lines": [25],
+      "check": "Living; exclusivity; invoke Him with religion devoted solely to Him; praise God Lord of worlds.",
+      "passed": true,
+      "english_evidence": "PASS: Ever-Living/exclusive-He/call-upon-Him/religion-sincerely-His and praise/Lord-of-worlds all retained.",
+      "indonesian_evidence": "PASS: Mahahidup/exclusive-Dia/berdoalah kepada-Nya/memurnikan agama bagi-Nya and segala puji/Tuhan semesta alam all retained."
+    },
+    {
+      "id": "q30",
+      "source_lines": [25, 26],
+      "check": "God, exclusivity; life and death; Lord of addressees and their forefathers; no absent forefather qualifier supplied.",
+      "passed": true,
+      "english_evidence": "PASS: God/exclusive-He/life-death/your-Lord/Lord-of-your-forefathers; no imported earliest/former qualifier.",
+      "indonesian_evidence": "PASS: Allah/exclusive-Dia/menghidupkan-mematikan/Tuhan kalian/Tuhan leluhur kalian; source-limited ending retained."
+    },
+    {
+      "id": "q31",
+      "source_lines": [26, 27],
+      "check": "Know exclusive divinity; seek forgiveness for singular addressee's sin and believing men and women; God's knowledge of plural movements and abode.",
+      "passed": true,
+      "english_evidence": "PASS: know/exclusivity/your-sin/believing-men-and-women/movements/dwelling; both gender groups and both knowledge objects present.",
+      "indonesian_evidence": "PASS: ketahuilah/exclusivity/dosamu/beriman laki-laki dan perempuan; gerak-gerik kalian/tempat tinggal kalian preserve singular-to-plural shift and both objects."
+    },
+    {
+      "id": "q32",
+      "source_lines": [27, 28],
+      "check": "He God; exclusivity; knower of unseen and witnessed; both mercy Names.",
+      "passed": true,
+      "english_evidence": "PASS: He-God/exclusivity/Knower-of-unseen-and-witnessed/All-Merciful/Merciful complete.",
+      "indonesian_evidence": "PASS: Dialah Allah/exclusivity/Mengetahui gaib-dan-nyata/Maha Pengasih/Maha Penyayang complete."
+    },
+    {
+      "id": "q33",
+      "source_lines": [28, 29],
+      "check": "God and exclusivity; eight ordered Names: Malik, Quddus, Salam, Mumin, Muhaymin, Aziz, Jabbar, Mutakabbir; glorification above association.",
+      "passed": true,
+      "english_evidence": "PASS: all eight in order: King/Holy/Peace/Giver-of-Security/Guardian/Mighty/Compeller/Supremely-Great; God/exclusivity and glory-above-what-they-associate-with-Him complete.",
+      "indonesian_evidence": "PASS: all eight in order: Raja/Mahasuci/Mahasejahtera/Memberi Keamanan/Memelihara/Maha Perkasa/Memaksa/Memiliki Segala Kebesaran; Allah/exclusivity and Mahasuci-from-association complete."
+    },
+    {
+      "id": "q34",
+      "source_lines": [29, 30],
+      "check": "God; Creator, Originator, Fashioner; His Beautiful Names; everything in heavens and earth glorifies Him; Mighty/Wise; do not insert absent exclusivity formula.",
+      "passed": true,
+      "english_evidence": "PASS: Creator/Originator/Fashioner distinguished; Names/whatever-in-heavens-and-earth/glorifies-Him/Mighty-Wise complete; no added no-god formula.",
+      "indonesian_evidence": "PASS: Pencipta/Yang Mengadakan/Yang Membentuk Rupa distinguished; Names/segala-di-langit-bumi/bertasbih kepada-Nya/Maha Perkasa-Mahabijaksana complete; no formula inserted."
+    },
+    {
+      "id": "q35",
+      "source_lines": [30],
+      "check": "God and exclusivity; believers enjoined to trust God; repeated divine name retained.",
+      "passed": true,
+      "english_evidence": "PASS: God occurs in exclusivity and again as object of believers' trust; let-the-believers injunction retained.",
+      "indonesian_evidence": "PASS: Allah occurs before exclusivity and again in kepada Allah; hendaklah/orang-orang beriman/bertawakal correct."
+    },
+    {
+      "id": "q36",
+      "source_lines": [30, 31],
+      "check": "Lord of east and west; exclusivity; take Him as wakil; correct source endpoint.",
+      "passed": true,
+      "english_evidence": "PASS: east-and-west/Lord/exclusive-He/take-Him-as-Trustee complete; quotation ends before God-knows-best.",
+      "indonesian_evidence": "PASS: Tuhan timur-dan-barat/exclusive-Dia/jadikanlah Dia sebagai Pelindung acceptable for wakil; closing assertion remains outside braces."
+    },
+    {
+      "id": "chapter13-heading",
+      "source_lines": [32],
+      "check": "Parenthesized Chapter Thirteen; letters absent from al-Fatihah; associated awfaq and answered invocations.",
+      "passed": true,
+      "english_evidence": "PASS: Chapter Thirteen/Letters Absent/al-Fatihah/Their Awfaq/Answered Invocations all retained in parentheses; sawaqit not mistranslated as dropped verses.",
+      "indonesian_evidence": "PASS: Bab Ketiga Belas/Huruf-Huruf Tidak Terdapat/al-Fatihah/Awfaq/Doa-Doa Dikabulkan/yang berkaitan dengannya all retained in parentheses."
+    },
+    {
+      "id": "unbraced-content",
+      "source_lines": [1, 4, 5, 6, 23, 31, 33],
+      "check": "Printed folio 102; all three citation markers outside recitation; complete basmala outside braces before q27; God-knows-best after q36; terminal standalone Know.",
+      "passed": true,
+      "english_evidence": "PASS: standalone dash-style 102; q02 to-the-end-of-the-verse and q03/q06 the-verse outside braces, no expanded text. Basmala includes God and both mercy Names outside q27. God knows best follows q36; final standalone Know retained.",
+      "indonesian_evidence": "PASS: standalone 102; q02 hingga akhir ayat and q03/q06 ayat tersebut outside braces. Dengan nama Allah plus Maha Pengasih/Maha Penyayang outside q27. Allah lebih mengetahui and final standalone Ketahuilah complete."
+    },
+    {
+      "id": "global-invariants",
+      "source_lines": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33],
+      "check": "Full independent Arabic-to-English and Arabic-to-Indonesian semantic review; all five raw pins; raw Arabic embeddings; 33 source lines and 36 ordered quotations per language; reader, labels, script and V2 scope.",
+      "passed": true,
+      "english_evidence": "PASS: all 33 source lines read, every constituent clause checked; all 36 quotations retained separately in order with repeated formulas/Names, negatives and speaker scopes intact. Arabic embedding raw-byte identical. Single Arabic/English labels, Latin target, no forbidden controls. Reader ar exact and en equal after permitted outer trim; 604 sequential records. All five pins matched before and at decision preparation.",
+      "indonesian_evidence": "PASS independently from Arabic, not from English: all 36 full segments and unbraced material accounted for, including every repeated formula/Name and scoped pronoun/negative. Arabic embedding raw-byte identical. Single Arabic/Indonesia labels; localized uncertainty, Latin script, no forbidden controls. Reader id equal after permitted outer trim. Review confined to frozen legacy 604-page V2 page108; no V3/616-page import or tracker/content edits."
+    }
+  ],
+  "findings": [],
+  "accepted_source_uncertainties": [
+    {
+      "id": "opening-actors",
+      "source_lines": [2, 3],
+      "issue": "Unvocalized asbaht and the following third-person visitor/speaker do not securely identify the morning subject or participants; the page begins mid-report and its dream-command linkage is syntactically abrupt.",
+      "disposition": "Both targets explicitly flag uncertainty, preserve the unnamed visitor and first-person last-night report without supplying a named dreamer or an extra saw/saying event, and correctly retain go to Shurayh and teach him. No actor reconstruction required for approval."
+    },
+    {
+      "id": "lahum-variant",
+      "source_lines": [22],
+      "issue": "The canonical q25 begins lahum kanu, with a detached for-them phrase.",
+      "disposition": "Both targets retain for them/bagi mereka and locally identify the syntactic uncertainty; neither silently substitutes a remembered alternative."
+    },
+    {
+      "id": "source-limited-citations",
+      "source_lines": [4, 5, 6, 11, 25, 26, 29, 30],
+      "issue": "Canonical excerpts have local boundaries and wording, including citation shorthand, initial tawallaw without an added conditional, forefathers without a further qualifier, and q34 without an exclusivity formula.",
+      "disposition": "Both targets follow the supplied wording, keep authorized citation markers outside braces, preserve a defensible declarative tawallaw reading, and import no omitted familiar verse portions. Approval authenticates fidelity to this frozen OCR, not normalization to another Quranic text."
+    }
+  ],
+  "summary": "APPROVED: independently reviewed the complete 33-line canonical Arabic directly against both complete targets and the full pinned V2 style. Forty explicit passing coverage entries include all 36 full quotation segments, introduction, chapter13 heading, unbraced content and global invariants. No unresolved translation defect found. All five pinned raw SHA-256 values match; both embedded Arabic blocks are raw-byte identical to source; frozen reader contains 604 sequential records and page108 matches the source/targets with permitted target outer trimming. Only this original semantic decision artifact is authorized for creation; this is not a tracker approval, corpus edit or V3 import."
+}
