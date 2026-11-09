@@ -1,0 +1,30 @@
+{
+  "page": 114,
+  "status": "committed",
+  "base_head": "584f97a727efafa130a8db3d793cc5809c01e401",
+  "content_commit": "19785b342d7560235608c2aa063bfa8232cd4b5a",
+  "editorial_integration_commit": "a10b8004d142efadcf049455dd4303aced13931f",
+  "review_sha256": "ffe889e1516841a84bcb9f209459fe5e42e2e80952dfdcaba7100011b86337f1",
+  "review_coverage_items": 31,
+  "accepted_source_uncertainties": 8,
+  "content_hashes": {
+    "ocr/enriched/page_114.txt": "5ad613e38d84e8910d0c2aa90b36876dcd5a216ad9b71b417d5d2bb8b1ba7f0e",
+    "ocr/enriched_en/page_114.txt": "34fc4719dc69166b8cbec8faf5bc650cea279b2f51e55a6751619f2dbb655b90",
+    "ocr/enriched_id/page_114.txt": "80f348000e0ccaa8f9d45c891d51e09f3d3f82c740041af6cc02b54a39f9b124",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "415eab4d1bb0840d3c9f4a6414c3918a7c00a1cfd7e7a4c7bc5eb70ccd574fb1"
+  },
+  "counts": {
+    "committed": 114,
+    "pending": 490
+  },
+  "next_page": 115,
+  "worker_lock": null,
+  "new_editorial_pages": [],
+  "tests": "348 passed;49 subtests passed;unchanged final candidate",
+  "accepted_sweep": "113 previously accepted plus current114 pass",
+  "deployment": "Not authorized; all commits [skip ci]; push deploy workflow inspected, hooks/deployments/checks absent at preflight",
+  "authority": "User: commit and push and yes continue. Standing authority for sequential V2 reviewed content/integration/checkpoint commits and pushes; no deployment, no V3/PDF or model/provider changes.",
+  "publication": "Prepared for push; exact remote SHA/API readback persisted externally in publication-journal.json",
+  "local_approval_receipt": "Earlier local approval audit is preserved as historical prepublication evidence."
+}

@@ -1,0 +1,394 @@
+{
+  "page": 114,
+  "passed": true,
+  "verdict": "APPROVED",
+  "reviewer_role": "independent-model-semantic-reviewer",
+  "reviewer_id": "parent-coordinator",
+  "translator_ids": [
+    "sa-0-16a20684",
+    "sa-0-a1324cc1"
+  ],
+  "source_hashes": {
+    "ocr/enriched/page_114.txt": "5ad613e38d84e8910d0c2aa90b36876dcd5a216ad9b71b417d5d2bb8b1ba7f0e",
+    "ocr/enriched_en/page_114.txt": "34fc4719dc69166b8cbec8faf5bc650cea279b2f51e55a6751619f2dbb655b90",
+    "ocr/enriched_id/page_114.txt": "80f348000e0ccaa8f9d45c891d51e09f3d3f82c740041af6cc02b54a39f9b124",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "415eab4d1bb0840d3c9f4a6414c3918a7c00a1cfd7e7a4c7bc5eb70ccd574fb1"
+  },
+  "coverage": [
+    {
+      "id": "R2-L01",
+      "source_lines": [
+        1
+      ],
+      "check": "Folio108/em-dashstyle, no added blank.",
+      "passed": true,
+      "english_evidence": "— 108 —",
+      "indonesian_evidence": "— 108 —"
+    },
+    {
+      "id": "R2-L02",
+      "source_lines": [
+        2
+      ],
+      "check": "Repentance continuation/powerforgiveness; printed atmaʿnaka not repairedtoobedience, literaldesire plus qualifiedconstruction/transliteration nowstandard[UNCLEAR:]inBOTHtargets; faith/dependence/qudratuna preserved.",
+      "passed": true,
+      "english_evidence": "repentance, for You have the power to forgive. My God, we made You desire aṭmaʿnāka [UNCLEAR: the intended construction] the greatest act of obedience, faith in You and dependence upon You; ",
+      "indonesian_evidence": "tobat, karena Engkau berkuasa mengampuni. Tuhanku, kami membuat-Mu berkeinginan aṭmaʿnāka [UNCLEAR: susunan yang dimaksud tidak jelas] akan ketaatan yang terbesar, yaitu beriman kepada-Mu da"
+    },
+    {
+      "id": "R2-L03",
+      "source_lines": [
+        3
+      ],
+      "check": "Greatest evil deeds/association/fabrication; faʿtazalna reading qualified, middlebetween/no shame, sins.",
+      "passed": true,
+      "english_evidence": "the greatest evil deeds, associating partners with You and fabricating against You; faʿtazalnā [UNCLEAR: 'so we withdrew' or 'so withdraw from us'; the construction is unclear] what lies bet",
+      "indonesian_evidence": "keburukan-keburukan yang terbesar, yaitu menyekutukan-Mu dan mengada-adakan dusta terhadap-Mu; faʿtazalnā [UNCLEAR: 'maka kami menjauh' atau 'maka menjauhlah dari kami'; susunannya tidak jel"
+    },
+    {
+      "id": "R2-L04",
+      "source_lines": [
+        4
+      ],
+      "check": "Smallbesidepardon/greatbesideprohibition, both humiliation/guidance and disgrace conditional contrasts.",
+      "passed": true,
+      "english_evidence": "small beside Your pardon, even if they are great in relation to Your prohibition. My God, had You intended to humiliate us, You would not have guided us; and had You intended to expose our d",
+      "indonesian_evidence": "kecil dibandingkan dengan maaf-Mu, walaupun besar dalam kaitannya dengan larangan-Mu. Tuhanku, seandainya Engkau menghendaki kehinaan kami, niscaya Engkau tidak memberi kami petunjuk; dan se"
+    },
+    {
+      "id": "R2-L05",
+      "source_lines": [
+        5
+      ],
+      "check": "Concealment conditional; completebeginning/doNOTstrip honor; rhetoricalburnknowingface.",
+      "passed": true,
+      "english_evidence": "You would not have concealed us. So complete, O God, that with which You began with us, and do not strip us of that with which You honored us. My God, would You burn with fire a face that kn",
+      "indonesian_evidence": "niscaya Engkau tidak menutupi kami. Maka sempurnakanlah, ya Allah, apa yang dengannya Engkau telah memulai terhadap kami, dan janganlah Engkau merampas dari kami apa yang dengannya Engkau te"
+    },
+    {
+      "id": "R2-L06",
+      "source_lines": [
+        6
+      ],
+      "check": "Two refuge circumstances, remembrance delight/pride, generosity refuge/need.",
+      "passed": true,
+      "english_evidence": "our refuge when means become constricted, and our shelter when hope is cut off. In remembering You we delight and take pride; in Your generosity we seek refuge, and of it we stand in need;",
+      "indonesian_evidence": "tempat perlindungan kami ketika segala daya upaya menyempit, dan tempat kami berlindung ketika harapan terputus. Dengan mengingat-Mu kami menikmati kebahagiaan dan berbangga; kepada kemuraha"
+    },
+    {
+      "id": "R2-L07",
+      "source_lines": [
+        7
+      ],
+      "check": "Pride/dependence, opaque kadalta andʿalayka qualified; mercyhumiliation/longingwithreason.",
+      "passed": true,
+      "english_evidence": "in You is our pride, and upon You is our dependence. My God, kādaltanā ʿalayka [UNCLEAR: kādaltanā has an unclear reading and meaning; ʿalayka means 'against/upon You,' with unclear linkage]",
+      "indonesian_evidence": "pada-Mu terletak kebanggaan kami dan kepada-Mu ketergantungan kami. Tuhanku, kādaltanā ʿalayka [UNCLEAR: bacaan dan makna kādaltanā tidak jelas; ʿalayka berarti 'atas/terhadap-Mu', dengan ka"
+    },
+    {
+      "id": "R2-L08",
+      "source_lines": [
+        8
+      ],
+      "check": "BOTH printednegativeforgive/care clauses withunknownactor/linkage; knowconditionBEFOREcomplaint, powerfulfill.",
+      "passed": true,
+      "english_evidence": "since we have known that: 'does not forgive and does not care' [UNCLEAR: the actor, linkage, and quotation boundaries are unclear]. My God, You know best the condition before the complaint, ",
+      "indonesian_evidence": "sebab kami telah mengetahui bahwa: 'tidak mengampuni dan tidak memedulikan' [UNCLEAR: pelaku, kaitan klausa, dan batas kutipannya tidak jelas]. Tuhanku, Engkau paling mengetahui keadaan sebe"
+    },
+    {
+      "id": "R2-L09",
+      "source_lines": [
+        9
+      ],
+      "check": "Hopes/affliction; concealedmissteps/forgiveness/replacementgood; protectfromYOURdevising.",
+      "passed": true,
+      "english_evidence": "hopes and remove affliction. O God, You who kept missteps secret, forgave evil deeds, and replaced them with good deeds, protect us from Your devising,",
+      "indonesian_evidence": "harapan-harapan dan menghilangkan cobaan. Ya Allah, wahai Yang merahasiakan kekeliruan, mengampuni keburukan, dan menggantinya dengan kebaikan, lindungilah kami dari siasat-Mu,"
+    },
+    {
+      "id": "R2-L10",
+      "source_lines": [
+        10
+      ],
+      "check": "Remembranceadornment, usebycommand, enablethanks; forgivenessus/parents/teachers/ALLMuslimmen.",
+      "passed": true,
+      "english_evidence": "and adorn us with remembrance of You, employ us in accordance with Your command, enable us to thank You, and forgive us, our parents, our teachers, and all Muslim men",
+      "indonesian_evidence": "dan hiasilah kami dengan mengingat-Mu, gunakanlah kami sesuai dengan perintah-Mu, berilah kami taufik untuk bersyukur kepada-Mu, dan ampunilah kami, kedua orang tua kami, para guru kami, dan"
+    },
+    {
+      "id": "R2-L11",
+      "source_lines": [
+        11
+      ],
+      "check": "Muslimwomen,believermen/women,living/dead,Amen/praise;(AnotherSupplication)/basmalabegins.",
+      "passed": true,
+      "english_evidence": "and Muslim women, believing men and believing women, the living among them and the dead. Amen, and praise be to God, Lord of the worlds. (Another supplication) In the name of",
+      "indonesian_evidence": "dan perempuan muslim, laki-laki mukmin dan perempuan mukmin, yang hidup di antara mereka maupun yang mati. Amin, dan segala puji bagi Allah, Tuhan semesta alam. (Doa lain) Dengan nama"
+    },
+    {
+      "id": "R2-L12",
+      "source_lines": [
+        12
+      ],
+      "check": "Merciful/Compassionate; LordofINCLINATIONS beforeexistence, light/decrees beforeemergence starts.",
+      "passed": true,
+      "english_evidence": "God, the Merciful, the Compassionate. Glory be to the Lord of inclinations before their existence. Glory be to the Lord who, by His light, determined the decrees before",
+      "indonesian_evidence": "Allah Yang Maha Pengasih lagi Maha Penyayang. Mahasuci Tuhan segala hawa nafsu sebelum keberadaannya. Mahasuci Tuhan yang dengan cahaya-Nya menentukan takdir-takdir sebelum"
+    },
+    {
+      "id": "R2-L13",
+      "source_lines": [
+        13
+      ],
+      "check": "Emergence, light/timesBEFOREboundaries, light/angelsnearanddirected.",
+      "passed": true,
+      "english_evidence": "their emergence. Glory be to the Lord who, by His light, administers the times before their boundaries. Glory be to the Lord who, by His light, brought the angels near and directed them.",
+      "indonesian_evidence": "kemunculannya. Mahasuci Tuhan yang dengan cahaya-Nya mengatur masa-masa sebelum batas-batasnya. Mahasuci Tuhan yang dengan cahaya-Nya mendekatkan para malaikat dan mengarahkan mereka."
+    },
+    {
+      "id": "R2-L14",
+      "source_lines": [
+        14
+      ],
+      "check": "Light/spheresmovedandmadeknown; light/spiritssubtleandennobled; seventhGlorybegins.",
+      "passed": true,
+      "english_evidence": "Glory be to the Lord who, by His light, moved the celestial spheres and made them known. Glory be to the Lord who, by His light, rendered the spirits subtle and ennobled them. Glory be to th",
+      "indonesian_evidence": "Mahasuci Tuhan yang dengan cahaya-Nya menggerakkan falak-falak dan memperkenalkannya. Mahasuci Tuhan yang dengan cahaya-Nya menghaluskan ruh-ruh dan memuliakannya. Mahasuci Tuhan yang"
+    },
+    {
+      "id": "R2-L15",
+      "source_lines": [
+        15
+      ],
+      "check": "Bodiesassembled/joined; manifestationbylightuponThrone,encompassinglights; no extraNames.",
+      "passed": true,
+      "english_evidence": "by His light, assembled the bodies and joined them together. I ask You, O God, by Your light with which You manifested Yourself upon the Throne, so that the Throne encompassed the lights; an",
+      "indonesian_evidence": "dengan cahaya-Nya menyusun jasad-jasad dan memadukannya. Aku memohon kepada-Mu, ya Allah, dengan cahaya-Mu yang dengannya Engkau bertajali pada Arasy, lalu Arasy meliputi cahaya-cahaya; dan "
+    },
+    {
+      "id": "R2-L16",
+      "source_lines": [
+        16
+      ],
+      "check": "Sameṣur/ṣuwarreadinguncertainty; encompassedSPIRITS; manifestationuponKursi.",
+      "passed": true,
+      "english_evidence": "by Your light with which You manifested Yourself upon al-ṣūr/al-ṣuwar [UNCLEAR: 'the Trumpet' or 'the forms'], so that it encompassed the spirits; and I ask You by Your light with which You ",
+      "indonesian_evidence": "dengan cahaya-Mu yang dengannya Engkau bertajali pada al-ṣūr/al-ṣuwar [UNCLEAR: 'sangkakala' atau 'rupa-rupa'], lalu ia meliputi ruh-ruh; dan aku memohon kepada-Mu dengan cahaya-Mu yang deng"
+    },
+    {
+      "id": "R2-L17",
+      "source_lines": [
+        17
+      ],
+      "check": "KursigatheredBODILYFORMS distinctfromspirits; face/Throne/Pen/spirit/ṣur-lightobjects.",
+      "passed": true,
+      "english_evidence": "so that the Kursī gathered the bodily forms; and I ask You, O God, by Your face, the light; by Your Throne, the light; by Your Pen, the light; by Your spirit, the light; by Your ṣūr/ṣuwar,",
+      "indonesian_evidence": "lalu Kursi menghimpun bentuk-bentuk jasmani; dan aku memohon kepada-Mu, ya Allah, dengan wajah-Mu yang cahaya, dengan Arasy-Mu yang cahaya, dengan Pena-Mu yang cahaya, dengan ruh-Mu yang cah"
+    },
+    {
+      "id": "R2-L18",
+      "source_lines": [
+        18
+      ],
+      "check": "ṣur-light andKursi-light; THREEorderedlightvocatives; requestheartlight.",
+      "passed": true,
+      "english_evidence": "the light; and by Your Kursī, the light. And I ask You, O Light of light, O Light of every light, O Illuminator of every light; I ask You to place in my heart a light,",
+      "indonesian_evidence": "yang cahaya, dan dengan Kursi-Mu yang cahaya. Dan aku memohon kepada-Mu, wahai Cahaya dari cahaya, wahai Cahaya setiap cahaya, wahai Penerang setiap cahaya; aku memohon kepada-Mu agar Engkau"
+    },
+    {
+      "id": "R2-L19",
+      "source_lines": [
+        19
+      ],
+      "check": "Hearing/sight/tongue/bones/flesh/SKIN eachlight, correctorder.",
+      "passed": true,
+      "english_evidence": "and in my hearing a light, and in my sight a light, and in my tongue a light, and in my bones a light, and in my flesh a light, and in my skin a light,",
+      "indonesian_evidence": "dan di dalam pendengaranku cahaya, dan di dalam penglihatanku cahaya, dan di dalam lidahku cahaya, dan di dalam tulang-tulangku cahaya, dan di dalam dagingku cahaya, dan di dalam kulitku cah"
+    },
+    {
+      "id": "R2-L20",
+      "source_lines": [
+        20
+      ],
+      "check": "Hair/right/left/front/behind/above, sourceorder/qualifiers.",
+      "passed": true,
+      "english_evidence": "and in my hair a light; and to my right a light, and to my left a light, and before me a light, and behind me a light, and above me",
+      "indonesian_evidence": "dan di dalam rambutku cahaya; dan di sebelah kananku cahaya, dan di sebelah kiriku cahaya, dan di depanku cahaya, dan di belakangku cahaya, dan di atasku"
+    },
+    {
+      "id": "R2-L21",
+      "source_lines": [
+        21
+      ],
+      "check": "Above-lightcontinued; refugefromtakenunawaresBELOW(no newlightbelow); envelopinLIGHTscopequalified; Lightoflights/nearones.",
+      "passed": true,
+      "english_evidence": "a light. And I seek refuge in You from being taken unawares from beneath me, and that You envelop me in the light [UNCLEAR: whether this continues the plea for refuge or is a separate reques",
+      "indonesian_evidence": "cahaya. Dan aku berlindung kepada-Mu dari disergap secara tiba-tiba dari bawahku, dan agar Engkau menyelimutiku dalam cahaya [UNCLEAR: apakah ini masih berada dalam lingkup permohonan perlin"
+    },
+    {
+      "id": "R2-L22",
+      "source_lines": [
+        22
+      ],
+      "check": "Righteous; AllGlorious/AllHoly/angelsspirit; exaltedangelsPRESENTinholyPresence.",
+      "passed": true,
+      "english_evidence": "and of the righteous, the All-Glorious, the All-Holy, Lord of the angels and the spirit. Exalted is the Lord of the angels who are present in the holy presence.",
+      "indonesian_evidence": "dan orang-orang yang berbakti, Yang Mahasuci, Yang Mahakudus, Tuhan para malaikat dan ruh. Mahatinggi Tuhan para malaikat yang hadir di hadirat kesucian."
+    },
+    {
+      "id": "R2-L23",
+      "source_lines": [
+        23
+      ],
+      "check": "SeparateexaltedangelsOBEYcommands andSTRIVEearth.",
+      "passed": true,
+      "english_evidence": "Exalted is the Lord of the angels who do what they are commanded. Exalted is the Lord of the angels who strive upon the earth.",
+      "indonesian_evidence": "Mahatinggi Tuhan para malaikat yang mengerjakan apa yang diperintahkan kepada mereka. Mahatinggi Tuhan para malaikat yang bergiat di bumi."
+    },
+    {
+      "id": "R2-L24",
+      "source_lines": [
+        24
+      ],
+      "check": "FavoredTENnights(no inventedcalendar), spiritstimebreaths; repeatedask.",
+      "passed": true,
+      "english_evidence": "O God, I ask You by the spirits favored in the ten nights, and I ask You by the spirits entrusted with the breaths of time, and I ask You,",
+      "indonesian_evidence": "Ya Allah, sesungguhnya aku memohon kepada-Mu dengan ruh-ruh yang diutamakan pada sepuluh malam, dan aku memohon kepada-Mu dengan ruh-ruh yang diserahi embusan-embusan masa, dan aku memohon k"
+    },
+    {
+      "id": "R2-L25",
+      "source_lines": [
+        25
+      ],
+      "check": "SupportwithspiritFROMYOU; NOstrongthingpreventsattainingunveilingoriginalnatureUNTILstanding.",
+      "passed": true,
+      "english_evidence": "O God, to support me with a spirit from You; no strong thing prevents me from attaining the unveiling of my original nature, until I stand in",
+      "indonesian_evidence": "ya Allah, agar Engkau menguatkanku dengan ruh dari-Mu; tiada sesuatu yang kuat yang menghalangiku untuk sampai pada penyingkapan fitrahku, hingga aku berdiri di"
+    },
+    {
+      "id": "R2-L26",
+      "source_lines": [
+        26
+      ],
+      "check": "PresenceFROMwhichYouBROUGHTmeout, neutralprovenance matchingakhrajtani/IDmengeluarkanku, no addedbanishment; immersionpersonqualified, lightsFROMwhichYoubroughtforth, strengthenedencounter clausesallretained.",
+      "passed": true,
+      "english_evidence": "the presence from which You brought me out, and [UNCLEAR: 'immerse yourself,' 'I immerse myself,' or 'he immersed himself'; the grammatical person of wa-n-gh-m-s is uncertain] in the lights ",
+      "indonesian_evidence": "hadirat yang darinya Engkau mengeluarkanku, dan [UNCLEAR: 'benamkanlah dirimu', 'aku membenamkan diri', atau 'ia membenamkan diri'; orang gramatikal dalam bentuk wa-n-gh-m-s tidak pasti] dal"
+    },
+    {
+      "id": "R2-L27",
+      "source_lines": [
+        27
+      ],
+      "check": "Luminousspirits; SYRIACSHARES/FORTUNES notrepairedletters; first5Names.",
+      "passed": true,
+      "english_evidence": "luminous spirits and live through witnessing the Syriac shares or fortunes. Truly, You are the Living, the Self-Sustaining, the Light, the Guide, the Manifest,",
+      "indonesian_evidence": "yang bercahaya dan hidup dengan menyaksikan bagian-bagian atau peruntungan Suryani. Sesungguhnya Engkaulah Yang Hidup, Yang Berdiri Sendiri, Cahaya, Pemberi Petunjuk, Yang Nyata,"
+    },
+    {
+      "id": "R2-L28",
+      "source_lines": [
+        28
+      ],
+      "check": "Remaining10Names in sourceorder, TWOliteral[~] atopaqueMubdi/mlq(notKing); basmalabegins.",
+      "passed": true,
+      "english_evidence": "and al-mubdī [~] [UNCLEAR: reading and meaning of this Name], the Unveiler, al-mlq [~] [UNCLEAR: vocalization and meaning of this Name], the Sender-down, the All-Hearing, the Giver of Life, ",
+      "indonesian_evidence": "dan al-mubdī [~] [UNCLEAR: bacaan dan makna Nama ini], Yang Menyingkap, al-mlq [~] [UNCLEAR: vokalisasi dan makna Nama ini], Yang Menurunkan, Yang Maha Mendengar, Yang Menghidupkan, Yang Mah"
+    },
+    {
+      "id": "R2-L29",
+      "source_lines": [
+        29
+      ],
+      "check": "Basmalacomplete,God/nootherdeity/LivingSelfSustaining; sentBookintruthconfirmingbeforeit.",
+      "passed": true,
+      "english_evidence": "God, the Merciful, the Compassionate. God: there is no god but Him, the Living, the Self-Sustaining. He sent down to you the Book in truth, confirming what is before it,",
+      "indonesian_evidence": "Allah Yang Maha Pengasih lagi Maha Penyayang. Allah, tidak ada tuhan selain Dia, Yang Hidup, Yang Berdiri Sendiri. Dia menurunkan kepadamu Kitab dengan kebenaran, membenarkan apa yang ada di"
+    },
+    {
+      "id": "R2-L30",
+      "source_lines": [
+        30
+      ],
+      "check": "Torah/GospelBEFORE/guidancepeople,Criterion; emphaticWeOurselvesReminder/guardians, noexpandedquote.",
+      "passed": true,
+      "english_evidence": "and He sent down the Torah and the Gospel before, as guidance for people, and He sent down the Criterion. Truly, We Ourselves sent down the Reminder, and truly, We are its guardians.",
+      "indonesian_evidence": "dan menurunkan Taurat dan Injil sebelumnya sebagai petunjuk bagi manusia, dan menurunkan Pembeda. Sesungguhnya Kamilah yang menurunkan Peringatan, dan sesungguhnya Kami benar-benar menjagany"
+    },
+    {
+      "id": "R2-L31",
+      "source_lines": [
+        31
+      ],
+      "check": "Godlightheavensearth,likenessniche/lamp/glass; finalasthoughITfragment notcompleted.",
+      "passed": true,
+      "english_evidence": "God is the light of the heavens and the earth. The likeness of His light is as a niche in which there is a lamp; the lamp is in a glass; the glass is as though it",
+      "indonesian_evidence": "Allah adalah cahaya langit-langit dan bumi. Perumpamaan cahaya-Nya seperti sebuah ceruk yang di dalamnya ada pelita; pelita itu di dalam kaca; kaca itu seakan-akan ia"
+    }
+  ],
+  "findings": [],
+  "accepted_source_uncertainties": [
+    {
+      "source_lines": [
+        2
+      ],
+      "description": "Printed atmaʿnaka and qudratuna retain their forms and qualified construction/readings, not canonical-prayer repair."
+    },
+    {
+      "source_lines": [
+        3
+      ],
+      "description": "faʿtazalna retains alternatives and does not become invented forgiveness."
+    },
+    {
+      "source_lines": [
+        7
+      ],
+      "description": "Opaque kadalta and ʿalayka retain reading/meaning/linkage uncertainty."
+    },
+    {
+      "source_lines": [
+        8
+      ],
+      "description": "Both negatives retained with actor/linkage/quotation uncertainty rather than fixing theology."
+    },
+    {
+      "source_lines": [
+        16,
+        17
+      ],
+      "description": "ṣur/ṣuwar alternatives remain consistent across both occurrences."
+    },
+    {
+      "source_lines": [
+        21
+      ],
+      "description": "Envelop-in-light clause remains printedlight with qualified refuge/request scope."
+    },
+    {
+      "source_lines": [
+        26
+      ],
+      "description": "Immersionperson remains uncertain instead of forced source command/narrator."
+    },
+    {
+      "source_lines": [
+        28
+      ],
+      "description": "Both opaqueName forms and both literal[~]markers retained without expectedName repair."
+    }
+  ],
+  "uncertainty_markers_per_language": {
+    "en": 10,
+    "id": 10
+  },
+  "review_basis": "Fresh complete source-to-English and separately source-to-Indonesian review of all three actual final files; not diff-only. Checklist retained, all verdicts and evidence freshly evaluated. Parent neither authored nor repaired target prose.",
+  "prior_rejection_sha256": "437edb05a517ef71cc65cf4149e40d5a9c2aaf76fb79e77f2e91ab3ba5b1d5fe",
+  "resolved_findings": [
+    "F01",
+    "F02"
+  ],
+  "summary": "APPROVED exact frozenr2 of Legacy604V2physical114. Parent independently reread all31canonical lines and bothcompleteactualtranslations directlyagainstArabic. Allclauses,conditions,negatives,person/attribution,group lists,15Names,13orderedlightlocations,7Gloryphrases,6Your-lightobjects,3lightvocatives,2literal[~]markers and unfinishedending evaluated. Opaqueopeningforms/negativeactor/ṣur-readings/light-scopes/immersionperson/opaqueNames remain expresslyqualified without familiar-prayer emendation. F01standardmarkerform nowcorrectinbothlanguages;F02neutralbroughtoutwording inEnglish, withIDneutralreadingpreserved. Allothercheckedsourcecontent retained; no reviewer textedit orhumanreviewclaimed. All5rawpins matchbefore/after;reader114agrees. Finalcandidate348tests+49subtests passed;113acceptedpluscurrent114validated. Originalr1rejectionremainsunchanged. Thisissemanticacceptanceofsourcefaithfulness,notendorsementorexternalreligiousauthentication.",
+  "reviewed_utc": "2026-11-09T22:57:35.701836+00:00"
+}
