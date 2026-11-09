@@ -56,62 +56,61 @@ Arabic:
 | ج | ز | ظ | ش | ف | خ | ث |
 
 (الفصل)
-
 Indonesia:
 - 106 -
 
-Huruf fa untuk matahari dan baginya hari الأحد
-| f | j | sh | th | kh | z | ẓ |
-| ẓ | sh | f | kh | th | j | z |
-| j | z | ẓ | sh | f | kh | th |
-| kh | th | j | z | ẓ | sh | f |
-| sh | f | kh | th | j | z | ẓ |
-| z | ẓ | sh | f | kh | th | j |
-| th | j | z | ẓ | sh | f | kh |
+Huruf fāʾ untuk matahari, dan harinya Minggu.
+| fāʾ | jīm | shīn | thāʾ | khāʾ | zāy | ẓāʾ |
+| ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm | zāy |
+| jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ |
+| khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ |
+| shīn | fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ |
+| zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm |
+| thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ |
 
-Huruf syin untuk Mars dan baginya hari Selasa
-| sh | f | kh | th | j | z | ẓ |
-| z | ẓ | sh | f | kh | th | j |
-| j | z | ẓ | sh | f | kh | th |
-| f | kh | th | j | z | ẓ | sh |
-| ẓ | sh | f | kh | th | j | z |
-| j | z | ẓ | sh | f | kh | th |
-| kh | th | j | z | ẓ | sh | f |
+Huruf shīn untuk Mars, dan harinya Selasa.
+| shīn | fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ |
+| zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm |
+| jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ |
+| fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn |
+| ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm | zāy |
+| jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ |
+| khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ |
 
-Huruf zha untuk Jupiter dan baginya hari Kamis
-| ẓ | sh | f | kh | th | j | z |
-| th | j | z | ẓ | sh | f | kh |
-| f | kh | th | j | z | ẓ | sh |
-| sh | kh | f | j | th | z | ẓ |
-| z | ẓ | sh | f | kh | th | j |
-| j | th | z | ẓ | sh | kh | f |
-| kh | f | j | th | z | ẓ | sh |
+Huruf ẓāʾ untuk Jupiter, dan harinya Kamis.
+| ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm | zāy |
+| thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ |
+| fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn |
+| shīn | khāʾ | fāʾ | jīm | thāʾ | zāy | ẓāʾ |
+| zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm |
+| jīm | thāʾ | zāy | ẓāʾ | shīn | khāʾ | fāʾ |
+| khāʾ | fāʾ | jīm | thāʾ | zāy | ẓāʾ | shīn |
 
-Huruf jim untuk bulan dan baginya hari Senin
-| j | th | z | ẓ | sh | f | kh |
-| kh | th | j | z | ẓ | sh | f |
-| f | kh | th | j | z | ẓ | sh |
-| z | ẓ | sh | f | kh | th | j |
-| th | j | z | ẓ | sh | f | kh |
-| f | kh | th | j | z | ẓ | sh |
-| ẓ | sh | f | kh | th | j | z |
+Huruf jīm untuk bulan, dan harinya Senin.
+| jīm | thāʾ | zāy | ẓāʾ | shīn | fāʾ | khāʾ |
+| khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ |
+| fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn |
+| zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm |
+| thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ |
+| fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn |
+| ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm | zāy |
 
-Huruf tsa untuk Merkurius dan baginya hari Rabu
-| th | j | z | ẓ | sh | f | kh |
-| sh | f | kh | th | j | z | ẓ |
-| ẓ | sh | f | kh | th | j | z |
-| j | z | ẓ | sh | f | kh | th |
-| sh | f | kh | th | j | z | ẓ |
-| ẓ | sh | f | kh | th | j | z |
-| th | j | z | ẓ | sh | f | kh |
+Huruf thāʾ untuk Merkurius, dan harinya Rabu.
+| thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ |
+| shīn | fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ |
+| ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm | zāy |
+| jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ |
+| shīn | fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ |
+| ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm | zāy |
+| thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ |
 
-Huruf ha untuk Venus dan baginya hari Jumat
-| kh | th | j | z | ẓ | sh | f |
-| sh | f | kh | th | j | z | ẓ |
-| z | ẓ | sh | f | kh | th | j |
-| th | j | z | ẓ | sh | f | kh |
-| f | kh | th | j | z | ẓ | sh |
-| ẓ | sh | f | kh | th | j | z |
-| j | z | ẓ | sh | f | kh | th |
+Huruf ḥāʾ untuk Venus, dan harinya Jumat.
+| khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ |
+| shīn | fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ |
+| zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm |
+| thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ |
+| fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn |
+| ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm | zāy |
+| jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ |
 
-(الفصل)
+(Bagian)
