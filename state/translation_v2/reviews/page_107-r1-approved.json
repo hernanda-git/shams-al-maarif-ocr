@@ -1,0 +1,603 @@
+{
+  "page": 107,
+  "passed": true,
+  "verdict": "APPROVED",
+  "reviewer_role": "independent-model-semantic-reviewer",
+  "source_hashes": {
+    "ocr/enriched/page_107.txt": "afc3e5c00481880072182e10ffbe4e6516d8c1739e559bb4dc1ccc48aab7e943",
+    "ocr/enriched_en/page_107.txt": "f18375c0f19db69617d4bc9f378709b5ea222462ced6a13386c83631f5eb333b",
+    "ocr/enriched_id/page_107.txt": "c018b65cb3bf3574b41f6d6a60c66ad39d13dd4a0c6d95dd7042f449ac4c49ca",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "0653e5772ad47594294fe57aa62a186bc2fe35a1f0ab8173d57bb698ba026691"
+  },
+  "coverage": [
+    {
+      "id": "C01",
+      "source_lines": "1-32",
+      "check": "Complete physical legacy V2 page, not a substituted edition. Read every canonical line and both complete targets. One Arabic label and one own-language label per file; embedded Arabic is byte-exact canonical content plus one label-separating LF.",
+      "passed": true,
+      "english_evidence": "Exactly one Arabic: and one English:; embedded source raw bytes unchanged; complete 32-line English block.",
+      "indonesian_evidence": "Tepat satu Arabic: dan satu Indonesia:; byte sumber tertanam tidak berubah; blok Indonesia lengkap, 32 baris."
+    },
+    {
+      "id": "C02",
+      "source_lines": "1",
+      "check": "Printed folio — ١٠١ — remains content on its own line with the original em-dash style; it is not replaced by physical filename index 107.",
+      "passed": true,
+      "english_evidence": "— 101 —",
+      "indonesian_evidence": "— 101 —"
+    },
+    {
+      "id": "C03",
+      "source_lines": "2",
+      "check": "الأعمى والبصير أم هل تستوي الظلمات والنور: retain the blind/seeing opening continuation and the darkness/light comparison without importing a preceding-page clause.",
+      "passed": true,
+      "english_evidence": "the blind and the seeing, or are darkness and light equal?",
+      "indonesian_evidence": "yang buta dan yang melihat, atau apakah sama kegelapan dan cahaya?"
+    },
+    {
+      "id": "C04",
+      "source_lines": "2-3",
+      "check": "أم جعلوا لله شركاء خلقوا كخلقه فتشابه الخلق عليهم: retain interrogative alternative, partners assigned to God, their creation like His, and resulting indistinguishability to THEM.",
+      "passed": true,
+      "english_evidence": "Or have they assigned to God partners who created as He created, so that creation became indistinguishable\nto them?",
+      "indonesian_evidence": "Ataukah mereka menjadikan bagi Allah sekutu-sekutu yang mencipta seperti ciptaan-Nya sehingga ciptaan itu menjadi sulit dibedakan\nbagi mereka?"
+    },
+    {
+      "id": "C05",
+      "source_lines": "3",
+      "check": "قل الله خالق كل شيء وهو الواحد القهار: preserve command to say, God as Creator of EVERYTHING, oneness and subduing epithet.",
+      "passed": true,
+      "english_evidence": "Say: \"God is the Creator of everything, and He is the One, the All-Subduing.\"",
+      "indonesian_evidence": "Katakanlah: \"Allah adalah Pencipta segala sesuatu, dan Dialah Yang Mahaesa lagi Maha Menundukkan.\""
+    },
+    {
+      "id": "C06",
+      "source_lines": "4",
+      "check": "(فصل) ومما قيل في اسم الله الأعظم من أراد ذلك فليقرأ من أول سورة الحديد: parenthesized section, reported rather than authenticated Greatest Name claim, conditional desire and recitation starting at BEGINNING of al-Ḥadīd.",
+      "passed": true,
+      "english_evidence": "(Section) Among what has been said concerning the Greatest Name of God: whoever desires that, let him recite from the beginning of Sūrat al-Ḥadīd up to His words, Most High,",
+      "indonesian_evidence": "(Bagian) Di antara hal-hal yang dikatakan mengenai Nama Allah Yang Paling Agung: siapa yang menghendaki hal itu, hendaklah ia membaca dari awal Surah al-Ḥadīd sampai firman-Nya, Yang Mahatinggi,"
+    },
+    {
+      "id": "C07",
+      "source_lines": "4-5",
+      "check": "إلى قوله تعالى الصدور: preserve specified endpoint, divine attribution and Most High honorific; do not reconstruct a longer verse.",
+      "passed": true,
+      "english_evidence": "up to His words, Most High,\n\"the breasts,\"",
+      "indonesian_evidence": "sampai firman-Nya, Yang Mahatinggi,\n\"dada-dada,\""
+    },
+    {
+      "id": "C08",
+      "source_lines": "5",
+      "check": "وآخر سورة الحشر لو أنزلنا هذا القرآن على جبل إلى آخر السورة ثم تقول: al-Ḥashr final portion, We/this Qur’an/mountain starting fragment, endpoint at surah end and subsequent speech instruction.",
+      "passed": true,
+      "english_evidence": "and the end of Sūrat al-Ḥashr, from \"If We sent down this Qur'an upon a mountain\" to the end of the surah. Then say:",
+      "indonesian_evidence": "dan bagian akhir Surah al-Ḥashr, mulai dari \"Sekiranya Kami menurunkan Al-Qur'an ini ke atas sebuah gunung\" hingga akhir surah. Kemudian ucapkanlah:"
+    },
+    {
+      "id": "C09",
+      "source_lines": "5-6",
+      "check": "اللهم يا من هو كذا ولا يكون أحد كذا سواه أن تفعل بي ما هو كذا وكذا: preserve all placeholders, exclusivity excluding anyone else, third-person description followed by direct divine address, and first-person beneficiary. No particular request invented.",
+      "passed": true,
+      "english_evidence": "\"O God, O One who is\nsuch-and-such, and no one is such-and-such other than Him, that You do for me what is such-and-such and such-and-such.\"",
+      "indonesian_evidence": "\"Ya Allah, wahai Yang\nbegini, dan tidak ada seorang pun yang begini selain Dia, agar Engkau melakukan terhadapku hal yang begini dan begini.\""
+    },
+    {
+      "id": "C10",
+      "source_lines": "6-7",
+      "check": "قال بعضهم إذا دعا بها على ميت: retain unnamed attribution, conditional invocation USING IT and the written DEAD PERSON reading. No remembered intention or illness formula substituted.",
+      "passed": true,
+      "english_evidence": "Some have said: \"If someone invokes it over a dead person,",
+      "indonesian_evidence": "Sebagian orang berkata: \"Jika seseorang berdoa dengannya atas seorang yang telah mati,"
+    },
+    {
+      "id": "C11",
+      "source_lines": "7",
+      "check": "بلية صادقة وقلب حاضر: retain both affliction and attentive-heart phrases; local note exposes uncertain attachment to dead-person clause rather than smoothing into a confidently reconstructed condition.",
+      "passed": true,
+      "english_evidence": "[UNCLEAR: followed by 'a true affliction and an attentive heart'; their grammatical relation to 'over a dead person' is uncertain]",
+      "indonesian_evidence": "[UNCLEAR: disusul 'musibah yang sungguh-sungguh dan hati yang hadir'; hubungan tata bahasanya dengan 'atas seorang yang telah mati' tidak pasti]"
+    },
+    {
+      "id": "C12",
+      "source_lines": "7",
+      "check": "له شأن إذن الله: significance and written permission-of-God phrase survive; unclear connective is locally marked, not silently repaired by adding an absent preposition.",
+      "passed": true,
+      "english_evidence": "it has significance [UNCLEAR: followed by 'permission of God'; the grammatical link is unclear].",
+      "indonesian_evidence": "hal itu memiliki arti penting [UNCLEAR: disusul 'izin Allah'; hubungan tata bahasanya tidak jelas]."
+    },
+    {
+      "id": "C13",
+      "source_lines": "7-8",
+      "check": "وذكر أنها مروية عن النبي عليه السلام بأن يقال في الدعاء بعد قراءة الآيات المذكورة: retain reported transmission from Prophet, SHORT PEACE-ONLY blessing, supplication and AFTER-recitation order.",
+      "passed": true,
+      "english_evidence": "It is mentioned that this is transmitted from the Prophet, peace be upon him, with the following to be said in supplication\nafter reciting the aforementioned verses:",
+      "indonesian_evidence": "Disebutkan bahwa hal ini diriwayatkan dari Nabi, semoga salam tercurah kepadanya, dengan ucapan berikut dalam doa\nsetelah membaca ayat-ayat tersebut:"
+    },
+    {
+      "id": "C14",
+      "source_lines": "8",
+      "check": "اللهم إني أسألك باسمك المخزون المكنون الطاهر المقدس الحي: first-person request, YOUR Name and stored/concealed/pure/holy/Ever-Living sequence are complete.",
+      "passed": true,
+      "english_evidence": "after reciting the aforementioned verses: \"O God, I ask You by Your Name, stored away, concealed, pure, holy, the Ever-Living,",
+      "indonesian_evidence": "setelah membaca ayat-ayat tersebut: \"Ya Allah, aku memohon kepada-Mu dengan nama-Mu yang tersimpan, yang tersembunyi, yang suci, yang disucikan, Yang Mahahidup,"
+    },
+    {
+      "id": "C15",
+      "source_lines": "9",
+      "check": "القيوم الرحمن الرحيم ذي الجلال والإكرام: preserve successive divine descriptions and both majesty/honor components.",
+      "passed": true,
+      "english_evidence": "the Self-Sustaining, the All-Merciful, the Merciful, Possessor of Majesty and Honor,",
+      "indonesian_evidence": "Yang Berdiri Sendiri, Yang Maha Pengasih, Yang Maha Penyayang, Pemilik Keagungan dan Kemuliaan,"
+    },
+    {
+      "id": "C16",
+      "source_lines": "9",
+      "check": "أن تصلي وتسلم على سيدنا محمد: God is asked BOTH to bless and grant peace to OUR master Muḥammad. No unmentioned family or companions added in this occurrence.",
+      "passed": true,
+      "english_evidence": "to bless and grant peace to our master Muḥammad,",
+      "indonesian_evidence": "agar Engkau melimpahkan selawat dan salam kepada junjungan kami Muḥammad,"
+    },
+    {
+      "id": "C17",
+      "source_lines": "9-10",
+      "check": "وأن تفعل بي ما هو كذا وكذا برحمتك يا أرحم الراحمين: both request placeholders, first-person beneficiary, YOUR mercy and superlative mercy address survive.",
+      "passed": true,
+      "english_evidence": "and to do for me what is such-and-such\nand such-and-such, by Your mercy, O Most Merciful of the merciful.",
+      "indonesian_evidence": "dan melakukan terhadapku hal yang begini\ndan begini, dengan rahmat-Mu, wahai Yang Paling Penyayang di antara para penyayang."
+    },
+    {
+      "id": "C18",
+      "source_lines": "10",
+      "check": "ومما يقال في وجه العدو تعززت برب العزة والجبروت: retain enemy-facing source-attributed utterance, first-person strength, Lord, might and sovereign power.",
+      "passed": true,
+      "english_evidence": "Among the things said in an enemy's face is: \"I have sought might through the Lord of Might and Sovereignty",
+      "indonesian_evidence": "Di antara ucapan di hadapan musuh ialah: \"Aku mencari kemuliaan dengan Tuhan Pemilik Kemuliaan dan Keperkasaan,"
+    },
+    {
+      "id": "C19",
+      "source_lines": "11",
+      "check": "وتوكلت على الحي الذي لا يموت: retain first-person reliance and explicit death negation.",
+      "passed": true,
+      "english_evidence": "and relied upon the Ever-Living who does not die.",
+      "indonesian_evidence": "dan bertawakal kepada Yang Mahahidup yang tidak mati."
+    },
+    {
+      "id": "C20",
+      "source_lines": "11",
+      "check": "شاهت الوجوه وعميت الأبصار: retain both plural faces and eyesight imprecations; no affirmative narrator-endorsed medical claim added.",
+      "passed": true,
+      "english_evidence": "May faces be disfigured and eyes blinded.",
+      "indonesian_evidence": "Semoga wajah-wajah menjadi buruk dan penglihatan menjadi buta."
+    },
+    {
+      "id": "C21",
+      "source_lines": "11-12",
+      "check": "وتوكلت على الله الواحد القهار ولا حول ولا قوة إلا بالله العلي العظيم: repeated reliance NOT deduplicated; epithets complete; both negated powers and exception through God remain.",
+      "passed": true,
+      "english_evidence": "I have relied upon God, the One,\nthe All-Subduing, and there is no power and no strength except through God, the Most High, the Magnificent.",
+      "indonesian_evidence": "Aku bertawakal kepada Allah Yang Mahaesa,\nYang Maha Menundukkan, dan tiada daya serta kekuatan kecuali dengan Allah Yang Mahatinggi lagi Mahaagung."
+    },
+    {
+      "id": "C22",
+      "source_lines": "12",
+      "check": "وتنفث ثلاث نفثات في وجهه على بعد: exactly THREE light puffs toward HIS face FROM A DISTANCE, not three readings or close contact; source attribution explicit.",
+      "passed": true,
+      "english_evidence": "[The source instructs:] Blow three light puffs toward his face from a distance",
+      "indonesian_evidence": "[Sumber memerintahkan:] Embuskan tiga embusan ringan ke arah wajahnya dari jauh"
+    },
+    {
+      "id": "C23",
+      "source_lines": "12-13",
+      "check": "وتقدم عليه فإنه لا يتكلم إلا بما تحب: advance upon enemy after puffs, causal assertion and ONLY what YOU like restriction retained, without negative reversal.",
+      "passed": true,
+      "english_evidence": "and advance upon him,\nfor he will speak only what you like.",
+      "indonesian_evidence": "dan majulah mendekatinya,\nsebab ia hanya akan mengucapkan apa yang engkau sukai."
+    },
+    {
+      "id": "C24",
+      "source_lines": "13",
+      "check": "ووجدت بخط الفقيه سلمان العلوي روى أن سعيد بن المسيب: first-person finding in HANDWRITING, jurist Salmān al-‘Alawī, passive reported provenance and Sa‘īd ibn al-Musayyib all retained.",
+      "passed": true,
+      "english_evidence": "I found in the handwriting of the jurist Salmān al-‘Alawī: it was related that Sa‘īd ibn al-Musayyib",
+      "indonesian_evidence": "Aku menemukan dalam tulisan tangan ahli fikih Salmān al-‘Alawī: diriwayatkan bahwa Sa‘īd ibn al-Musayyib"
+    },
+    {
+      "id": "C25",
+      "source_lines": "14",
+      "check": "اجتمع برجل من مؤمني الجن ممن آمن بالنبي صلى الله عليه وسلم: Sa‘īd meets a MALE believing jinn who believed in Prophet; FULL blessing retains BOTH blessings and peace unlike short formula on line 7.",
+      "passed": true,
+      "english_evidence": "met a man among the believing jinn, one of those who believed in the Prophet, peace and blessings be upon him.",
+      "indonesian_evidence": "bertemu seorang laki-laki dari kalangan jin beriman, salah seorang yang beriman kepada Nabi, semoga selawat dan salam tercurah kepadanya."
+    },
+    {
+      "id": "C26",
+      "source_lines": "14",
+      "check": "فقال له هل أكسيك حجابا: JINN offers to clothe SA‘ĪD in protective ḥijāb, in interrogative form. The two actors are explicitly named and not reversed.",
+      "passed": true,
+      "english_evidence": "The jinn man said to Sa‘īd: \"Shall I clothe you in a ḥijāb (protective amulet)",
+      "indonesian_evidence": "Laki-laki jin itu berkata kepada Sa‘īd: \"Maukah kupakaikan kepadamu suatu ḥijāb (jimat pelindung)"
+    },
+    {
+      "id": "C27",
+      "source_lines": "15",
+      "check": "ما علق على أحد وطرقه طارق سوء: negative scopes over hanging-and-subsequent-evil-visit combination, NOT a claim that the charm has never been hung at all.",
+      "passed": true,
+      "english_evidence": "that has never been hung upon anyone who was then visited by an evil visitor,",
+      "indonesian_evidence": "yang tidak pernah digantungkan pada seseorang yang kemudian didatangi pembawa keburukan,"
+    },
+    {
+      "id": "C28",
+      "source_lines": "15",
+      "check": "ولا علق على دابة فأصابها مغل: second negative concerns an animal wearing it then suffering maghal; technical term retained with only broad animal-illness gloss, not a fabricated precise diagnosis.",
+      "passed": true,
+      "english_evidence": "nor hung upon an animal that was then afflicted with maghal (an animal illness),",
+      "indonesian_evidence": "tidak pula digantungkan pada seekor hewan yang kemudian terkena maghal (suatu penyakit hewan),"
+    },
+    {
+      "id": "C29",
+      "source_lines": "15-16",
+      "check": "ولا دخل به على سلطان فأصابه شر: negative protects person entering ruler’s presence WITH it; subsequent harm is not assigned to ruler or amulet.",
+      "passed": true,
+      "english_evidence": "nor brought into a ruler's presence by someone\nwho then suffered harm,",
+      "indonesian_evidence": "dan tidak pula dibawa menghadap seorang penguasa oleh seseorang\nyang kemudian ditimpa keburukan,"
+    },
+    {
+      "id": "C30",
+      "source_lines": "16",
+      "check": "ولا قرئ في سفينة وغرقت: fourth negative pairs RECITATION aboard ship and ship sinking; do not replace reading with merely carrying.",
+      "passed": true,
+      "english_evidence": "nor recited aboard a ship that then sank?",
+      "indonesian_evidence": "serta tidak pula dibacakan di dalam kapal yang kemudian tenggelam?"
+    },
+    {
+      "id": "C31",
+      "source_lines": "16",
+      "check": "ومن صحبه في السفر والحجاب معه لم يصبه شر أبدا: travel accompaniment, explicit presence of ḥijāb and NEVER suffering harm remain. Masculine object read as the offered ḥijāb is supported by the head noun; no separately named travelling companion is explicit in source.",
+      "passed": true,
+      "english_evidence": "Whoever travels in its company, with the ḥijāb with him, will never suffer harm.",
+      "indonesian_evidence": "Siapa pun yang menyertainya dalam perjalanan, sementara ḥijāb itu ada padanya, tidak akan pernah ditimpa keburukan."
+    },
+    {
+      "id": "C32",
+      "source_lines": "17",
+      "check": "فقال ومن لي بذلك فقال هات الدواة والقرطاس واكتب هذه الأسماء بسم الله الرحمن الرحيم: Sa‘īd asks assurance; jinn answers with inkpot, paper, write THESE NAMES, complete basmala. Speakers and sequence correct.",
+      "passed": true,
+      "english_evidence": "Sa‘īd said: \"Who will guarantee that for me?\" The jinn man said: \"Bring the inkpot and paper, and write these names: In the name of God, the All-Merciful, the Merciful.",
+      "indonesian_evidence": "Sa‘īd berkata: \"Siapa yang menjamin hal itu bagiku?\" Laki-laki jin itu berkata: \"Bawalah wadah tinta dan kertas, lalu tulislah nama-nama ini: Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang."
+    },
+    {
+      "id": "C33",
+      "source_lines": "18",
+      "check": "كل ذي ملك فملوك الله: keep damaged dominion/kings-of-God wording, with explicit link uncertainty; do not silently substitute a familiar owned-by-God formula.",
+      "passed": true,
+      "english_evidence": "Every possessor of dominion, then the kings of God [UNCLEAR: the link of 'the kings of God' to the preceding words is unclear];",
+      "indonesian_evidence": "Setiap pemilik kerajaan, maka raja-raja Allah [UNCLEAR: hubungan 'raja-raja Allah' dengan bagian sebelumnya tidak jelas];"
+    },
+    {
+      "id": "C34",
+      "source_lines": "18-19",
+      "check": "وكل ذي قوة فضعيف عند الله وكل جبار فصغير عند الله وكل ظالم لا محيص له من الله: EVERY strong one weak before God, EVERY tyrant small before God, EVERY wrongdoer without escape FROM God; universals and negative retained in sequence.",
+      "passed": true,
+      "english_evidence": "every possessor of strength is weak before God; every tyrant is small before God; and no wrongdoer has any escape\nfrom God.",
+      "indonesian_evidence": "setiap pemilik kekuatan adalah lemah di hadapan Allah; setiap penguasa sewenang-wenang adalah kecil di hadapan Allah; dan setiap orang zalim tidak mempunyai jalan untuk melepaskan diri\ndari Allah."
+    },
+    {
+      "id": "C35",
+      "source_lines": "19",
+      "check": "حصنت حامل كتابي هذا بأحديته من الإنس والجن والشياطين والعفاريت المتمردين: first-person fortifier, bearer of THIS MY writing, HIS oneness, ordered human/jinn/devil/rebellious-ifrit inventory; possessive not transferred to bearer or God.",
+      "passed": true,
+      "english_evidence": "I have fortified the bearer of this writing of mine, through His oneness, against humans, jinn, devils, and rebellious ‘ifrīts.",
+      "indonesian_evidence": "Aku membentengi pembawa tulisanku ini, dengan keesaan-Nya, dari manusia, jin, setan-setan, dan para ifrit yang memberontak."
+    },
+    {
+      "id": "C36",
+      "source_lines": "20",
+      "check": "خاتم سلمان بن داود على أفواههم وعصى موسى على أكتافهم: retain written SALMĀN ibn Dāwūd, not remembered Sulaymān; seal on THEIR mouths, Mūsā’s staff on THEIR shoulders.",
+      "passed": true,
+      "english_evidence": "The seal of Salmān ibn Dāwūd is upon their mouths, the staff of Mūsā upon their shoulders,",
+      "indonesian_evidence": "Meterai Salmān ibn Dāwūd ada pada mulut-mulut mereka, tongkat Mūsā pada bahu-bahu mereka,"
+    },
+    {
+      "id": "C37",
+      "source_lines": "20-21",
+      "check": "وخيرهم بين أعينهم وشرهم بين أرجلهم: THEIR GOOD between THEIR EYES and THEIR EVIL between THEIR LEGS; no swapped anatomy or invented verb.",
+      "passed": true,
+      "english_evidence": "their good between their eyes, and their evil between\ntheir legs.",
+      "indonesian_evidence": "kebaikan mereka di antara mata mereka, dan keburukan mereka di antara\nkaki-kaki mereka."
+    },
+    {
+      "id": "C38",
+      "source_lines": "21",
+      "check": "ولا غالب إلا الله وحكم حامل كتابي هذا في حرز الله المانع: exclusive prevailer God; anomalous ḥukm/bearer clause retained in God’s preventing protection. Ruling/hukum lexically represents written حكم; note limits its syntactic role rather than masking an invented action.",
+      "passed": true,
+      "english_evidence": "None prevails but God. And the ruling of the bearer of this writing of mine [UNCLEAR: the grammatical role of 'ruling' in this bearer clause is uncertain] is in the protective keeping of God, the Withholder;",
+      "indonesian_evidence": "Tiada yang mengalahkan kecuali Allah. Dan hukum pembawa tulisanku ini [UNCLEAR: fungsi tata bahasa kata 'hukum' dalam klausa tentang pembawa ini tidak pasti] berada dalam perlindungan Allah, Yang Mencegah;"
+    },
+    {
+      "id": "C39",
+      "source_lines": "21-22",
+      "check": "الذي لا يذل من اعتز به ولا ينكشف من استتر به: BOTH negative assurances: whoever seeks might in Him not abased, whoever shelters in Him not exposed. Protected person’s acts not transferred to God.",
+      "passed": true,
+      "english_evidence": "whoever seeks might through Him is not abased,\nand whoever takes cover in Him is not exposed.",
+      "indonesian_evidence": "orang yang mencari kemuliaan melalui-Nya tidak akan hina,\ndan orang yang berlindung dengan-Nya tidak akan tersingkap."
+    },
+    {
+      "id": "C40",
+      "source_lines": "22",
+      "check": "سبحان من ألجم البحر بكلماته سبحان من أطفأ نار إبراهيم بقدرته وحكمه: TWO distinct glorifications; sea bridled with HIS words, Ibrāhīm’s fire extinguished through HIS power AND judgment.",
+      "passed": true,
+      "english_evidence": "Glory be to Him who bridled the sea with His words. Glory be to Him who extinguished Ibrāhīm's fire through His power and His judgment.",
+      "indonesian_evidence": "Mahasuci Dia yang mengekang laut dengan kalimat-kalimat-Nya. Mahasuci Dia yang memadamkan api Ibrāhīm dengan kekuasaan dan hukum-Nya."
+    },
+    {
+      "id": "C41",
+      "source_lines": "23",
+      "check": "سبحان من تواضع له كل شيء: THIRD separate glorification; EVERYTHING humbles itself before Him, not He humbling Himself.",
+      "passed": true,
+      "english_evidence": "Glory be to Him before whom everything humbled itself.",
+      "indonesian_evidence": "Mahasuci Dia yang kepada-Nya segala sesuatu merendahkan diri."
+    },
+    {
+      "id": "C42",
+      "source_lines": "23-24",
+      "check": "Adjacent addresses أقبل through أسمع وأرى lack explicit internal speaker and quotation-boundary labels in OCR. Local notes prevent confidently assigning every address to jinn/narrator or manufacturing remembered external citations.",
+      "passed": true,
+      "english_evidence": "[UNCLEAR: the speaker and quotation boundaries of the following addresses are not identified.]",
+      "indonesian_evidence": "[UNCLEAR: penutur dan batas kutipan sapaan-sapaan berikut tidak disebutkan dengan jelas.]"
+    },
+    {
+      "id": "C43",
+      "source_lines": "23",
+      "check": "أقبل ولا تخف إنك من الآمنين: SINGULAR come-forward command, negative fear command and membership among safe retained.",
+      "passed": true,
+      "english_evidence": "Come forward and do not fear; you are among the safe.",
+      "indonesian_evidence": "Majulah dan jangan takut; sesungguhnya engkau termasuk orang-orang yang aman."
+    },
+    {
+      "id": "C44",
+      "source_lines": "23",
+      "check": "لا تخف دركا ولا تخشى: both negative fear clauses, overtaking object and repetition retained.",
+      "passed": true,
+      "english_evidence": "Do not fear being overtaken, and do not be afraid.",
+      "indonesian_evidence": "Jangan takut akan tersusul dan jangan khawatir."
+    },
+    {
+      "id": "C45",
+      "source_lines": "23-24",
+      "check": "لا تخف إنك أنت الأعلى: another singular fear prohibition, emphatic YOU and uppermost/highest predicate retained.",
+      "passed": true,
+      "english_evidence": "Do not fear, for you\nare the uppermost.",
+      "indonesian_evidence": "Jangan takut, sesungguhnya engkau\nadalah yang paling tinggi."
+    },
+    {
+      "id": "C46",
+      "source_lines": "24",
+      "check": "لا تخافا إني معكما أسمع وأرى: shift to DUAL fear prohibition and with-you; FIRST-PERSON hearing AND seeing remain with the speaker, not the addressees.",
+      "passed": true,
+      "english_evidence": "Do not fear, you both; I am with you both, hearing and seeing.",
+      "indonesian_evidence": "Jangan takut, kalian berdua; sesungguhnya Aku bersama kalian berdua, Aku mendengar dan melihat."
+    },
+    {
+      "id": "C47",
+      "source_lines": "24-25",
+      "check": "اللهم احفظ حامل كتابي هذا واستر بسترك الوافي الحصين: petition God to preserve bearer of THIS MY writing, cover HIM with YOUR ample/complete fortified covering; understood object is bearer.",
+      "passed": true,
+      "english_evidence": "O God, preserve the bearer of this writing of mine and cover him with Your ample,\nfortified covering,",
+      "indonesian_evidence": "Ya Allah, jagalah pembawa tulisanku ini dan tutupilah ia dengan penutup-Mu yang sempurna,\nyang kokoh,"
+    },
+    {
+      "id": "C48",
+      "source_lines": "25",
+      "check": "في ليله ونهاره وظعنه وقراره: FOUR ordered circumstances, HIS night, day, journeying, staying; not abridged into always.",
+      "passed": true,
+      "english_evidence": "in his night and his day, in his journeying and his staying,",
+      "indonesian_evidence": "pada malam dan siangnya, saat ia bepergian dan menetap,"
+    },
+    {
+      "id": "C49",
+      "source_lines": "25",
+      "check": "الذي تستر به أولياءك المتقين من أعدائك الظالمين الكافرين: same covering, YOUR God-fearing friends, YOUR enemies qualified unjust and unbelieving; both opposing groups and divine possessives correct.",
+      "passed": true,
+      "english_evidence": "with which You cover Your God-fearing friends against Your enemies, the wrongdoers and unbelievers.",
+      "indonesian_evidence": "yang dengannya Engkau menutupi para wali-Mu yang bertakwa dari musuh-musuh-Mu yang zalim lagi kafir."
+    },
+    {
+      "id": "C50",
+      "source_lines": "26",
+      "check": "اللهم من عاداه فعاده ومن كاده فكده ومن مد يده له فخافضه: THREE conditional retaliatory petitions in order, hostility/scheming/outstretched hand; divine response targets adversary not bearer.",
+      "passed": true,
+      "english_evidence": "O God, whoever is hostile to him, be hostile to that person; whoever schemes against him, scheme against that person; whoever stretches out his hand toward him, bring that person low.",
+      "indonesian_evidence": "Ya Allah, siapa yang memusuhinya, musuhilah orang itu; siapa yang memperdayainya, perdayalah orang itu; siapa yang mengulurkan tangannya kepadanya, rendahkanlah orang itu."
+    },
+    {
+      "id": "C51",
+      "source_lines": "26-27",
+      "check": "واطفئ عنه نار من أراد به عداوة وشرا: extinguish adversary’s fire AWAY FROM bearer; BOTH intended enmity and evil retained across line break.",
+      "passed": true,
+      "english_evidence": "Extinguish, away from him, the fire of whoever intends enmity\nand evil toward him.",
+      "indonesian_evidence": "Padamkanlah, jauh darinya, api orang yang menghendaki permusuhan\ndan keburukan terhadapnya."
+    },
+    {
+      "id": "C52",
+      "source_lines": "27",
+      "check": "وفرج عنه كل كربة وضيق ولا تحمله ما لا يطيق: relief from EVERY distress AND constriction; do NOT burden him with what he CANNOT bear; both negatives in capacity clause preserved.",
+      "passed": true,
+      "english_evidence": "Relieve him of every distress and constriction, and do not burden him with what he cannot bear.",
+      "indonesian_evidence": "Bebaskanlah ia dari setiap kesusahan dan kesempitan, dan jangan bebani ia dengan sesuatu yang tidak sanggup ditanggungnya."
+    },
+    {
+      "id": "C53",
+      "source_lines": "27",
+      "check": "إنك أنت الحق الحقيق: direct emphatic divine address and TWO truth/genuineness predicates retained rather than deduplicated.",
+      "passed": true,
+      "english_evidence": "You are the Truth, the Truly Real.",
+      "indonesian_evidence": "Sesungguhnya Engkau Yang Benar, Yang Sungguh Benar."
+    },
+    {
+      "id": "C54",
+      "source_lines": "27-28",
+      "check": "وصلى الله على سيدنا محمد وعلى آله وصحبه وسلم: complete blessing, God as giver, OUR master Muḥammad, HIS family AND companions, plus peace; source-specific fuller recipients present here.",
+      "passed": true,
+      "english_evidence": "May\nGod bless our master Muḥammad, his family and his companions, and grant them peace.",
+      "indonesian_evidence": "Semoga\nAllah melimpahkan selawat dan salam kepada junjungan kami Muḥammad, keluarganya, dan para sahabatnya."
+    },
+    {
+      "id": "C55",
+      "source_lines": "28",
+      "check": "قال الشعبي إن لله في كل كتاب سرا ومره في الأنعام ٣: named Al-Sha‘bī, God has secret in EVERY book; damaged m-r-h and earlier distinct al-An‘ām THREE preserved with word/link uncertainty.",
+      "passed": true,
+      "english_evidence": "Al-Sha‘bī said: \"God has a secret in every book, and m-r-h [UNCLEAR: the meaning of this word and its link to what follows are uncertain] in al-An‘ām, 3,",
+      "indonesian_evidence": "Al-Sha‘bī berkata: \"Sesungguhnya Allah mempunyai rahasia dalam setiap kitab, dan m-r-h [UNCLEAR: makna kata ini serta hubungannya dengan bagian berikut tidak pasti] dalam al-An‘ām, 3,"
+    },
+    {
+      "id": "C56",
+      "source_lines": "28-29",
+      "check": "وفي فواتح السور وقيل: preserve surah-openings fragment, note uncertain end of damaged Al-Sha‘bī quotation and retain following IMPERSONAL it-is-said rather than attribute inventory certainly to him.",
+      "passed": true,
+      "english_evidence": "and in\nthe openings of the surahs.\" [UNCLEAR: where al-Sha‘bī's statement ends is uncertain.] It is also said",
+      "indonesian_evidence": "dan dalam\npembukaan-pembukaan surah.\" [UNCLEAR: akhir pernyataan al-Sha‘bī tidak pasti.] Dikatakan pula"
+    },
+    {
+      "id": "C57",
+      "source_lines": "29",
+      "check": "اسم الله الأعظم في البقرة آيتان وفي آل عمران واحدة وفي الأنعام ٣: inventory introduction, al-Baqarah TWO VERSES, Āl ‘Imrān ONE, al-An‘ām THREE. This al-An‘ām entry is additional to line 28, not a deduplicated replacement.",
+      "passed": true,
+      "english_evidence": "that the Greatest Name of God is in al-Baqarah, two verses; in Āl ‘Imrān, one; in al-An‘ām, 3;",
+      "indonesian_evidence": "bahwa Nama Allah Yang Paling Agung terdapat dalam al-Baqarah, dua ayat; dalam Āl ‘Imrān, satu; dalam al-An‘ām, 3;"
+    },
+    {
+      "id": "C58",
+      "source_lines": "30",
+      "check": "وفي الأعراف ٢ وفي الأنفال ٢: fourth and fifth entries, al-A‘rāf TWO then al-Anfāl TWO, not combined or transposed.",
+      "passed": true,
+      "english_evidence": "al-A‘rāf, 2; in al-Anfāl, 2;",
+      "indonesian_evidence": "al-A‘rāf, 2; dalam al-Anfāl, 2;"
+    },
+    {
+      "id": "C59",
+      "source_lines": "30",
+      "check": "وفي الرعد آية وفي مريم آية وفي طه ٤ وفي المؤمنون آية: entries 6–9, al-Ra‘d ONE VERSE, Maryam ONE VERSE, Ṭā Hā FOUR, al-Mu’minūn ONE VERSE; sequence and identities retained.",
+      "passed": true,
+      "english_evidence": "in al-Ra‘d, a verse; in Maryam, a verse; in Ṭā Hā, 4; in al-Mu’minūn, a verse;",
+      "indonesian_evidence": "dalam al-Ra‘d, satu ayat; dalam Maryam, satu ayat; dalam Ṭā Hā, 4; dalam al-Mu’minūn, satu ayat;"
+    },
+    {
+      "id": "C60",
+      "source_lines": "31",
+      "check": "وفي الفيل آية وفي الروم آية وفي السجدة آية: entries 10–12, al-Fīl ONE VERSE, al-Rūm ONE VERSE, al-Sajdah ONE VERSE, exact source order.",
+      "passed": true,
+      "english_evidence": "al-Fīl, a verse; in al-Rūm, a verse; in al-Sajdah, a verse;",
+      "indonesian_evidence": "al-Fīl, satu ayat; dalam al-Rūm, satu ayat; dalam al-Sajdah, satu ayat;"
+    },
+    {
+      "id": "C61",
+      "source_lines": "31",
+      "check": "وفي يس ٢ وفي غافر ٣ وفي الجاثية ١ وفي الرحمن ٢: entries 13–16, Yā Sīn TWO, Ghāfir THREE, al-Jāthiyah ONE, al-Raḥmān TWO; no inferred recitation multiplier.",
+      "passed": true,
+      "english_evidence": "in Yā Sīn, 2; in Ghāfir, 3; in al-Jāthiyah, 1; in al-Raḥmān, 2;",
+      "indonesian_evidence": "dalam Yā Sīn, 2; dalam Ghāfir, 3; dalam al-Jāthiyah, 1; dalam al-Raḥmān, 2;"
+    },
+    {
+      "id": "C62",
+      "source_lines": "32",
+      "check": "وفي الحشر ٣ وفي الملك آية وفي الإخلاص ٢: entries 17–19, al-Ḥashr THREE, al-Mulk ONE VERSE, al-Ikhlāṣ TWO; inventory ends before dream report.",
+      "passed": true,
+      "english_evidence": "in al-Ḥashr, 3; in al-Mulk, a verse; and in al-Ikhlāṣ, 2.",
+      "indonesian_evidence": "dalam al-Ḥashr, 3; dalam al-Mulk, satu ayat; dan dalam al-Ikhlāṣ, 2."
+    },
+    {
+      "id": "C63",
+      "source_lines": "28-32",
+      "check": "Whole inventory: 19 ordered entries after وقيل, quantities 2,1,3,2,2,1,1,4,1,1,1,1,2,3,1,2,3,1,2. Separate earlier al-An‘ām THREE also retained. Values are verse inventory, not added procedural repetitions.",
+      "passed": true,
+      "english_evidence": "Ordered list: al-Baqarah 2; Āl ‘Imrān 1; al-An‘ām 3; al-A‘rāf 2; al-Anfāl 2; al-Ra‘d 1; Maryam 1; Ṭā Hā 4; al-Mu’minūn 1; al-Fīl 1; al-Rūm 1; al-Sajdah 1; Yā Sīn 2; Ghāfir 3; al-Jāthiyah 1; al-Raḥmān 2; al-Ḥashr 3; al-Mulk 1; al-Ikhlāṣ 2. Earlier separate al-An‘ām, 3 also present.",
+      "indonesian_evidence": "Urutan: al-Baqarah 2; Āl ‘Imrān 1; al-An‘ām 3; al-A‘rāf 2; al-Anfāl 2; al-Ra‘d 1; Maryam 1; Ṭā Hā 4; al-Mu’minūn 1; al-Fīl 1; al-Rūm 1; al-Sajdah 1; Yā Sīn 2; Ghāfir 3; al-Jāthiyah 1; al-Raḥmān 2; al-Ḥashr 3; al-Mulk 1; al-Ikhlāṣ 2. Al-An‘ām, 3 sebelumnya juga dipertahankan."
+    },
+    {
+      "id": "C64",
+      "source_lines": "32",
+      "check": "قال شرح: written Sharḥ retained, not silently replaced with a remembered narrator; local note qualifies uncertain name versus explanation, rather than asserting a known attribution.",
+      "passed": true,
+      "english_evidence": "\"Sharḥ said\" [UNCLEAR: whether 'Sharḥ' names a speaker or means 'explanation' is uncertain]:",
+      "indonesian_evidence": "\"Sharḥ berkata\" [UNCLEAR: apakah 'Sharḥ' merupakan nama penutur atau berarti 'penjelasan' tidak pasti]:"
+    },
+    {
+      "id": "C65",
+      "source_lines": "32",
+      "check": "رأيت في النوم قائلا يقول امض إلى: FIRST-PERSON dream, separately quoted unnamed voice, imperative and unfinished TO preposition survive. No destination or next-page completion supplied.",
+      "passed": true,
+      "english_evidence": "\"I saw in sleep someone saying: Go to",
+      "indonesian_evidence": "\"Aku melihat dalam tidur seseorang berkata: Pergilah ke"
+    },
+    {
+      "id": "C66",
+      "source_lines": "1-32",
+      "check": "Source order/boundaries/repetitions: SIX asterisks on corresponding lines 6,7,10,13,24,28, parenthesized section on line 4, opening continuation and unfinished final speech retained; separators not confused with procedural quantity.",
+      "passed": true,
+      "english_evidence": "Six literal * separators in source order and the same line positions; (Section), opening fragment and terminal Go to preserved.",
+      "indonesian_evidence": "Enam pemisah * dalam urutan sumber dan posisi baris yang sama; (Bagian), fragmen awal dan akhir Pergilah ke tetap ada."
+    },
+    {
+      "id": "C67",
+      "source_lines": "1-32",
+      "check": "Style/source-attribution: Latin-script-only targets; Arabic terms transliterated; Indonesian UNCLEAR descriptions are Indonesian. Protective/occult claims remain reported dialogue or source-framed instructions, not reviewer advice. Short/full blessings follow Arabic differences.",
+      "passed": true,
+      "english_evidence": "No Arabic-script characters in target. English notes and explicit Some have said, It is mentioned, jinn dialogue and [The source instructs:] preserve source framing. Peace-only on line 7 and peace-and-blessings on line 14 match source.",
+      "indonesian_evidence": "Tidak ada aksara Arab dalam target. Deskripsi UNCLEAR berbahasa Indonesia. Sebagian orang berkata, Disebutkan, dialog jin, dan [Sumber memerintahkan:] mempertahankan atribusi. Salam saja pada baris 7 serta selawat dan salam pada baris 14 sesuai sumber."
+    },
+    {
+      "id": "C68",
+      "source_lines": "1-32",
+      "check": "Exact-hash binding/read-only scope: complete canonical source, EN, ID, style and reader match candidate-r1-hashes.json and original before-review digests. Decision binds only these raw hashes, not a future edit or a tracker transition. After-write equality is an acceptance condition of this artifact.",
+      "passed": true,
+      "english_evidence": "EN raw SHA256 f18375c0f19db69617d4bc9f378709b5ea222462ced6a13386c83631f5eb333b. Canonical source and style hashes recorded. No candidate or live corpus edits.",
+      "indonesian_evidence": "SHA256 mentah ID c018b65cb3bf3574b41f6d6a60c66ad39d13dd4a0c6d95dd7042f449ac4c49ca. Hash sumber dan pedoman dicatat. Korpus kandidat dan korpus aktif tidak disunting."
+    }
+  ],
+  "findings": [],
+  "accepted_source_uncertainties": [
+    {
+      "source_lines": "6-7",
+      "source_reading": "إذا دعا بها على ميت بلية صادقة وقلب حاضر له شأن إذن الله",
+      "assessment": "Both targets retain written dead-person reading, both affliction/attentive-heart phrases, significance and permission of God. Separate local notes expose uncertain grammatical links. Neither invents an intention, replaces it with an illness reading, asserts resurrection or supplies a missing guaranteed result."
+    },
+    {
+      "source_lines": "15",
+      "source_reading": "مغل",
+      "assessment": "Both retain maghal and add only broad animal-illness gloss, not an unsupported precise diagnosis."
+    },
+    {
+      "source_lines": "18",
+      "source_reading": "كل ذي ملك فملوك الله",
+      "assessment": "Dominion followed by kings of God remains intentionally awkward with local link-uncertainty notes. Neither inserts inferred missing letters to smooth this into owned-by-God."
+    },
+    {
+      "source_lines": "20",
+      "source_reading": "خاتم سلمان بن داود",
+      "assessment": "Both literally retain Salmān ibn Dāwūd. Familiar Sulaymān is not grounds to repair canonical OCR. A readable written name can be transliterated without an additional uncertainty note."
+    },
+    {
+      "source_lines": "21",
+      "source_reading": "وحكم حامل كتابي هذا في حرز الله المانع",
+      "assessment": "Ruling/hukum renders written حكم; its relation to bearer clause is expressly uncertain in both. Notes do not conceal an invented verb, actor or new protective claim. Divine protection and preventing/withholding epithet remain translated."
+    },
+    {
+      "source_lines": "23-24",
+      "source_reading": "أقبل ولا تخف إنك من الآمنين لا تخف دركا ولا تخشى لا تخف إنك أنت الأعلى لا تخافا إني معكما أسمع وأرى",
+      "assessment": "OCR supplies no explicit internal speaker names or quotation boundaries. Both targets note that limit while translating every address, fear repetition and singular-to-dual shift, rather than imposing remembered external citations."
+    },
+    {
+      "source_lines": "28-29",
+      "source_reading": "قال الشعبي إن لله في كل كتاب سرا ومره في الأنعام ٣ وفي فواتح السور",
+      "assessment": "Both preserve damaged m-r-h, separate al-An‘ām 3 and surah-openings fragment. Local notes expose uncertain word meaning/link and uncertainty of Al-Sha‘bī quotation ending. Following impersonal inventory is not certainly assigned to him."
+    },
+    {
+      "source_lines": "32",
+      "source_reading": "قال شرح رأيت في النوم قائلا يقول امض إلى",
+      "assessment": "Both qualify Sharḥ as uncertain name versus explanation, preserve first-person dream and unnamed voice, and stop at open destination preposition. This physical-page boundary is not a target omission."
+    }
+  ],
+  "summary": "APPROVED only for exact frozen candidate-r1 hashes. Independently read complete 32-line legacy V2 Arabic and evaluated complete English and, separately, Indonesian directly against it: every clause, speaker transition, negative, possessive, blessing, procedural quantity, 19 ordered inventory entries plus earlier separate al-An‘ām 3, six stars, folio and terminal fragment. All 68 explicit coverage items pass; no unresolved translation defects found. Local notes adequately preserve damaged source without speculative repair. Raw source, EN, ID, style and frozen reader digests matched hash pin before review and were verified unchanged after artifact creation. Candidate/live corpus and tracker/approval state were not modified. This original JSON is a semantic review decision, not tracker approval or publication."
+}

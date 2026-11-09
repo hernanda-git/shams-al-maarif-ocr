@@ -1,0 +1,70 @@
+{
+  "type": "local_approved_awaiting_commit",
+  "page": 107,
+  "checked_utc": "2026-11-09T13:51:31.788324+00:00",
+  "head": "70ae20d71725e9a436e63465f917493a28f2881e",
+  "git_index_unchanged": true,
+  "live_reader_unchanged": true,
+  "reader_verification": "frozen candidate, not live reader validation",
+  "review": {
+    "role": "independent-model-semantic-reviewer",
+    "reviewer_id": "sa-0-64398c4d",
+    "translator_id": "sa-0-a5098034",
+    "coverage_passed": 68,
+    "accepted_source_uncertainties": 8,
+    "findings": [],
+    "original_sha256": "20bca7f7cdf8f75d95501963565c1bbbd60d002f6952fae9e33398c143ac9aeb",
+    "path": "state/translation_v2/reviews/page_107-r1-approved.json"
+  },
+  "content_hashes": {
+    "ocr/enriched/page_107.txt": "afc3e5c00481880072182e10ffbe4e6516d8c1739e559bb4dc1ccc48aab7e943",
+    "ocr/enriched_en/page_107.txt": "f18375c0f19db69617d4bc9f378709b5ea222462ced6a13386c83631f5eb333b",
+    "ocr/enriched_id/page_107.txt": "c018b65cb3bf3574b41f6d6a60c66ad39d13dd4a0c6d95dd7042f449ac4c49ca",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "0653e5772ad47594294fe57aa62a186bc2fe35a1f0ab8173d57bb698ba026691"
+  },
+  "full_tests": {
+    "passed": 348,
+    "subtests_passed": 49,
+    "seconds": 78.6,
+    "output": "tests-full-r1.txt"
+  },
+  "accepted_regression_sweep": {
+    "passed": 106,
+    "failed": 0
+  },
+  "protected_paths_verified": 1369,
+  "canonical_sources_preserved": 604,
+  "reader_records_preserved": 603,
+  "reader_titles_metadata_preserved": 604,
+  "editorial_pages": [],
+  "counts": {
+    "committed": 106,
+    "approved": 1,
+    "pending": 497
+  },
+  "current_unfinished_page": 107,
+  "current_status": "approved-awaiting-commit",
+  "successor_page": 108,
+  "successor_status": "pending",
+  "worker_lock": {
+    "worker_id": "hermes-v2-p107-20261109",
+    "pid": 12572,
+    "page": 107,
+    "started_at": "2026-11-09T13:28:41+00:00",
+    "heartbeat_at": "2026-11-09T13:51:30+00:00"
+  },
+  "actions": [
+    "claim",
+    "start",
+    "heartbeat",
+    "heartbeat",
+    "submit_review",
+    "approve"
+  ],
+  "commit_push_authority": "not granted for new page107 batch; stop before content commit",
+  "committed": false,
+  "pushed": false,
+  "deployment_performed": false,
+  "v3_or_pdf_mutation": false
+}
