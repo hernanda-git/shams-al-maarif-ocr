@@ -1,0 +1,36 @@
+{
+  "type": "frozen_editorial_boundary",
+  "boundary_page": 107,
+  "captured_at_utc": "2026-11-09T13:31:03.972485+00:00",
+  "base_head": "70ae20d71725e9a436e63465f917493a28f2881e",
+  "editorial_pages": [],
+  "existing_override_pages": [
+    40,
+    41,
+    43,
+    44,
+    45,
+    46,
+    50,
+    51
+  ],
+  "existing_registry_sha256": "0fb3aa4c041d56ff0d6e65bd56cd1ec346dc0cc23e760454dd2e022fbc0fbd0e",
+  "canonical_raw_count": 604,
+  "tooling_overlay": {
+    "scripts/verify_translation_v2_page.py": "29ecb3a96dd54cb0245bc9f67563e2a3fc397ab5e245d71e68456be569d66684",
+    "scripts/sweep_translation_v2.py": "6941467648476e0c8ecaba084e03717fa20a7e54ef3116e48cdb48a6306ecef6",
+    "tests/test_sweep_translation_v2.py": "b626e75b3ff07d798406e99eeb0e3f6c2d79e381af20a0eca61ed35db7dea263"
+  },
+  "state": "frozen_for_authorized_publication",
+  "new_page_reviewed_hashes": {
+    "ocr/enriched/page_107.txt": "afc3e5c00481880072182e10ffbe4e6516d8c1739e559bb4dc1ccc48aab7e943",
+    "ocr/enriched_en/page_107.txt": "f18375c0f19db69617d4bc9f378709b5ea222462ced6a13386c83631f5eb333b",
+    "ocr/enriched_id/page_107.txt": "c018b65cb3bf3574b41f6d6a60c66ad39d13dd4a0c6d95dd7042f449ac4c49ca"
+  },
+  "frozen_reader_sha256": "0653e5772ad47594294fe57aa62a186bc2fe35a1f0ab8173d57bb698ba026691",
+  "review_artifact": "state/translation_v2/reviews/page_107-r1-approved.json",
+  "original_review_sha256": "20bca7f7cdf8f75d95501963565c1bbbd60d002f6952fae9e33398c143ac9aeb",
+  "validation": "Frozen candidate page107 PASS; accepted pages106/106 PASS; 348 tests plus49 subtests PASS",
+  "publication_status": "prepared; remote readback recorded externally after push",
+  "authority": "User: commit and push and yes continue. Standing authority for sequential V2 reviewed content/integration/checkpoint commits and pushes; no deployment, no V3/PDF or model/provider changes."
+}
