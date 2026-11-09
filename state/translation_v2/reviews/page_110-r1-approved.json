@@ -1,0 +1,562 @@
+{
+  "page": 110,
+  "passed": true,
+  "verdict": "APPROVED",
+  "reviewer_role": "independent-model-semantic-reviewer",
+  "source_hashes": {
+    "ocr/enriched/page_110.txt": "9ca3f684ce0685d4dbb2a002afdc3fabc6e1313c3039ddd07359f615d6e4f092",
+    "ocr/enriched_en/page_110.txt": "2c4b534135061e2513c54ce4794efd3fc152aca1bf0b7e3938623dd494daa6c4",
+    "ocr/enriched_id/page_110.txt": "d551989f85bd2ee0f576bbb7a1d043f4941641c8049270edf9def8f7b9d6b4ee",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "b67aef18a6ddba3acfae15c343fc6afbd110f8058d31cebea797c5f85f5fc69d"
+  },
+  "coverage": [
+    {
+      "id": "C01",
+      "source_lines": [1, 32],
+      "check": "Frozen Legacy604V2 identity, immutable source prefixes, and corresponding reader record; not V3 or the 616-page edition.",
+      "passed": true,
+      "english_evidence": "All five raw SHA-256 pins match. The complete canonical source bytes occur unchanged after Arabic:, followed only by the separator newline. Reader page 110 English equals the outer-trimmed English block in the 604-record reader.",
+      "indonesian_evidence": "The complete canonical source bytes likewise occur unchanged after Arabic:. Reader page 110 Indonesian equals the outer-trimmed Indonesia block. No corpus or tracker write was performed."
+    },
+    {
+      "id": "C02",
+      "source_lines": [1, 2],
+      "check": "Physical page 110 retains printed folio 104, original dash style, and following blank line.",
+      "passed": true,
+      "english_evidence": "Opening is '- 104 -', followed by a blank line; not renumbered 110.",
+      "indonesian_evidence": "Opening is '- 104 -', followed by a blank line; not renumbered 110."
+    },
+    {
+      "id": "C03",
+      "source_lines": [1, 32],
+      "check": "Complete line structure, language labels, target script, decimal digits, and controls.",
+      "passed": true,
+      "english_evidence": "32 logical target lines, with only line 2 blank; one Arabic: and one English:. No Arabic or other foreign-script letters, non-ASCII decimal digits, or prohibited controls; standard transliteration modifiers ʾ and ʿ retained.",
+      "indonesian_evidence": "32 logical target lines, with only line 2 blank; one Arabic: and one Indonesia:, no English: block. Same script, ASCII-decimal, and control checks pass."
+    },
+    {
+      "id": "C04",
+      "source_lines": [3],
+      "check": "Opening continuation أحكام الملك الفرد في عرشه and purpose ليعلم.",
+      "passed": true,
+      "english_evidence": "'the decrees of the Sole King in His Throne, so that it may be known' preserves the continuation without inventing a missing opening.",
+      "indonesian_evidence": "'hukum-hukum Raja Yang Tunggal pada Arasy-Nya, agar diketahui' independently preserves the king, throne, and purpose."
+    },
+    {
+      "id": "C05",
+      "source_lines": [3],
+      "check": "Throne manifests traces of power from the All-Powerful, causing the following shīn claim.",
+      "passed": true,
+      "english_evidence": "'the Throne displays the traces of power from the All-Powerful. Thus shīn'.",
+      "indonesian_evidence": "'Arasy menampakkan jejak-jejak kekuasaan dari Yang Mahakuasa. Karena itu, shīn'."
+    },
+    {
+      "id": "C06",
+      "source_lines": [3, 4],
+      "check": "Shīn at the end of al-ʿarsh and its relation to the oneness of multiple worlds.",
+      "passed": true,
+      "english_evidence": "'at the end of the letters of al-ʿarsh' and 'affirmation of oneness of the many worlds'.",
+      "indonesian_evidence": "'pada akhir huruf-huruf al-ʿarsh' and 'penegasan keesaan alam-alam yang beraneka'."
+    },
+    {
+      "id": "C07",
+      "source_lines": [4, 5],
+      "check": "Destined ordering, opaque المارت, throne for everything, and resulting throne-of-letters claim.",
+      "passed": true,
+      "english_evidence": "'destined ordering and al-mārt' were 'a throne for everything'; al-mārt note explicitly withholds both reading certainty and meaning. Shīn 'became the throne of the letters'.",
+      "indonesian_evidence": "'susunan yang ditakdirkan dan al-mārt' were 'arasy bagi segala sesuatu'; its Indonesian note withholds a lexical meaning. Shīn 'menjadi arasy huruf-huruf'."
+    },
+    {
+      "id": "C08",
+      "source_lines": [5],
+      "check": "Reason for shīn's letter-throne status and start of the negated completeness claim.",
+      "passed": true,
+      "english_evidence": "'because of its lofty station and ordering. Among the letters, nothing is found'.",
+      "indonesian_evidence": "'karena tingginya kedudukan dan susunannya. Di antara huruf-huruf tidak ditemukan'."
+    },
+    {
+      "id": "C09",
+      "source_lines": [5, 6],
+      "check": "ما يكمل عروشها الأحرف الألف is not silently repaired into an exception or a smooth affirmative.",
+      "passed": true,
+      "english_evidence": "'that completes their thrones—al-aḥruf al-alif'; note gives the locally supported literal 'the letters, alif' and flags its connection to the preceding denial, without introducing an absent 'except'.",
+      "indonesian_evidence": "'apa yang menyempurnakan arasy-arasynya—al-aḥruf al-alif'; note gives 'huruf-huruf, alif' and explicitly leaves the connection to the denial unresolved."
+    },
+    {
+      "id": "C10",
+      "source_lines": [6, 7],
+      "check": "Alif as root of the letter-tree; letters terminate and ascend to shīn.",
+      "passed": true,
+      "english_evidence": "'alif is the root of the tree of letters' and shīn is where the letters 'reach their end and ascend'.",
+      "indonesian_evidence": "'alif merupakan akar pohon huruf-huruf' and 'pada shīn huruf-huruf mencapai ujung dan kenaikannya'."
+    },
+    {
+      "id": "C11",
+      "source_lines": [7],
+      "check": "Two exclusive clauses: no subsequent branch except from within; nothing before alif except what comes from it.",
+      "passed": true,
+      "english_evidence": "'No branch comes after it except from its interior. Thus nothing precedes alif except what comes from it.' The first pronouns are not replaced with invented named referents.",
+      "indonesian_evidence": "'Tidak ada cabang setelahnya kecuali dari bagian dalamnya' and 'tidak ada yang mendahului alif kecuali apa yang berasal darinya'."
+    },
+    {
+      "id": "C12",
+      "source_lines": [7, 8],
+      "check": "Shīn's likeness to alif's form, expansion into explicit numeral 3, and first spelled-out letter sequence.",
+      "passed": true,
+      "english_evidence": "'like the form of alif, spread out into 3 letters, thus: shīn yāʾ nūn'.",
+      "indonesian_evidence": "'seperti bentuk alif, terbentang menjadi 3 huruf, demikian: shīn yāʾ nūn'."
+    },
+    {
+      "id": "C13",
+      "source_lines": [8],
+      "check": "نسبته كنسبته preserves both relational pronouns without assigning unsupported antecedents.",
+      "passed": true,
+      "english_evidence": "'its relation was like its relation' with a note that the two referents are unspecified.",
+      "indonesian_evidence": "'nisbahnya seperti nisbahnya' with 'kedua rujukan tidak dijelaskan'."
+    },
+    {
+      "id": "C14",
+      "source_lines": [8, 9],
+      "check": "Other three-letter compositions, second explicit numeral 3, and negated throne status for shīn.",
+      "passed": true,
+      "english_evidence": "'Even if something other than shīn is composed of 3 letters, it is not a throne for shīn'.",
+      "indonesian_evidence": "'Sekalipun sesuatu selain shīn tersusun dari 3 huruf, hal itu tidak menjadi arasy bagi shīn'."
+    },
+    {
+      "id": "C15",
+      "source_lines": [9],
+      "check": "Negated endpoint, unresolved لما أشبه, and والرسوخ all remain visible.",
+      "passed": true,
+      "english_evidence": "'because it does not reach an endpoint—li-mā ashbaha' with its resemblance-phrase connection flagged, followed by 'and rootedness'. No inferred object or repaired cause is inserted.",
+      "indonesian_evidence": "'sebab tidak mencapai suatu batas akhir—li-mā ashbaha' with an Indonesian connection note, followed by 'dan keteguhan'. The resemblance gloss is supported by أشبه, not an invented word meaning."
+    },
+    {
+      "id": "C16",
+      "source_lines": [10],
+      "check": "Earlier شهد الله, rootedness of oneness, and absence of existence in both pairs of realms.",
+      "passed": true,
+      "english_evidence": "Earlier 'God bears witness' points to 'rootedness of the affirmation of oneness' and 'absence of existence in the two abodes and the two worlds'. No remembered continuation is added.",
+      "indonesian_evidence": "Earlier 'Allah bersaksi' points to 'keteguhan penegasan keesaan' and 'ketiadaan wujud di dua negeri dan dua alam'. No canonical quotation repair."
+    },
+    {
+      "id": "C17",
+      "source_lines": [10, 11],
+      "check": "Source السين is sīn here; Kursī identification and qualified bearer claim preserve the Throne gloss.",
+      "passed": true,
+      "english_evidence": "'Sīn is the Kursī (Seat). It is not far-fetched that the Kursī is what bears it—I mean the Throne'.",
+      "indonesian_evidence": "'Sīn ialah Kursī (Kursi)' and 'Tidaklah jauh kemungkinan' that it bears it, with 'yang kumaksud ialah Arasy'."
+    },
+    {
+      "id": "C18",
+      "source_lines": [11, 12],
+      "check": "Body as seat for the sun's throne; every subtle thing subsisting through every dense thing.",
+      "passed": true,
+      "english_evidence": "'the body is a seat for the throne of the sun'; 'In truth, every subtle thing subsists through every dense thing'. Body is not silently changed to a sphere.",
+      "indonesian_evidence": "'jasad merupakan kursi bagi arasy matahari'; 'Pada hakikatnya, setiap yang halus berdiri melalui setiap yang padat'."
+    },
+    {
+      "id": "C19",
+      "source_lines": [12, 13],
+      "check": "Alif's lightest/subtlest superlatives and reason لعدم التشبيه.",
+      "passed": true,
+      "english_evidence": "'Thus alif is the lightest and subtlest of the letters, because of the absence of likeness'.",
+      "indonesian_evidence": "'Karena itu, alif merupakan huruf yang paling ringan dan paling halus, karena tiadanya keserupaan'."
+    },
+    {
+      "id": "C20",
+      "source_lines": [13],
+      "check": "وأقامه فأقام أقائما remains a separate obscure construction; no repaired scriptural quotation.",
+      "passed": true,
+      "english_evidence": "'set it upright, then set up aqāʾiman'; note flags the reading of aqāʾiman, actors, and relationships. The rendered upright/setting verbs are present in أقامه and أقام.",
+      "indonesian_evidence": "'menegakkannya, lalu menegakkan aqāʾiman'; note flags reading, actors, and relationships rather than inventing a translation of the opaque final token."
+    },
+    {
+      "id": "C21",
+      "source_lines": [13, 14],
+      "check": "No counterpart among letter-units; no other letter known above it or preceding it at word-end.",
+      "passed": true,
+      "english_evidence": "'no counterpart among the individual letter-units'; 'nothing from the other letters is known above it'; 'none of the others precedes it at the end of the word'. All three negatives survive.",
+      "indonesian_evidence": "'Tidak ada yang menyerupainya dalam satuan-satuan huruf'; 'tidak dikenal sesuatu dari huruf lain di atasnya'; 'tidak ada yang lain mendahuluinya pada akhir kata'."
+    },
+    {
+      "id": "C22",
+      "source_lines": [14, 15],
+      "check": "Firstness/lastness and exception that Kursī is more fitting relative to the Throne-world.",
+      "passed": true,
+      "english_evidence": "'It points to firstness and lastness, except that the Kursī is more fitting in relation to the world of the Throne'.",
+      "indonesian_evidence": "'keawalan dan keakhiran, hanya saja Kursī lebih sesuai dalam kaitannya dengan alam Arasy'."
+    },
+    {
+      "id": "C23",
+      "source_lines": [15],
+      "check": "Whole/detail distinction: shīn is the Throne's final rank, nūn its final part in detail.",
+      "passed": true,
+      "english_evidence": "'Since shīn is the Throne’s final rank taken as a whole, its final part in detail is nūn'.",
+      "indonesian_evidence": "'Karena shīn merupakan martabat terakhir Arasy secara keseluruhan, bagian terakhirnya secara terperinci ialah nūn'."
+    },
+    {
+      "id": "C24",
+      "source_lines": [15, 16],
+      "check": "Nūn bears the worlds, with the source's explicit whale identification.",
+      "passed": true,
+      "english_evidence": "'Nūn bears the worlds—I mean the whale'.",
+      "indonesian_evidence": "'Nūn memikul alam-alam—yang kumaksud ialah ikan paus'."
+    },
+    {
+      "id": "C25",
+      "source_lines": [16],
+      "check": "Dependency direction shīn → nūn → worlds and source square brackets around النون.",
+      "passed": true,
+      "english_evidence": "'Nūn draws from shīn, and the worlds draw from [nūn]'. Neither dependency is reversed; the bracket is retained.",
+      "indonesian_evidence": "'Nūn mengambil dari shīn, dan alam-alam mengambil dari [nūn]'. Same dependency direction and bracket preservation."
+    },
+    {
+      "id": "C26",
+      "source_lines": [16, 17],
+      "check": "Likewise the lofty world draws from nūn, followed by the attributed quotation actually on this source.",
+      "passed": true,
+      "english_evidence": "'Likewise, the lofty world draws from nūn. He, Most High, said: “Nūn, and the pen and what they inscribe.”' No absent verse continuation is supplied.",
+      "indonesian_evidence": "'Demikian pula, alam yang tinggi mengambil dari nūn. Dia, Yang Mahatinggi, berfirman: “Nūn, dan pena serta apa yang mereka tuliskan.”'"
+    },
+    {
+      "id": "C27",
+      "source_lines": [17, 18],
+      "check": "Pen draws from that nūn; outward affair versus inward kāf; concealed secret.",
+      "passed": true,
+      "english_evidence": "'The pen draws from that nūn, which is the outward aspect of that affair whose inward aspect is kāf, indicating the concealed secret'. Dependency and inward/outward polarity agree with the source.",
+      "indonesian_evidence": "'Pena mengambil dari nūn tersebut' as 'bagian lahir' of the affair whose 'bagian batinnya ialah kāf', indicating 'rahasia tersembunyi'."
+    },
+    {
+      "id": "C28",
+      "source_lines": [18, 19],
+      "check": "This is shīn; negated inscription then affirmative writing is not harmonized.",
+      "passed": true,
+      "english_evidence": "'This is shīn: it is not made inscribed, and the letter shīn is written in it'. No new medium or condition reconciles the adjacent statements.",
+      "indonesian_evidence": "'Inilah shīn: ia tidak dijadikan tertulis, dan huruf shīn dituliskan di dalamnya'. The negative and subsequent affirmative are both retained."
+    },
+    {
+      "id": "C29",
+      "source_lines": [19],
+      "check": "Exactly a thousand times, first hour, every day suitable to the operation.",
+      "passed": true,
+      "english_evidence": "'a thousand times in the first hour of every day appropriate to its operation'; not once daily or the first day.",
+      "indonesian_evidence": "'seribu kali pada jam pertama setiap hari yang sesuai dengan pengamalannya'; all count, hour, and suitability restrictions remain."
+    },
+    {
+      "id": "C30",
+      "source_lines": [19, 20],
+      "check": "Days sought for good and for evil; Saturday and the literal repeated hour.",
+      "passed": true,
+      "english_evidence": "'some are sought for good and some for evil, such as Saturday and its hour, and its hour'. The repetition is not deduplicated.",
+      "indonesian_evidence": "'ada yang dituju untuk kebaikan dan ada yang dituju untuk keburukan, seperti Sabtu dan jamnya, dan jamnya'."
+    },
+    {
+      "id": "C31",
+      "source_lines": [20],
+      "check": "Each secret and operation suitability remain without an invented schedule.",
+      "passed": true,
+      "english_evidence": "'for every secret appropriate to its operation' remains after the repeated hour; no planetary timing or extra weekday is added.",
+      "indonesian_evidence": "'bagi setiap rahasia yang sesuai dengan pengamalannya'; no added schedule or extra condition."
+    },
+    {
+      "id": "C32",
+      "source_lines": [20, 21],
+      "check": "Opaque وفيه ما فمن عليها وعمله retained; notes do not turn it into a confident condition or agent.",
+      "passed": true,
+      "english_evidence": "'In it there is mā fa-man' and 'upon it and its operation', with separate notes about reading/linkage and the connection to the preceding fragment. No meaning is invented for mā fa-man.",
+      "indonesian_evidence": "'Di dalamnya terdapat mā fa-man' and 'atasnya dan pengamalannya', with Indonesian uncertainty notes. No added act of wearing, carrying, or reciting is inferred."
+    },
+    {
+      "id": "C33",
+      "source_lines": [21],
+      "check": "God makes sought and intended things easy for him; repeated good-or-evil scope retained.",
+      "passed": true,
+      "english_evidence": "'God makes easy for him what he seeks and whatever he intends, whether good or evil'. Both seeking and all intended outcomes remain.",
+      "indonesian_evidence": "'Allah memudahkan baginya apa yang dicarinya serta segala yang ditujunya, baik kebaikan maupun keburukan'."
+    },
+    {
+      "id": "C34",
+      "source_lines": [21, 22],
+      "check": "Shīn's secrets in the corporeal world exceed counting.",
+      "passed": true,
+      "english_evidence": "'The secrets of shīn in the corporeal world are more than can be counted'.",
+      "indonesian_evidence": "'Rahasia-rahasia shīn dalam alam jasmani lebih banyak daripada yang dapat dihitung'."
+    },
+    {
+      "id": "C35",
+      "source_lines": [22],
+      "check": "إلا أنه لا يحمله منه وجع في أعضائه: exception, negative, carrying token, from-it token, limb pain, and unresolved participants.",
+      "passed": true,
+      "english_evidence": "'except that' introduces a note preserving 'does not carry it—from it—pain in his limbs'; the actor and relationships are expressly unclear. It does not manufacture an analgesic claim or a person wearing a talisman.",
+      "indonesian_evidence": "'namun' introduces 'tidak membawanya—darinya—sakit pada anggota-anggota tubuhnya', with actor/relationships flagged. The negative and bodily pain are not dropped or reversed."
+    },
+    {
+      "id": "C36",
+      "source_lines": [22],
+      "check": "Because-clause includes pain, strengthening against/upon him, and الخاصة فيه, without concealing missing lexical content in a grammar note.",
+      "passed": true,
+      "english_evidence": "'because that pain grows stronger against him, the special property in it'; note limits certainty about the property's role and strengthening actor. Both الألم and الخاصة have explicit supported lexical renderings.",
+      "indonesian_evidence": "'sebab sakit itu menguat terhadapnya, kekhususan di dalamnya'; note flags the role of kekhususan and the actor. Neither pain nor property is omitted or changed to healing."
+    },
+    {
+      "id": "C37",
+      "source_lines": [22, 23],
+      "check": "Exception is the woman in childbed/postpartum state; easing of childbirth is explicitly with agitation.",
+      "passed": true,
+      "english_evidence": "'except a woman in childbed, for it eases childbirth for her with agitation'. The unusual sequence is not harmonized into a painless-labor assurance.",
+      "indonesian_evidence": "'kecuali perempuan dalam masa nifas, sebab hal itu meringankan kelahiran baginya dengan kegelisahan'. Both nifas and the apparently awkward childbirth reference are retained."
+    },
+    {
+      "id": "C38",
+      "source_lines": [23],
+      "check": "Uncountable harm and occurrence of this aspect in the Name al-Shadīd.",
+      "passed": true,
+      "english_evidence": "'In it there is harm beyond counting. This aspect has occurred in His Name al-Shadīd, the Severe.'",
+      "indonesian_evidence": "'Di dalamnya terdapat bahaya yang tidak terhitung. Aspek ini telah terdapat dalam nama-Nya al-Shadīd, Yang Keras.'"
+    },
+    {
+      "id": "C39",
+      "source_lines": [24],
+      "check": "ومن علم رقبة الشين: whoever knows, literal neck token, and no invented technical definition.",
+      "passed": true,
+      "english_evidence": "'Whoever knows raqabat al-shīn' with 'literally “the neck of shīn”; its technical meaning is unspecified'. The literal neck gloss is supported by رقبة.",
+      "indonesian_evidence": "'Siapa yang mengetahui raqabat al-shīn' with 'secara harfiah “leher shīn”; makna teknisnya tidak dijelaskan'. No unsupported amulet, oversight, or numerical-rank gloss."
+    },
+    {
+      "id": "C40",
+      "source_lines": [24],
+      "check": "Where its nature-relation lies: whole shīn versus detailed shīn yāʾ nūn, the second full spelling.",
+      "passed": true,
+      "english_evidence": "'where its relation to nature lies as a whole, namely shīn, and in detail, namely shīn yāʾ nūn'. Together with line 8, both spaced source letter spellings are represented.",
+      "indonesian_evidence": "'di mana nisbahnya terhadap tabiat secara keseluruhan, yakni shīn, serta secara terperinci, yakni shīn yāʾ nūn'. The whole/detail distinction is not flattened."
+    },
+    {
+      "id": "C41",
+      "source_lines": [24, 25],
+      "check": "Possessed natures, numerical relation, and dangling أسراره retained without invented values or completion.",
+      "passed": true,
+      "english_evidence": "'its natures and numerical relation, its secrets', with only the grammatical connection of 'its secrets' flagged. Plural natures and singular numerical relation remain.",
+      "indonesian_evidence": "'apa yang dimilikinya berupa tabiat-tabiat dan nisbah bilangan, rahasia-rahasianya', with an Indonesian grammatical-connection note. No numbers or secret content are invented."
+    },
+    {
+      "id": "C42",
+      "source_lines": [25],
+      "check": "Knowledge of التصريفات والانفعالات and ʿayn's derivation from العلاء.",
+      "passed": true,
+      "english_evidence": "'knows its transformations and responses—ʿayn draws from exaltation (al-ʿalāʾ)'. Both active transformations and responsive effects are represented.",
+      "indonesian_evidence": "'mengetahui perubahan-perubahan dan tanggapan-tanggapannya—ʿayn mengambil dari keluhuran (al-ʿalāʾ)'."
+    },
+    {
+      "id": "C43",
+      "source_lines": [25, 26],
+      "check": "Exaltation: no thing above it and no height; neither negative suppressed.",
+      "passed": true,
+      "english_evidence": "'above which there is nothing and no height'.",
+      "indonesian_evidence": "'yang tiada sesuatu dan tiada ketinggian di atasnya'."
+    },
+    {
+      "id": "C44",
+      "source_lines": [26],
+      "check": "Source والسر is the secret, not a repaired letter-name sīn.",
+      "passed": true,
+      "english_evidence": "'The secret (al-sirr) draws from mercy'. No sīn is inserted to impose a three-letter correspondence.",
+      "indonesian_evidence": "'Rahasia (al-sirr) mengambil dari rahmat'. This independently follows السر, not the tempting harmonization السين."
+    },
+    {
+      "id": "C45",
+      "source_lines": [26],
+      "check": "Mercy: no mercy above it and no recipient of mercy below its light.",
+      "passed": true,
+      "english_evidence": "'above which there is no mercy and beneath whose light there is no recipient of mercy'. مرحوم remains a recipient, not an abstract second mercy; نورها is retained.",
+      "indonesian_evidence": "'yang tiada rahmat di atasnya dan tiada yang dirahmati di bawah cahayanya'. Neither the lower negative nor the light qualifier is reversed."
+    },
+    {
+      "id": "C46",
+      "source_lines": [26, 27],
+      "check": "Shīn derives from testimony; no testimony above and no witnessing below.",
+      "passed": true,
+      "english_evidence": "'Shīn draws from testimony, above which there is no testimony and below which there is no witnessing'.",
+      "indonesian_evidence": "'Shīn mengambil dari persaksian, yang tiada persaksian di atasnya dan tiada penyaksian di bawahnya'."
+    },
+    {
+      "id": "C47",
+      "source_lines": [27],
+      "check": "Invitation to consider testimony as witnessed and witnessing preserves object/agent contrast.",
+      "passed": true,
+      "english_evidence": "'Consider how you find testimony as both witnessed and witnessing'.",
+      "indonesian_evidence": "'Perhatikanlah bagaimana engkau mendapati persaksian sebagai yang disaksikan sekaligus yang menyaksikan'."
+    },
+    {
+      "id": "C48",
+      "source_lines": [28],
+      "check": "Mercy as recipient and bestower is retained despite the unusual predication.",
+      "passed": true,
+      "english_evidence": "'and mercy as one receiving mercy and one bestowing it'. The two participles are not collapsed into 'merciful'.",
+      "indonesian_evidence": "'dan rahmat sebagai yang dirahmati sekaligus yang merahmati'. Both passive and active roles remain."
+    },
+    {
+      "id": "C49",
+      "source_lines": [28],
+      "check": "For exaltation, neither إعلاء nor استعلاء for another than the named opaque worshipped entity.",
+      "passed": true,
+      "english_evidence": "'You find for exaltation neither raising nor elevation for any other than the worshipped al-r-b-w-y-h'. Both negative terms and the exception survive.",
+      "indonesian_evidence": "'Pada keluhuran tidak engkau dapati pengangkatan maupun peninggian bagi selain al-r-b-w-y-h yang disembah'."
+    },
+    {
+      "id": "C50",
+      "source_lines": [28],
+      "check": "الربوية remains opaque; uncertainty about reading and meaning does not hide a repaired lordship gloss.",
+      "passed": true,
+      "english_evidence": "'al-r-b-w-y-h [UNCLEAR: this form’s reading and meaning are unclear]'; only المعبودة is rendered 'worshipped'. No substitution of rubūbiyyah or 'lordship'.",
+      "indonesian_evidence": "'al-r-b-w-y-h yang disembah' followed by an Indonesian note that reading and meaning are unclear. 'Ketuhanan' or a repaired الربوبية does not appear."
+    },
+    {
+      "id": "C51",
+      "source_lines": [28, 29],
+      "check": "Condition of adhering to obedience, might, His Messenger, and believers; unresolved scopes remain marked.",
+      "passed": true,
+      "english_evidence": "'on condition of cleaving to obedience, for might, for His Messenger and for the believers'; note explicitly flags the connection among obedience, might, and these recipients. No connective is invented to smooth the source.",
+      "indonesian_evidence": "'dengan syarat tetap menaati, bagi kemuliaan, bagi Rasul-Nya, dan bagi orang-orang beriman'; note flags ketaatan, kemuliaan, and recipient relationships. The condition and both recipient groups survive."
+    },
+    {
+      "id": "C52",
+      "source_lines": [29],
+      "check": "Divine might definition includes enduring existence and pre-eternity, not merely honor.",
+      "passed": true,
+      "english_evidence": "'Divine might is enduring existence and pre-eternity'.",
+      "indonesian_evidence": "'Kemuliaan ilahi ialah kelanggengan keberadaan dan keazalian'."
+    },
+    {
+      "id": "C53",
+      "source_lines": [29],
+      "check": "Prophets' might is existence of the message/risālah; no invented moral qualifier.",
+      "passed": true,
+      "english_evidence": "'the prophets’ might is the existence of the message'.",
+      "indonesian_evidence": "'kemuliaan para nabi ialah adanya risalah'."
+    },
+    {
+      "id": "C54",
+      "source_lines": [29, 30],
+      "check": "Believers' might is existence of faith; source brackets around بالله remain visible.",
+      "passed": true,
+      "english_evidence": "'the might of believers is the existence of faith [in God]'. No bracket removal or conversion to unbracketed quotation.",
+      "indonesian_evidence": "'kemuliaan orang-orang beriman ialah adanya iman [kepada Allah]'."
+    },
+    {
+      "id": "C55",
+      "source_lines": [30],
+      "check": "Three ranks of shīn located in شهيد, without supplying absent letters or analysis.",
+      "passed": true,
+      "english_evidence": "'These are the three ranks of shīn in Shahīd'. The count is three, and the source word is retained by transliteration.",
+      "indonesian_evidence": "'Inilah tiga martabat shīn dalam Shahīd'. No added decomposition of Shahīd."
+    },
+    {
+      "id": "C56",
+      "source_lines": [31],
+      "check": "New parenthesized section, reported view, seventeen letters, and association with torment.",
+      "passed": true,
+      "english_evidence": "'( Section ) According to the view that these seventeen letters are associated with torment'. Reported-view framing and seventeen are explicit.",
+      "indonesian_evidence": "'( Bagian ) Menurut pendapat bahwa tujuh belas huruf ini berkaitan dengan azab'."
+    },
+    {
+      "id": "C57",
+      "source_lines": [31],
+      "check": "فليكتبها أيضا للعذاب: source-attributed imperative, 'also', and repeated torment purpose.",
+      "passed": true,
+      "english_evidence": "'let him write them for torment as well', within the reported view. No efficacy endorsement or independent recommendation is appended.",
+      "indonesian_evidence": "'hendaklah ia menuliskannya juga untuk azab', within 'Menurut pendapat'. It preserves the imperative as translated source content, not reviewer advice."
+    },
+    {
+      "id": "C58",
+      "source_lines": [31, 32],
+      "check": "Subsequent seven letters contradict earlier seventeen; contradiction must not be reconciled.",
+      "passed": true,
+      "english_evidence": "'seventeen letters' followed by 'Write the seven letters'. Neither numeral is emended.",
+      "indonesian_evidence": "'tujuh belas huruf' followed by 'Tuliskanlah tujuh huruf'. No explanatory harmonization."
+    },
+    {
+      "id": "C59",
+      "source_lines": [32],
+      "check": "Start with the letter shīn, then succession of the days and their letters.",
+      "passed": true,
+      "english_evidence": "'starting with shīn, then following the succession of the days and their letters'. Source ش is transliterated, not copied into the target or changed to sīn.",
+      "indonesian_evidence": "'dimulai dengan shīn, kemudian mengikuti urutan hari-hari dan huruf-hurufnya'."
+    },
+    {
+      "id": "C60",
+      "source_lines": [32],
+      "check": "Reverse the request and speak in the invocation over them; page ends before any invocation text.",
+      "passed": true,
+      "english_evidence": "'Reverse the request, and say in your invocation over them' is the ending. No missing prayer, formula, or next-page completion is supplied.",
+      "indonesian_evidence": "'Balikkanlah permohonan, dan ucapkanlah dalam doamu atasnya' is the ending. The pronominal ending remains without an invented invocation."
+    },
+    {
+      "id": "C61",
+      "source_lines": [4, 30],
+      "check": "Every uncertainty note's lexical assertions, grammatical presuppositions, and target-language wording independently checked against the source.",
+      "passed": true,
+      "english_evidence": "The 13 notes concern al-mārt; al-aḥruf al-alif; the two relation referents; li-mā ashbaha; aqāʾiman; mā fa-man; upon-it/operation linkage; carrying/limb-pain syntax; special-property/strengthening syntax; raqabat; secrets' grammar; al-r-b-w-y-h; and obedience/might/recipients. Each preserved lexical assertion has source support; no fabricated meaning is excused merely as uncertain grammar.",
+      "indonesian_evidence": "The corresponding notes are in Indonesian and were checked separately against the Arabic, not accepted merely because they mirror English. Literal leher, kemiripan, sakit, kekhususan, rahasia, and the recipient labels all have local source tokens; opaque words remain untranslated."
+    }
+  ],
+  "findings": [],
+  "accepted_source_uncertainties": [
+    {
+      "source_lines": [4, 5],
+      "source_anchor": "والمارت",
+      "acceptance": "Both targets retain al-mārt and explicitly mark reading and meaning unclear. Neither an emended source form nor an invented lexical gloss is asserted."
+    },
+    {
+      "source_lines": [5, 6],
+      "source_anchor": "ولا يوجد في الحروف ما يكمل عروشها الأحرف الألف",
+      "acceptance": "Both preserve the denial and the awkward al-aḥruf al-alif sequence. The notes identify the literal words and uncertain grammatical link, without inserting an unprinted exception."
+    },
+    {
+      "source_lines": [8, 9],
+      "source_anchor": "وكانت نسبته كنسبته ... لما أشبه والرسوخ",
+      "acceptance": "Unassigned relational referents and the unresolved resemblance/rootedness connection are appropriately marked. Resemblance is a supported lexical description of أشبه, not a conjectural meaning substituted for it."
+    },
+    {
+      "source_lines": [13],
+      "source_anchor": "وأقامه فأقام أقائما",
+      "acceptance": "The supported setting-upright verbs are translated; aqāʾiman and its reading/participants remain uncertain. No remembered-scripture repair is used."
+    },
+    {
+      "source_lines": [18, 19],
+      "source_anchor": "لا يجعل مسطورا ويكتب فيه",
+      "acceptance": "The negative inscription statement and ensuing writing statement remain adjacent and unreconciled; no invented medium or exception is needed for approval."
+    },
+    {
+      "source_lines": [20, 21],
+      "source_anchor": "وفيه ما فمن عليها وعمله",
+      "acceptance": "Mā fa-man, upon-it, and operation are retained with local linkage uncertainty. No invented condition, practitioner action, or referent is introduced."
+    },
+    {
+      "source_lines": [22, 23],
+      "source_anchor": "إلا أنه لا يحمله منه وجع في أعضائه لأن ذلك الألم يقوى عليه الخاصة فيه إلا النفساء ... الولادة بانزعاج",
+      "acceptance": "The difficult carrying/pain/property syntax is explicitly marked without omitting its lexical pieces or negative. The postpartum exception and childbirth with agitation remain unrepaired despite their awkward conjunction. Neither target claims the passage securely promises pain relief."
+    },
+    {
+      "source_lines": [24, 25],
+      "source_anchor": "رقبة الشين ... الطبائع والنسبة العددية أسراره",
+      "acceptance": "Literal neck is supported, while its technical sense is not guessed. The dangling secrets token remains with a grammar note; no absent numerical value or completion is supplied."
+    },
+    {
+      "source_lines": [26],
+      "source_anchor": "والسر مستمد من الرحمة",
+      "acceptance": "The source explicitly says secret, not sīn. Both translations follow that anomaly rather than harmonizing a letter correspondence."
+    },
+    {
+      "source_lines": [28, 29],
+      "source_anchor": "لغير الربوية المعبودة بشرط لزوم الطاعة للعزة لرسوله وللمؤمنين",
+      "acceptance": "Opaque al-r-b-w-y-h is not repaired to lordship. Worshipped, the adherence condition, obedience, might, Messenger, and believers are all preserved; their unresolved linkage is explicitly marked."
+    },
+    {
+      "source_lines": [31, 32],
+      "source_anchor": "الحروف السبعة عشر ... السبعة أحرف",
+      "acceptance": "Seventeen followed by seven is a retained source contradiction, not a target error. The punishment passage stays reported source content and stops before the invocation itself."
+    }
+  ],
+  "summary": "APPROVED for the exact five pinned raw files of frozen Legacy604V2 physical page 110. Complete Arabic and both complete targets were read; each target was evaluated directly against Arabic. Coverage uses inclusive 1-based canonical source-line ranges, including folio and blank line. All clauses, repetitions, counts, brackets, dependencies, negatives, exceptions, uncertain-word assertions, and the incomplete final section were checked. No actionable semantic defect was found. Both targets have 32 logical lines, two explicit ASCII numeral 3 occurrences, and two shīn yāʾ nūn spellings. Raw canonical source slices in both prefixes are exact; their following newline is the block delimiter. Reader fields agree after permitted outer trimming. Source ambiguities and contradictions are accepted only as preserved, not authenticated or repaired. Corpus and tracker remain read-only. All five SHA-256 pins are checked before and after review."
+}
