@@ -1,0 +1,1042 @@
+{
+  "page": 112,
+  "passed": true,
+  "verdict": "APPROVED",
+  "reviewer_role": "independent-model-semantic-reviewer",
+  "source_hashes": {
+    "ocr/enriched/page_112.txt": "b9186c43bd669482d24d3a86b5309b9285c9dd00b0a082b0ef3da94aa545b6bb",
+    "ocr/enriched_en/page_112.txt": "5072e3f3731696468ad94e1663ef1692c2961b3cd26b9471c2d02d42436686b7",
+    "ocr/enriched_id/page_112.txt": "737e65fa1dcae411f9219a66f9bca728c67390cbaa69a868a0b15cc62ab8925b",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "a610f2bd6f110bdd631466e0bede79362178ce5ad54dd7c1ba9c2fb7a549b8c0"
+  },
+  "coverage": [
+    {
+      "id": "folio-106",
+      "source_lines": [
+        1
+      ],
+      "check": "Translate Arabic-Indic ١٠٦ as ASCII 106; retain separate folio line, spaces, and hyphen-minus dash style. Physical page remains 112.",
+      "passed": true,
+      "english_evidence": "EN L60: - 106 -",
+      "indonesian_evidence": "ID L60: - 106 -"
+    },
+    {
+      "id": "blank-L2",
+      "source_lines": [
+        2
+      ],
+      "check": "Preserve this empty line in its exact source-order position, without spaces or added content.",
+      "passed": true,
+      "english_evidence": "EN L61: empty.",
+      "indonesian_evidence": "ID L61: empty."
+    },
+    {
+      "id": "heading-1",
+      "source_lines": [
+        3
+      ],
+      "check": "الفاء = fāʾ; الشمس = Sun/matahari; الأحد = Sunday/Minggu. Letter-to-body association and its assigned day retained.",
+      "passed": true,
+      "english_evidence": "EN L62: The letter fāʾ is for the Sun, and its day is Sunday.",
+      "indonesian_evidence": "ID L62: Huruf fāʾ untuk matahari, dan harinya Minggu."
+    },
+    {
+      "id": "table-1-row-1",
+      "source_lines": [
+        4
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ف→fāʾ; C2: ج→jīm; C3: ش→shīn; C4: ث→thāʾ; C5: خ→khāʾ; C6: ز→zāy; C7: ظ→ẓāʾ",
+      "passed": true,
+      "english_evidence": "EN L63: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L63: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-1-row-2",
+      "source_lines": [
+        5
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ظ→ẓāʾ; C2: ش→shīn; C3: ف→fāʾ; C4: خ→khāʾ; C5: ث→thāʾ; C6: ج→jīm; C7: ز→zāy",
+      "passed": true,
+      "english_evidence": "EN L64: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L64: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-1-row-3",
+      "source_lines": [
+        6
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ج→jīm; C2: ز→zāy; C3: ظ→ẓāʾ; C4: ش→shīn; C5: ف→fāʾ; C6: خ→khāʾ; C7: ث→thāʾ",
+      "passed": true,
+      "english_evidence": "EN L65: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L65: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-1-row-4",
+      "source_lines": [
+        7
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: خ→khāʾ; C2: ث→thāʾ; C3: ج→jīm; C4: ز→zāy; C5: ظ→ẓāʾ; C6: ش→shīn; C7: ف→fāʾ",
+      "passed": true,
+      "english_evidence": "EN L66: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L66: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-1-row-5",
+      "source_lines": [
+        8
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ش→shīn; C2: ف→fāʾ; C3: خ→khāʾ; C4: ث→thāʾ; C5: ج→jīm; C6: ز→zāy; C7: ظ→ẓāʾ",
+      "passed": true,
+      "english_evidence": "EN L67: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L67: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-1-row-6",
+      "source_lines": [
+        9
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ز→zāy; C2: ظ→ẓāʾ; C3: ش→shīn; C4: ف→fāʾ; C5: خ→khāʾ; C6: ث→thāʾ; C7: ج→jīm",
+      "passed": true,
+      "english_evidence": "EN L68: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L68: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-1-row-7",
+      "source_lines": [
+        10
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ث→thāʾ; C2: ج→jīm; C3: ز→zāy; C4: ظ→ẓāʾ; C5: ش→shīn; C6: ف→fāʾ; C7: خ→khāʾ",
+      "passed": true,
+      "english_evidence": "EN L69: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L69: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "blank-L11",
+      "source_lines": [
+        11
+      ],
+      "check": "Preserve this empty line in its exact source-order position, without spaces or added content.",
+      "passed": true,
+      "english_evidence": "EN L70: empty.",
+      "indonesian_evidence": "ID L70: empty."
+    },
+    {
+      "id": "heading-2",
+      "source_lines": [
+        12
+      ],
+      "check": "الشين = shīn; المريخ = Mars; الثلاثاء = Tuesday/Selasa. No relocation into weekday order.",
+      "passed": true,
+      "english_evidence": "EN L71: The letter shīn is for Mars, and its day is Tuesday.",
+      "indonesian_evidence": "ID L71: Huruf shīn untuk Mars, dan harinya Selasa."
+    },
+    {
+      "id": "table-2-row-1",
+      "source_lines": [
+        13
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ش→shīn; C2: ف→fāʾ; C3: خ→khāʾ; C4: ث→thāʾ; C5: ج→jīm; C6: ز→zāy; C7: ظ→ẓāʾ",
+      "passed": true,
+      "english_evidence": "EN L72: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L72: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-2-row-2",
+      "source_lines": [
+        14
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ز→zāy; C2: ظ→ẓāʾ; C3: ش→shīn; C4: ف→fāʾ; C5: خ→khāʾ; C6: ث→thāʾ; C7: ج→jīm",
+      "passed": true,
+      "english_evidence": "EN L73: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L73: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-2-row-3",
+      "source_lines": [
+        15
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ج→jīm; C2: ز→zāy; C3: ظ→ẓāʾ; C4: ش→shīn; C5: ف→fāʾ; C6: خ→khāʾ; C7: ث→thāʾ",
+      "passed": true,
+      "english_evidence": "EN L74: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L74: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-2-row-4",
+      "source_lines": [
+        16
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ف→fāʾ; C2: خ→khāʾ; C3: ث→thāʾ; C4: ج→jīm; C5: ز→zāy; C6: ظ→ẓāʾ; C7: ش→shīn",
+      "passed": true,
+      "english_evidence": "EN L75: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L75: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-2-row-5",
+      "source_lines": [
+        17
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ظ→ẓāʾ; C2: ش→shīn; C3: ف→fāʾ; C4: خ→khāʾ; C5: ث→thāʾ; C6: ج→jīm; C7: ز→zāy",
+      "passed": true,
+      "english_evidence": "EN L76: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L76: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-2-row-6",
+      "source_lines": [
+        18
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ج→jīm; C2: ز→zāy; C3: ظ→ẓāʾ; C4: ش→shīn; C5: ف→fāʾ; C6: خ→khāʾ; C7: ث→thāʾ",
+      "passed": true,
+      "english_evidence": "EN L77: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L77: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-2-row-7",
+      "source_lines": [
+        19
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: خ→khāʾ; C2: ث→thāʾ; C3: ج→jīm; C4: ز→zāy; C5: ظ→ẓāʾ; C6: ش→shīn; C7: ف→fāʾ",
+      "passed": true,
+      "english_evidence": "EN L78: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L78: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "blank-L20",
+      "source_lines": [
+        20
+      ],
+      "check": "Preserve this empty line in its exact source-order position, without spaces or added content.",
+      "passed": true,
+      "english_evidence": "EN L79: empty.",
+      "indonesian_evidence": "ID L79: empty."
+    },
+    {
+      "id": "heading-3",
+      "source_lines": [
+        21
+      ],
+      "check": "الظاء = ẓāʾ, not ḍād; المشتري = Jupiter; الخميس = Thursday/Kamis.",
+      "passed": true,
+      "english_evidence": "EN L80: The letter ẓāʾ is for Jupiter, and its day is Thursday.",
+      "indonesian_evidence": "ID L80: Huruf ẓāʾ untuk Jupiter, dan harinya Kamis."
+    },
+    {
+      "id": "table-3-row-1",
+      "source_lines": [
+        22
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ظ→ẓāʾ; C2: ش→shīn; C3: ف→fāʾ; C4: خ→khāʾ; C5: ث→thāʾ; C6: ج→jīm; C7: ز→zāy",
+      "passed": true,
+      "english_evidence": "EN L81: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L81: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-3-row-2",
+      "source_lines": [
+        23
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ث→thāʾ; C2: ج→jīm; C3: ز→zāy; C4: ظ→ẓāʾ; C5: ش→shīn; C6: ف→fāʾ; C7: خ→khāʾ",
+      "passed": true,
+      "english_evidence": "EN L82: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L82: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-3-row-3",
+      "source_lines": [
+        24
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ف→fāʾ; C2: خ→khāʾ; C3: ث→thāʾ; C4: ج→jīm; C5: ز→zāy; C6: ظ→ẓāʾ; C7: ش→shīn",
+      "passed": true,
+      "english_evidence": "EN L83: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L83: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-3-row-4",
+      "source_lines": [
+        25
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ش→shīn; C2: خ→khāʾ; C3: ف→fāʾ; C4: ج→jīm; C5: ث→thāʾ; C6: ز→zāy; C7: ظ→ẓāʾ",
+      "passed": true,
+      "english_evidence": "EN L84: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L84: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-3-row-5",
+      "source_lines": [
+        26
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ز→zāy; C2: ظ→ẓāʾ; C3: ش→shīn; C4: ف→fāʾ; C5: خ→khāʾ; C6: ث→thāʾ; C7: ج→jīm",
+      "passed": true,
+      "english_evidence": "EN L85: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L85: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-3-row-6",
+      "source_lines": [
+        27
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ج→jīm; C2: ث→thāʾ; C3: ز→zāy; C4: ظ→ẓāʾ; C5: ش→shīn; C6: خ→khāʾ; C7: ف→fāʾ",
+      "passed": true,
+      "english_evidence": "EN L86: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L86: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-3-row-7",
+      "source_lines": [
+        28
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: خ→khāʾ; C2: ف→fāʾ; C3: ج→jīm; C4: ث→thāʾ; C5: ز→zāy; C6: ظ→ẓāʾ; C7: ش→shīn",
+      "passed": true,
+      "english_evidence": "EN L87: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L87: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "blank-L29",
+      "source_lines": [
+        29
+      ],
+      "check": "Preserve this empty line in its exact source-order position, without spaces or added content.",
+      "passed": true,
+      "english_evidence": "EN L88: empty.",
+      "indonesian_evidence": "ID L88: empty."
+    },
+    {
+      "id": "heading-4",
+      "source_lines": [
+        30
+      ],
+      "check": "الجيم = jīm; القمر = Moon/bulan; الاثنين = Monday/Senin.",
+      "passed": true,
+      "english_evidence": "EN L89: The letter jīm is for the Moon, and its day is Monday.",
+      "indonesian_evidence": "ID L89: Huruf jīm untuk bulan, dan harinya Senin."
+    },
+    {
+      "id": "table-4-row-1",
+      "source_lines": [
+        31
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ج→jīm; C2: ث→thāʾ; C3: ز→zāy; C4: ظ→ẓāʾ; C5: ش→shīn; C6: ف→fāʾ; C7: خ→khāʾ",
+      "passed": true,
+      "english_evidence": "EN L90: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L90: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-4-row-2",
+      "source_lines": [
+        32
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: خ→khāʾ; C2: ث→thāʾ; C3: ج→jīm; C4: ز→zāy; C5: ظ→ẓāʾ; C6: ش→shīn; C7: ف→fāʾ",
+      "passed": true,
+      "english_evidence": "EN L91: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L91: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-4-row-3",
+      "source_lines": [
+        33
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ف→fāʾ; C2: خ→khāʾ; C3: ث→thāʾ; C4: ج→jīm; C5: ز→zāy; C6: ظ→ẓāʾ; C7: ش→shīn",
+      "passed": true,
+      "english_evidence": "EN L92: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L92: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-4-row-4",
+      "source_lines": [
+        34
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ز→zāy; C2: ظ→ẓāʾ; C3: ش→shīn; C4: ف→fāʾ; C5: خ→khāʾ; C6: ث→thāʾ; C7: ج→jīm",
+      "passed": true,
+      "english_evidence": "EN L93: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L93: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-4-row-5",
+      "source_lines": [
+        35
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ث→thāʾ; C2: ج→jīm; C3: ز→zāy; C4: ظ→ẓāʾ; C5: ش→shīn; C6: ف→fāʾ; C7: خ→khāʾ",
+      "passed": true,
+      "english_evidence": "EN L94: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L94: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-4-row-6",
+      "source_lines": [
+        36
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ف→fāʾ; C2: خ→khāʾ; C3: ث→thāʾ; C4: ج→jīm; C5: ز→zāy; C6: ظ→ẓāʾ; C7: ش→shīn",
+      "passed": true,
+      "english_evidence": "EN L95: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L95: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-4-row-7",
+      "source_lines": [
+        37
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ظ→ẓāʾ; C2: ش→shīn; C3: ف→fāʾ; C4: خ→khāʾ; C5: ث→thāʾ; C6: ج→jīm; C7: ز→zāy",
+      "passed": true,
+      "english_evidence": "EN L96: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L96: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "blank-L38",
+      "source_lines": [
+        38
+      ],
+      "check": "Preserve this empty line in its exact source-order position, without spaces or added content.",
+      "passed": true,
+      "english_evidence": "EN L97: empty.",
+      "indonesian_evidence": "ID L97: empty."
+    },
+    {
+      "id": "heading-5",
+      "source_lines": [
+        39
+      ],
+      "check": "الثاء = thāʾ, not tāʾ; عطارد = Mercury/Merkurius; الأربعاء = Wednesday/Rabu.",
+      "passed": true,
+      "english_evidence": "EN L98: The letter thāʾ is for Mercury, and its day is Wednesday.",
+      "indonesian_evidence": "ID L98: Huruf thāʾ untuk Merkurius, dan harinya Rabu."
+    },
+    {
+      "id": "table-5-row-1",
+      "source_lines": [
+        40
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ث→thāʾ; C2: ج→jīm; C3: ز→zāy; C4: ظ→ẓāʾ; C5: ش→shīn; C6: ف→fāʾ; C7: خ→khāʾ",
+      "passed": true,
+      "english_evidence": "EN L99: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L99: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-5-row-2",
+      "source_lines": [
+        41
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ش→shīn; C2: ف→fāʾ; C3: خ→khāʾ; C4: ث→thāʾ; C5: ج→jīm; C6: ز→zāy; C7: ظ→ẓāʾ",
+      "passed": true,
+      "english_evidence": "EN L100: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L100: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-5-row-3",
+      "source_lines": [
+        42
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ظ→ẓāʾ; C2: ش→shīn; C3: ف→fāʾ; C4: خ→khāʾ; C5: ث→thāʾ; C6: ج→jīm; C7: ز→zāy",
+      "passed": true,
+      "english_evidence": "EN L101: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L101: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-5-row-4",
+      "source_lines": [
+        43
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ج→jīm; C2: ز→zāy; C3: ظ→ẓāʾ; C4: ش→shīn; C5: ف→fāʾ; C6: خ→khāʾ; C7: ث→thāʾ",
+      "passed": true,
+      "english_evidence": "EN L102: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L102: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-5-row-5",
+      "source_lines": [
+        44
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ش→shīn; C2: ف→fāʾ; C3: خ→khāʾ; C4: ث→thāʾ; C5: ج→jīm; C6: ز→zāy; C7: ظ→ẓāʾ",
+      "passed": true,
+      "english_evidence": "EN L103: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L103: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-5-row-6",
+      "source_lines": [
+        45
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ظ→ẓāʾ; C2: ش→shīn; C3: ف→fāʾ; C4: خ→khāʾ; C5: ث→thāʾ; C6: ج→jīm; C7: ز→zāy",
+      "passed": true,
+      "english_evidence": "EN L104: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L104: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-5-row-7",
+      "source_lines": [
+        46
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ث→thāʾ; C2: ج→jīm; C3: ز→zāy; C4: ظ→ẓāʾ; C5: ش→shīn; C6: ف→fāʾ; C7: خ→khāʾ",
+      "passed": true,
+      "english_evidence": "EN L105: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L105: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "blank-L47",
+      "source_lines": [
+        47
+      ],
+      "check": "Preserve this empty line in its exact source-order position, without spaces or added content.",
+      "passed": true,
+      "english_evidence": "EN L106: empty.",
+      "indonesian_evidence": "ID L106: empty."
+    },
+    {
+      "id": "heading-6",
+      "source_lines": [
+        48
+      ],
+      "check": "الحاء explicitly names ḥāʾ (ح), not khāʾ (خ); الزهرة = Venus; الجمعة = Friday/Jumat. The separate table contains خ; this source discrepancy is retained.",
+      "passed": true,
+      "english_evidence": "EN L107: The letter ḥāʾ is for Venus, and its day is Friday.",
+      "indonesian_evidence": "ID L107: Huruf ḥāʾ untuk Venus, dan harinya Jumat."
+    },
+    {
+      "id": "table-6-row-1",
+      "source_lines": [
+        49
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: خ→khāʾ; C2: ث→thāʾ; C3: ج→jīm; C4: ز→zāy; C5: ظ→ẓāʾ; C6: ش→shīn; C7: ف→fāʾ",
+      "passed": true,
+      "english_evidence": "EN L108: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L108: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-6-row-2",
+      "source_lines": [
+        50
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ش→shīn; C2: ف→fāʾ; C3: خ→khāʾ; C4: ث→thāʾ; C5: ج→jīm; C6: ز→zāy; C7: ظ→ẓāʾ",
+      "passed": true,
+      "english_evidence": "EN L109: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L109: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-6-row-3",
+      "source_lines": [
+        51
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ز→zāy; C2: ظ→ẓāʾ; C3: ش→shīn; C4: ف→fāʾ; C5: خ→khāʾ; C6: ث→thāʾ; C7: ج→jīm",
+      "passed": true,
+      "english_evidence": "EN L110: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L110: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-6-row-4",
+      "source_lines": [
+        52
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ث→thāʾ; C2: ج→jīm; C3: ز→zāy; C4: ظ→ẓāʾ; C5: ش→shīn; C6: ف→fāʾ; C7: خ→khāʾ",
+      "passed": true,
+      "english_evidence": "EN L111: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L111: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-6-row-5",
+      "source_lines": [
+        53
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ف→fāʾ; C2: خ→khāʾ; C3: ث→thāʾ; C4: ج→jīm; C5: ز→zāy; C6: ظ→ẓāʾ; C7: ش→shīn",
+      "passed": true,
+      "english_evidence": "EN L112: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L112: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-6-row-6",
+      "source_lines": [
+        54
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ظ→ẓāʾ; C2: ش→shīn; C3: ف→fāʾ; C4: خ→khāʾ; C5: ث→thāʾ; C6: ج→jīm; C7: ز→zāy",
+      "passed": true,
+      "english_evidence": "EN L113: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L113: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "table-6-row-7",
+      "source_lines": [
+        55
+      ],
+      "check": "Independently match all seven source-order cells, never numeric values or inferred square patterns. C1: ج→jīm; C2: ز→zāy; C3: ظ→ẓāʾ; C4: ش→shīn; C5: ف→fāʾ; C6: خ→khāʾ; C7: ث→thāʾ",
+      "passed": true,
+      "english_evidence": "EN L114: C1–C7 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry.",
+      "indonesian_evidence": "ID L114: independently checked against Arabic C1–C7, 7/7 exact full letter names; 8 pipes and single-space cell padding match source geometry."
+    },
+    {
+      "id": "blank-L56",
+      "source_lines": [
+        56
+      ],
+      "check": "Preserve this empty line in its exact source-order position, without spaces or added content.",
+      "passed": true,
+      "english_evidence": "EN L115: empty.",
+      "indonesian_evidence": "ID L115: empty."
+    },
+    {
+      "id": "final-definite-section-heading",
+      "source_lines": [
+        57
+      ],
+      "check": "Render the parenthesized definite heading الفصل as the section; Indonesian does not require an English-style definite article. Preserve parentheses and terminal position; no new table follows.",
+      "passed": true,
+      "english_evidence": "EN L116: (The Section), explicitly definite.",
+      "indonesian_evidence": "ID L116: (Bagian), a natural heading for الفصل; no Arabic-script residue."
+    },
+    {
+      "id": "bilingual-file-contract",
+      "source_lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "check": "Exactly one Arabic: prefix and one correct target label; no cross-language block, duplicate prefix, or reviewer-added prose.",
+      "passed": true,
+      "english_evidence": "116 file lines; Arabic: L1, English: L59; target occupies L60–116.",
+      "indonesian_evidence": "116 file lines; Arabic: L1, Indonesia: L59; target occupies L60–116; no English: block."
+    },
+    {
+      "id": "immutable-arabic-raw-prefix",
+      "source_lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "check": "Embedded canonical Arabic bytes unchanged; the only extra byte is the LF required before the target label (source file itself has no final LF).",
+      "passed": true,
+      "english_evidence": "Arabic prefix equals all 1938 canonical bytes plus exactly one delimiter LF; all 57 source lines unchanged.",
+      "indonesian_evidence": "Arabic prefix independently equals all 1938 canonical bytes plus exactly one delimiter LF; all 57 source lines unchanged."
+    },
+    {
+      "id": "target-script-and-terminology",
+      "source_lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "check": "Target blocks contain Latin-script full letter names with required diacritics, not Arabic characters/digits, numeric substitutions, CJK, replacement characters, or hidden controls. Check weekday/footer leakage explicitly.",
+      "passed": true,
+      "english_evidence": "No script contamination; Sunday/Tuesday/Thursday/Monday/Wednesday/Friday and (The Section) fully translated.",
+      "indonesian_evidence": "No script contamination; Minggu/Selasa/Kamis/Senin/Rabu/Jumat and (Bagian) fully translated; no Arabic weekday/footer leaks."
+    },
+    {
+      "id": "complete-geometry-and-source-order",
+      "source_lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "check": "Exactly six source-order headings and six contiguous 7×7 tables: 42 rows, 294 cells, 7 blank lines, folio and terminal heading = 57 lines. No header/separator rows, seventh table, transposition, repair, or explanatory additions.",
+      "passed": true,
+      "english_evidence": "57 lines; six 7×7 blocks; all 294 cells checked directly from Arabic; exact row-by-row pipe/space geometry.",
+      "indonesian_evidence": "57 lines; six 7×7 blocks; all 294 cells independently checked directly from Arabic, not inferred from English; exact row-by-row pipe/space geometry."
+    },
+    {
+      "id": "duplicates-and-irregular-rows",
+      "source_lines": [
+        4,
+        15,
+        18,
+        25,
+        27,
+        28,
+        31,
+        33,
+        36,
+        40,
+        41,
+        42,
+        44,
+        45,
+        46
+      ],
+      "check": "Retain all canonical duplicate rows and every non-pattern row. Particular checks: table2 rows3/6 (L15/18), table4 rows3/6 (L33/36), table5 rows1/7,2/5,3/6 (L40/46,41/44,42/45); unusual rows L4,25,27,28,31 remain exactly as supplied.",
+      "passed": true,
+      "english_evidence": "All repeated occurrences retained; unusual Jupiter rows L25,27,28 preserve ش خ ف ج ث ز ظ / ج ث ز ظ ش خ ف / خ ف ج ث ز ظ ش.",
+      "indonesian_evidence": "All repeated occurrences independently retained; unusual rows and first rows of the Sun/Moon tables match Arabic without permutation normalization."
+    },
+    {
+      "id": "pinned-reader112-record",
+      "source_lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "check": "Legacy V2 reader has 604 ordered records; physical record112 ar/en/id text equals the reviewed source/targets exactly (only outer file trim); metadata not edited. V3/616/PDF excluded.",
+      "passed": true,
+      "english_evidence": "Reader text.en equals the complete reviewed 57-line English block; text.ar equals canonical source; page112 scan reference retained.",
+      "indonesian_evidence": "Reader text.id equals the complete independently reviewed 57-line Indonesian block; text.ar equals canonical source; page112 title/scan metadata read but not modified."
+    },
+    {
+      "id": "five-pin-before-and-after",
+      "source_lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "check": "All five raw SHA-256 pins verified before detailed checking and after completed semantic/cell review; corpus and reader remain read-only.",
+      "passed": true,
+      "english_evidence": "Canonical Arabic, English, style guide and reader match original raw pins before/after.",
+      "indonesian_evidence": "Canonical Arabic, Indonesian, style guide and reader match original raw pins before/after."
+    }
+  ],
+  "findings": [],
+  "accepted_source_uncertainties": [
+    {
+      "source_lines": [
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "description": "Heading literally names الحاء (ḥāʾ, ح), whereas its seven table rows contain خ (khāʾ). Both targets correctly retain ḥāʾ in the heading and khāʾ in cells. This is an accepted canonical-source anomaly, not permission to repair either reading."
+    },
+    {
+      "source_lines": [
+        4,
+        15,
+        18,
+        25,
+        27,
+        28,
+        31,
+        33,
+        36,
+        40,
+        41,
+        42,
+        44,
+        45,
+        46
+      ],
+      "description": "Repeated and irregular source table permutations are preserved literally. No mathematical/astrological pattern is used to infer corrections, reorder cells, or deduplicate rows."
+    }
+  ],
+  "summary": "Independent complete Arabic-to-English and Arabic-to-Indonesian review of frozen Legacy V2 physical page112 (printed folio106). Read all 57 canonical lines, both full bilingual files, the pinned style guide, and reader112 record. Independently established Arabic letter identities and heading meanings; checked all 294 cells in each target directly against Arabic, including every duplicate and unusual row. 64 coverage checks passed; no actionable findings. All five raw pins unchanged before/after. The ḥāʾ-heading/khāʾ-cell source anomaly is preserved. Read-only corpus/tracker; decision artifact only, no tracker approval or publication action."
+}

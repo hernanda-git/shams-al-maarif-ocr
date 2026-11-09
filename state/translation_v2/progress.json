@@ -3,7 +3,7 @@
   "total_pages": 604,
   "sequence_policy": "strict-lowest-uncommitted",
   "created_at": "2026-09-25T03:54:12+00:00",
-  "updated_at": "2026-11-09T15:16:36+00:00",
+  "updated_at": "2026-11-09T22:11:21+00:00",
   "active_page": null,
   "pages": {
     "1": {
@@ -3005,17 +3005,30 @@
     },
     "112": {
       "page": 112,
-      "status": "pending",
-      "attempts": 0,
-      "owner": null,
-      "claimed_at": null,
-      "heartbeat_at": null,
-      "review_submitted_at": null,
-      "reviewer": null,
-      "validator": null,
+      "status": "committed",
+      "attempts": 1,
+      "owner": "hermes-v2-p112-20261110",
+      "claimed_at": "2026-11-09T22:02:08+00:00",
+      "heartbeat_at": "2026-11-09T22:10:13+00:00",
+      "review_submitted_at": "2026-11-09T22:10:13+00:00",
+      "reviewer": "independent-model-sa-0-aadd89f8",
+      "validator": {
+        "ok": true,
+        "page": 112,
+        "source_path": "C:/Working Folder/Research/shams-v2-recovery/20261110-page112/candidate-r1/ocr/enriched/page_112.txt",
+        "english_path": "C:/Working Folder/Research/shams-v2-recovery/20261110-page112/candidate-r1/ocr/enriched_en/page_112.txt",
+        "indonesian_path": "C:/Working Folder/Research/shams-v2-recovery/20261110-page112/candidate-r1/ocr/enriched_id/page_112.txt",
+        "json_path": "C:/Working Folder/Research/shams-v2-recovery/20261110-page112/candidate-r1/web/public/manuscript.json",
+        "blank_source": false,
+        "english_block": "- 106 -\n\nThe letter fāʾ is for the Sun, and its day is Sunday.\n| fāʾ | jīm | shīn | thāʾ | khāʾ | zāy | ẓāʾ |\n| ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm | zāy |\n| jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ |\n| khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ |\n| shīn | fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ |\n| zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm |\n| thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ |\n\nThe letter shīn is for Mars, and its day is Tuesday.\n| shīn | fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ |\n| zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm |\n| jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ |\n| fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn |\n| ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm | zāy |\n| jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ |\n| khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ |\n\nThe letter ẓāʾ is for Jupiter, and its day is Thursday.\n| ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm | zāy |\n| thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ |\n| fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn |\n| shīn | khāʾ | fāʾ | jīm | thāʾ | zāy | ẓāʾ |\n| zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm |\n| jīm | thāʾ | zāy | ẓāʾ | shīn | khāʾ | fāʾ |\n| khāʾ | fāʾ | jīm | thāʾ | zāy | ẓāʾ | shīn |\n\nThe letter jīm is for the Moon, and its day is Monday.\n| jīm | thāʾ | zāy | ẓāʾ | shīn | fāʾ | khāʾ |\n| khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ |\n| fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn |\n| zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm |\n| thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ |\n| fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn |\n| ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm | zāy |\n\nThe letter thāʾ is for Mercury, and its day is Wednesday.\n| thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ |\n| shīn | fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ |\n| ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm | zāy |\n| jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ |\n| shīn | fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ |\n| ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm | zāy |\n| thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ |\n\nThe letter ḥāʾ is for Venus, and its day is Friday.\n| khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ |\n| shīn | fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ |\n| zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm |\n| thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ |\n| fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn |\n| ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm | zāy |\n| jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ |\n\n(The Section)",
+        "indonesian_block": "- 106 -\n\nHuruf fāʾ untuk matahari, dan harinya Minggu.\n| fāʾ | jīm | shīn | thāʾ | khāʾ | zāy | ẓāʾ |\n| ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm | zāy |\n| jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ |\n| khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ |\n| shīn | fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ |\n| zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm |\n| thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ |\n\nHuruf shīn untuk Mars, dan harinya Selasa.\n| shīn | fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ |\n| zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm |\n| jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ |\n| fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn |\n| ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm | zāy |\n| jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ |\n| khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ |\n\nHuruf ẓāʾ untuk Jupiter, dan harinya Kamis.\n| ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm | zāy |\n| thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ |\n| fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn |\n| shīn | khāʾ | fāʾ | jīm | thāʾ | zāy | ẓāʾ |\n| zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm |\n| jīm | thāʾ | zāy | ẓāʾ | shīn | khāʾ | fāʾ |\n| khāʾ | fāʾ | jīm | thāʾ | zāy | ẓāʾ | shīn |\n\nHuruf jīm untuk bulan, dan harinya Senin.\n| jīm | thāʾ | zāy | ẓāʾ | shīn | fāʾ | khāʾ |\n| khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ |\n| fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn |\n| zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm |\n| thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ |\n| fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn |\n| ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm | zāy |\n\nHuruf thāʾ untuk Merkurius, dan harinya Rabu.\n| thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ |\n| shīn | fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ |\n| ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm | zāy |\n| jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ |\n| shīn | fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ |\n| ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm | zāy |\n| thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ |\n\nHuruf ḥāʾ untuk Venus, dan harinya Jumat.\n| khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ |\n| shīn | fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ |\n| zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm |\n| thāʾ | jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ |\n| fāʾ | khāʾ | thāʾ | jīm | zāy | ẓāʾ | shīn |\n| ẓāʾ | shīn | fāʾ | khāʾ | thāʾ | jīm | zāy |\n| jīm | zāy | ẓāʾ | shīn | fāʾ | khāʾ | thāʾ |\n\n(Bagian)",
+        "record_found": true,
+        "errors": [],
+        "warnings": []
+      },
       "last_error": null,
-      "commit_sha": null,
-      "committed_at": null
+      "commit_sha": "130f882c7bb991236d30e50d6ba3206defd6c267",
+      "committed_at": "2026-11-09T22:11:21+00:00"
     },
     "113": {
       "page": 113,
