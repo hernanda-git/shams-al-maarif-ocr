@@ -1,0 +1,540 @@
+{
+  "page": 113,
+  "passed": false,
+  "verdict": "REWORK",
+  "reviewer_role": "independent-model-semantic-reviewer",
+  "reviewer_id": "parent-coordinator",
+  "translator_id": "sa-0-1c2866da",
+  "source_hashes": {
+    "ocr/enriched/page_113.txt": "f2a11a6318bf17ba84ee2c8c6ff57f0c23eaf3ca949fc36f1c5e200a20003a08",
+    "ocr/enriched_en/page_113.txt": "e69df5c580542654408613356b4ddc8b7b6aec68f0b88df7d0f05ed4add01a31",
+    "ocr/enriched_id/page_113.txt": "be4f7e92ae17cdc3d2d1f62b6d2d0d7188ec6a0082f92057b1d1d31b4e8ddf29",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "49dbfe5c6b41ad69e7f941da42bdb0bab6b4804994d60a50a2b70fb010a3b8a0"
+  },
+  "coverage": [
+    {
+      "id": "L01",
+      "source_lines": [
+        1
+      ],
+      "check": "Folio107; source dash style, ASCII target digits.",
+      "passed": true,
+      "english_evidence": "- 107 -",
+      "indonesian_evidence": "- 107 -"
+    },
+    {
+      "id": "L02",
+      "source_lines": [
+        2
+      ],
+      "check": "Opening blank retained.",
+      "passed": true,
+      "english_evidence": "(source-aligned blank)",
+      "indonesian_evidence": "(source-aligned blank)"
+    },
+    {
+      "id": "L03",
+      "source_lines": [
+        3
+      ],
+      "check": "Fourteenth chapter, remembrances and supplications; split heading.",
+      "passed": true,
+      "english_evidence": "( Chapter Fourteen: Concerning the Remembrances and Supplications",
+      "indonesian_evidence": "( Bab Keempat Belas tentang Zikir dan Doa"
+    },
+    {
+      "id": "L04",
+      "source_lines": [
+        4
+      ],
+      "check": "Answered, extracted and specially designated qualifiers; closing heading.",
+      "passed": true,
+      "english_evidence": "That Are Answered, Extracted, and Specially Designated )",
+      "indonesian_evidence": "yang Dikabulkan, Disarikan, dan Dikhususkan )"
+    },
+    {
+      "id": "L05",
+      "source_lines": [
+        5
+      ],
+      "check": "Asterisk; Imam Abu Abd Allah Muhammad ibn Idris, not a substituted familiar author.",
+      "passed": true,
+      "english_evidence": "* Among what Imam Abū ʿAbd Allāh Muḥammad ibn Idrīs",
+      "indonesian_evidence": "* Di antara yang disarikan oleh Imam Abū ʿAbd Allāh Muḥammad ibn Idrīs"
+    },
+    {
+      "id": "L06",
+      "source_lines": [
+        6
+      ],
+      "check": "al-Razi, selection deemed fine, Harun al-Rashid treasury.",
+      "passed": true,
+      "english_evidence": "al-Rāzī extracted from what he deemed fine in the treasury of Hārūn al-Rashīd, from",
+      "indonesian_evidence": "al-Rāzī dari apa yang dipandangnya baik dalam khazanah Hārūn al-Rashīd, dari"
+    },
+    {
+      "id": "L07",
+      "source_lines": [
+        7
+      ],
+      "check": "Great comprehensive book of remembrances and answered supplications; said-clause.",
+      "passed": true,
+      "english_evidence": "the Great Book Comprehensive of Remembrances and Answered Supplications: said",
+      "indonesian_evidence": "Kitab Besar yang Menghimpun Zikir dan Doa yang Dikabulkan: berkata"
+    },
+    {
+      "id": "L08",
+      "source_lines": [
+        8
+      ],
+      "check": "al-Asadi/Asim retained with linkage uncertainty; Kufa worshipper.",
+      "passed": true,
+      "english_evidence": "al-Asadī ʿĀṣim [UNCLEAR: the linkage between these names], there was a man among the worshippers of the people of Kufa",
+      "indonesian_evidence": "al-Asadī ʿĀṣim [UNCLEAR: hubungan antara nama-nama ini tidak jelas], ada seorang lelaki di antara para ahli ibadah penduduk Kufah"
+    },
+    {
+      "id": "L09",
+      "source_lines": [
+        9
+      ],
+      "check": "Arafah OR Tarwiyah, bathing, not combined days.",
+      "passed": true,
+      "english_evidence": "who, when it was the day of ʿArafah or the day of al-Tarwiyah, would bathe and put on",
+      "indonesian_evidence": "yang, apabila tiba hari Arafah atau hari Tarwiyah, mandi dan mengenakan"
+    },
+    {
+      "id": "L10",
+      "source_lines": [
+        10
+      ],
+      "check": "TWO white garments; exit to al-zahr and this prayer.",
+      "passed": true,
+      "english_evidence": "two white garments, then go out to al-ẓahr and invoke with this supplication,",
+      "indonesian_evidence": "dua helai pakaian putih, lalu keluar menuju al-ẓahr dan memanjatkan doa ini,"
+    },
+    {
+      "id": "L11",
+      "source_lines": [
+        11
+      ],
+      "check": "Seen in Mecca OR Arafah; opening opaque invocation retained.",
+      "passed": true,
+      "english_evidence": "and would be seen in Mecca or at ʿArafah. This is the supplication: Ayyuhā sharāḥahā",
+      "indonesian_evidence": "kemudian terlihat di Makkah atau di Arafah. Inilah doanya: Ayyuhā sharāḥahā"
+    },
+    {
+      "id": "L12",
+      "source_lines": [
+        12
+      ],
+      "check": "Light/it-she and opaque word qualified; Wahid/Hayy/Fard/Quddus, Jibril/Mikail.",
+      "passed": true,
+      "english_evidence": "nūruhā wa-hiya [UNCLEAR: “O you ... its/her light, and it/she”; the word sharāḥahā and the phrase's linkage are unclear], Wāḥid (One), Ḥayy (Living), Fard (Unique), Quddūs (All-Hol",
+      "indonesian_evidence": "nūruhā wa-hiya [UNCLEAR: “wahai engkau ... cahayanya, dan ia”; kata sharāḥahā serta hubungan bagian-bagian ungkapan ini tidak jelas], Wāḥid (Yang Esa), Ḥayy (Yang Hidup), Fard (Yan"
+    },
+    {
+      "id": "L13",
+      "source_lines": [
+        13
+      ],
+      "check": "Israfil/Azrail, request by Name, no disappointment; BLESS Muhammad and family without added peace.",
+      "passed": true,
+      "english_evidence": "and Isrāfīl and ʿAzrāʾīl; and I ask You by Your Name, while You do not disappoint anyone who calls upon You, O God, to bless our master Muḥammad and the family of",
+      "indonesian_evidence": "dan Isrāfīl serta ʿAzrāʾīl; dan aku memohon kepada-Mu dengan nama-Mu, sedangkan Engkau tidak mengecewakan orang yang menyeru-Mu, ya Allah, agar Engkau melimpahkan selawat kepada ju"
+    },
+    {
+      "id": "L14",
+      "source_lines": [
+        14
+      ],
+      "check": "Family continuation, need, folded earth, food/drink; failure: unexpressed draws-near actor resolved as it.",
+      "passed": false,
+      "english_evidence": "our master Muḥammad. And you ask for your need, and the earth is folded up for you; and you call upon Him for food and drink, and it draws near by God's permission. * And if you de",
+      "indonesian_evidence": "junjungan kami Muḥammad. Dan engkau memohonkan keperluanmu, lalu bumi dilipatkan bagimu; dan engkau menyeru-Nya untuk memperoleh makanan dan minuman, lalu itu mendekat dengan izin "
+    },
+    {
+      "id": "L15",
+      "source_lines": [
+        15
+      ],
+      "check": "5days suitable seclusion; THREEdirhams alms; invoke Names, see answer; next report.",
+      "passed": true,
+      "english_evidence": "that, you fast for 5 days in suitable seclusion and give three dirhams in alms, then invoke by the Names and see the answer. * It is also related",
+      "indonesian_evidence": "hal itu, engkau berpuasa selama 5 hari dalam khalwat yang layak dan bersedekah tiga dirham, kemudian berdoa dengan nama-nama itu, lalu melihat pengabulannya. * Diriwayatkan pula"
+    },
+    {
+      "id": "L16",
+      "source_lines": [
+        16
+      ],
+      "check": "Second Kufa report retained; same ORdays/bathing but ONE white garment.",
+      "passed": true,
+      "english_evidence": "that there was a man among the worshippers of Kufa who, when it was the day of ʿArafah or the day of al-Tarwiyah, would bathe and put on one white garment, then go out",
+      "indonesian_evidence": "bahwa ada seorang lelaki di antara ahli ibadah Kufah yang, apabila tiba hari Arafah atau hari Tarwiyah, mandi dan mengenakan sehelai pakaian putih, lalu keluar"
+    },
+    {
+      "id": "L17",
+      "source_lines": [
+        17
+      ],
+      "check": "al-zahr explicit elevated mountain/hill gloss, prayer, Mecca ORArafah; asterisk.",
+      "passed": true,
+      "english_evidence": "to al-ẓahr, which is the elevated place on a mountain or a hill, and invoke with this supplication, and would be seen in Mecca or at ʿArafah. * It is",
+      "indonesian_evidence": "menuju al-ẓahr, yaitu tempat tinggi pada gunung atau bukit, kemudian memanjatkan doa ini, lalu terlihat di Makkah atau di Arafah. * Inilah"
+    },
+    {
+      "id": "L18",
+      "source_lines": [
+        18
+      ],
+      "check": "Second prayer: Name/no disappointment, first four Names in order.",
+      "passed": true,
+      "english_evidence": "this supplication: O God, I ask You by Your Name, while You do not disappoint anyone who calls upon You by Your Name: al-Raḥmān (the Merciful), al-Mustaʿān (the One whose help is s",
+      "indonesian_evidence": "doanya: Ya Allah, aku memohon kepada-Mu dengan nama-Mu, sedangkan Engkau tidak mengecewakan orang yang menyeru-Mu dengan nama-Mu: al-Raḥmān (Yang Maha Pengasih), al-Mustaʿān (Yang "
+    },
+    {
+      "id": "L19",
+      "source_lines": [
+        19
+      ],
+      "check": "Remaining eight Names in order including rare al-Fadfad with sense qualified; fulfill need/ease.",
+      "passed": true,
+      "english_evidence": "al-Mutaʿāl (the Transcendent), al-Ẓāhir (the Manifest), al-Bāṭin (the Hidden), al-Maʿbūd (the Worshipped), al-Maḥmūd (the Praised), al-Mubārak (the Blessed), al-Muqtadir (the All-P",
+      "indonesian_evidence": "al-Mutaʿāl (Yang Mahaluhur), al-Ẓāhir (Yang Nyata), al-Bāṭin (Yang Tersembunyi), al-Maʿbūd (Yang Disembah), al-Maḥmūd (Yang Dipuji), al-Mubārak (Yang Diberkati), al-Muqtadir (Yang "
+    },
+    {
+      "id": "L20",
+      "source_lines": [
+        20
+      ],
+      "check": "Travel ease, fold distance, mention needs, granted by Gods permission;12Names.",
+      "passed": true,
+      "english_evidence": "travel easy for me, and fold up the far distance for me. And mention whatever needs you wish; you will be granted them by God's permission. These are 12 Names,",
+      "indonesian_evidence": "perjalanan bagiku dan lipatkanlah jarak yang jauh untukku. Dan sebutkanlah keperluan apa pun yang engkau kehendaki; engkau akan diberi semuanya dengan izin Allah. Itulah 12 nama,"
+    },
+    {
+      "id": "L21",
+      "source_lines": [
+        21
+      ],
+      "check": "sabāʿah/lā yasīran unknown sense qualified, negative retained; POSITIVE answer-if condition not repaired; no disappointment/certainty.",
+      "passed": true,
+      "english_evidence": "all of them sabāʿah, not little/easy (lā yasīran) [UNCLEAR: the sense of sabāʿah and the construction are unclear]. And if the answer occurs, it is due to your shortcoming; for thi",
+      "indonesian_evidence": "semuanya sabāʿah, tidak sedikit/mudah (lā yasīran) [UNCLEAR: makna sabāʿah dan susunannya tidak jelas]. Dan jika jawaban diperoleh, itu disebabkan oleh kekuranganmu; sebab doa ini "
+    },
+    {
+      "id": "L22",
+      "source_lines": [
+        22
+      ],
+      "check": "Sincerity, lawful eating, frequent fasting/night prayer, prayer/disciplined exercise/true intention; full Prophet blessing begins.",
+      "passed": true,
+      "english_evidence": "sincere, one who eats lawful food, frequently fasts, stands in prayer at night, maintains prayer and spiritual discipline, and has a true intention. The Messenger of God—may God bl",
+      "indonesian_evidence": "ikhlas, memakan yang halal, banyak berpuasa, banyak berdiri untuk beribadah pada malam hari, menekuni salat dan latihan rohani, serta berniat dengan tulus. Rasulullah—semoga Allah "
+    },
+    {
+      "id": "L23",
+      "source_lines": [
+        23
+      ],
+      "check": "Peace continuation; reported food/drink/clothes all unlawful; rhetorical answer question; lawful admonition.",
+      "passed": true,
+      "english_evidence": "and grant him peace—has said: Someone supplicates while his food is unlawful, his drink unlawful, and his clothing unlawful: how can he be answered? So adhere to what is lawful,",
+      "indonesian_evidence": "dan memberinya salam—telah bersabda: Seseorang berdoa, padahal makanannya haram, minumannya haram, dan pakaiannya haram: bagaimana ia akan dikabulkan? Maka hendaklah engkau berpega"
+    },
+    {
+      "id": "L24",
+      "source_lines": [
+        24
+      ],
+      "check": "Answer promised as source claim; friends/chosen; secrets-nearness versus intimacy-distance.",
+      "passed": true,
+      "english_evidence": "and you will be answered, for it is the supplication of the friends of God and the chosen ones. * Know that the intimate converse of secrets is nearness, while the intimate convers",
+      "indonesian_evidence": "niscaya engkau dikabulkan, sebab ini adalah doa para wali dan orang-orang pilihan. * Ketahuilah bahwa munajat rahasia-rahasia adalah kedekatan, sedangkan munajat keakraban (al-uns)"
+    },
+    {
+      "id": "L25",
+      "source_lines": [
+        25
+      ],
+      "check": "Real speaks/tongue unclear; those/far place boundary qualified; Great Beneficial Prayer/basmala.",
+      "passed": true,
+      "english_evidence": "Whoever the Real addresses intimately with his tongue [UNCLEAR: whose tongue is meant] receives the answer; those are called from a far-off place [UNCLEAR: the referent of “those” ",
+      "indonesian_evidence": "Orang yang diajak bermunajat oleh Yang Mahabenar melalui lidahnya [UNCLEAR: tidak jelas lidah siapa yang dimaksud] didatangi jawaban; mereka itu diseru dari tempat yang jauh [UNCLE"
+    },
+    {
+      "id": "L26",
+      "source_lines": [
+        26
+      ],
+      "check": "Compassionate, Lord make easy, God/no deity except You, might.",
+      "passed": true,
+      "english_evidence": "the Compassionate. Lord, make it easy. O God, I ask You by the fact that You are God, besides whom there is no god but You; and I ask You by Your might, through which Yours is",
+      "indonesian_evidence": "Maha Penyayang. Ya Tuhan, mudahkanlah. Ya Allah, aku memohon kepada-Mu karena Engkaulah Allah yang tiada tuhan selain Engkau; dan aku memohon kepada-Mu dengan keperkasaan-Mu, yang "
+    },
+    {
+      "id": "L27",
+      "source_lines": [
+        27
+      ],
+      "check": "Majesty/singularity/oneness, enduring might/lordship; imaginings far from power.",
+      "passed": true,
+      "english_evidence": "majesty in the singularity of Your oneness; and Yours is the permanence of might for as long as Your lordship endures. Far from Your power are the imaginings of those searching",
+      "indonesian_evidence": "keagungan dalam ketunggalan keesaan-Mu; dan milik-Mu kelanggengan keperkasaan sepanjang kelanggengan ketuhanan-Mu. Jauh dari kekuasaan-Mu angan-angan orang-orang yang mencari"
+    },
+    {
+      "id": "L28",
+      "source_lines": [
+        28
+      ],
+      "check": "Attainment of attributes, gnostic intellects bewildered; FEED us not emended HOPE.",
+      "passed": true,
+      "english_evidence": "for attainment of Your attributes, and the innermost intellects of those who know are bewildered at the majesty of Your greatness. My God, who has fed us within Your generosity and",
+      "indonesian_evidence": "pencapaian sifat-sifat-Mu, dan inti akal orang-orang yang mengenal-Mu kebingungan di hadapan keagungan kebesaran-Mu. Tuhanku, siapakah yang telah memberi kami makan dalam kemurahan"
+    },
+    {
+      "id": "L29",
+      "source_lines": [
+        29
+      ],
+      "check": "Gratitude, door, desire beloved gifts; rhetorical exclusive divine source, shown Yourself.",
+      "passed": true,
+      "english_evidence": "and inspired us to thank You, brought us to Your door, and made us desire what You have prepared for Your beloved ones? Is all that from anyone but You? You have shown us Yourself",
+      "indonesian_evidence": "dan mengilhami kami untuk bersyukur kepada-Mu, membawa kami ke pintu-Mu, serta membuat kami menginginkan apa yang telah Engkau siapkan bagi para kekasih-Mu? Bukankah semua itu sema"
+    },
+    {
+      "id": "L30",
+      "source_lines": [
+        30
+      ],
+      "check": "Guided to You; repeated asking/excess gifts and hoping/fulfilled hope; know us best.",
+      "passed": true,
+      "english_evidence": "and guided us to You. My God, how often we have asked You and You have given us more than we asked You, and how often we have hoped in You and You have fulfilled our hope; You know",
+      "indonesian_evidence": "dan membimbing kami menuju-Mu. Tuhanku, betapa sering kami meminta kepada-Mu, lalu Engkau memberi kami melebihi apa yang kami minta kepada-Mu; dan betapa sering kami berharap kepad"
+    },
+    {
+      "id": "L31",
+      "source_lines": [
+        31
+      ],
+      "check": "Perfect bounty/pardon; brokenness/long poverty; unrelieved distress/means of strength DIED with local linkage uncertainty.",
+      "passed": true,
+      "english_evidence": "So, by the perfection of Your bounty, pardon us. One whose brokenness You have not mended—how long his poverty! One whom You have not relieved of his distress—the means of his stre",
+      "indonesian_evidence": "Maka, dengan kesempurnaan kemurahan-Mu, maafkanlah kami. Orang yang kehancurannya tidak Engkau pulihkan—alangkah panjang kemiskinannya! Orang yang tidak Engkau legakan dari kesesak"
+    },
+    {
+      "id": "L32",
+      "source_lines": [
+        32
+      ],
+      "check": "Door expulsion, asterisk, sorrow; failure: janab/ilahi genitive/vocative alternatives wrongly asserted missing; mercy/do-gooders contrast starts.",
+      "passed": false,
+      "english_evidence": "And what disappointment for one You have driven from Your door! * O the sorrow of one You have kept far from the precinct of [UNCLEAR: the genitive complement of janāb is incomplet",
+      "indonesian_evidence": "Alangkah kecewanya orang yang Engkau usir dari pintu-Mu! * Alangkah menyesalnya orang yang Engkau jauhkan dari hadirat [UNCLEAR: pelengkap hubungan milik setelah janāb tidak tercan"
+    },
+    {
+      "id": "L33",
+      "source_lines": [
+        33
+      ],
+      "check": "Sinners, concealment/pardon/well-being by generosity/gentleness; unfinished IFunableTO before grid.",
+      "passed": true,
+      "english_evidence": "where do sinners go? O God, envelop us in Your concealment, pardon us through Your generosity, and grant us well-being through Your gentleness. My God, if we are unable to",
+      "indonesian_evidence": "mana perginya orang-orang berdosa? Ya Allah, selimutilah kami dengan penutupan-Mu, maafkanlah kami dengan kemurahan-Mu, dan berilah kami keselamatan dengan kelembutan-Mu. Tuhanku, "
+    },
+    {
+      "id": "L34",
+      "source_lines": [
+        34
+      ],
+      "check": "Blank before grid.",
+      "passed": true,
+      "english_evidence": "(source-aligned blank)",
+      "indonesian_evidence": "(source-aligned blank)"
+    },
+    {
+      "id": "L35",
+      "source_lines": [
+        35
+      ],
+      "check": "Parenthetical zay/Saturn/Saturday association.",
+      "passed": true,
+      "english_evidence": "( The Letter zāy Belongs to Saturn, and Its Day Is Saturday )",
+      "indonesian_evidence": "( Huruf zāy untuk Saturnus, dan Harinya adalah Sabtu )"
+    },
+    {
+      "id": "L36",
+      "source_lines": [
+        36
+      ],
+      "check": "All seven source-order cells, pipes and spaces independently compared; actual ṭāʾ and sīn, not previous-page letters.",
+      "passed": true,
+      "english_evidence": "| zāy | ṭāʾ | sīn | fāʾ | khāʾ | thāʾ | jīm |",
+      "indonesian_evidence": "| zāy | ṭāʾ | sīn | fāʾ | khāʾ | thāʾ | jīm |"
+    },
+    {
+      "id": "L37",
+      "source_lines": [
+        37
+      ],
+      "check": "All seven source-order cells, pipes and spaces independently compared; actual ṭāʾ and sīn, not previous-page letters.",
+      "passed": true,
+      "english_evidence": "| thāʾ | jīm | zāy | ṭāʾ | sīn | fāʾ | khāʾ |",
+      "indonesian_evidence": "| thāʾ | jīm | zāy | ṭāʾ | sīn | fāʾ | khāʾ |"
+    },
+    {
+      "id": "L38",
+      "source_lines": [
+        38
+      ],
+      "check": "All seven source-order cells, pipes and spaces independently compared; actual ṭāʾ and sīn, not previous-page letters.",
+      "passed": true,
+      "english_evidence": "| khāʾ | thāʾ | jīm | zāy | ṭāʾ | sīn | fāʾ |",
+      "indonesian_evidence": "| khāʾ | thāʾ | jīm | zāy | ṭāʾ | sīn | fāʾ |"
+    },
+    {
+      "id": "L39",
+      "source_lines": [
+        39
+      ],
+      "check": "All seven source-order cells, pipes and spaces independently compared; actual ṭāʾ and sīn, not previous-page letters.",
+      "passed": true,
+      "english_evidence": "| fāʾ | khāʾ | thāʾ | jīm | zāy | ṭāʾ | sīn |",
+      "indonesian_evidence": "| fāʾ | khāʾ | thāʾ | jīm | zāy | ṭāʾ | sīn |"
+    },
+    {
+      "id": "L40",
+      "source_lines": [
+        40
+      ],
+      "check": "All seven source-order cells, pipes and spaces independently compared; actual ṭāʾ and sīn, not previous-page letters.",
+      "passed": true,
+      "english_evidence": "| sīn | fāʾ | khāʾ | thāʾ | jīm | zāy | ṭāʾ |",
+      "indonesian_evidence": "| sīn | fāʾ | khāʾ | thāʾ | jīm | zāy | ṭāʾ |"
+    },
+    {
+      "id": "L41",
+      "source_lines": [
+        41
+      ],
+      "check": "All seven source-order cells, pipes and spaces independently compared; actual ṭāʾ and sīn, not previous-page letters.",
+      "passed": true,
+      "english_evidence": "| ṭāʾ | sīn | fāʾ | khāʾ | thāʾ | jīm | zāy |",
+      "indonesian_evidence": "| ṭāʾ | sīn | fāʾ | khāʾ | thāʾ | jīm | zāy |"
+    },
+    {
+      "id": "L42",
+      "source_lines": [
+        42
+      ],
+      "check": "All seven source-order cells, pipes and spaces independently compared; actual ṭāʾ and sīn, not previous-page letters.",
+      "passed": true,
+      "english_evidence": "| jīm | zāy | ṭāʾ | sīn | fāʾ | khāʾ | thāʾ |",
+      "indonesian_evidence": "| jīm | zāy | ṭāʾ | sīn | fāʾ | khāʾ | thāʾ |"
+    },
+    {
+      "id": "L43",
+      "source_lines": [
+        43
+      ],
+      "check": "Blank after grid.",
+      "passed": true,
+      "english_evidence": "(source-aligned blank)",
+      "indonesian_evidence": "(source-aligned blank)"
+    },
+    {
+      "id": "L44",
+      "source_lines": [
+        44
+      ],
+      "check": "Parenthetical SEVEN seals for SEVENdays complete, no invented extra grid.",
+      "passed": true,
+      "english_evidence": "( The Seven Seals for the Seven Days Are Complete )",
+      "indonesian_evidence": "( Selesai Tujuh Segel untuk Tujuh Hari )"
+    }
+  ],
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "medium",
+      "source_lines": [
+        14
+      ],
+      "languages": [
+        "en",
+        "id"
+      ],
+      "source_anchor": "وتدعوه بالطعام والشراب فيدنو",
+      "issue": "Both targets resolve the unexpressed subject of yadnu as an inanimate it/itu without disclosing that the subject could refer to an invoked being or to the requested provision. The source does not name that subject.",
+      "required_change": "Preserve the invocation, food and drink, near-approach and divine-permission clauses; qualify the actual unknown actor/referent locally rather than asserting which entity approaches."
+    },
+    {
+      "id": "F02",
+      "severity": "medium",
+      "source_lines": [
+        32
+      ],
+      "languages": [
+        "en",
+        "id"
+      ],
+      "source_anchor": "يا حسرة من أبعدته عن جناب إلهي كأن رحمتك للمحسنين",
+      "issue": "Both notes assert that janab lacks its genitive complement and split ilahi into a new vocative. Printed ilahi may instead complete the genitive or act as an adjective. Missing-complement diagnosis is not established by the source.",
+      "required_change": "Withdraw the definite incompleteness claim; preserve janab/ilahi and qualify their connection/reading and whether a new address starts. Preserve the following mercy/do-gooders/sinners contrast without repairing from remembered prayer."
+    }
+  ],
+  "accepted_source_uncertainties": [
+    {
+      "source_lines": [
+        8
+      ],
+      "description": "Narrator-name linkage retained rather than silently reconstructed."
+    },
+    {
+      "source_lines": [
+        11,
+        12
+      ],
+      "description": "Opaque initial invocation retains recoverable words and marks reading/linkage."
+    },
+    {
+      "source_lines": [
+        19
+      ],
+      "description": "Rare al-Fadfad retains form, Ample gloss and qualified intended sense."
+    },
+    {
+      "source_lines": [
+        21
+      ],
+      "description": "sabāʿah and negative lā yasīran remain local unknowns, no invented sevenfold recipe."
+    },
+    {
+      "source_lines": [
+        21
+      ],
+      "description": "Positive answer-if/shortcoming contradiction preserved, not corrected by adding a negative."
+    },
+    {
+      "source_lines": [
+        25
+      ],
+      "description": "Tongue antecedent and following those/quotation boundary remain locally qualified."
+    },
+    {
+      "source_lines": [
+        31
+      ],
+      "description": "Printed died/means/strength clause retained with linkage uncertainty."
+    },
+    {
+      "source_lines": [
+        33
+      ],
+      "description": "Prose stops after unable to; grid and completion footer remain in source position."
+    }
+  ],
+  "summary": "Parent coordinator independently read the complete canonical Arabic and both complete child-authored actual files, directly source-to-each-language, before writing this decision. All44source lines and49grid cells examined. Two actionable ambiguity/attribution defects prevent approval; other recovered clauses, counts, lists, repeated reports and fragments passed. Frozen raw hashes verified before/after. No human review claimed. Full pytest not yet run for this rejected intermediate candidate; final suite remains mandatory after repair. Coordinator withdraws its earlier briefing assertion that janab was definitely an incomplete genitive: the canonical source permits other segmentations, and source overrides that mistaken instruction. No target text was edited by this reviewer.",
+  "reviewed_utc": "2026-11-09T22:24:07.164898+00:00"
+}
