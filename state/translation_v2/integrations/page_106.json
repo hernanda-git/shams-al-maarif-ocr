@@ -1,0 +1,43 @@
+{
+  "type": "frozen_editorial_boundary",
+  "boundary_page": 106,
+  "captured_at_utc": "2026-11-09T04:44:57.421273+00:00",
+  "base_head": "4b3a83ee641eb922721b4efc47e1e90504048445",
+  "editorial_pages": [],
+  "new_page_reviewed_hashes": {
+    "ocr/enriched/page_106.txt": "7781d94311187145e8534ac177d9e084c772749f205a06eb55f853ed3c452980",
+    "ocr/enriched_en/page_106.txt": "d26599537582d5bc0977280510d24b66d322fbbabcc5e3cfa0563c364a4988eb",
+    "ocr/enriched_id/page_106.txt": "66015b141e2e156f6ef7eaef554f0f7d93ff8b5a841f5d66834a1ce29328c02e"
+  },
+  "frozen_english_and_provenance_hashes": {
+    "docs/english-corrections/2026-11-07-161708-basmala-pages-045-046.md": "45560ef48227cf7e96ff24cc9289b242226b0290ad4ebd29ba5bd016f5d5c2ec",
+    "docs/english-corrections/2026-11-07-161708-basmala-physical-045-046.txt": "1befbbf0a8bd9724c1fe45632e267d082911c4db5da7cff9e40aff98e838713f",
+    "docs/english-corrections/2026-11-07-161720-basmala-repeat-physical-044-045.txt": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+    "docs/english-corrections/2026-11-07-1701-pages-050-051.md": "caefe6872a7d2cee15bba1fe6c357c9ed640816e60ee601ddb20718711e74149",
+    "docs/english-corrections/2026-11-07-1701-physical-050.txt": "7b1f89e5086c063e6a07e0a360c06d4d0a03ce4870ad68c1d71e4b0a944418d5",
+    "docs/english-corrections/2026-11-07-1701-physical-051.txt": "d647a464dcffc7eae6f35a97d6eb8bc7e2983d52073c935f87e2ec16d4c03896",
+    "docs/english-corrections/2026-11-07-basmala-pages-040-041.md": "095cc1a8cc3154630e11bfaa1d213fc7924cefea031b16cf64b949f7fc47a912",
+    "docs/english-corrections/2026-11-07-basmala-pages-040-041.txt": "4ae3a8fd272a138291ae4773eda744d2977707985abcd81ce7b63a242372fcf8",
+    "docs/english-corrections/2026-11-07-basmala-pages-043-045.md": "2c60c6dbeee50e6315f350a796178a0606f5e3d3b199a66eddec34f63fff3039",
+    "docs/english-corrections/2026-11-07-basmala-physical-043.txt": "c446759cf681fe5bdbe76ae10b7a9d6c52ae931437e941a060e40c368b38b6a3",
+    "docs/english-corrections/2026-11-07-basmala-physical-044-045.txt": "20322122a2b65970dd5c1e6570c28c114aab8e230a6a19d1b50a3a4aee6504cf",
+    "docs/english-corrections/integration-page-095-20261108T002524.md": "69ffa36477f3f4b1a89b2da9e7af25f41b0ffc4cbb716147b6eecf33e18eb88e",
+    "docs/english-corrections/integration-page-096-20261108T012137.md": "23c15bd4fa857c5653395661456c2bd924108520c70ed0e4b82e847890a20a59",
+    "docs/english-corrections/integration-page-097-20261108T013837.md": "b80565bdc07a999afd069acd3d8d4b05446eedb1d74f970a2903d5aa2b8a7f11",
+    "docs/english-corrections/integration-page-098-20261108T015320.md": "e4ab8447a9b0eb4eb2db8afac260cf892c5c70d4edf1aebc4ca1bb70613a7c6f",
+    "docs/english-corrections/integration-page-099-20261108T020553.md": "04f95c09c6f8f21b6ad40d1751c53b448d86d9e5d56c520572b5082b6077800b",
+    "docs/english-corrections/integration-page-100-20261108T022040.md": "f2a5a9a6919a76f3664c307c8acaf37922cece1f67f8a8d964228132cff7c8f9",
+    "docs/english-corrections/integration-page-101-20261108T023401.md": "800d9ed8c27e291a882c6fa6d08c1a9d16034c4492f25dc3b9ffa5f0e6e2b0e0",
+    "docs/english-corrections/integration-page-102-20261108T091618.md": "3c2c129f0aef761c25e1f6ff25caaf5ccbba9726f4119f8195db42f716e4d16d",
+    "docs/english-corrections/integration-page-103-20261108T093552.md": "515e19308e5a72eab35c1efc3e701674577a00bf2858b2614fbe03723b9c0383",
+    "docs/english-corrections/integration-page-104-20261108T095243.md": "2d8afebe4552dc46600253aceb5c73e32b1417098c83aa6db111275d9e56ec78",
+    "docs/english-corrections/integration-page-105-20261108T100242.md": "c86cc5d5ce852c6b485100bbe93bb1e406116cdbaeed6ffc2f2f021543690807"
+  },
+  "canonical_sources_verified": 604,
+  "titles_preserved": 604,
+  "source_authentication": "Existing user editorial versions remain hash-bound overrides, not approval by old reviewers. No new replacement ready.",
+  "validation": "Frozen candidate page106 PASS; accepted sweep 105/105 PASS; existing raw editorial triage evidence retained externally.",
+  "tests_output": "....................... [  6%]\n........................................................................ [ 28%]\n........................................................................ [ 50%]\n........................................................................ [ 71%]\n........................................................................ [ 93%]\n.....................                                                    [100%]\n332 passed, 49 subtests passed in 91.66s (0:01:31)\n",
+  "deployment_policy": "No deployment authorized. All batch commits contain [skip ci]. Detected push-triggered GitHub deploy workflow inspected; no GitHub hooks, deployments or Vercel checks reported at preflight.",
+  "review_artifact": "state/translation_v2/reviews/page_106-r1-approved.json"
+}
