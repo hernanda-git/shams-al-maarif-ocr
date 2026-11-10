@@ -1,0 +1,19 @@
+{
+  "type": "frozen_editorial_boundary",
+  "boundary_page": 125,
+  "base_head": "49ecbf16c9f1bd0c71d48c1ed14af006b854e134",
+  "editorial_pages": [],
+  "existing_registry_sha256": "0fb3aa4c041d56ff0d6e65bd56cd1ec346dc0cc23e760454dd2e022fbc0fbd0e",
+  "canonical_sources_verified": 604,
+  "titles_preserved": 604,
+  "review_artifact": "state/translation_v2/reviews/page_125-r2-approved.json",
+  "source_authentication": "Existing registered user editorial versions preserved; no new correction ready. Not authentication by older reviewers.",
+  "new_page_reviewed_hashes": {
+    "ocr/enriched/page_125.txt": "483f2b15047d2100554855af40e7f2b8dfe76037cd5f95a191f7ed794fdf7067",
+    "ocr/enriched_en/page_125.txt": "2a03ce596f953372b6bcbfd51776f3499e29c99756616c6203f8b6b5d94d96aa",
+    "ocr/enriched_id/page_125.txt": "d1f9a7d50d74b1263baf63ce9e9d7cf09c67b5e8c9943dde2c199262de93427d"
+  },
+  "state": "frozen_for_authorized_publication",
+  "publication_status": "prepared; remote readback recorded externally after push",
+  "authority": "Standing sequential V2 commits/pushes; no deployment, V3/PDF, or model/provider changes."
+}
