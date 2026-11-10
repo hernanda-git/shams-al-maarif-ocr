@@ -1,0 +1,30 @@
+{
+  "page": 118,
+  "status": "committed",
+  "base_head": "a1df962f4492ff4bc8d733f19fcd35f0eef585f6",
+  "content_commit": "8a61612c2e5e48577ae5753270b6437a788a71cc",
+  "editorial_integration_commit": "8731e20e096417d520b2a2ccb77efcc529ac8dc5",
+  "review_sha256": "ff2364930f87e89bbcd1e19d49629753f791dd1ceec8ff0195e2cd337d0859fb",
+  "review_coverage_items": 32,
+  "accepted_source_uncertainties": 15,
+  "content_hashes": {
+    "ocr/enriched/page_118.txt": "bbe3dc9da52649dd92f85bdcca32b52896cbf62db591c1987ced56d08ec095d0",
+    "ocr/enriched_en/page_118.txt": "f026090be71a5207ee64091880533b1be3447dd7788f54d6d7f17c738ca2b3a1",
+    "ocr/enriched_id/page_118.txt": "1e6ffab59b58e9e553f4411dd433f5492a4e92374b77347a470179a7f2a31689",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "48b4f5a60b32be634e19a525facdf29002b1914bfb5b26a9b5e70c0f2be30b40"
+  },
+  "counts": {
+    "committed": 118,
+    "pending": 486
+  },
+  "next_page": 119,
+  "worker_lock": null,
+  "new_editorial_pages": [],
+  "tests": "....................... [  6%]\r\n........................................................................ [ 27%]\r\n........................................................................ [ 47%]\r\n........................................................................ [ 68%]\r\n........................................................................ [ 89%]\r\n.....................................                                    [100%]\r\n348 passed, 49 subtests passed in 166.49s (0:02:46)",
+  "accepted_sweep": "117 previously accepted plus current118 pass",
+  "deployment": "Not authorized; all commits [skip ci]; push deploy workflow inspected, hooks/deployments/checks absent at preflight",
+  "authority": "User: commit and push and yes continue. Standing authority for sequential V2 reviewed content/integration/checkpoint commits and pushes; no deployment, no V3/PDF or model/provider changes.",
+  "publication": "Prepared for push; exact remote SHA/API readback persisted externally in publication-journal.json",
+  "local_approval_receipt": "Earlier local approval audit is preserved as historical prepublication evidence."
+}

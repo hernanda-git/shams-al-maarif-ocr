@@ -1,0 +1,563 @@
+{
+  "page": 118,
+  "passed": true,
+  "verdict": "APPROVED",
+  "reviewer_role": "independent-model-semantic-reviewer",
+  "reviewer_id": "parent-coordinator-resumed",
+  "translator_ids": [
+    "sa-0-1c6170c3"
+  ],
+  "source_hashes": {
+    "ocr/enriched/page_118.txt": "bbe3dc9da52649dd92f85bdcca32b52896cbf62db591c1987ced56d08ec095d0",
+    "ocr/enriched_en/page_118.txt": "f026090be71a5207ee64091880533b1be3447dd7788f54d6d7f17c738ca2b3a1",
+    "ocr/enriched_id/page_118.txt": "1e6ffab59b58e9e553f4411dd433f5492a4e92374b77347a470179a7f2a31689",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "48b4f5a60b32be634e19a525facdf29002b1914bfb5b26a9b5e70c0f2be30b40"
+  },
+  "coverage": [
+    {
+      "id": "R1-L01",
+      "source_lines": [
+        1
+      ],
+      "check": "Folio112,hyphenstyle,NOblankinserted.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "- 112 -",
+      "indonesian_evidence": "- 112 -"
+    },
+    {
+      "id": "R1-L02",
+      "source_lines": [
+        2
+      ],
+      "check": "NOgodbutGOD/trueincumbencyservants/INSCRIBEDBook;PRAISEandTHANKSforblessingsFROMGod/ACCEPTEDthanks; noomission.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "And there is no god but God, truly incumbent upon the servants, inscribed in the Book; and praise be to God, in thanksgiving for the blessings from God, an accepted thanksgiving,",
+      "indonesian_evidence": "Dan tiada tuhan selain Allah, sebagai kebenaran yang wajib atas para hamba, tertulis dalam Kitab; dan segala puji bagi Allah, sebagai syukur atas nikmat-nikmat dari Allah, syukur yang diterima,"
+    },
+    {
+      "id": "R1-L03",
+      "source_lines": [
+        3
+      ],
+      "check": "Godsbounty/acceptedrighteousness;GodGREATER/mightBYGod/manifestwhatMUSTmanifestofforbearance;Godsnobility/endeavorcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "accepted through God's bounty; and God is greatest, in might through God and in manifesting what must be manifested of God's forbearance; and God's nobility, an endeavor",
+      "indonesian_evidence": "dengan karunia Allah, diperkenan; dan Allah Mahabesar, sebagai kemuliaan dengan Allah dan penampakan apa yang wajib ditampakkan dari kesantunan Allah; dan keluhuran Allah, usaha"
+    },
+    {
+      "id": "R1-L04",
+      "source_lines": [
+        4
+      ],
+      "check": "Appreciatedendeavor/forgivensinwithirregularconnectionqualified;GLORY,freeBYGodofEVIL,EVENINGandMORNING;NOpowerANDstrengthEXCEPTcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "appreciated and a sin forgiven [UNCLEAR: how God's nobility and these phrases are connected]; and glory be to God, being free through God of evil, evening and morning; and there is no power and no str",
+      "indonesian_evidence": "yang dihargai dan dosa yang diampuni [UNCLEAR: hubungan keluhuran Allah dengan ungkapan-ungkapan ini tidak jelas]; dan Mahasuci Allah, terbebas dengan Allah dari keburukan pada petang dan pagi; dan ti"
+    },
+    {
+      "id": "R1-L05",
+      "source_lines": [
+        5
+      ],
+      "check": "BYGodHIGHGREAT/acknowledgingPOWERwithGod/IFGODWILLS/appreciatedunknownreferentqualified;OAllahWEresemblingENTIRETYYOURBook/intendedresemblancequalified.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "through God, the Most High, the Great, acknowledging that power rests with God, if God wills, appreciated [UNCLEAR: what is described as appreciated]. O God, we are those resembling the entirety of Yo",
+      "indonesian_evidence": "dengan Allah Yang Mahatinggi lagi Mahaagung, mengakui bahwa kekuasaan ada pada Allah, jika Allah menghendaki, dihargai [UNCLEAR: apa yang disebut dihargai tidak jelas]. Ya Allah, kami adalah orang-ora"
+    },
+    {
+      "id": "R1-L06",
+      "source_lines": [
+        6
+      ],
+      "check": "TurningTOYOU/directionFAITH/YOURconcealedSTOREDbook/YOURNamesandREALITIESattributes/linkagequalified;BYNAMEcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "turning toward You in the direction of faith in Your concealed, stored Book, of Your Names and the realities of Your attributes [UNCLEAR: the relation of this phrase to the Book], and by the Name",
+      "indonesian_evidence": "yang menghadap kepada-Mu dengan arah keimanan kepada Kitab-Mu yang tersembunyi lagi tersimpan, dari nama-nama-Mu dan hakikat sifat-sifat-Mu [UNCLEAR: hubungan ungkapan ini dengan Kitab tidak jelas], d"
+    },
+    {
+      "id": "R1-L07",
+      "source_lines": [
+        7
+      ],
+      "check": "ThroughwhichEVERYTHINGofEARTHANDHEAVENstands;YOUAllahSAMAD/didNOTBEGET/NONEEQUALcontinues. PrintedmissingnotbegottenclauseNOTsupplied.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "through which everything of Your earth and Your heaven stands, in that You are God, the Self-Sufficient, who did not beget and to whom there is no equal,",
+      "indonesian_evidence": "yang dengannya tegak segala sesuatu di bumi-Mu dan langit-Mu, karena Engkau adalah Allah, Yang Menjadi Tempat Bergantung, yang tidak beranak dan yang tiada setara dengan-Nya"
+    },
+    {
+      "id": "R1-L08",
+      "source_lines": [
+        8
+      ],
+      "check": "ANYONEfinishesnegative;IaskOAllahtosendBLESSINGSANDPEACE/OURmasterMuhammad/FULLpeaceblessingshonorific/MASTERprophetsANDmessengers,whomcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "anyone. I ask You, O God, to send blessings and peace upon our master Muhammad, peace and blessings be upon him, master of the prophets and messengers, whom",
+      "indonesian_evidence": "seorang pun. Aku memohon kepada-Mu, ya Allah, agar Engkau melimpahkan selawat dan salam kepada junjungan kami Muhammad, semoga selawat dan salam tercurah kepadanya, pemimpin para nabi dan rasul, yang"
+    },
+    {
+      "id": "R1-L09",
+      "source_lines": [
+        9
+      ],
+      "check": "YOUcreatedBEFOREeverything/HEwasPEARL/depositCLEARBOOKinHISBREAST;grantUSreliefEACHnarrownessandEACHworrycontinues. Sourcebeliefnotendorsed.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "You created before everything, while he was a pearl, and in whose breast You deposited the Clear Book: that You grant us relief from every narrowness and from",
+      "indonesian_evidence": "Engkau ciptakan sebelum segala sesuatu, sementara ia berupa mutiara, dan yang di dadanya Engkau titipkan Kitab yang jelas: agar Engkau memberikan kepada kami kelapangan dari setiap kesempitan dan dari"
+    },
+    {
+      "id": "R1-L10",
+      "source_lines": [
+        10
+      ],
+      "check": "EACHworryWAYOUT;Reliever/HighDEGREES/BESTrefuge/MIGHTIESTresort/GENEROUSpardonANDliberality,allinvocations.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "every worry a way out. O Reliever, O Exalted in degrees, O best refuge and mightiest resort, O Generous in pardon and liberality,",
+      "indonesian_evidence": "setiap kekhawatiran jalan keluar. Wahai Yang Melapangkan, wahai Yang Tinggi Derajat-Nya, wahai sebaik-baik tempat berlindung dan tempat bernaung yang paling perkasa, wahai Yang Pemurah dalam pengampun"
+    },
+    {
+      "id": "R1-L11",
+      "source_lines": [
+        11
+      ],
+      "check": "ProviderprintedUDnotDUDworm,wordmeaningqualified;HAJARALMALHUDqualifiednotconfidentrepairedsetting;Allah/LORDWORLDS;MAYGODBLESSOURmasterMuhammad/familyANDcompanionsANDpeacecontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "O Provider for the ʿūd [UNCLEAR: printed word can mean wood or a stick; its sense here is unknown] in the ḥajar al-malḥūd [UNCLEAR: apparently a stone hollowed out for burial; the intended setting is ",
+      "indonesian_evidence": "wahai Pemberi Rezeki bagi ʿūd [UNCLEAR: kata tercetak dapat berarti kayu atau tongkat; maknanya di sini tidak diketahui] di dalam ḥajar al-malḥūd [UNCLEAR: tampaknya batu yang dilubangi untuk pengubur"
+    },
+    {
+      "id": "R1-L12",
+      "source_lines": [
+        12
+      ],
+      "check": "ABUNDANTpeace;literal*;HISprovision-bringingsupplication,IFwishreciteBEGINSurahWAQIAH/THENsupplicationnextline;sourceclaimnotadvice.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "abundant peace. * And among his supplications for bringing provision: if you wish to recite it, begin by reciting Sūrat al-Wāqiʿah, then recite",
+      "indonesian_evidence": "salam yang berlimpah. * Dan di antara doanya untuk mendatangkan rezeki: apabila engkau hendak membacanya, mulailah dengan membaca Surah al-Wāqiʿah, kemudian bacalah"
+    },
+    {
+      "id": "R1-L13",
+      "source_lines": [
+        13
+      ],
+      "check": "THISsupplicationNAMEDWaqiah/balancedbasmala/IOAllahaskYOU/twoYAGODinvocations/ONE,notdeduped.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "this supplication, called the Supplication of al-Wāqiʿah: (In the name of God, the All-Merciful, the Compassionate.) O God, I ask You, O God, O God, O One,",
+      "indonesian_evidence": "doa ini, yang dinamakan Doa al-Wāqiʿah: (Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.) Ya Allah, aku memohon kepada-Mu, wahai Allah, wahai Allah, wahai Yang Satu,"
+    },
+    {
+      "id": "R1-L14",
+      "source_lines": [
+        14
+      ],
+      "check": "AHAD/WITR/HAYY/QAYYUM/ORIGINATORheavensANDearth/POSSESSORmajestyhonor/BASIT/GHANI/MUGHNI,allordered.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "O Unique, O Single, O Living, O Sustainer, O Originator of the heavens and the earth, O Possessor of Majesty and Honor, O Expander, O Self-Sufficient, O Enricher,",
+      "indonesian_evidence": "wahai Yang Esa, wahai Yang Tunggal, wahai Yang Hidup, wahai Yang Menegakkan Segala Sesuatu, wahai Pencipta langit dan bumi, wahai Pemilik Keagungan dan Penghormatan, wahai Yang Melapangkan, wahai Yang"
+    },
+    {
+      "id": "R1-L15",
+      "source_lines": [
+        15
+      ],
+      "check": "BYMAHHUBMAHHUBhiddenkindness/BYSASASASAradiantlight/MAHSUBUNKNOWNmeaningnotH ASBIsufficiency/Allahgreatnesssuprememajesty. Orderedrepetitionsandglossesretainactualwords.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "by mahhūb mahhūb, possessor of hidden kindness; by ṣaʿṣaʿ ṣaʿṣaʿ, possessor of radiant light; maḥsūb [UNCLEAR: the meaning of these formula words is unknown], God, to whom belong greatness and supreme",
+      "indonesian_evidence": "dengan mahhūb mahhūb, pemilik kelembutan tersembunyi; dengan ṣaʿṣaʿ ṣaʿṣaʿ, pemilik cahaya cemerlang; maḥsūb [UNCLEAR: makna kata-kata formula ini tidak diketahui], Allah, yang memiliki kebesaran dan "
+    },
+    {
+      "id": "R1-L16",
+      "source_lines": [
+        16
+      ],
+      "check": "SASAUB/DARIHA/ANDbeauty/TAHBUB/POSSESSORSHAMIKHlofty/TAHLAHUB/MALHUBqualifiedformula;GODsubjectedunknownOBJECTexplicitqualified/BYLIGHTOFEVERYcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "O ṣaʿṣaʿūb darīhā and beauty, ṭahbūb; possessor of shāmikh, lofty, ṭahlahūb malhūb [UNCLEAR: the formula words and their relations are unknown; shāmikh means lofty]; God, who subjected [UNCLEAR: the o",
+      "indonesian_evidence": "wahai ṣaʿṣaʿūb darīhā dan keindahan, ṭahbūb; pemilik shāmikh, yang menjulang, ṭahlahūb malhūb [UNCLEAR: makna kata-kata formula dan hubungan antarunsurnya tidak diketahui; shāmikh berarti menjulang]; "
+    },
+    {
+      "id": "R1-L17",
+      "source_lines": [
+        17
+      ],
+      "check": "LIGHT/BYTAHBUBTAHBUBunknownformularetained;pluralANSWER/servantsGREATGREATESTGOD/bySUBJECTINGHEARTScreaturesANDSEEKINGprovision. All3TAHBUBpositionsacross16–17.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "light, by ṭahbūb ṭahbūb [UNCLEAR: meaning of this repeated formula word unknown]. Answer, you servants of God, the Great, the Greatest, by subjecting the hearts of creatures and seeking provision,",
+      "indonesian_evidence": "cahaya, dengan ṭahbūb ṭahbūb [UNCLEAR: makna kata formula yang diulang ini tidak diketahui]. Jawablah, wahai para pelayan Allah Yang Agung, Yang Paling Agung, dengan menundukkan hati para makhluk dan "
+    },
+    {
+      "id": "R1-L18",
+      "source_lines": [
+        18
+      ],
+      "check": "PluralSTIRlovesspiritualagencyFORME/permanentdirectionmeaningqualified;INNAMEGod/veilsBURNEDforHISLIGHT/necksBOWEDtoHISGREATNESS.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "and stir the spiritual agency of love for me with the permanent direction [UNCLEAR: the intended sense of permanent direction is unknown], in the name of God for whose light the veils burned, and befo",
+      "indonesian_evidence": "dan gerakkanlah daya rohaniah cinta untukku dengan arah yang tetap [UNCLEAR: maksud arah yang tetap ini tidak diketahui], dengan nama Allah yang karena cahaya-Nya tabir-tabir terbakar, dan karena kebe"
+    },
+    {
+      "id": "R1-L19",
+      "source_lines": [
+        19
+      ],
+      "check": "MOUNTAINScrumbledHISAWE/THUNDERglorifiedPRAISE/ANGELSFEAR/HEGOD/NONEBUTHE/LORDcontinues; allactorsandcauses.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "and before whose awe the mountains crumbled; thunder glorified Him with His praise, and the angels out of fear of Him. He is God, besides whom there is no god, Lord of",
+      "indonesian_evidence": "dan karena kewibawaan-Nya gunung-gunung remuk; guruh bertasbih dengan memuji-Nya, begitu pula para malaikat karena takut kepada-Nya. Dialah Allah, tiada tuhan selain Dia, Tuhan"
+    },
+    {
+      "id": "R1-L20",
+      "source_lines": [
+        20
+      ],
+      "check": "GREATTHRONE/literal*;ASKYOUR ELEVATEDNAME/givenwhomeverYOUwilledFORYOURFRIENDSrecipientlinkqualified/INSPIREDcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "the Great Throne. * O God, I ask You by Your elevated Name, which You gave to whomever You willed for Your friends [UNCLEAR: the relation of for Your friends to the recipient is uncertain], and inspir",
+      "indonesian_evidence": "Arasy yang agung. * Ya Allah, aku memohon kepada-Mu dengan Nama-Mu yang tinggi, yang Engkau berikan kepada siapa yang Engkau kehendaki untuk para wali-Mu [UNCLEAR: hubungan untuk para wali-Mu dengan p"
+    },
+    {
+      "id": "R1-L21",
+      "source_lines": [
+        21
+      ],
+      "check": "YOURCHOSENFROMYOURBELOVED;ASKYOUbringMEprovisionFROMYOU/toENRICHMYPoverty/MENDMYbrokenness/SEVERcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "to Your chosen ones from among Your beloved: I ask You to bring me provision from You, by which You enrich my poverty, mend my brokenness, and sever",
+      "indonesian_evidence": "kepada orang-orang pilihan-Mu dari kalangan kekasih-Mu: aku memohon kepada-Mu agar Engkau mendatangkan kepadaku rezeki dari sisi-Mu, yang dengannya Engkau mengayakan kefakiranku, memulihkan keremukank"
+    },
+    {
+      "id": "R1-L22",
+      "source_lines": [
+        22
+      ],
+      "check": "THEREBYSATANtiesFROMMYHEART;YOUGOD,first8mainNamesHANNAN/MANNAN/SULTAN/DAYYAN/WAHHAB/RAZZAQ/FATTAH/ALIM.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "thereby Satan's ties from my heart; for You are God, al-Ḥannān, the Tender; al-Mannān, the Bestower of favors; al-Sulṭān, the Sovereign; al-Dayyān, the Judge; al-Wahhāb, the Bestower; al-Razzāq, the P",
+      "indonesian_evidence": "dengannya ikatan-ikatan setan dari hatiku; sebab Engkaulah Allah, al-Ḥannān, Yang Penuh Kasih; al-Mannān, Pemberi Karunia; al-Sulṭān, Penguasa; al-Dayyān, Hakim Pembalas; al-Wahhāb, Yang Maha Memberi;"
+    },
+    {
+      "id": "R1-L23",
+      "source_lines": [
+        23
+      ],
+      "check": "Next13mainNamesQABID/BASIT/RAFI/MUIZZ/MUDHILL/GHANI/MUGHNI/KARIM/MUTI/RAZZAQ/LATIF/WASI/SHAKUR. TOTAL21,RAZZAQtwicepreservedat22/23.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "al-Qābiḍ, the Withholder; al-Bāsiṭ, the Expander; al-Rāfiʿ, the Exalter; al-Muʿizz, the Giver of honor; al-Mudhill, the Abaser; al-Ghaniyy, the Self-Sufficient; al-Mughnī, the Enricher; al-Karīm, the ",
+      "indonesian_evidence": "al-Qābiḍ, Yang Menahan; al-Bāsiṭ, Yang Melapangkan; al-Rāfiʿ, Yang Meninggikan; al-Muʿizz, Yang Memuliakan; al-Mudhill, Yang Menghinakan; al-Ghaniyy, Yang Mahakaya; al-Mughnī, Yang Memberi Kekayaan; a"
+    },
+    {
+      "id": "R1-L24",
+      "source_lines": [
+        24
+      ],
+      "check": "POSSESSORBOUNTY/BLESSINGS/LIBERALITY/NOBILITY;literal*;BYRIGHTOFYOURRIGHT/GENEROSITYOFYOURGENEROSITY/BOUNTY/BENEFICENCEwithoutdeduplication.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "Possessor of bounty, blessings, liberality, and nobility. * O God, I ask You by the right of Your right, the generosity of Your generosity, Your bounty, and Your beneficence,",
+      "indonesian_evidence": "Pemilik karunia, nikmat, kedermawanan, dan keluhuran. * Ya Allah, aku memohon kepada-Mu dengan hak hak-Mu, kedermawanan kedermawanan-Mu, karunia-Mu, dan kebaikan-Mu,"
+    },
+    {
+      "id": "R1-L25",
+      "source_lines": [
+        25
+      ],
+      "check": "YOURBOUNTYABOVEEVERYbounty/BENEFICENCEABOVEEVERYbeneficence/OWNERWORLDANDHEREAFTER/TRUEPROMISE/NOGODBUTYOU.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "O You whose bounty surpasses every bounty and whose beneficence surpasses every beneficence, O Owner of this world and the hereafter, O You whose promise is true: there is no god but You;",
+      "indonesian_evidence": "wahai Yang karunia-Nya melebihi setiap karunia dan kebaikan-Nya melebihi setiap kebaikan, wahai Pemilik dunia dan akhirat, wahai Yang Benar Janji-Nya: tiada tuhan selain Engkau;"
+    },
+    {
+      "id": "R1-L26",
+      "source_lines": [
+        26
+      ],
+      "check": "GLORY/IamongWRONGDOERS/OAllahEASESOMEOFYOURLAWFULprovision/MAKEITMYSHARE/ANSWERMYSUPPLICATIONBYRIGHTcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "glory be to You; indeed I have been among the wrongdoers. O God, make some of Your lawful provision easy for me, and make it my portion. O God, answer my supplication by the right of",
+      "indonesian_evidence": "Mahasuci Engkau, sungguh aku termasuk orang-orang yang zalim. Ya Allah, mudahkanlah bagiku sebagian rezeki-Mu yang halal dan jadikanlah itu bagianku. Ya Allah, kabulkanlah doaku dengan hak"
+    },
+    {
+      "id": "R1-L27",
+      "source_lines": [
+        27
+      ],
+      "check": "SurahWAQIAH/GREATNAME/OURmasterMuhammad/FULLpeaceblessingshonorific/hisGOODPUREFAMILY;sourcefamilymentionnotremovedasduplicateofnextline.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "Sūrat al-Wāqiʿah, by the right of Your Great Name, and by the right of our master Muhammad, peace and blessings be upon him, and his good, pure family,",
+      "indonesian_evidence": "Surah al-Wāqiʿah, dengan hak Nama-Mu yang Agung, dan dengan hak junjungan kami Muhammad, semoga selawat dan salam tercurah kepadanya, serta keluarganya yang baik lagi suci,"
+    },
+    {
+      "id": "R1-L28",
+      "source_lines": [
+        28
+      ],
+      "check": "ANDFAMILYANDALLCOMPANIONSAGAIN;BYRIGHTopaqueFFATHnotemendedFATTAH;Muhammad/Fattah/Razzaq/Qadir/Muti/KhayrRaziqin/MughniBaisFaqirorderedwithrecoverableglosses.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "and upon his family and all his companions; and by the right of ffatḥ [UNCLEAR: meaning of the printed formula unknown], Muḥammad, Fattāḥ, Opener, Razzāq, Provider, Qādir, Powerful, Muʿṭī, Giver, Khay",
+      "indonesian_evidence": "dan atas keluarganya serta seluruh sahabatnya; dan dengan hak ffatḥ [UNCLEAR: makna formula tercetak ini tidak diketahui], Muḥammad, Fattāḥ, Pembuka, Razzāq, Pemberi Rezeki, Qādir, Yang Kuasa, Muʿṭī, "
+    },
+    {
+      "id": "R1-L29",
+      "source_lines": [
+        29
+      ],
+      "check": "THAWABrewardnotTAWWAB,sourcewordmeaning/linkqualified;NOTtaketotaskforCRIMESunknownSUBJECTqualified;EASELAWfulGOODprovision/JOINMEWITHITFROMYOURLAWFUL/MAKEPARTOFcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "thawāb, reward [UNCLEAR: the intended sense of this word and its relation to what follows are unknown], does not take to task for crimes [UNCLEAR: the subject is not explicit]. O God, make lawful, goo",
+      "indonesian_evidence": "thawāb, pahala [UNCLEAR: maksud kata ini dan hubungannya dengan lanjutan tidak diketahui], tidak menuntut pertanggungjawaban atas kejahatan-kejahatan [UNCLEAR: pelakunya tidak disebut secara tegas]. Y"
+    },
+    {
+      "id": "R1-L30",
+      "source_lines": [
+        30
+      ],
+      "check": "MYPARTINLAWFULNOTUNLAWFUL/POSSESSORmajestyhonor/THISHOUR/KAFI/JALIL/KAFIL/WAKILseparateorderedNames.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "my portion in what is lawful, not unlawful, O Possessor of Majesty and Honor, at this very hour. O Kāfī, Sufficient One, O Jalīl, Majestic One, O Kafīl, Guarantor, O Wakīl, Trustee,",
+      "indonesian_evidence": "bagianku dalam yang halal, bukan yang haram, wahai Pemilik Keagungan dan Penghormatan, pada saat ini juga. Wahai Kāfī, Yang Mencukupi, wahai Jalīl, Yang Luhur, wahai Kafīl, Penjamin, wahai Wakīl, Yang"
+    },
+    {
+      "id": "R1-L31",
+      "source_lines": [
+        31
+      ],
+      "check": "ENRICHMEBYHIDDENKINDNESS/KARIM/RAHIM;SUFFICEMEBYYOURLAWFULRATHERTHANUNLAWFUL/OBEDIENCERATHERTHANDISOBEDIENCE,allcontrastsretained.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "enrich me by Your hidden kindness, O Karīm, Generous One, O Raḥīm, Compassionate One. O God, suffice me with what You make lawful rather than what You make unlawful, and with obedience to You rather t",
+      "indonesian_evidence": "kayakanlah aku dengan kelembutan-Mu yang tersembunyi, wahai Karīm, Yang Pemurah, wahai Raḥīm, Yang Penyayang. Ya Allah, cukupkanlah aku dengan yang Engkau halalkan sehingga tidak memerlukan yang Engka"
+    },
+    {
+      "id": "R1-L32",
+      "source_lines": [
+        32
+      ],
+      "check": "StandaloneANDBYYOURBOUNTYunfinished. No memorizedbesidesYoucompletionornextpagetext.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "and by Your bounty",
+      "indonesian_evidence": "dan dengan karunia-Mu"
+    }
+  ],
+  "findings": [],
+  "accepted_source_uncertainties": [
+    {
+      "source_lines": [
+        4
+      ],
+      "ordinal_on_line": 1,
+      "issue": "how God's nobility and these phrases are connected",
+      "english_note": "how God's nobility and these phrases are connected",
+      "indonesian_note": "hubungan keluhuran Allah dengan ungkapan-ungkapan ini tidak jelas",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        5
+      ],
+      "ordinal_on_line": 1,
+      "issue": "what is described as appreciated",
+      "english_note": "what is described as appreciated",
+      "indonesian_note": "apa yang disebut dihargai tidak jelas",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        5
+      ],
+      "ordinal_on_line": 2,
+      "issue": "the intended resemblance",
+      "english_note": "the intended resemblance",
+      "indonesian_note": "maksud penyerupaan ini tidak jelas",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        6
+      ],
+      "ordinal_on_line": 1,
+      "issue": "the relation of this phrase to the Book",
+      "english_note": "the relation of this phrase to the Book",
+      "indonesian_note": "hubungan ungkapan ini dengan Kitab tidak jelas",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        11
+      ],
+      "ordinal_on_line": 1,
+      "issue": "printed word can mean wood or a stick; its sense here is unknown",
+      "english_note": "printed word can mean wood or a stick; its sense here is unknown",
+      "indonesian_note": "kata tercetak dapat berarti kayu atau tongkat; maknanya di sini tidak diketahui",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        11
+      ],
+      "ordinal_on_line": 2,
+      "issue": "apparently a stone hollowed out for burial; the intended setting is uncertain",
+      "english_note": "apparently a stone hollowed out for burial; the intended setting is uncertain",
+      "indonesian_note": "tampaknya batu yang dilubangi untuk penguburan; tempat yang dimaksud belum pasti",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        15
+      ],
+      "ordinal_on_line": 1,
+      "issue": "the meaning of these formula words is unknown",
+      "english_note": "the meaning of these formula words is unknown",
+      "indonesian_note": "makna kata-kata formula ini tidak diketahui",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        16
+      ],
+      "ordinal_on_line": 1,
+      "issue": "the formula words and their relations are unknown; shāmikh means lofty",
+      "english_note": "the formula words and their relations are unknown; shāmikh means lofty",
+      "indonesian_note": "makna kata-kata formula dan hubungan antarunsurnya tidak diketahui; shāmikh berarti menjulang",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        16
+      ],
+      "ordinal_on_line": 2,
+      "issue": "the object is unspecified",
+      "english_note": "the object is unspecified",
+      "indonesian_note": "objeknya tidak disebutkan",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        17
+      ],
+      "ordinal_on_line": 1,
+      "issue": "meaning of this repeated formula word unknown",
+      "english_note": "meaning of this repeated formula word unknown",
+      "indonesian_note": "makna kata formula yang diulang ini tidak diketahui",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        18
+      ],
+      "ordinal_on_line": 1,
+      "issue": "the intended sense of permanent direction is unknown",
+      "english_note": "the intended sense of permanent direction is unknown",
+      "indonesian_note": "maksud arah yang tetap ini tidak diketahui",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        20
+      ],
+      "ordinal_on_line": 1,
+      "issue": "the relation of for Your friends to the recipient is uncertain",
+      "english_note": "the relation of for Your friends to the recipient is uncertain",
+      "indonesian_note": "hubungan untuk para wali-Mu dengan penerima Nama ini tidak pasti",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        28
+      ],
+      "ordinal_on_line": 1,
+      "issue": "meaning of the printed formula unknown",
+      "english_note": "meaning of the printed formula unknown",
+      "indonesian_note": "makna formula tercetak ini tidak diketahui",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        29
+      ],
+      "ordinal_on_line": 1,
+      "issue": "the intended sense of this word and its relation to what follows are unknown",
+      "english_note": "the intended sense of this word and its relation to what follows are unknown",
+      "indonesian_note": "maksud kata ini dan hubungannya dengan lanjutan tidak diketahui",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        29
+      ],
+      "ordinal_on_line": 2,
+      "issue": "the subject is not explicit",
+      "english_note": "the subject is not explicit",
+      "indonesian_note": "pelakunya tidak disebut secara tegas",
+      "accepted_as_source_uncertainty": true
+    }
+  ],
+  "uncertainty_markers_per_language": {
+    "en": 15,
+    "id": 15
+  },
+  "review_basis": "ParentindependentlyreadallcompleteactualcanonicalandEnglishandIndonesianfilesdirectlyfromdisk,separatelycomparingeachlanguagewithArabic. Parentdidnotauthororrepairtargetprose. All32sourcepositionsreviewed,notasample. Acceptedsourceuncertaintiesrecordeachactualnoteinbothlanguageswithsourceposition. No humanrevieworexternalreligiousauthenticationclaimed.",
+  "summary": "APPROVEDfrozenR1Legacy604V2physical118. All32positions,NOblanks,hyphen112,stars12/20/24,onefullbasmala,2fullpropheticblessingsplusdistinct11–12blessing,21orderedmainNamesincludingbothRazz aqandallotherinvocations/epithetsreviewed. Orderedopaqueformulaand2mahhub/2sasa/3tahbubrepetitionspreserved. PrintedUD/MAHSUB/FFATH/THAWABnotemendedtofamiliarwords;15sourcebounduncertaintynoteslocalizedandaccepted. Familyrepetition27/28,conditions,actors,negations,lawfulGOODandlawfulNOTUNLAWFULcontrastsandunfinishedANDBYYOURBOUNTYendingpreserved. Sourceclaims/devotionalinstructionsnotendorsed. Final348tests+49subtestspassed;117acceptedplus118validated;604sources/metadata/603otherrecords/protectedWIPunchanged.",
+  "reviewed_utc": "2026-11-10T02:35:34.626070+00:00"
+}
