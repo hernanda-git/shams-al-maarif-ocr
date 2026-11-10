@@ -1,0 +1,50 @@
+{
+  "page": 125,
+  "revision": "r1",
+  "passed": false,
+  "verdict": "REWORK",
+  "reviewer_id": "sa-0-e27e2d0e",
+  "translator_id": "sa-0-a0d38bb4",
+  "source_hashes": {
+    "ocr/enriched/page_125.txt": "483f2b15047d2100554855af40e7f2b8dfe76037cd5f95a191f7ed794fdf7067",
+    "ocr/enriched_en/page_125.txt": "969cdbb2f19167b188fe7214d4436cb0552521bcd04c489ee5628e1f47755403",
+    "ocr/enriched_id/page_125.txt": "4e526265d4e0e65fc5243e533e5c9ed737c8e5ca9ffa3955961c0539ed090bc4",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "9a580e44e5cd929eae0dd438eb125a219a7b8fba3e32c8d3fdf0f0e8e78d4fef"
+  },
+  "findings": [
+    {
+      "id": "F01",
+      "source_lines": [
+        20,
+        21
+      ],
+      "issue": "Indonesian dhā al-jalāl wa-l-ikrām must retain generosity/bestowal of honor sense."
+    },
+    {
+      "id": "F02",
+      "source_lines": [
+        11,
+        12
+      ],
+      "issue": "English should preserve repeated mulk explicitly while retaining distinct malakūt."
+    },
+    {
+      "id": "F03",
+      "source_lines": [
+        8
+      ],
+      "issue": "Both languages: local uncertainty must cover anomalous saalūhā and linkage to surrounding invocation, not just pronoun."
+    },
+    {
+      "id": "F04",
+      "source_lines": [
+        26,
+        27
+      ],
+      "issue": "Indonesian mark actual meaning uncertainty of printed yā mujīb al-ghiyāḍ; do not normalize."
+    }
+  ],
+  "review_basis": "Independent reviewer read every source and both targets, no whole omitted section, four source-grounded repair issues; preserve uncertain al-rizq al-tamih and open ending. OCR not verified against scan.",
+  "reviewed_utc": "2026-11-10T05:56:45.724834+00:00"
+}

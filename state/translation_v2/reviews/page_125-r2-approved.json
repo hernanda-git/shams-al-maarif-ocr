@@ -1,0 +1,469 @@
+{
+  "page": 125,
+  "passed": true,
+  "verdict": "APPROVED",
+  "reviewer_role": "independent-model-semantic-reviewer",
+  "reviewer_id": "sa-0-3ae4ca18",
+  "translator_ids": [
+    "sa-0-a0d38bb4",
+    "sa-0-7a0c9b5b"
+  ],
+  "source_hashes": {
+    "ocr/enriched/page_125.txt": "483f2b15047d2100554855af40e7f2b8dfe76037cd5f95a191f7ed794fdf7067",
+    "ocr/enriched_en/page_125.txt": "2a03ce596f953372b6bcbfd51776f3499e29c99756616c6203f8b6b5d94d96aa",
+    "ocr/enriched_id/page_125.txt": "d1f9a7d50d74b1263baf63ce9e9d7cf09c67b5e8c9943dde2c199262de93427d",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "0f5e0a33dcfd02e14554207e4587f12295476637f80545cf31a8755944f7f70d"
+  },
+  "reviewed_live_style_guide_sha256": "33a2312bf9280de587c3b1ab1d60a877105ad820d147adbb74a8e602893cb0d8",
+  "style_guide_raw_difference": "live LF vs candidate CRLF; normalized byte-identical",
+  "coverage": [
+    {
+      "id": "R2-L01",
+      "source_lines": [
+        1
+      ],
+      "check": "Source position 1: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "— ١١٩ —",
+      "english_evidence": "— 119 —",
+      "indonesian_evidence": "— 119 —",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L02",
+      "source_lines": [
+        2
+      ],
+      "check": "Source position 2: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "(blank)",
+      "english_evidence": "(blank)",
+      "indonesian_evidence": "(blank)",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L03",
+      "source_lines": [
+        3
+      ],
+      "check": "Source position 3: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "رسول الله",
+      "english_evidence": "Messenger of God",
+      "indonesian_evidence": "Rasul Allah",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L04",
+      "source_lines": [
+        4
+      ],
+      "check": "Source position 4: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "( دعاء آخر للآية الشريفة )",
+      "english_evidence": "( Another supplication for the noble verse )",
+      "indonesian_evidence": "( Doa lain untuk ayat yang mulia )",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L05",
+      "source_lines": [
+        5
+      ],
+      "check": "Source position 5: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "اذا كنت في مكان مخيف أو بين أقوام تخاف شرهم وأذاهم فاقرأ آية الكرسي ٢١ مرة وبعدها",
+      "english_evidence": "If you are in a frightening place or among people whose evil and harm you fear, recite the Throne Verse 21 times, and afterward",
+      "indonesian_evidence": "Jika engkau berada di tempat yang menakutkan atau di antara orang-orang yang engkau takuti kejahatan dan gangguannya, bacalah Ayat Kursi 21 kali, dan sesudahnya",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L06",
+      "source_lines": [
+        6
+      ],
+      "check": "Source position 6: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "تقول هذا الدعاء الشريف المبارك ﴿ اللهم احرسني بعينك التي لا تنام واكنفني بكنفك الذي لا يرام",
+      "english_evidence": "say this noble, blessed supplication ﴿ O God, guard me with Your eye that does not sleep and shelter me in Your shelter that cannot be assailed",
+      "indonesian_evidence": "ucapkan doa mulia yang diberkahi ini ﴿ Ya Allah, jagalah aku dengan mata-Mu yang tidak tidur dan lindungilah aku dengan perlindungan-Mu yang tidak dapat digapai",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L07",
+      "source_lines": [
+        7
+      ],
+      "check": "Source position 7: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "واغفر لي بقدرتك حتى لا أهلك وأنت رجائي أمسينا في خزائن الله مسلسلات بذكر الله لا إله إلا",
+      "english_evidence": "and forgive me by Your power so that I do not perish, for You are my hope. We have entered the evening in the treasuries of God, chained together by the remembrance of God: there is no god but",
+      "indonesian_evidence": "dan ampunilah aku dengan kuasa-Mu agar aku tidak binasa, sedangkan Engkau harapanku. Kami memasuki petang di dalam perbendaharaan Allah, terantai oleh zikir kepada Allah: tiada tuhan selain",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L08",
+      "source_lines": [
+        8
+      ],
+      "check": "Source position 8: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "الله سورها محمد رسول الله سألوها لا حول ولا قوة إلا بالله بسم الله النور وبسم الله سرور وآية الكرسي",
+      "english_evidence": "God; its wall is Muḥammad, the Messenger of God; they asked it [UNCLEAR: the anomalous saʾalūhā, its referent, and its connection to the surrounding invocation]: there is no might and no power except through God. In the name of God, the Light, and in the name of God, joy, and the Throne Verse",
+      "indonesian_evidence": "Allah; dindingnya adalah Muḥammad Rasul Allah; mereka menanyakannya [UNCLEAR: bentuk saʾalūhā yang tidak lazim, rujukannya, dan kaitannya dengan doa di sekitarnya]: tiada daya dan kekuatan kecuali dengan Allah. Dengan nama Allah, cahaya, dan dengan nama Allah, kegembiraan, dan Ayat Kursi",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L09",
+      "source_lines": [
+        9
+      ],
+      "check": "Source position 9: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "علينا تدور كما دار السور على محمد الرسول ليس لها قفل ولا مفتاح من العشاء الى الصباح بإذن الملك",
+      "english_evidence": "circles over us as the wall circled around Muḥammad the Messenger. It has neither lock nor key, from evening until morning, by permission of the King,",
+      "indonesian_evidence": "berputar di atas kami sebagaimana dinding berputar mengelilingi Muḥammad sang Rasul. Ia tidak mempunyai gembok maupun kunci, dari petang hingga pagi, dengan izin Raja,",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L10",
+      "source_lines": [
+        10
+      ],
+      "check": "Source position 10: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "الفتاح فالق الإصباح بألف ألف لا حول ولا قوة إلا بالله العلي العظيم أنت الملك الذي ذلت لعزتك",
+      "english_evidence": "the Opener, the Splitter of dawn, with a thousand thousand “There is no might and no power except through God, the Most High, the Magnificent.” You are the King before whose might",
+      "indonesian_evidence": "Sang Pembuka, Pembelah fajar, dengan seribu ribu “Tiada daya dan kekuatan kecuali dengan Allah Yang Mahatinggi lagi Mahaagung.” Engkaulah Raja yang bagi kemuliaan-Mu",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L11",
+      "source_lines": [
+        11
+      ],
+      "check": "Source position 11: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "الرقاب وتدكدكت من هيبتك الجبال الشوامخ لك السلطان الشامخ والملك الباذخ والملك",
+      "english_evidence": "necks have bowed, and at whose awe the lofty mountains have crumbled. Yours are lofty authority and splendid kingship, and the kingship",
+      "indonesian_evidence": "leher-leher tertunduk dan karena wibawa-Mu gunung-gunung yang menjulang remuk. Milik-Mu kekuasaan yang luhur dan kerajaan yang megah dan kekuasaan",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L12",
+      "source_lines": [
+        12
+      ],
+      "check": "Source position 12: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "والملكوت ولك العزة والجبروت ترديت بالنعماء انقاد لعز عظمتك جميع المخلوقات ووجلت",
+      "english_evidence": "and the malakūt; Yours are might and omnipotence. You have robed Yourself in blessings. All creatures have submitted to the might of Your greatness, and have trembled",
+      "indonesian_evidence": "serta kerajaan gaib; milik-Mu keperkasaan dan kemahakuasaan. Engkau berselimut kenikmatan. Semua makhluk tunduk kepada kemuliaan keagungan-Mu dan gentarlah",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L13",
+      "source_lines": [
+        13
+      ],
+      "check": "Source position 13: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "الملائكة المقربون والروحانيون والكروبيون رب الأولين والآخرين إلهي أسألك أن تحفظني",
+      "english_evidence": "the angels brought near, the spiritual beings and the cherubim. Lord of the first and the last, my God, I ask You to protect me",
+      "indonesian_evidence": "para malaikat yang didekatkan, makhluk ruhani dan para kerub. Tuhan orang-orang terdahulu dan terkemudian, Tuhanku, aku memohon kepada-Mu agar Engkau menjagaku",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L14",
+      "source_lines": [
+        14
+      ],
+      "check": "Source position 14: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "وترعاني وتنظر إلي بنظر رحمتك إنك أنت أرحم الراحمين خفيت من أعدائي بالله ودخلت في",
+      "english_evidence": "and care for me and look upon me with the gaze of Your mercy. You are the most merciful of the merciful. I have hidden from my enemies through God and entered into",
+      "indonesian_evidence": "dan memeliharaku serta memandangku dengan pandangan rahmat-Mu. Sesungguhnya Engkaulah Yang Paling Penyayang di antara para penyayang. Aku bersembunyi dari musuh-musuhku dengan Allah dan masuk ke dalam",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L15",
+      "source_lines": [
+        15
+      ],
+      "check": "Source position 15: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "كنف الله وترديت برداء الله وتمسكت بالعروة الوثقى لا انفصام لها والله من ورائهم محيط بل هو قرآن",
+      "english_evidence": "the shelter of God, robed myself in the robe of God, and held fast to the firmest handhold, which cannot break. God encompasses them from behind; indeed, it is a glorious Qurʾān",
+      "indonesian_evidence": "perlindungan Allah, mengenakan jubah Allah, dan berpegang pada pegangan paling kukuh yang tidak akan putus. Allah meliputi mereka dari belakang; bahkan ia adalah Al-Qurʾān yang mulia",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L16",
+      "source_lines": [
+        16
+      ],
+      "check": "Source position 16: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "مجيد في لوح محفوظ ﴾ ( ويليه دعاء آية الكرسي ) تقرأ آية الكرسي بتمامها وتقول أسألك اللهم",
+      "english_evidence": "on a preserved tablet ﴾ ( And following it is the supplication of the Throne Verse ) Recite the Throne Verse in full and say: I ask You, O God,",
+      "indonesian_evidence": "dalam loh yang terpelihara ﴾ ( Dan sesudahnya doa Ayat Kursi ) Bacalah Ayat Kursi seluruhnya dan ucapkan: Aku memohon kepada-Mu, ya Allah,",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L17",
+      "source_lines": [
+        17
+      ],
+      "check": "Source position 17: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "أنت الله الذي لا إله إلا أنت الواحد الفرد الصمد الحي القيوم لا تأخذك سنة ولا نوم أسألك أن",
+      "english_evidence": "You are God, there is no god but You, the One, the Unique, the Eternal Refuge, the Living, the Self-Sustaining; neither drowsiness nor sleep overtakes You. I ask You to",
+      "indonesian_evidence": "Engkaulah Allah, tiada tuhan selain Engkau, Yang Esa, Yang Tunggal, tempat bergantung segala sesuatu, Yang Hidup, Yang Menegakkan segala sesuatu; Engkau tidak diliputi kantuk maupun tidur. Aku memohon agar",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L18",
+      "source_lines": [
+        18
+      ],
+      "check": "Source position 18: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "تصلي على سيدنا محمد وتعطيني مما عندك في خزائن رحمتك من الخير والرزق والبركة والفضل",
+      "english_evidence": "bless our master Muḥammad and give me from what You have in the treasuries of Your mercy: goodness, provision, blessing and grace,",
+      "indonesian_evidence": "Engkau melimpahkan selawat kepada junjungan kami Muḥammad dan memberiku dari apa yang ada di sisi-Mu dalam perbendaharaan rahmat-Mu berupa kebaikan, rezeki, berkah dan karunia,",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L19",
+      "source_lines": [
+        19
+      ],
+      "check": "Source position 19: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "بفضلك وجودك وإحسانك وأن تغنيني بفضلك عمن سواك يا الله ٣ يا رحمن يا رحيم يا حي يا قيوم",
+      "english_evidence": "through Your grace, generosity and beneficence, and to make me independent of all besides You through Your grace. O God 3 O Most Merciful, O Most Compassionate, O Living, O Self-Sustaining,",
+      "indonesian_evidence": "dengan karunia, kemurahan dan kebaikan-Mu, serta mencukupkanku dengan karunia-Mu sehingga tidak bergantung kepada selain-Mu. Ya Allah 3 Wahai Maha Pengasih, Maha Penyayang, Yang Hidup, Yang Menegakkan segala sesuatu,",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L20",
+      "source_lines": [
+        20
+      ],
+      "check": "Source position 20: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "يا بديع السموات والأرض يا ملك يا ذا الجلال والإكرام أسألك اللهم بنور وجهك الكريم",
+      "english_evidence": "O Originator of the heavens and the earth, O King, O Possessor of majesty and generosity, I ask You, O God, by the light of Your noble face",
+      "indonesian_evidence": "Wahai Pencipta langit dan bumi, wahai Raja, wahai Pemilik keagungan dan kemurahan, aku memohon kepada-Mu, ya Allah, dengan cahaya wajah-Mu yang mulia",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L21",
+      "source_lines": [
+        21
+      ],
+      "check": "Source position 21: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "الذي ملأ أركان عرشك العظيم وبقدرتك التي قدرت بها على خلقك وبرحمتك التي وسعت كل",
+      "english_evidence": "which filled the pillars of Your mighty throne, and by Your power with which You have power over Your creation, and by Your mercy which encompasses every",
+      "indonesian_evidence": "yang memenuhi penjuru Arasy-Mu yang agung, dan dengan kuasa-Mu yang dengannya Engkau berkuasa atas makhluk-Mu, dan dengan rahmat-Mu yang meliputi segala",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L22",
+      "source_lines": [
+        22
+      ],
+      "check": "Source position 22: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "شيء لا إله إلا أنت سبحانك إني كنت من الظالمين وأنت أرحم الراحمين أسألك وأدعوك أن تديم علي",
+      "english_evidence": "thing: there is no god but You, glory be to You; indeed I have been among the wrongdoers, and You are the most merciful of the merciful. I ask You and call upon You to perpetuate for me",
+      "indonesian_evidence": "sesuatu: tiada tuhan selain Engkau, Mahasuci Engkau, sungguh aku termasuk orang-orang zalim, dan Engkau Yang Paling Penyayang di antara para penyayang. Aku memohon dan menyeru kepada-Mu agar Engkau melanggengkan bagiku",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L23",
+      "source_lines": [
+        23
+      ],
+      "check": "Source position 23: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "النعمة والخير والرزق الطامح وأن تعطيني من خزائنك الواسعة ما تغنيني به عمن سواك يا من إذا",
+      "english_evidence": "blessing, goodness and aspiring provision [UNCLEAR: intended sense of “aspiring”], and to give me from Your vast treasuries what will make me independent of all besides You. O You who, when",
+      "indonesian_evidence": "nikmat, kebaikan dan rezeki yang menjulang [UNCLEAR: maksud “menjulang”], dan memberiku dari perbendaharaan-Mu yang luas sesuatu yang mencukupkanku dari selain-Mu. Wahai Dia yang apabila",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L24",
+      "source_lines": [
+        24
+      ],
+      "check": "Source position 24: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "أراد شيئاً أن يقول له كن فيكون إنك على كل شيء قدير يا الله ٢ يا رحمن ٣ لا إله إلا أنت المعطي",
+      "english_evidence": "He wills a thing, says to it “Be,” and it is. Indeed You have power over all things. O God 2 O Most Merciful 3 there is no god but You, the Giver",
+      "indonesian_evidence": "menghendaki sesuatu, berkata kepadanya “Jadilah,” maka jadilah ia. Sesungguhnya Engkau Mahakuasa atas segala sesuatu. Ya Allah 2 Wahai Maha Pengasih 3 tiada tuhan selain Engkau, Sang Pemberi",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L25",
+      "source_lines": [
+        25
+      ],
+      "check": "Source position 25: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "خزائن النعمة المحسن المتفضل الوهاب هب لي اللهم مالاً كثيراً ونعمة طائلة ورزقاً وعزاً",
+      "english_evidence": "of the treasuries of blessing, the Beneficent, the Bestower of grace, the Bestower. Grant me, O God, abundant wealth, great blessing, provision and honor",
+      "indonesian_evidence": "perbendaharaan nikmat, Yang Berbuat Baik, Yang Melimpahkan Karunia, Yang Maha Pemberi. Anugerahkan kepadaku, ya Allah, harta yang banyak, nikmat yang besar, rezeki dan kemuliaan",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L26",
+      "source_lines": [
+        26
+      ],
+      "check": "Source position 26: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "بفضلك الواسع يا فياض ٢ يا مفوض فوض علي النعمة والخير وأغنني بفضلك عمن سواك يا مجيب",
+      "english_evidence": "through Your vast grace, O Abundantly Bestowing One 2 O Entrusting One, bestow upon me blessing and goodness, and make me independent of all besides You through Your grace, O Answerer of",
+      "indonesian_evidence": "dengan karunia-Mu yang luas, wahai Yang Melimpahkan 2 wahai Yang Menyerahkan, limpahkan kepadaku nikmat dan kebaikan, dan cukupkan aku dengan karunia-Mu dari selain-Mu, wahai Pengabul",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L27",
+      "source_lines": [
+        27
+      ],
+      "check": "Source position 27: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "الغياض يا الله أنت القائم بكل شيء القديم الحفيظ العلي العظيم فعظمني بعظمتك العظيمة يا عظيم",
+      "english_evidence": "the thickets [UNCLEAR: unusual invocation], O God, You are the Sustainer of everything, the Eternal, the Preserver, the Most High, the Magnificent; make me great through Your great greatness, O Great One,",
+      "indonesian_evidence": "belukar [UNCLEAR: makna seruan yā mujīb al-ghiyāḍ yang tercetak], ya Allah, Engkaulah Pemelihara segala sesuatu, Yang Terdahulu, Yang Menjaga, Yang Mahatinggi, Yang Mahaagung; maka agungkanlah aku dengan keagungan-Mu yang agung, wahai Yang Agung,",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L28",
+      "source_lines": [
+        28
+      ],
+      "check": "Source position 28: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "الأعظم من كل عظيم أسألك اللهم بحق اسمك العظيم الأعظم المعظم الذي إذا دعيت به أجبت وإذا",
+      "english_evidence": "greater than every great one. I ask You, O God, by the right of Your great, greatest, exalted name, by which, when You are called, You answer, and when",
+      "indonesian_evidence": "yang lebih agung daripada setiap yang agung. Aku memohon kepada-Mu, ya Allah, dengan hak nama-Mu yang agung, paling agung, yang diagungkan, yang apabila Engkau diseru dengannya Engkau menjawab, dan apabila",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L29",
+      "source_lines": [
+        29
+      ],
+      "check": "Source position 29: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "سئلت به أعطيت وبحق أسمائك الحسنى كلها ما علمت منها وما لم أعلم وبحق التوراة وما فيها وبحق",
+      "english_evidence": "You are asked, You give; and by the right of all Your most beautiful names, those I know and those I do not know; and by the right of the Torah and what is in it, and by the right of",
+      "indonesian_evidence": "Engkau diminta dengannya Engkau memberi; dan dengan hak semua nama-Mu yang indah, yang kuketahui maupun yang tidak kuketahui; dan dengan hak Taurat dan apa yang ada di dalamnya, dan dengan hak",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L30",
+      "source_lines": [
+        30
+      ],
+      "check": "Source position 30: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "الإنجيل وما فيه وبحق الزبور وما فيه وبحق القرآن العظيم وما فيه وبحق الاسم الذي أقمت به",
+      "english_evidence": "the Gospel and what is in it, and by the right of the Psalms and what is in them, and by the right of the magnificent Qurʾān and what is in it, and by the right of the name by which You established",
+      "indonesian_evidence": "Injil dan apa yang ada di dalamnya, dan dengan hak Zabur dan apa yang ada di dalamnya, dan dengan hak Al-Qurʾān yang agung dan apa yang ada di dalamnya, dan dengan hak nama yang dengannya Engkau menegakkan",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L31",
+      "source_lines": [
+        31
+      ],
+      "check": "Source position 31: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "السموات السبع وما فيهن وبحق جميع أنبيائك وأوليائك وأصفيائك وبحق ملائكتك المقربين",
+      "english_evidence": "the seven heavens and all that is in them, and by the right of all Your prophets, Your saints and Your chosen ones, and by the right of Your angels brought near,",
+      "indonesian_evidence": "tujuh langit dan segala yang ada di dalamnya, dan dengan hak seluruh nabi-Mu, para wali-Mu dan orang-orang pilihan-Mu, dan dengan hak para malaikat-Mu yang didekatkan,",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L32",
+      "source_lines": [
+        32
+      ],
+      "check": "Source position 32: full clauses, counts, order, names and continuations independently reviewed",
+      "source_evidence": "وبحق نبيك محمد صلى الله عليه وسلم وآله وصحبه أجمعين أسألك وأدعوك أن تمدني منك بخير كثير",
+      "english_evidence": "and by the right of Your prophet Muḥammad, peace and blessings be upon him, and all his family and companions, I ask You and call upon You to supply me from Yourself with abundant goodness",
+      "indonesian_evidence": "dan dengan hak Nabi-Mu Muḥammad, semoga selawat dan salam tercurah kepadanya, serta seluruh keluarga dan sahabatnya, aku memohon dan menyeru kepada-Mu agar Engkau memberiku dari sisi-Mu kebaikan yang banyak",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    }
+  ],
+  "findings": [],
+  "accepted_source_uncertainties": [
+    {
+      "source_lines": [
+        8
+      ],
+      "english_note": "the anomalous saʾalūhā, its referent, and its connection to the surrounding invocation",
+      "indonesian_note": "bentuk saʾalūhā yang tidak lazim, rujukannya, dan kaitannya dengan doa di sekitarnya",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        23
+      ],
+      "english_note": "intended sense of “aspiring”",
+      "indonesian_note": "maksud “menjulang”",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        27
+      ],
+      "english_note": "unusual invocation",
+      "indonesian_note": "makna seruan yā mujīb al-ghiyāḍ yang tercetak",
+      "accepted_as_source_uncertainty": true
+    }
+  ],
+  "triage_exception": "Exact two source ornate prayer delimiter symbols in each target classified Ps/Pe, not letters; narrowly waived two triage false positives, no general Arabic script waiver.",
+  "review_basis": "Independent reviewer compared all 32 source positions and complete final EN/ID at exact hashes, found no source-bound defects; coordinator read full source and both targets. OCR not verified against scan.",
+  "summary": "Full 32-position independent model review passed after four repairs; 3 localized uncertainties per language remain provisional. Source prayer delimiters, repetition, numeral positions and open ending retained.",
+  "reviewed_utc": "2026-11-10T06:01:34.686475+00:00"
+}
