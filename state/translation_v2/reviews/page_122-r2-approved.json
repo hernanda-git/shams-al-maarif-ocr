@@ -1,0 +1,534 @@
+{
+  "page": 122,
+  "passed": true,
+  "verdict": "APPROVED",
+  "reviewer_role": "independent-model-semantic-reviewer",
+  "reviewer_id": "parent-coordinator-resumed",
+  "translator_ids": [
+    "sa-0-35768233",
+    "sa-0-9cac8c55"
+  ],
+  "source_hashes": {
+    "ocr/enriched/page_122.txt": "3c98cd31f695c68228af18975ae4a70e970a52ed0205419cc26b2f4756f898f7",
+    "ocr/enriched_en/page_122.txt": "31a716f53936a5309c6fb4da882b0b7e2b6d5b2b1f68c8f7be8289dfc61f3b58",
+    "ocr/enriched_id/page_122.txt": "891ce6071919be2773e697eb52cb958ffe47db68ce6537302a61a6c8a94f7fdb",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "6749d9c7b1f2c4942da1f7491d7f416e2ab133fe2ab4c62b57c672a41da4742d"
+  },
+  "coverage": [
+    {
+      "id": "R2-L01",
+      "source_lines": [
+        1
+      ],
+      "check": "Folio116/em-dashes/Latin numerals",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "— 116 —",
+      "indonesian_evidence": "— 116 —"
+    },
+    {
+      "id": "R2-L02",
+      "source_lines": [
+        2
+      ],
+      "check": "Blank retained",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "(blank retained)",
+      "indonesian_evidence": "(baris kosong)"
+    },
+    {
+      "id": "R2-L03",
+      "source_lines": [
+        3
+      ],
+      "check": "Continuation rebellious demon/true state qualified/concealed/claim attribution/plate starts",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "and a rebellious demon; and if he possesses a true spiritual state [UNCLEAR: the particular state is unspecified], he is concealed through it from people's eyes. [The effects related here are claims of the source.] * Who",
+      "indonesian_evidence": "dan setan yang membangkang; jika ia memiliki keadaan rohani yang sejati [UNCLEAR: keadaan khusus yang dimaksud tidak dijelaskan], dengannya ia tersembunyi dari pandangan manusia. [Khasiat yang dituturkan di sini merupaka"
+    },
+    {
+      "id": "R2-L04",
+      "source_lines": [
+        4
+      ],
+      "check": "GOLD OR SILVER/JUPITER EXALTATION/fortunate PRAISED ascendant/NECK/ENTERS WAR/supported victorious",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "gold or silver at the exaltation of Jupiter, with an auspicious, praiseworthy ascendant, wears it around his neck, and enters war will be supported and victorious,",
+      "indonesian_evidence": "emas atau perak ketika Jupiter berada pada eksaltasinya, dengan asenden yang membawa keberuntungan lagi terpuji, mengenakannya di leher, lalu memasuki peperangan, akan mendapat dukungan dan kemenangan,"
+    },
+    {
+      "id": "R2-L05",
+      "source_lines": [
+        5
+      ],
+      "check": "Awe/happiness/NEITHER envier plot NOR opponent evil/word heard/appearance accepted",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "awe-inspiring and happy. Neither an envier's plotting nor an opponent's evil will harm him; his word will be heeded and his appearance accepted by",
+      "indonesian_evidence": "disegani dan bergembira. Tipu daya pendengki maupun kejahatan penentang tidak membahayakannya; perkataannya didengarkan dan penampilannya diterima di hadapan"
+    },
+    {
+      "id": "R2-L06",
+      "source_lines": [
+        6
+      ],
+      "check": "Kings/sultans/viziers/KHAWATIN female rank/ALL observers honor-AWE-revere/incense care begins",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "kings, sultans, viziers, and khawātīn, women of high rank; everyone who looks at him will honor him, stand in awe of him, and revere him. * It should be tended",
+      "indonesian_evidence": "raja-raja, para sultan, wazir, serta khawātīn, para perempuan berpangkat tinggi. Setiap orang yang memandangnya akan menghormatinya, merasa gentar kepadanya, dan memuliakannya. * Hendaklah benda itu dirawat"
+    },
+    {
+      "id": "R2-L07",
+      "source_lines": [
+        7
+      ],
+      "check": "Incense EVERY THURSDAY/no place EXCEPT good multiplies/blessings inhabitants",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "with incense every Thursday: wherever it is lodged, good things multiply there and blessings appear upon its inhabitants, and",
+      "indonesian_evidence": "dengan dupa setiap Kamis: di mana pun ia berada, kebaikan bertambah dan keberkahan tampak pada penghuninya, dan"
+    },
+    {
+      "id": "R2-L08",
+      "source_lines": [
+        8
+      ],
+      "check": "GOD actor/ALL plague-infirmity-turmoil-disease-trial/FIRST fever DRINK immediate cure claimed",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "God repels from that place every plague, infirmity, turmoil, disease, and trial. * If a feverish person drinks of it, he is cured immediately,",
+      "indonesian_evidence": "Allah menghalau dari tempat itu segala bala, kelemahan jasmani, pergolakan, penyakit, dan cobaan. * Jika seorang penderita demam meminum darinya, ia sembuh seketika,"
+    },
+    {
+      "id": "R2-L09",
+      "source_lines": [
+        9
+      ],
+      "check": "FIRST fever THAT HOUR/water-bound recipient immediately loosened/type qualified/SECOND fever cure preserved/not deduped",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "in that very hour. * Whoever puts it in water and gives some of it to a bound person to drink has that person's binding loosened immediately [UNCLEAR: the nature of the binding is unspecified]. * If a feverish person dri",
+      "indonesian_evidence": "pada saat itu juga. * Siapa yang menempatkannya dalam air lalu memberi minum sebagian air itu kepada orang yang terikat, ikatan orang itu terurai seketika [UNCLEAR: jenis ikatan tidak dijelaskan]. * Jika seorang penderit"
+    },
+    {
+      "id": "R2-L10",
+      "source_lines": [
+        10
+      ],
+      "check": "Thief/robber/alarm-raiser/nightcaller/snake/SCORPION/beast/ALL vermin/EVERY",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "it is beneficial for warding off the thief, robber, alarm-raiser, night caller, snake, scorpion, beast of prey, all vermin, and everything",
+      "indonesian_evidence": "ia berguna untuk menghalau pencuri, perampok, penyebar kegemparan, pendatang malam, ular, kalajengking, binatang buas, segala binatang pengganggu, dan segala"
+    },
+    {
+      "id": "R2-L11",
+      "source_lines": [
+        11
+      ],
+      "check": "Earth emerges/SKY descends/mighty protective veil/noble secret/GOD savesIBRAHIM/fire",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "that emerges from the earth and everything that descends from the sky. It is a mighty protective veil and a noble secret; through it God saved Ibrāhīm from the fire of",
+      "indonesian_evidence": "sesuatu yang keluar dari bumi serta yang turun dari langit. Ia merupakan pelindung agung dan rahasia mulia; dengannya Allah menyelamatkan Ibrāhīm dari api"
+    },
+    {
+      "id": "R2-L12",
+      "source_lines": [
+        12
+      ],
+      "check": "NIMROD/GOD savesYUNUS/FISHBELLY/GOD subjugates WILD BEASTS-BIRDS-JINN-HUMANS-WINDtoSULAYMAN",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "Nimrod, through it God saved Yūnus from the belly of the fish, and through it God subjected wild beasts, birds, jinn, humans, and the wind to Sulaymān,",
+      "indonesian_evidence": "Nimrud; dengannya Allah menyelamatkan Yūnus dari perut ikan; dengannya Allah menundukkan binatang liar, burung, jin, manusia, dan angin bagi Sulaymān,"
+    },
+    {
+      "id": "R2-L13",
+      "source_lines": [
+        13
+      ],
+      "check": "SULAYMAN peace ONLY/GREATEST NAME/GOD victoryMUHAMMAD peace AND blessings/UNBELIEVERS AND HYPOCRITES",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "peace be upon him. * Within it is the Greatest Name of God, and through it God gave Muḥammad, peace and blessings be upon him, victory over the unbelievers and hypocrites.",
+      "indonesian_evidence": "semoga salam tercurah kepadanya. * Di dalamnya terdapat Nama Allah Yang Paling Agung; dengannya Allah memberikan kemenangan kepada Muḥammad, semoga selawat dan salam tercurah kepadanya, atas orang-orang kafir dan munafik"
+    },
+    {
+      "id": "R2-L14",
+      "source_lines": [
+        14
+      ],
+      "check": "Worth/MANY notALL manufactured things/perfection beyond expression",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "Whoever knows its worth can, through it, dispense with many manufactured things, for it reaches a degree of perfection beyond what expression can convey.",
+      "indonesian_evidence": "Siapa yang mengetahui nilainya, dengannya dapat mencukupkan diri tanpa banyak benda buatan, sebab kesempurnaannya mencapai taraf yang tidak terjangkau oleh ungkapan."
+    },
+    {
+      "id": "R2-L15",
+      "source_lines": [
+        15
+      ],
+      "check": "ENGRAVES AND CARRIES WITHOUT PURITY/afflicted EITHER outward OR inward/not BOTH/habit understanding from",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "* Whoever engraves it and carries it without ritual purity is afflicted either outwardly or inwardly. This is understood by one whose habit is to receive understanding from",
+      "indonesian_evidence": "* Siapa yang mengukir dan membawanya tanpa kesucian ritual akan terkena gangguan, entah pada lahirnya atau pada batinnya. Hal ini dipahami oleh orang yang terbiasa memperoleh pemahaman dari"
+    },
+    {
+      "id": "R2-L16",
+      "source_lines": [
+        16
+      ],
+      "check": "GOD/NOT FIT overpowered/hamm-himmah sense AND possessors qualified/BUT FIT spirit STRONG/LIGHTS spiritual STRIVING",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "God. Working with it is not suitable for one overpowered beneath his hamm and his authority [UNCLEAR: hamm may mean concern, or the reading may be himmah, spiritual aspiration; whose concern or aspiration and whose autho",
+      "indonesian_evidence": "Allah. Pengamalannya tidak sesuai bagi orang yang ditundukkan di bawah hamm dan kekuasaannya [UNCLEAR: hamm dapat berarti keresahan, atau bacaannya mungkin himmah, tekad rohani; pemilik keresahan atau tekad serta kekuasa"
+    },
+    {
+      "id": "R2-L17",
+      "source_lines": [
+        17
+      ],
+      "check": "DISCIPLINE/UNDERSTAND/noble verse/wondrous meaning/extraordinary secret/PRESERVE WEALTH",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "and discipline. Understand this. * Know that this noble verse contains a wondrous meaning and an extraordinary secret for preserving wealth,",
+      "indonesian_evidence": "dan latihan pendisiplinan diri. Maka pahamilah hal itu. * Ketahuilah bahwa ayat mulia ini mengandung makna menakjubkan dan rahasia luar biasa untuk menjaga harta,"
+    },
+    {
+      "id": "R2-L18",
+      "source_lines": [
+        18
+      ],
+      "check": "CHILDREN-SPOUSES-STATES/BRING provision-good/OPAQUE al-hawt exact printed consonants/TO linkage qualified/mad-seizure afflicted-deranged",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "children, spouses, and states, and for bringing provision and good things; to al-ḥāwt [UNCLEAR: tentative reading of the opaque printed word; its meaning and the linkage of 'to' are unclear], the mad, the seizure-afflict",
+      "indonesian_evidence": "anak-anak, pasangan, dan keadaan, serta mendatangkan rezeki dan kebaikan; kepada al-ḥāwt [UNCLEAR: bacaan sementara kata tercetak yang tidak jelas maknanya; hubungan kata 'kepada' juga tidak jelas], orang gila, orang yan"
+    },
+    {
+      "id": "R2-L19",
+      "source_lines": [
+        19
+      ],
+      "check": "FRIGHTENED/write PURE PAPER/HANG UPON PERSON/ENTER grandees-EMIRS-TYRANTS",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "and the frightened, it is written on pure paper and hung upon the person. It is also written for entering the presence of grandees, emirs, and tyrants;",
+      "indonesian_evidence": "dan orang yang ketakutan, ayat itu ditulis pada kertas suci lalu digantungkan pada orang tersebut. Ayat itu juga ditulis untuk menghadap para pembesar, amir, dan penguasa lalim;"
+    },
+    {
+      "id": "R2-L20",
+      "source_lines": [
+        20
+      ],
+      "check": "SUN EXALTATION/PURE BODY object-human qualified/ENEMY AND THIEF/place/WRITE AND BURY",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "it is written at the exaltation of the sun on a pure body [UNCLEAR: whether a material object or a human body is meant is unspecified]. To drive the enemy and thief from a place, it is written and buried",
+      "indonesian_evidence": "ditulis ketika matahari berada pada eksaltasinya pada tubuh yang suci [UNCLEAR: tidak dipastikan apakah yang dimaksud benda material atau tubuh manusia]. Untuk menghalau musuh dan pencuri dari suatu tempat, ayat itu ditu"
+    },
+    {
+      "id": "R2-L21",
+      "source_lines": [
+        21
+      ],
+      "check": "THERE/no EVIL nightcaller/VERMIN-SNAKES-PRINTED RELATIVES(not repaired scorpions)-BLIGHTS/HOUSE/CONTEMPLATE",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "there, so that no night visitor comes to it with evil. It drives vermin, snakes, relatives [UNCLEAR: the printed word means relatives, anomalously within this pest list], and blights from the house. Contemplate it, for i",
+      "indonesian_evidence": "di sana, sehingga tidak ada pendatang malam yang mendatanginya dengan keburukan. Ia mengusir binatang pengganggu, ular, kerabat [UNCLEAR: kata tercetak berarti kerabat, suatu kejanggalan dalam daftar hama ini], dan berba"
+    },
+    {
+      "id": "R2-L22",
+      "source_lines": [
+        22
+      ],
+      "check": "Hidden SECRETS/protected JEWELS/SHAYKH may GOD BE PLEASED WITH HIM/FIRST PERSON/BASRA/some",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "the hidden secrets and protected jewels. * One of the shaykhs, may God be pleased with him, said: I lived in Basra in some",
+      "indonesian_evidence": "rahasia yang tersembunyi dan permata yang terlindungi. * Salah seorang syekh, semoga Allah meridainya, berkata: Aku tinggal di Basrah di beberapa"
+    },
+    {
+      "id": "R2-L23",
+      "source_lines": [
+        23
+      ],
+      "check": "HOUSES/NIGHT/BLACK FIGURE no assigned race/EYES fireFLAMES/approach",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "houses. When night fell upon me, a black figure entered where I was, with eyes like flames of fire, wanting to approach me; its",
+      "indonesian_evidence": "rumah. Ketika malam menyelimutiku, sesosok hitam masuk menemuiku; kedua matanya seperti nyala api, dan ia hendak mendekatiku; gerakan"
+    },
+    {
+      "id": "R2-L24",
+      "source_lines": [
+        24
+      ],
+      "check": "DRAGON-like CREEPING not literal dragon/FEAR/GOD noGOD exceptHIM/LIVING SELF-SUSTAINING/word echo",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "creeping movement was like a dragon's creeping, and I feared it. * I said: God, there is no god but Him, the Living, the Self-Sustaining. Whenever I recited a word, the figure said it along with me.",
+      "indonesian_evidence": "merayapnya seperti rayapan naga, sehingga aku takut kepadanya. * Aku berkata: Allah, tidak ada tuhan selain Dia, Yang Mahahidup, Yang Berdiri Sendiri. Setiap kali aku membaca satu kata, sosok itu mengucapkannya bersamaku"
+    },
+    {
+      "id": "R2-L25",
+      "source_lines": [
+        25
+      ],
+      "check": "REACHED HIS saying MOST HIGH/curly preservation-fragment1 THEM BOTH not invented entities/God actor/NOT ECHOED/REPEATED/figure LEAVES/withdrew",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "When I reached His saying, Most High: {And preserving them both does not burden Him, and He is the Most High, the Most Great}, the figure did not say it; I repeated it, and the figure went away. Then I withdrew",
+      "indonesian_evidence": "Ketika aku sampai pada firman-Nya Yang Mahatinggi: {Dan memelihara keduanya tidak memberatkan-Nya, dan Dia Yang Mahatinggi, Yang Mahaagung}, sosok itu tidak mengucapkannya; aku mengulanginya, lalu sosok itu pergi. Kemudi"
+    },
+    {
+      "id": "R2-L26",
+      "source_lines": [
+        26
+      ],
+      "check": "HOUSE CORNER/SLEEPS UNTIL MORNING/place DEPARTURE/BURNING AND ASH",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "to one of the house's corners and slept there until morning. In the place where the figure had gone away, I saw traces of burning and ash,",
+      "indonesian_evidence": "ke salah satu sudut rumah dan tidur di sana sampai pagi. Di tempat sosok itu pergi, kulihat bekas kebakaran dan abu,"
+    },
+    {
+      "id": "R2-L27",
+      "source_lines": [
+        27
+      ],
+      "check": "AMAZED/SECOND NIGHT/DREAM/UNSEEN VOICE/YOU BURNED IFRIT/I ASK BY WHAT",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "and I was amazed. On the second night, in a dream, I perceived an unseen voice saying: You have burned an ʿifrīt. I asked: By what",
+      "indonesian_evidence": "lalu aku merasa heran. Pada malam kedua, dalam mimpi, aku mendapati suara gaib berkata: Engkau telah membakar satu ʿifrīt. Aku bertanya: Dengan apa"
+    },
+    {
+      "id": "R2-L28",
+      "source_lines": [
+        28
+      ],
+      "check": "BURNED/voiceANSWER/HIS saying MOST HIGH/curly SAME preservation-fragment2/FEAR/GOD inspiredYOU",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "was it burned? The voice said: By His saying, Most High: {And preserving them both does not burden Him, and He is the Most High, the Most Great}. For when you saw the figure, you feared it, so God inspired you",
+      "indonesian_evidence": "ia terbakar? Suara itu menjawab: Dengan firman-Nya Yang Mahatinggi: {Dan memelihara keduanya tidak memberatkan-Nya, dan Dia Yang Mahatinggi, Yang Mahaagung}. Sebab ketika melihat sosok itu, engkau takut kepadanya, lalu A"
+    },
+    {
+      "id": "R2-L29",
+      "source_lines": [
+        29
+      ],
+      "check": "THRONE VERSE/EACH word ECHOED/REACHED HIS SAYING MOST HIGH/OPEN curly fragment3 begins",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "to recite the Throne Verse. Whenever you said a word of it, the figure said it along with you. When you reached His saying, Most High: {And preserving",
+      "indonesian_evidence": "untuk membaca Ayat Kursi. Setiap kali engkau mengucapkan satu katanya, sosok itu mengucapkannya bersamamu. Ketika engkau sampai pada firman-Nya Yang Mahatinggi: {Dan memelihara"
+    },
+    {
+      "id": "R2-L30",
+      "source_lines": [
+        30
+      ],
+      "check": "Fragment3 END/NOT ECHOED/REPEAT AGAINST FIGURE/YOU BURNEDIT/unmarked voice-commentary boundary locally qualified/great NOBLE beneficial EVERY",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "them both does not burden Him, and He is the Most High, the Most Great}, the figure did not say it; you repeated it against the figure and burned it. [UNCLEAR: the boundary between the unseen voice's speech and the follo",
+      "indonesian_evidence": "keduanya tidak memberatkan-Nya, dan Dia Yang Mahatinggi, Yang Mahaagung}, sosok itu tidak mengucapkannya; engkau mengulanginya terhadap sosok itu, lalu engkau membakarnya. [UNCLEAR: batas antara ucapan suara gaib dan ula"
+    },
+    {
+      "id": "R2-L31",
+      "source_lines": [
+        31
+      ],
+      "check": "KIND awarid AND tawabi qualified/recite ATSLEEP safe UNTIL MORNING/recite MORNING safe",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "kind of ʿawāriḍ and tawābiʿ, afflictions and attendant influences [UNCLEAR: their particular nature is unspecified]. * Whoever recites it upon going to sleep is safe until morning. * Whoever recites it in the morning is ",
+      "indonesian_evidence": "jenis ʿawāriḍ dan tawābiʿ, gangguan dan pengaruh yang mengikuti [UNCLEAR: sifat khusus keduanya tidak dijelaskan]. * Siapa yang membacanya ketika hendak tidur, aman hingga pagi. * Siapa yang membacanya pada pagi hari, am"
+    },
+    {
+      "id": "R2-L32",
+      "source_lines": [
+        32
+      ],
+      "check": "UNTIL EVENING/different scopes/wondrous properties/irregular HA linkage qualified/GREAT WAFQ/THIS/ASSEE/GOD GRANTER SUCCESS/no invented grid",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "until evening. It has wondrous properties; and here, a great wafq [UNCLEAR: the printed connecting expression is irregular]; it is this, as you see. God is the granter of success.",
+      "indonesian_evidence": "hingga petang. Ayat ini mempunyai khasiat menakjubkan; dan ini, sebuah wafq agung [UNCLEAR: ungkapan penghubung tercetak tidak teratur]; inilah dia sebagaimana engkau lihat. Allahlah pemberi taufik."
+    },
+    {
+      "id": "R2-L33",
+      "source_lines": [
+        33
+      ],
+      "check": "Blank retained",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "(blank retained)",
+      "indonesian_evidence": "(baris kosong)"
+    },
+    {
+      "id": "R2-L34",
+      "source_lines": [
+        34
+      ],
+      "check": "Isolated INTERCEDES fragment/unidentified subject/linkage/no canonical completion",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "intercedes [UNCLEAR: isolated fragment; its subject and connection are unspecified]",
+      "indonesian_evidence": "memberi syafaat [UNCLEAR: penggalan tersendiri; pelaku dan hubungannya tidak dijelaskan]"
+    }
+  ],
+  "findings": [],
+  "accepted_source_uncertainties": [
+    {
+      "source_lines": [
+        3
+      ],
+      "ordinal_on_line": 1,
+      "issue": "the particular state is unspecified",
+      "english_note": "the particular state is unspecified",
+      "indonesian_note": "keadaan khusus yang dimaksud tidak dijelaskan",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        9
+      ],
+      "ordinal_on_line": 1,
+      "issue": "the nature of the binding is unspecified",
+      "english_note": "the nature of the binding is unspecified",
+      "indonesian_note": "jenis ikatan tidak dijelaskan",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        16
+      ],
+      "ordinal_on_line": 1,
+      "issue": "hamm may mean concern, or the reading may be himmah, spiritual aspiration; whose concern or aspiration and whose authority are meant is unspecified",
+      "english_note": "hamm may mean concern, or the reading may be himmah, spiritual aspiration; whose concern or aspiration and whose authority are meant is unspecified",
+      "indonesian_note": "hamm dapat berarti keresahan, atau bacaannya mungkin himmah, tekad rohani; pemilik keresahan atau tekad serta kekuasaan itu tidak dipastikan",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        18
+      ],
+      "ordinal_on_line": 1,
+      "issue": "tentative reading of the opaque printed word; its meaning and the linkage of 'to' are unclear",
+      "english_note": "tentative reading of the opaque printed word; its meaning and the linkage of 'to' are unclear",
+      "indonesian_note": "bacaan sementara kata tercetak yang tidak jelas maknanya; hubungan kata 'kepada' juga tidak jelas",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        20
+      ],
+      "ordinal_on_line": 1,
+      "issue": "whether a material object or a human body is meant is unspecified",
+      "english_note": "whether a material object or a human body is meant is unspecified",
+      "indonesian_note": "tidak dipastikan apakah yang dimaksud benda material atau tubuh manusia",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        21
+      ],
+      "ordinal_on_line": 1,
+      "issue": "the printed word means relatives, anomalously within this pest list",
+      "english_note": "the printed word means relatives, anomalously within this pest list",
+      "indonesian_note": "kata tercetak berarti kerabat, suatu kejanggalan dalam daftar hama ini",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        30
+      ],
+      "ordinal_on_line": 1,
+      "issue": "the boundary between the unseen voice's speech and the following commentary is not marked.",
+      "english_note": "the boundary between the unseen voice's speech and the following commentary is not marked.",
+      "indonesian_note": "batas antara ucapan suara gaib dan ulasan berikutnya tidak ditandai.",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        31
+      ],
+      "ordinal_on_line": 1,
+      "issue": "their particular nature is unspecified",
+      "english_note": "their particular nature is unspecified",
+      "indonesian_note": "sifat khusus keduanya tidak dijelaskan",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        32
+      ],
+      "ordinal_on_line": 1,
+      "issue": "the printed connecting expression is irregular",
+      "english_note": "the printed connecting expression is irregular",
+      "indonesian_note": "ungkapan penghubung tercetak tidak teratur",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        34
+      ],
+      "ordinal_on_line": 1,
+      "issue": "isolated fragment; its subject and connection are unspecified",
+      "english_note": "isolated fragment; its subject and connection are unspecified",
+      "indonesian_note": "penggalan tersendiri; pelaku dan hubungannya tidak dijelaskan",
+      "accepted_as_source_uncertainty": true
+    }
+  ],
+  "review_basis": "Parent independently read COMPLETE actual canonical and BOTH COMPLETE actual target files directly against Arabic for this revision, all34 source positions. Parent did not author or edit target prose; R2 requires fresh full final reading, not diff-only approval.",
+  "summary": "R2 APPROVED all34 source positions; original translator and separately identified phrase repair author, complete fresh parent review;10 accepted source uncertainties, no unresolved findings. Exact ID15 disjunction-only change/unchanged EN proven against immutable R1; fresh final full gates passed. Source claims, all12 ordered separators, brace positions, repeated fever/preservation fragments, printed relatives and terminal intercession fragment preserved.",
+  "reviewed_utc": "2026-11-10T04:17:13.047434+00:00"
+}
