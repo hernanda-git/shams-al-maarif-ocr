@@ -1,0 +1,444 @@
+{
+  "page": 120,
+  "passed": false,
+  "verdict": "REWORK",
+  "reviewer_role": "independent-model-semantic-reviewer",
+  "reviewer_id": "parent-coordinator-resumed",
+  "translator_ids": [
+    "sa-0-d689db7e"
+  ],
+  "source_hashes": {
+    "ocr/enriched/page_120.txt": "daee9d84b9d66335a0a2ac892d5865fdea4e2c6c1b571c6bbec1758e23346820",
+    "ocr/enriched_en/page_120.txt": "40e9fd717abff060e9677ddf697541de20ebc8b0c1f7001b66230a9677bca653",
+    "ocr/enriched_id/page_120.txt": "ae36ad16ecf3ca8a212c3f6379c6514d395f1f5c6ce24144786b9fbc8b8203c8",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "bc5373ba8aa1fb665a11fa31a8bc7b941fc56686af8798803b1416bdbb110f2c"
+  },
+  "coverage": [
+    {
+      "id": "R1-L01",
+      "source_lines": [
+        1
+      ],
+      "check": "NOFOLIOinvented;THISOURprovisionNOexhaustion/THISOURgift/GIVEORWITHHOLDWITHOUTreckoning/WHATYOUhaveexpires/WHATGODhascontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "Indeed, this is Our provision, which has no exhaustion. This is Our gift, so give or withhold without reckoning. What you have expires, while what God has",
+      "indonesian_evidence": "Sesungguhnya inilah rezeki Kami, yang tidak ada habisnya. Inilah pemberian Kami; maka berilah atau tahanlah tanpa perhitungan. Apa yang ada pada kalian akan habis, sedangkan apa yang ada di sisi Allah"
+    },
+    {
+      "id": "R1-L02",
+      "source_lines": [
+        2
+      ],
+      "check": "REMAINS/GODcreatedYOU,THENprovided,THENcausesdeath,THENrevives;WHOEVERFEARSGODWAYOUT/provisionFROMWHEREcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "remains. God is the One who created you, then provided for you, then causes you to die, then gives you life. Whoever fears God, He makes a way out for him and provides for him from where",
+      "indonesian_evidence": "tetap kekal. Allah-lah yang menciptakan kalian, kemudian memberi kalian rezeki, kemudian mematikan kalian, kemudian menghidupkan kalian. Siapa yang bertakwa kepada Allah, Dia menjadikan baginya jalan "
+    },
+    {
+      "id": "R1-L03",
+      "source_lines": [
+        3
+      ],
+      "check": "NOTexpect/GODprovidesWHOMEVERWILLSWITHOUTreckoning;MAPPEDbracketpairBENEFITPerhapsGodbringsOPENING/blessedverseamongversescontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "he does not expect. God provides for whomever He wills without reckoning. (Benefit: Perhaps God may bring the opening) A blessed verse among the verses of",
+      "indonesian_evidence": "yang tidak disangkanya. Allah memberi rezeki kepada siapa yang Dia kehendaki tanpa perhitungan. (Faedah: Mudah-mudahan Allah mendatangkan pembukaan) Suatu ayat yang diberkahi di antara ayat-ayat"
+    },
+    {
+      "id": "R1-L04",
+      "source_lines": [
+        4
+      ],
+      "check": "OPENINGforPROVISION/CARRIEDANDREAD;MAPPEDunclosedopening/THISITIS/fullbasmala/PerhapsGodbringsOPENINGcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "the opening for bringing provision, to be carried and read. (This is it: In the name of God, the All-Merciful, the Compassionate. Perhaps God may bring the opening",
+      "indonesian_evidence": "pembukaan untuk mendatangkan rezeki, dibawa dan dibaca. (Inilah ayatnya: Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Mudah-mudahan Allah mendatangkan pembukaan"
+    },
+    {
+      "id": "R1-L05",
+      "source_lines": [
+        5
+      ],
+      "check": "ORcommandFROMHIM/KEYSUNSEENNONEKNOWSEXCEPTHIM/KNOWSLANDANDSEA/NOLEAFFALLSEXCEPTcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "or a command from Him. With Him are the keys of the unseen; none knows them except Him. He knows what is on land and in the sea. No leaf falls but",
+      "indonesian_evidence": "atau perintah dari sisi-Nya. Di sisi-Nya terdapat kunci-kunci yang gaib; tidak ada yang mengetahuinya selain Dia. Dia mengetahui apa yang di darat dan di laut. Tidak sehelai daun pun gugur melainkan"
+    },
+    {
+      "id": "R1-L06",
+      "source_lines": [
+        6
+      ],
+      "check": "HEKNOWS/editorialTHEVERSEmarkeroutsidequotedrecitation/OURLORDJUDGEBETWEENUSANDOURPEOPLEBYTRUTH/YOUbestjudgers;IFtownsfolkBELIEVEDANDGodfear.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "He knows it. [the verse] Our Lord, judge between us and our people in truth; You are the best of judges. If the inhabitants of the towns had believed and feared God,",
+      "indonesian_evidence": "Dia mengetahuinya. [ayat tersebut] Tuhan kami, putuskanlah antara kami dan kaum kami dengan kebenaran; Engkaulah sebaik-baik pemberi keputusan. Sekiranya penduduk negeri-negeri beriman dan bertakwa,"
+    },
+    {
+      "id": "R1-L07",
+      "source_lines": [
+        7
+      ],
+      "check": "WEWOULDOPENBLESSINGSHEAVENANDEARTH;IFYOUSEEKVICTORYalreadycame;WHENTHEYOPENBAGGAGEtheyFOUNDcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "We would have opened for them blessings from heaven and earth. If you seek victory, victory has already come to you. When they opened their baggage, they found",
+      "indonesian_evidence": "niscaya Kami membukakan bagi mereka berkah dari langit dan bumi. Jika kalian memohon kemenangan, sungguh kemenangan telah datang kepada kalian. Ketika mereka membuka barang bawaan mereka, mereka menda"
+    },
+    {
+      "id": "R1-L08",
+      "source_lines": [
+        8
+      ],
+      "check": "MERCHANDISERETURNEDTOTHEM;THEYSOUGHTVICTORY/obstinatetyrantFAILED;IFWEOPENHEAVENDOOR/THEYKEPTASCENDINGthroughit;fragmentnotcanonicalcompleted.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "their merchandise returned to them. They sought victory, and every obstinate tyrant failed. If We opened for them a door in heaven and they kept ascending through it.",
+      "indonesian_evidence": "barang dagangan mereka dikembalikan kepada mereka. Mereka memohon kemenangan, dan gagallah setiap penguasa lalim yang keras kepala. Sekiranya Kami membukakan bagi mereka sebuah pintu di langit lalu me"
+    },
+    {
+      "id": "R1-L09",
+      "source_lines": [
+        9
+      ],
+      "check": "MYLORDMYPEOPLECALLEDMELIAR/JUDGEBETWEENMEANDTHEM/SAVEMEANDbelieversWITHME;GODOPENMERCYnewfragment.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "My Lord, my people have called me a liar, so judge decisively between me and them, and save me and the believers with me. Whatever mercy God opens for people,",
+      "indonesian_evidence": "Tuhanku, sungguh kaumku mendustakan aku; maka berilah keputusan antara aku dan mereka, dan selamatkanlah aku serta orang-orang beriman yang bersamaku. Rahmat apa pun yang Allah bukakan bagi manusia,"
+    },
+    {
+      "id": "R1-L10",
+      "source_lines": [
+        10
+      ],
+      "check": "EditorialTHEVERSE/UNTILWHENTHEYCAMETOIT/GATESWEREOPENED;WECLEAROPENINGFORYOU;H EREWARDEDTHEMNEAROPENINGANDMANYSPOILScontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "[the verse] Until, when they came to it and its gates were opened. Indeed, We have opened for you a clear opening. He rewarded them with a near opening and many spoils",
+      "indonesian_evidence": "[ayat tersebut] Hingga ketika mereka mendatanginya dan pintu-pintunya dibuka. Sesungguhnya Kami telah membukakan bagimu pembukaan yang nyata. Dia menganugerahi mereka pembukaan yang dekat dan banyak h"
+    },
+    {
+      "id": "R1-L11",
+      "source_lines": [
+        11
+      ],
+      "check": "THEYTAKE/W EOPENEDHEAVENGATESPOURINGWATER/GODVICTORYANDNEAROPENING/HEAVENWASOPENEDBECAMEGATES. Allrepeatedopeningspreserved.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "that they take. We opened the gates of heaven with pouring water. Victory from God and a near opening. Heaven was opened and became gates.",
+      "indonesian_evidence": "yang mereka ambil. Lalu Kami membuka pintu-pintu langit dengan air yang tercurah deras. Pertolongan dari Allah dan pembukaan yang dekat. Langit dibuka sehingga menjadi pintu-pintu."
+    },
+    {
+      "id": "R1-L12",
+      "source_lines": [
+        12
+      ],
+      "check": "WHENGODVICTORYCOMES/ETCTOENDSURAH(noaddedandopeningorNasrremainder);FATTAH/RAZZAQ/ALLAH/LORDWORLDS;MAYGODBLESSOURmasterMuhammad/FAMILYANDCOMPANIONSANDPEACEactualformula.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "When God's victory comes, and so on to the end of the sūrah. O Opener, O Provider, O God, Lord of the worlds. May God bless our master Muḥammad and his family and companions, and grant them peace.",
+      "indonesian_evidence": "Apabila pertolongan Allah datang, dan seterusnya hingga akhir surah. Wahai Pembuka, wahai Pemberi Rezeki, wahai Allah, Tuhan seluruh alam. Semoga Allah melimpahkan selawat kepada junjungan kami Muḥamm"
+    },
+    {
+      "id": "R1-L13",
+      "source_lines": [
+        13
+      ],
+      "check": "Mappedpairedbrackets/FOURTEENTHchapterwordordinal/REMEMBRANCESandMUSAKHKHARATpassiveword/intendedclassqualified.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "(The Fourteenth Chapter: On Remembrances and the Musakhkharāt Supplications [UNCLEAR: literally 'made subject'; the intended class of supplications is uncertain])",
+      "indonesian_evidence": "(Bab Keempat Belas: Tentang Zikir dan Doa-doa Musakhkharāt [UNCLEAR: secara harfiah 'yang ditundukkan'; jenis doa yang dimaksud tidak pasti])"
+    },
+    {
+      "id": "R1-L14",
+      "source_lines": [
+        14
+      ],
+      "check": "Mappedunclosedopen/KNOWmayGodenableMEANDYOU/EACHNAMEparticularpropertiesrelatedtoIT;SHEIKHʿAbdalRahmancontinuesfulltechnicaldiacritics.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "( Know—may God enable me and you—that each of God's Names has particular properties connected with it. This is what Shaykh ʿAbd al-Raḥmān",
+      "indonesian_evidence": "( Ketahuilah—semoga Allah memberikan taufik kepadaku dan kepadamu—bahwa setiap nama Allah mempunyai khasiat-khasiat khusus yang berkaitan dengannya. Itulah yang ditunjukkan oleh Syekh ʿAbd al-Raḥmān"
+    },
+    {
+      "id": "R1-L15",
+      "source_lines": [
+        15
+      ],
+      "check": "AlSulami/pointedoutBYSAYING/whatGODFRIENDSgranted;IFsaintneedFROMHISLORD/GODexplicitlyOnewhoseHANDDOMINION(notSAINTactor).",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "al-Sulamī pointed out in his saying, and what God's friends have been specially granted: if a friend of God desires a need from his Lord—for God is the One in whose hand is the dominion of",
+      "indonesian_evidence": "al-Sulamī melalui ucapannya, dan yang secara khusus dianugerahkan kepada para wali Allah: apabila seorang wali menginginkan suatu hajat dari Tuhannya—sebab Allah-lah yang di tangan-Nya terdapat keraja"
+    },
+    {
+      "id": "R1-L16",
+      "source_lines": [
+        16
+      ],
+      "check": "EVERYTHING/batheTHURSDAYEVENINGwhichNIGHTOFFRIDAY;SITSECLUDEDprayerplaceUNTILMAGHRIBISPERFORMEDpassive;sourceattributednotagentadvice.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "everything—then, according to this account, let him bathe on Thursday evening, which is the night of Friday, and sit secluded in his prayer place until the maghrib prayer is performed,",
+      "indonesian_evidence": "segala sesuatu—maka, menurut uraian ini, hendaklah ia mandi pada petang Kamis, yakni malam Jumat, dan duduk menyendiri di tempat salatnya sampai salat maghrib dilaksanakan,"
+    },
+    {
+      "id": "R1-L17",
+      "source_lines": [
+        17
+      ],
+      "check": "ContinueĀyat al-KursīUNTILLATERISHAISPERFORMEDpassive;AFTERofferWHATEVERABLEsupererogatories.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "and remain reciting Āyat al-Kursī until the later ʿishāʾ prayer is performed, and thereafter offer whatever supererogatory prayers he is able to perform.",
+      "indonesian_evidence": "lalu tetap membaca Āyat al-Kursī sampai salat ʿishāʾ yang akhir dilaksanakan, kemudian mengerjakan salat-salat sunah semampunya."
+    },
+    {
+      "id": "R1-L18",
+      "source_lines": [
+        18
+      ],
+      "check": "LASTWITRPROSTRATION/WHOLEFORMULAONEHUNDREDTIMES/6orderedNamesALLAH,RABB,RAHMAN,RAHIM,HAYY,QAYYUM/INYOUIseekSUCCORfirstperson/THEN.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "At the last prostration of the witr prayer, he says one hundred times: “O Allah, O Lord, O All-Merciful, O Compassionate, O Living, O Self-Subsisting, in You I seek succor.” Then",
+      "indonesian_evidence": "Pada sujud terakhir salat witr, ia mengucapkan seratus kali: “Wahai Allah, wahai Tuhan, wahai Yang Maha Pengasih, wahai Yang Maha Penyayang, wahai Yang Mahahidup, wahai Yang Berdiri Sendiri, kepada-Mu"
+    },
+    {
+      "id": "R1-L19",
+      "source_lines": [
+        19
+      ],
+      "check": "Askneed/fulfilledsourceclaim/mappedunclosedopening/REPORTEDFROMPROPHETpeaceONLY(noaddedblessings)/hesaidGODcreatedWHITEPEARLandcreatedINITcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "he asks for his need; the account says it is fulfilled. ( It has been reported from the Prophet, peace be upon him, that he said: “God created a white pearl and created in it",
+      "indonesian_evidence": "ia memohon hajatnya; menurut uraian itu, hajat tersebut dipenuhi. ( Telah diriwayatkan dari Nabi, semoga salam tercurah kepadanya, bahwa beliau bersabda: “Sesungguhnya Allah menciptakan sebutir mutiar"
+    },
+    {
+      "id": "R1-L20",
+      "source_lines": [
+        20
+      ],
+      "check": "ActualUNSEENASHENGREYĀyat al-Kursīlinkagequalifiednotraincloudrepair;GODSWOREMIGHTANDMAJESTY/WHOEVERRECITESAFTEREVERYPRAYER/ERASEDFORHIMunknownOBJECTqualified/needFULFILLED/SINSFORGIVENSEPARATE.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "the unseen, the ashen-grey, Āyat al-Kursī [UNCLEAR: the relation between these words in the source is uncertain]. God swore by His might and majesty: whoever recites it after every prayer, an erasure ",
+      "indonesian_evidence": "yang gaib, yang kelabu keputihan, Āyat al-Kursī [UNCLEAR: hubungan antara kata-kata ini dalam sumber tidak pasti]. Allah bersumpah demi keperkasaan dan keagungan-Nya: siapa yang membacanya sesudah set"
+    },
+    {
+      "id": "R1-L21",
+      "source_lines": [
+        21
+      ],
+      "check": "HISDEVILSDEPART/ANGELSAPPOINTEDOVERHIM/GUARDFROMEVERYDISEASEANDINJURY/JINNANDHUMANS/ALLHEFEARScontinues;sourcehealthclaimsnotendorsed.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "his devils depart, and angels are appointed over him to guard him from every disease and injury, from jinn and humans, and from everything he fears",
+      "indonesian_evidence": "setan-setannya pergi, dan para malaikat ditugaskan menjaganya dari setiap penyakit dan cedera, dari jin dan manusia, serta dari segala yang ditakutinya"
+    },
+    {
+      "id": "R1-L22",
+      "source_lines": [
+        22
+      ],
+      "check": "ANDGUARDSAGAINST/NOBLEĀyat al-KursīinWAFQ8BY8/REALITIESGATESPARADISEANDcontinues. Nosupposedgridinvented.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "and guards against.” The noble Āyat al-Kursī has been placed in a wafq of 8 by 8, which are the realities of the gates of Paradise and the realities of",
+      "indonesian_evidence": "dan diwaspadainya.” Āyat al-Kursī yang mulia telah ditempatkan dalam wafq 8 kali 8, yang merupakan hakikat-hakikat pintu surga dan hakikat-hakikat"
+    },
+    {
+      "id": "R1-L23",
+      "source_lines": [
+        23
+      ],
+      "check": "THRONEBEARERS/firstpersonIlookedplanetaryTIMESsuitingYOU/JUPITERGREATERBENEFIC. FAILF01: firstpersonidentityandreportedquotation/commentaryboundarynotexplicitinsource;targetframingunqualified. Coordinatorpriorauthor-onlyassertionwithdrawn.",
+      "passed": false,
+      "english_passed": false,
+      "indonesian_passed": false,
+      "english_evidence": "the bearers of the Throne. I looked at which planetary times suit you, and behold, it was Jupiter, the Greater Benefic. Thus arose",
+      "indonesian_evidence": "para pemikul Arasy. Aku menelaah waktu-waktu planet yang sesuai bagimu; ternyata yang dimaksud adalah Jupiter, planet pembawa keberuntungan terbesar. Maka terwujudlah"
+    },
+    {
+      "id": "R1-L24",
+      "source_lines": [
+        24
+      ],
+      "check": "DIVINEPROPORTIONarose/UPPERANDLOWERpowersconnected/SOMESTRENGTHENEDOVEROTHERS/POWERSINCREASED,notmerelymutualsupport.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "the divine proportion, and the upper powers and lower powers became connected; some were strengthened over others, and the powers increased",
+      "indonesian_evidence": "perbandingan ilahi, terhubunglah kekuatan-kekuatan atas dan kekuatan-kekuatan bawah, dan sebagian diperkuat atas sebagian yang lain; dengan demikian kekuatan-kekuatan itu bertambah"
+    },
+    {
+      "id": "R1-L25",
+      "source_lines": [
+        25
+      ],
+      "check": "FROMALLDIRECTIONS/mappedunclosedopening/WHOEVERplacesITFIRSTHOURTHURSDAY/MOONCONNECTEDJUPITER/RAYofcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "from all directions. ( Whoever places it in the first hour of Thursday, while the Moon is connected with Jupiter by a ray of",
+      "indonesian_evidence": "dari segala arah. ( Siapa yang menempatkannya pada jam pertama hari Kamis, ketika Bulan terhubung dengan Jupiter melalui sinar"
+    },
+    {
+      "id": "R1-L26",
+      "source_lines": [
+        26
+      ],
+      "check": "AMITY/PURESILVERplate/PUREBODYANDGARMENT/FASTINGANDPRAYERANDCONCENTRATEDINTENTANDINNERPURITY,allconditionstogether.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "amity, on a plate of pure silver, being pure in body and garment, with fasting, prayer, concentrated intent, and inner purity,",
+      "indonesian_evidence": "persahabatan, pada lempeng perak murni, dalam keadaan suci tubuh dan pakaiannya, dengan puasa, salat, pemusatan tekad, dan kejernihan batin,"
+    },
+    {
+      "id": "R1-L27",
+      "source_lines": [
+        27
+      ],
+      "check": "PLACEEMPTYOFSOUNDS/THENFUMIGATEITAROMATICthingsLIKEALOESWOODANDAMBERGRIS/GODMOSTHIGHHIDDENKINDNESSseenclaimattributednotrecommendation.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "in a place empty of sounds—then fumigate it with fragrant things such as aloeswood and ambergris—he will, according to the text, see of the hidden kindness of God Most High",
+      "indonesian_evidence": "di tempat yang sunyi dari suara—kemudian asapilah benda itu dengan bahan-bahan harum seperti kayu gaharu dan ambar—maka, menurut teks, ia akan menyaksikan kelembutan tersembunyi Allah Yang Mahatinggi"
+    },
+    {
+      "id": "R1-L28",
+      "source_lines": [
+        28
+      ],
+      "check": "WHATINTELLECTSCANNOTDESCRIBE/THISDESCRIPTIONWAFQcaptionretained,noinventedcells.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "what intellects cannot describe. This is the description of the wafq.",
+      "indonesian_evidence": "yang tidak mampu dilukiskan oleh akal. Inilah uraian wafq tersebut."
+    },
+    {
+      "id": "R1-L29",
+      "source_lines": [
+        29
+      ],
+      "check": "Onlysourceblank29retained.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "(blank retained)",
+      "indonesian_evidence": "(baris kosong)"
+    },
+    {
+      "id": "R1-L30",
+      "source_lines": [
+        30
+      ],
+      "check": "IsolatedSINLAMYAconsonantsSLYtranscribedwithunknownvocalization/meaningnote,noinventeddiagram/nopage121completion.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "s-l-y [UNCLEAR: isolated letter sequence; vocalization and meaning uncertain]",
+      "indonesian_evidence": "s-l-y [UNCLEAR: rangkaian huruf tersendiri; pembacaan vokal dan maknanya tidak pasti]"
+    }
+  ],
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "attribution-uncertainty",
+      "source_lines": [
+        22,
+        23
+      ],
+      "repair_target_lines": [
+        23
+      ],
+      "languages": [
+        "en",
+        "id"
+      ],
+      "issue": "Reportedquotationhasnoexplicitendingbeforegrid/commentary;sourcefirstpersonnazartu,Ilooked,doesnotidentifyitsnarrator. Currentquoteframingandunqualifiedfirstpersonimplyadefiniteauthorialtransition.",
+      "required_repair": "Add ONE localized standard UNCLEAR note on targetline23 in EACH language covering BOTH unspecified end/extent of reported quotation vs commentary AND unidentified first-person speaker. Retain the entire original line23 words and punctuation otherwise; allotherbytesimmutable. IDnoteIndonesian.",
+      "coordinator_correction": "Withdraw prior brief assertion that I necessarily identifies the author. Source establishes grammatical first person, not a uniquely identified speaker or quote boundary. Do not change source or assign a new speaker."
+    }
+  ],
+  "accepted_source_uncertainties": [
+    {
+      "source_lines": [
+        13
+      ],
+      "ordinal_on_line": 1,
+      "issue": "literally 'made subject'; the intended class of supplications is uncertain",
+      "english_note": "literally 'made subject'; the intended class of supplications is uncertain",
+      "indonesian_note": "secara harfiah 'yang ditundukkan'; jenis doa yang dimaksud tidak pasti",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        20
+      ],
+      "ordinal_on_line": 1,
+      "issue": "the relation between these words in the source is uncertain",
+      "english_note": "the relation between these words in the source is uncertain",
+      "indonesian_note": "hubungan antara kata-kata ini dalam sumber tidak pasti",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        20
+      ],
+      "ordinal_on_line": 2,
+      "issue": "what is erased is unstated",
+      "english_note": "what is erased is unstated",
+      "indonesian_note": "apa yang dihapuskan tidak disebutkan",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        30
+      ],
+      "ordinal_on_line": 1,
+      "issue": "isolated letter sequence; vocalization and meaning uncertain",
+      "english_note": "isolated letter sequence; vocalization and meaning uncertain",
+      "indonesian_note": "rangkaian huruf tersendiri; pembacaan vokal dan maknanya tidak pasti",
+      "accepted_as_source_uncertainty": true
+    }
+  ],
+  "review_basis": "Parentindependentlyreadallcompleteactualcanonical/English/Indonesianfilesandreviewedall30positionsseparatelyagainstArabic;parentdidnotauthororrepairtargetprose.",
+  "summary": "R1rejectedonlyF01missinglocalqualificationofreportedquote/commentaryboundaryandfirstpersonspeakerat22–23. Coordinatorunsupportedauthor-onlybriefconstraintwithdrawn. Othercollage/ornatebracketmapping/chapter/timings/counts/Names/healthclaimattribution/sourceanomalies/8by8caption/isolatedSLYcontentacceptablewith4localizedsourceuncertainties. FrozenR1structuralvalidatorpassed;NO120finalpytestyet.",
+  "reviewed_utc": "2026-11-10T03:14:37.488122+00:00"
+}

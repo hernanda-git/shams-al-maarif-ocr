@@ -1,0 +1,7 @@
+REWORK PAGE120
+
+Translator:sa-0-d689db7e. Reviewer:parent-coordinator-resumed, independent model, no humanreview.
+
+[Originaldecision](page_120-r1-rework.json),SHA256:125b3d72ba46c84fc9ab54de761534c9a8754f193d10f1e564fc16233b4ab992.
+
+30positionsreviewed;F01requiresoneuncertaintynoteperlanguageontarget23forquotation/commentaryboundaryandfirstpersonidentity. Coordinatorauthor-onlyassertionwithdrawn;no reviewerproseedits. Fullfreshfinalreviewrequired.
