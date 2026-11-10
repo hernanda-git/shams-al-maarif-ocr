@@ -1,0 +1,457 @@
+{
+  "page": 115,
+  "passed": true,
+  "verdict": "APPROVED",
+  "reviewer_role": "independent-model-semantic-reviewer",
+  "reviewer_id": "parent-coordinator-resumed",
+  "translator_ids": [
+    "sa-0-997b2f84"
+  ],
+  "source_hashes": {
+    "ocr/enriched/page_115.txt": "451e1a7fadc708b33aaf4e7addbe4a8dc06cc3cbea726c916c5d8184c0ac5bd1",
+    "ocr/enriched_en/page_115.txt": "63b5cdab656d18b3322d60730ca57b3f5ba550ee3d19ec67d8894d1b37720733",
+    "ocr/enriched_id/page_115.txt": "6a0eb70d2d0fa4b5bc07e1e997e3906c8dfb14a31594dbdc8f1c63731776c14c",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "54e0edc758d5917c8a7198bd831b36bf148d6c6514445fff45694593fd022ed4"
+  },
+  "coverage": [
+    {
+      "id": "R1-L01",
+      "source_lines": [
+        1
+      ],
+      "check": "Folio109, source em-dash style, Latin numeral glyphs.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "— 109 —",
+      "indonesian_evidence": "— 109 —"
+    },
+    {
+      "id": "R1-L02",
+      "source_lines": [
+        2
+      ],
+      "check": "Source blank retained at identical position.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "(blank line retained)",
+      "indonesian_evidence": "(baris kosong dipertahankan)"
+    },
+    {
+      "id": "R1-L03",
+      "source_lines": [
+        3
+      ],
+      "check": "Radiantstar, kindled from blessed olive, neither east norwest, almost shining evenwithout fire; opening continuation not expanded from preceding page.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "a radiant star, kindled from a blessed tree, an olive neither eastern nor western, whose oil would almost shine even if no fire touched it.",
+      "indonesian_evidence": "bintang yang cemerlang, yang dinyalakan dari pohon yang diberkahi, pohon zaitun yang bukan dari timur dan bukan dari barat, yang minyaknya hampir bersinar meskipun tidak disentuh api."
+    },
+    {
+      "id": "R1-L04",
+      "source_lines": [
+        4
+      ],
+      "check": "Lightuponlight, God guides whomHe wills, parablesforallpeople, knowledgeofallthings; basmala begins and wraps atsourceposition.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "Light upon light. God guides to His light whomever He wills, and God sets forth parables for people, and God knows all things. In the name of God, the Merciful,",
+      "indonesian_evidence": "Cahaya di atas cahaya. Allah membimbing siapa yang Dia kehendaki kepada cahaya-Nya, dan Allah membuat perumpamaan-perumpamaan bagi manusia, dan Allah mengetahui segala sesuatu. Dengan nama Allah Yang "
+    },
+    {
+      "id": "R1-L05",
+      "source_lines": [
+        5
+      ],
+      "check": "Compassionate finishesbasmala; YaSin, wiseQuran, addresseeoneofmessengers, straightpath, revelationfromMightyCompassionate, warn continuation.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "the Compassionate. Yā Sīn. By the wise Qurʾān, you are indeed one of the messengers, upon a straight path, a revelation sent down by the Mighty, the Compassionate, so that you may warn",
+      "indonesian_evidence": "lagi Maha Penyayang. Yā Sīn. Demi Al-Qurʾān yang penuh hikmah, sungguh engkau termasuk para rasul, di atas jalan yang lurus, wahyu yang diturunkan oleh Yang Mahaperkasa lagi Maha Penyayang, agar engka"
+    },
+    {
+      "id": "R1-L06",
+      "source_lines": [
+        6
+      ],
+      "check": "Unwarnedforefathers and heedlessness; exalteddegrees/Throne, divinecastingspiritbycommand onchosenservants, no alteredactor.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "a people whose forefathers were not warned, and so they are heedless. Exalted in degrees, Possessor of the Throne, He casts the spirit, by His command, upon whomever He wills among",
+      "indonesian_evidence": "kepada kaum yang leluhur mereka tidak diberi peringatan, sehingga mereka lalai. Yang Mahatinggi derajat-derajat-Nya, Pemilik Arasy, Dia mencurahkan ruh atas perintah-Nya kepada siapa yang Dia kehendak"
+    },
+    {
+      "id": "R1-L07",
+      "source_lines": [
+        7
+      ],
+      "check": "Servants; HaMim and AynSinQaf in order, Thusrevealed plus editorialversemarker distinct, completebasmala, We sentitdownNightDecree, etc abbreviation, amonghissupplications continuation.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "His servants. Ḥā Mīm. ʿAyn Sīn Qāf. Thus it is revealed [the verse]. In the name of God, the Merciful, the Compassionate. Indeed We sent it down on the Night of Decree [etc.]. And among his supplicati",
+      "indonesian_evidence": "hamba-hamba-Nya. Ḥā Mīm. ʿAyn Sīn Qāf. Demikianlah diwahyukan [ayat]. Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Sungguh Kami telah menurunkannya pada Malam Ketetapan [dan seterusnya]. "
+    },
+    {
+      "id": "R1-L08",
+      "source_lines": [
+        8
+      ],
+      "check": "Also plusthirdbasmala; MyLord, divinejoyatservantrepentance, drewbycall, madetastethroughrepelling. Irregularconnection qualifiedatline9; no silentrepairto customary formula.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "also: In the name of God, the Merciful, the Compassionate. My Lord, how great is Your joy at the repentance of a servant whom You drew by Your call and made to taste through Your repelling",
+      "indonesian_evidence": "juga: Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Wahai Tuhanku, betapa besar kegembiraan-Mu atas tobat seorang hamba yang Engkau tarik dengan panggilan-Mu dan Engkau beri rasa melalui p"
+    },
+    {
+      "id": "R1-L09",
+      "source_lines": [
+        9
+      ],
+      "check": "Sweetnessofforgiveness preservedalongside repelling andlocalizedsyntaxnote; Thenhebecame afterboldnessforbiddenacts anddelightinacquiringevildeeds.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "and the sweetness of Your forgiveness [UNCLEAR: the connection between making him taste, Your repelling, and the sweetness is irregular]. Then he came to be, after his boldness in committing forbidden",
+      "indonesian_evidence": "dan manisnya ampunan-Mu [UNCLEAR: hubungan antara pemberian rasa, penolakan-Mu, dan rasa manis ini tidak teratur]. Maka ia menjadi, setelah keberaniannya melakukan perbuatan-perbuatan haram dan kegemb"
+    },
+    {
+      "id": "R1-L10",
+      "source_lines": [
+        10
+      ],
+      "check": "ImmersioninDIMINUTIONofdesires exactly ratherthanfamiliarpursuit; repeatedthenhebecame, cutoffdifferences, balances, subtlegraces.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "and his immersion in the diminution of desires, then he came to be cut off from differences, encompassed by states of balance, drawn by subtle graces,",
+      "indonesian_evidence": "dan ketenggelamannya dalam pengurangan syahwat, maka ia menjadi terputus dari perbedaan-perbedaan, diliputi keadaan-keadaan seimbang, tertarik oleh kelembutan-kelembutan,"
+    },
+    {
+      "id": "R1-L11",
+      "source_lines": [
+        11
+      ],
+      "check": "Providentialcares/tenderness/guardianship/gatheringlightsofguidance, beautifulrecurringfavors, acquisitionbenefits, attainmentcontinuation.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "the providential cares occurring through tenderness, the guardianship gathering the lights of guidance, toward beautiful recurring favors, the acquisition of benefits, and the attainment of",
+      "indonesian_evidence": "pemeliharaan-pemeliharaan yang berlangsung dengan kasih sayang, penjagaan yang menghimpun cahaya-cahaya petunjuk, menuju karunia-karunia berulang yang indah, perolehan manfaat-manfaat, dan pencapaian"
+    },
+    {
+      "id": "R1-L12",
+      "source_lines": [
+        12
+      ],
+      "check": "Additions, immersedinseasmercy, uprightinpuritypresence, towardfullnessknowingYou, mysticalecstasywithcrownshonourcontinuation.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "additions; and immersed in the seas of Your mercy, standing upright in the purity of Your presence, directing himself toward the fullness of knowing You, experiencing ecstasy through crowns of",
+      "indonesian_evidence": "tambahan-tambahan; serta tenggelam dalam lautan rahmat-Mu, berdiri tegak dalam kejernihan hadirat-Mu, mengarahkan diri menuju kepenuhan makrifat kepada-Mu, mengalami ekstase dengan mahkota-mahkota"
+    },
+    {
+      "id": "R1-L13",
+      "source_lines": [
+        13
+      ],
+      "check": "Honour, traitsafety, spiritsofwine/al-madamah notnormalizedtopermanence; MyLord sincere repentance, withitfirst-rankfragment retainedwithoutinventedverb.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "honor, endowed with the character traits of safety, and mingled with the spirits of wine (al-madāmah). My Lord, I ask You for sincere repentance, with it in the",
+      "indonesian_evidence": "kemuliaan, dibentuk dengan sifat-sifat keselamatan, serta bercampur dengan ruh-ruh arak anggur (al-madāmah). Wahai Tuhanku, aku memohon kepada-Mu tobat yang tulus, dengannya dalam barisan"
+    },
+    {
+      "id": "R1-L14",
+      "source_lines": [
+        14
+      ],
+      "check": "Firstrankrepentant; BOTH dualreferents retainedandqualified, worshippers thenpraisingsplendor/wayfarerpurity/bowersannihilation/prostratorssubsistencecontinuation.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "first rank of the repentant; and I am characterized by both [UNCLEAR: the two referents and their relation to the following phrase are uncertain], among the worshippers, and by the splendor of those w",
+      "indonesian_evidence": "pertama dari orang-orang yang bertobat; dan aku memiliki sifat melalui keduanya [UNCLEAR: dua rujukan itu dan hubungannya dengan ungkapan berikut tidak pasti], di antara orang-orang yang beribadah, se"
+    },
+    {
+      "id": "R1-L15",
+      "source_lines": [
+        15
+      ],
+      "check": "Prostrators, inheritorsfelicity, perfectedperfection, purposeworldsfamiliarwithangels/subtlefacultiesdrawnearbywitnessingYou. All8devoteegroupsordered.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "those who prostrate, the felicity of the inheritors, and the perfection of the perfected, so that my worlds may become familiar with Your angels and my subtle faculties may draw near through witnessin",
+      "indonesian_evidence": "orang-orang yang sujud, kebahagiaan para pewaris, dan kesempurnaan orang-orang yang sempurna, agar alam-alamku menjadi akrab dengan para malaikat-Mu dan unsur-unsur halusku mendekat melalui penyaksian"
+    },
+    {
+      "id": "R1-L16",
+      "source_lines": [
+        16
+      ],
+      "check": "PurposeIturnbetweenfingersgentleness, immersionmercy, belongingpresence, turningtowardseeingYou; possessivesandfirstperson preserved.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "so that I may turn between the fingers of Your gentleness, through my immersion in Your mercy, my belonging to Your presence, and my turning toward seeing You",
+      "indonesian_evidence": "agar aku berbolak-balik di antara jari-jari kelembutan-Mu, melalui ketenggelamanku dalam rahmat-Mu, keterikatanku pada hadirat-Mu, dan pengarahan diriku untuk melihat-Mu"
+    },
+    {
+      "id": "R1-L17",
+      "source_lines": [
+        17
+      ],
+      "check": "AndwitnessingYou; indeedYou plusfirst9Names: Merciful,Compassionate,OftForgiving,Forbearing,BestowerFavors,Generous,Pardoner,TenderCompassionate,ProtectingFriend.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "and witnessing You. Indeed You are the Merciful, the Compassionate, the Oft-Forgiving, the Forbearing, the Bestower of Favors, the Generous, the Pardoner, the Tenderly Compassionate, the Protecting Fr",
+      "indonesian_evidence": "dan menyaksikan-Mu. Sungguh Engkaulah Yang Maha Pengasih, Yang Maha Penyayang, Yang Maha Pengampun, Yang Maha Penyantun, Yang Maha Pemberi Karunia, Yang Maha Pemurah, Yang Maha Pemaaf, Yang Maha Belas"
+    },
+    {
+      "id": "R1-L18",
+      "source_lines": [
+        18
+      ],
+      "check": "Next9Names: Praiseworthy,Near,Responsive,Preserver,Succorer,Beneficent,AcceptorRepentance,Provider,Bestower; OurLordacceptfromus/indeedYou continues. No mergedNames.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "the Praiseworthy, the Near, the Responsive, the Preserver, the Succorer, the Beneficent, the Acceptor of Repentance, the Provider, and the Bestower. Our Lord, accept from us; indeed You",
+      "indonesian_evidence": "Yang Maha Terpuji, Yang Maha Dekat, Yang Maha Mengabulkan, Yang Maha Menjaga, Yang Maha Pemberi Pertolongan, Yang Maha Baik, Yang Maha Penerima Tobat, Yang Maha Pemberi Rezeki, dan Yang Maha Penganuge"
+    },
+    {
+      "id": "R1-L19",
+      "source_lines": [
+        19
+      ],
+      "check": "AllHearingAllKnowing; OurLordpourpatience/firmfeet/helpagainstdisbelievers; repeatedOurLord doNOTswervecontinues. Twoinvocations.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "are the All-Hearing, the All-Knowing. And Our Lord, pour patience upon us, make our feet firm, and help us against the disbelieving people. Our Lord, do not cause",
+      "indonesian_evidence": "adalah Yang Maha Mendengar lagi Maha Mengetahui. Dan wahai Tuhan kami, curahkanlah kesabaran kepada kami, teguhkanlah kaki-kaki kami, dan tolonglah kami menghadapi kaum yang kafir. Wahai Tuhan kami, j"
+    },
+    {
+      "id": "R1-L20",
+      "source_lines": [
+        20
+      ],
+      "check": "Ourheartsafterguidance/mercyfromYourself/Bestower; OurLordacceptTHIS/AllHearingAllKnowing. This distinctfromfromus request.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "our hearts to swerve after You have guided us, and bestow mercy upon us from Yourself; indeed You are the Bestower. And Our Lord, accept this; indeed You are the All-Hearing, the All-Knowing.",
+      "indonesian_evidence": "hati-hati kami setelah Engkau memberi kami petunjuk, dan anugerahkanlah kepada kami rahmat dari sisi-Mu; sungguh Engkaulah Yang Maha Penganugerah. Dan wahai Tuhan kami, terimalah ini; sungguh Engkaula"
+    },
+    {
+      "id": "R1-L21",
+      "source_lines": [
+        21
+      ],
+      "check": "OurLordGRANTusSAFE/aminan withunclearscope, NOTwehavebelieved; forgiveoursins/protectFire; OurLordforgiveoursins/effaceevildeeds/takeindeathwith continuation. Bothrepetitions retained.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "Our Lord, grant us 'safe' (āminan) [UNCLEAR: the construction does not make clear who or what is safe]; so forgive us our sins and protect us from the punishment of the Fire. And Our Lord, forgive us ",
+      "indonesian_evidence": "Wahai Tuhan kami, berilah kami 'aman' (āminan) [UNCLEAR: susunan ini tidak menjelaskan siapa atau apa yang aman]; maka ampunilah dosa-dosa kami dan lindungilah kami dari azab neraka. Dan wahai Tuhan k"
+    },
+    {
+      "id": "R1-L22",
+      "source_lines": [
+        22
+      ],
+      "check": "Righteous; OurLordgrantpromisethroughmessengers, donotdisgraceResurrection, YouDONOTbreakpromise; OurLordwewrongedourselves. Twovocatives retained.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "the righteous. And Our Lord, grant us what You promised us through Your messengers, and do not disgrace us on the Day of Resurrection; indeed You do not break the promise. Our Lord, we have wronged ou",
+      "indonesian_evidence": "orang-orang yang berbakti. Dan wahai Tuhan kami, berilah kami apa yang Engkau janjikan kepada kami melalui rasul-rasul-Mu, dan janganlah Engkau hinakan kami pada Hari Kiamat; sungguh Engkau tidak meny"
+    },
+    {
+      "id": "R1-L23",
+      "source_lines": [
+        23
+      ],
+      "check": "Conditional ifNOTforgiveANDhavemercy, surelylosers; MyLordtruthfulentryANDexit, neutralbringoutnotexpel.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "and if You do not forgive us and have mercy on us, we shall surely be among the losers. My Lord, bring me in with an entry of truth and bring me out with an exit of truth,",
+      "indonesian_evidence": "dan jika Engkau tidak mengampuni kami serta merahmati kami, niscaya kami termasuk orang-orang yang merugi. Wahai Tuhanku, masukkanlah aku dengan masuk yang benar dan keluarkanlah aku dengan keluar yan"
+    },
+    {
+      "id": "R1-L24",
+      "source_lines": [
+        24
+      ],
+      "check": "AppointhelpingauthorityfromYourself; OurLordmercyfromYourself/prepareguidanceforouraffair; MyLordcausealightcontinuation; bothinvocationsretained.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "and appoint for me, from Yourself, a helping authority. And Our Lord, grant us mercy from Yourself, and prepare right guidance for us in our affair. My Lord, cause me to alight",
+      "indonesian_evidence": "dan berikanlah kepadaku dari sisi-Mu kekuasaan yang menolong. Dan wahai Tuhan kami, berilah kami rahmat dari sisi-Mu dan siapkanlah petunjuk yang benar bagi kami dalam urusan kami. Wahai Tuhanku, temp"
+    },
+    {
+      "id": "R1-L25",
+      "source_lines": [
+        25
+      ],
+      "check": "Blessedlodging/bestlodgers; MyLordseekrefugeincitementsdevils; repeatedseekrefugeANDMyLordtheirpresence. Bothsingularvocatives.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "at a blessed lodging, and You are the best of those who give lodging. My Lord, I seek refuge in You from the incitements of the devils, and I seek refuge in You, My Lord, from their being present.",
+      "indonesian_evidence": "di tempat tinggal yang diberkahi, dan Engkaulah sebaik-baik yang memberi tempat tinggal. Wahai Tuhanku, aku berlindung kepada-Mu dari hasutan-hasutan setan, dan aku berlindung kepada-Mu, wahai Tuhanku"
+    },
+    {
+      "id": "R1-L26",
+      "source_lines": [
+        26
+      ],
+      "check": "MyLordgrantjudgment/joinrighteous/tongueoftruthamonglaterones/inheritGardencontinuation. Allrequestsretained.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "My Lord, grant me judgment, join me with the righteous, appoint for me a tongue of truth among those who come later, and make me one of the inheritors of the Garden of",
+      "indonesian_evidence": "Wahai Tuhanku, anugerahkanlah kepadaku kemampuan memutuskan, gabungkanlah aku dengan orang-orang yang saleh, berikanlah kepadaku lisan kebenaran di kalangan orang-orang yang datang kemudian, dan jadik"
+    },
+    {
+      "id": "R1-L27",
+      "source_lines": [
+        27
+      ],
+      "check": "Bliss; OurLordtrust/turninrepentance/finalreturn; OurLordNOTtrialfordisbelievers/forgiveus/OurLord. Threepluralvocativesexplicitinboth.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "Bliss. Our Lord, in You we have put our trust, to You we have turned in repentance, and to You is the final return. Our Lord, do not make us a trial for those who have disbelieved, and forgive us, Our",
+      "indonesian_evidence": "kenikmatan. Wahai Tuhan kami, kepada-Mu kami bertawakal, kepada-Mu kami kembali dengan bertobat, dan kepada-Mu tempat kembali. Wahai Tuhan kami, janganlah Engkau jadikan kami ujian bagi orang-orang ya"
+    },
+    {
+      "id": "R1-L28",
+      "source_lines": [
+        28
+      ],
+      "check": "MightyWise; inlineparenthesizedheadingfordestructionwrongdoers/aggressors notagentadvice; fourthbasmala; exaltedYoucontinuation.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "indeed You are the Mighty, the Wise. (And among his supplications for the destruction of the wrongdoers and the aggressors) In the name of God, the Merciful, the Compassionate. Exalted are You,",
+      "indonesian_evidence": "sungguh Engkaulah Yang Mahaperkasa lagi Mahabijaksana. (Dan di antara doa-doanya untuk membinasakan orang-orang zalim dan para pelaku kezaliman yang melampaui batas) Dengan nama Allah Yang Maha Pengas"
+    },
+    {
+      "id": "R1-L29",
+      "source_lines": [
+        29
+      ],
+      "check": "ShatteredtyrantsANDarrogant, cutofflastofpharaohsANDmockers, inflictedabasementupontransgressors; allpairs/orderretained.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "O You who shattered the tyrants and the arrogant, cut off the last of the pharaohs and the mockers, and inflicted abasement upon the transgressors",
+      "indonesian_evidence": "wahai Yang mematahkan para tiran dan orang-orang yang menyombongkan diri, menumpas sisa terakhir para firaun dan para pengejek, serta menimpakan kehinaan kepada orang-orang yang melampaui batas"
+    },
+    {
+      "id": "R1-L30",
+      "source_lines": [
+        30
+      ],
+      "check": "Rebellious; BOTHhow-swiftclauses,severeseizure/glorioussubjugation,uponEVERYobstinatetyrantANDdevilcontinuation.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "and the rebellious. How swift is the descent of Your severe seizure, and how swift is the arrival of Your glorious subjugation upon every obstinate tyrant and devil,",
+      "indonesian_evidence": "dan para pembangkang. Betapa cepat turunnya hukuman keras-Mu, dan betapa cepat datangnya penundukan-Mu yang mulia atas setiap tiran yang keras kepala dan setan,"
+    },
+    {
+      "id": "R1-L31",
+      "source_lines": [
+        31
+      ],
+      "check": "Rebelliousdevilwrongedservants/transgressedlands/strovespreadcorruption; InYouIsoughtsuccor/myGod; opaque li-tatasadda withuncertainactor/object withoutimposingYou/foe; toYouIcomplaincontinuation.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "rebellious, who wronged the servants, transgressed in the lands, and strove to spread corruption in them. In You I sought succor, my God, li-tataṣaddā [UNCLEAR: 'so that ... may confront'; the actor a",
+      "indonesian_evidence": "yang durhaka, yang menzalimi para hamba, melampaui batas di negeri-negeri, dan berusaha menyebarkan kerusakan di sana. Kepada-Mu aku meminta pertolongan, Tuhanku, li-tataṣaddā [UNCLEAR: 'agar ... meng"
+    },
+    {
+      "id": "R1-L32",
+      "source_lines": [
+        32
+      ],
+      "check": "Whoeverwrongedme; IaskYoumyMaster/helpagainstwar-maker/defeatchallengercombat/subduefighter. Allthreeactionsandopponentsretained.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "of whoever wronged me. And I ask You, my Master, to help me against whoever waged war on me, to defeat whoever challenged me to combat, and to subdue whoever fought me,",
+      "indonesian_evidence": "tentang siapa yang menzalimiku. Dan aku memohon kepada-Mu, Junjunganku, agar Engkau menolongku menghadapi siapa yang memerangiku, mengalahkan siapa yang menantangku bertarung, dan menundukkan siapa ya"
+    },
+    {
+      "id": "R1-L33",
+      "source_lines": [
+        33
+      ],
+      "check": "ForsakeenemiesANDdefeat; printedTHEYONLYGATHERED withlocalizedlinkuncertainty, NOTthirdwherever; curseANDexposedisgraceWHEREVERdispersed; shatterWHEREVERjoined. Exacttwoactualwhereverclauses andsourcepageboundaryretained.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "and to forsake my enemies and defeat them; they have only gathered [UNCLEAR: the connection of this clause to the request is uncertain]; and to curse them and expose their disgrace wherever they have ",
+      "indonesian_evidence": "dan menelantarkan musuh-musuhku serta mengalahkan mereka; mereka hanya berkumpul [UNCLEAR: hubungan klausa ini dengan permohonan tersebut tidak pasti]; dan melaknat mereka serta membongkar aib mereka "
+    }
+  ],
+  "findings": [],
+  "accepted_source_uncertainties": [
+    {
+      "source_lines": [
+        8,
+        9
+      ],
+      "issue": "Taste/repelling/sweetness construction irregular; words retained with local linkage note in both targets."
+    },
+    {
+      "source_lines": [
+        13,
+        14
+      ],
+      "issue": "Fragment after sincere repentance and dual bihima retained without inventing missing verb or binding both referents."
+    },
+    {
+      "source_lines": [
+        21
+      ],
+      "issue": "Printed grant us aminan, safe, retained and unclear recipient/object qualified; not emended to familiar we-believed."
+    },
+    {
+      "source_lines": [
+        31
+      ],
+      "issue": "li-tatasadda preserved in transliteration with uncertain actor/object and recoverable confronting meaning."
+    },
+    {
+      "source_lines": [
+        33
+      ],
+      "issue": "Printed innama ijtamau retained as they only gathered with uncertain linkage, not changed to aynama."
+    }
+  ],
+  "uncertainty_markers_per_language": {
+    "en": 5,
+    "id": 5
+  },
+  "review_basis": "Parent independently read complete canonical Arabic and actual final English and Indonesian directly from disk after resumption. Reviewed each language against source, not one against the other. Parent did not author or repair target prose. No human review or external religious authentication claimed.",
+  "summary": "Approved exact frozen R1 of Legacy604V2 physical page115: all33sourcepositions, blankline2, folio109, fourbasmalas, isolatedlettersandabbreviations,18orderedNames,8devoteegroups,7singularand12pluralLordvocatives attheirsourcepositions, repeatedrequests, sourceanomalies,wineimagery, allnegations/conditions/actors and finaltwoWHEREVERclauses reviewed. Five localuncertainty groups retain recoverablewording without canonicalemendation. Finalcandidate348testsplus49subtestspassed;114acceptedpluscurrent115 pass. Semantic fidelity acceptance, not efficacy endorsement.",
+  "reviewed_utc": "2026-11-10T01:48:26.813720+00:00"
+}
