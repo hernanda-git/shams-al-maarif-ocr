@@ -1,0 +1,64 @@
+{
+  "page": 124,
+  "revision": "r1",
+  "passed": false,
+  "verdict": "REWORK",
+  "reviewer_id": "sa-0-e9f8d3e6",
+  "translator_id": "sa-0-aeb2476c",
+  "source_hashes": {
+    "ocr/enriched/page_124.txt": "d7ba1c03a2b1bcf4318c4c492d76675c2e40a2b1afac88e3f6e13f760813f91e",
+    "ocr/enriched_en/page_124.txt": "4aed130537b437e3826445c34775971cd240fd8a5c836ef06f8140d666c5ae24",
+    "ocr/enriched_id/page_124.txt": "aa92dda947911f7f6a927dc89b854e3fe20d6f0f7cb77946882543f3a65e5a19",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "48dd1e9dfdec0d4cd566ad670ea6301f797f1a834ef95340edc5e5760d296546"
+  },
+  "findings": [
+    {
+      "id": "F01",
+      "source_lines": [
+        12,
+        13
+      ],
+      "issue": "الإحاطة first rendering adds knowledge not explicit in request; reconcile and qualify without adding meaning."
+    },
+    {
+      "id": "F02",
+      "source_lines": [
+        14
+      ],
+      "issue": "Explain al-munābah and fīl al-zawāʾid uncertainties in each target language and qualify attachment of flowing phrase."
+    },
+    {
+      "id": "F03",
+      "source_lines": [
+        26,
+        27
+      ],
+      "issue": "Uncertainty of ارج الترح بالفرح relationship extends across line break; mark locally preserving 33 positions."
+    },
+    {
+      "id": "F04",
+      "source_lines": [
+        27,
+        28
+      ],
+      "issue": "Colon after worlds implies unsupported inscription; remove and qualify relationship of مظلوم to following text."
+    },
+    {
+      "id": "F05",
+      "source_lines": [
+        28
+      ],
+      "issue": "هب لي اللهم أجبر المظلوم has unclear missing object and syntax; qualify without reversing literal poverty wording."
+    },
+    {
+      "id": "F06",
+      "source_lines": [
+        8
+      ],
+      "issue": "المتكبر should retain distinct meaning from العظيم in both languages."
+    }
+  ],
+  "review_basis": "Independent model reviewer read all source and target positions and found six concerns; structural validator passed; no final test gate. OCR not verified against scan.",
+  "reviewed_utc": "2026-11-10T05:40:36.321562+00:00"
+}

@@ -1,0 +1,537 @@
+{
+  "page": 124,
+  "passed": true,
+  "verdict": "APPROVED",
+  "reviewer_role": "independent-model-semantic-reviewer",
+  "reviewer_id": "sa-0-ac3951f7",
+  "translator_ids": [
+    "sa-0-aeb2476c",
+    "sa-0-fbb71b7a"
+  ],
+  "source_hashes": {
+    "ocr/enriched/page_124.txt": "d7ba1c03a2b1bcf4318c4c492d76675c2e40a2b1afac88e3f6e13f760813f91e",
+    "ocr/enriched_en/page_124.txt": "9582829a8d5548ce0dadac5c2dd94de4ad9be69ba15cb1b34cebd43f2767e583",
+    "ocr/enriched_id/page_124.txt": "daf816dcdb0ed352f9cda4f659a4f750a9cac1fb521856e2c30b409b45f81dfd",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "0df79d17b3ee60992cc5b4d1e5aa58a5229dee3d077f594b199fc22fa7faf435"
+  },
+  "reviewed_live_style_guide_sha256": "33a2312bf9280de587c3b1ab1d60a877105ad820d147adbb74a8e602893cb0d8",
+  "style_guide_raw_difference": "live LF vs candidate CRLF; normalized content byte-identical",
+  "coverage": [
+    {
+      "id": "R2-L01",
+      "source_lines": [
+        1
+      ],
+      "check": "Source position 1: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "— ۱۱۸ —",
+      "english_evidence": "— 118 —",
+      "indonesian_evidence": "— 118 —",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L02",
+      "source_lines": [
+        2
+      ],
+      "check": "Source position 2: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "النقمة لا يجازون ولا يستقيمون سرا ولا جهرا ولا يستفيدون عزا ولا فخرا ولا يستطيعون نصرا",
+      "english_evidence": "the vengeance, they are not requited, nor are they upright in secret or in public, nor do they gain might or pride, nor can they attain victory",
+      "indonesian_evidence": "pembalasan, mereka tidak mendapat balasan dan tidak lurus secara sembunyi-sembunyi maupun terang-terangan, tidak memperoleh kemuliaan maupun kebanggaan, dan tidak mampu meraih kemenangan",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L03",
+      "source_lines": [
+        3
+      ],
+      "check": "Source position 3: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "ولا صبرا وابعث عليهم عذابا من فوقهم ومن تحت أرجلهم يعلم ما بين أيديهم وما خلفهم يا علام",
+      "english_evidence": "or patience. Send upon them punishment from above them and from beneath their feet. He knows what is before them and what is behind them. O Knower of",
+      "indonesian_evidence": "maupun kesabaran. Turunkanlah atas mereka azab dari atas mereka dan dari bawah kaki mereka. Dia mengetahui apa yang di hadapan dan di belakang mereka. Wahai Yang Mengetahui",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L04",
+      "source_lines": [
+        4
+      ],
+      "check": "Source position 4: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "الخفيات ويا غافر الزلات ويا راحم العثرات ارحمني واسترني وانصرني على أعدائي كما",
+      "english_evidence": "the hidden things, O Forgiver of slips, O Merciful to those who stumble, have mercy on me, cover me, and grant me victory over my enemies, as",
+      "indonesian_evidence": "hal-hal tersembunyi, wahai Pengampun kekhilafan, wahai Penyayang mereka yang tergelincir, rahmatilah aku, tutupilah aku, dan tolonglah aku menghadapi musuh-musuhku sebagaimana",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L05",
+      "source_lines": [
+        5
+      ],
+      "check": "Source position 5: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "نصرت أنبياءك على أعدائك وانكسهم على أعقابهم واسحبهم بالسلاسل والأغلال في أعناقهم واقبض",
+      "english_evidence": "You granted victory to Your prophets over Your enemies. Turn them back on their heels, drag them with chains and shackles around their necks, and seize",
+      "indonesian_evidence": "Engkau telah menolong para nabi-Mu menghadapi musuh-musuh-Mu. Balikkanlah mereka ke belakang, seretlah mereka dengan rantai dan belenggu di leher mereka, dan genggamlah",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L06",
+      "source_lines": [
+        6
+      ],
+      "check": "Source position 6: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "على قلوبهم لا يفقهون واصمم آذانهم كي لا يسمعوا واطمس على أعينهم كي لا يبصروا واختم على",
+      "english_evidence": "their hearts so they do not understand; deafen their ears so they do not hear, blot out their eyes so they do not see, and seal",
+      "indonesian_evidence": "hati mereka agar mereka tidak memahami; pekakkan telinga mereka agar tidak mendengar, hapuskan penglihatan mata mereka agar tidak melihat, dan tutuplah",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L07",
+      "source_lines": [
+        7
+      ],
+      "check": "Source position 7: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "أفواههم كي لا ينطقوا وامسخهم على مكانتهم كي لا يستطيعون مضيا ولا إلى أهلهم يرجعون إنك",
+      "english_evidence": "their mouths so they do not speak. Transform them in their places so they cannot go forward or return to their families. Indeed,",
+      "indonesian_evidence": "mulut mereka agar tidak berbicara. Ubahlah rupa mereka di tempat mereka agar tidak mampu maju ataupun kembali kepada keluarga mereka. Sesungguhnya",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L08",
+      "source_lines": [
+        8
+      ],
+      "check": "Source position 8: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "أنت الجبار والمتكبر والقابض والناصر والقوي والغالب والقهار والرافع والمذل والمنتقم والمهلك",
+      "english_evidence": "You are the Compeller, the Supremely Majestic, the Seizer, the Helper, the Strong, the Prevailing, the Subduer, the Exalter, the Abaser, the Avenger, the Destroyer,",
+      "indonesian_evidence": "Engkaulah Yang Maha Memaksa, Yang Maha Megah, Yang Menggenggam, Yang Menolong, Yang Mahakuat, Yang Mengalahkan, Yang Menundukkan, Yang Meninggikan, Yang Menghinakan, Yang Membalas, Yang Membinasakan,",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L09",
+      "source_lines": [
+        9
+      ],
+      "check": "Source position 9: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "والشديد والمخذل والمؤخر والمانع والقابض والخافض والضار والقاصم ذو الجلال والإكرام",
+      "english_evidence": "the Severe, the Forsaker, the Delayer, the Preventer, the Seizer, the Lowerer, the One who harms, the Crusher, Possessor of Majesty and Honor.",
+      "indonesian_evidence": "Yang Keras, Yang Membiarkan tanpa pertolongan, Yang Mengakhirkan, Yang Mencegah, Yang Menggenggam, Yang Merendahkan, Yang Mendatangkan mudarat, Yang Mematahkan, Pemilik Keagungan dan Kemuliaan.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L10",
+      "source_lines": [
+        10
+      ],
+      "check": "Source position 10: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "اللهم إني أسألك باسمك العظيم الأعظم وبنبيك المبجل المكرم وبحق هذه الآية الشريفة والأسماء",
+      "english_evidence": "O God, I ask You by Your great, greatest Name, by Your venerated, honored Prophet, and by the right of this noble verse and the",
+      "indonesian_evidence": "Ya Allah, aku memohon kepada-Mu dengan nama-Mu yang agung, yang paling agung, dengan Nabi-Mu yang dimuliakan dan dihormati, dan dengan hak ayat mulia ini dan nama-nama",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L11",
+      "source_lines": [
+        11
+      ],
+      "check": "Source position 11: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "المنيفة أن تحفظني من بين يدي ومن خلفي ومن فوقي ومن تحتي وعن يميني وعن شمالي وارزقني",
+      "english_evidence": "lofty names, to protect me from before me, behind me, above me, beneath me, on my right and on my left, and grant me",
+      "indonesian_evidence": "yang luhur, agar Engkau menjagaku dari depanku, belakangku, atasku, bawahku, kananku, dan kiriku, serta anugerahkan kepadaku",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L12",
+      "source_lines": [
+        12
+      ],
+      "check": "Source position 12: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "الإحاطة ولا يحيطون بشيء من علمه إلا بما شاء يا من أحاط بكل شيء علما وأحصى كل شيء عددا",
+      "english_evidence": "encompassment [UNCLEAR: the sense of the request]. They encompass nothing of His knowledge except what He wills. O You who encompass all things in knowledge and have counted all things in number,",
+      "indonesian_evidence": "peliputan [UNCLEAR: maksud permohonan ini tidak jelas]. Mereka tidak meliputi sesuatu pun dari ilmu-Nya kecuali apa yang Dia kehendaki. Wahai Yang meliputi segala sesuatu dengan ilmu dan menghitung segala sesuatu dengan bilangan,",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L13",
+      "source_lines": [
+        13
+      ],
+      "check": "Source position 13: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "أسألك الإحاطة بما بين الأصبعين والخروج من العلتين مشمولا بالاعتدالات مجذوبا بالألطاف",
+      "english_evidence": "I ask You for encompassment of what is between the two fingers [UNCLEAR: the sense of the request] and to emerge from the two afflictions, surrounded by states of balance, drawn by the kindnesses",
+      "indonesian_evidence": "aku memohon kepada-Mu peliputan atas apa yang ada di antara dua jari [UNCLEAR: maksud permohonan ini tidak jelas] dan keluar dari dua penyakit, diliputi keseimbangan-keseimbangan, ditarik oleh kelembutan-kelembutan",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L14",
+      "source_lines": [
+        14
+      ],
+      "check": "Source position 14: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "المنابة الدافقة بألطاف الرعاية الجامعة لأنوار الهداية إلى جميع العوائد وجزيل الفوائد وفيل الزوائد",
+      "english_evidence": "[UNCLEAR: al-munābah; meaning uncertain], flowing with the kindnesses of care [UNCLEAR: attachment of “flowing”] that gathers the lights of guidance to all benefits and abundant advantages, and [UNCLEAR: fīl al-zawāʾid; meaning and reading uncertain],",
+      "indonesian_evidence": "[UNCLEAR: al-munābah; maknanya tidak jelas], yang mengalir dengan kelembutan pemeliharaan [UNCLEAR: kaitan kata “mengalir” tidak jelas] yang menghimpun cahaya-cahaya petunjuk menuju segala manfaat dan faedah yang berlimpah, dan [UNCLEAR: fīl al-zawāʾid; bacaan dan maknanya tidak jelas],",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L15",
+      "source_lines": [
+        15
+      ],
+      "check": "Source position 15: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "منغماسا في بحار رحمتك منتسبا في صفاء حضرتك منصرفا إلى وفاء معرفتك متوجا بتيجان",
+      "english_evidence": "immersed in the seas of Your mercy, affiliated with the purity of Your presence, turned toward the fulfillment of knowledge of You, crowned with the crowns",
+      "indonesian_evidence": "tenggelam dalam lautan rahmat-Mu, bernisbah dalam kejernihan hadirat-Mu, menuju pemenuhan pengenalan kepada-Mu, dimahkotai dengan mahkota-mahkota",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L16",
+      "source_lines": [
+        16
+      ],
+      "check": "Source position 16: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "الكرامة مخلقا بأخلاق السلامة أسألك يا من وسع كرسيه السموات والأرض يا من وسعت قدرته",
+      "english_evidence": "of honor, endowed with the character of safety. I ask You, O You whose Footstool encompasses the heavens and the earth, O You whose power",
+      "indonesian_evidence": "kemuliaan, dibentuk dengan akhlak keselamatan. Aku memohon kepada-Mu, wahai Yang Kursi-Nya meliputi langit dan bumi, wahai Yang kekuasaan-Nya",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L17",
+      "source_lines": [
+        17
+      ],
+      "check": "Source position 17: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "ومشيئته كل شيء أوسع لي رزقي وفرج عن كربي واغفر بجودك وكرمك ذنبي وأدخلني في",
+      "english_evidence": "and will encompass all things: enlarge my provision, relieve my distress, forgive my sin through Your generosity and munificence, and admit me into",
+      "indonesian_evidence": "dan kehendak-Nya meliputi segala sesuatu: luaskanlah rezekiku, lepaskanlah kesusahanku, ampunilah dosaku dengan kemurahan dan kedermawanan-Mu, dan masukkanlah aku ke dalam",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L18",
+      "source_lines": [
+        18
+      ],
+      "check": "Source position 18: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "سر إمداد اسمك العظيم الأعظم ولا يؤوده حفظهما وهو العلي العظيم * اللهم إني أسألك يا الله",
+      "english_evidence": "the secret of the succor of Your great, greatest Name. Their preservation does not weary Him, and He is the Most High, the Magnificent. * O God, I ask You, O God,",
+      "indonesian_evidence": "rahasia bantuan nama-Mu yang agung, yang paling agung. Pemeliharaan keduanya tidak memberatkan-Nya, dan Dia Mahatinggi lagi Mahaagung. * Ya Allah, aku memohon kepada-Mu, wahai Allah,",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L19",
+      "source_lines": [
+        19
+      ],
+      "check": "Source position 19: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "يا حي يا قيوم بحق هذه الآية الشريفة والأسماء المنيفة أن تنصرني على من ظلمني وتقهر من قهرني",
+      "english_evidence": "O Living One, O Self-Subsisting One, by the right of this noble verse and the lofty names, to grant me victory over whoever wronged me and subdue whoever subdued me",
+      "indonesian_evidence": "wahai Yang Hidup, wahai Yang Maha Berdiri Sendiri, dengan hak ayat mulia ini dan nama-nama yang luhur, agar Engkau menolongku menghadapi orang yang menzalimiku dan menundukkan orang yang menundukkanku",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L20",
+      "source_lines": [
+        20
+      ],
+      "check": "Source position 20: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "ومن أرادني بسوء مكرا وغدرا ما أسرع نزول بطشك الشديد وما أسرع حلول قهرك المجيد بكل",
+      "english_evidence": "and whoever intended evil for me through deceit and treachery. How swiftly Your severe assault descends, and how swiftly Your glorious subjugation befalls every",
+      "indonesian_evidence": "dan orang yang menghendaki keburukan bagiku dengan tipu daya dan pengkhianatan. Betapa cepat turunnya siksa-Mu yang keras dan betapa cepat datangnya penaklukan-Mu yang mulia atas setiap",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L21",
+      "source_lines": [
+        21
+      ],
+      "check": "Source position 21: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "جبار عنيد وشيطان مريد بغى على العباد وطغى في البلاد وسعى بالفساد بك أستغيث إلهي أسألك",
+      "english_evidence": "obstinate tyrant and rebellious devil who has oppressed the servants, transgressed in the lands, and striven to spread corruption. In You I seek help, my God; I ask You",
+      "indonesian_evidence": "penguasa sewenang-wenang yang keras kepala dan setan durhaka yang menzalimi para hamba, melampaui batas di negeri-negeri, dan berusaha membuat kerusakan. Kepada-Mu aku memohon pertolongan, Tuhanku; aku memohon kepada-Mu",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L22",
+      "source_lines": [
+        22
+      ],
+      "check": "Source position 22: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "بحق هذه الآية الشريفة والأسماء المنيفة أن تنظر إلي نظرة رحمة وأن تجعلني من عبادك الصالحين",
+      "english_evidence": "by the right of this noble verse and the lofty names to look upon me with a look of mercy and make me one of Your righteous servants",
+      "indonesian_evidence": "dengan hak ayat mulia ini dan nama-nama yang luhur agar Engkau memandangku dengan pandangan rahmat dan menjadikanku termasuk hamba-hamba-Mu yang saleh",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L23",
+      "source_lines": [
+        23
+      ],
+      "check": "Source position 23: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "الذين لا خوف عليهم ولا هم يحزنون ربنا تقبل منا إنك أنت السميع العليم ربنا أفرغ علينا صبرا",
+      "english_evidence": "who have no fear, nor do they grieve. Our Lord, accept from us; indeed You are the All-Hearing, the All-Knowing. Our Lord, pour patience upon us,",
+      "indonesian_evidence": "yang tidak merasa takut dan tidak pula bersedih. Tuhan kami, terimalah dari kami; sesungguhnya Engkaulah Yang Maha Mendengar lagi Maha Mengetahui. Tuhan kami, limpahkanlah kesabaran kepada kami,",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L24",
+      "source_lines": [
+        24
+      ],
+      "check": "Source position 24: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "وثبت أقدامنا وانصرنا على القوم الكافرين ربنا لا تزغ قلوبنا بعد إذ هديتنا وهب لنا من لدنك",
+      "english_evidence": "make our feet firm, and grant us victory over the disbelieving people. Our Lord, do not let our hearts deviate after You have guided us, and grant us from Yourself",
+      "indonesian_evidence": "teguhkanlah kaki kami, dan tolonglah kami menghadapi kaum kafir. Tuhan kami, janganlah Engkau palingkan hati kami setelah Engkau memberi kami petunjuk, dan anugerahkanlah kepada kami dari sisi-Mu",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L25",
+      "source_lines": [
+        25
+      ],
+      "check": "Source position 25: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "رحمة إنك أنت الوهاب لا حول ولا قوة إلا بالله العلي العظيم يا من وسع كرسيه السموات والأرض",
+      "english_evidence": "mercy; indeed You are the Bestower. There is no power and no strength except through God, the Most High, the Magnificent. O You whose Footstool encompasses the heavens and the earth,",
+      "indonesian_evidence": "rahmat; sesungguhnya Engkaulah Maha Pemberi. Tiada daya dan kekuatan kecuali dengan Allah Yang Mahatinggi lagi Mahaagung. Wahai Yang Kursi-Nya meliputi langit dan bumi,",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L26",
+      "source_lines": [
+        26
+      ],
+      "check": "Source position 26: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "اصرف عني ما يسوءني من الظلم والأغيار واجبر قلبي بالظفر منك يا جابر القلوب المنكسرة وارج",
+      "english_evidence": "turn away from me what harms me of injustice and others, and mend my heart with victory from You, O Mender of broken hearts, and [UNCLEAR: arji; connection to sorrow with joy continues on the next line]",
+      "indonesian_evidence": "palingkan dariku apa yang menyakitiku berupa kezaliman dan pihak-pihak lain, dan pulihkanlah hatiku dengan kemenangan dari-Mu, wahai Pemulih hati yang patah, dan [UNCLEAR: arji; kaitannya dengan kesedihan dan kegembiraan berlanjut di baris berikutnya]",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L27",
+      "source_lines": [
+        27
+      ],
+      "check": "Source position 27: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "الترح بالفرح في جزئيتي وكليتي يا قوي قو قلبي بعد الضعف وارفع على رأسي راية يشهد لها العالمان",
+      "english_evidence": "sorrow with joy [UNCLEAR: connection to arji] in my part and my whole. O Strong One, strengthen my heart after weakness, and raise above my head a banner to which the two worlds bear witness.",
+      "indonesian_evidence": "kesedihan dengan kegembiraan [UNCLEAR: kaitannya dengan arji tidak jelas] dalam bagian diriku dan keseluruhanku. Wahai Yang Mahakuat, kuatkan hatiku setelah kelemahan, dan angkatlah di atas kepalaku panji yang disaksikan oleh dua alam.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L28",
+      "source_lines": [
+        28
+      ],
+      "check": "Source position 28: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "مظلوم هب لي اللهم أجبر المظلوم إنك تعلم ما لا نعلم يا غني ادفع عني ما يمنعني من الفقر يا الله يا علي",
+      "english_evidence": "Wronged [UNCLEAR: connection to the preceding and following words]. Grant me [UNCLEAR: object unspecified], O God; mend the wronged one [UNCLEAR: syntax]. You know what we do not know. O Rich One, ward off from me what prevents me from poverty. O God, O Most High,",
+      "indonesian_evidence": "Yang terzalimi [UNCLEAR: kaitannya dengan kata sebelum dan sesudahnya tidak jelas]. Berilah aku [UNCLEAR: objek pemberian tidak disebutkan], ya Allah; pulihkanlah orang yang terzalimi [UNCLEAR: susunan kalimat tidak jelas]. Engkau mengetahui apa yang tidak kami ketahui. Wahai Yang Mahakaya, jauhkan dariku apa yang menghalangiku dari kemiskinan. Ya Allah, wahai Yang Mahatinggi,",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L29",
+      "source_lines": [
+        29
+      ],
+      "check": "Source position 29: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "يا عظيم تعاليت علوا كبيرا وعظني بعظتك العظيمة ونجني من القوم الظالمين وأمددني",
+      "english_evidence": "O Magnificent One, You are exalted with great exaltation; admonish me with Your great admonition, save me from the wrongdoing people, and support me",
+      "indonesian_evidence": "wahai Yang Mahaagung, Engkau Mahatinggi dengan ketinggian yang besar; nasihatilah aku dengan nasihat-Mu yang agung, selamatkan aku dari kaum yang zalim, dan bantulah aku",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L30",
+      "source_lines": [
+        30
+      ],
+      "check": "Source position 30: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "بملائكتك المقربين وسخر لي قلوب خلقك أجمعين برحمتك يا أرحم الراحمين ولا يؤوده حفظهما",
+      "english_evidence": "with Your angels brought near, and subject to me the hearts of all Your creatures, by Your mercy, O Most Merciful of the merciful. Their preservation does not weary Him,",
+      "indonesian_evidence": "dengan malaikat-malaikat-Mu yang didekatkan, dan tundukkan bagiku hati seluruh makhluk-Mu, dengan rahmat-Mu, wahai Yang Maha Penyayang di antara para penyayang. Pemeliharaan keduanya tidak memberatkan-Nya,",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L31",
+      "source_lines": [
+        31
+      ],
+      "check": "Source position 31: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "وهو العلي العظيم * اللهم إني أسألك يا الله يا حي يا مبين أن تنجني أنا ومن يلوذ بي من القوم الظالمين",
+      "english_evidence": "and He is the Most High, the Magnificent. * O God, I ask You, O God, O Living One, O Manifest One, to save me and those who take refuge with me from the wrongdoing people,",
+      "indonesian_evidence": "dan Dia Mahatinggi lagi Mahaagung. * Ya Allah, aku memohon kepada-Mu, wahai Allah, wahai Yang Hidup, wahai Yang Maha Nyata, agar Engkau menyelamatkan aku dan orang yang berlindung kepadaku dari kaum yang zalim,",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L32",
+      "source_lines": [
+        32
+      ],
+      "check": "Source position 32: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "وأدخلني في خزائن بسم الله الرحمن الرحيم أقفالها الحمد لله رب العالمين مفتاحها لا إله إلا الله محمد",
+      "english_evidence": "and admit me into the treasuries of “In the name of God, the Most Merciful, the Compassionate”; their locks are “Praise be to God, Lord of the worlds”; their key is “There is no god but God, Muhammad",
+      "indonesian_evidence": "dan masukkanlah aku ke dalam perbendaharaan “Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang”; gembok-gemboknya adalah “Segala puji bagi Allah, Tuhan seluruh alam”; kuncinya adalah “Tiada Tuhan selain Allah, Muhammad",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    },
+    {
+      "id": "R2-L33",
+      "source_lines": [
+        33
+      ],
+      "check": "Source position 33: full clause, conditions, continuation and structure independently reviewed",
+      "source_evidence": "رسول",
+      "english_evidence": "is the messenger",
+      "indonesian_evidence": "adalah utusan",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true
+    }
+  ],
+  "findings": [],
+  "accepted_source_uncertainties": [
+    {
+      "source_lines": [
+        12
+      ],
+      "english_note": "the sense of the request",
+      "indonesian_note": "maksud permohonan ini tidak jelas",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        13
+      ],
+      "english_note": "the sense of the request",
+      "indonesian_note": "maksud permohonan ini tidak jelas",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        14
+      ],
+      "english_note": "al-munābah; meaning uncertain",
+      "indonesian_note": "al-munābah; maknanya tidak jelas",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        14
+      ],
+      "english_note": "attachment of “flowing”",
+      "indonesian_note": "kaitan kata “mengalir” tidak jelas",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        14
+      ],
+      "english_note": "fīl al-zawāʾid; meaning and reading uncertain",
+      "indonesian_note": "fīl al-zawāʾid; bacaan dan maknanya tidak jelas",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        26
+      ],
+      "english_note": "arji; connection to sorrow with joy continues on the next line",
+      "indonesian_note": "arji; kaitannya dengan kesedihan dan kegembiraan berlanjut di baris berikutnya",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        27
+      ],
+      "english_note": "connection to arji",
+      "indonesian_note": "kaitannya dengan arji tidak jelas",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        28
+      ],
+      "english_note": "connection to the preceding and following words",
+      "indonesian_note": "kaitannya dengan kata sebelum dan sesudahnya tidak jelas",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        28
+      ],
+      "english_note": "object unspecified",
+      "indonesian_note": "objek pemberian tidak disebutkan",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        28
+      ],
+      "english_note": "syntax",
+      "indonesian_note": "susunan kalimat tidak jelas",
+      "accepted_as_source_uncertainty": true
+    }
+  ],
+  "review_basis": "Fresh independent reviewer compared all 33 source positions and complete final EN/ID at exact hashes, found no source-bound defects; coordinator independently read source and both final targets. OCR readings not verified against scan.",
+  "summary": "Full 33-position independent model review passed after six repairs; 10 localized uncertainty markers per language remain provisional. The source continuation, two stars, unfinished ending and literal poverty wording preserved.",
+  "reviewed_utc": "2026-11-10T05:48:17.106769+00:00"
+}
