@@ -1,0 +1,497 @@
+{
+  "page": 117,
+  "passed": true,
+  "verdict": "APPROVED",
+  "reviewer_role": "independent-model-semantic-reviewer",
+  "reviewer_id": "parent-coordinator-resumed",
+  "translator_ids": [
+    "sa-0-ca9e4191"
+  ],
+  "source_hashes": {
+    "ocr/enriched/page_117.txt": "2cf0e55497c561d2c101a7993fbffea8299fb8264342d807dafccf6f28c3e391",
+    "ocr/enriched_en/page_117.txt": "3e9f1f157248a98d18329b3a1a48492f5ab3df7be9fb5eae2cfaf1396acbe7e6",
+    "ocr/enriched_id/page_117.txt": "7c890c590db27104a7dfc52edfb50f94a0e787c9179385bb799074e617fd9743",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "ff21e1d9a0d73bb0f704dd28cc12383b8ab1ffad52c1e24432ce8ce9484fbe59"
+  },
+  "coverage": [
+    {
+      "id": "R1-L01",
+      "source_lines": [
+        1
+      ],
+      "check": "LiteralprintedfolioELEVEN(11),parenthesesspacingretained; notsilent111repair.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "( 11 )",
+      "indonesian_evidence": "( 11 )"
+    },
+    {
+      "id": "R1-L02",
+      "source_lines": [
+        2
+      ],
+      "check": "Onlysourceblank2 retained.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "(blank retained)",
+      "indonesian_evidence": "(baris kosong)"
+    },
+    {
+      "id": "R1-L03",
+      "source_lines": [
+        3
+      ],
+      "check": "RepeatedTHISblessedsupplication openingnotdeduped; eitherafterEVERYprayerwithnoinventedalternative; THENasksneed/fulfillmentclaim; urgentneed/wishescontinuation.Sourceattributednotendorsed.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "This blessed supplication, according to the text, is said either after every prayer; then one asks for one's need, which is fulfilled. Whoever is in urgent need and wishes",
+      "indonesian_evidence": "Doa yang diberkati ini, menurut teks, dibaca entah sesudah setiap salat; kemudian orang itu meminta hajatnya, lalu hajatnya terpenuhi. Barang siapa terdesak oleh hajatnya dan menghendaki"
+    },
+    {
+      "id": "R1-L04",
+      "source_lines": [
+        4
+      ],
+      "check": "Speedyfulfillment, ablution, SOME/oneofmosquesORsaintCOFFINSnotnormalizedgraves; THENtwoprayerunits.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "its speedy fulfillment, let him perform ablution and go to one of the mosques or to the coffins of the saints; then let him pray two prayer units",
+      "indonesian_evidence": "agar hajat itu segera terpenuhi, hendaklah ia berwudu dan mendatangi salah satu masjid atau berada di dekat peti-peti jenazah para wali; kemudian hendaklah ia mengerjakan dua rakaat"
+    },
+    {
+      "id": "R1-L05",
+      "source_lines": [
+        5
+      ],
+      "check": "Intendsfulfillment; FIRSTunitFatihaandIkhlas3, THENbasmalabeginswrapped. No unsupported expansionofrecitationcountscope.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "and intend therein the fulfillment of his need. In the first prayer unit he recites al-Fātiḥah and al-Ikhlāṣ 3, then says: In the name of God, the All-Merciful,",
+      "indonesian_evidence": "dan meniatkan di dalamnya pemenuhan hajatnya. Pada rakaat pertama ia membaca al-Fātiḥah dan al-Ikhlāṣ 3, lalu mengucapkan: Dengan nama Allah Yang Maha Pengasih,"
+    },
+    {
+      "id": "R1-L06",
+      "source_lines": [
+        6
+      ],
+      "check": "Mercifulfinishesbasmala,70times; SECONDunitlikewisePLUSbothprotectivesurahs; AFTERsalutationaskforgiveness70. Orderedactionsretained.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "the Merciful, 70 times. In the second prayer unit, likewise, adding the two protective surahs. After giving the salutation, he asks God's forgiveness 70 times",
+      "indonesian_evidence": "Yang Maha Penyayang, 70 kali. Pada rakaat kedua demikian pula, dengan menambahkan dua surah pelindung. Setelah mengucapkan salam, ia memohon ampun kepada Allah 70 kali"
+    },
+    {
+      "id": "R1-L07",
+      "source_lines": [
+        7
+      ],
+      "check": "SendblessingsProphet70ANDfullprintedpeaceblessingshonorific; THENTHISsupplication7/sincereintention/gatherscontinuation.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "and sends blessings upon the Prophet, peace and blessings be upon him, 70; then he recites this supplication 7 times with a sincere intention and gathers",
+      "indonesian_evidence": "dan berselawat kepada Nabi, semoga selawat dan salam tercurah kepadanya, 70; kemudian ia membaca doa ini 7 kali dengan niat yang tulus dan menghimpun"
+    },
+    {
+      "id": "R1-L08",
+      "source_lines": [
+        8
+      ],
+      "check": "HisSENSESintheRECITATIONUNTILneedfulfilled, ESPECIALLYIFsincerespiritualstateWITHGod; identifiesblessedsupplicationacrosssentencewrap.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "his senses in its recitation until his need is fulfilled, especially if he possesses a sincere spiritual state with God. This is the blessed supplication:",
+      "indonesian_evidence": "segenap indranya dalam membacanya sampai hajatnya terpenuhi, terutama apabila ia memiliki keadaan rohani yang tulus bersama Allah. Inilah doa yang diberkati itu:"
+    },
+    {
+      "id": "R1-L09",
+      "source_lines": [
+        9
+      ],
+      "check": "Yousay/parenthesizedbasmala/LordIaskbyYOURNameopenedCOMMANDandCREATIONworldthroughselfdisclosure.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "you say: (In the name of God, the All-Merciful, the Merciful) Lord, I ask You by Your Name with which You opened the world of command and creation through the self-disclosure",
+      "indonesian_evidence": "engkau mengucapkan: (Dengan nama Allah Yang Maha Pengasih, Yang Maha Penyayang) Wahai Tuhan, aku memohon kepada-Mu dengan nama-Mu yang dengannya Engkau membuka alam perintah dan penciptaan melalui taj"
+    },
+    {
+      "id": "R1-L10",
+      "source_lines": [
+        10
+      ],
+      "check": "ManifestingRELATIONSofdescentANDtranscendent, command/existence/intelligibleinwardcontentallretainedwithlinkageuncertainty; whomeverYOUwilled/knownwhomeverYOUmadewitness.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "that manifests the relations of descent and the transcendent, as command, existence, and an intelligible inward reality [UNCLEAR: linkage of these descriptions]; that is for whomever You willed, indee",
+      "indonesian_evidence": "yang menampakkan nisbah-nisbah penurunan dan yang transenden, sebagai perintah, keberadaan, dan kenyataan batin yang terpahami [UNCLEAR: hubungan antara keterangan-keterangan ini]; demikian itu bagi s"
+    },
+    {
+      "id": "R1-L11",
+      "source_lines": [
+        11
+      ],
+      "check": "Unknown/ambiguousreferentsqualified; MULTIPLICITYdoesNOTharmUNITYoffirmlyestablished; Alim,Halim,Fattahordered.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "unknown to whomever it became ambiguous from it [UNCLEAR: referents and linkage]; a multiplicity that does not impair the unity of what You made firm of its firmly established content. O All-Knowing, ",
+      "indonesian_evidence": "tidak diketahui oleh siapa yang baginya hal itu menjadi samar darinya [UNCLEAR: rujukan dan hubungan antarkata]; kemajemukan yang tidak merusak kesatuan apa yang Engkau kukuhkan dari kandungannya yang"
+    },
+    {
+      "id": "R1-L12",
+      "source_lines": [
+        12
+      ],
+      "check": "Allah,Rabb; IaskAllahbysecretofRELATIONlinkingTWOPRESENCES:NECESSITYandPOSSIBILITY; entailmanifestationcontinuation.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "O God, O Lord! I ask You, O God, by the secret of the relation linking the two Presences of Necessity and Possibility, which entails the manifestation",
+      "indonesian_evidence": "wahai Allah, wahai Tuhan! Aku memohon kepada-Mu, ya Allah, dengan rahasia hubungan yang mengikat dua Hadirat Keniscayaan dan Kemungkinan, yang mengharuskan penampakan"
+    },
+    {
+      "id": "R1-L13",
+      "source_lines": [
+        13
+      ],
+      "check": "Greatestattribute, INDETERMINATEName, establishmentdivinityUNIVERSALLYandSPECIFICALLY,BEGINNINGandRETURN, whomeveruniversalityall-embracingmercyencompassed.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "of the greatest attribute through the indeterminate Name, for the establishment of divinity universally and specifically, in beginning and return, from whomever the universality of all-embracing mercy",
+      "indonesian_evidence": "sifat paling agung melalui nama yang tidak ditentukan, demi ketetapan ketuhanan secara umum dan khusus, pada permulaan dan kembali, dari siapa yang diliputi oleh keluasan sifat Maha Pengasih,"
+    },
+    {
+      "id": "R1-L14",
+      "source_lines": [
+        14
+      ],
+      "check": "NOend/settlednessORestablishment/specialeffusionparticularmercy/raisingwitnessaffirmationdrawnearBYnearness; irregularlinkagequalifiedwithoutdeletingwords.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "which has no end in settledness or establishment, from a special effusion of particular mercy that raises the witnessing of the affirmation of drawing near through nearness [UNCLEAR: linkage of the ef",
+      "indonesian_evidence": "yang tiada berakhir dalam kemantapan ataupun ketetapan, dari limpahan khusus sifat Maha Penyayang yang mengangkat penyaksian peneguhan pendekatan melalui kedekatan [UNCLEAR: hubungan limpahan itu deng"
+    },
+    {
+      "id": "R1-L15",
+      "source_lines": [
+        15
+      ],
+      "check": "UnknownESSENCE/fromYOU; Rahman,Rahim,Fattah,Alimordered; illumination,easing,help,successallrequested.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "whose essence is unknown, from You. O All-Merciful, O Merciful, O Opener, O All-Knowing! I ask You for illumination, easing, assistance, success,",
+      "indonesian_evidence": "yang hakikatnya tidak diketahui, dari-Mu. Wahai Yang Maha Pengasih, wahai Yang Maha Penyayang, wahai Yang Maha Membuka, wahai Yang Maha Mengetahui! Aku memohon kepada-Mu penerangan, kemudahan, pertolo"
+    },
+    {
+      "id": "R1-L16",
+      "source_lines": [
+        16
+      ],
+      "check": "Preservation,care,veiling,completion,GOODprovision/blessingINit,hope,GOODopinionOFYOU,despairaboutOTHERthanYOUcontinues; allorderedrequests.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "preservation, care, veiling, completion, good provision and blessing in it, hope, good opinion of You, and despair of",
+      "indonesian_evidence": "penjagaan, pemeliharaan, penutupan, penyempurnaan, rezeki yang baik dan keberkahan di dalamnya, harapan, prasangka baik kepada-Mu, dan putus asa terhadap"
+    },
+    {
+      "id": "R1-L17",
+      "source_lines": [
+        17
+      ],
+      "check": "OtherthanYOU; byRIGHTbasmala/opaqueTAKUNANmeaningqualified/FORYOURcommand,completionBYgenerosity/blessingFROMyou; blessedNAME/exaltedcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "any other than You. I ask You by the right of the basmala for takūnan [UNCLEAR: printed word's meaning] for Your command, and completion through Your generosity, and blessing from You. Blessed is Your",
+      "indonesian_evidence": "selain-Mu. Aku memohon kepada-Mu dengan hak basmalah akan takūnan [UNCLEAR: makna kata tercetak tidak jelas] bagi perintah-Mu, penyempurnaan dengan kemurahan-Mu, serta berkah dari-Mu. Mahaberkah nama-"
+    },
+    {
+      "id": "R1-L18",
+      "source_lines": [
+        18
+      ],
+      "check": "YOURmajesty/NOothergod; webelieveINYOU,submitTOYOU,relyONYOU; realizeusOLordbyYOURlightANDYOURNamelight; opaqueRAGHNAmeaningqualified/awayfromcontinuation.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "Your majesty; there is no god other than You. In You we believe, to You we submit, and on You we rely. Bring us to realization, O God, through Your light and the light of Your Name, raghnā [UNCLEAR: p",
+      "indonesian_evidence": "keagungan-Mu; tiada tuhan selain-Mu. Kepada-Mu kami beriman, kepada-Mu kami berserah diri, dan kepada-Mu kami bertawakal. Nyatakanlah hakikat kami, ya Allah, dengan cahaya-Mu dan cahaya nama-Mu, raghn"
+    },
+    {
+      "id": "R1-L19",
+      "source_lines": [
+        19
+      ],
+      "check": "OtherthanYOU,opaqueIDHHULANmeaningqualified/inYOU/Allah/witnessingYOU/Rahman; PeacewordfromMercifulLord; IaskbyRIGHTTHISblessedsupplicationcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "any other than You, idhhūlan [UNCLEAR: printed word's meaning] in You, O God, in witnessing You, O All-Merciful. Peace, a word from a Merciful Lord. O God, I ask You by the right of this blessed suppl",
+      "indonesian_evidence": "selain-Mu, idhhūlan [UNCLEAR: makna kata tercetak tidak jelas] di dalam-Mu, wahai Allah, dengan menyaksikan-Mu, wahai Yang Maha Pengasih. Salam, sebagai ucapan dari Tuhan Yang Maha Penyayang. Ya Allah"
+    },
+    {
+      "id": "R1-L20",
+      "source_lines": [
+        20
+      ],
+      "check": "FulfillMYneed/SUCHANDSUCH; switchtoinstructionNAMEwhateverdesired; opaqueFAMALAHUFIHIRIDAwithunknownactor/linkagenotassertedGOD; bewareDONOTaskUNLAWFUL.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "that You fulfill my need, which is such-and-such; name whatever you desire. Fa-mā lahu fīhi riḍā [UNCLEAR: linkage and whose satisfaction is meant]; beware of asking for what is unlawful.",
+      "indonesian_evidence": "agar Engkau memenuhi hajatku, yaitu begini dan begitu; sebutkan apa pun yang engkau inginkan. Fa-mā lahu fīhi riḍā [UNCLEAR: hubungan klausa dan siapa pemilik keridaan tidak jelas]; jangan sekali-kali"
+    },
+    {
+      "id": "R1-L21",
+      "source_lines": [
+        21
+      ],
+      "check": "Literal*; amongHISimportantcustomarysupplications, sourceclaimrecitationNOTcompleteUNTILneedfulfilled; openbasmalaparenthesisUNclosedpreserved.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "* Among his important supplications, which he used to recite, is this: according to the text, its recitation is not completed until his need is fulfilled. (In the name of God, the All-Merciful, the Me",
+      "indonesian_evidence": "* Di antara doa-doa pentingnya yang biasa ia panjatkan ialah berikut ini: menurut teks, pembacaannya tidak selesai sampai hajatnya terpenuhi. (Dengan nama Allah Yang Maha Pengasih, Yang Maha Penyayang"
+    },
+    {
+      "id": "R1-L22",
+      "source_lines": [
+        22
+      ],
+      "check": "FullbasmalacontinuationthenOAllah,IaskBYyouareGodinrealitiesPURErealization,repeatIaskBYyouareGodINEVERYstatecontinuation.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "O God, I ask You by Your being God in the realities of pure realization, and I ask You by Your being God in every state among",
+      "indonesian_evidence": "ya Allah, aku memohon kepada-Mu karena Engkaulah Allah dalam hakikat-hakikat perwujudan murni; dan aku memohon kepada-Mu karena Engkaulah Allah dalam setiap keadaan di antara"
+    },
+    {
+      "id": "R1-L23",
+      "source_lines": [
+        23
+      ],
+      "check": "LimitANDcounterpartbothrecoverablewithintendedmeaningqualified; repeatedBYyouareGodSANCTIFIEDbydistinctiveONENESSandSELF-SUFFICIENCY,beyondOPPOSITEandEQUAL.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "the states of limit and counterpart [UNCLEAR: intended sense of al-ḥadd wa-l-ʿadīl], and by Your being God, sanctified through the distinctive properties of oneness and self-sufficiency beyond opposit",
+      "indonesian_evidence": "keadaan-keadaan batas dan padanan [UNCLEAR: maksud al-ḥadd wa-l-ʿadīl tidak jelas], dan karena Engkaulah Allah yang disucikan dengan kekhususan keesaan dan sifat tidak bergantung kepada apa pun, dari "
+    },
+    {
+      "id": "R1-L24",
+      "source_lines": [
+        24
+      ],
+      "check": "ContradictoryANDsupporter; repeatedBYyouareGodNOTHINGlikeHim/AllHearingAllSeeing; IaskYOUtosendBLESSINGSANDPEACEcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "contradictory and supporter, and by Your being God, like whom there is nothing, and who is the All-Hearing, the All-Seeing. I ask You to send blessings and peace",
+      "indonesian_evidence": "yang bertentangan dan pendukung; dan karena Engkaulah Allah yang tiada sesuatu pun serupa dengan-Nya, dan Dia Maha Mendengar, Maha Melihat. Aku memohon kepada-Mu agar Engkau mencurahkan selawat dan sa"
+    },
+    {
+      "id": "R1-L25",
+      "source_lines": [
+        25
+      ],
+      "check": "OURmasterMuhammad, FAMILYMuhammad, EVERYONEwholovesMuhammad; fulfillMYneedswhichholdGOODWORLDcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "upon our master Muhammad, upon the family of Muhammad, and upon everyone who loves Muhammad, and to fulfill my needs in whatever holds for me the good of this world",
+      "indonesian_evidence": "kepada junjungan kami Muhammad, keluarga Muhammad, serta setiap orang yang mencintai Muhammad, dan agar Engkau memenuhi hajat-hajatku dalam perkara yang mengandung bagiku kebaikan dunia"
+    },
+    {
+      "id": "R1-L26",
+      "source_lines": [
+        26
+      ],
+      "check": "ANDHEREAFTER, surroundedCARE,preservedAFFLICTIONS,distinctiveENDS; REPEATEDgood-bestowalvocativeandOYouwhoIScontinuation.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "and the Hereafter, surrounded by care, preserved from afflictions through the distinctive properties of the ends. O You who repeatedly bestow good things, O You who are in",
+      "indonesian_evidence": "dan akhirat, diliputi pemeliharaan, terlindung dari malapetaka dengan kekhususan tujuan-tujuan. Wahai Yang berulang kali melimpahkan kebaikan, wahai Engkau yang pada"
+    },
+    {
+      "id": "R1-L27",
+      "source_lines": [
+        27
+      ],
+      "check": "TRUTHworthyreverence/forgiveness/goodthings; OAllahTHISrequestSERVANT,opaqueAZRUmeaningANDconnectionqualified,ATYOURHOUSE,manifestingHISrequest.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "truth worthy of reverence, of forgiveness and good deeds! O God, this is the request of a servant, ʿazrū [UNCLEAR: printed word's meaning and connection], at Your House, by making his request manifest",
+      "indonesian_evidence": "hakikatnya layak ditakwa, layak mengampuni dan memiliki kebaikan-kebaikan! Ya Allah, sesungguhnya ini permohonan seorang pelayan, ʿazrū [UNCLEAR: makna kata tercetak dan hubungannya tidak jelas], di r"
+    },
+    {
+      "id": "R1-L28",
+      "source_lines": [
+        28
+      ],
+      "check": "YOUknowerHIDDENthings/witnessREALITYrequests, opaqueQABLAMUBASHARATIHAALMATLUBpreservesBEFOREandrequested/unresolvedactorlinkage; completethemBEAUTIFULending/Omostsoughtcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "for You are the Knower of hidden things and the witness of the reality of requests, qabla mubāsharatihā al-maṭlūb [UNCLEAR: 'before undertaking them, the requested'; actor and linkage unclear]. Comple",
+      "indonesian_evidence": "sebab Engkaulah Yang Maha Mengetahui segala yang gaib dan Yang menyaksikan hakikat permintaan-permintaan, qabla mubāsharatihā al-maṭlūb [UNCLEAR: 'sebelum menanganinya, yang diminta'; pelaku dan hubun"
+    },
+    {
+      "id": "R1-L29",
+      "source_lines": [
+        29
+      ],
+      "check": "Sought; MAYGODBLESSOURmasterMuhammadBELOVEDHEARTS/familyANDcompanionsANDgrantpeace distinctfromfullshorterhonorific; literal*; newHISsupplicationforallWHATEVERdesireddeedscontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "of what is sought. May God bless our master Muhammad, beloved of hearts, and his family and companions, and grant peace. * Among his supplications for whatever he desired",
+      "indonesian_evidence": "yang dituju. Semoga Allah melimpahkan selawat kepada junjungan kami Muhammad, kekasih hati, serta keluarga dan para sahabatnya, dan memberikan salam. * Di antara doanya untuk segala yang ia kehendaki"
+    },
+    {
+      "id": "R1-L30",
+      "source_lines": [
+        30
+      ],
+      "check": "Deeds/balancedparenthesizedfourthbasmala/OAllahIseekforgivenessANDrepentTOYOUforeverySINrepentedTOIT; sourceanomalousTUBTUILAYHIexplicitqualifiednotfromit; THENcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "of deeds: (In the name of God, the All-Merciful, the Merciful) O God, I ask Your forgiveness and turn in repentance to You for every sin to which I turned in repentance [UNCLEAR: tubtu ilayhi, literal",
+      "indonesian_evidence": "dari amal-amal: (Dengan nama Allah Yang Maha Pengasih, Yang Maha Penyayang) Ya Allah, aku memohon ampun kepada-Mu dan bertobat kepada-Mu dari setiap dosa yang kepadanya aku bertobat [UNCLEAR: tubtu il"
+    },
+    {
+      "id": "R1-L31",
+      "source_lines": [
+        31
+      ],
+      "check": "RETURNEDTOIT; forgivenessEVERYdeedintendedYOURNOBLEFACEthenOTHERthanYOUmingled; forgiveEVERYSINcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "returned to it. I ask Your forgiveness for every deed in which I intended Your noble Face, then something other than You mingled with it; and I ask Your forgiveness for every sin",
+      "indonesian_evidence": "aku kembali kepadanya. Aku memohon ampun kepada-Mu atas setiap amal yang dengannya aku menghendaki wajah-Mu yang mulia, lalu selain-Mu bercampur di dalamnya; dan aku memohon ampun kepada-Mu atas setia"
+    },
+    {
+      "id": "R1-L32",
+      "source_lines": [
+        32
+      ],
+      "check": "COMMITTEDindarknessNIGHTandDAY; submissiveABASEDSUBDUEDservantTOGOD; IBELIEVEGod; BOTHGhafurANDShakurNames; contentcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "I committed in the darkness of night and day. I submit to God as a submissive, abased, subdued servant. I believe in God. O Forgiving, Thankful One! I am content",
+      "indonesian_evidence": "yang kulakukan dalam kegelapan malam dan siang. Aku tunduk kepada Allah sebagai hamba yang tunduk, hina, dan ditaklukkan. Aku beriman kepada Allah. Wahai Yang Maha Pengampun lagi Maha Mensyukuri! Aku "
+    },
+    {
+      "id": "R1-L33",
+      "source_lines": [
+        33
+      ],
+      "check": "YOURProphet/beloved/chosen/electFROMcreation/Muhammad/FULLpeaceblessingshonorific; opaqueJAHretainednotJAA,allFORALLWITHMESSAGEGLADDENEDrecoverablewordsretained,unknownmeaning/linkagequalified; noinventedpage118completion.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "with Your Prophet, Your beloved, Your chosen one, Your elect from Your creation, Muhammad, peace and blessings be upon him, jāh li-l-kull bi-l-risālah maḥbūran [UNCLEAR: jāh is opaque; 'for all, with ",
+      "indonesian_evidence": "dengan nabi-Mu, kekasih-Mu, pilihan-Mu, dan yang Engkau pilih dari makhluk-Mu, Muhammad, semoga selawat dan salam tercurah kepadanya, jāh li-l-kull bi-l-risālah maḥbūran [UNCLEAR: jāh tidak jelas; 'ba"
+    }
+  ],
+  "findings": [],
+  "accepted_source_uncertainties": [
+    {
+      "source_lines": [
+        10
+      ],
+      "issue": "Descent/transcendence/command/existence/inwarddescriptionlinkageirregular; recoverablewordspreserved."
+    },
+    {
+      "source_lines": [
+        11
+      ],
+      "issue": "Unknown/ambiguityreferentsandlinkageunclear; multiplicitynotimpairingunityretained."
+    },
+    {
+      "source_lines": [
+        14
+      ],
+      "issue": "Specialeffusionlinkagewithprecedingmercyclauseunclear; noendandotherwordspreserved."
+    },
+    {
+      "source_lines": [
+        17
+      ],
+      "issue": "Printedtakunanopaque; notsilentlyemendedtoexpectedcreationnoun."
+    },
+    {
+      "source_lines": [
+        18
+      ],
+      "issue": "Printedraghnaopaque; notinventedselfsufficiencyreading."
+    },
+    {
+      "source_lines": [
+        19
+      ],
+      "issue": "Printedidhhulanopaque; notsilentlymadeknownmysticalformula."
+    },
+    {
+      "source_lines": [
+        20
+      ],
+      "issue": "Famalahufihiridaactor/linkageunclear; notunqualifieddivinesatisfaction."
+    },
+    {
+      "source_lines": [
+        23
+      ],
+      "issue": "Limit/counterpartalhaddwaladil intendedmetaphysicalsenseuncertain."
+    },
+    {
+      "source_lines": [
+        27
+      ],
+      "issue": "Servantazruwordmeaning/connectionunclear; servant/House/hisrequestretained."
+    },
+    {
+      "source_lines": [
+        28
+      ],
+      "issue": "Qablamubasharatihalmatlubactor/linkageunclear; BEFOREandrequestedpreserved."
+    },
+    {
+      "source_lines": [
+        30
+      ],
+      "issue": "PrintedrepentedTOITanomalousrelation; notsilentlyFROMIT."
+    },
+    {
+      "source_lines": [
+        33
+      ],
+      "issue": "Printedjāhopaque, notjāʾa; forall/message/gladdenedrecoverableendingpreservedwithoutcompletion."
+    }
+  ],
+  "uncertainty_markers_per_language": {
+    "en": 12,
+    "id": 12
+  },
+  "review_basis": "Parent independently read allcompleteactualcanonical/English/Indonesianfilesdirectlyfromdisk, separatelycomparingeachlanguageagainstArabic. Parentdidnotauthororrepairtargetprose. No humanrevieworexternalreligiousauthenticationclaimed.",
+  "summary": "APPROVEDfrozenR1Legacy604V2physical117after33source-positionreview. Anomalousfolio11not111,blank2,numeralpositions[11]/[3]/[70,70]/[70,7],wordtwo-rakahquantity,EVERY/OR/THEN/AFTER/UNTIL/ESPECIALLYconditions,4basmalas,orderedNamesandrequests,2fullpropheticblessingsplusdistinctfamily/companionsblessing29,2literalstars,unclosedparenthesis21,12localizedsourceuncertaintiesandopaquefinalfragmentreviewedandpreserved. Sourceclaimsattributednotendorsed; unlawfulrequestprohibitionretained. All604sources/metadata,603otherrecordsandprotectedWIPunchanged;348tests+49subtestspassed;116acceptedplus117validated.",
+  "reviewed_utc": "2026-11-10T02:17:29.237494+00:00"
+}
