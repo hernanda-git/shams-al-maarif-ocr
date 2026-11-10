@@ -1,0 +1,44 @@
+{
+  "page": 123,
+  "revision": "r1",
+  "passed": false,
+  "verdict": "REWORK",
+  "reviewer_id": "sa-0-18e7d0bd",
+  "translator_id": "sa-0-423ef36a",
+  "source_hashes": {
+    "ocr/enriched/page_123.txt": "d58074581524d142f312bd0e6c7681076587c9f9e214879063b8966bd5cae901",
+    "ocr/enriched_en/page_123.txt": "5c3853496d972c7d0c76c16b8eb837ed3f83482f8710afed14cfbadfd2df0415",
+    "ocr/enriched_id/page_123.txt": "adea1aa2941b1a5005a8a23f3caa5347939b9c8b3075b34ab7581100ad6a7beb",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "3f936278e5c9aa768af6fc20d6a9f9e25e0de994f589f2be2e86261cbcbce692"
+  },
+  "findings": [
+    {
+      "id": "F01",
+      "source": "متوكئا على عشمي إنك قلت",
+      "finding": "Both bind the divine statement as object of hope; separate leaning on hope from subsequent indeed You said."
+    },
+    {
+      "id": "F02",
+      "source": "مستظهرا بظاهر الإخلاص من قيوميتك",
+      "finding": "Both represent awkward relationship with undue grammatical certainty; preserve literal components and qualify uncertain linkage."
+    },
+    {
+      "id": "F03",
+      "source": "ملق على ظهري في حمل السيئات الإساءة",
+      "finding": "Both present under burden relation with unwarranted certainty; preserve components and qualify relationship."
+    },
+    {
+      "id": "F04",
+      "source": "لا إله إلا أنت",
+      "finding": "English combines third-person relative and second-person address; render direct address clearly."
+    },
+    {
+      "id": "F05",
+      "source": "يفضحهم",
+      "finding": "Indonesian mempermalukan omits explicit exposure/disgrace dimension; retain exposure."
+    }
+  ],
+  "review_basis": "Independent reviewer reported full canonical source and complete both targets, including truncated line retrieved separately; identified five actionable issues; existing uncertainties for من لآئك and يفتون require preservation, and ending ومن remains unfinished. No approval or final tests.",
+  "reviewed_utc": "2026-11-10T05:04:03.658018+00:00"
+}

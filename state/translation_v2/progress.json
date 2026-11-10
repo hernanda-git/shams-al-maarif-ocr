@@ -3,7 +3,7 @@
   "total_pages": 604,
   "sequence_policy": "strict-lowest-uncommitted",
   "created_at": "2026-09-25T03:54:12+00:00",
-  "updated_at": "2026-11-10T04:18:53+00:00",
+  "updated_at": "2026-11-10T05:14:11+00:00",
   "active_page": null,
   "pages": {
     "1": {
@@ -3302,17 +3302,30 @@
     },
     "123": {
       "page": 123,
-      "status": "pending",
-      "attempts": 0,
-      "owner": null,
-      "claimed_at": null,
-      "heartbeat_at": null,
-      "review_submitted_at": null,
-      "reviewer": null,
-      "validator": null,
-      "last_error": null,
-      "commit_sha": null,
-      "committed_at": null
+      "status": "committed",
+      "attempts": 1,
+      "owner": "hermes-v2-p123-20261110",
+      "claimed_at": "2026-11-10T05:00:25+00:00",
+      "heartbeat_at": "2026-11-10T05:14:05+00:00",
+      "review_submitted_at": "2026-11-10T05:14:05+00:00",
+      "reviewer": "independent-model-sa-0-61587675",
+      "validator": {
+        "ok": true,
+        "page": 123,
+        "source_path": "C:/Working Folder/Research/shams-v2-recovery/20261110-page123/candidate-r2/ocr/enriched/page_123.txt",
+        "english_path": "C:/Working Folder/Research/shams-v2-recovery/20261110-page123/candidate-r2/ocr/enriched_en/page_123.txt",
+        "indonesian_path": "C:/Working Folder/Research/shams-v2-recovery/20261110-page123/candidate-r2/ocr/enriched_id/page_123.txt",
+        "json_path": "C:/Working Folder/Research/shams-v2-recovery/20261110-page123/candidate-r2/web/public/manuscript.json",
+        "blank_source": false,
+        "english_block": "— 117 —\n\n(And this is the supplication of the noble verse; you say:)\n\nIn the name of God, the Most Merciful, the Most Compassionate. O God, You are God, the King, the True, there is no deity but You: the One, the Unique, the Single, the Eternal, the Preserver, the Self-Sufficient, the Living, the Self-Subsisting, the King, the Bestower of favor, the One who sustains everything, the Most High, the Magnificent. Grant me an awe from Your majesty by which You shield me from harms and by which I gain joys; and by the secret with which Adam, peace be upon him, used to call upon You, and You taught him all the names, pour forth upon me, O God, [UNCLEAR: Your favors] that which will come between me and the wrongdoing people. You are the Master and I am among the servants; You are our Master and I am Your servant, so 'He' is said only of You, O God. O You whom neither slumber nor sleep overtakes, I ask You to grant me a good, blessed life therein. O Living One, through Your life, life has spread out and shone in every living being: grant me a good life in which no misfortune ever occurs. O Self-Subsisting One, and O You by whose overpowering might all the worlds stand, here I am before Your self-subsistence upon the carpet of fear, [UNCLEAR: clad] in modesty, veiled in hope, laid upon my back, [UNCLEAR: in bearing evil deeds], [UNCLEAR: wrongdoing], leaning on my hope; indeed, You said, and Your word is truth, 'Call upon Me; I will answer you.' I seek none but You and hope in none other than You, certain that none but You can deliver me from what I am in, seeking an answer, [UNCLEAR: drawing support from the outward manifestation of sincerity from Your self-subsistence]. O Subduer, subdue whoever wishes to overpower me with a subjugation that prevents him from acting over his own self, as a favor from You to me. O You whom neither slumber nor sleep overtakes, whoever intends evil for me, shield me from him and deny him slumber and sleep, and make the earth narrow for him despite its vastness, not with prosperity that gladdens him but with adversity that harms him, and occupy him with the evil of the wicked, for the truth is not hidden from You. O God, 3 O Possessor of the heavens and the earth and whatever is in them and between them, do not give my enemies or anyone who would harm me power over me, O God. Here I am, Your servant, wronged, Your poor and weak servant. Pour forth, O God, and let down Your favors upon me as a covering with which I may enter among Your friends upon the carpet of Your holiness and Your intimate fellowship. O You with whom none intercedes except by His permission, I seek intercession through the revelation upon the tongues of the prophets, blessings and peace be upon them, and through Your chosen ones among Your creation, that You protect me from all misfortunes, afflictions, and harms. I ask You, my Master, to grant me victory over whoever wrongs me, and to rout for me whoever confronts me, and to subdue whoever opposes me, and to forsake my enemies and restrain them wherever they gather, and to curse them and expose them wherever they disperse, and to cut them off and annihilate them wherever they join together, and to make them wander blindly in darkness and [UNCLEAR: be put to trial in humiliation], and whoever...",
+        "indonesian_block": "— 117 —\n\n(Dan inilah doa ayat yang mulia; engkau mengucapkan:)\n\nDengan nama Allah Yang Maha Pengasih, Maha Penyayang. Ya Allah, sesungguhnya Engkaulah Allah, Raja Yang Benar, yang tiada tuhan selain Engkau: Yang Maha Esa, Yang Tunggal, Yang Sendiri, Yang Terdahulu, Yang Maha Memelihara, tempat bergantung segala sesuatu, Yang Mahahidup, Yang Berdiri Sendiri, Raja Yang Melimpahkan Karunia, Penegak segala sesuatu, Yang Mahatinggi, Yang Mahaagung. Anugerahkan kepadaku kewibawaan dari keagungan-Mu yang dengannya Engkau menghalangi bahaya dariku dan dengannya aku memperoleh kegembiraan; dan demi rahasia yang dengannya Adam, semoga keselamatan atasnya, dahulu berdoa kepada-Mu, dan Engkau mengajarinya semua nama, limpahkanlah kepadaku, ya Allah, [UNCLEAR: karunia-karunia-Mu] yang akan menjadi penghalang antara aku dan kaum yang zalim. Sesungguhnya Engkaulah Pelindung dan aku termasuk para hamba; Engkau Pelindung kami dan aku hamba-Mu, maka sebutan 'Dia' tidak dikatakan kecuali bagi-Mu, ya Allah. Wahai Yang tidak diliputi kantuk maupun tidur, aku memohon agar Engkau memberiku kehidupan yang baik dan diberkahi di dalamnya. Wahai Yang Mahahidup, dengan kehidupan-Mu kehidupan terbentang dan memancar pada setiap yang hidup: hidupkanlah aku dengan kehidupan yang baik, yang di dalamnya tidak pernah terjadi hal yang tidak disukai. Wahai Yang Berdiri Sendiri, dan wahai Yang dengan kekuasaan penakluk-Mu seluruh alam tegak, inilah aku di hadapan kemandirian-Mu di atas hamparan rasa takut, [UNCLEAR: berselimut] rasa malu, berselubung harapan, terbaring telentang, [UNCLEAR: dalam memikul perbuatan buruk], [UNCLEAR: perbuatan jahat], bersandar pada harapanku; sesungguhnya Engkau telah berfirman, dan firman-Mu adalah kebenaran, 'Berdoalah kepada-Ku; Aku akan mengabulkan kalian.' Aku tidak mencari selain Engkau dan tidak berharap kepada selain-Mu, yakin bahwa tidak ada yang dapat menyelamatkanku dari keadaanku ini kecuali Engkau, sambil memohon pengabulan dan [UNCLEAR: mencari dukungan dari yang tampak dari keikhlasan dari kemandirian-Mu]. Wahai Yang Maha Menundukkan, tundukkanlah siapa pun yang hendak menundukkanku dengan penundukan yang menghalanginya bertindak atas dirinya sendiri, sebagai karunia-Mu kepadaku. Wahai Yang tidak diliputi kantuk maupun tidur, siapa pun yang menghendaki keburukan bagiku, halangilah aku darinya dan cegahlah dia dari kantuk dan tidur, dan sempitkanlah bumi baginya sekalipun luas, bukan dengan kesenangan yang menggembirakannya, melainkan dengan kesusahan yang mencelakakannya, dan sibukkanlah dia dengan kejahatan orang-orang jahat, karena kebenaran tidak tersembunyi dari-Mu. Ya Allah, 3 wahai Pemilik langit dan bumi serta apa yang ada di dalam keduanya dan di antara keduanya, janganlah Engkau, ya Allah, menyerahkan diriku ke dalam kekuasaan musuh-musuhku atau siapa pun yang mencelakaiku. Inilah aku, hamba-Mu yang dizalimi, hamba-Mu yang fakir dan lemah. Limpahkanlah, ya Allah, dan turunkanlah karunia-karunia-Mu kepadaku sebagai selubung yang dengannya aku dapat masuk bersama para kekasih-Mu ke atas hamparan kesucian dan keakraban-Mu. Wahai Yang di sisi-Nya tidak ada yang memberi syafaat kecuali dengan izin-Nya, aku memohon syafaat melalui wahyu yang berada pada lisan para nabi, semoga selawat dan salam tercurah kepada mereka, dan melalui pilihan-Mu di antara makhluk-Mu, agar Engkau melindungiku dari segala hal yang tidak disukai, bencana, dan bahaya. Aku memohon kepada-Mu, wahai Pelindungku, agar Engkau menolongku menghadapi orang yang menzalimiku, dan mengalahkan bagiku orang yang menantangku, dan menundukkan orang yang menghadangku, dan membiarkan musuh-musuhku tanpa pertolongan serta menahan mereka di mana pun mereka berkumpul, dan melaknat serta menyingkap dan mempermalukan mereka di mana pun mereka berpencar, dan memutuskan serta membinasakan mereka di mana pun mereka bersatu, dan menjadikan mereka terombang-ambing dalam kegelapan dan [UNCLEAR: mengalami cobaan dalam kehinaan], dan siapa pun yang...",
+        "record_found": true,
+        "errors": [],
+        "warnings": []
+      },
+      "last_error": "Five source-anchored F01-F05 issues; repair both languages, preserve remaining text and perform fresh independent full review",
+      "commit_sha": "a418d2c6913b1f41d7476e5de852b614035361b0",
+      "committed_at": "2026-11-10T05:14:11+00:00"
     },
     "124": {
       "page": 124,

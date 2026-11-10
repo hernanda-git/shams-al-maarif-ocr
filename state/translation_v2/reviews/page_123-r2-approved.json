@@ -1,0 +1,342 @@
+{
+  "page": 123,
+  "passed": true,
+  "verdict": "APPROVED",
+  "reviewer_role": "independent-model-semantic-reviewer",
+  "reviewer_id": "sa-0-61587675",
+  "translator_ids": [
+    "sa-0-423ef36a",
+    "sa-0-93b8d750"
+  ],
+  "source_hashes": {
+    "ocr/enriched/page_123.txt": "d58074581524d142f312bd0e6c7681076587c9f9e214879063b8966bd5cae901",
+    "ocr/enriched_en/page_123.txt": "c4bc0abf4bb0b5db0d5cc04b59e0f088d7e117f0be6baa383f1bc05a0f9ad790",
+    "ocr/enriched_id/page_123.txt": "bb03d2ad60cd419b7c210f801b5eb8e3b8fc864cc8265a7437a5718a59722f6d",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "289b36a2a729787ebc794d553fb90158fccd2c80e1b48b02be5b89304a7eafd3"
+  },
+  "coverage": [
+    {
+      "id": "R2-01",
+      "source_lines": [
+        1
+      ],
+      "check": "Folio and dash",
+      "source_evidence": "١١٧",
+      "english_evidence": "117",
+      "indonesian_evidence": "117",
+      "passed": true
+    },
+    {
+      "id": "R2-02",
+      "source_lines": [
+        2
+      ],
+      "check": "Blank retained",
+      "source_evidence": "(blank)",
+      "english_evidence": "(blank)",
+      "indonesian_evidence": "(blank)",
+      "passed": true
+    },
+    {
+      "id": "R2-03",
+      "source_lines": [
+        3
+      ],
+      "check": "Heading supplication of noble verse",
+      "source_evidence": "دعاء الآية الشريفة",
+      "english_evidence": "supplication of the noble verse",
+      "indonesian_evidence": "doa ayat yang mulia",
+      "passed": true
+    },
+    {
+      "id": "R2-04",
+      "source_lines": [
+        4
+      ],
+      "check": "Blank retained",
+      "source_evidence": "(blank)",
+      "english_evidence": "(blank)",
+      "indonesian_evidence": "(blank)",
+      "passed": true
+    },
+    {
+      "id": "R2-05",
+      "source_lines": [
+        5
+      ],
+      "check": "Divine names and direct address",
+      "source_evidence": "لا إله إلا أنت",
+      "english_evidence": "there is no deity but You",
+      "indonesian_evidence": "tiada tuhan selain Engkau",
+      "passed": true
+    },
+    {
+      "id": "R2-06",
+      "source_lines": [
+        5
+      ],
+      "check": "Awe and Adam taught all names",
+      "source_evidence": "وعلمته الأسماء كلها",
+      "english_evidence": "You taught him all the names",
+      "indonesian_evidence": "Engkau mengajarinya semua nama",
+      "passed": true
+    },
+    {
+      "id": "R2-07",
+      "source_lines": [
+        5
+      ],
+      "check": "Uncertain favors protection from wrongdoers",
+      "source_evidence": "من لآئك",
+      "english_evidence": "[UNCLEAR: Your favors]",
+      "indonesian_evidence": "[UNCLEAR: karunia-karunia-Mu]",
+      "passed": true
+    },
+    {
+      "id": "R2-08",
+      "source_lines": [
+        5
+      ],
+      "check": "Master servant and exclusive He",
+      "source_evidence": "فلا يقال هو إلا لك",
+      "english_evidence": "'He' is said only of You",
+      "indonesian_evidence": "sebutan 'Dia' tidak dikatakan kecuali bagi-Mu",
+      "passed": true
+    },
+    {
+      "id": "R2-09",
+      "source_lines": [
+        5
+      ],
+      "check": "Neither slumber nor sleep and good life",
+      "source_evidence": "لا تأخذه سنة ولا نوم",
+      "english_evidence": "neither slumber nor sleep",
+      "indonesian_evidence": "tidak diliputi kantuk maupun tidur",
+      "passed": true
+    },
+    {
+      "id": "R2-10",
+      "source_lines": [
+        5
+      ],
+      "check": "Living and life free of misfortune",
+      "source_evidence": "لا يقع فيها مكروه أبدا",
+      "english_evidence": "no misfortune ever occurs",
+      "indonesian_evidence": "tidak pernah terjadi hal yang tidak disukai",
+      "passed": true
+    },
+    {
+      "id": "R2-11",
+      "source_lines": [
+        5
+      ],
+      "check": "Self subsistence fear modesty and uncertain burdens",
+      "source_evidence": "في حمل السيئات الإساءة",
+      "english_evidence": "[UNCLEAR: in bearing evil deeds]",
+      "indonesian_evidence": "[UNCLEAR: dalam memikul perbuatan buruk]",
+      "passed": true
+    },
+    {
+      "id": "R2-12",
+      "source_lines": [
+        5
+      ],
+      "check": "Hope separate from statement and quotation",
+      "source_evidence": "ادعوني أستجب لكم",
+      "english_evidence": "leaning on my hope; indeed, You said",
+      "indonesian_evidence": "bersandar pada harapanku; sesungguhnya Engkau telah berfirman",
+      "passed": true
+    },
+    {
+      "id": "R2-13",
+      "source_lines": [
+        5
+      ],
+      "check": "Exclusive hope and uncertain sincerity linkage",
+      "source_evidence": "مستظهرا بظاهر الإخلاص من قيوميتك",
+      "english_evidence": "[UNCLEAR: drawing support",
+      "indonesian_evidence": "[UNCLEAR: mencari dukungan",
+      "passed": true
+    },
+    {
+      "id": "R2-14",
+      "source_lines": [
+        5
+      ],
+      "check": "Subjugation of aggressor acting on self",
+      "source_evidence": "يمنعه من التصرف في نفسه",
+      "english_evidence": "prevents him from acting over his own self",
+      "indonesian_evidence": "menghalanginya bertindak atas dirinya sendiri",
+      "passed": true
+    },
+    {
+      "id": "R2-15",
+      "source_lines": [
+        5
+      ],
+      "check": "Evil intentions slumber sleep narrow earth adversity",
+      "source_evidence": "وضيق عليه الأرض بما رحبت",
+      "english_evidence": "make the earth narrow for him despite its vastness",
+      "indonesian_evidence": "sempitkanlah bumi baginya sekalipun luas",
+      "passed": true
+    },
+    {
+      "id": "R2-16",
+      "source_lines": [
+        5
+      ],
+      "check": "Evil of wicked and divine knowledge",
+      "source_evidence": "واشغله بشر الأشرار",
+      "english_evidence": "occupy him with the evil of the wicked",
+      "indonesian_evidence": "sibukkanlah dia dengan kejahatan orang-orang jahat",
+      "passed": true
+    },
+    {
+      "id": "R2-17",
+      "source_lines": [
+        5
+      ],
+      "check": "Internal digit and heavens and earth",
+      "source_evidence": "يا الله ٣ يا مالك",
+      "english_evidence": "O God, 3 O Possessor",
+      "indonesian_evidence": "Ya Allah, 3 wahai Pemilik",
+      "passed": true
+    },
+    {
+      "id": "R2-18",
+      "source_lines": [
+        5
+      ],
+      "check": "Protection from enemies and wronged weak servant",
+      "source_evidence": "ولا تملكني اللهم لأعدائي",
+      "english_evidence": "do not give my enemies",
+      "indonesian_evidence": "menyerahkan diriku ke dalam kekuasaan musuh-musuhku",
+      "passed": true
+    },
+    {
+      "id": "R2-19",
+      "source_lines": [
+        5
+      ],
+      "check": "Favors covering and divine friends",
+      "source_evidence": "وأسدل علي آلاءك سترا",
+      "english_evidence": "let down Your favors upon me as a covering",
+      "indonesian_evidence": "turunkanlah karunia-karunia-Mu kepadaku sebagai selubung",
+      "passed": true
+    },
+    {
+      "id": "R2-20",
+      "source_lines": [
+        5
+      ],
+      "check": "Intercession with permission revelation prophets chosen",
+      "source_evidence": "استشفعت بالوحي",
+      "english_evidence": "I seek intercession through the revelation",
+      "indonesian_evidence": "aku memohon syafaat melalui wahyu",
+      "passed": true
+    },
+    {
+      "id": "R2-21",
+      "source_lines": [
+        5
+      ],
+      "check": "Protect from misfortunes afflictions harms",
+      "source_evidence": "جميع المكروهات والآفات والمضرات",
+      "english_evidence": "all misfortunes, afflictions, and harms",
+      "indonesian_evidence": "segala hal yang tidak disukai, bencana, dan bahaya",
+      "passed": true
+    },
+    {
+      "id": "R2-22",
+      "source_lines": [
+        5
+      ],
+      "check": "Victory rout subdue opponents",
+      "source_evidence": "وأن تهزم لي من بارزني",
+      "english_evidence": "rout for me whoever confronts me",
+      "indonesian_evidence": "mengalahkan bagiku orang yang menantangku",
+      "passed": true
+    },
+    {
+      "id": "R2-23",
+      "source_lines": [
+        5
+      ],
+      "check": "Forsake restrain wherever gathered",
+      "source_evidence": "وتمنعهم أينما اجتمعوا",
+      "english_evidence": "restrain them wherever they gather",
+      "indonesian_evidence": "menahan mereka di mana pun mereka berkumpul",
+      "passed": true
+    },
+    {
+      "id": "R2-24",
+      "source_lines": [
+        5
+      ],
+      "check": "Curse and expose wherever dispersed",
+      "source_evidence": "وتفضحهم أينما افترقوا",
+      "english_evidence": "expose them wherever they disperse",
+      "indonesian_evidence": "menyingkap dan mempermalukan mereka di mana pun mereka berpencar",
+      "passed": true
+    },
+    {
+      "id": "R2-25",
+      "source_lines": [
+        5
+      ],
+      "check": "Cut and annihilate wherever joined",
+      "source_evidence": "وتفنيهم أينما اتصلوا",
+      "english_evidence": "annihilate them wherever they join together",
+      "indonesian_evidence": "membinasakan mereka di mana pun mereka bersatu",
+      "passed": true
+    },
+    {
+      "id": "R2-26",
+      "source_lines": [
+        5
+      ],
+      "check": "Darkness uncertain humiliation and unfinished ending",
+      "source_evidence": "وعلى الذلة يفتون ومن",
+      "english_evidence": "[UNCLEAR: be put to trial in humiliation], and whoever...",
+      "indonesian_evidence": "[UNCLEAR: mengalami cobaan dalam kehinaan], dan siapa pun yang...",
+      "passed": true
+    }
+  ],
+  "findings": [],
+  "accepted_source_uncertainties": [
+    {
+      "english_note": "Your favors",
+      "indonesian_note": "karunia-karunia-Mu",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "english_note": "clad",
+      "indonesian_note": "berselimut",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "english_note": "in bearing evil deeds",
+      "indonesian_note": "dalam memikul perbuatan buruk",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "english_note": "wrongdoing",
+      "indonesian_note": "perbuatan jahat",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "english_note": "drawing support from the outward manifestation of sincerity from Your self-subsistence",
+      "indonesian_note": "mencari dukungan dari yang tampak dari keikhlasan dari kemandirian-Mu",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "english_note": "be put to trial in humiliation",
+      "indonesian_note": "mengalami cobaan dalam kehinaan",
+      "accepted_as_source_uncertainty": true
+    }
+  ],
+  "review_basis": "Independent reviewer sa-0-61587675 reports complete read of canonical OCR and both actual targets at these exact hashes, and no clear semantic error; coordinator separately read full source and complete target passages and assembled evidence excerpts. OCR uncertain readings not verified against scan.",
+  "summary": "Complete source-bound independent model review found no clear semantic omission after five R1 repairs. Six localized uncertain readings retained in each target; abrupt ending and source digit preserved.",
+  "reviewed_utc": "2026-11-10T05:11:06.410494+00:00"
+}

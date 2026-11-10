@@ -1,0 +1,30 @@
+{
+  "page": 123,
+  "status": "committed",
+  "base_head": "a192efa78bff6b06777fb61f5325331dfb93f249",
+  "content_commit": "a418d2c6913b1f41d7476e5de852b614035361b0",
+  "editorial_integration_commit": "7d9814745e131b43eb802b21488a97c4ea07e7d3",
+  "review_sha256": "c407e29a032e2e55263ce307490b58ced1c7f231af0681f5eb16a2602cfcedda",
+  "review_coverage_items": 26,
+  "accepted_source_uncertainties": 6,
+  "content_hashes": {
+    "ocr/enriched/page_123.txt": "d58074581524d142f312bd0e6c7681076587c9f9e214879063b8966bd5cae901",
+    "ocr/enriched_en/page_123.txt": "c4bc0abf4bb0b5db0d5cc04b59e0f088d7e117f0be6baa383f1bc05a0f9ad790",
+    "ocr/enriched_id/page_123.txt": "bb03d2ad60cd419b7c210f801b5eb8e3b8fc864cc8265a7437a5718a59722f6d",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "289b36a2a729787ebc794d553fb90158fccd2c80e1b48b02be5b89304a7eafd3"
+  },
+  "counts": {
+    "committed": 123,
+    "pending": 481
+  },
+  "next_page": 124,
+  "worker_lock": null,
+  "new_editorial_pages": [],
+  "tests": "....................... [  6%]\r\n........................................................................ [ 27%]\r\n........................................................................ [ 47%]\r\n........................................................................ [ 68%]\r\n........................................................................ [ 89%]\r\n.....................................                                    [100%]\r\n348 passed, 49 subtests passed in 112.00s (0:01:51)",
+  "accepted_sweep": "122 previously accepted plus current123 pass",
+  "deployment": "Not authorized; [skip ci] used; push deploy workflow inspected; preflight hooks/deployments absent; pre-existing PDF-commit deploy run failed; exact-head observations follow push",
+  "authority": "Standing sequential V2 commits/pushes; no deployment, V3/PDF, or model/provider changes.",
+  "publication": "Prepared for push; exact remote SHA/API readback persisted externally in publication-journal.json",
+  "local_approval_receipt": "Earlier local approval audit is preserved as historical prepublication evidence."
+}
