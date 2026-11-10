@@ -1,0 +1,503 @@
+{
+  "page": 116,
+  "passed": false,
+  "verdict": "REWORK",
+  "reviewer_role": "independent-model-semantic-reviewer",
+  "reviewer_id": "parent-coordinator-resumed",
+  "translator_ids": [
+    "sa-0-2388f6cb"
+  ],
+  "source_hashes": {
+    "ocr/enriched/page_116.txt": "06adc39df9ced5def54e347cc984b86b9b4f50c1563c4e4b8c2930c4a69ebdcc",
+    "ocr/enriched_en/page_116.txt": "90a919d57a971c18cdfbf2f1ac6791bebb29dd1bf373e816cc8692f4da2fec17",
+    "ocr/enriched_id/page_116.txt": "60fe378e3e154d5759711dea84ceb91edbdd562990db63003e8e1e4ef1d6f0a2",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "5f2d7c91040a8873f4106c34c81bd1fd7c311a5aa472e3ff6bd44bcee1f01f85"
+  },
+  "coverage": [
+    {
+      "id": "R1-L01",
+      "source_lines": [
+        1
+      ],
+      "check": "Folio110/em-dashes/Latin digits.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "— 110 —",
+      "indonesian_evidence": "— 110 —"
+    },
+    {
+      "id": "R1-L02",
+      "source_lines": [
+        2
+      ],
+      "check": "Onlysourceblankposition2 retained.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "(blank retained)",
+      "indonesian_evidence": "(baris kosong)"
+    },
+    {
+      "id": "R1-L03",
+      "source_lines": [
+        3
+      ],
+      "check": "Supplicationcontinuation attributednotendorsed; darkness/respite qualified, abasementtested, passfromblessing; neithersecret norpublicuprightness.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "The continuing supplication reads: and that You make them \"toward the darkness, granted respite\" [UNCLEAR: the reading of al-ẓulmah and its connection to being granted respite], tried in abasement, an",
+      "indonesian_evidence": "Lanjutan doa dalam teks berbunyi: dan agar Engkau menjadikan mereka \"menuju kegelapan, diberi penangguhan\" [UNCLEAR: pembacaan al-ẓulmah dan kaitannya dengan pemberian penangguhan], diuji dalam kehina"
+    },
+    {
+      "id": "R1-L04",
+      "source_lines": [
+        4
+      ],
+      "check": "Publiccontinuation, neitherhonor norreward, neitherhelp norpatience, sendpunishmentaboveandbelowcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "openly, and gain neither honor nor reward, and can obtain neither victory nor patience. Send upon them punishment from above them and from",
+      "indonesian_evidence": "terang-terangan, tidak memperoleh kemuliaan ataupun pahala, dan tidak sanggup mendapatkan pertolongan ataupun kesabaran. Kirimkanlah kepada mereka azab dari atas mereka dan dari"
+    },
+    {
+      "id": "R1-L05",
+      "source_lines": [
+        5
+      ],
+      "check": "Belowfeet, factions, someexperienceothersviolence, BOTHfirewoodpronounsqualified, burnheartsawayfromuprightnesscontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "beneath their feet; clothe them in factions, let some of them taste the violence of others, and make them firewood for them [UNCLEAR: whether the two pronouns refer to the same people]; burn their hea",
+      "indonesian_evidence": "bawah kaki mereka; selubungilah mereka dengan perpecahan menjadi golongan-golongan, biarkan sebagian mereka merasakan kekerasan sebagian yang lain, dan jadikanlah mereka kayu bakar bagi mereka [UNCLEA"
+    },
+    {
+      "id": "R1-L06",
+      "source_lines": [
+        6
+      ],
+      "check": "Uprightness, ABUNDANTwaternotnormalizedtoscarcewater, possessionsonearthbarrenground, gardenheavenlycalamitycontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "uprightness, give them abundant water to drink, make what they possess upon the earth barren ground, and send down upon their gardens a calamity from",
+      "indonesian_evidence": "kelurusan, berilah mereka minum air yang berlimpah, jadikanlah milik mereka di bumi tanah tandus, dan turunkanlah atas kebun-kebun mereka bencana dari"
+    },
+    {
+      "id": "R1-L07",
+      "source_lines": [
+        7
+      ],
+      "check": "Heaven/gardensslippery ORwaterrecedes, secondpersonsingularnotquietlymadeplural/unknownaddresseequalified; doNOTrepaircondition, makethemcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "the sky, so that they become slippery ground, or their water sinks away, so that you, the one addressed, will never be able to seek it [UNCLEAR: the identity of this singular addressee]. Do not set th",
+      "indonesian_evidence": "langit sehingga menjadi tanah licin, atau airnya meresap jauh sehingga engkau, orang yang disapa, tidak akan sanggup mencarinya [UNCLEAR: siapa yang disapa dalam bentuk tunggal ini]. Janganlah Engkau "
+    },
+    {
+      "id": "R1-L08",
+      "source_lines": [
+        8
+      ],
+      "check": "Greatestlossindeeds; NOTraisehead/fearful/incompletebimaretainedandqualified/treacherous, allrequestsretained.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "among those whose deeds are the greatest loss; do not raise a head for them, make them among the fearful, and do not supply them \"bi-mā\" [UNCLEAR: whether mā means what or an unfinished reference to w",
+      "indonesian_evidence": "termasuk orang-orang yang paling merugi amalnya; janganlah Engkau mengangkat kepala bagi mereka, jadikanlah mereka termasuk orang-orang yang ketakutan, dan janganlah Engkau menyokong mereka \"bi-mā\" [U"
+    },
+    {
+      "id": "R1-L09",
+      "source_lines": [
+        9
+      ],
+      "check": "Neitherfood nordrink; earthnorbackrestingretainedandqualified; frontandbackbarrierscontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "unable to eat or drink, finding no rest, \"earth nor back\" [UNCLEAR: how earth and back relate to resting]. Place a barrier before them and behind them",
+      "indonesian_evidence": "yang tidak mampu makan ataupun minum, dan tidak beristirahat, \"tanah ataupun punggung\" [UNCLEAR: hubungan tanah dan punggung dengan beristirahat]. Jadikanlah di hadapan mereka penghalang dan di belaka"
+    },
+    {
+      "id": "R1-L10",
+      "source_lines": [
+        10
+      ],
+      "check": "Rearbarrier, rightandleftTWOramparts, overheadrock/underfootroughness, opaqueLAYALIDLAHUMcontinuesnotinventedverb.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "a barrier, a rampart on their right and a rampart on their left, rock upon their head and rugged ground beneath their feet, so that \"lā yalid lahum\"",
+      "indonesian_evidence": "penghalang, di sebelah kanan mereka tanggul dan di sebelah kiri mereka tanggul, di atas kepala mereka batu dan di bawah kaki mereka tanah terjal, agar \"lā yalid lahum\""
+    },
+    {
+      "id": "R1-L11",
+      "source_lines": [
+        11
+      ],
+      "check": "Mashyanwalking/unknownactorandmeaning, laraseeingeyeunknownrelation, layahillgoodunknownsense; allthreeopaquephrasesqualified, neckshacklesanddragchainsfetterscontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "\"mashyan\" [UNCLEAR: lā yalid lahum mashyan has an uncertain actor and meaning; mashyan denotes walking]; and \"lā tara lahum 'aynan\" [UNCLEAR: the addressed seeing, an eye, and their relation to them a",
+      "indonesian_evidence": "\"mashyan\" [UNCLEAR: pelaku dan makna lā yalid lahum mashyan tidak jelas; mashyan berarti berjalan]; dan \"lā tara lahum 'aynan\" [UNCLEAR: hubungan tindakan melihat oleh pihak yang disapa, mata, dan mer"
+    },
+    {
+      "id": "R1-L12",
+      "source_lines": [
+        12
+      ],
+      "check": "FeetANDlegs/humiliation, SECONDneckshackles, enemiesatheels, akhtimindwellingsunknownfirstpersonorimperative/unspecifiedsealedobjectqualified.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "their feet and legs, in humiliation, with shackles around their necks and enemies at their heels; and \"akhtim in the dwellings\" [UNCLEAR: whether this is an order to seal or a first-person statement; ",
+      "indonesian_evidence": "telapak kaki dan tungkai mereka dengan kehinaan, dengan belenggu pada leher mereka dan musuh-musuh di belakang tumit mereka; dan \"akhtim di tempat-tempat tinggal\" [UNCLEAR: apakah ini perintah untuk m"
+    },
+    {
+      "id": "R1-L13",
+      "source_lines": [
+        13
+      ],
+      "check": "NOTprosper, reversespeechNOTguided, invertspiritsNOTwitness, despairingpsychespurposecontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "they do not prosper. Reverse their speech so that they are not guided, turn their spirits upside down so that they do not bear witness, and plunge their souls into despair so that",
+      "indonesian_evidence": "mereka tidak berhasil. Balikkanlah perkataan mereka agar mereka tidak mendapat petunjuk, jungkirbalikkanlah roh mereka agar mereka tidak bersaksi, dan buatlah jiwa mereka berputus asa agar"
+    },
+    {
+      "id": "R1-L14",
+      "source_lines": [
+        14
+      ],
+      "check": "NOTable, seizeheartsNOTunderstand,deafenearsNOThear,effaceeyescontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "they have no power. Seize their hearts so that they do not understand, deafen their ears so that they do not hear, and efface their eyes",
+      "indonesian_evidence": "mereka tidak berdaya. Cengkeramlah hati mereka agar mereka tidak memahami, pekakkanlah telinga mereka agar mereka tidak mendengar, dan hapuskanlah penglihatan mata mereka"
+    },
+    {
+      "id": "R1-L15",
+      "source_lines": [
+        15
+      ],
+      "check": "NOTsee, sealmouthsNOTspeak, transforminplaceNOTadvancecontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "so that they do not see. Seal their mouths so that they do not speak, and transform them in their place so that they can neither go forward",
+      "indonesian_evidence": "agar mereka tidak melihat. Segellah mulut mereka agar mereka tidak berbicara, dan ubahlah wujud mereka di tempat mereka agar mereka tidak mampu berjalan maju"
+    },
+    {
+      "id": "R1-L16",
+      "source_lines": [
+        16
+      ],
+      "check": "NORreturnfamilies; first8NamesCompeller,SupremelyGreat,Controller,Helper,Strong,Victor,AllSubduing,Humiliator.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "nor return to their families. Indeed, You are the Compeller, the Supremely Great, the Controller, the Helper, the Strong, the Victor, the All-Subduing, the Humiliator,",
+      "indonesian_evidence": "ataupun kembali kepada keluarga mereka. Sesungguhnya Engkaulah Yang Maha Memaksa, Yang Mahabesar, Yang Mengendalikan, Yang Menolong, Yang Mahakuat, Yang Mengalahkan, Yang Maha Menundukkan, Yang Menghi"
+    },
+    {
+      "id": "R1-L17",
+      "source_lines": [
+        17
+      ],
+      "check": "Next9NamesAvenger,Destroyer,Severe,Forsaker,Delayer,Withholder,Abaser,BringerHarm,Crusher; PossessorMajestyHonor.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "the Avenger, the Destroyer, the Severe, the Forsaker, the Delayer, the Withholder, the Abaser, the Bringer of Harm, the Crusher, the Possessor of Majesty and Honor,",
+      "indonesian_evidence": "Yang Membalas, Yang Membinasakan, Yang Keras, Yang Membiarkan Tanpa Pertolongan, Yang Mengakhirkan, Yang Menahan, Yang Merendahkan, Yang Mendatangkan Mudarat, Yang Mematahkan, Pemilik Keagungan dan Ke"
+    },
+    {
+      "id": "R1-L18",
+      "source_lines": [
+        18
+      ],
+      "check": "Protector,Magnificent,Trustee,Majestic,AllEncompassing,PossessorPower/Firm,PossessorSevereMight,PossessorGloriousThrone; allfurtherepithets.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "the Protector, the Magnificent, the Trustee, the Majestic, the All-Encompassing, the Possessor of Power, the Firm, the Possessor of Severe Might, the Possessor of the Glorious Throne,",
+      "indonesian_evidence": "Yang Melindungi, Yang Mahaagung, Yang Menjadi Tempat Berserah, Yang Mahaluhur, Yang Maha Meliputi, Pemilik Kekuatan, Yang Mahakukuh, Pemilik Hantaman yang Dahsyat, Pemilik Arasy yang Mulia,"
+    },
+    {
+      "id": "R1-L19",
+      "source_lines": [
+        19
+      ],
+      "check": "DoerwhateverHewills; Godsealedhearts/hearing/eyescovering/greatpunishment; Godmockscontinuation. Divineversusouterattributionclear.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "the Doer of whatever He wills. \"God has sealed their hearts and their hearing; over their eyes is a covering, and theirs is a tremendous punishment. God mocks",
+      "indonesian_evidence": "Yang Melakukan Apa yang Dia Kehendaki. \"Allah telah menyegel hati dan pendengaran mereka; pada mata mereka ada penutup, dan bagi mereka azab yang besar. Allah memperolok-olok"
+    },
+    {
+      "id": "R1-L20",
+      "source_lines": [
+        20
+      ],
+      "check": "Them/persistblindtransgression; deafmuteblindNOTreturn; ORrainstormheavendarknesscontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "them and lets them persist in their transgression, wandering blindly. Deaf, mute, blind: they do not return. Or like a rainstorm from the sky containing darkness,",
+      "indonesian_evidence": "mereka dan membiarkan mereka terus dalam kedurhakaan, terombang-ambing tanpa melihat. Tuli, bisu, buta, maka mereka tidak kembali. Atau seperti hujan deras dari langit yang mengandung kegelapan,"
+    },
+    {
+      "id": "R1-L21",
+      "source_lines": [
+        21
+      ],
+      "check": "Thunder/lightning; Godpowerfulnotaddedallthings; abasementWHEREVERfoundEXCEPTbondGodANDpeople; incurredwrathcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "thunder, and lightning. God is powerful. Abasement is laid upon them wherever they are found, except through a bond from God and a bond from people. They have incurred wrath",
+      "indonesian_evidence": "guruh, dan kilat. Allah Mahakuasa. Kehinaan ditimpakan kepada mereka di mana pun mereka ditemukan, kecuali dengan ikatan dari Allah dan ikatan dari manusia. Mereka menanggung kemurkaan"
+    },
+    {
+      "id": "R1-L22",
+      "source_lines": [
+        22
+      ],
+      "check": "FromGod/destitution; disbelieversSAYtomessengersweexpelyoufromOURlandORreturnreligion. Unlessrenderingretainsalternativeconditionalforce.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "from God, and destitution is laid upon them.\" Those who disbelieved said to their messengers, \"We shall surely expel you from our land, unless you return to",
+      "indonesian_evidence": "dari Allah, dan kenistaan ditimpakan kepada mereka.\" Orang-orang yang kafir berkata kepada rasul-rasul mereka, \"Kami sungguh akan mengusir kalian dari negeri kami, kecuali kalian kembali kepada"
+    },
+    {
+      "id": "R1-L23",
+      "source_lines": [
+        23
+      ],
+      "check": "Ourreligion; THEIRLordrevealedtoTHEMdivineWEdestroywrongdoers/settleyouafterthem, whoeverfearsMYstationANDthreatcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "our religion.\" Their Lord revealed to them, \"We shall surely destroy the wrongdoers, and We shall surely settle you in the land after them. That is for whoever fears My station and fears",
+      "indonesian_evidence": "agama kami.\" Lalu Tuhan mereka mewahyukan kepada mereka, \"Kami sungguh akan membinasakan orang-orang zalim, dan Kami sungguh akan menempatkan kalian di negeri itu sesudah mereka. Itu bagi orang yang t"
+    },
+    {
+      "id": "R1-L24",
+      "source_lines": [
+        24
+      ],
+      "check": "Threat; soughtvictory/obstinatetyrantFAILED; divineWEhelpmessengersANDbelieversinworldlylifeANDdaywitnessescontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "My threat.\" They sought victory, and every obstinate tyrant failed. \"We certainly help Our messengers and those who believe, in the life of this world and on the day when",
+      "indonesian_evidence": "ancaman-Ku.\" Mereka memohon kemenangan, dan gagallah setiap penguasa sewenang-wenang yang keras kepala. \"Sesungguhnya Kami benar-benar menolong rasul-rasul Kami dan orang-orang yang beriman dalam kehi"
+    },
+    {
+      "id": "R1-L25",
+      "source_lines": [
+        25
+      ],
+      "check": "Witnessesstand; excusesNOTbenefitwrongdoers, curseANDevilabode; destroyedmostviolent, exampleancientscontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "the witnesses stand: the day when the wrongdoers' excuses will not benefit them; theirs is the curse, and theirs the evil abode. We destroyed the most violent of them, and the example of",
+      "indonesian_evidence": "para saksi berdiri: hari ketika alasan orang-orang zalim tidak berguna bagi mereka; bagi mereka laknat dan tempat tinggal yang buruk. Maka Kami binasakan yang paling dahsyat kekerasannya di antara mer"
+    },
+    {
+      "id": "R1-L26",
+      "source_lines": [
+        26
+      ],
+      "check": "GodProtectorbelievers/disbelieversNOprotector. FAILF01: sourceHATTAIDHAhasUNTILWHENtemporalboundary butENonlyWhen/IDonlyKetika. RejoicinggivenandWEseizedretained.",
+      "passed": false,
+      "english_passed": false,
+      "indonesian_passed": false,
+      "english_evidence": "the ancients has passed. That is because God is the Protector of those who believe, while the disbelievers have no protector. When they rejoiced in what they had been given, We seized them",
+      "indonesian_evidence": "orang-orang terdahulu. Itu karena Allah adalah pelindung orang-orang yang beriman, sedangkan orang-orang kafir tidak mempunyai pelindung. Ketika mereka bergembira atas apa yang telah diberikan kepada "
+    },
+    {
+      "id": "R1-L27",
+      "source_lines": [
+        27
+      ],
+      "check": "Suddenseizure/despair; remnantwrongdoerscutoff/praiseLordworlds; decreeIANDMymessengersprevail. No pronounmisattribution.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "suddenly, and there they were, in despair. The last remnant of the wrongdoing people was cut off. Praise be to God, Lord of the worlds. God has decreed: I and My messengers shall surely prevail.",
+      "indonesian_evidence": "secara tiba-tiba, lalu mereka pun berputus asa. Maka terputuslah sisa terakhir kaum yang berbuat zalim. Segala puji bagi Allah, Tuhan semesta alam. Allah telah menetapkan: Aku dan rasul-rasul-Ku sungg"
+    },
+    {
+      "id": "R1-L28",
+      "source_lines": [
+        28
+      ],
+      "check": "GodStrongMighty; disbelievingPeopleBookbroughtoutfromHOMESTOBELIEVERS, no familiarcanonicalemendation. Sealcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "God is Strong, Mighty. He is the One who expelled the disbelievers among the People of the Book from their homes to the believers. A seal has been set",
+      "indonesian_evidence": "Sesungguhnya Allah Mahakuat, Mahaperkasa. Dialah yang mengeluarkan orang-orang kafir dari kalangan Ahli Kitab dari tempat tinggal mereka kepada orang-orang beriman. Telah dipasang segel"
+    },
+    {
+      "id": "R1-L29",
+      "source_lines": [
+        29
+      ],
+      "check": "HeartsNOTunderstand; bodiesimpresswhenseen/wordsheardIFspeak, turnedaway; haveyounotcontinues.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "upon their hearts, so they do not understand. When you see them, their bodies impress you, and if they speak, you listen to their words. How they are turned away! Have you not",
+      "indonesian_evidence": "pada hati mereka sehingga mereka tidak memahami. Apabila engkau melihat mereka, tubuh mereka mengagumkanmu, dan apabila mereka berbicara, engkau mendengarkan perkataan mereka. Bagaimana mereka dipalin"
+    },
+    {
+      "id": "R1-L30",
+      "source_lines": [
+        30
+      ],
+      "check": "SeenLorddealtwithAd/Iramofpillars/uniquelikeNOTcreatedinlands/Thamudhewingrockvalley, orderallentities.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "seen how your Lord dealt with 'Ād, Iram of the pillars, the like of which was not created in the lands, and Thamūd, who hewed the rock in the valley,",
+      "indonesian_evidence": "melihat bagaimana Tuhanmu memperlakukan 'Ād, Iram yang memiliki tiang-tiang, yang belum pernah diciptakan tandingannya di negeri-negeri, dan Tsamūd, yang memahat batu di lembah,"
+    },
+    {
+      "id": "R1-L31",
+      "source_lines": [
+        31
+      ],
+      "check": "Pharaohstakes/PeopleElephant, sourceetcSURAHretainedwithoutinventedverses; sourcenoclaimnegativecontinuationattributednotendorsed.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "and Pharaoh of the stakes? Have you not seen how your Lord dealt with the People of the Elephant?\" Etc., to the end of the surah. The author claims that no",
+      "indonesian_evidence": "dan Firaun yang memiliki pasak-pasak? Tidakkah engkau melihat bagaimana Tuhanmu memperlakukan Pasukan Gajah?\" Dan seterusnya sampai akhir surah. Penulis menyatakan bahwa tidak ada"
+    },
+    {
+      "id": "R1-L32",
+      "source_lines": [
+        32
+      ],
+      "check": "Noone greatNames FIRSThourSATURDAYORSECONDhourEXCEPTattainaimagainstenemies; hournotconvertedclocktime.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "one mentions these great Names in the first hour of Saturday or its second hour without attaining what he seeks against his enemies,",
+      "indonesian_evidence": "seorang pun yang menyebut Nama-Nama agung ini pada jam pertama hari Sabtu atau jam keduanya tanpa mendapatkan apa yang dikehendakinya terhadap musuh-musuhnya,"
+    },
+    {
+      "id": "R1-L33",
+      "source_lines": [
+        33
+      ],
+      "check": "Whosoeverenemies/fearGod/doNOTdoEXCEPTdeservingperson; literal*exactposition; newwhoeverneedGodMostHighPERSISTrecitingcontinuationattributednotadvice.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "whoever they may be. So fear God, and do not do it except to someone who deserves it. * The text then instructs: whoever has a need of God Most High should persist in reciting",
+      "indonesian_evidence": "siapa pun mereka. Maka bertakwalah kepada Allah dan jangan melakukannya kecuali terhadap orang yang layak menerimanya. * Kemudian teks memerintahkan: barang siapa mempunyai suatu hajat kepada Allah Ya"
+    },
+    {
+      "id": "R1-L34",
+      "source_lines": [
+        34
+      ],
+      "check": "StandaloneTHISendingpreservedwithoutpage117completion.",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "this",
+      "indonesian_evidence": "ini"
+    }
+  ],
+  "findings": [
+    {
+      "id": "F01",
+      "source_lines": [
+        26
+      ],
+      "languages": [
+        "en",
+        "id"
+      ],
+      "severity": "meaning",
+      "source": "حتى إذا فرحوا بما أوتوا أخذناهم",
+      "issue": "Temporal until boundary omitted: When / Ketika alone does not retain hatta.",
+      "required_repair": "EN retain until before when, ID retain hingga/sampai before ketika; keep rest of both source-aligned line26 and all other bytes unchanged."
+    }
+  ],
+  "accepted_source_uncertainties": [
+    {
+      "source_lines": [
+        3
+      ],
+      "issue": "Darkness/respite reading/linkage qualified."
+    },
+    {
+      "source_lines": [
+        5
+      ],
+      "issue": "Bothfirewoodpronounreferents retainedandqualified."
+    },
+    {
+      "source_lines": [
+        7
+      ],
+      "issue": "Secondpersonsingularaddressee unknown; not normalizedtoplural."
+    },
+    {
+      "source_lines": [
+        8
+      ],
+      "issue": "Printedbima incomplete; opaque token retainedandqualified."
+    },
+    {
+      "source_lines": [
+        9
+      ],
+      "issue": "Earth/backrestrelationqualified."
+    },
+    {
+      "source_lines": [
+        10,
+        11
+      ],
+      "issue": "Layalidlahummashyan opaqueactor/meaning; walkingrecoverable."
+    },
+    {
+      "source_lines": [
+        11
+      ],
+      "issue": "Lataralahumaynan opaqueaction/eye relation qualified."
+    },
+    {
+      "source_lines": [
+        11
+      ],
+      "issue": "Layahilllahumkhayran unknownactor/sense qualified, goodretained."
+    },
+    {
+      "source_lines": [
+        12
+      ],
+      "issue": "Akhtimindwellings imperativevsfirstpersonreading/objectunknownqualified."
+    }
+  ],
+  "review_basis": "Parent independently read completeactualcanonicalandbothactualfinaltargetsfromdisk; didnotauthororrepairprose. Full34positionreview, not sample.",
+  "summary": "R1 rejected only forF01omissionoftemporaluntilinbothline26targets. Otherclauses/17initialNamesplusfurtherepithets/pairednegations/repeatedneckshackles/abundantwater/toBELIEVERS/firstorsecondhourSaturday/deservingpersonexception/literalstar/unfinishedTHISending acceptable with9sourceuncertaintygroups retained. No finalfullpytestclaim; frozenR1structuralvalidatorpassed.",
+  "reviewed_utc": "2026-11-10T01:59:14.231358+00:00"
+}
