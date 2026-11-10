@@ -1,0 +1,604 @@
+{
+  "page": 119,
+  "passed": false,
+  "verdict": "REWORK",
+  "reviewer_role": "independent-model-semantic-reviewer",
+  "reviewer_id": "parent-coordinator-resumed",
+  "translator_ids": [
+    "sa-0-ceccfdcf"
+  ],
+  "source_hashes": {
+    "ocr/enriched/page_119.txt": "ebf9a502d9043b1cdbaefbfb135b143f5e2b735aa5ad72b7e1908314a2941f77",
+    "ocr/enriched_en/page_119.txt": "819b4a227dcb8f7abcbedd37385c62dcf90886b439f1da40454ff8a4e1ce1850",
+    "ocr/enriched_id/page_119.txt": "258fff430f4d8487c6f5842818df91c9d099b5e9c34c5898a8393d1a36500ee1",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "46a39c0f82bfebbcdfb610190c69c3665bcd6b38409223665b0947f5bdbb019a"
+  },
+  "coverage": [
+    {
+      "id": "R1-L01",
+      "source_lines": [
+        1
+      ],
+      "check": "Folio113hyphenstyle/ASCII numeralvalue.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "- 113 -",
+      "indonesian_evidence": "- 113 -"
+    },
+    {
+      "id": "R1-L02",
+      "source_lines": [
+        2
+      ],
+      "check": "Sourceblank2retained.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "(blank retained)",
+      "indonesian_evidence": "(baris kosong)"
+    },
+    {
+      "id": "R1-L03",
+      "source_lines": [
+        3
+      ],
+      "check": "OpeningAND-BY-YOUR-BOUNTYrepetitionnotdeduped/fromOTHERTHANYOU/God/RahmanWORLDANDHEREAFTER/LORDWORLDS;askBLESSINGSANDPEACEcontinues.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "and, through Your bounty, from anyone other than You, O God, O Merciful One of this world and the Hereafter, O Lord of the worlds, I ask You to send blessings and peace",
+      "indonesian_evidence": "dan, dengan karunia-Mu, dari siapa pun selain-Mu, wahai Allah, wahai Yang Maha Pengasih di dunia dan akhirat, wahai Tuhan semesta alam, aku memohon kepada-Mu agar Engkau melimpahkan selawat dan salam"
+    },
+    {
+      "id": "R1-L04",
+      "source_lines": [
+        4
+      ],
+      "check": "OURmasterMuhammad/FAMILYofOURmasterMuhammad/openMYP ROVISIONGATESBYOPENINGSurahWaqiah. CONTENTPASS,STYLEF01:technicaldiacriticsmissinginSurahname.",
+      "passed": false,
+      "content_passed": true,
+      "style_passed": false,
+      "english_passed": false,
+      "indonesian_passed": false,
+      "english_evidence": "upon our master Muhammad and upon the family of our master Muhammad, and to open for me the gates of Your provision through the opening of Surah al-Waqi'ah",
+      "indonesian_evidence": "kepada junjungan kami Muhammad dan keluarga junjungan kami Muhammad, serta membukakan bagiku pintu-pintu rezeki-Mu melalui pembukaan Surah al-Waqi'ah"
+    },
+    {
+      "id": "R1-L05",
+      "source_lines": [
+        5
+      ],
+      "check": "ANDITSSECRETS/easeMYprovisionASformanyYOURcreatures/AllahLORDWORLDS;literal*;NEWblessONLYrequestOURmastercontinues.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "and its secrets; to ease my provision for me as You have eased it for many of Your creatures, O God, O Lord of the worlds. * O God, send blessings upon our master",
+      "indonesian_evidence": "dan rahasia-rahasianya; agar Engkau memudahkan rezekiku bagiku sebagaimana Engkau telah memudahkannya bagi banyak makhluk-Mu, wahai Allah, wahai Tuhan semesta alam. * Ya Allah, limpahkanlah selawat ke"
+    },
+    {
+      "id": "R1-L06",
+      "source_lines": [
+        6
+      ],
+      "check": "Muhammad/FAMILYofOURmasterMuhammad/blessingYOUworthyANDHEworthy/LORDWORLDS/NOpowerANDstrengthEXCEPTGod. NOinventedfullpropheticsuffix.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "Muhammad and upon the family of our master Muhammad, a blessing of which You are worthy and of which he is worthy, O Lord of the worlds. There is no power and no strength except through God,",
+      "indonesian_evidence": "Muhammad dan keluarga junjungan kami Muhammad, suatu selawat yang Engkau layak atasnya dan yang dia layak atasnya, wahai Tuhan semesta alam. Tiada daya dan tiada kekuatan kecuali dengan Allah,"
+    },
+    {
+      "id": "R1-L07",
+      "source_lines": [
+        7
+      ],
+      "check": "MOSTHIGHGREATcontinuation.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "the Most High, the Great.",
+      "indonesian_evidence": "Yang Mahatinggi lagi Mahaagung."
+    },
+    {
+      "id": "R1-L08",
+      "source_lines": [
+        8
+      ],
+      "check": "Sourceblank8retained.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "(blank retained)",
+      "indonesian_evidence": "(baris kosong)"
+    },
+    {
+      "id": "R1-L09",
+      "source_lines": [
+        9
+      ],
+      "check": "ParenthesizedBLESSEDbenefitforNEEDSFULFILLMENTheading.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "( A blessed benefit for the fulfillment of needs )",
+      "indonesian_evidence": "( Faedah yang diberkahi untuk pemenuhan berbagai hajat )"
+    },
+    {
+      "id": "R1-L10",
+      "source_lines": [
+        10
+      ],
+      "check": "NeedTOGod/wantsfulfillment/TWOunitsBEFOREwitr/EACHunitFatiha. CONTENTPASS,STYLEF01:Fatihahdiacriticsmissing.",
+      "passed": false,
+      "content_passed": true,
+      "style_passed": false,
+      "english_passed": false,
+      "indonesian_passed": false,
+      "english_evidence": "Whoever has a need of God and desires its fulfillment, let him pray two units of prayer before the witr prayer, reciting in each unit al-Fatihah",
+      "indonesian_evidence": "Barang siapa mempunyai hajat kepada Allah dan menghendaki pemenuhannya, hendaklah ia menunaikan salat dua rakaat sebelum salat witir, dengan membaca pada setiap rakaat al-Fatihah"
+    },
+    {
+      "id": "R1-L11",
+      "source_lines": [
+        11
+      ],
+      "check": "ONCE/Ikhlas3/AFTERprayerSITonFEET/sourceGLOSSSTANDongroundALITTLEcontradictionretainedwithlocaluncertainty/THENreciteSAY. CONTENTPASS,STYLEF01:Ikhlasdiacriticsmissing.",
+      "passed": false,
+      "content_passed": true,
+      "style_passed": false,
+      "english_passed": false,
+      "indonesian_passed": false,
+      "english_evidence": "once and al-Ikhlas 3 times. When he has finished the prayer, let him sit upon his feet, that is, stand on the ground a little [UNCLEAR: the gloss says stand, although the instruction says sit]; then l",
+      "indonesian_evidence": "sekali dan al-Ikhlas 3 kali. Setelah selesai salat, hendaklah ia duduk di atas kedua kakinya, yakni berdiri di atas tanah sebentar [UNCLEAR: penjelasannya menyebut berdiri, sedangkan perintahnya menye"
+    },
+    {
+      "id": "R1-L12",
+      "source_lines": [
+        12
+      ],
+      "check": "InnerFIRSTPERSONIaskforgivenessGREATGOD/NOGODBUTHE/LIVING/SELFSUSTAINING/IrepentTOHIM/askREPENTANCEANDFORGIVENESSforme/MYPARENTS/ALLcontinues.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "\"I ask forgiveness of God the Great, other than whom there is no god, the Living, the Self-Sustaining; I repent to Him and ask Him for repentance and forgiveness for me, for my parents, and for all",
+      "indonesian_evidence": "\"Aku memohon ampun kepada Allah Yang Mahaagung, yang tiada tuhan selain Dia, Yang Mahahidup, Yang Berdiri Sendiri; aku bertobat kepada-Nya dan memohon kepada-Nya tobat dan ampunan bagiku, bagi kedua o"
+    },
+    {
+      "id": "R1-L13",
+      "source_lines": [
+        13
+      ],
+      "check": "MUSLIMMENANDWOMEN/ENTIREformulaONETHOUSANDtimes/EYESCLOSED/AFTERfinishASKwhateverWORLDANDHEREAFTER,scopepreserved.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "Muslim men and Muslim women\" -- the entire formula one thousand times, with his eyes closed. When he has finished, let him ask God for whatever he desires concerning this world and the Hereafter;",
+      "indonesian_evidence": "muslim laki-laki dan perempuan\" -- seluruh rumusan itu dibaca seribu kali, dengan kedua matanya terpejam. Setelah selesai, hendaklah ia memohon kepada Allah apa pun yang dikehendakinya mengenai urusan"
+    },
+    {
+      "id": "R1-L14",
+      "source_lines": [
+        14
+      ],
+      "check": "SourceclaimneedFULFILLEDretainednotagentadvice.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "it will be fulfilled for him.",
+      "indonesian_evidence": "hajatnya akan dipenuhi."
+    },
+    {
+      "id": "R1-L15",
+      "source_lines": [
+        15
+      ],
+      "check": "Sourceblank15retained.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "(blank retained)",
+      "indonesian_evidence": "(baris kosong)"
+    },
+    {
+      "id": "R1-L16",
+      "source_lines": [
+        16
+      ],
+      "check": "ParenthesizedbenefitPROVISIONANDACCEPTANCEheading.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "( A benefit for attracting provision and acceptance )",
+      "indonesian_evidence": "( Faedah untuk mendatangkan rezeki dan penerimaan )"
+    },
+    {
+      "id": "R1-L17",
+      "source_lines": [
+        17
+      ],
+      "check": "Literal*;KNOWVERSESblessed/makeREGULARRECITATION/findblessing;SECONDliteral*;IFCARRYWITHYOU/GodprovidesFROMWHEREcontinues.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "* Know that these verses are blessed, so make them a regular recitation and you will find their blessing. * If you carry them with you, God will provide for you from where",
+      "indonesian_evidence": "* Ketahuilah bahwa ayat-ayat ini diberkahi; maka jadikanlah sebagai wirid, niscaya engkau mendapati berkahnya. * Jika engkau membawanya bersamamu, Allah akan memberimu rezeki dari arah"
+    },
+    {
+      "id": "R1-L18",
+      "source_lines": [
+        18
+      ],
+      "check": "NOTEXPECT/literal*/THEYARE/fullbasmala;actualWHATWE PROVIDEDTHEMSPENDnotcanonicalWAMIMMAaddition;ZACHARIAHENTERSTHE SANCTUARYTO MARY.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "you do not expect. * They are: In the name of God, the Merciful, the Compassionate. And what We have provided them, they spend. Whenever Zachariah entered the sanctuary to see Mary,",
+      "indonesian_evidence": "yang tidak engkau sangka. * Inilah ayat-ayat itu: Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Dan apa yang Kami rezekikan kepada mereka, mereka infakkan. Setiap kali Zakaria memasuki mih"
+    },
+    {
+      "id": "R1-L19",
+      "source_lines": [
+        19
+      ],
+      "check": "HEfindsprovision/ZACHARIAHsaidOMARYWHENCE?/MARYsaidFROMGOD/GodprovidesWHOMEVERHEWILLSWITHOUTRECKONING. Quotationactorsnotreversed.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "he found provision with her. Zachariah said, \"O Mary, whence have you this?\" Mary said, \"It is from God. Indeed, God provides for whomever He wills without reckoning.\"",
+      "indonesian_evidence": "Zakaria mendapati rezeki di sisinya. Zakaria berkata, \"Wahai Maryam, dari mana engkau memperoleh ini?\" Maryam berkata, \"Ini dari sisi Allah. Sesungguhnya Allah memberi rezeki kepada siapa yang Dia keh"
+    },
+    {
+      "id": "R1-L20",
+      "source_lines": [
+        20
+      ],
+      "check": "NewPROVIDEUSprayer/YOUbestproviders;SAYinnerFIRSTPERSONSHALLIT AKEprotectorOTHERTHANGOD/ORIGINATORHEAVENSEARTH/HEFEEDSANDNOTFED,notimperativizedinnerformula.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "\"And provide for us, for You are the best of providers.\" Say, \"Shall I take a protector other than God, the Originator of the heavens and the earth, when He feeds and is not fed?\"",
+      "indonesian_evidence": "\"Dan berilah kami rezeki, dan Engkaulah sebaik-baik pemberi rezeki.\" Katakanlah, \"Apakah aku akan mengambil pelindung selain Allah, Pencipta langit dan bumi, sedangkan Dia memberi makan dan tidak dibe"
+    },
+    {
+      "id": "R1-L21",
+      "source_lines": [
+        21
+      ],
+      "check": "DivineWEcausedOPPRESSEDPEOPLEtoINHERITEASTANDWESTLANDWEblessed;switchTHIRDPERSONHEaidedYOUretained.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "And We caused the people who had been oppressed to inherit the eastern and western parts of the land which We had blessed. And He aided you",
+      "indonesian_evidence": "Dan Kami mewariskan kepada kaum yang dahulu ditindas bagian-bagian timur dan barat negeri yang telah Kami berkahi. Dan Dia menguatkan kalian"
+    },
+    {
+      "id": "R1-L22",
+      "source_lines": [
+        22
+      ],
+      "check": "HISVICTORY/providedGOODTHINGS/PERHAPSthank;PLURALestablishprayer;NEWMAKEHEARTSofSOMEPEOPLEinclinecontinues,nofuseddivineWEorhumanactor.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "with His victory and provided you with good things, so that you might give thanks. And establish prayer. \"So make the hearts of some people incline",
+      "indonesian_evidence": "dengan kemenangan-Nya dan memberi kalian rezeki berupa hal-hal yang baik, agar kalian bersyukur. Dan dirikanlah salat. \"Maka jadikanlah hati sebagian manusia condong"
+    },
+    {
+      "id": "R1-L23",
+      "source_lines": [
+        23
+      ],
+      "check": "TOWARDTHEM/provideFRUIT/PERHAPSTHEYthank;divineWEempoweredYOUland/livelihoodsTHEREIN.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "toward them, and provide them with fruits, so that they might give thanks.\" And We have indeed empowered you in the land and made livelihoods for you therein;",
+      "indonesian_evidence": "kepada mereka, dan berilah mereka rezeki berupa buah-buahan, agar mereka bersyukur.\" Dan sungguh Kami telah memberi kalian kedudukan yang kukuh di bumi serta menjadikan di dalamnya berbagai sumber pen"
+    },
+    {
+      "id": "R1-L24",
+      "source_lines": [
+        24
+      ],
+      "check": "LITTLEthanks;ALL/THESEANDTHESE/WEextendLORDGIFT/LORDGIFTNOTFORBIDDEN;NOTHINGcontinues.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "little do you give thanks. To all -- these and these -- We extend your Lord's gift; your Lord's gift is not forbidden. And there is nothing",
+      "indonesian_evidence": "sedikit sekali kalian bersyukur. Kepada semuanya -- golongan ini dan golongan itu -- Kami ulurkan pemberian Tuhanmu; pemberian Tuhanmu tidak terlarang. Dan tidak ada sesuatu pun"
+    },
+    {
+      "id": "R1-L25",
+      "source_lines": [
+        25
+      ],
+      "check": "EXCEPTtreasuriesWITHUS;WEempoweredHIMland/gaveHIMmeansEVERYTHING;HEfollowedmeans;LORDprovisionBETTERANDLASTING;unknownHIMnotnamedfromstory.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "but that its treasuries are with Us. Indeed, We empowered him in the land and gave him a means to everything; then he followed a means. And your Lord's provision is better and more lasting.",
+      "indonesian_evidence": "melainkan di sisi Kami perbendaharaannya. Sesungguhnya Kami telah memberinya kedudukan yang kukuh di bumi dan memberinya sarana untuk segala sesuatu; lalu dia mengikuti suatu sarana. Dan rezeki Tuhanm"
+    },
+    {
+      "id": "R1-L26",
+      "source_lines": [
+        26
+      ],
+      "check": "THEIRprovisionTHEREINMORNINGANDEVENING;WEWROTEZaburAFTERREMINDER/EARTHinheritedbyMYRIGHTEOUSSERVANTS. CONTENTPASS,STYLEF01:Zaburdiacriticmissing.",
+      "passed": false,
+      "content_passed": true,
+      "style_passed": false,
+      "english_passed": false,
+      "indonesian_passed": false,
+      "english_evidence": "And they have their provision therein, morning and evening. And We indeed wrote in the Zabur, after the Reminder, that My righteous servants shall inherit the earth.",
+      "indonesian_evidence": "Dan bagi mereka rezeki mereka di dalamnya pada pagi dan petang. Dan sungguh Kami telah menuliskan dalam Zabur, sesudah Peringatan, bahwa bumi akan diwarisi oleh hamba-hamba-Ku yang saleh."
+    },
+    {
+      "id": "R1-L27",
+      "source_lines": [
+        27
+      ],
+      "check": "LORDreward/revenueBETTER/HEbestproviders;GODrecompenseBESTDEEDS/ADDBOUNTY/GODprovidescontinues.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "But your Lord's reward is better, and He is the best of providers; so that God may recompense them for the best of what they did and add to them from His bounty. And God provides for",
+      "indonesian_evidence": "Namun imbalan Tuhanmu lebih baik, dan Dia sebaik-baik pemberi rezeki; agar Allah membalas mereka atas yang terbaik dari apa yang mereka kerjakan serta menambahkan kepada mereka dari karunia-Nya. Dan A"
+    },
+    {
+      "id": "R1-L28",
+      "source_lines": [
+        28
+      ],
+      "check": "WHOMEVERWILLSWITHOUTRECKONING;HESAIDwithLOCALUNKNOWNIDENTITYnote,innerMYgiftFROMGODbetterthanYOURgiftretainsHUMANrecipientnotGodspeaker;printedANbeginscreationTHENreturnsfragmentretainedwithLINKnote/notcanonicalAMMANrepair.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "whomever He wills without reckoning. He said [UNCLEAR: identity of the speaker], \"Are you supplying me with wealth? What God has given me is better than what He has given you.\" That He begins creation",
+      "indonesian_evidence": "siapa yang Dia kehendaki tanpa perhitungan. Dia berkata [UNCLEAR: identitas penutur], \"Apakah kalian menyokongku dengan harta? Apa yang Allah berikan kepadaku lebih baik daripada apa yang Dia berikan "
+    },
+    {
+      "id": "R1-L29",
+      "source_lines": [
+        29
+      ],
+      "check": "WHOprovidesYOUSKYANDEARTH?/DEITYWITHGOD?;divineWEWISHFAVOROPPRESSEDLAND/makeTHEMcontinues.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "and who provides for you from the sky and the earth? Is there a deity alongside God? And We wish to bestow favor upon those who were oppressed in the land and make them",
+      "indonesian_evidence": "dan siapa yang memberi kalian rezeki dari langit dan bumi? Adakah tuhan bersama Allah? Dan Kami hendak menganugerahkan karunia kepada orang-orang yang ditindas di bumi serta menjadikan mereka"
+    },
+    {
+      "id": "R1-L30",
+      "source_lines": [
+        30
+      ],
+      "check": "LEADERSANDHEIRS;NEWfirstpersonMYLORDIneedWHATEVERGOODYOUsentTOME/notGodspeaker/notinventMoses;HAVEWENOTsecureSANCTUARY/fruitsbroughtcontinues.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "leaders and make them the heirs. \"My Lord, I am in need of whatever good You have sent down to me.\" Have We not established for them a secure sanctuary to which are brought the fruits",
+      "indonesian_evidence": "para pemimpin dan menjadikan mereka para pewaris. \"Tuhanku, sungguh aku membutuhkan kebaikan apa pun yang telah Engkau turunkan kepadaku.\" Bukankah Kami telah menyediakan bagi mereka tanah suci yang a"
+    },
+    {
+      "id": "R1-L31",
+      "source_lines": [
+        31
+      ],
+      "check": "EVERYTHING/provisionFROMUS;SEEKprovisionWITHGOD/WORSHIP/THANKHIM/TOHIMRETURN;HOWMANYCREATUREcontinues.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "of everything, as provision from Us? So seek provision with God, worship Him, and give thanks to Him; to Him you will be returned. And how many a creature",
+      "indonesian_evidence": "dari segala sesuatu sebagai rezeki dari sisi Kami? Maka carilah rezeki di sisi Allah, sembahlah Dia, dan bersyukurlah kepada-Nya; kepada-Nya kalian akan dikembalikan. Dan betapa banyak makhluk"
+    },
+    {
+      "id": "R1-L32",
+      "source_lines": [
+        32
+      ],
+      "check": "NOTCARRYprovision/GODprovidesITANDYOU/HEARINGKNOWING/HAVEYOUpluralNOTSEENGODSUBJECTEDTOYOUwhateverHEAVENScontinues.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "does not carry its provision! God provides for it and for you, and He is the Hearing, the Knowing. Have you not seen that God has subjected to you whatever is in the heavens",
+      "indonesian_evidence": "yang tidak membawa rezekinya! Allah memberi rezeki kepadanya dan kepada kalian, dan Dia Maha Mendengar lagi Maha Mengetahui. Tidakkah kalian melihat bahwa Allah telah menundukkan bagi kalian apa yang "
+    },
+    {
+      "id": "R1-L33",
+      "source_lines": [
+        33
+      ],
+      "check": "ANDwhateverEARTH/BESTOWEDHISBLESSINGSwithoutaddedoutwardhidden;EATLORDprovision/THANKHIM/GOODTOWN/FORGIVINGLORD;WHATEVERGODOPENScontinues.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "and whatever is on the earth, and has lavished His blessings upon you? Eat of your Lord's provision and give thanks to Him: a good town and a forgiving Lord. Whatever God opens",
+      "indonesian_evidence": "dan apa yang ada di bumi, serta melimpahkan nikmat-nikmat-Nya kepada kalian? Makanlah dari rezeki Tuhan kalian dan bersyukurlah kepada-Nya: negeri yang baik dan Tuhan Yang Maha Pengampun. Apa pun yang"
+    },
+    {
+      "id": "R1-L34",
+      "source_lines": [
+        34
+      ],
+      "check": "MERCYforPEOPLE/NONEWITHHOLD/WHATEVERHEWITHHOLDS/NONESENDAFTERHIM/MIGHTYWISE/WHATEVERYOUSPENDANYTHING/HEcontinues.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "of His mercy to people, none can withhold; and whatever He withholds, none can send after Him. He is the Mighty, the Wise. And whatever you spend of anything, He",
+      "indonesian_evidence": "bagi manusia dari rahmat-Nya, tidak ada yang dapat menahannya; dan apa pun yang Dia tahan, tidak ada yang dapat mengirimkannya sesudah-Nya. Dia Mahaperkasa lagi Mahabijaksana. Dan apa pun yang kalian "
+    },
+    {
+      "id": "R1-L35",
+      "source_lines": [
+        35
+      ],
+      "check": "REPLACESIT/HEbestproviders/NOTHINGFRUSTRATESGODinHEAVENSNOREARTH/KNOWINGPOWERFUL. Allfragmentspreservednotcanonicalcompletion.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "replaces it, and He is the best of providers. Nothing in the heavens or on the earth can frustrate God; indeed, He is Knowing, Powerful.",
+      "indonesian_evidence": "menggantinya, dan Dia sebaik-baik pemberi rezeki. Tidak ada sesuatu pun di langit ataupun di bumi yang dapat melemahkan Allah; sesungguhnya Dia Maha Mengetahui lagi Mahakuasa."
+    },
+    {
+      "id": "R1-L36",
+      "source_lines": [
+        36
+      ],
+      "check": "Sourceblank36retained.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "(blank retained)",
+      "indonesian_evidence": "(baris kosong)"
+    },
+    {
+      "id": "R1-L37",
+      "source_lines": [
+        37
+      ],
+      "check": "Footer8-ShamsalMaarif-FIRSTtranslatedliteralmeaningSunofKnowledges/MatahariPengetahuan,number8/parentheses/dashes/orderretainednotomittedmetadata.",
+      "passed": true,
+      "content_passed": true,
+      "style_passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "( 8 - Sun of Knowledges - First )",
+      "indonesian_evidence": "( 8 - Matahari Pengetahuan - Pertama )"
+    }
+  ],
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "style-contract",
+      "source_lines": [
+        4,
+        10,
+        11,
+        26
+      ],
+      "languages": [
+        "en",
+        "id"
+      ],
+      "issue": "Technical terms omit prescribed full transliteration diacritics, contrary to translation-style-v2 section4. Latin-only does not mean ASCII-only.",
+      "required_repair": {
+        "en": {
+          "Surah al-Waqi'ah": "Sūrat al-Wāqiʿah",
+          "al-Fatihah": "al-Fātiḥah",
+          "al-Ikhlas": "al-Ikhlāṣ",
+          "Zabur": "Zabūr"
+        },
+        "id": {
+          "Surah al-Waqi'ah": "Surah al-Wāqiʿah",
+          "al-Fatihah": "al-Fātiḥah",
+          "al-Ikhlas": "al-Ikhlāṣ",
+          "Zabur": "Zabūr"
+        }
+      },
+      "scope": "Onlytargetlines4,10,11,26inbothlanguages,exacttermreplacements;allotherbytesimmutable."
+    }
+  ],
+  "accepted_source_uncertainties": [
+    {
+      "source_lines": [
+        11
+      ],
+      "ordinal_on_line": 1,
+      "issue": "the gloss says stand, although the instruction says sit",
+      "english_note": "the gloss says stand, although the instruction says sit",
+      "indonesian_note": "penjelasannya menyebut berdiri, sedangkan perintahnya menyebut duduk",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        28
+      ],
+      "ordinal_on_line": 1,
+      "issue": "identity of the speaker",
+      "english_note": "identity of the speaker",
+      "indonesian_note": "identitas penutur",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        28
+      ],
+      "ordinal_on_line": 2,
+      "issue": "the link of this fragment to the adjoining passages",
+      "english_note": "the link of this fragment to the adjoining passages",
+      "indonesian_note": "hubungan penggalan ini dengan bagian-bagian di sekitarnya",
+      "accepted_as_source_uncertainty": true
+    }
+  ],
+  "review_basis": "Parentindependentlyreadallactualcanonicalandbothactualfinaltargetfilesincludingfolio/footer;all37sourcepositionsreviewedagainsteachlanguage. Parentdidnotauthororrepairprose.",
+  "summary": "R1contentcoveragepassesall37positionsbutcontractstyleF01requiresfourtechnicaltermspellingrepairsperlanguage. No semanticretranslationrequired. Posturecontradiction,unknownspeakerandfragmentlinkqualifiedwith3sourcenotes;allcounts/blanks/stars/procedures/quotations/negations/footerpreserved. FrozenR1structuralvalidatorpasses;NO119finalfullpytestyet.",
+  "reviewed_utc": "2026-11-10T02:50:33.947354+00:00"
+}
