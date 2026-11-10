@@ -1,0 +1,301 @@
+{
+  "page": 121,
+  "passed": true,
+  "verdict": "APPROVED",
+  "reviewer_role": "independent-model-semantic-reviewer",
+  "reviewer_id": "parent-coordinator-resumed",
+  "translator_ids": [
+    "sa-0-dd90651b"
+  ],
+  "source_hashes": {
+    "ocr/enriched/page_121.txt": "837093b33ee0b8a490aca6e85d9f73697c95f6dbea607d95a3115cdf7bed49b1",
+    "ocr/enriched_en/page_121.txt": "b42fcaafe9e9847380f33017b8a2bf04bf9408370e96cb413225d4c2e8915ba2",
+    "ocr/enriched_id/page_121.txt": "02e2e4e89f40392f832eaee59667fe6b69b90499483aa91abfe28537a4e1e7e7",
+    "docs/translation-style-v2.md": "d854576837d8046abae0e6f8ee43ecae623661dbdcc26d07e7bcd90cf818af66",
+    "web/public/manuscript.json": "7cf8473fd87338d35888391a4584ac155319bda0ddd1359d1a5a9749fcc4b54d"
+  },
+  "coverage": [
+    {
+      "id": "R1-L01",
+      "source_lines": [
+        1
+      ],
+      "check": "Folio115em-dashstyleandLatinvalue",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "— 115 —",
+      "indonesian_evidence": "— 115 —"
+    },
+    {
+      "id": "R1-L02",
+      "source_lines": [
+        2
+      ],
+      "check": "Sourceblankretained",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "(blank retained)",
+      "indonesian_evidence": "(baris kosong)"
+    },
+    {
+      "id": "R1-L03",
+      "source_lines": [
+        3
+      ],
+      "check": "Orderedmatrixrow1:FIVEcompleteOAlimvocativespreservedwithoutdeduplication/summary;actualfivebyfivegeometrynotreconstructedfromearliereightby-eightclaim",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "O All-Knowing O All-Knowing O All-Knowing O All-Knowing O All-Knowing",
+      "indonesian_evidence": "Wahai Yang Maha Mengetahui Wahai Yang Maha Mengetahui Wahai Yang Maha Mengetahui Wahai Yang Maha Mengetahui Wahai Yang Maha Mengetahui"
+    },
+    {
+      "id": "R1-L04",
+      "source_lines": [
+        4
+      ],
+      "check": "Orderedmatrixrow2:FIVEcompleteOAlimvocativespreservedwithoutdeduplication/summary;actualfivebyfivegeometrynotreconstructedfromearliereightby-eightclaim",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "O All-Knowing O All-Knowing O All-Knowing O All-Knowing O All-Knowing",
+      "indonesian_evidence": "Wahai Yang Maha Mengetahui Wahai Yang Maha Mengetahui Wahai Yang Maha Mengetahui Wahai Yang Maha Mengetahui Wahai Yang Maha Mengetahui"
+    },
+    {
+      "id": "R1-L05",
+      "source_lines": [
+        5
+      ],
+      "check": "Orderedmatrixrow3:FIVEcompleteOAlimvocativespreservedwithoutdeduplication/summary;actualfivebyfivegeometrynotreconstructedfromearliereightby-eightclaim",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "O All-Knowing O All-Knowing O All-Knowing O All-Knowing O All-Knowing",
+      "indonesian_evidence": "Wahai Yang Maha Mengetahui Wahai Yang Maha Mengetahui Wahai Yang Maha Mengetahui Wahai Yang Maha Mengetahui Wahai Yang Maha Mengetahui"
+    },
+    {
+      "id": "R1-L06",
+      "source_lines": [
+        6
+      ],
+      "check": "Orderedmatrixrow4:FIVEcompleteOAlimvocativespreservedwithoutdeduplication/summary;actualfivebyfivegeometrynotreconstructedfromearliereightby-eightclaim",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "O All-Knowing O All-Knowing O All-Knowing O All-Knowing O All-Knowing",
+      "indonesian_evidence": "Wahai Yang Maha Mengetahui Wahai Yang Maha Mengetahui Wahai Yang Maha Mengetahui Wahai Yang Maha Mengetahui Wahai Yang Maha Mengetahui"
+    },
+    {
+      "id": "R1-L07",
+      "source_lines": [
+        7
+      ],
+      "check": "Orderedmatrixrow5:FIVEcompleteOAlimvocativespreservedwithoutdeduplication/summary;actualfivebyfivegeometrynotreconstructedfromearliereightby-eightclaim",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "O All-Knowing O All-Knowing O All-Knowing O All-Knowing O All-Knowing",
+      "indonesian_evidence": "Wahai Yang Maha Mengetahui Wahai Yang Maha Mengetahui Wahai Yang Maha Mengetahui Wahai Yang Maha Mengetahui Wahai Yang Maha Mengetahui"
+    },
+    {
+      "id": "R1-L08",
+      "source_lines": [
+        8
+      ],
+      "check": "Sourceblankretained",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "(blank retained)",
+      "indonesian_evidence": "(baris kosong)"
+    },
+    {
+      "id": "R1-L09-A",
+      "source_lines": [
+        9
+      ],
+      "check": "KNOW/sourceclaims/SUFFICIENTSHAPEandCOMPLETEDRAWING/EMIRS-KINGS-CHIEFS/BEARERgrantedwhatINITSPOWERunknownreferentqualified/dignity-awe-happiness-highness-elevation-leadershipALLsix",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "Know that, as this text claims, this sufficient figure and complete drawing signify emirs, kings, and chiefs, and its bearer is granted what lies in its power [UNCLEAR: the referent of 'its' in 'its power' is uncertain] of dignity, awe, happiness, highness, el",
+      "indonesian_evidence": "Ketahuilah bahwa, menurut pernyataan teks ini, bentuk yang memadai ini dan gambar yang lengkap ini menandakan para amir, raja, dan pemimpin, dan pembawanya diberi apa yang berada dalam dayanya [UNCLEAR: rujukan akhiran '-nya' dalam 'dayanya' tidak pasti] berup"
+    },
+    {
+      "id": "R1-L09-B",
+      "source_lines": [
+        9
+      ],
+      "check": "THROUGHITBLESSINGSdescend/INFIRMITIESlifted/NEEDSfulfilled;SECRETSpeopleBEGINNINGS/LIGHTSpeopleENDS;sourceefficacynotendorsed",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "Through it blessings descend, infirmities are lifted, and needs are fulfilled. Within it are secrets for the people of beginnings and lights for the people of endings. It signifies religion, truthfulness, manners, success, strength, safekeeping, victory, preva",
+      "indonesian_evidence": "Dengannya berkah-berkah turun, kelemahan-kelemahan jasmani diangkat, dan hajat-hajat dipenuhi. Di dalamnya terdapat rahasia-rahasia bagi orang-orang pada tahap permulaan dan cahaya-cahaya bagi orang-orang pada tahap akhir. Bentuk ini menandakan agama, kejujura"
+    },
+    {
+      "id": "R1-L09-C",
+      "source_lines": [
+        9
+      ],
+      "check": "OrderedindicationsRELIGION/TRUTHFULNESS/MANNERS/SUCCESS/STRENGTH/SAFEKEEPING/VICTORY/PREVAILING/OBEDIENCE",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "It signifies religion, truthfulness, manners, success, strength, safekeeping, victory, prevailing, obedience, affection, love, preservation, sufficiency, security through it, safety, al-kalādah [UNCLEAR: the reading and meaning of this printed term are uncerta",
+      "indonesian_evidence": "Bentuk ini menandakan agama, kejujuran, adab, keberhasilan, kekuatan, penjagaan, kemenangan, keunggulan, ketaatan, kasih sayang, cinta, pemeliharaan, kecukupan, keamanan dengannya, keselamatan, al-kalādah [UNCLEAR: pembacaan dan makna istilah yang tercetak ini"
+    },
+    {
+      "id": "R1-L09-D",
+      "source_lines": [
+        9
+      ],
+      "check": "AFFECTION/LOVE/PRESERVATION/SUFFICIENCY/SECURITYTHROUGHIT/SAFETY/OPAQUEALKALADAHreadingmeaningqualified(nokaf-qafnecklacerepair)/GRANTDOMINIONCITIESREGIONSLANDS",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "affection, love, preservation, sufficiency, security through it, safety, al-kalādah [UNCLEAR: the reading and meaning of this printed term are uncertain], and the granting of dominion over cities in the regions and lands; kingship, sultanate, vizierate, provis",
+      "indonesian_evidence": "kasih sayang, cinta, pemeliharaan, kecukupan, keamanan dengannya, keselamatan, al-kalādah [UNCLEAR: pembacaan dan makna istilah yang tercetak ini tidak pasti], dan pemberian kekuasaan atas kota-kota di berbagai wilayah dan negeri; kerajaan, kesultanan, jabatan"
+    },
+    {
+      "id": "R1-L09-E",
+      "source_lines": [
+        9
+      ],
+      "check": "KINGSHIP/SULTANATE/VIZIERATE/PROVISION/ABUNDANCE/EMIRSHIP/EXPANSION/JOY/UNDERSTANDING/DELIGHTeachretainednotcompressed",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "kingship, sultanate, vizierate, provision, abundance, emirship, expansion, joy, understanding, delight, increase in wealth, status, children, and family, a good life, a good condition, and the safeguarding of servants and children from harm and corruption; ins",
+      "indonesian_evidence": "kerajaan, kesultanan, jabatan wazir, rezeki, kelimpahan, keamiran, kelapangan, kegembiraan, pemahaman, sukacita, pertambahan harta, kedudukan, anak, dan keluarga, kehidupan yang baik, keadaan yang baik, serta penjagaan para pelayan dan anak-anak dari bahaya da"
+    },
+    {
+      "id": "R1-L09-F",
+      "source_lines": [
+        9
+      ],
+      "check": "FIRSTgrowthlistINCREASEWEALTH/STATUS/CHILDREN/FAMILYinPRINTEDORDER/GOODLIFE/GOODCONDITION",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "increase in wealth, status, children, and family, a good life, a good condition, and the safeguarding of servants and children from harm and corruption; insight into the subtleties of the sciences and the finer details of understanding, the uttering of extraor",
+      "indonesian_evidence": "pertambahan harta, kedudukan, anak, dan keluarga, kehidupan yang baik, keadaan yang baik, serta penjagaan para pelayan dan anak-anak dari bahaya dan kerusakan; pengetahuan mendalam tentang kehalusan berbagai ilmu dan perincian pemahaman, pengucapan hal-hal lua"
+    },
+    {
+      "id": "R1-L09-G",
+      "source_lines": [
+        9
+      ],
+      "check": "SAFEGUARDSERVANTSANDCHILDRENFROMBOTHHARMANDCORRUPTION,noinventedjinnservantidentity",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "safeguarding of servants and children from harm and corruption; insight into the subtleties of the sciences and the finer details of understanding, the uttering of extraordinary things and wisdom, and speaking of realities and knowledge; for its nature is to i",
+      "indonesian_evidence": "penjagaan para pelayan dan anak-anak dari bahaya dan kerusakan; pengetahuan mendalam tentang kehalusan berbagai ilmu dan perincian pemahaman, pengucapan hal-hal luar biasa dan hikmah, serta pembicaraan tentang hakikat-hakikat dan pengetahuan; sebab tabiatnya a"
+    },
+    {
+      "id": "R1-L09-H",
+      "source_lines": [
+        9
+      ],
+      "check": "INSIGHTSCIENCESsubtleties/UNDERSTANDINGfinedetails/UTTEREXTRAORDINARYTHINGSANDWISDOM/SPEAKREALITIESANDKNOWLEDGE,allrecoverablewords",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "insight into the subtleties of the sciences and the finer details of understanding, the uttering of extraordinary things and wisdom, and speaking of realities and knowledge; for its nature is to increase wealth, status, family, and children, and to repel disea",
+      "indonesian_evidence": "pengetahuan mendalam tentang kehalusan berbagai ilmu dan perincian pemahaman, pengucapan hal-hal luar biasa dan hikmah, serta pembicaraan tentang hakikat-hakikat dan pengetahuan; sebab tabiatnya adalah menambah harta, kedudukan, keluarga, dan anak, serta menol"
+    },
+    {
+      "id": "R1-L09-I",
+      "source_lines": [
+        9
+      ],
+      "check": "BECAUSEITSNATURE/SECONDgrowthlistWEALTH-STATUS-FAMILY-CHILDRENdistinctPRINTEDORDERnotdeduped/harmonized/REPELDISEASESANDACHESANDPAINSthreewordsretained",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "for its nature is to increase wealth, status, family, and children, and to repel diseases, aches, and pains. The text further claims that whoever writes it on a lead plate, with the Moon in the ray [UNCLEAR: whose ray is meant is not specified], after reciting",
+      "indonesian_evidence": "sebab tabiatnya adalah menambah harta, kedudukan, keluarga, dan anak, serta menolak penyakit-penyakit, rasa sakit, dan nyeri. Teks ini selanjutnya menyatakan bahwa barang siapa menuliskannya pada lempeng timah hitam, ketika bulan berada dalam sinar [UNCLEAR: s"
+    },
+    {
+      "id": "R1-L09-J",
+      "source_lines": [
+        9
+      ],
+      "check": "WHOEVERWRITESIT/LEADplatenotTIN/MOONINRAYunknownwhoserayqualified/nosuppliedSunorphase/Jupiter/Thursday;sourceclaimattributed",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "The text further claims that whoever writes it on a lead plate, with the Moon in the ray [UNCLEAR: whose ray is meant is not specified], after reciting the ʿazīmah (conjuration) 1289 times, God makes the sight of every obstinate tyrant blind to that person, so",
+      "indonesian_evidence": "Teks ini selanjutnya menyatakan bahwa barang siapa menuliskannya pada lempeng timah hitam, ketika bulan berada dalam sinar [UNCLEAR: sinar siapa yang dimaksud tidak disebutkan], setelah melafalkan ʿazīmah (mantra) 1289 kali, Allah menjadikan penglihatan setiap"
+    },
+    {
+      "id": "R1-L09-K",
+      "source_lines": [
+        9
+      ],
+      "check": "AFTERRECITINGUNSPECIFIEDCONJURATION1289TIMES;notnamedYAALIMformulaorroundedcount;technicalazimahglossfaithful",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "after reciting the ʿazīmah (conjuration) 1289 times, God makes the sight of every obstinate tyrant blind to that person, so that none of them sees him.",
+      "indonesian_evidence": "setelah melafalkan ʿazīmah (mantra) 1289 kali, Allah menjadikan penglihatan setiap tiran yang membangkang buta terhadap orang tersebut, sehingga tidak satu pun dari mereka melihatnya."
+    },
+    {
+      "id": "R1-L09-L",
+      "source_lines": [
+        9
+      ],
+      "check": "GODACTOR/BLINDAWAYFROMBEARERSIGHTofEVERYOBSTINATETYRANT;beneficiaryHIMconcealed/notunqualifiedpermanentbodilyblindingofalltyrants;explanatorynoneSEESHIMdirectionfaithful",
+      "passed": true,
+      "english_passed": true,
+      "indonesian_passed": true,
+      "english_evidence": "God makes the sight of every obstinate tyrant blind to that person, so that none of them sees him.",
+      "indonesian_evidence": "Allah menjadikan penglihatan setiap tiran yang membangkang buta terhadap orang tersebut, sehingga tidak satu pun dari mereka melihatnya."
+    }
+  ],
+  "findings": [],
+  "accepted_source_uncertainties": [
+    {
+      "source_lines": [
+        9
+      ],
+      "ordinal_on_line": 1,
+      "issue": "the referent of 'its' in 'its power' is uncertain",
+      "english_note": "the referent of 'its' in 'its power' is uncertain",
+      "indonesian_note": "rujukan akhiran '-nya' dalam 'dayanya' tidak pasti",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        9
+      ],
+      "ordinal_on_line": 2,
+      "issue": "the reading and meaning of this printed term are uncertain",
+      "english_note": "the reading and meaning of this printed term are uncertain",
+      "indonesian_note": "pembacaan dan makna istilah yang tercetak ini tidak pasti",
+      "accepted_as_source_uncertainty": true
+    },
+    {
+      "source_lines": [
+        9
+      ],
+      "ordinal_on_line": 3,
+      "issue": "whose ray is meant is not specified",
+      "english_note": "whose ray is meant is not specified",
+      "indonesian_note": "sinar siapa yang dimaksud tidak disebutkan",
+      "accepted_as_source_uncertainty": true
+    }
+  ],
+  "uncertainty_markers_per_language": {
+    "en": 3,
+    "id": 3
+  },
+  "source_logical_positions_covered": 9,
+  "review_basis": "ParentindependentlyreadtheCOMPLETEactualcanonicalandBOTHCOMPLETEactualtargetsfromdisk,includingfulluntruncatedlonglogicalposition9. EachlanguagecompareddirectlyagainstArabic,all9positionsplusgranular12-clauseprosecoverage. Parentdidnotauthororrepairtargetprose. No humanrevieworexternalreligious/medicalauthenticationclaimed.",
+  "source_representation_note": "Physical121actualcanonicalmatrixis5rows5invocations,25total. Preservedindependentlyofearlier8by8proseclaim;noharmonizationorcellinvention.",
+  "summary": "APPROVEDfrozenR1Legacy604V2physical121:all9logicalpositionswithgranularproseclausechecks;em-dash115/blanks2and8/all25orderedcompletevocativesinactual5x5sourcegeometry/entirebenefitlist/twodifferentlyorderedwealth-status-children-familylists/opaquealkaladahnotcorrected/sourcehealthoccultclaimattribution/LEADplate-MOONINRAY-AFTER1289conjurationconditions/GODactorEVERYobstinatetyrantvisionAWAYFROMbearerpreserved.3localizedsourceuncertaintiesaccepted(powerreferent/printedterm/rayidentity),nottranslationdefects.348tests+49subtestspassed;120acceptedplus121validated;604sources/metadata/603otherrecords/protectedWIPunchanged.",
+  "reviewed_utc": "2026-11-10T03:36:56.315767+00:00"
+}
