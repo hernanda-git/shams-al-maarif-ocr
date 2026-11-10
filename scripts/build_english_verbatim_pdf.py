@@ -60,6 +60,12 @@ PARTS: List[PartSpec] = [
              "Seasonal Angels, Four Winds, Magic Squares of the Beautiful Names & Mālik al-Mulk"),
     PartSpec("X", 68, 92, "Chapters Nine–Eleven: Luminous Surah Openings, Supplications & the 99 Names Grid",
              "Secrets of the Fourteen Luminous Letters, Protective Invocations, 8×8 Names Table & Subtle Realities"),
+    PartSpec("XI", 93, 107, "Chapter Twelve: The Greatest Name, Seven Seals & the Jaljalūtiyyah Ode",
+             "Talismanic Seals, Jaljalūtiyyah Commentary, Tablets of Life & Death, and the Sūrat al-Ḥadīd Muʿashshar"),
+    PartSpec("XII", 108, 112, "Chapter Thirteen: The Names, Their Awfāq & Answered Invocations",
+             "The Greatest Name Dream, the Seven Letters Between Good and Evil, and the Planetary Letter Grids"),
+    PartSpec("XIII", 113, 604, "Chapter Fourteen: Remembrances, Answered Supplications & the Sufficient Figure",
+             "Seven Seals for the Seven Days, Light-Verse Reflections and Talismanic Figures"),
 ]
 
 
@@ -125,9 +131,9 @@ FIGURES: List[FigureSpec] = [
                "Manuscript facsimile preserving inline star-cluster asterisms and line-11 cryptic talismanic glyph strip (Folio 25)."),
     FigureSpec("fig_p033", 24, 33, (0.11, 0.35, 0.89, 0.50), 1, "lg",
                "Twelve-column concordance table of solar months, twelve zodiac signs, and twenty-eight lunar mansions (Folio 27)."),
-    FigureSpec("fig_p041", 25, 41, (0.12, 0.38, 0.89, 0.82), 6, "lg",
+    FigureSpec("fig_p041", 25, 41, (0.12, 0.38, 0.89, 0.82), 27, "lg",
                "The four archangelic magic squares (awfāq): ʿIzrāʾīl (3×3), Isrāfīl (4×4), Jibrīl (7×7), and Mīkāʾīl (8×8) (Folio 35)."),
-    FigureSpec("fig_p045", 26, 45, (0.10, 0.14, 0.43, 0.34), 3, "sm",
+    FigureSpec("fig_p045", 26, 45, (0.10, 0.14, 0.43, 0.34), 12, "sm",
                "Fivefold Basmalah magic square (wafq Bismillāh al-Raḥmān al-Raḥīm, Folio 39)."),
     FigureSpec("fig_p047", 27, 47, (0.13, 0.13, 0.69, 0.49), 0, "md",
                "Concentric Circle of Bismillāh al-Raḥmān al-Raḥīm (Folio 41; introduced at the conclusion of Scan Page 46)."),
@@ -155,6 +161,34 @@ FIGURES: List[FigureSpec] = [
                "4×4 Archangelic numerical wafq headed by Jibrīl and Mīkāʾīl (Folio 76)."),
     FigureSpec("fig_p084", 39, 84, (0.11, 0.13, 0.89, 0.69), 1, "lg",
                "8×8 Grid of the Most Beautiful Names of Allah (al-Mālik, al-Quddūs, al-Salām..., Folio 78; introduced on Scan Page 83)."),
+    FigureSpec("fig_p095", 40, 95, (0.11, 0.08, 0.89, 0.90), 0, "fullplate",
+               "Full archival facsimile of Printed Folio 89: the Seven Seals talismanic glyph formulas (represented as [U+10348] in OCR) and the opening eighteen verses of al-Qaṣīdah al-Jaljalūtiyyah omitted by source OCR."),
+    FigureSpec("fig_p097a", 41, 97, (0.11, 0.20, 0.89, 0.29), 1, "lg",
+               "Inline talismanic seal signs from the Torah, Gospel, and Qurʾān ([U+06DE] |||, ‡ mīm, and [U+06E9] |||, Folio 91, lines 5–8)."),
+    FigureSpec("fig_p097b", 42, 97, (0.11, 0.41, 0.89, 0.50), 2, "lg",
+               "Inline three-rod and star seal formula without hump (||| [U+06DE], Folio 91, lines 14–17)."),
+    FigureSpec("fig_p099a", 43, 99, (0.11, 0.30, 0.89, 0.39), 2, "lg",
+               "Inline Seven-Seals talismanic symbol formula of the Greatest Name (Folio 93, lines 13–16)."),
+    FigureSpec("fig_p099b", 44, 99, (0.12, 0.41, 0.50, 0.62), 2, "md",
+               "7×7 Talismanic magic square (wafq) of the Seven Seals corresponding to the seven letters absent from Sūrat al-Fātiḥah (Folio 93)."),
+    FigureSpec("fig_p100a", 45, 100, (0.11, 0.15, 0.90, 0.32), 2, "lg",
+               "Six-column table of the Two Tablets (1–30 written in Arabic words, Folio 94)."),
+    FigureSpec("fig_p100b", 46, 100, (0.10, 0.32, 0.63, 0.67), 4, "lg",
+               "Two-column numerical Tablet of Life and Death (upper left), 5×4 lunatic-glyph talismanic table for releasing a prisoner (upper right), and 3×3 numerical wafq (lower left, Folio 94)."),
+    FigureSpec("fig_p102", 47, 102, (0.13, 0.08, 0.88, 0.61), 1, "lg",
+               "10×10 Diagonally calligraphed Muʿashshar magic square of the opening verses of Sūrat al-Ḥadīd (Folio 96; introduced on Scan Page 101)."),
+    FigureSpec("fig_p104", 48, 104, (0.115, 0.36, 0.73, 0.675), 3, "md",
+               "Concentric talismanic circle enclosing a square with Divine-Name inscriptions, accompanied by marginal labels (Folio 61)."),
+    FigureSpec("fig_p105a", 49, 105, (0.13, 0.10, 0.465, 0.405), 0, "md",
+               "Eight-pointed letter lattice (wafq) with diagonal cords and corner names, above the verse “He casts truth against falsehood” (Folio 99, upper figure)."),
+    FigureSpec("fig_p105b", 50, 105, (0.085, 0.43, 0.465, 0.745), 0, "md",
+               "Square talismanic diagram with diagonal cords and four named corners (Folio 99, lower figure)."),
+    FigureSpec("fig_p112", 51, 112, (0.11, 0.11, 0.85, 0.87), 1, "fullplate",
+               "Six 7×7 letter grids for the planetary days: fāʾ/Sun, shīn/Mars, ẓāʾ/Jupiter, jīm/Moon, thāʾ/Mercury and ḥāʾ/Venus (Folio 106)."),
+    FigureSpec("fig_p113", 52, 113, (0.03, 0.07, 0.43, 0.335), 2, "lg",
+               "Seven-column zāy letter grid for Saturn and Saturday with its printed caption (Folio 107)."),
+    FigureSpec("fig_p121", 53, 121, (0.07, 0.045, 0.80, 0.60), -1, "lg",
+               "Six-column “sufficient figure” (al-shakl al-kāfī) letter grid closing the wafq described at the end of Scan Page 120 (Folio 115)."),
 ]
 
 
@@ -207,9 +241,18 @@ def is_pipe_row(line: str) -> bool:
     return bool(PIPE_TABLE_ROW_RE.match(s))
 
 
-def split_raw_blocks(en_text: str) -> List[str]:
-    """Split on blank lines AND also split whenever prose transitions to/from a pipe-table."""
-    coarse = [b.strip() for b in re.split(r"\n\s*\n", en_text.strip()) if b.strip()]
+def split_raw_blocks(en_text: str, page_num: int = 0) -> List[str]:
+    """Split leading folio line, blank-line paragraphs, and inline prose-to-pipe-table transitions."""
+    lines_all = en_text.strip().splitlines()
+    coarse: List[str] = []
+    if page_num >= 8 and len(lines_all) > 1 and FOLIO_LINE_RE.match(lines_all[0].strip()):
+        coarse.append(lines_all[0].strip())
+        rest = "\n".join(lines_all[1:]).strip()
+        if rest:
+            coarse.extend([b.strip() for b in re.split(r"\n\s*\n", rest) if b.strip()])
+    else:
+        coarse = [b.strip() for b in re.split(r"\n\s*\n", en_text.strip()) if b.strip()]
+
     refined: List[str] = []
     for block in coarse:
         lines = block.splitlines()
@@ -231,13 +274,30 @@ def split_raw_blocks(en_text: str) -> List[str]:
     return refined
 
 
+ARABIC_SPAN_RE = re.compile(
+    r"([\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF]+"
+    r"(?:\s+[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF]+)*)"
+)
+
+
 def style_inline_verbatim(raw_text: str) -> str:
     """Escape HTML and apply non-destructive inline visual styling while keeping 100% verbatim characters."""
     escaped = html.escape(raw_text, quote=False)
 
-    # Style [UNCLEAR: ...] inline annotations in muted italic philological spans
+    # Wrap any inline Arabic-script demonstrations (e.g. Pages 40, 44, 45 editorial overrides)
+    escaped = ARABIC_SPAN_RE.sub(r'<span class="ms-ar-inline">\1</span>', escaped)
+
+    # Style long runs of [U+XXXX] opaque-glyph placeholders (e.g., Page 95) in compact philological micro-type
     escaped = re.sub(
-        r"(\[UNCLEAR:[^\]]*\])",
+        r"((?:\[U\+[0-9A-Fa-f]{4,6}\]\s*){3,})",
+        r'<span class="ms-glyph-run">\1</span>',
+        escaped,
+    )
+
+    # Style [UNCLEAR: ...], [Translator's note: ...], [The source text continues:], and single [U+XXXX] tokens
+    escaped = re.sub(
+        r"(\[(?:UNCLEAR:|Translator&#x27;s note:|Translator's note:|The source text continues:|"
+        r"The following wording|The sentence continues|U\+[0-9A-Fa-f]{4,6})[^\]]*\])",
         r'<span class="ms-unclear">\1</span>',
         escaped,
         flags=re.DOTALL,
@@ -342,10 +402,13 @@ def render_block_html(page_num: int, block_idx: int, block: str) -> str:
             return '<div class="ms-asterisk">*</div>'
         if s.startswith("❖"):
             return f'<div class="ms-ornament-heading">{style_inline_verbatim(s)}</div>'
-        if STANDALONE_HEADING_RE.match(s):
+        if STANDALONE_HEADING_RE.match(s) or s.startswith("## "):
             return f'<h3 class="ms-subheading">{html.escape(s, quote=False)}</h3>'
 
-    # 8. Reflowed prose paragraphs (preserving 100% of words/characters verbatim, splitting on structural openers)
+    # 8. Reflowed prose & verse paragraphs (preserving 100% of words/characters verbatim)
+    verse_line_count = sum(1 for ln in lines if " * " in ln and not NEW_PARA_START_RE.match(ln))
+    treat_star_as_verse = verse_line_count >= 2
+
     paras: List[Tuple[str, List[str]]] = []
     cur_lines: List[str] = []
 
@@ -362,9 +425,12 @@ def render_block_html(page_num: int, block_idx: int, block: str) -> str:
         elif ln.startswith("❖"):
             flush_cur()
             paras.append(("orn", [ln]))
-        elif STANDALONE_HEADING_RE.match(ln):
+        elif STANDALONE_HEADING_RE.match(ln) or ln.startswith("## "):
             flush_cur()
             paras.append(("h3", [ln]))
+        elif treat_star_as_verse and " * " in ln:
+            flush_cur()
+            paras.append(("verse", [ln]))
         elif cur_lines and NEW_PARA_START_RE.match(ln):
             flush_cur()
             cur_lines.append(ln)
@@ -381,6 +447,8 @@ def render_block_html(page_num: int, block_idx: int, block: str) -> str:
             rendered.append(f'<div class="ms-ornament-heading">{style_inline_verbatim(joined)}</div>')
         elif kind == "h3":
             rendered.append(f'<h3 class="ms-subheading">{html.escape(joined, quote=False)}</h3>')
+        elif kind == "verse":
+            rendered.append(f'<div class="ms-verse-line">{style_inline_verbatim(joined)}</div>')
         else:
             rendered.append(f'<p class="ms-para">{style_inline_verbatim(joined)}</p>')
     return "\n".join(rendered)
@@ -672,6 +740,7 @@ a {
   border-radius: 2px;
   margin-left: 1.5mm;
   font-style: normal;
+  white-space: nowrap;
 }
 .toc-dots {
   flex: 0 1 12mm;
@@ -799,6 +868,28 @@ a {
   background: #f5f1e8;
   padding: 0.1mm 1.2mm;
   border-radius: 2px;
+}
+.ms-glyph-run {
+  font-size: 6pt;
+  line-height: 1.18;
+  color: #827566;
+  background: #f7f3eb;
+  padding: 0.2mm 1mm;
+  border-radius: 2px;
+}
+.ms-ar-inline {
+  font-family: 'Traditional Arabic', 'Aldhabi', 'Segoe UI', serif;
+  font-size: 1.18em;
+  direction: rtl;
+  unicode-bidi: isolate;
+  color: #4a2e10;
+}
+.ms-verse-line {
+  margin: 0 0 1.4mm 4mm;
+  padding-left: 3mm;
+  text-indent: -3mm;
+  border-left: 1.2pt solid #dccab0;
+  text-align: left;
 }
 .ms-subheading {
   font-size: 10.6pt;
@@ -953,6 +1044,10 @@ a {
   max-width: 136mm;
   max-height: 112mm;
 }
+.ms-fig-fullplate .ms-fig-frame img {
+  max-width: 150mm;
+  max-height: 184mm;
+}
 .ms-figcaption {
   margin: 1.6mm auto 0 auto;
   max-width: 152mm;
@@ -1013,7 +1108,7 @@ def build_html_document(
             <div class="cover-edition-title">Verbatim English Edition · Physical Pages 1–{end_page}</div>
             <div class="cover-edition-desc">
               Unabridged, word-for-word English translation aligned to the canonical Arabic witness
-              (Printed Folios 1–86), preserving all <strong>{len([f for f in FIGURES if f.page <= end_page])} original manuscript diagrams</strong>,
+              (Printed Folios 1–{max(1, end_page - 6)}), preserving all <strong>{len([f for f in FIGURES if f.page <= end_page])} original manuscript diagrams</strong>,
               concentric circles (<em>dawāʾir</em>), magic squares (<em>awfāq</em>), talismanic seals (<em>khawātim</em>),
               and lunar-mansion star-cluster asterisms at 300 DPI.
             </div>
@@ -1071,7 +1166,7 @@ def build_html_document(
 
       <table class="meta-grid">
         <tr><td>Source Manuscript</td><td><em>Shams al-Maʿārif al-Kubrā wa Laṭāʾif al-ʿAwārif</em> (4 parts in 1 vol., Cairo: Muṣṭafā al-Bābī al-Ḥalabī, 1927; McGill Library RBSC Islamic BF 1410 B8 1927)</td></tr>
-        <tr><td>Completed Scope</td><td>Physical Scan Pages 1–{end_page} of 604 (Printed Folios 1–86; all committed V2 pages in job <code>local-43c73d83…</code>)</td></tr>
+        <tr><td>Completed Scope</td><td>Physical Scan Pages 1–{end_page} of 604 (Printed Folios 1–{max(1, end_page - 6)}; all committed Translation Alignment V2 pages &amp; integrated parallel editorial overrides)</td></tr>
         <tr><td>Terminology Standard</td><td>IJMES Latin transliteration in target prose; Divine and Prophetic honorifics preserved per <code>docs/translation-style-v2.md</code></td></tr>
         <tr><td>Visual Plates &amp; Figures</td><td>{len([f for f in FIGURES if f.page <= end_page])} high-resolution 300-DPI archival crops embedded in situ</td></tr>
       </table>
@@ -1171,7 +1266,7 @@ def build_html_document(
             f'</div>'
         )
 
-        blocks = split_raw_blocks(en_text)
+        blocks = split_raw_blocks(en_text, pno)
         emitted_blocks[pno] = blocks
         p_figs = figs_by_page.get(pno, [])
 
@@ -1375,7 +1470,7 @@ def stamp_headers_footers_and_bookmarks(
 
     # Build Hierarchical PDF Bookmarks (Outline)
     toc: List[List] = [
-        [1, "Cover — Shams al-Maʿārif al-Kubrā (Pages 1–92)", 1],
+        [1, f"Cover — Shams al-Maʿārif al-Kubrā (Pages 1–{end_ms})", 1],
         [1, "Editorial & Reader's Guide", probe_map.get("SEC:EDITORIAL", 2)],
         [1, "Table of Contents", probe_map.get("SEC:TOC", 3)],
         [1, "Index of Manuscript Diagrams & Plates", probe_map.get("SEC:LOF", 4)],
